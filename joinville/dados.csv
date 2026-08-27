@@ -1,0 +1,31 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Joinville,América,apartamento,venda,8682.9,7343.4,10818.8,28,,agosto/2026
+Joinville,Anita Garibaldi,apartamento,venda,8939.4,7796.9,9471.5,51,,agosto/2026
+Joinville,Atiradores,apartamento,venda,10810.3,8978.1,11178.5,9,,agosto/2026
+Joinville,Aventureiro,apartamento,venda,6032.8,5278.8,6158.8,8,,agosto/2026
+Joinville,Boa Vista,apartamento,venda,5862.1,5806.5,6538.5,5,,agosto/2026
+Joinville,Bom Retiro,apartamento,venda,6762.7,6105.0,7938.3,11,,agosto/2026
+Joinville,Bucarein,apartamento,venda,6893.9,6812.0,7882.9,8,,agosto/2026
+Joinville,Centro,apartamento,venda,9453.8,8307.1,10912.4,12,,agosto/2026
+Joinville,Costa e Silva,apartamento,venda,6526.2,5436.1,7119.9,50,,agosto/2026
+Joinville,Floresta,apartamento,venda,6164.5,5178.7,6804.8,18,,agosto/2026
+Joinville,Fátima,apartamento,venda,5304.1,5248.5,7000.0,5,,agosto/2026
+Joinville,Glória,apartamento,venda,7894.7,6069.9,8633.7,21,,agosto/2026
+Joinville,Iririú,apartamento,venda,5853.6,4849.8,6273.9,16,,agosto/2026
+Joinville,Itaum,apartamento,venda,5327.0,5133.4,6376.3,7,,agosto/2026
+Joinville,Saguaçu,apartamento,venda,7094.0,6515.2,7857.1,53,,agosto/2026
+Joinville,Santo Antônio,apartamento,venda,7467.5,6287.3,8167.6,27,,agosto/2026
+Joinville,São Marcos,apartamento,venda,6176.8,5515.7,6639.5,6,,agosto/2026
+Joinville,Vila Nova,apartamento,venda,5436.5,4538.8,6279.8,10,,agosto/2026
+Joinville,Adhemar Garcia,casa,venda,5004.7,4172.6,5420.7,6,,agosto/2026
+Joinville,Aventureiro,casa,venda,6716.4,5684.9,6811.6,5,,agosto/2026
+Joinville,Bom Retiro,casa,venda,5484.1,5322.2,5707.1,5,,agosto/2026
+Joinville,Costa e Silva,casa,venda,5417.5,4241.8,7080.6,5,,agosto/2026
+Joinville,Floresta,casa,venda,3571.4,3550.0,5985.9,5,,agosto/2026
+Joinville,Jarivatuba,casa,venda,4736.8,4253.7,5350.2,7,,agosto/2026
+Joinville,João Costa,casa,venda,5058.0,4135.3,5245.5,5,,agosto/2026
+Joinville,Paranaguamirim,casa,venda,2827.0,2362.4,4487.5,9,,agosto/2026
+Joinville,Petrópolis,casa,venda,3435.1,2503.7,3909.1,5,,agosto/2026
+Joinville,Vila Nova,casa,venda,5518.7,4668.9,6177.1,10,,agosto/2026
+Joinville,Floresta,terreno,venda,959.9,812.4,970.9,5,,agosto/2026
+Joinville,Itaum,terreno,venda,571.9,519.7,724.4,5,,agosto/2026
