@@ -3,31 +3,31 @@
  "coleta": "agosto/2026",
  "atualizado": "2026-08-27",
  "regra": "mediana por bairro, mínimo 5 anúncios com área informada, sem repetir anúncio entre fontes",
- "n_fontes": 13,
+ "n_fontes": 18,
  "segmentos": {
   "apartamento": {
    "geral": {
     "venda": {
-     "mediana": 6200.3,
-     "n": 1027,
-     "p25": 5244.9,
-     "p75": 7612.6
+     "mediana": 6272.7,
+     "n": 1285,
+     "p25": 5270.3,
+     "p75": 7771.0
     },
     "aluguel": {
-     "mediana": 32.3,
-     "n": 500,
-     "p25": 27.1,
-     "p75": 39.4
+     "mediana": 32.5,
+     "n": 515,
+     "p25": 27.2,
+     "p75": 39.3
     },
-    "yield_anual_pct": 6.25
+    "yield_anual_pct": 6.22
    },
    "bairros": {
     "Amizade": {
      "venda": {
-      "mediana": 5639.1,
-      "n": 47,
-      "p25": 4942.8,
-      "p75": 6655.8
+      "mediana": 5648.8,
+      "n": 56,
+      "p25": 4966.8,
+      "p75": 6770.1
      },
      "aluguel": {
       "mediana": 30.8,
@@ -35,58 +35,58 @@
       "p25": 27.3,
       "p75": 33.9
      },
-     "yield_anual_pct": 6.55,
+     "yield_anual_pct": 6.54,
      "area_mediana_aluguel_m2": 70,
      "aluguel_tipico": 2150
     },
     "Baependi": {
      "venda": {
-      "mediana": 6730.8,
-      "n": 73,
-      "p25": 5446.6,
-      "p75": 7778.7
+      "mediana": 6694.8,
+      "n": 84,
+      "p25": 5493.1,
+      "p75": 7860.8
      },
      "aluguel": {
-      "mediana": 37.0,
-      "n": 31,
-      "p25": 33.4,
+      "mediana": 37.4,
+      "n": 32,
+      "p25": 33.3,
       "p75": 44.2
      },
-     "yield_anual_pct": 6.6,
+     "yield_anual_pct": 6.7,
      "area_mediana_aluguel_m2": 60,
      "aluguel_tipico": 2200
     },
     "Barra do Rio Cerro": {
      "venda": {
-      "mediana": 5517.2,
-      "n": 37,
-      "p25": 4849.8,
-      "p75": 6302.5
+      "mediana": 5485.9,
+      "n": 44,
+      "p25": 4847.5,
+      "p75": 6206.7
      },
      "aluguel": {
-      "mediana": 29.3,
-      "n": 23,
-      "p25": 27.0,
-      "p75": 40.1
+      "mediana": 29.5,
+      "n": 25,
+      "p25": 27.5,
+      "p75": 40.9
      },
-     "yield_anual_pct": 6.37,
+     "yield_anual_pct": 6.45,
      "area_mediana_aluguel_m2": 70,
      "aluguel_tipico": 1995
     },
     "Barra do Rio Molha": {
      "venda": {
       "mediana": 6745.6,
-      "n": 16,
-      "p25": 5661.9,
-      "p75": 8613.1
+      "n": 18,
+      "p25": 5563.8,
+      "p75": 8687.3
      }
     },
     "Centenário": {
      "venda": {
-      "mediana": 6413.0,
-      "n": 9,
-      "p25": 5526.3,
-      "p75": 7304.3
+      "mediana": 6322.4,
+      "n": 10,
+      "p25": 5579.2,
+      "p75": 7093.0
      },
      "aluguel": {
       "mediana": 32.0,
@@ -94,42 +94,42 @@
       "p25": 27.8,
       "p75": 33.0
      },
-     "yield_anual_pct": 5.99,
+     "yield_anual_pct": 6.07,
      "area_mediana_aluguel_m2": 117,
      "aluguel_tipico": 3400
     },
     "Centro": {
      "venda": {
-      "mediana": 7474.2,
-      "n": 220,
-      "p25": 5792.2,
-      "p75": 9798.6
+      "mediana": 7416.5,
+      "n": 288,
+      "p25": 5804.3,
+      "p75": 9761.3
      },
      "aluguel": {
       "mediana": 34.1,
-      "n": 82,
+      "n": 86,
       "p25": 27.5,
       "p75": 44.6
      },
-     "yield_anual_pct": 5.47,
+     "yield_anual_pct": 5.52,
      "area_mediana_aluguel_m2": 91,
      "condominio_mediano": 400,
      "aluguel_tipico": 2900
     },
     "Chico de Paula": {
      "venda": {
-      "mediana": 5254.2,
-      "n": 13,
-      "p25": 4915.3,
-      "p75": 6349.2
+      "mediana": 5530.4,
+      "n": 16,
+      "p25": 4931.5,
+      "p75": 6566.3
      }
     },
     "Czerniewicz": {
      "venda": {
-      "mediana": 6072.1,
-      "n": 58,
-      "p25": 5429.2,
-      "p75": 6896.1
+      "mediana": 6091.5,
+      "n": 67,
+      "p25": 5421.1,
+      "p75": 6923.8
      },
      "aluguel": {
       "mediana": 32.1,
@@ -137,7 +137,7 @@
       "p25": 27.1,
       "p75": 37.8
      },
-     "yield_anual_pct": 6.34,
+     "yield_anual_pct": 6.32,
      "area_mediana_aluguel_m2": 80,
      "aluguel_tipico": 2425
     },
@@ -151,27 +151,27 @@
     },
     "Ilha da Figueira": {
      "venda": {
-      "mediana": 5587.8,
-      "n": 20,
-      "p25": 5261.0,
-      "p75": 6208.3
+      "mediana": 5506.4,
+      "n": 26,
+      "p25": 5260.2,
+      "p75": 6164.9
      },
      "aluguel": {
-      "mediana": 32.9,
-      "n": 24,
-      "p25": 26.6,
-      "p75": 39.7
+      "mediana": 34.7,
+      "n": 26,
+      "p25": 26.8,
+      "p75": 38.8
      },
-     "yield_anual_pct": 7.07,
+     "yield_anual_pct": 7.56,
      "area_mediana_aluguel_m2": 70,
      "aluguel_tipico": 1950
     },
     "Jaraguá 99": {
      "venda": {
-      "mediana": 5643.6,
-      "n": 20,
-      "p25": 5236.5,
-      "p75": 6259.9
+      "mediana": 5699.0,
+      "n": 21,
+      "p25": 5245.9,
+      "p75": 6289.5
      },
      "aluguel": {
       "mediana": 32.3,
@@ -179,17 +179,17 @@
       "p25": 27.2,
       "p75": 35.8
      },
-     "yield_anual_pct": 6.87,
+     "yield_anual_pct": 6.8,
      "area_mediana_aluguel_m2": 52,
      "condominio_mediano": 290,
      "aluguel_tipico": 1775
     },
     "Jaraguá Esquerdo": {
      "venda": {
-      "mediana": 6705.9,
-      "n": 79,
-      "p25": 6048.8,
-      "p75": 7604.2
+      "mediana": 6752.0,
+      "n": 97,
+      "p25": 5995.6,
+      "p75": 7589.3
      },
      "aluguel": {
       "mediana": 35.6,
@@ -197,17 +197,17 @@
       "p25": 32.3,
       "p75": 40.0
      },
-     "yield_anual_pct": 6.37,
+     "yield_anual_pct": 6.33,
      "area_mediana_aluguel_m2": 70,
      "condominio_mediano": 280,
      "aluguel_tipico": 2500
     },
     "João Pessoa": {
      "venda": {
-      "mediana": 5714.4,
-      "n": 24,
-      "p25": 5263.5,
-      "p75": 6142.1
+      "mediana": 5686.3,
+      "n": 27,
+      "p25": 5027.9,
+      "p75": 6119.0
      },
      "aluguel": {
       "mediana": 32.4,
@@ -215,17 +215,17 @@
       "p25": 28.6,
       "p75": 35.5
      },
-     "yield_anual_pct": 6.8,
+     "yield_anual_pct": 6.84,
      "area_mediana_aluguel_m2": 56,
      "condominio_mediano": 260,
      "aluguel_tipico": 1790
     },
     "Nereu Ramos": {
      "venda": {
-      "mediana": 5036.8,
-      "n": 24,
-      "p25": 4459.6,
-      "p75": 5441.4
+      "mediana": 5000.0,
+      "n": 27,
+      "p25": 4452.4,
+      "p75": 5442.4
      },
      "aluguel": {
       "mediana": 28.9,
@@ -233,67 +233,67 @@
       "p25": 25.4,
       "p75": 32.7
      },
-     "yield_anual_pct": 6.89,
+     "yield_anual_pct": 6.94,
      "area_mediana_aluguel_m2": 55,
      "condominio_mediano": 225,
      "aluguel_tipico": 1800
     },
     "Nova Brasília": {
      "venda": {
-      "mediana": 8550.2,
-      "n": 39,
-      "p25": 5712.6,
-      "p75": 10182.1
+      "mediana": 8523.6,
+      "n": 50,
+      "p25": 5951.4,
+      "p75": 11818.6
      },
      "aluguel": {
       "mediana": 28.0,
-      "n": 16,
-      "p25": 24.1,
-      "p75": 58.4
+      "n": 17,
+      "p25": 24.4,
+      "p75": 58.3
      },
-     "yield_anual_pct": 3.93,
+     "yield_anual_pct": 3.94,
      "area_mediana_aluguel_m2": 80,
      "aluguel_tipico": 3000
     },
     "Rau": {
      "venda": {
-      "mediana": 5833.3,
-      "n": 37,
-      "p25": 5125.0,
-      "p75": 6871.5
+      "mediana": 6250.0,
+      "n": 45,
+      "p25": 5283.8,
+      "p75": 6908.6
      },
      "aluguel": {
-      "mediana": 38.0,
-      "n": 20,
-      "p25": 29.1,
-      "p75": 47.5
+      "mediana": 37.3,
+      "n": 22,
+      "p25": 29.3,
+      "p75": 46.1
      },
-     "yield_anual_pct": 7.82,
+     "yield_anual_pct": 7.16,
      "area_mediana_aluguel_m2": 60,
      "aluguel_tipico": 2200
     },
     "Ribeirão Cavalo": {
      "venda": {
-      "mediana": 4279.6,
-      "n": 13,
-      "p25": 3835.5,
-      "p75": 4761.9
+      "mediana": 4167.6,
+      "n": 14,
+      "p25": 3862.1,
+      "p75": 4694.8
      }
     },
     "Santa Luzia": {
      "venda": {
-      "mediana": 4083.1,
-      "n": 8,
-      "p25": 3680.9,
-      "p75": 4421.9
+      "mediana": 3960.0,
+      "n": 11,
+      "p25": 3655.8,
+      "p75": 4497.7
      }
     },
     "São Luís": {
      "venda": {
-      "mediana": 6330.4,
-      "n": 25,
-      "p25": 5750.0,
-      "p75": 7042.3
+      "mediana": 6306.3,
+      "n": 35,
+      "p25": 5641.8,
+      "p75": 7057.6
      },
      "aluguel": {
       "mediana": 38.4,
@@ -301,16 +301,16 @@
       "p25": 32.9,
       "p75": 41.1
      },
-     "yield_anual_pct": 7.28,
+     "yield_anual_pct": 7.31,
      "area_mediana_aluguel_m2": 56,
      "aluguel_tipico": 2100
     },
     "Tifa Martins": {
      "venda": {
-      "mediana": 5254.2,
-      "n": 9,
-      "p25": 4915.3,
-      "p75": 6326.5
+      "mediana": 5161.0,
+      "n": 10,
+      "p25": 4788.3,
+      "p75": 6178.9
      },
      "aluguel": {
       "mediana": 28.6,
@@ -318,24 +318,24 @@
       "p25": 24.1,
       "p75": 31.3
      },
-     "yield_anual_pct": 6.53,
+     "yield_anual_pct": 6.65,
      "area_mediana_aluguel_m2": 70,
      "aluguel_tipico": 1925
     },
     "Três Rios do Norte": {
      "venda": {
-      "mediana": 5205.5,
-      "n": 23,
-      "p25": 4342.7,
-      "p75": 6006.2
+      "mediana": 5371.4,
+      "n": 28,
+      "p25": 4451.3,
+      "p75": 5973.6
      }
     },
     "Três Rios do Sul": {
      "venda": {
-      "mediana": 5360.1,
-      "n": 27,
-      "p25": 4801.4,
-      "p75": 6123.5
+      "mediana": 5589.9,
+      "n": 34,
+      "p25": 4924.2,
+      "p75": 6276.8
      },
      "aluguel": {
       "mediana": 35.2,
@@ -343,16 +343,16 @@
       "p25": 26.3,
       "p75": 36.5
      },
-     "yield_anual_pct": 7.88,
+     "yield_anual_pct": 7.56,
      "area_mediana_aluguel_m2": 69,
      "aluguel_tipico": 2250
     },
     "Vieira": {
      "venda": {
       "mediana": 5617.3,
-      "n": 29,
-      "p25": 4730.2,
-      "p75": 6500.0
+      "n": 35,
+      "p25": 4740.1,
+      "p75": 6593.8
      },
      "aluguel": {
       "mediana": 26.2,
@@ -366,10 +366,10 @@
     },
     "Vila Lalau": {
      "venda": {
-      "mediana": 6696.1,
-      "n": 21,
-      "p25": 6480.5,
-      "p75": 8461.5
+      "mediana": 6727.3,
+      "n": 31,
+      "p25": 6020.9,
+      "p75": 8147.7
      },
      "aluguel": {
       "mediana": 34.6,
@@ -377,51 +377,51 @@
       "p25": 26.7,
       "p75": 40.0
      },
-     "yield_anual_pct": 6.2,
+     "yield_anual_pct": 6.17,
      "area_mediana_aluguel_m2": 65,
      "condominio_mediano": 290,
      "aluguel_tipico": 2250
     },
     "Vila Lenzi": {
      "venda": {
-      "mediana": 5846.5,
-      "n": 34,
-      "p25": 5655.8,
-      "p75": 6682.5
+      "mediana": 5872.2,
+      "n": 46,
+      "p25": 5647.0,
+      "p75": 6512.1
      },
      "aluguel": {
-      "mediana": 34.4,
-      "n": 13,
-      "p25": 32.6,
-      "p75": 38.0
+      "mediana": 34.1,
+      "n": 14,
+      "p25": 31.6,
+      "p75": 37.8
      },
-     "yield_anual_pct": 7.06,
+     "yield_anual_pct": 6.97,
      "area_mediana_aluguel_m2": 61,
-     "aluguel_tipico": 2150
+     "aluguel_tipico": 2100
     },
     "Vila Nova": {
      "venda": {
-      "mediana": 7461.7,
-      "n": 88,
-      "p25": 6061.1,
-      "p75": 10878.2
+      "mediana": 7506.4,
+      "n": 124,
+      "p25": 6078.1,
+      "p75": 10802.7
      },
      "aluguel": {
       "mediana": 31.6,
-      "n": 30,
-      "p25": 27.1,
-      "p75": 40.7
+      "n": 32,
+      "p25": 27.3,
+      "p75": 38.8
      },
-     "yield_anual_pct": 5.08,
+     "yield_anual_pct": 5.05,
      "area_mediana_aluguel_m2": 80,
      "aluguel_tipico": 2700
     },
     "Água Verde": {
      "venda": {
-      "mediana": 5901.4,
-      "n": 6,
-      "p25": 5414.0,
-      "p75": 6163.3
+      "mediana": 5957.4,
+      "n": 9,
+      "p25": 5270.3,
+      "p75": 6607.1
      },
      "aluguel": {
       "mediana": 28.0,
@@ -429,54 +429,54 @@
       "p25": 24.8,
       "p75": 32.7
      },
-     "yield_anual_pct": 5.69,
+     "yield_anual_pct": 5.64,
      "area_mediana_aluguel_m2": 60,
      "aluguel_tipico": 2000
     }
    },
    "n_anuncios": {
-    "venda": 1206,
-    "aluguel": 569
+    "venda": 1518,
+    "aluguel": 647
    }
   },
   "casa": {
    "geral": {
     "venda": {
-     "mediana": 5345.9,
-     "n": 756,
-     "p25": 4158.1,
-     "p75": 6629.2
+     "mediana": 5416.7,
+     "n": 1282,
+     "p25": 4311.7,
+     "p75": 6770.4
     },
     "aluguel": {
-     "mediana": 30.6,
-     "n": 181,
-     "p25": 26.8,
-     "p75": 37.0
+     "mediana": 30.4,
+     "n": 192,
+     "p25": 26.4,
+     "p75": 36.9
     },
-    "yield_anual_pct": 6.87
+    "yield_anual_pct": 6.73
    },
    "bairros": {
     "Amizade": {
      "venda": {
-      "mediana": 5932.3,
-      "n": 72,
-      "p25": 5021.6,
-      "p75": 7162.7
+      "mediana": 6052.6,
+      "n": 105,
+      "p25": 5106.4,
+      "p75": 7166.7
      },
      "aluguel": {
-      "mediana": 29.0,
-      "n": 10,
-      "p25": 27.3,
-      "p75": 37.2
+      "mediana": 29.3,
+      "n": 11,
+      "p25": 27.7,
+      "p75": 36.6
      },
-     "yield_anual_pct": 5.87
+     "yield_anual_pct": 5.81
     },
     "Baependi": {
      "venda": {
-      "mediana": 5490.2,
-      "n": 13,
-      "p25": 5194.8,
-      "p75": 9937.5
+      "mediana": 5452.9,
+      "n": 18,
+      "p25": 4218.2,
+      "p75": 9425.6
      },
      "aluguel": {
       "mediana": 32.3,
@@ -484,14 +484,14 @@
       "p25": 23.5,
       "p75": 43.6
      },
-     "yield_anual_pct": 7.06
+     "yield_anual_pct": 7.11
     },
     "Barra do Rio Cerro": {
      "venda": {
-      "mediana": 5527.8,
-      "n": 46,
-      "p25": 4132.3,
-      "p75": 6975.1
+      "mediana": 5875.6,
+      "n": 84,
+      "p25": 4317.3,
+      "p75": 6997.9
      },
      "aluguel": {
       "mediana": 30.0,
@@ -499,14 +499,14 @@
       "p25": 26.6,
       "p75": 36.7
      },
-     "yield_anual_pct": 6.51
+     "yield_anual_pct": 6.13
     },
     "Barra do Rio Molha": {
      "venda": {
-      "mediana": 4022.4,
-      "n": 5,
-      "p25": 3869.0,
-      "p75": 4680.9
+      "mediana": 4351.6,
+      "n": 12,
+      "p25": 3031.2,
+      "p75": 6859.5
      },
      "aluguel": {
       "mediana": 28.0,
@@ -514,37 +514,37 @@
       "p25": 27.3,
       "p75": 31.4
      },
-     "yield_anual_pct": 8.35
+     "yield_anual_pct": 7.72
     },
     "Centro": {
      "venda": {
-      "mediana": 6891.1,
-      "n": 39,
-      "p25": 5427.1,
-      "p75": 9123.3
+      "mediana": 6854.7,
+      "n": 60,
+      "p25": 5300.0,
+      "p75": 9096.4
      },
      "aluguel": {
-      "mediana": 37.5,
-      "n": 15,
-      "p25": 25.4,
-      "p75": 50.3
+      "mediana": 35.0,
+      "n": 21,
+      "p25": 25.2,
+      "p75": 42.4
      },
-     "yield_anual_pct": 6.53
+     "yield_anual_pct": 6.13
     },
     "Chico de Paula": {
      "venda": {
-      "mediana": 5543.2,
-      "n": 25,
-      "p25": 2781.8,
-      "p75": 7750.0
+      "mediana": 5188.3,
+      "n": 44,
+      "p25": 3360.8,
+      "p75": 7077.7
      }
     },
     "Czerniewicz": {
      "venda": {
-      "mediana": 5000.0,
-      "n": 27,
-      "p25": 3635.0,
-      "p75": 6496.9
+      "mediana": 5161.3,
+      "n": 39,
+      "p25": 3872.0,
+      "p75": 6448.2
      },
      "aluguel": {
       "mediana": 36.8,
@@ -552,22 +552,22 @@
       "p25": 30.6,
       "p75": 37.0
      },
-     "yield_anual_pct": 8.83
+     "yield_anual_pct": 8.56
     },
     "Estrada Nova": {
      "venda": {
-      "mediana": 4794.7,
-      "n": 20,
-      "p25": 3767.9,
-      "p75": 5676.3
+      "mediana": 5201.4,
+      "n": 36,
+      "p25": 4471.2,
+      "p75": 6309.4
      }
     },
     "Ilha da Figueira": {
      "venda": {
-      "mediana": 5000.0,
-      "n": 45,
-      "p25": 3478.3,
-      "p75": 6538.5
+      "mediana": 5144.5,
+      "n": 67,
+      "p25": 3907.3,
+      "p75": 6521.3
      },
      "aluguel": {
       "mediana": 29.6,
@@ -575,61 +575,68 @@
       "p25": 26.4,
       "p75": 33.4
      },
-     "yield_anual_pct": 7.1
+     "yield_anual_pct": 6.9
     },
     "Jaraguá 84": {
      "venda": {
-      "mediana": 4961.8,
-      "n": 8,
-      "p25": 3696.5,
-      "p75": 5660.4
+      "mediana": 4814.8,
+      "n": 23,
+      "p25": 4219.2,
+      "p75": 5604.6
      }
     },
     "Jaraguá 99": {
      "venda": {
-      "mediana": 5019.9,
-      "n": 30,
-      "p25": 3845.8,
-      "p75": 5800.0
+      "mediana": 5272.7,
+      "n": 65,
+      "p25": 4230.8,
+      "p75": 5825.2
      },
      "aluguel": {
-      "mediana": 33.5,
-      "n": 6,
-      "p25": 28.2,
-      "p75": 36.6
+      "mediana": 30.7,
+      "n": 7,
+      "p25": 24.8,
+      "p75": 36.5
      },
-     "yield_anual_pct": 8.01
+     "yield_anual_pct": 6.99
     },
     "Jaraguá Esquerdo": {
      "venda": {
-      "mediana": 6470.6,
-      "n": 42,
-      "p25": 4892.9,
-      "p75": 8574.8
-     }
+      "mediana": 6589.8,
+      "n": 88,
+      "p25": 4995.0,
+      "p75": 7990.2
+     },
+     "aluguel": {
+      "mediana": 40.1,
+      "n": 6,
+      "p25": 21.0,
+      "p75": 47.2
+     },
+     "yield_anual_pct": 7.3
     },
     "João Pessoa": {
      "venda": {
-      "mediana": 5330.4,
-      "n": 22,
-      "p25": 4283.8,
-      "p75": 6091.1
+      "mediana": 5161.1,
+      "n": 38,
+      "p25": 4255.8,
+      "p75": 5769.8
      }
     },
     "Nereu Ramos": {
      "venda": {
-      "mediana": 5483.0,
-      "n": 12,
-      "p25": 4875.7,
-      "p75": 6743.4
+      "mediana": 5316.4,
+      "n": 24,
+      "p25": 4694.4,
+      "p75": 6487.3
      }
     },
     "Nova Brasília": {
      "venda": {
-      "mediana": 5975.4,
-      "n": 20,
+      "mediana": 6036.2,
+      "n": 24,
       "p25": 4973.4,
-      "p75": 8888.9
+      "p75": 9666.7
      },
      "aluguel": {
       "mediana": 31.5,
@@ -637,14 +644,14 @@
       "p25": 23.3,
       "p75": 37.7
      },
-     "yield_anual_pct": 6.33
+     "yield_anual_pct": 6.26
     },
     "Rau": {
      "venda": {
       "mediana": 5625.0,
-      "n": 17,
+      "n": 33,
       "p25": 4356.2,
-      "p75": 6532.7
+      "p75": 7551.7
      },
      "aluguel": {
       "mediana": 31.9,
@@ -656,10 +663,10 @@
     },
     "Ribeirão Cavalo": {
      "venda": {
-      "mediana": 4615.4,
-      "n": 7,
-      "p25": 3628.3,
-      "p75": 5094.1
+      "mediana": 4731.9,
+      "n": 10,
+      "p25": 4253.6,
+      "p75": 5374.4
      },
      "aluguel": {
       "mediana": 26.1,
@@ -667,46 +674,46 @@
       "p25": 24.8,
       "p75": 27.5
      },
-     "yield_anual_pct": 6.79
+     "yield_anual_pct": 6.62
     },
     "Rio Cerro I": {
      "venda": {
-      "mediana": 5110.0,
-      "n": 8,
-      "p25": 4654.3,
-      "p75": 5727.6
+      "mediana": 5689.7,
+      "n": 11,
+      "p25": 4911.9,
+      "p75": 6326.8
      }
     },
     "Rio da Luz": {
      "venda": {
-      "mediana": 5432.0,
-      "n": 6,
-      "p25": 4391.9,
-      "p75": 6390.4
+      "mediana": 4835.7,
+      "n": 17,
+      "p25": 4054.1,
+      "p75": 5690.0
      }
     },
     "Santa Luzia": {
      "venda": {
-      "mediana": 2343.8,
-      "n": 5,
-      "p25": 2000.0,
-      "p75": 3500.0
+      "mediana": 4219.5,
+      "n": 10,
+      "p25": 2536.7,
+      "p75": 5756.2
      }
     },
     "Santo Antônio": {
      "venda": {
-      "mediana": 4143.6,
-      "n": 6,
-      "p25": 3246.5,
-      "p75": 4803.5
+      "mediana": 4477.6,
+      "n": 9,
+      "p25": 3058.8,
+      "p75": 4912.1
      }
     },
     "São Luís": {
      "venda": {
-      "mediana": 5070.1,
-      "n": 28,
-      "p25": 4112.3,
-      "p75": 6331.8
+      "mediana": 4945.9,
+      "n": 49,
+      "p25": 3937.0,
+      "p75": 6227.7
      },
      "aluguel": {
       "mediana": 36.5,
@@ -714,22 +721,22 @@
       "p25": 32.0,
       "p75": 42.3
      },
-     "yield_anual_pct": 8.64
+     "yield_anual_pct": 8.86
     },
     "Tifa Martins": {
      "venda": {
-      "mediana": 5063.6,
-      "n": 32,
-      "p25": 4112.8,
-      "p75": 5911.4
+      "mediana": 4954.5,
+      "n": 54,
+      "p25": 4062.4,
+      "p75": 5875.6
      }
     },
     "Três Rios do Norte": {
      "venda": {
-      "mediana": 5041.8,
-      "n": 86,
-      "p25": 4537.7,
-      "p75": 5917.6
+      "mediana": 5072.5,
+      "n": 137,
+      "p25": 4491.7,
+      "p75": 5961.5
      },
      "aluguel": {
       "mediana": 33.3,
@@ -737,38 +744,38 @@
       "p25": 27.8,
       "p75": 34.8
      },
-     "yield_anual_pct": 7.93
+     "yield_anual_pct": 7.88
     },
     "Três Rios do Sul": {
      "venda": {
-      "mediana": 5537.9,
-      "n": 26,
-      "p25": 4977.3,
-      "p75": 6463.6
+      "mediana": 5532.3,
+      "n": 47,
+      "p25": 4857.4,
+      "p75": 6693.3
      }
     },
     "Vieira": {
      "venda": {
       "mediana": 6112.0,
-      "n": 5,
-      "p25": 5208.3,
-      "p75": 7428.6
+      "n": 7,
+      "p25": 4841.2,
+      "p75": 6844.5
      }
     },
     "Vila Lalau": {
      "venda": {
-      "mediana": 5637.2,
-      "n": 20,
-      "p25": 4858.9,
-      "p75": 6644.9
+      "mediana": 5697.6,
+      "n": 28,
+      "p25": 5045.0,
+      "p75": 7084.7
      }
     },
     "Vila Lenzi": {
      "venda": {
-      "mediana": 5016.7,
-      "n": 45,
-      "p25": 2393.6,
-      "p75": 6515.8
+      "mediana": 5000.0,
+      "n": 67,
+      "p25": 3610.5,
+      "p75": 6099.2
      },
      "aluguel": {
       "mediana": 30.6,
@@ -776,14 +783,14 @@
       "p25": 29.0,
       "p75": 32.9
      },
-     "yield_anual_pct": 7.32
+     "yield_anual_pct": 7.34
     },
     "Vila Nova": {
      "venda": {
-      "mediana": 6131.8,
-      "n": 16,
-      "p25": 4120.8,
-      "p75": 8061.5
+      "mediana": 6500.0,
+      "n": 33,
+      "p25": 5000.0,
+      "p75": 11036.3
      },
      "aluguel": {
       "mediana": 29.6,
@@ -791,214 +798,246 @@
       "p25": 28.4,
       "p75": 35.7
      },
-     "yield_anual_pct": 5.79
+     "yield_anual_pct": 5.46
     },
     "Água Verde": {
      "venda": {
-      "mediana": 4345.3,
-      "n": 14,
-      "p25": 2753.6,
-      "p75": 5282.0
+      "mediana": 4872.5,
+      "n": 23,
+      "p25": 3496.0,
+      "p75": 6579.5
      }
     }
    },
    "n_anuncios": {
-    "venda": 903,
-    "aluguel": 214
+    "venda": 1545,
+    "aluguel": 301
    }
   },
   "terreno": {
    "geral": {
     "venda": {
-     "mediana": 900.7,
-     "n": 373,
-     "p25": 577.8,
-     "p75": 1250.0
+     "mediana": 895.5,
+     "n": 617,
+     "p25": 580.9,
+     "p75": 1277.2
     }
    },
    "bairros": {
     "Amizade": {
      "venda": {
-      "mediana": 1295.3,
-      "n": 27,
-      "p25": 1061.5,
-      "p75": 1507.2
+      "mediana": 1346.2,
+      "n": 43,
+      "p25": 1116.4,
+      "p75": 1500.0
      }
     },
     "Baependi": {
      "venda": {
-      "mediana": 1348.8,
-      "n": 10,
-      "p25": 1199.6,
-      "p75": 1593.6
+      "mediana": 1443.2,
+      "n": 15,
+      "p25": 1152.7,
+      "p75": 1696.8
      }
     },
     "Barra do Rio Cerro": {
      "venda": {
-      "mediana": 902.8,
-      "n": 31,
-      "p25": 388.5,
-      "p75": 1187.7
+      "mediana": 850.0,
+      "n": 57,
+      "p25": 389.3,
+      "p75": 1218.5
      }
     },
     "Barra do Rio Molha": {
      "venda": {
-      "mediana": 1298.4,
-      "n": 9,
-      "p25": 1098.6,
-      "p75": 1879.2
+      "mediana": 1299.2,
+      "n": 10,
+      "p25": 1099.3,
+      "p75": 1757.9
+     }
+    },
+    "Centenário": {
+     "venda": {
+      "mediana": 1304.7,
+      "n": 5,
+      "p25": 943.4,
+      "p75": 1326.7
      }
     },
     "Centro": {
      "venda": {
-      "mediana": 2000.0,
-      "n": 25,
-      "p25": 1733.5,
-      "p75": 2897.8
+      "mediana": 2146.9,
+      "n": 44,
+      "p25": 1602.8,
+      "p75": 2822.2
      }
     },
     "Chico de Paula": {
      "venda": {
       "mediana": 897.4,
-      "n": 13,
+      "n": 17,
       "p25": 612.7,
-      "p75": 1071.4
+      "p75": 1121.2
      }
     },
     "Czerniewicz": {
      "venda": {
-      "mediana": 1215.2,
-      "n": 5,
-      "p25": 984.3,
-      "p75": 1268.3
+      "mediana": 1234.6,
+      "n": 11,
+      "p25": 1184.3,
+      "p75": 1523.8
      }
     },
     "Estrada Nova": {
      "venda": {
       "mediana": 504.1,
-      "n": 6,
-      "p25": 415.3,
-      "p75": 605.1
+      "n": 8,
+      "p25": 305.7,
+      "p75": 636.8
      }
     },
     "Ilha da Figueira": {
      "venda": {
-      "mediana": 837.0,
-      "n": 15,
-      "p25": 264.8,
-      "p75": 1137.7
+      "mediana": 1013.0,
+      "n": 28,
+      "p25": 420.1,
+      "p75": 1373.6
+     }
+    },
+    "Jaraguá 84": {
+     "venda": {
+      "mediana": 600.7,
+      "n": 7,
+      "p25": 184.7,
+      "p75": 628.1
      }
     },
     "Jaraguá 99": {
      "venda": {
-      "mediana": 683.5,
-      "n": 11,
-      "p25": 307.0,
-      "p75": 1076.1
+      "mediana": 671.8,
+      "n": 18,
+      "p25": 233.5,
+      "p75": 812.0
      }
     },
     "Jaraguá Esquerdo": {
      "venda": {
-      "mediana": 946.2,
-      "n": 16,
-      "p25": 697.1,
-      "p75": 1204.7
+      "mediana": 1002.3,
+      "n": 26,
+      "p25": 662.8,
+      "p75": 1268.0
      }
     },
     "João Pessoa": {
      "venda": {
-      "mediana": 709.1,
-      "n": 10,
-      "p25": 251.2,
-      "p75": 890.8
+      "mediana": 578.2,
+      "n": 20,
+      "p25": 277.3,
+      "p75": 851.4
      }
     },
     "Nereu Ramos": {
      "venda": {
-      "mediana": 537.0,
-      "n": 14,
+      "mediana": 554.6,
+      "n": 18,
       "p25": 404.9,
-      "p75": 617.7
+      "p75": 677.9
      }
     },
     "Nova Brasília": {
      "venda": {
-      "mediana": 1581.6,
-      "n": 5,
-      "p25": 1236.9,
-      "p75": 1588.0
+      "mediana": 1236.9,
+      "n": 7,
+      "p25": 690.6,
+      "p75": 1584.8
      }
     },
     "Rau": {
      "venda": {
-      "mediana": 907.7,
-      "n": 23,
-      "p25": 789.5,
-      "p75": 1217.3
+      "mediana": 938.3,
+      "n": 34,
+      "p25": 788.9,
+      "p75": 1237.5
+     }
+    },
+    "Ribeirão Cavalo": {
+     "venda": {
+      "mediana": 575.0,
+      "n": 6,
+      "p25": 302.2,
+      "p75": 779.3
      }
     },
     "Rio Cerro I": {
      "venda": {
-      "mediana": 376.1,
-      "n": 12,
-      "p25": 194.4,
-      "p75": 682.1
+      "mediana": 425.8,
+      "n": 14,
+      "p25": 248.6,
+      "p75": 679.4
      }
     },
     "Rio Cerro II": {
      "venda": {
-      "mediana": 326.3,
-      "n": 6,
-      "p25": 216.6,
-      "p75": 541.4
+      "mediana": 341.9,
+      "n": 12,
+      "p25": 175.4,
+      "p75": 613.8
      }
     },
     "Rio da Luz": {
      "venda": {
-      "mediana": 560.0,
-      "n": 8,
-      "p25": 438.7,
-      "p75": 746.9
+      "mediana": 518.6,
+      "n": 20,
+      "p25": 394.5,
+      "p75": 652.8
      }
     },
     "Santa Luzia": {
      "venda": {
-      "mediana": 160.2,
+      "mediana": 896.2,
+      "n": 12,
+      "p25": 137.3,
+      "p75": 1002.8
+     }
+    },
+    "Santo Antônio": {
+     "venda": {
+      "mediana": 679.0,
       "n": 5,
-      "p25": 68.6,
-      "p75": 928.6
+      "p25": 612.4,
+      "p75": 722.2
      }
     },
     "São Luís": {
      "venda": {
-      "mediana": 967.2,
-      "n": 8,
-      "p25": 415.3,
-      "p75": 1084.0
+      "mediana": 958.0,
+      "n": 13,
+      "p25": 522.0,
+      "p75": 1111.1
      }
     },
     "Tifa Martins": {
      "venda": {
-      "mediana": 923.6,
-      "n": 10,
-      "p25": 629.2,
-      "p75": 1134.8
+      "mediana": 1019.1,
+      "n": 15,
+      "p25": 629.7,
+      "p75": 1126.8
      }
     },
     "Três Rios do Norte": {
      "venda": {
-      "mediana": 680.3,
-      "n": 29,
-      "p25": 603.4,
-      "p75": 955.2
+      "mediana": 677.9,
+      "n": 55,
+      "p25": 604.3,
+      "p75": 927.6
      }
     },
     "Três Rios do Sul": {
      "venda": {
-      "mediana": 822.1,
-      "n": 11,
-      "p25": 266.1,
-      "p75": 879.1
+      "mediana": 854.7,
+      "n": 15,
+      "p25": 431.1,
+      "p75": 892.9
      }
     },
     "Vieira": {
@@ -1012,63 +1051,63 @@
     "Vila Chartres": {
      "venda": {
       "mediana": 966.1,
-      "n": 7,
-      "p25": 907.6,
-      "p75": 1000.5
+      "n": 9,
+      "p25": 883.3,
+      "p75": 1000.9
      }
     },
     "Vila Lalau": {
      "venda": {
-      "mediana": 1414.3,
-      "n": 6,
-      "p25": 917.8,
-      "p75": 1907.1
+      "mediana": 1677.9,
+      "n": 9,
+      "p25": 892.2,
+      "p75": 1931.5
      }
     },
     "Vila Lenzi": {
      "venda": {
-      "mediana": 1066.7,
-      "n": 15,
-      "p25": 771.1,
-      "p75": 1484.5
+      "mediana": 1065.8,
+      "n": 20,
+      "p25": 647.4,
+      "p75": 1380.0
      }
     },
     "Vila Nova": {
      "venda": {
-      "mediana": 1011.5,
-      "n": 12,
-      "p25": 802.2,
-      "p75": 1540.1
+      "mediana": 1332.6,
+      "n": 24,
+      "p25": 768.8,
+      "p75": 1730.6
      }
     },
     "Água Verde": {
      "venda": {
-      "mediana": 1070.3,
-      "n": 6,
-      "p25": 952.5,
-      "p75": 1101.7
+      "mediana": 1062.5,
+      "n": 11,
+      "p25": 830.1,
+      "p75": 1118.9
      }
     }
    },
    "n_anuncios": {
-    "venda": 519
+    "venda": 791
    }
   },
   "sala": {
    "geral": {
     "venda": {
-     "mediana": 6157.4,
-     "n": 16,
-     "p25": 4511.0,
-     "p75": 7558.0
+     "mediana": 6579.9,
+     "n": 22,
+     "p25": 4731.0,
+     "p75": 8742.3
     },
     "aluguel": {
-     "mediana": 43.0,
-     "n": 258,
-     "p25": 33.9,
-     "p75": 52.2
+     "mediana": 42.9,
+     "n": 271,
+     "p25": 33.4,
+     "p75": 52.9
     },
-    "yield_anual_pct": 8.38
+    "yield_anual_pct": 7.82
    },
    "bairros": {
     "Amizade": {
@@ -1089,10 +1128,10 @@
     },
     "Barra do Rio Cerro": {
      "aluguel": {
-      "mediana": 37.1,
-      "n": 22,
+      "mediana": 37.5,
+      "n": 23,
       "p25": 32.0,
-      "p75": 41.2
+      "p75": 43.2
      }
     },
     "Barra do Rio Molha": {
@@ -1105,18 +1144,18 @@
     },
     "Centro": {
      "venda": {
-      "mediana": 5668.4,
-      "n": 8,
-      "p25": 4641.4,
-      "p75": 8227.5
+      "mediana": 6818.2,
+      "n": 14,
+      "p25": 5560.5,
+      "p75": 9555.5
      },
      "aluguel": {
-      "mediana": 47.5,
-      "n": 84,
-      "p25": 36.9,
-      "p75": 65.8
+      "mediana": 47.0,
+      "n": 90,
+      "p25": 35.0,
+      "p75": 65.1
      },
-     "yield_anual_pct": 10.06
+     "yield_anual_pct": 8.27
     },
     "Chico de Paula": {
      "aluguel": {
@@ -1144,10 +1183,10 @@
     },
     "Jaraguá Esquerdo": {
      "aluguel": {
-      "mediana": 42.9,
-      "n": 13,
-      "p25": 35.7,
-      "p75": 53.1
+      "mediana": 41.4,
+      "n": 14,
+      "p25": 34.8,
+      "p75": 52.3
      }
     },
     "Nereu Ramos": {
@@ -1169,17 +1208,17 @@
     "São Luís": {
      "aluguel": {
       "mediana": 33.9,
-      "n": 5,
-      "p25": 33.9,
-      "p75": 35.5
+      "n": 6,
+      "p25": 32.8,
+      "p75": 35.1
      }
     },
     "Vila Lalau": {
      "aluguel": {
-      "mediana": 31.8,
-      "n": 6,
-      "p25": 22.3,
-      "p75": 37.7
+      "mediana": 26.2,
+      "n": 7,
+      "p25": 23.0,
+      "p75": 37.6
      }
     },
     "Vila Lenzi": {
@@ -1192,16 +1231,16 @@
     },
     "Vila Nova": {
      "aluguel": {
-      "mediana": 46.7,
-      "n": 31,
-      "p25": 39.4,
-      "p75": 66.3
+      "mediana": 47.5,
+      "n": 33,
+      "p25": 39.9,
+      "p75": 66.0
      }
     }
    },
    "n_anuncios": {
-    "venda": 17,
-    "aluguel": 258
+    "venda": 23,
+    "aluguel": 271
    }
   }
  }
