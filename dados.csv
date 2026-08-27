@@ -1,0 +1,49 @@
+bairro,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,aluguel_tipico_rs,area_mediana_aluguel_m2,condominio_mediano_rs,coleta
+Amizade,venda,5639.1,4942.8,6655.8,47,6.55,2150,70,,agosto/2026
+Amizade,aluguel,30.8,27.3,33.9,26,6.55,2150,70,,agosto/2026
+Baependi,venda,6730.8,5446.6,7778.7,73,6.67,2200,60,,agosto/2026
+Baependi,aluguel,37.4,33.4,45.0,32,6.67,2200,60,,agosto/2026
+Barra do Rio Cerro,venda,5517.2,4849.8,6302.5,37,6.37,1995,70,,agosto/2026
+Barra do Rio Cerro,aluguel,29.3,27.0,40.1,23,6.37,1995,70,,agosto/2026
+Barra do Rio Molha,venda,6745.6,5661.9,8613.1,16,,,,,agosto/2026
+Centenário,venda,6413.0,5526.3,7304.3,9,5.99,3400,117,,agosto/2026
+Centenário,aluguel,32.0,27.8,33.0,11,5.99,3400,117,,agosto/2026
+Centro,venda,7524.6,5800.1,9826.0,222,5.58,2925,91,400,agosto/2026
+Centro,aluguel,35.0,27.8,47.2,89,5.58,2925,91,400,agosto/2026
+Chico de Paula,venda,5254.2,4915.3,6349.2,13,,,,,agosto/2026
+Czerniewicz,venda,6072.1,5424.0,6921.0,60,6.34,2425,80,,agosto/2026
+Czerniewicz,aluguel,32.1,27.1,37.8,15,6.34,2425,80,,agosto/2026
+Estrada Nova,venda,5233.8,4867.6,5608.3,19,,,,,agosto/2026
+Ilha da Figueira,venda,5587.8,5261.0,6208.3,20,7.07,1950,70,,agosto/2026
+Ilha da Figueira,aluguel,32.9,26.6,39.7,24,7.07,1950,70,,agosto/2026
+Jaraguá 99,venda,5643.6,5236.5,6259.9,20,6.87,1775,52,290,agosto/2026
+Jaraguá 99,aluguel,32.3,27.2,35.8,31,6.87,1775,52,290,agosto/2026
+Jaraguá Esquerdo,venda,6705.9,6048.8,7604.2,79,6.39,2500,70,280,agosto/2026
+Jaraguá Esquerdo,aluguel,35.7,32.5,40.1,36,6.39,2500,70,280,agosto/2026
+João Pessoa,venda,5714.4,5263.5,6142.1,24,6.8,1790,56,260,agosto/2026
+João Pessoa,aluguel,32.4,28.6,35.5,22,6.8,1790,56,260,agosto/2026
+Nereu Ramos,venda,5036.8,4459.6,5441.4,24,6.89,1800,55,225,agosto/2026
+Nereu Ramos,aluguel,28.9,25.4,32.7,27,6.89,1800,55,225,agosto/2026
+Nova Brasília,venda,8550.2,5643.0,10341.5,41,3.93,3000,80,,agosto/2026
+Nova Brasília,aluguel,28.0,24.1,58.4,16,3.93,3000,80,,agosto/2026
+Rau,venda,5833.3,5125.0,6871.5,37,7.82,2200,60,,agosto/2026
+Rau,aluguel,38.0,29.1,47.5,20,7.82,2200,60,,agosto/2026
+Ribeirão Cavalo,venda,4279.6,3835.5,4761.9,13,,,,,agosto/2026
+Santa Luzia,venda,4083.1,3680.9,4421.9,8,,,,,agosto/2026
+São Luís,venda,6330.4,5750.0,7042.3,25,7.28,2100,56,,agosto/2026
+São Luís,aluguel,38.4,32.9,41.1,14,7.28,2100,56,,agosto/2026
+Tifa Martins,venda,5254.2,4915.3,6326.5,9,6.53,1925,70,,agosto/2026
+Tifa Martins,aluguel,28.6,24.1,31.3,7,6.53,1925,70,,agosto/2026
+Três Rios do Norte,venda,5205.5,4342.7,6006.2,23,,,,,agosto/2026
+Três Rios do Sul,venda,5360.1,4801.4,6123.5,27,7.88,2250,69,,agosto/2026
+Três Rios do Sul,aluguel,35.2,26.3,36.5,13,7.88,2250,69,,agosto/2026
+Vieira,venda,5617.3,4730.2,6500.0,29,5.6,2400,73,,agosto/2026
+Vieira,aluguel,26.2,24.9,32.1,7,5.6,2400,73,,agosto/2026
+Vila Lalau,venda,6696.1,6480.5,8461.5,21,6.2,2250,65,290,agosto/2026
+Vila Lalau,aluguel,34.6,26.7,40.0,21,6.2,2250,65,290,agosto/2026
+Vila Lenzi,venda,5846.5,5655.8,6682.5,34,7.06,2150,61,,agosto/2026
+Vila Lenzi,aluguel,34.4,32.6,38.0,13,7.06,2150,61,,agosto/2026
+Vila Nova,venda,7461.7,6061.1,10878.2,88,5.08,2700,80,,agosto/2026
+Vila Nova,aluguel,31.6,27.1,40.7,30,5.08,2700,80,,agosto/2026
+Água Verde,venda,5901.4,5414.0,6163.3,6,5.69,2000,60,,agosto/2026
+Água Verde,aluguel,28.0,24.8,32.7,9,5.69,2000,60,,agosto/2026

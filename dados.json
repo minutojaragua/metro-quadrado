@@ -1,0 +1,439 @@
+{
+ "cidade": "Jaraguá do Sul/SC",
+ "coleta": "agosto/2026",
+ "atualizado": "2026-08-27",
+ "regra": "mediana por bairro, mínimo 5 anúncios com área informada, sem repetir anúncio entre fontes",
+ "n_fontes": 13,
+ "n_anuncios": {
+  "venda": 1205,
+  "aluguel": 569
+ },
+ "geral": {
+  "venda": {
+   "mediana": 6204.9,
+   "n": 1033,
+   "p25": 5243.8,
+   "p75": 7654.3
+  },
+  "aluguel": {
+   "mediana": 32.5,
+   "n": 509,
+   "p25": 27.2,
+   "p75": 40.0
+  },
+  "yield_anual_pct": 6.29
+ },
+ "bairros": {
+  "Amizade": {
+   "venda": {
+    "mediana": 5639.1,
+    "n": 47,
+    "p25": 4942.8,
+    "p75": 6655.8
+   },
+   "aluguel": {
+    "mediana": 30.8,
+    "n": 26,
+    "p25": 27.3,
+    "p75": 33.9
+   },
+   "yield_anual_pct": 6.55,
+   "area_mediana_aluguel_m2": 70,
+   "aluguel_tipico": 2150
+  },
+  "Baependi": {
+   "venda": {
+    "mediana": 6730.8,
+    "n": 73,
+    "p25": 5446.6,
+    "p75": 7778.7
+   },
+   "aluguel": {
+    "mediana": 37.4,
+    "n": 32,
+    "p25": 33.4,
+    "p75": 45.0
+   },
+   "yield_anual_pct": 6.67,
+   "area_mediana_aluguel_m2": 60,
+   "aluguel_tipico": 2200
+  },
+  "Barra do Rio Cerro": {
+   "venda": {
+    "mediana": 5517.2,
+    "n": 37,
+    "p25": 4849.8,
+    "p75": 6302.5
+   },
+   "aluguel": {
+    "mediana": 29.3,
+    "n": 23,
+    "p25": 27.0,
+    "p75": 40.1
+   },
+   "yield_anual_pct": 6.37,
+   "area_mediana_aluguel_m2": 70,
+   "aluguel_tipico": 1995
+  },
+  "Barra do Rio Molha": {
+   "venda": {
+    "mediana": 6745.6,
+    "n": 16,
+    "p25": 5661.9,
+    "p75": 8613.1
+   }
+  },
+  "Centenário": {
+   "venda": {
+    "mediana": 6413.0,
+    "n": 9,
+    "p25": 5526.3,
+    "p75": 7304.3
+   },
+   "aluguel": {
+    "mediana": 32.0,
+    "n": 11,
+    "p25": 27.8,
+    "p75": 33.0
+   },
+   "yield_anual_pct": 5.99,
+   "area_mediana_aluguel_m2": 117,
+   "aluguel_tipico": 3400
+  },
+  "Centro": {
+   "venda": {
+    "mediana": 7524.6,
+    "n": 222,
+    "p25": 5800.1,
+    "p75": 9826.0
+   },
+   "aluguel": {
+    "mediana": 35.0,
+    "n": 89,
+    "p25": 27.8,
+    "p75": 47.2
+   },
+   "yield_anual_pct": 5.58,
+   "area_mediana_aluguel_m2": 91,
+   "condominio_mediano": 400,
+   "aluguel_tipico": 2925
+  },
+  "Chico de Paula": {
+   "venda": {
+    "mediana": 5254.2,
+    "n": 13,
+    "p25": 4915.3,
+    "p75": 6349.2
+   }
+  },
+  "Czerniewicz": {
+   "venda": {
+    "mediana": 6072.1,
+    "n": 60,
+    "p25": 5424.0,
+    "p75": 6921.0
+   },
+   "aluguel": {
+    "mediana": 32.1,
+    "n": 15,
+    "p25": 27.1,
+    "p75": 37.8
+   },
+   "yield_anual_pct": 6.34,
+   "area_mediana_aluguel_m2": 80,
+   "aluguel_tipico": 2425
+  },
+  "Estrada Nova": {
+   "venda": {
+    "mediana": 5233.8,
+    "n": 19,
+    "p25": 4867.6,
+    "p75": 5608.3
+   }
+  },
+  "Ilha da Figueira": {
+   "venda": {
+    "mediana": 5587.8,
+    "n": 20,
+    "p25": 5261.0,
+    "p75": 6208.3
+   },
+   "aluguel": {
+    "mediana": 32.9,
+    "n": 24,
+    "p25": 26.6,
+    "p75": 39.7
+   },
+   "yield_anual_pct": 7.07,
+   "area_mediana_aluguel_m2": 70,
+   "aluguel_tipico": 1950
+  },
+  "Jaraguá 99": {
+   "venda": {
+    "mediana": 5643.6,
+    "n": 20,
+    "p25": 5236.5,
+    "p75": 6259.9
+   },
+   "aluguel": {
+    "mediana": 32.3,
+    "n": 31,
+    "p25": 27.2,
+    "p75": 35.8
+   },
+   "yield_anual_pct": 6.87,
+   "area_mediana_aluguel_m2": 52,
+   "condominio_mediano": 290,
+   "aluguel_tipico": 1775
+  },
+  "Jaraguá Esquerdo": {
+   "venda": {
+    "mediana": 6705.9,
+    "n": 79,
+    "p25": 6048.8,
+    "p75": 7604.2
+   },
+   "aluguel": {
+    "mediana": 35.7,
+    "n": 36,
+    "p25": 32.5,
+    "p75": 40.1
+   },
+   "yield_anual_pct": 6.39,
+   "area_mediana_aluguel_m2": 70,
+   "condominio_mediano": 280,
+   "aluguel_tipico": 2500
+  },
+  "João Pessoa": {
+   "venda": {
+    "mediana": 5714.4,
+    "n": 24,
+    "p25": 5263.5,
+    "p75": 6142.1
+   },
+   "aluguel": {
+    "mediana": 32.4,
+    "n": 22,
+    "p25": 28.6,
+    "p75": 35.5
+   },
+   "yield_anual_pct": 6.8,
+   "area_mediana_aluguel_m2": 56,
+   "condominio_mediano": 260,
+   "aluguel_tipico": 1790
+  },
+  "Nereu Ramos": {
+   "venda": {
+    "mediana": 5036.8,
+    "n": 24,
+    "p25": 4459.6,
+    "p75": 5441.4
+   },
+   "aluguel": {
+    "mediana": 28.9,
+    "n": 27,
+    "p25": 25.4,
+    "p75": 32.7
+   },
+   "yield_anual_pct": 6.89,
+   "area_mediana_aluguel_m2": 55,
+   "condominio_mediano": 225,
+   "aluguel_tipico": 1800
+  },
+  "Nova Brasília": {
+   "venda": {
+    "mediana": 8550.2,
+    "n": 41,
+    "p25": 5643.0,
+    "p75": 10341.5
+   },
+   "aluguel": {
+    "mediana": 28.0,
+    "n": 16,
+    "p25": 24.1,
+    "p75": 58.4
+   },
+   "yield_anual_pct": 3.93,
+   "area_mediana_aluguel_m2": 80,
+   "aluguel_tipico": 3000
+  },
+  "Rau": {
+   "venda": {
+    "mediana": 5833.3,
+    "n": 37,
+    "p25": 5125.0,
+    "p75": 6871.5
+   },
+   "aluguel": {
+    "mediana": 38.0,
+    "n": 20,
+    "p25": 29.1,
+    "p75": 47.5
+   },
+   "yield_anual_pct": 7.82,
+   "area_mediana_aluguel_m2": 60,
+   "aluguel_tipico": 2200
+  },
+  "Ribeirão Cavalo": {
+   "venda": {
+    "mediana": 4279.6,
+    "n": 13,
+    "p25": 3835.5,
+    "p75": 4761.9
+   }
+  },
+  "Santa Luzia": {
+   "venda": {
+    "mediana": 4083.1,
+    "n": 8,
+    "p25": 3680.9,
+    "p75": 4421.9
+   }
+  },
+  "São Luís": {
+   "venda": {
+    "mediana": 6330.4,
+    "n": 25,
+    "p25": 5750.0,
+    "p75": 7042.3
+   },
+   "aluguel": {
+    "mediana": 38.4,
+    "n": 14,
+    "p25": 32.9,
+    "p75": 41.1
+   },
+   "yield_anual_pct": 7.28,
+   "area_mediana_aluguel_m2": 56,
+   "aluguel_tipico": 2100
+  },
+  "Tifa Martins": {
+   "venda": {
+    "mediana": 5254.2,
+    "n": 9,
+    "p25": 4915.3,
+    "p75": 6326.5
+   },
+   "aluguel": {
+    "mediana": 28.6,
+    "n": 7,
+    "p25": 24.1,
+    "p75": 31.3
+   },
+   "yield_anual_pct": 6.53,
+   "area_mediana_aluguel_m2": 70,
+   "aluguel_tipico": 1925
+  },
+  "Três Rios do Norte": {
+   "venda": {
+    "mediana": 5205.5,
+    "n": 23,
+    "p25": 4342.7,
+    "p75": 6006.2
+   }
+  },
+  "Três Rios do Sul": {
+   "venda": {
+    "mediana": 5360.1,
+    "n": 27,
+    "p25": 4801.4,
+    "p75": 6123.5
+   },
+   "aluguel": {
+    "mediana": 35.2,
+    "n": 13,
+    "p25": 26.3,
+    "p75": 36.5
+   },
+   "yield_anual_pct": 7.88,
+   "area_mediana_aluguel_m2": 69,
+   "aluguel_tipico": 2250
+  },
+  "Vieira": {
+   "venda": {
+    "mediana": 5617.3,
+    "n": 29,
+    "p25": 4730.2,
+    "p75": 6500.0
+   },
+   "aluguel": {
+    "mediana": 26.2,
+    "n": 7,
+    "p25": 24.9,
+    "p75": 32.1
+   },
+   "yield_anual_pct": 5.6,
+   "area_mediana_aluguel_m2": 73,
+   "aluguel_tipico": 2400
+  },
+  "Vila Lalau": {
+   "venda": {
+    "mediana": 6696.1,
+    "n": 21,
+    "p25": 6480.5,
+    "p75": 8461.5
+   },
+   "aluguel": {
+    "mediana": 34.6,
+    "n": 21,
+    "p25": 26.7,
+    "p75": 40.0
+   },
+   "yield_anual_pct": 6.2,
+   "area_mediana_aluguel_m2": 65,
+   "condominio_mediano": 290,
+   "aluguel_tipico": 2250
+  },
+  "Vila Lenzi": {
+   "venda": {
+    "mediana": 5846.5,
+    "n": 34,
+    "p25": 5655.8,
+    "p75": 6682.5
+   },
+   "aluguel": {
+    "mediana": 34.4,
+    "n": 13,
+    "p25": 32.6,
+    "p75": 38.0
+   },
+   "yield_anual_pct": 7.06,
+   "area_mediana_aluguel_m2": 61,
+   "aluguel_tipico": 2150
+  },
+  "Vila Nova": {
+   "venda": {
+    "mediana": 7461.7,
+    "n": 88,
+    "p25": 6061.1,
+    "p75": 10878.2
+   },
+   "aluguel": {
+    "mediana": 31.6,
+    "n": 30,
+    "p25": 27.1,
+    "p75": 40.7
+   },
+   "yield_anual_pct": 5.08,
+   "area_mediana_aluguel_m2": 80,
+   "aluguel_tipico": 2700
+  },
+  "Água Verde": {
+   "venda": {
+    "mediana": 5901.4,
+    "n": 6,
+    "p25": 5414.0,
+    "p75": 6163.3
+   },
+   "aluguel": {
+    "mediana": 28.0,
+    "n": 9,
+    "p25": 24.8,
+    "p75": 32.7
+   },
+   "yield_anual_pct": 5.69,
+   "area_mediana_aluguel_m2": 60,
+   "aluguel_tipico": 2000
+  }
+ }
+}
