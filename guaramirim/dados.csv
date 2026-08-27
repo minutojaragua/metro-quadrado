@@ -1,20 +1,35 @@
 cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
-Guaramirim,Amizade,casa,venda,3106.6,2400.0,4695.7,13,,agosto/2026
-Guaramirim,Avaí,casa,venda,4910.5,2258.1,6539.8,16,,agosto/2026
-Guaramirim,Bananal do Sul,casa,venda,4714.3,3712.6,5932.4,21,,agosto/2026
-Guaramirim,Beira Rio,casa,venda,5415.4,4910.4,5625.0,9,,agosto/2026
-Guaramirim,Caixa d'Água,casa,venda,5160.7,4998.3,5571.4,5,,agosto/2026
-Guaramirim,Centro,casa,venda,3718.8,2318.8,4086.7,10,,agosto/2026
-Guaramirim,Escolinha,casa,venda,5479.5,5063.5,6571.4,9,,agosto/2026
-Guaramirim,Ilha da Figueira,casa,venda,5806.5,2227.3,6428.6,9,,agosto/2026
-Guaramirim,Nova Esperança,casa,venda,4223.0,3053.2,5320.8,6,,agosto/2026
-Guaramirim,Rio Branco,casa,venda,5339.9,4950.2,6942.5,8,,agosto/2026
-Guaramirim,Amizade,apartamento,aluguel,35.5,32.5,54.3,9,,agosto/2026
-Guaramirim,Centro,apartamento,venda,5276.4,4647.1,5978.3,13,7.14,agosto/2026
-Guaramirim,Centro,apartamento,aluguel,31.4,28.0,32.5,10,7.14,agosto/2026
-Guaramirim,Corticeira,apartamento,venda,3099.2,2954.5,3333.3,5,,agosto/2026
-Guaramirim,Amizade,terreno,venda,751.4,421.7,869.2,5,,agosto/2026
-Guaramirim,Avaí,terreno,venda,625.9,533.4,877.8,6,,agosto/2026
-Guaramirim,Bananal do Sul,terreno,venda,1099.1,1098.5,1100.1,33,,agosto/2026
-Guaramirim,Corticeira,terreno,venda,304.3,149.7,336.0,5,,agosto/2026
-Guaramirim,Centro,sala,aluguel,67.2,64.3,67.3,5,,agosto/2026
+Guaramirim,Amizade,casa,venda,4160.8,2578.6,5348.3,32,,agosto/2026
+Guaramirim,Avaí,casa,venda,4615.4,2476.6,5710.5,37,,agosto/2026
+Guaramirim,Bananal do Sul,casa,venda,4730.0,3698.5,5773.8,44,,agosto/2026
+Guaramirim,Barro Branco,casa,venda,5000.0,4285.7,5645.2,13,,agosto/2026
+Guaramirim,Beira Rio,casa,venda,5000.0,4551.3,5493.5,30,,agosto/2026
+Guaramirim,Caixa D&#039;Água,casa,venda,5166.7,4983.3,5173.1,5,,agosto/2026
+Guaramirim,Caixa d'Água,casa,venda,4998.3,3524.2,6617.6,13,,agosto/2026
+Guaramirim,Centro,casa,venda,3958.3,3197.9,5161.0,24,,agosto/2026
+Guaramirim,Corticeira,casa,venda,4416.7,3191.1,5279.0,15,,agosto/2026
+Guaramirim,Escolinha,casa,venda,5194.1,4614.5,5687.2,34,,agosto/2026
+Guaramirim,Ilha da Figueira,casa,venda,5818.6,3920.3,6415.7,22,,agosto/2026
+Guaramirim,Imigrantes,casa,venda,2754.7,1966.7,4500.0,10,,agosto/2026
+Guaramirim,Nova Esperança,casa,venda,5168.0,2769.2,6780.0,11,,agosto/2026
+Guaramirim,Rio Branco,casa,venda,5471.0,4718.3,6066.5,22,,agosto/2026
+Guaramirim,Amizade,apartamento,venda,6059.1,5298.7,6424.9,11,7.03,agosto/2026
+Guaramirim,Amizade,apartamento,aluguel,35.5,32.5,54.3,9,7.03,agosto/2026
+Guaramirim,Avaí,apartamento,venda,4801.3,4704.2,5198.3,6,,agosto/2026
+Guaramirim,Bananal do Sul,apartamento,venda,5625.0,4833.3,5781.2,5,,agosto/2026
+Guaramirim,Centro,apartamento,venda,5781.2,5010.0,6092.1,34,6.52,agosto/2026
+Guaramirim,Centro,apartamento,aluguel,31.4,27.0,32.6,12,6.52,agosto/2026
+Guaramirim,Corticeira,apartamento,venda,3443.2,3119.8,4409.1,14,,agosto/2026
+Guaramirim,Amizade,terreno,venda,751.4,410.7,909.3,11,,agosto/2026
+Guaramirim,Avaí,terreno,venda,715.8,533.4,847.4,14,,agosto/2026
+Guaramirim,Bananal do Sul,terreno,venda,1098.7,754.0,1100.0,45,,agosto/2026
+Guaramirim,Barro Branco,terreno,venda,342.8,118.0,512.7,6,,agosto/2026
+Guaramirim,Beira Rio,terreno,venda,382.4,184.9,618.3,6,,agosto/2026
+Guaramirim,Centro,terreno,venda,1223.9,865.1,1459.6,14,,agosto/2026
+Guaramirim,Corticeira,terreno,venda,350.0,237.0,469.1,18,,agosto/2026
+Guaramirim,Imigrantes,terreno,venda,551.1,472.9,1072.8,5,,agosto/2026
+Guaramirim,Jacu-Açu,terreno,venda,388.2,230.0,413.5,7,,agosto/2026
+Guaramirim,Rio Branco,terreno,venda,441.0,314.8,589.5,15,,agosto/2026
+Guaramirim,Centro,sala,aluguel,64.3,43.1,67.2,7,,agosto/2026
+Guaramirim,Bruderthal,galpao,aluguel,22.1,14.2,28.2,6,,agosto/2026
+Guaramirim,Ilha da Figueira,galpao,aluguel,19.0,15.2,20.0,9,,agosto/2026
