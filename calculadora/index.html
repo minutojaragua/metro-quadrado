@@ -134,13 +134,21 @@ async function calcula(){
   const onde=bai==="__geral__"?cnome:bai+" ("+cnome+")";
   if(!st){R.innerHTML='<div class="card"><p>Ainda não temos anúncios suficientes de '+(CATS[cat]||cat).toLowerCase()+' ('+op+') em '+onde+' — o corte mínimo é 5 anúncios válidos. Tente "Cidade inteira" ou outra categoria.</p></div>';return;}
   const arr=op==="venda"?1000:10, suf=op==="aluguel"?"/mês":"";
-  const med=Math.round(st.mediana*area/arr)*arr, lo=Math.round(st.p25*area/arr)*arr, hi=Math.round(st.p75*area/arr)*arr;
+  const fa=((S.geral||{}).faixas_area||{})[op];
+  const banda=fa?fa.find(f=>area>=f.min&&area<f.max):null;
+  const mult=(banda&&Math.abs(banda.mult-1)>0.02)?banda.mult:1;
+  const med=Math.round(st.mediana*mult*area/arr)*arr, lo=Math.round(st.p25*mult*area/arr)*arr, hi=Math.round(st.p75*mult*area/arr)*arr;
   const verbo=op==="venda"?"vale tipicamente":"alugaria por volta de";
   let h='<div class="card" style="max-width:640px"><h3>'+(CATS[cat]||cat)+' de '+fmt(area)+' m² — '+onde+'</h3>';
   h+='<p style="font-size:1.25em;margin:10px 0"><b>'+verbo.charAt(0).toUpperCase()+verbo.slice(1)+' R$ '+fmt(med)+suf+'</b></p>';
   h+='<p>A metade central dos anúncios do mês sugere entre <b>R$ '+fmt(lo)+suf+'</b> e <b>R$ '+fmt(hi)+suf+'</b>. Base: R$ '+fmt(st.mediana,op==="aluguel"?1:0)+'/m² (mediana) · '+badge(st.n)+'</p>';
+  if(mult!==1){const pc=Math.round((mult-1)*100);
+    h+='<p style="color:#666">📐 Ajuste por tamanho: na cidade, imóveis desta categoria com '+banda.min+'–'+(banda.max>=1500?banda.max+'':banda.max)+' m² pedem <b>'+(pc>0?'+':'')+pc+'%</b> por m² em relação à média — a estimativa acima já considera isso (n='+banda.n+').</p>';}
   if(op==="venda"&&no.aluguel){
-    const alu=Math.round(no.aluguel.mediana*area/10)*10;
+    const faA=((S.geral||{}).faixas_area||{}).aluguel;
+    const bA=faA?faA.find(f=>area>=f.min&&area<f.max):null;
+    const mA=(bA&&Math.abs(bA.mult-1)>0.02)?bA.mult:1;
+    const alu=Math.round(no.aluguel.mediana*mA*area/10)*10;
     h+='<p>Se alugado, este imóvel buscaria por volta de <b>R$ '+fmt(alu)+'/mês</b> pela mediana de aluguel'+(no.yield_anual_pct?' — rendimento bruto de '+fmt(no.yield_anual_pct,2)+'% ao ano':'')+'.</p>';
   }
   if(cat==="apartamento"&&no.tipico&&no.tipico[op]){
