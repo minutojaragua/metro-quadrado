@@ -2,7 +2,9 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-R0HV8VXVQZ"></script>
-<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-R0HV8VXVQZ',{anonymize_ip:true});</script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());try{if(/[?&]interno=1/.test(location.search))localStorage.setItem('mq_interno','1');}catch(e){}
+var _mqInt=false;try{_mqInt=localStorage.getItem('mq_interno')==='1';}catch(e){}
+gtag('config','G-R0HV8VXVQZ',_mqInt?{anonymize_ip:true,traffic_type:'internal'}:{anonymize_ip:true});</script>
 <title>Quanto vale meu imóvel? Calculadora por bairro — SC</title>
 <meta name="description" content="Estimativa gratuita pela mediana do seu bairro: apartamento, casa, terreno ou sala em 6 cidades do norte de SC. Sem cadastro e sem enviar seus dados.">
 <meta property="og:title" content="Quanto vale meu imóvel? Calculadora por bairro — SC">

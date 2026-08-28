@@ -2,7 +2,9 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-R0HV8VXVQZ"></script>
-<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-R0HV8VXVQZ',{anonymize_ip:true});</script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());try{if(/[?&]interno=1/.test(location.search))localStorage.setItem('mq_interno','1');}catch(e){}
+var _mqInt=false;try{_mqInt=localStorage.getItem('mq_interno')==='1';}catch(e){}
+gtag('config','G-R0HV8VXVQZ',_mqInt?{anonymize_ip:true,traffic_type:'internal'}:{anonymize_ip:true});</script>
 <title>Comparador de bairros e cidades — Metro Quadrado</title>
 <meta name="description" content="Compare preço do m², aluguel e rendimento entre quantas cidades e bairros quiser, lado a lado, na mesma categoria.">
 <meta property="og:title" content="Comparador de bairros e cidades — Metro Quadrado">

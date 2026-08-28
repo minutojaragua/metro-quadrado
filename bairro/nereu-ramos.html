@@ -2,7 +2,9 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-R0HV8VXVQZ"></script>
-<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-R0HV8VXVQZ',{anonymize_ip:true});</script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());try{if(/[?&]interno=1/.test(location.search))localStorage.setItem('mq_interno','1');}catch(e){}
+var _mqInt=false;try{_mqInt=localStorage.getItem('mq_interno')==='1';}catch(e){}
+gtag('config','G-R0HV8VXVQZ',_mqInt?{anonymize_ip:true,traffic_type:'internal'}:{anonymize_ip:true});</script>
 <title>Preço do m² no bairro Nereu Ramos, Jaraguá do Sul (agosto/2026)</title>
 <meta name="description" content="Mediana no Nereu Ramos (agosto/2026): apartamentos R$ 4.792/m², casas R$ 5.402/m², terrenos R$ 597/m². Metro Quadrado Jaraguá.">
 <meta property="og:title" content="Preço do m² no bairro Nereu Ramos, Jaraguá do Sul (agosto/2026)">
