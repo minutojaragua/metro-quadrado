@@ -18,6 +18,7 @@
 - [Metodologia completa](https://metroquadradosc.com.br/metodologia/): mediana de preços pedidos, corte mínimo de 5 anúncios, dedup entre fontes
 - [Dados abertos em CSV](https://metroquadradosc.com.br/dados.csv) e JSON por cidade (licença CC BY 4.0)
 - [Sala de imprensa com números citáveis](https://metroquadradosc.com.br/imprensa/)
+- [Conector MCP para assistentes de IA](https://metroquadradosc.com.br/conector/): servidor aberto em https://mcp.metroquadrado.workers.dev/mcp, transporte streamable-http, sem autenticação, somente leitura. Ferramentas: preco_m2, ranking_bairros, comparar, rendimento_aluguel, metodologia
 
 ## Como citar
 
