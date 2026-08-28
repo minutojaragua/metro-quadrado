@@ -163,8 +163,8 @@ async function render(){
   rows+=linha("Rendimento bruto do aluguel",picks.map(p=>p&&p.yield_anual_pct),2,"% a.a.","max");
   rows+=linha("Aluguel típico (R$/mês)",picks.map(p=>p&&p.aluguel_tipico),0,"","min");
   if(cat==="apartamento"){
-    rows+=linha("Apto típico à venda (R$)",picks.map(p=>g(p,["tipico","venda","valor"])),0,"","min");
-    rows+=linha("Área típica à venda (m²)",picks.map(p=>g(p,["tipico","venda","area_m2"])),0," m²","max");
+    rows+=linha("Apartamento típico: preço total (R$)",picks.map(p=>g(p,["tipico","venda","valor"])),0,"","min");
+    rows+=linha("Apartamento típico: tamanho (m²)",picks.map(p=>g(p,["tipico","venda","area_m2"])),0," m²","max");
   }
   rows+=linha("Nº de anúncios (venda)",picks.map(p=>g(p,["venda","n"])),0,"","max");
   rows+=linha("Nº de anúncios (aluguel)",picks.map(p=>g(p,["aluguel","n"])),0,"","max");
