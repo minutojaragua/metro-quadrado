@@ -165,6 +165,11 @@ async function render(){
   if(cat==="apartamento"){
     rows+=linha("Apartamento típico: preço total (R$)",picks.map(p=>g(p,["tipico","venda","valor"])),0,"","min");
     rows+=linha("Apartamento típico: tamanho (m²)",picks.map(p=>g(p,["tipico","venda","area_m2"])),0," m²","max");
+    if(picks.some(p=>p&&p.condominio_mediano)){
+      rows+=linha("Condomínio típico (R$/mês)",picks.map(p=>p&&p.condominio_mediano),0,"","min");
+      rows+=linha("IPTU informado (R$/mês)",picks.map(p=>p&&p.iptu_mensal),0,"","min");
+      rows+=linha("Custo mensal alugando (R$/mês)",picks.map(p=>p&&p.custo_mensal_alugando),0,"","min");
+    }
   }
   rows+=linha("Nº de anúncios (venda)",picks.map(p=>g(p,["venda","n"])),0,"","max");
   rows+=linha("Nº de anúncios (aluguel)",picks.map(p=>g(p,["aluguel","n"])),0,"","max");
