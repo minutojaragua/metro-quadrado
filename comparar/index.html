@@ -194,7 +194,7 @@ async function render(){
 const LSK="mq_ultimas_comparacoes";
 function registra(cat,url,nomes,cids){
   const rot=nomes.map((n,i)=>n===cids[i]?n:n+" ("+cids[i]+")").join(" × ")+" · "+CATS[cat];
-  try{ if(typeof gtag==="function") gtag("event","comparar",{categoria:cat,colunas:lados.length,lados:lados.map(l=>l.cid+":"+l.bai).join(","),rotulo:rot}); }catch(e){}
+  try{ if(_mqUser&&typeof gtag==="function") gtag("event","comparar",{categoria:cat,colunas:lados.length,lados:lados.map(l=>l.cid+":"+l.bai).join(","),rotulo:rot}); }catch(e){}
   try{
     let L=JSON.parse(localStorage.getItem(LSK)||"[]").filter(x=>x.url!==url);
     L.unshift({url,rot,t:Date.now()}); L=L.slice(0,6);
@@ -225,6 +225,8 @@ async function init(){
     await desenhaLados(); render();});
   await desenhaLados(); render();
 }
+// só conta "comparar" no GA4 depois de uma ação real da pessoa (mudar seletor/adicionar lado); carregar a página com o par padrão não conta — robôs de prévia de link inflavam o número
+let _mqUser=false;document.addEventListener("change",()=>{_mqUser=true;},true);document.addEventListener("click",()=>{_mqUser=true;},true);
 init();
 </script>
 <footer><div class="wrap"><p><b style="color:#fff">Minuto Jaraguá</b> — Jaraguá do Sul em 1 minuto, sem enrolação.</p><p style="margin-top:6px">📲 <a href="https://whatsapp.com/channel/0029VbDVRhr7dmeij8qMmI16">Canal no WhatsApp (grátis)</a> · <a href="https://wa.me/5547997424339?text=Ol%C3%A1!%20Vim%20pelo%20site%20Metro%20Quadrado%20e%20quero%20falar%20com%20o%20Minuto%20Jaragu%C3%A1.">💬 Falar com a gente</a> · <a href="https://www.instagram.com/minutojaragua/">@minutojaragua</a></p><p style="margin-top:10px;color:#888">© 2026 Minuto Jaraguá · <a href="https://metroquadradosc.com.br/metodologia/" style="color:#888;text-decoration:underline">metodologia</a> · <a href="https://metroquadradosc.com.br/imprensa/" style="color:#888;text-decoration:underline">imprensa</a> · <a href="https://metroquadradosc.com.br/anuncie/" style="color:#888;text-decoration:underline">para corretores</a> · dados: CC BY 4.0 · atualizado em 2026-08-27 · medimos visitas de forma agregada (Google Analytics, IP anonimizado)</p><p style="margin-top:8px;color:#777;font-size:.85em">Conteúdo informativo: recorte estatístico de anúncios públicos (preços pedidos, não transações). Não é avaliação, oferta nem recomendação de investimento — decisões com base nestes dados são de responsabilidade do leitor.</p></div></footer></body></html>
