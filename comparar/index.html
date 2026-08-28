@@ -107,7 +107,7 @@ function pick(d,cat,b){
 }
 async function bairrosDe(cid){
   const d=await load(cid), cat=$("cat").value;
-  return Object.keys(((d.segmentos||{})[cat]||{}).bairros||{}).sort();
+  return Object.keys(((d.segmentos||{})[cat]||{}).bairros||{}).sort((a,b)=>a.localeCompare(b,"pt-BR"));
 }
 async function desenhaLados(){
   const cont=$("lados"); cont.innerHTML="";

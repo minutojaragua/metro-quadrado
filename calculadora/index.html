@@ -116,7 +116,7 @@ async function atualizaCats(){
 async function atualizaBairros(){
   const d=await dados($("cid").value);
   const S=d.segmentos[$("cat").value]||{bairros:{}};
-  const bs=Object.keys(S.bairros).sort();
+  const bs=Object.keys(S.bairros).sort((a,b)=>a.localeCompare(b,"pt-BR"));
   selPreenche($("bai"),[["__geral__","Cidade inteira (geral)"],...bs.map(b=>[b,b])],true);
   calcula();
 }

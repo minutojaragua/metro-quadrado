@@ -100,8 +100,8 @@ footer a{color:var(--amar);text-decoration:none;font-weight:600}
 const B={"Centro": {"venda": {"mediana": 3810.5, "n": 30, "p25": 2105.1, "p75": 5076.9}}, "Patrimônio": {"venda": {"mediana": 3972.0, "n": 7, "p25": 1934.8, "p75": 5110.5}}};
 const fmt2=(v,d=0)=>v.toLocaleString('pt-BR',{minimumFractionDigits:d,maximumFractionDigits:d});
 const sa=document.getElementById('selA'),sb=document.getElementById('selB');
-Object.keys(B).forEach(b=>{sa.add(new Option(b,b));sb.add(new Option(b,b));});
-const ks=Object.keys(B);
+const ks=Object.keys(B).sort((a,b)=>a.localeCompare(b,'pt-BR'));
+ks.forEach(b=>{sa.add(new Option(b,b));sb.add(new Option(b,b));});
 sa.value=B['Centro']?'Centro':ks[0];
 sb.value=B['Vila Nova']?'Vila Nova':(ks.find(k=>k!==sa.value)||ks[0]);
 function card(b){const d=B[b];let h='<div class="card"><h3>'+b+'</h3>';

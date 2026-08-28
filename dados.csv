@@ -1,4 +1,6 @@
 cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Jaraguá do Sul,Água Verde,apartamento,venda,6017.2,5187.5,6658.3,16,5.94,agosto/2026
+Jaraguá do Sul,Água Verde,apartamento,aluguel,29.8,25.0,34.7,13,5.94,agosto/2026
 Jaraguá do Sul,Amizade,apartamento,venda,5323.7,4461.5,6381.6,77,6.97,agosto/2026
 Jaraguá do Sul,Amizade,apartamento,aluguel,30.9,27.6,33.9,29,6.97,agosto/2026
 Jaraguá do Sul,Baependi,apartamento,venda,6058.4,5047.2,7791.4,110,7.61,agosto/2026
@@ -48,8 +50,8 @@ Jaraguá do Sul,Vila Lenzi,apartamento,venda,5805.1,5262.4,6391.8,51,6.99,agosto
 Jaraguá do Sul,Vila Lenzi,apartamento,aluguel,33.8,31.0,37.5,19,6.99,agosto/2026
 Jaraguá do Sul,Vila Nova,apartamento,venda,7704.8,6090.7,11091.2,166,4.87,agosto/2026
 Jaraguá do Sul,Vila Nova,apartamento,aluguel,31.3,26.8,36.1,44,4.87,agosto/2026
-Jaraguá do Sul,Água Verde,apartamento,venda,6017.2,5187.5,6658.3,16,5.94,agosto/2026
-Jaraguá do Sul,Água Verde,apartamento,aluguel,29.8,25.0,34.7,13,5.94,agosto/2026
+Jaraguá do Sul,Água Verde,casa,venda,5481.8,3876.7,7429.2,47,5.25,agosto/2026
+Jaraguá do Sul,Água Verde,casa,aluguel,24.0,24.0,24.7,5,5.25,agosto/2026
 Jaraguá do Sul,Amizade,casa,venda,6170.8,5113.8,7655.5,200,6.05,agosto/2026
 Jaraguá do Sul,Amizade,casa,aluguel,31.1,26.7,38.1,14,6.05,agosto/2026
 Jaraguá do Sul,Baependi,casa,venda,6556.4,5134.1,8647.7,32,5.91,agosto/2026
@@ -101,8 +103,7 @@ Jaraguá do Sul,Vila Lenzi,casa,venda,5265.8,4239.1,6950.2,106,6.97,agosto/2026
 Jaraguá do Sul,Vila Lenzi,casa,aluguel,30.6,28.2,33.8,17,6.97,agosto/2026
 Jaraguá do Sul,Vila Nova,casa,venda,7448.1,5637.8,10333.4,56,5.75,agosto/2026
 Jaraguá do Sul,Vila Nova,casa,aluguel,35.7,28.4,38.3,8,5.75,agosto/2026
-Jaraguá do Sul,Água Verde,casa,venda,5481.8,3876.7,7429.2,47,5.25,agosto/2026
-Jaraguá do Sul,Água Verde,casa,aluguel,24.0,24.0,24.7,5,5.25,agosto/2026
+Jaraguá do Sul,Água Verde,terreno,venda,989.2,840.2,1123.5,14,,agosto/2026
 Jaraguá do Sul,Amizade,terreno,venda,1225.5,933.3,1460.1,81,,agosto/2026
 Jaraguá do Sul,Baependi,terreno,venda,1443.2,1197.7,1772.9,21,,agosto/2026
 Jaraguá do Sul,Barra do Rio Cerro,terreno,venda,862.1,392.8,1212.3,75,,agosto/2026
@@ -136,7 +137,6 @@ Jaraguá do Sul,Vila Chartres,terreno,venda,917.8,844.6,1000.0,15,,agosto/2026
 Jaraguá do Sul,Vila Lalau,terreno,venda,1479.6,857.9,2028.2,17,,agosto/2026
 Jaraguá do Sul,Vila Lenzi,terreno,venda,1095.6,744.0,1498.1,30,,agosto/2026
 Jaraguá do Sul,Vila Nova,terreno,venda,1265.4,529.1,1750.0,37,,agosto/2026
-Jaraguá do Sul,Água Verde,terreno,venda,989.2,840.2,1123.5,14,,agosto/2026
 Jaraguá do Sul,Amizade,sala,aluguel,32.5,25.9,43.5,14,,agosto/2026
 Jaraguá do Sul,Baependi,sala,aluguel,40.0,35.0,50.0,8,,agosto/2026
 Jaraguá do Sul,Barra do Rio Cerro,sala,aluguel,37.5,31.9,44.8,25,,agosto/2026
@@ -154,6 +154,7 @@ Jaraguá do Sul,Vieira,sala,aluguel,55.1,48.1,60.0,7,,agosto/2026
 Jaraguá do Sul,Vila Lalau,sala,aluguel,27.2,24.4,37.7,10,,agosto/2026
 Jaraguá do Sul,Vila Lenzi,sala,aluguel,54.8,50.2,57.1,10,,agosto/2026
 Jaraguá do Sul,Vila Nova,sala,aluguel,47.1,35.4,60.9,46,,agosto/2026
+Jaraguá do Sul,Água Verde,galpao,aluguel,20.0,17.2,20.2,8,,agosto/2026
 Jaraguá do Sul,Amizade,galpao,aluguel,26.0,22.0,28.0,5,,agosto/2026
 Jaraguá do Sul,Barra do Rio Cerro,galpao,venda,3263.8,2266.2,4315.4,6,7.46,agosto/2026
 Jaraguá do Sul,Barra do Rio Cerro,galpao,aluguel,20.3,18.3,25.4,12,7.46,agosto/2026
@@ -166,4 +167,3 @@ Jaraguá do Sul,Rio Cerro I,galpao,aluguel,11.1,9.0,15.1,7,,agosto/2026
 Jaraguá do Sul,Rio da Luz,galpao,aluguel,21.7,20.0,22.0,5,,agosto/2026
 Jaraguá do Sul,Três Rios do Norte,galpao,aluguel,24.0,21.1,24.0,5,,agosto/2026
 Jaraguá do Sul,Vieira,galpao,aluguel,22.0,20.5,25.4,7,,agosto/2026
-Jaraguá do Sul,Água Verde,galpao,aluguel,20.0,17.2,20.2,8,,agosto/2026
