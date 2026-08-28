@@ -3,10 +3,10 @@
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-KBV830BJN1"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-KBV830BJN1',{anonymize_ip:true});</script>
-<title>Quanto vale meu imóvel? Calculadora por bairro — norte de SC (agosto/2026)</title>
-<meta name="description" content="Estimativa gratuita pela mediana de anúncios do seu bairro: apartamento, casa, terreno ou sala em Jaraguá do Sul, Joinville, Guaramirim, Schroeder, Corupá e Massaranduba. Sem cadastro.">
-<meta property="og:title" content="Quanto vale meu imóvel? Calculadora por bairro — norte de SC (agosto/2026)">
-<meta property="og:description" content="Estimativa gratuita pela mediana de anúncios do seu bairro: apartamento, casa, terreno ou sala em Jaraguá do Sul, Joinville, Guaramirim, Schroeder, Corupá e Massaranduba. Sem cadastro.">
+<title>Quanto vale meu imóvel? Calculadora por bairro — SC</title>
+<meta name="description" content="Estimativa gratuita pela mediana do seu bairro: apartamento, casa, terreno ou sala em 6 cidades do norte de SC. Sem cadastro e sem enviar seus dados.">
+<meta property="og:title" content="Quanto vale meu imóvel? Calculadora por bairro — SC">
+<meta property="og:description" content="Estimativa gratuita pela mediana do seu bairro: apartamento, casa, terreno ou sala em 6 cidades do norte de SC. Sem cadastro e sem enviar seus dados.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://metroquadradosc.com.br/calculadora/">
 <meta property="og:site_name" content="Metro Quadrado">
@@ -48,13 +48,13 @@ th{text-align:left;padding:10px 12px;background:#f3f2ec;font-size:.78rem;text-tr
 td{padding:9px 12px;border-top:1px solid var(--borda)}
 td.num,th.num{text-align:right;font-variant-numeric:tabular-nums}
 tr:hover td{background:#fffbe6}
-.rk{color:#999;font-size:.8rem;width:30px}
+.rk{color:#767676;font-size:.8rem;width:30px}
 .med{font-weight:700;white-space:nowrap}
 .faixa{position:relative;height:8px;background:#eee;border-radius:4px;min-width:110px}
 .faixa i{position:absolute;height:8px;background:var(--amar);border-radius:4px}
 .faixa u{position:absolute;top:-2px;width:3px;height:12px;background:var(--ink);border-radius:2px}
 .bdg{font-size:.72rem;padding:2px 8px;border-radius:99px;white-space:nowrap}
-.bdg.alta{background:#d9f2d9;color:#1b6e1b}.bdg.media{background:#fff3cd;color:#8a6d00}.bdg.baixa{background:#fde2e2;color:#a33}
+.bdg.alta{background:#d9f2d9;color:#1b6e1b}.bdg.media{background:#fff3cd;color:#6b5400}.bdg.baixa{background:#fde2e2;color:#a33}
 .cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px}
 .card{background:var(--card);border:1px solid var(--borda);border-radius:12px;padding:18px}
 .card h3{font-size:1.05rem;margin-bottom:10px}
@@ -70,7 +70,7 @@ select{padding:9px 12px;border:2px solid var(--ink);border-radius:8px;font-size:
 .cite{background:#f3f2ec;border-radius:8px;padding:12px 14px;font-family:ui-monospace,monospace;font-size:.83rem;margin:10px 0}
 footer{background:var(--ink);color:#bbb;padding:30px 0;margin-top:30px;font-size:.85rem}
 footer a{color:var(--amar);text-decoration:none;font-weight:600}
-.crumb{font-size:.85rem;margin-bottom:14px}.crumb a{color:#8a6d00;text-decoration:none}
+.crumb{font-size:.85rem;margin-bottom:14px}.crumb a{color:#6b5400;text-decoration:none}
 @media(max-width:600px){header h1{font-size:1.45rem}.stat{padding:8px 12px}}
 </style></head><body>
 <header><div class="wrap"><h1><a href="../">Metro Quadrado</a></h1>
@@ -78,12 +78,12 @@ footer a{color:var(--amar);text-decoration:none;font-weight:600}
 <main><div class="wrap">
 <section style="margin-top:22px">
 <div style="display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:14px">
-<select id="cid" style="padding:8px 10px;font-size:1em;border-radius:8px"></select>
-<select id="cat" style="padding:8px 10px;font-size:1em;border-radius:8px"></select>
-<select id="bai" style="padding:8px 10px;font-size:1em;border-radius:8px"></select>
-<select id="op" style="padding:8px 10px;font-size:1em;border-radius:8px">
+<select id="cid" aria-label="Cidade" style="padding:8px 10px;font-size:1em;border-radius:8px"></select>
+<select id="cat" aria-label="Tipo de imóvel" style="padding:8px 10px;font-size:1em;border-radius:8px"></select>
+<select id="bai" aria-label="Bairro" style="padding:8px 10px;font-size:1em;border-radius:8px"></select>
+<select id="op" aria-label="Operação: vender ou alugar" style="padding:8px 10px;font-size:1em;border-radius:8px">
 <option value="venda">Para vender</option><option value="aluguel">Para alugar</option></select>
-<input id="area" type="number" min="10" max="50000" placeholder="área (m²)" style="padding:8px 10px;font-size:1em;border-radius:8px;width:110px;border:1px solid #bbb">
+<input id="area" type="number" min="10" max="50000" placeholder="área (m²)" aria-label="Área em metros quadrados" style="padding:8px 10px;font-size:1em;border-radius:8px;width:110px;border:1px solid #bbb">
 </div>
 <div id="res"></div>
 <p class="sub" style="margin-top:14px">A conta é transparente: mediana do R$/m² do bairro × sua área, com a faixa central (P25–P75) dos anúncios. Nos terrenos, use a área do lote. <a href="../metodologia/">Metodologia</a>.</p>
