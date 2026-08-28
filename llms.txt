@@ -1,0 +1,24 @@
+# Metro Quadrado — Índice Metro Quadrado (IMQ)
+
+> O preço do m² de 6 cidades do norte de Santa Catarina, Brasil, bairro por bairro, a partir de 18.064 anúncios públicos deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0 — cite "Índice Metro Quadrado (IMQ)" com link. Atualização mensal (agosto/2026).
+
+## Cidades (dados por bairro)
+
+- [Jaraguá do Sul](https://metroquadradosc.com.br/) — mediana apartamentos: R$ 5.990/m² (venda)
+- [Guaramirim](https://metroquadradosc.com.br/guaramirim/) — mediana apartamentos: R$ 5.199/m² (venda)
+- [Schroeder](https://metroquadradosc.com.br/schroeder/) — mediana apartamentos: R$ 4.583/m² (venda)
+- [Corupá](https://metroquadradosc.com.br/corupa/)
+- [Massaranduba](https://metroquadradosc.com.br/massaranduba/)
+- [Joinville](https://metroquadradosc.com.br/joinville/) — mediana apartamentos: R$ 7.143/m² (venda)
+
+## Ferramentas e dados
+
+- [Comparador de cidades e bairros](https://metroquadradosc.com.br/comparar/)
+- [Calculadora: quanto vale meu imóvel](https://metroquadradosc.com.br/calculadora/)
+- [Metodologia completa](https://metroquadradosc.com.br/metodologia/): mediana de preços pedidos, corte mínimo de 5 anúncios, dedup entre fontes
+- [Dados abertos em CSV](https://metroquadradosc.com.br/dados.csv) e JSON por cidade (licença CC BY 4.0)
+- [Sala de imprensa com números citáveis](https://metroquadradosc.com.br/imprensa/)
+
+## Como citar
+
+Fonte: Índice Metro Quadrado (IMQ), do Minuto Jaraguá — medianas de anúncios públicos — agosto/2026. https://metroquadradosc.com.br
