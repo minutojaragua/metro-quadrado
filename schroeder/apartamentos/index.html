@@ -7,35 +7,40 @@
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());try{if(/[?&]interno=1/.test(location.search))localStorage.setItem('mq_interno','1');}catch(e){}
 var _mqInt=false;try{_mqInt=localStorage.getItem('mq_interno')==='1';}catch(e){}
 gtag('config','G-R0HV8VXVQZ',_mqInt?{anonymize_ip:true,traffic_type:'internal'}:{anonymize_ip:true});</script>
-<!-- jornada do visitante: eventos proprios, sem biblioteca externa -->
+<!-- jornada do visitante: eventos proprios, sem biblioteca externa.
+     Os parametros reusam "rotulo" e "categoria", que ja sao dimensoes
+     personalizadas registradas no GA4, entao aparecem no relatorio sem
+     precisar registrar nada novo. -->
 <script>(function(){
-function ev(n,p){try{if(typeof gtag==='function')gtag('event',n,p||{});}catch(e){}}
+function ev(n,r,c){try{if(typeof gtag==='function')gtag('event',n,{rotulo:r||'',categoria:c||''});}catch(e){}}
 var t0=Date.now(),prof={},cam=location.pathname;
 try{var j=JSON.parse(sessionStorage.getItem('mq_jornada')||'[]');
  var de=j.length?j[j.length-1]:'(entrada)';
  j.push(cam);if(j.length>30)j=j.slice(-30);
  sessionStorage.setItem('mq_jornada',JSON.stringify(j));
- ev('passo_jornada',{passo:j.length,caminho:cam,veio_de:de,jornada:j.slice(-6).join(' > ')});}catch(e){}
+ ev('passo_jornada',(j.length>=3?'passo 3+':'passo '+j.length)+' | veio de '+de,cam);}catch(e){}
 document.addEventListener('click',function(e){
  var a=e.target&&e.target.closest?e.target.closest('a,button'):null;if(!a)return;
  var h=a.getAttribute('href')||'',txt=(a.textContent||'').trim().slice(0,60);
- if(h.indexOf('/bairro/')>=0){var tr=a.closest('tr');ev('ver_bairro',{bairro:txt,posicao:tr?tr.rowIndex:0,caminho:cam});}
- else if(a.closest('.cidades'))ev('trocar_cidade',{destino:txt,caminho:cam});
- else if(a.closest('.tipos'))ev('trocar_tipo',{destino:txt,caminho:cam});
- else if(a.closest('.toggle'))ev('alternar_operacao',{destino:txt,caminho:cam});
- else if(h.indexOf('wa.me')>=0)ev('compartilhar',{canal:'whatsapp',caminho:cam});
- else if(/anuncie/.test(h))ev('clique_anuncie',{caminho:cam,rotulo:txt});
- else if(h.indexOf('.csv')>=0||h.indexOf('.json')>=0)ev('baixar_dados',{arquivo:h.split('/').pop(),caminho:cam});
- else if(a.closest('.dl'))ev('clique_ferramenta',{destino:h,rotulo:txt,caminho:cam});
- else if(/copiar link/i.test(txt))ev('compartilhar',{canal:'copiar',caminho:cam});},true);
+ if(h.indexOf('/bairro/')>=0){ev('ver_bairro',txt,cam);}
+ else if(a.closest('.cidades'))ev('trocar_cidade',txt,cam);
+ else if(a.closest('.tipos'))ev('trocar_tipo',txt,cam);
+ else if(a.closest('.toggle'))ev('alternar_operacao',txt,cam);
+ else if(h.indexOf('wa.me')>=0)ev('compartilhar','whatsapp',cam);
+ else if(/anuncie/.test(h))ev('clique_anuncie',txt,cam);
+ else if(h.indexOf('.csv')>=0||h.indexOf('.json')>=0)ev('baixar_dados',h.split('/').pop(),cam);
+ else if(a.closest('.ferr')||a.closest('.dl'))ev('clique_ferramenta',txt,cam);
+ else if(/copiar link/i.test(txt))ev('compartilhar','copiar link',cam);},true);
 function rol(){var d=document.documentElement,H=d.scrollHeight-d.clientHeight;if(H<=0)return;
  var p=Math.round(window.pageYOffset/H*100);
- [25,50,75,90].forEach(function(m){if(p>=m&&!prof[m]){prof[m]=1;ev('rolagem',{percentual:m,caminho:cam});}});}
+ [25,50,75,90].forEach(function(m){if(p>=m&&!prof[m]){prof[m]=1;ev('rolagem',m+'%',cam);}});}
 window.addEventListener('scroll',rol,{passive:true});
-[15,30,60,120].forEach(function(s){setTimeout(function(){if(!document.hidden)ev('permanencia',{segundos:s,caminho:cam});},s*1000);});
+[15,30,60,120].forEach(function(s){setTimeout(function(){if(!document.hidden)ev('permanencia',s+'s',cam);},s*1000);});
 document.addEventListener('visibilitychange',function(){if(document.visibilityState==='hidden'){
  var mx=0;for(var k in prof){if(+k>mx)mx=+k;}
- ev('saida_pagina',{segundos:Math.round((Date.now()-t0)/1000),rolagem_max:mx,caminho:cam});}});
+ var seg=Math.round((Date.now()-t0)/1000);
+ var fx=seg<10?'0 a 10s':seg<30?'10 a 30s':seg<60?'30 a 60s':seg<180?'1 a 3min':'mais de 3min';
+ ev('saida_pagina',fx+' | rolou '+mx+'%',cam);}});
 })();</script>
 <title>Apartamentos em Schroeder: R$ 4.583/m² por bairro (agosto/2026)</title>
 <meta name="description" content="Apartamentos em Schroeder: mediana de R$ 4.583/m² (venda) por bairro. Ranking com 2 bairros, metodologia aberta, atualizado em agosto/2026.">
