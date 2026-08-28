@@ -84,6 +84,14 @@ footer a{color:var(--amar);text-decoration:none;font-weight:600}
 </div>
 <div id="lados" style="display:flex;gap:12px;flex-wrap:wrap"></div>
 <div id="res" style="margin-top:18px"></div>
+<div id="ultimas" style="margin-top:16px"></div>
+<section id="prontas" style="margin-top:22px"><h2 style="font-size:1.1em;margin-bottom:8px">Comparações prontas</h2><ul class="sub" style="margin:0;padding-left:18px;line-height:1.8"><li><a href="?cat=apartamento&amp;s=jaragua:__geral,guaramirim:__geral,schroeder:__geral,corupa:__geral,massaranduba:__geral,joinville:__geral">Todas as cidades lado a lado (apartamentos)</a></li>
+<li><a href="?cat=apartamento&amp;s=jaragua:__geral,joinville:__geral">Jaraguá do Sul × Joinville: m², aluguel e rendimento</a></li>
+<li><a href="?cat=apartamento&amp;s=jaragua:Vila%20Nova,jaragua:Nova%20Bras%C3%ADlia,jaragua:Centro,jaragua:__geral">Os 3 bairros de m² mais caro de Jaraguá (Vila Nova, Nova Brasília, Centro) × a cidade</a></li>
+<li><a href="?cat=apartamento&amp;s=jaragua:Ribeir%C3%A3o%20Cavalo,jaragua:Rio%20da%20Luz,jaragua:Santa%20Luzia,jaragua:__geral">Os 3 bairros de m² mais barato de Jaraguá (Ribeirão Cavalo, Rio da Luz, Santa Luzia) × a cidade</a></li>
+<li><a href="?cat=apartamento&amp;s=jaragua:S%C3%A3o%20Lu%C3%ADs,jaragua:Tr%C3%AAs%20Rios%20do%20Sul,jaragua:Baependi,jaragua:__geral">Onde o aluguel rende mais em Jaraguá (São Luís, Três Rios do Sul, Baependi) × a cidade</a></li>
+<li><a href="?cat=casa&amp;s=jaragua:Vila%20Chartres,jaragua:Bra%C3%A7o%20do%20Ribeir%C3%A3o%20Cavalo,jaragua:__geral">Casas: Vila Chartres (mais caro) × Braço do Ribeirão Cavalo (mais barato) × a cidade</a></li>
+<li><a href="?cat=terreno&amp;s=jaragua:__geral,guaramirim:__geral,schroeder:__geral">Terrenos: Jaraguá × Guaramirim × Schroeder</a></li></ul></section>
 <p class="sub" style="margin-top:14px">Números idênticos aos das páginas de cada cidade (mediana de anúncios públicos, mês da coleta). Bairros com menos de 5 anúncios na categoria não aparecem. Melhor valor de cada linha em <b>negrito</b>. <a href="../metodologia/">Metodologia</a>.</p>
 </section>
 </div></main>
@@ -179,6 +187,24 @@ async function render(){
    <p class="sub" style="margin-top:8px">Na venda e no aluguel, negrito marca o mais barato; no rendimento e nos contadores, o maior.</p>`;
   const q=new URLSearchParams({cat,s:lados.map(l=>l.cid+":"+encodeURIComponent(l.bai)).join(",")});
   history.replaceState(null,"","?"+q.toString());
+  registra(cat,"?"+q.toString(),nomes.map(n=>n.replace(/<br>.*$/,"")),ds.map(d=>d.cidade.split("/")[0]));
+}
+const LSK="mq_ultimas_comparacoes";
+function registra(cat,url,nomes,cids){
+  const rot=nomes.map((n,i)=>n===cids[i]?n:n+" ("+cids[i]+")").join(" × ")+" · "+CATS[cat];
+  try{ if(typeof gtag==="function") gtag("event","comparar",{categoria:cat,colunas:lados.length,lados:lados.map(l=>l.cid+":"+l.bai).join(","),rotulo:rot}); }catch(e){}
+  try{
+    let L=JSON.parse(localStorage.getItem(LSK)||"[]").filter(x=>x.url!==url);
+    L.unshift({url,rot,t:Date.now()}); L=L.slice(0,6);
+    localStorage.setItem(LSK,JSON.stringify(L));
+    desenhaUltimas(L,url);
+  }catch(e){}
+}
+function desenhaUltimas(L,atual){
+  const el=$("ultimas"); if(!el) return;
+  const outras=(L||[]).filter(x=>x.url!==atual);
+  if(!outras.length){el.innerHTML="";return;}
+  el.innerHTML=`<p class="sub" style="margin:0 0 4px"><b>Suas últimas comparações</b> <small>(ficam só neste navegador)</small></p><ul class="sub" style="margin:0;padding-left:18px;line-height:1.7">${outras.map(x=>`<li><a href="${x.url}">${x.rot}</a></li>`).join("")}</ul>`;
 }
 async function init(){
   $("cat").innerHTML=Object.entries(CATS).map(([v,n])=>`<option value="${v}">${n}</option>`).join("");
