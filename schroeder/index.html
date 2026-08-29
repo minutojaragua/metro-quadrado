@@ -6,7 +6,24 @@
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-R0HV8VXVQZ"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());try{if(/[?&]interno=1/.test(location.search))localStorage.setItem('mq_interno','1');}catch(e){}
 var _mqInt=false;try{_mqInt=localStorage.getItem('mq_interno')==='1';}catch(e){}
-gtag('config','G-R0HV8VXVQZ',_mqInt?{anonymize_ip:true,traffic_type:'internal'}:{anonymize_ip:true});</script>
+// origem por navegador de app: o Instagram (e Threads/Facebook) abre o link no navegador
+// interno DELE e apaga o referrer, entao o clique da bio caia no GA4 como "(direct)".
+// O proprio app se identifica no user agent, entao da para creditar a origem sem sujar a
+// URL com utm_ (decisao do Jales 29/08/2026: link da bio fica limpo).
+var _mqApp=null;try{var _u=navigator.userAgent||'';
+ if(/Instagram/i.test(_u))_mqApp='instagram';
+ else if(/Barcelona/i.test(_u))_mqApp='threads';
+ else if(/FBAN|FBAV|FB_IAB/i.test(_u))_mqApp='facebook';
+ else if(/WhatsApp/i.test(_u))_mqApp='whatsapp';}catch(e){}
+var _mqCfg=_mqInt?{anonymize_ip:true,traffic_type:'internal'}:{anonymize_ip:true};
+// so credita se a URL nao trouxer utm_source: marcacao explicita sempre vence a deducao.
+if(_mqApp&&!/[?&]utm_source=/.test(location.search)){_mqCfg.campaign_source=_mqApp;_mqCfg.campaign_medium='app';_mqCfg.campaign_name='perfil';}
+gtag('config','G-R0HV8VXVQZ',_mqCfg);
+if(_mqApp)try{gtag('event','origem_app',{rotulo:_mqApp,categoria:location.pathname});}catch(e){}
+// marca de aparelho interno tambem como propriedade de usuario: assim o aparelho do Jales
+// (inclusive o celular) fica separavel no relatorio depois de registrar a dimensao de escopo
+// USUARIO chamada 'interno' no GA4. So o traffic_type nao basta, ele e inerte sem o filtro.
+if(_mqInt)try{gtag('set','user_properties',{interno:'1'});}catch(e){}</script>
 <!-- jornada do visitante: eventos proprios, sem biblioteca externa.
      Os parametros reusam "rotulo" e "categoria", que ja sao dimensoes
      personalizadas registradas no GA4, entao aparecem no relatorio sem
@@ -22,10 +39,13 @@ try{var j=JSON.parse(sessionStorage.getItem('mq_jornada')||'[]');
 document.addEventListener('click',function(e){
  var a=e.target&&e.target.closest?e.target.closest('a,button'):null;if(!a)return;
  var h=a.getAttribute('href')||'',txt=(a.textContent||'').trim().slice(0,60);
- if(h.indexOf('/bairro/')>=0){ev('ver_bairro',txt,cam);}
+ var cm=(a.tagName==='A'&&a.pathname)?a.pathname:h;
+ if(cm.indexOf('/bairro/')>=0){ev('ver_bairro',txt,cam);}
  else if(a.closest('.cidades'))ev('trocar_cidade',txt,cam);
  else if(a.closest('.tipos'))ev('trocar_tipo',txt,cam);
  else if(a.closest('.toggle'))ev('alternar_operacao',txt,cam);
+ else if(h.indexOf('ig.me')>=0)ev('contato','direct_ig',cam);
+ else if(h.indexOf('wa.me/55')>=0)ev('contato','whatsapp',cam);
  else if(h.indexOf('wa.me')>=0)ev('compartilhar','whatsapp',cam);
  else if(/anuncie/.test(h))ev('clique_anuncie',txt,cam);
  else if(h.indexOf('.csv')>=0||h.indexOf('.json')>=0)ev('baixar_dados',h.split('/').pop(),cam);
@@ -34,9 +54,9 @@ document.addEventListener('click',function(e){
 function rol(){var d=document.documentElement,H=d.scrollHeight-d.clientHeight;if(H<=0)return;
  var p=Math.round(window.pageYOffset/H*100);
  [25,50,75,90].forEach(function(m){if(p>=m&&!prof[m]){prof[m]=1;ev('rolagem',m+'%',cam);}});}
-window.addEventListener('scroll',rol,{passive:true});
+window.addEventListener('scroll',rol,{passive:true});rol();
 [15,30,60,120].forEach(function(s){setTimeout(function(){if(!document.hidden)ev('permanencia',s+'s',cam);},s*1000);});
-document.addEventListener('visibilitychange',function(){if(document.visibilityState==='hidden'){
+var _saiu=0;document.addEventListener('visibilitychange',function(){if(document.visibilityState==='hidden'&&!_saiu){_saiu=1;
  var mx=0;for(var k in prof){if(+k>mx)mx=+k;}
  var seg=Math.round((Date.now()-t0)/1000);
  var fx=seg<10?'0 a 10s':seg<30?'10 a 30s':seg<60?'30 a 60s':seg<180?'1 a 3min':'mais de 3min';
@@ -209,10 +229,8 @@ if(d.iptu_mensal)h+='<div class="kv"><span>IPTU (informado nos anúncios)</span>
 if(d.custo_mensal_alugando)h+='<div class="kv"><span>Custo mensal alugando (aluguel+condomínio'+(d.iptu_mensal?'+IPTU':'')+')</span><b>R$ '+fmt2(d.custo_mensal_alugando)+'/mês</b></div>';
 if(d.yield_anual_pct)h+='<div class="kv"><span>Rendimento bruto/ano</span><b>'+fmt2(d.yield_anual_pct,2)+'%</b></div>';
 return h+'</div>';}
-// mesmo guarda do /comparar/: só conta no GA4 depois de uma acao real da pessoa.
-// O escutador é de captura no document, entao roda ANTES do onchange do select.
-// (o _cmpInit antigo engolia a PRIMEIRA comparacao de verdade, porque compara()
-//  nunca roda no load desta pagina, o #cmp ja nasce com o texto de instrucao)
+// so conta depois de uma acao real da pessoa; escutador de captura no document,
+// que roda antes do onchange do select.
 let _mqUser=false;document.addEventListener("change",()=>{_mqUser=true;},true);document.addEventListener("click",()=>{_mqUser=true;},true);
 function compara(){document.getElementById('cmp').innerHTML=card(sa.value)+card(sb.value);
 if(_mqUser){try{if(typeof gtag==="function")gtag("event","comparar",{categoria:"casa",colunas:2,lados:"schroeder:"+sa.value+",schroeder:"+sb.value,rotulo:sa.value+" × "+sb.value+" · Casas (Schroeder)",origem:"pagina_cidade"});}catch(e){}}}
