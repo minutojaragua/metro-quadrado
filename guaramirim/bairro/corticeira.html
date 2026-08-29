@@ -101,6 +101,18 @@ header h1.tema{font-size:1.02rem;font-weight:600;letter-spacing:0;color:#cfcfcf;
 .cidades{display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 0}
 .cidades a{background:transparent;border:1px solid #555;color:#bbb;text-decoration:none;font-weight:600;padding:6px 14px;border-radius:99px;font-size:.82rem}
 .cidades a.on{border-color:var(--amar);color:var(--amar)}
+/* Os tres seletores (cidade, tipo de imovel e venda/aluguel) passaram a ficar
+   juntos, logo acima da tabela que eles mudam. Como saem do cabecalho escuro
+   para o corpo claro, precisam da variante de cor abaixo. */
+.filtros{background:var(--card);border:1px solid var(--borda);border-radius:12px;padding:14px 16px;margin-bottom:16px}
+.filtros .rot{display:block;font-size:.78rem;text-transform:uppercase;letter-spacing:.04em;color:var(--cinza);font-weight:700}
+.filtros .tipos,.filtros .cidades{margin:6px 0 0}
+.filtros .linha+.linha{margin-top:12px}
+.tipos.claro a{background:#efedE4;color:#3a3a3a}
+.tipos.claro a.on{background:var(--ink);color:var(--amar)}
+.cidades.claro a{border-color:#cfccbe;color:#5f5f5f}
+.cidades.claro a.on{border-color:var(--ink);color:var(--ink);background:#fff}
+.filtros .toggle{margin-bottom:0;margin-top:6px}
 main{padding:28px 0 10px}
 section{margin-bottom:42px}
 h2{font-size:1.35rem;margin-bottom:6px;border-left:5px solid var(--amar);padding-left:10px}
