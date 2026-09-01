@@ -1,6 +1,6 @@
 # Metro Quadrado — Índice Metro Quadrado (IMQ)
 
-> O preço do m² de 6 cidades do norte de Santa Catarina, Brasil, bairro por bairro, a partir de 51.963 anúncios públicos deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0 — cite "Índice Metro Quadrado (IMQ)" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 6 cidades do norte de Santa Catarina, Brasil, bairro por bairro, a partir de 51.969 anúncios públicos deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0 — cite "Índice Metro Quadrado (IMQ)" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: Índice Metro Quadrado (IMQ), do Minuto Jaraguá — medianas de anúncios públicos — setembro/2026. https://metroquadradosc.com.br
 
@@ -448,7 +448,7 @@ Como citar: Fonte: Índice Metro Quadrado (IMQ), do Minuto Jaraguá — medianas
 
 ## Florianópolis (setembro/2026) — https://metroquadradosc.com.br/florianopolis/
 
-### Apartamentos — cidade toda: venda R$ 11.486/m² (n=4225); aluguel R$ 54,3/m²/mês (n=2094); rendimento bruto do aluguel 5,67% a.a.
+### Apartamentos — cidade toda: venda R$ 11.486/m² (n=4225); aluguel R$ 54,3/m²/mês (n=2097); rendimento bruto do aluguel 5,67% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -459,7 +459,7 @@ Como citar: Fonte: Índice Metro Quadrado (IMQ), do Minuto Jaraguá — medianas
 | Bom Abrigo | R$ 9.420 | 31 | R$ 61,0 | 10 | 7,77% | – |
 | Cachoeira do Bom Jesus | R$ 12.246 | 116 | R$ 50,0 | 31 | 4,90% | – |
 | Cacupé | R$ 15.000 | 87 | R$ 82,2 | 13 | 6,58% | – |
-| Campeche | R$ 15.531 | 243 | R$ 69,9 | 140 | 5,40% | – |
+| Campeche | R$ 15.524 | 242 | R$ 69,9 | 135 | 5,40% | – |
 | Canasvieiras | R$ 11.248 | 196 | R$ 46,7 | 60 | 4,98% | – |
 | Canto | R$ 10.156 | 67 | R$ 45,6 | 25 | 5,39% | – |
 | Capoeiras | R$ 7.292 | 82 | R$ 42,4 | 48 | 6,98% | – |
@@ -480,6 +480,7 @@ Como citar: Fonte: Índice Metro Quadrado (IMQ), do Minuto Jaraguá — medianas
 | Lagoa da Conceição | R$ 11.479 | 36 | R$ 69,2 | 38 | 7,23% | – |
 | Monte Verde | R$ 10.276 | 26 | R$ 72,1 | 10 | 8,42% | – |
 | Morro das Pedras | R$ 14.391 | 37 | R$ 78,7 | 17 | 6,56% | – |
+| Novo Campeche | – | – | R$ 76,8 | 8 | – | – |
 | Pantanal | R$ 10.207 | 41 | R$ 51,1 | 62 | 6,01% | – |
 | Pântano do Sul | R$ 11.837 | 18 | R$ 69,7 | 14 | 7,07% | – |
 | Ponta das Canas | R$ 9.845 | 13 | – | – | – | – |
@@ -507,7 +508,7 @@ Como citar: Fonte: Índice Metro Quadrado (IMQ), do Minuto Jaraguá — medianas
 | Bom Abrigo | R$ 10.224 | 9 | – | – | – | – |
 | Cachoeira do Bom Jesus | R$ 8.559 | 145 | R$ 49,5 | 14 | 6,94% | – |
 | Cacupé | R$ 10.851 | 66 | R$ 54,1 | 8 | 5,98% | – |
-| Campeche | R$ 9.105 | 302 | R$ 53,3 | 98 | 7,02% | – |
+| Campeche | R$ 9.086 | 300 | R$ 53,3 | 98 | 7,04% | – |
 | Canasvieiras | R$ 8.202 | 71 | – | – | – | – |
 | Canto | R$ 6.667 | 17 | – | – | – | – |
 | Capoeiras | R$ 5.028 | 41 | R$ 33,9 | 6 | 8,09% | – |
