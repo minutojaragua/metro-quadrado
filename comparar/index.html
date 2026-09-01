@@ -304,6 +304,7 @@ async function render(){
    <tbody>${rows}</tbody></table></div>
    <p class="sub" style="margin-top:8px">Na venda e no aluguel, negrito marca o mais barato; no rendimento e nos contadores, o maior.</p>`;
   const q=new URLSearchParams({cat,s:lados.map(l=>l.cid+":"+encodeURIComponent(l.bai)).join(",")});
+  for(const [k,v] of new URLSearchParams(location.search))if(/^utm_/.test(k))q.set(k,v); // 01/09: preserva utm dos atalhos /w /s /f /t
   history.replaceState(null,"","?"+q.toString());
   registra(cat,"?"+q.toString(),nomes.map(n=>n.replace(/<br>.*$/,"")),ds.map(d=>d.cidade.split("/")[0]));
 }
