@@ -1,6 +1,6 @@
 # Metro Quadrado — Índice Metro Quadrado (IMQ)
 
-> O preço do m² de 6 cidades do norte de Santa Catarina, Brasil, bairro por bairro, a partir de 17.812 anúncios públicos deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0 — cite "Índice Metro Quadrado (IMQ)" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 6 cidades do norte de Santa Catarina, Brasil, bairro por bairro, a partir de 50.001 anúncios públicos deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0 — cite "Índice Metro Quadrado (IMQ)" com link. Atualização mensal (setembro/2026).
 
 ## Cidades (dados por bairro)
 
@@ -9,7 +9,8 @@
 - [Schroeder](https://metroquadradosc.com.br/schroeder/) — mediana apartamentos: R$ 4.596/m² (venda)
 - [Corupá](https://metroquadradosc.com.br/corupa/)
 - [Massaranduba](https://metroquadradosc.com.br/massaranduba/)
-- [Joinville](https://metroquadradosc.com.br/joinville/) — mediana apartamentos: R$ 7.229/m² (venda)
+- [Joinville](https://metroquadradosc.com.br/joinville/) — mediana apartamentos: R$ 7.294/m² (venda)
+- [Blumenau](https://metroquadradosc.com.br/blumenau/) — mediana apartamentos: R$ 7.816/m² (venda)
 
 ## Ferramentas e dados
 
