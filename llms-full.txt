@@ -1,6 +1,6 @@
 # Metro Quadrado — Índice Metro Quadrado (IMQ)
 
-> O preço do m² de 6 cidades do norte de Santa Catarina, Brasil, bairro por bairro, a partir de 94.911 anúncios públicos deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0 — cite "Índice Metro Quadrado (IMQ)" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 6 cidades do norte de Santa Catarina, Brasil, bairro por bairro, a partir de 94.954 anúncios públicos deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0 — cite "Índice Metro Quadrado (IMQ)" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: Índice Metro Quadrado (IMQ), do Minuto Jaraguá — medianas de anúncios públicos — setembro/2026. https://metroquadradosc.com.br
 
@@ -1733,12 +1733,12 @@ Como citar: Fonte: Índice Metro Quadrado (IMQ), do Minuto Jaraguá — medianas
 
 ## Navegantes (setembro/2026) — https://metroquadradosc.com.br/navegantes/
 
-### Apartamentos — cidade toda: venda R$ 9.161/m² (n=1117); aluguel R$ 37,9/m²/mês (n=124); rendimento bruto do aluguel 4,96% a.a.
+### Apartamentos — cidade toda: venda R$ 9.184/m² (n=1127); aluguel R$ 37,9/m²/mês (n=124); rendimento bruto do aluguel 4,95% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Centro | R$ 9.582 | 343 | R$ 40,0 | 37 | 5,01% | – |
-| Gravatá | R$ 9.472 | 561 | R$ 37,9 | 58 | 4,80% | – |
+| Centro | R$ 9.591 | 342 | R$ 40,0 | 37 | 5,00% | – |
+| Gravatá | R$ 9.472 | 563 | R$ 37,9 | 58 | 4,80% | – |
 | Machados | R$ 6.818 | 7 | R$ 40,1 | 6 | 7,06% | – |
 | Meia Praia | R$ 8.014 | 144 | R$ 36,1 | 13 | 5,41% | – |
 | São Domingos | R$ 6.666 | 8 | – | – | – | – |
@@ -1746,14 +1746,14 @@ Como citar: Fonte: Índice Metro Quadrado (IMQ), do Minuto Jaraguá — medianas
 | São Pedro | R$ 10.543 | 22 | – | – | – | – |
 | Volta Grande | R$ 5.082 | 9 | R$ 33,3 | 6 | 7,86% | – |
 
-### Casas — cidade toda: venda R$ 6.322/m² (n=343); aluguel R$ 34,0/m²/mês (n=27); rendimento bruto do aluguel 6,45% a.a.
+### Casas — cidade toda: venda R$ 6.318/m² (n=354); aluguel R$ 34,0/m²/mês (n=27); rendimento bruto do aluguel 6,46% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Centro | R$ 6.667 | 98 | R$ 31,0 | 6 | 5,58% | – |
-| Gravatá | R$ 6.629 | 118 | R$ 34,0 | 13 | 6,15% | – |
+| Centro | R$ 6.667 | 99 | R$ 31,0 | 6 | 5,58% | – |
+| Gravatá | R$ 6.667 | 123 | R$ 34,0 | 13 | 6,12% | – |
 | Machados | R$ 4.300 | 15 | – | – | – | – |
-| Meia Praia | R$ 7.132 | 67 | R$ 31,4 | 5 | 5,28% | – |
+| Meia Praia | R$ 6.593 | 71 | R$ 31,4 | 5 | 5,71% | – |
 | Nossa Senhora das Graças | R$ 3.791 | 6 | – | – | – | – |
 | São Domingos | R$ 4.500 | 19 | – | – | – | – |
 
@@ -1767,7 +1767,7 @@ Como citar: Fonte: Índice Metro Quadrado (IMQ), do Minuto Jaraguá — medianas
 | Meia Praia | R$ 2.273 | 13 | – | – | – | – |
 | Volta Grande | R$ 931 | 6 | – | – | – | – |
 
-### Salas comerciais — cidade toda: aluguel R$ 57,4/m²/mês (n=35)
+### Salas comerciais — cidade toda: venda R$ 8.333/m² (n=5); aluguel R$ 57,4/m²/mês (n=35); rendimento bruto do aluguel 8,27% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
