@@ -1,27 +1,27 @@
-# Metro Quadrado — Índice Metro Quadrado (IMQ)
+# Metro Quadrado: Índice Metro Quadrado (IMQ)
 
-> O preço do m² de 18 cidades de Santa Catarina, Brasil, bairro por bairro, a partir de 76.525 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0 — cite "Índice Metro Quadrado (IMQ)" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 18 cidades de Santa Catarina, Brasil, bairro por bairro, a partir de 76.525 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "Índice Metro Quadrado (IMQ)" com link. Atualização mensal (setembro/2026).
 
 ## Cidades (dados por bairro)
 
-- [Jaraguá do Sul](https://metroquadradosc.com.br/) — mediana apartamentos: R$ 5.984/m² (venda)
-- [Guaramirim](https://metroquadradosc.com.br/guaramirim/) — mediana apartamentos: R$ 5.238/m² (venda)
-- [Schroeder](https://metroquadradosc.com.br/schroeder/) — mediana apartamentos: R$ 4.596/m² (venda)
+- [Jaraguá do Sul](https://metroquadradosc.com.br/): mediana apartamentos R$ 5.984/m² (venda)
+- [Guaramirim](https://metroquadradosc.com.br/guaramirim/): mediana apartamentos R$ 5.238/m² (venda)
+- [Schroeder](https://metroquadradosc.com.br/schroeder/): mediana apartamentos R$ 4.596/m² (venda)
 - [Corupá](https://metroquadradosc.com.br/corupa/)
 - [Massaranduba](https://metroquadradosc.com.br/massaranduba/)
-- [Joinville](https://metroquadradosc.com.br/joinville/) — mediana apartamentos: R$ 7.294/m² (venda)
-- [Florianópolis](https://metroquadradosc.com.br/florianopolis/) — mediana apartamentos: R$ 12.087/m² (venda)
-- [Blumenau](https://metroquadradosc.com.br/blumenau/) — mediana apartamentos: R$ 7.767/m² (venda)
-- [São Bento do Sul](https://metroquadradosc.com.br/sao-bento-do-sul/) — mediana apartamentos: R$ 5.778/m² (venda)
-- [São Francisco do Sul](https://metroquadradosc.com.br/sao-francisco-do-sul/) — mediana apartamentos: R$ 7.000/m² (venda)
-- [Brusque](https://metroquadradosc.com.br/brusque/) — mediana apartamentos: R$ 7.424/m² (venda)
-- [São José](https://metroquadradosc.com.br/sao-jose/) — mediana apartamentos: R$ 7.853/m² (venda)
-- [Palhoça](https://metroquadradosc.com.br/palhoca/) — mediana apartamentos: R$ 7.680/m² (venda)
-- [Chapecó](https://metroquadradosc.com.br/chapeco/) — mediana apartamentos: R$ 6.730/m² (venda)
-- [Criciúma](https://metroquadradosc.com.br/criciuma/) — mediana apartamentos: R$ 6.348/m² (venda)
-- [Lages](https://metroquadradosc.com.br/lages/) — mediana apartamentos: R$ 6.569/m² (venda)
-- [Itajaí](https://metroquadradosc.com.br/itajai/) — mediana apartamentos: R$ 11.534/m² (venda)
-- [Navegantes](https://metroquadradosc.com.br/navegantes/) — mediana apartamentos: R$ 9.184/m² (venda)
+- [Joinville](https://metroquadradosc.com.br/joinville/): mediana apartamentos R$ 7.294/m² (venda)
+- [Florianópolis](https://metroquadradosc.com.br/florianopolis/): mediana apartamentos R$ 12.087/m² (venda)
+- [Blumenau](https://metroquadradosc.com.br/blumenau/): mediana apartamentos R$ 7.767/m² (venda)
+- [São Bento do Sul](https://metroquadradosc.com.br/sao-bento-do-sul/): mediana apartamentos R$ 5.778/m² (venda)
+- [São Francisco do Sul](https://metroquadradosc.com.br/sao-francisco-do-sul/): mediana apartamentos R$ 7.000/m² (venda)
+- [Brusque](https://metroquadradosc.com.br/brusque/): mediana apartamentos R$ 7.424/m² (venda)
+- [São José](https://metroquadradosc.com.br/sao-jose/): mediana apartamentos R$ 7.853/m² (venda)
+- [Palhoça](https://metroquadradosc.com.br/palhoca/): mediana apartamentos R$ 7.680/m² (venda)
+- [Chapecó](https://metroquadradosc.com.br/chapeco/): mediana apartamentos R$ 6.730/m² (venda)
+- [Criciúma](https://metroquadradosc.com.br/criciuma/): mediana apartamentos R$ 6.348/m² (venda)
+- [Lages](https://metroquadradosc.com.br/lages/): mediana apartamentos R$ 6.569/m² (venda)
+- [Itajaí](https://metroquadradosc.com.br/itajai/): mediana apartamentos R$ 11.534/m² (venda)
+- [Navegantes](https://metroquadradosc.com.br/navegantes/): mediana apartamentos R$ 9.184/m² (venda)
 
 ## Ferramentas e dados
 
@@ -34,4 +34,4 @@
 
 ## Como citar
 
-Fonte: Índice Metro Quadrado (IMQ), do Minuto Jaraguá — medianas de anúncios públicos — setembro/2026. https://metroquadradosc.com.br
+Fonte: Índice Metro Quadrado (IMQ), do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://metroquadradosc.com.br
