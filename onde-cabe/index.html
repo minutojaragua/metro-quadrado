@@ -83,7 +83,7 @@ var _saiu=0;document.addEventListener('visibilitychange',function(){if(document.
 <link rel="manifest" href="https://metroquadradosc.com.br/manifest.webmanifest">
 <meta name="theme-color" content="#1a1a1a">
 <link rel="canonical" href="https://metroquadradosc.com.br/onde-cabe/">
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Em qual bairro dá para alugar apartamento com R$ 1.800 por mês?", "acceptedAnswer": {"@type": "Answer", "text": "Na aba Alugar, o Metro Quadrado lista os bairros em que o aluguel do apartamento típico cabe no que você pode pagar por mês, com dados de setembro/2026. O aluguel típico é o de área e aluguel medianos anunciados no bairro. Não entram condomínio, IPTU nem caução."}}, {"@type": "Question", "name": "Onde dá para comprar apartamento com R$ 350 mil em Santa Catarina?", "acceptedAnswer": {"@type": "Answer", "text": "O Metro Quadrado mostra, com dados de setembro/2026, em quais bairros esse valor paga o apartamento típico (o de área e valor medianos anunciados no bairro), em todas as cidades do índice, com a área que você levaria em cada um."}}, {"@type": "Question", "name": "O que é o apartamento típico de um bairro?", "acceptedAnswer": {"@type": "Answer", "text": "É o apartamento de área e valor medianos entre os anúncios do bairro no mês. Metade dos anúncios está acima e metade abaixo, o que evita que poucos imóveis de luxo distorçam a referência."}}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Metro Quadrado", "item": "https://metroquadradosc.com.br/"}, {"@type": "ListItem", "position": 2, "name": "Onde meu dinheiro compra", "item": "https://metroquadradosc.com.br/onde-cabe/"}]}</script><style>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "O aluguel mostrado inclui condomínio e IPTU?", "acceptedAnswer": {"@type": "Answer", "text": "Não, e por um motivo de dado: entre os anúncios coletados, pouquíssimos informam essas duas despesas. O condomínio por bairro só existe em 22 dos 339 bairros medidos, e o IPTU por bairro não existe em nenhum. Estimar bairro a bairro faria os bairros que informam parecerem mais caros e os que nada informam parecerem mais baratos, o que premiaria justamente os bairros sobre os quais há menos informação. Por isso o campo é seu: você informa o valor que conhece e ele entra na conta de todos os bairros por igual."}}, {"@type": "Question", "name": "Em qual bairro dá para alugar apartamento com R$ 1.800 por mês?", "acceptedAnswer": {"@type": "Answer", "text": "Na aba Alugar, o Metro Quadrado lista os bairros em que o aluguel do apartamento típico cabe no que você pode pagar por mês, com dados de setembro/2026. O aluguel típico é o de área e aluguel medianos anunciados no bairro. Não entram condomínio, IPTU nem caução."}}, {"@type": "Question", "name": "Onde dá para comprar apartamento com R$ 350 mil em Santa Catarina?", "acceptedAnswer": {"@type": "Answer", "text": "O Metro Quadrado mostra, com dados de setembro/2026, em quais bairros esse valor paga o apartamento típico (o de área e valor medianos anunciados no bairro), em todas as cidades do índice, com a área que você levaria em cada um."}}, {"@type": "Question", "name": "O que é o apartamento típico de um bairro?", "acceptedAnswer": {"@type": "Answer", "text": "É o apartamento de área e valor medianos entre os anúncios do bairro no mês. Metade dos anúncios está acima e metade abaixo, o que evita que poucos imóveis de luxo distorçam a referência."}}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Metro Quadrado", "item": "https://metroquadradosc.com.br/"}, {"@type": "ListItem", "position": 2, "name": "Onde meu dinheiro compra", "item": "https://metroquadradosc.com.br/onde-cabe/"}]}</script><style>
 :root{--amar:#FFD400;--ink:#1a1a1a;--cinza:#666;--fundo:#fafaf7;--card:#fff;--borda:#e8e6e0}
 *{margin:0;padding:0;box-sizing:border-box}
 body{font-family:-apple-system,'Segoe UI',Roboto,sans-serif;background:var(--fundo);color:var(--ink);line-height:1.55}
@@ -247,6 +247,12 @@ td a{display:inline-block;padding:4px 0}}
 </select>
 <label style="display:flex;align-items:center;gap:6px;font-size:.9rem;color:#555"><input id="peq" type="checkbox"> incluir bairros com poucos anúncios</label>
 </div>
+<div id="encBox" style="display:none;gap:8px;flex-wrap:wrap;align-items:center;margin:0 0 10px">
+<label for="enc" style="font-weight:600">Somar condomínio e IPTU</label>
+<input id="enc" type="text" inputmode="numeric" value="" placeholder="0" aria-label="Condomínio e IPTU por mês, em reais" style="padding:10px 12px;font-size:1.05em;border-radius:8px;width:120px;border:1px solid #999">
+<span class="sub" style="margin:0">por mês, igual em todos os bairros</span>
+</div>
+<p id="encDica" class="sub" style="margin:0 0 12px"></p>
 <div id="chips" style="display:flex;gap:8px;flex-wrap:wrap;margin:0 0 14px"></div>
 <div id="resumo" class="kv" style="margin-bottom:12px"></div>
 <div id="res"></div>
@@ -254,7 +260,7 @@ td a{display:inline-block;padding:4px 0}}
 <p class="sub" id="notaTip" style="margin-top:8px">O apartamento típico é o de área e valor medianos anunciados naquele bairro. Cabe = o valor típico é menor ou igual ao que você informou. Por padrão a lista mostra só bairros com 10 anúncios ou mais, para não recomendar bairro medido com meia dúzia de imóveis. <a href="../metodologia/">Metodologia</a>.</p>
 <div class="aviso" style="margin-top:10px">📷 São <b>preços pedidos</b> em anúncios públicos do mês, não valores de venda fechada, e não entram custos de escritura, ITBI e reforma. Não é avaliação nem recomendação de investimento. Nada do que você digita é enviado ou guardado: a conta acontece no seu navegador.</div>
 </section>
-<section id="faq"><h2>Perguntas frequentes</h2><details class="faq"><summary><h3>Em qual bairro dá para alugar apartamento com R$ 1.800 por mês?</h3></summary><p class="sub">Na aba Alugar, o Metro Quadrado lista os bairros em que o aluguel do apartamento típico cabe no que você pode pagar por mês, com dados de setembro/2026. O aluguel típico é o de área e aluguel medianos anunciados no bairro. Não entram condomínio, IPTU nem caução.</p></details><details class="faq"><summary><h3>Onde dá para comprar apartamento com R$ 350 mil em Santa Catarina?</h3></summary><p class="sub">O Metro Quadrado mostra, com dados de setembro/2026, em quais bairros esse valor paga o apartamento típico (o de área e valor medianos anunciados no bairro), em todas as cidades do índice, com a área que você levaria em cada um.</p></details><details class="faq"><summary><h3>O que é o apartamento típico de um bairro?</h3></summary><p class="sub">É o apartamento de área e valor medianos entre os anúncios do bairro no mês. Metade dos anúncios está acima e metade abaixo, o que evita que poucos imóveis de luxo distorçam a referência.</p></details></section>
+<section id="faq"><h2>Perguntas frequentes</h2><details class="faq"><summary><h3>O aluguel mostrado inclui condomínio e IPTU?</h3></summary><p class="sub">Não, e por um motivo de dado: entre os anúncios coletados, pouquíssimos informam essas duas despesas. O condomínio por bairro só existe em 22 dos 339 bairros medidos, e o IPTU por bairro não existe em nenhum. Estimar bairro a bairro faria os bairros que informam parecerem mais caros e os que nada informam parecerem mais baratos, o que premiaria justamente os bairros sobre os quais há menos informação. Por isso o campo é seu: você informa o valor que conhece e ele entra na conta de todos os bairros por igual.</p></details><details class="faq"><summary><h3>Em qual bairro dá para alugar apartamento com R$ 1.800 por mês?</h3></summary><p class="sub">Na aba Alugar, o Metro Quadrado lista os bairros em que o aluguel do apartamento típico cabe no que você pode pagar por mês, com dados de setembro/2026. O aluguel típico é o de área e aluguel medianos anunciados no bairro. Não entram condomínio, IPTU nem caução.</p></details><details class="faq"><summary><h3>Onde dá para comprar apartamento com R$ 350 mil em Santa Catarina?</h3></summary><p class="sub">O Metro Quadrado mostra, com dados de setembro/2026, em quais bairros esse valor paga o apartamento típico (o de área e valor medianos anunciados no bairro), em todas as cidades do índice, com a área que você levaria em cada um.</p></details><details class="faq"><summary><h3>O que é o apartamento típico de um bairro?</h3></summary><p class="sub">É o apartamento de área e valor medianos entre os anúncios do bairro no mês. Metade dos anúncios está acima e metade abaixo, o que evita que poucos imóveis de luxo distorçam a referência.</p></details></section>
 </div></main>
 <script>
 const MCMV=[{"rot": "Faixas 1 e 2", "renda": "até R$ 5.000", "teto": 275000}, {"rot": "Faixa 3", "renda": "R$ 5.000,01 a R$ 9.600", "teto": 400000}, {"rot": "Faixa 4", "renda": "R$ 9.600,01 a R$ 13.000", "teto": 600000}];const CFG=[{"slug": "jaragua", "nome": "Jaraguá do Sul", "path": "../dados.json"}, {"slug": "guaramirim", "nome": "Guaramirim", "path": "../guaramirim/dados.json"}, {"slug": "schroeder", "nome": "Schroeder", "path": "../schroeder/dados.json"}, {"slug": "corupa", "nome": "Corupá", "path": "../corupa/dados.json"}, {"slug": "massaranduba", "nome": "Massaranduba", "path": "../massaranduba/dados.json"}, {"slug": "joinville", "nome": "Joinville", "path": "../joinville/dados.json"}, {"slug": "florianopolis", "nome": "Florianópolis", "path": "../florianopolis/dados.json"}, {"slug": "blumenau", "nome": "Blumenau", "path": "../blumenau/dados.json"}, {"slug": "sao-bento-do-sul", "nome": "São Bento do Sul", "path": "../sao-bento-do-sul/dados.json"}, {"slug": "sao-francisco-do-sul", "nome": "São Francisco do Sul", "path": "../sao-francisco-do-sul/dados.json"}, {"slug": "brusque", "nome": "Brusque", "path": "../brusque/dados.json"}, {"slug": "sao-jose", "nome": "São José", "path": "../sao-jose/dados.json"}, {"slug": "palhoca", "nome": "Palhoça", "path": "../palhoca/dados.json"}, {"slug": "chapeco", "nome": "Chapecó", "path": "../chapeco/dados.json"}, {"slug": "criciuma", "nome": "Criciúma", "path": "../criciuma/dados.json"}, {"slug": "lages", "nome": "Lages", "path": "../lages/dados.json"}, {"slug": "itajai", "nome": "Itajaí", "path": "../itajai/dados.json"}, {"slug": "navegantes", "nome": "Navegantes", "path": "../navegantes/dados.json"}];
@@ -262,6 +268,9 @@ const MCMV=[{"rot": "Faixas 1 e 2", "renda": "até R$ 5.000", "teto": 275000}, {
 // a ferramenta so respondia a compra. O dado do aluguel do apartamento tipico ja existia no
 // dados.json (tipico.aluguel: valor mensal, area, n), so nao era lido por ninguem.
 let OP="venda";                    // "venda" ou "aluguel"
+// Referencia de condominio/IPTU POR CIDADE, preenchida ao carregar cada cidade.
+// Nao entra na conta sozinha, e so sugestao de preenchimento: ver a nota abaixo.
+const REF={};
 const ehAlu=()=>OP==="aluguel";
 const cache={};
 const $=id=>document.getElementById(id);
@@ -277,6 +286,8 @@ async function universo(){
   const out=[];
   for(const c of alvo){
     let d;try{d=await dados(c);}catch(e){continue;}
+    const G=(d.segmentos.apartamento||{}).geral||{};
+    if(G.condominio)REF[c.slug]={nome:d.cidade.split("/")[0],...G.condominio};
     const B=(d.segmentos.apartamento||{}).bairros||{};
     for(const b in B){
       const t=(B[b].tipico||{})[OP], m=(B[b][OP]||{}).mediana;
@@ -295,13 +306,22 @@ async function calcula(){
   if(!v){$("resumo").innerHTML="";$("res").innerHTML='<p class="sub">Informe um valor para começar.</p>';return;}
   const U0=await universo();
   const U=$("peq").checked?U0:U0.filter(x=>x.n>=10);
-  const cabem=U.filter(x=>x.valor<=v);
+  // Encargos informados pela pessoa, aplicados IGUAIS a todos os bairros. E de proposito:
+  // condominio por bairro so existe em 22 dos 339 bairros medidos (6%, e so em Jaraguá e
+  // Joinville) e IPTU por bairro nao existe em nenhum. Somar so onde o dado existe faria o
+  // pior dos mundos: os bairros que informam ficariam artificialmente mais caros e cairiam
+  // da lista, enquanto os que nada informam subiriam. O vies premiaria justamente os bairros
+  // sobre os quais sabemos menos. Uniforme e honesto; por bairro seria invencao.
+  const enc=ehAlu()?limpaNum($("enc").value):0;
+  dicaEncargos();
+  const cabem=U.filter(x=>x.valor+enc<=v);
   const cidades=new Set(cabem.map(x=>x.cidade));
   const ord=$("ord").value;
   cabem.sort((a,b)=>ord==="area"?b.area-a.area:ord==="caro"?b.valor-a.valor:a.valor-b.valor);
   $("resumo").innerHTML='<div><b>R$ '+fmt(v)+(ehAlu()?"/mês":"")+'</b> '+(ehAlu()?"aluga":"paga")+' o apartamento típico em <b>'+cabem.length+'</b> '+
     (cabem.length===1?"bairro":"bairros")+(cidades.size?' de <b>'+cidades.size+'</b> '+(cidades.size===1?"cidade":"cidades"):"")+
-    ' entre os '+U.length+' bairros medidos'+($("peq").checked?"":" com pelo menos 10 anúncios")+'.</div>';
+    ' entre os '+U.length+' bairros medidos'+($("peq").checked?"":" com pelo menos 10 anúncios")+'.'+
+    (enc?' Já somando R$ '+fmt(enc)+'/mês de condomínio e IPTU.':'')+'</div>';
   if(!cabem.length){
     const prox=U.slice().sort((a,b)=>a.valor-b.valor).slice(0,3);
     $("res").innerHTML='<p class="sub">Nenhum bairro medido tem apartamento típico nessa faixa. Os mais acessíveis hoje são '+
@@ -311,13 +331,33 @@ async function calcula(){
   const lin=cabem.slice(0,60).map(function(x,i){
     return '<tr><td class="rk">'+(i+1)+'</td><td><a href="'+x.url+'" style="color:inherit;border-bottom:1px dotted #999;text-decoration:none">'+x.bairro+'</a><br><span class="sub" style="font-size:.85em">'+x.cidade+'</span></td>'+
     '<td class="num">R$ '+fmt(x.valor)+(ehAlu()?"<span class=\"muted\">/mês</span>":"")+'</td><td class="num">'+fmt(x.area)+' m²</td>'+
-    '<td class="num">R$ '+fmt(x.m2,ehAlu()?1:0)+'</td><td class="num">R$ '+fmt(v-x.valor)+'</td><td>'+selo(x.n)+'</td></tr>';
+    (enc?'<td class="num"><b>R$ '+fmt(x.valor+enc)+'</b></td>':'')+
+    '<td class="num">R$ '+fmt(x.m2,ehAlu()?1:0)+'</td><td class="num">R$ '+fmt(v-x.valor-enc)+'</td><td>'+selo(x.n)+'</td></tr>';
   }).join("");
   $("res").innerHTML='<div class="tblwrap"><table><thead><tr><th class="rk">#</th><th data-s="t">Bairro</th>'+
     '<th class="num" data-s="n">'+(ehAlu()?"Aluguel típico":"Apartamento típico")+'</th><th class="num" data-s="n">Área típica</th>'+
+    (enc?'<th class="num" data-s="n">Total/mês</th>':'')+
     '<th class="num" data-s="n">'+(ehAlu()?"R$/m²/mês":"R$/m² do bairro")+'</th><th class="num" data-s="n">Sobra</th><th data-s="c">Confiança</th></tr></thead><tbody>'+lin+'</tbody></table></div>'+
     (cabem.length>60?'<p class="sub" style="margin-top:8px">Mostrando os 60 primeiros de '+cabem.length+'. Filtre por cidade para ver o resto.</p>':'');
   try{if(typeof gtag==="function")gtag("event","onde_cabe",{rotulo:"R$ "+fmt(v),categoria:$("cid").value,lados:String(cabem.length)});}catch(e){}
+}
+// So sugere numero de condominio/IPTU com amostra que sustente. Guaramirim, por exemplo,
+// tem IPTU informado em UM anuncio: isso nao e mediana, e anedota, e nao pode virar sugestao.
+const MIN_REF=30;
+function dicaEncargos(){
+  const el=$("encDica"); if(!el)return;
+  if(!ehAlu()){el.innerHTML="";return;}
+  const c=REF[$("cid").value];
+  if(!c||(c.n||0)<MIN_REF){
+    el.innerHTML='Poucos anúncios informam condomínio e IPTU, então o site não os estima por bairro. Se você souber o valor, informe acima e ele entra na conta de todos os bairros.';
+    return;
+  }
+  const temIptu=(c.n_iptu||0)>=MIN_REF&&c.iptu_mes;
+  const soma=(c.condominio||0)+(temIptu?c.iptu_mes:0);
+  el.innerHTML='Em '+c.nome+', entre os anúncios que informam, a mediana é <b>R$ '+fmt(c.condominio)+'</b> de condomínio ('+c.n+' anúncios)'+
+    (temIptu?' e <b>R$ '+fmt(c.iptu_mes)+'</b> de IPTU mensal ('+c.n_iptu+' anúncios)':' (IPTU sem amostra suficiente)')+
+    '. <button type="button" id="usarRef" style="border:1px solid #ccc;background:#fff;border-radius:999px;padding:5px 12px;cursor:pointer;font-size:.85rem">usar R$ '+fmt(soma)+'</button>';
+  const b=$("usarRef"); if(b)b.onclick=()=>{$("enc").value=fmt(soma);calcula();};
 }
 function chips(){
   // faixas de aluguel escolhidas em cima do que o proprio indice mostra: o aluguel tipico
@@ -340,8 +380,10 @@ function modo(op){
   // o valor de compra nao serve de aluguel e vice-versa: cai no atalho do meio da regua nova
   $("val").value=fmt(ehAlu()?1800:400000);
   $("mcmvNota").style.display=ehAlu()?"none":"";
+  $("encBox").style.display=ehAlu()?"flex":"none";
+  if(!ehAlu())$("enc").value="";
   $("notaTip").innerHTML=ehAlu()
-    ? 'O apartamento típico é o de área e aluguel medianos anunciados naquele bairro. Cabe = o aluguel típico é menor ou igual ao que você informou. Não entram condomínio, IPTU nem caução.'
+    ? 'O apartamento típico é o de área e aluguel medianos anunciados naquele bairro. Cabe = aluguel típico mais o condomínio e IPTU que você informar, menor ou igual ao que você pode pagar. Caução e taxas de contrato não entram.'
     : 'O apartamento típico é o de área e valor medianos anunciados naquele bairro. Cabe = o valor típico é menor ou igual ao que você informou.';
   chips();
   calcula();
@@ -357,6 +399,8 @@ async function init(){
   $("cid").addEventListener("change",calcula);
   $("ord").addEventListener("change",calcula);
   $("peq").addEventListener("change",calcula);
+  $("enc").addEventListener("change",calcula);
+  $("enc").addEventListener("keyup",e=>{if(e.key==="Enter")calcula();});
   // o modo entra por ultimo: modo() ja refaz os atalhos e chama calcula(), e precisa dos
   // ouvintes ja ligados. Com ?op=aluguel a pilula da barra cai direto no modo aluguel.
   if(q.get("op")==="aluguel"){modo("aluguel");return;}
