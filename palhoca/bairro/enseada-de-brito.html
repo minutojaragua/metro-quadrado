@@ -1,0 +1,209 @@
+<!DOCTYPE html><html lang="pt-BR"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
+<meta name="author" content="Minuto Jaraguá">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R0HV8VXVQZ"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());try{if(/[?&]interno=1/.test(location.search))localStorage.setItem('mq_interno','1');}catch(e){}
+var _mqInt=false;try{_mqInt=localStorage.getItem('mq_interno')==='1';}catch(e){}
+// origem por navegador de app: o Instagram (e Threads/Facebook) abre o link no navegador
+// interno DELE e apaga o referrer, entao o clique da bio caia no GA4 como "(direct)".
+// O proprio app se identifica no user agent, entao da para creditar a origem sem sujar a
+// URL com utm_ (decisao do Jales 29/08/2026: link da bio fica limpo).
+var _mqApp=null;try{var _u=navigator.userAgent||'';
+ if(/Instagram/i.test(_u))_mqApp='instagram';
+ else if(/Barcelona/i.test(_u))_mqApp='threads';
+ else if(/FBAN|FBAV|FB_IAB/i.test(_u))_mqApp='facebook';
+ else if(/WhatsApp/i.test(_u))_mqApp='whatsapp';}catch(e){}
+var _mqCfg=_mqInt?{anonymize_ip:true,traffic_type:'internal'}:{anonymize_ip:true};
+// so credita se a URL nao trouxer utm_source: marcacao explicita sempre vence a deducao.
+if(_mqApp&&!/[?&]utm_source=/.test(location.search)){_mqCfg.campaign_source=_mqApp;_mqCfg.campaign_medium='app';_mqCfg.campaign_name='perfil';}
+gtag('config','G-R0HV8VXVQZ',_mqCfg);
+if(_mqApp)try{gtag('event','origem_app',{rotulo:_mqApp,categoria:location.pathname});}catch(e){}
+// marca de aparelho interno tambem como propriedade de usuario: assim o aparelho do Jales
+// (inclusive o celular) fica separavel no relatorio depois de registrar a dimensao de escopo
+// USUARIO chamada 'interno' no GA4. So o traffic_type nao basta, ele e inerte sem o filtro.
+if(_mqInt)try{gtag('set','user_properties',{interno:'1'});}catch(e){}</script>
+<!-- jornada do visitante: eventos proprios, sem biblioteca externa.
+     Os parametros reusam "rotulo" e "categoria", que ja sao dimensoes
+     personalizadas registradas no GA4, entao aparecem no relatorio sem
+     precisar registrar nada novo. -->
+<script>(function(){
+function ev(n,r,c){try{if(typeof gtag==='function')gtag('event',n,{rotulo:r||'',categoria:c||''});}catch(e){}}
+var t0=Date.now(),prof={},cam=location.pathname;
+try{var j=JSON.parse(sessionStorage.getItem('mq_jornada')||'[]');
+ var de=j.length?j[j.length-1]:'(entrada)';
+ j.push(cam);if(j.length>30)j=j.slice(-30);
+ sessionStorage.setItem('mq_jornada',JSON.stringify(j));
+ ev('passo_jornada',(j.length>=3?'passo 3+':'passo '+j.length)+' | veio de '+de,cam);}catch(e){}
+document.addEventListener('click',function(e){
+ var a=e.target&&e.target.closest?e.target.closest('a,button'):null;if(!a)return;
+ var h=a.getAttribute('href')||'',txt=(a.textContent||'').trim().slice(0,60);
+ var cm=(a.tagName==='A'&&a.pathname)?a.pathname:h;
+ if(cm.indexOf('/bairro/')>=0){ev('ver_bairro',txt,cam);}
+ else if(a.closest('.cidades'))ev('trocar_cidade',txt,cam);
+ else if(a.closest('.tipos'))ev('trocar_tipo',txt,cam);
+ else if(a.closest('.toggle'))ev('alternar_operacao',txt,cam);
+ else if(h.indexOf('ig.me')>=0)ev('contato','direct_ig',cam);
+ else if(h.indexOf('wa.me/55')>=0)ev('contato','whatsapp',cam);
+ else if(h.indexOf('wa.me')>=0)ev('compartilhar','whatsapp',cam);
+ else if(/anuncie/.test(h))ev('clique_anuncie',txt,cam);
+ else if(h.indexOf('.csv')>=0||h.indexOf('.json')>=0)ev('baixar_dados',h.split('/').pop(),cam);
+ else if(a.closest('.ferr')||a.closest('.dl'))ev('clique_ferramenta',txt,cam);
+ else if(/copiar link/i.test(txt))ev('compartilhar','copiar link',cam);},true);
+function rol(){var d=document.documentElement,H=d.scrollHeight-d.clientHeight;if(H<=0)return;
+ var p=Math.round(window.pageYOffset/H*100);
+ [25,50,75,90].forEach(function(m){if(p>=m&&!prof[m]){prof[m]=1;ev('rolagem',m+'%',cam);}});}
+window.addEventListener('scroll',rol,{passive:true});rol();
+[15,30,60,120].forEach(function(s){setTimeout(function(){if(!document.hidden)ev('permanencia',s+'s',cam);},s*1000);});
+var _saiu=0;document.addEventListener('visibilitychange',function(){if(document.visibilityState==='hidden'&&!_saiu){_saiu=1;
+ var mx=0;for(var k in prof){if(+k>mx)mx=+k;}
+ var seg=Math.round((Date.now()-t0)/1000);
+ var fx=seg<10?'0 a 10s':seg<30?'10 a 30s':seg<60?'30 a 60s':seg<180?'1 a 3min':'mais de 3min';
+ ev('saida_pagina',fx+' | rolou '+mx+'%',cam);}});
+})();</script>
+<title>Preço do m² em Enseada de Brito, Palhoça</title>
+<meta name="description" content="Mediana no Enseada de Brito (setembro/2026): casas R$ 5.556/m². Metro Quadrado Palhoça.">
+<meta property="og:title" content="Preço do m² em Enseada de Brito, Palhoça">
+<meta property="og:description" content="Mediana no Enseada de Brito (setembro/2026): casas R$ 5.556/m². Metro Quadrado Palhoça.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://metroquadradosc.com.br/palhoca/bairro/enseada-de-brito.html">
+<meta property="og:site_name" content="Metro Quadrado, do Minuto Jaraguá">
+<meta property="og:image" content="https://metroquadradosc.com.br/og/palhoca/enseada-de-brito.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="https://metroquadradosc.com.br/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="192x192" href="https://metroquadradosc.com.br/icone/icone-192.png">
+<link rel="apple-touch-icon" href="https://metroquadradosc.com.br/icone/icone-180.png">
+<link rel="manifest" href="https://metroquadradosc.com.br/manifest.webmanifest">
+<meta name="theme-color" content="#1a1a1a">
+<link rel="canonical" href="https://metroquadradosc.com.br/palhoca/bairro/enseada-de-brito.html">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Place", "name": "Enseada de Brito, Palhoça - SC", "address": {"@type": "PostalAddress", "addressLocality": "Palhoça", "addressRegion": "SC", "addressCountry": "BR"}}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Metro Quadrado", "item": "https://metroquadradosc.com.br/"}, {"@type": "ListItem", "position": 2, "name": "Palhoça", "item": "https://metroquadradosc.com.br/palhoca/"}, {"@type": "ListItem", "position": 3, "name": "Enseada de Brito", "item": "https://metroquadradosc.com.br/palhoca/bairro/enseada-de-brito.html"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Quanto custa o m² no bairro Enseada de Brito, em Palhoça?", "acceptedAnswer": {"@type": "Answer", "text": "Mediana dos anúncios em setembro/2026: casas R$ 5.556/m². Fonte: Índice Metro Quadrado (IMQ), do Minuto Jaraguá."}}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "Dataset", "name": "Preço do m² no bairro Enseada de Brito, Palhoça/SC — Índice Metro Quadrado", "description": "Mediana do preço do m² no bairro Enseada de Brito, em Palhoça/SC, por tipo de imóvel: casas R$ 5.556/m². Apurado em anúncios públicos de 36 fontes. Coleta: setembro/2026.", "url": "https://metroquadradosc.com.br/palhoca/bairro/enseada-de-brito.html", "keywords": ["m² Enseada de Brito", "preço do m² Enseada de Brito Palhoça", "valor do metro quadrado por bairro", "Santa Catarina"], "creator": {"@type": "Organization", "name": "Minuto Jaraguá"}, "author": {"@type": "Organization", "name": "Minuto Jaraguá", "url": "https://metroquadradosc.com.br/quem-somos/", "sameAs": ["https://www.instagram.com/minutojaragua/"]}, "publisher": {"@type": "Organization", "name": "Minuto Jaraguá", "url": "https://www.instagram.com/minutojaragua/"}, "datePublished": "2026-09-01", "dateModified": "2026-09-01", "temporalCoverage": "2026-09", "spatialCoverage": "Enseada de Brito, Palhoça, SC, Brasil", "isAccessibleForFree": true, "license": "https://creativecommons.org/licenses/by/4.0/", "isPartOf": {"@type": "Dataset", "@id": "https://metroquadradosc.com.br/palhoca/#dataset", "name": "Índice Metro Quadrado (IMQ) Palhoça", "url": "https://metroquadradosc.com.br/palhoca/", "description": "Mediana do preço do m² por bairro em Palhoça/SC, por tipo de imóvel (venda e aluguel), apurada mensalmente em anúncios públicos. Coleta: setembro/2026.", "creator": {"@type": "Organization", "name": "Minuto Jaraguá"}, "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true}, "distribution": [{"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://metroquadradosc.com.br/palhoca/dados.csv"}, {"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://metroquadradosc.com.br/palhoca/dados.json"}], "image": "https://metroquadradosc.com.br/og/palhoca/enseada-de-brito.png"}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "Organization", "name": "Metro Quadrado", "url": "https://metroquadradosc.com.br/", "logo": "https://metroquadradosc.com.br/og/jaragua.png", "parentOrganization": {"@type": "Organization", "name": "Minuto Jaraguá", "sameAs": ["https://www.instagram.com/minutojaragua/"]}}</script><style>
+:root{--amar:#FFD400;--ink:#1a1a1a;--cinza:#666;--fundo:#fafaf7;--card:#fff;--borda:#e8e6e0}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,'Segoe UI',Roboto,sans-serif;background:var(--fundo);color:var(--ink);line-height:1.55}
+.wrap{max-width:880px;margin:0 auto;padding:0 18px}
+header{background:var(--ink);color:#fff;padding:30px 0 22px;border-bottom:6px solid var(--amar)}
+header h1,header .marca{font-size:1.9rem;letter-spacing:-.5px;font-weight:700;line-height:1.15}
+header h1 a,header .marca a{color:inherit;text-decoration:none}
+header h1 span,header .marca span{color:var(--amar)}
+header p{color:#cfcfcf;margin-top:6px;max-width:680px}
+/* H1 semantico do tema (o nome da marca vira .marca): mesma aparencia do antigo <p> */
+header h1.tema{font-size:1.02rem;font-weight:600;letter-spacing:0;color:#cfcfcf;margin-top:8px;max-width:680px}
+.stats{display:flex;gap:14px;flex-wrap:wrap;margin-top:16px}
+.hero{margin-top:18px}
+.herofim .varant{color:#cfcfcf;font-size:.92rem;margin:8px 0 0}
+.cta-bairro{margin-top:16px;padding:14px 16px;border:1px solid var(--borda);border-radius:14px}
+.cta-bairro .btn{display:inline-block;margin:4px 8px 4px 0;padding:11px 15px;border-radius:10px;background:var(--ink);color:var(--amar);font-weight:700;text-decoration:none;border:2px solid var(--ink)}
+.cta-bairro .btn.sec{background:transparent;color:var(--ink)}
+.herofim{background:var(--ink);border-radius:14px;padding:20px 24px;margin-top:26px}
+.herofim .hero{margin-top:0}
+.hero b{font-size:2.7rem;line-height:1;color:var(--amar);font-variant-numeric:tabular-nums;letter-spacing:-1px}
+.hero span{font-size:1.2rem;font-weight:700;color:var(--amar);margin-left:2px}
+.hero p{color:#e9e9e9;font-size:1rem;margin-top:6px;max-width:56ch}
+.hero p b{color:#fff;font-size:inherit;letter-spacing:0}
+.metaline{margin-top:10px;font-size:.85rem;color:#a8a8a8}
+.metaline a{color:#d8d8d8}
+.assina{margin-top:6px;font-size:.85rem;color:#bdbdbd}
+.assina a{color:var(--amar);font-weight:600}
+.ferr{display:flex;gap:8px;flex-wrap:wrap;margin-top:18px}
+.dobra{margin-top:12px}
+.dobra>summary{cursor:pointer;display:inline-block;font-weight:700;color:#1b6e1b;background:#fff;border:2px solid #1b6e1b;border-radius:20px;padding:11px 18px;font-size:.95rem;list-style:none}
+.dobra>summary::-webkit-details-marker{display:none}
+.dobra>summary::after{content:" ▾"}
+.dobra[open]>summary::after{content:" ▴"}
+.dobra[open]>summary{margin-bottom:10px}
+.indice{margin-top:16px;font-size:.88rem;color:#8f8f8f;line-height:2}
+.indice a{color:#d8d8d8;text-decoration:none;border-bottom:1px solid #4a4a4a;padding-bottom:2px}
+.ferr a{font-weight:700;background:#fff;border:2px solid #1b6e1b;color:#1b6e1b;border-radius:20px;padding:12px 16px;text-decoration:none;font-size:.95rem}
+.ferr a.destaque{background:#0E4C92;border-color:#0E4C92;color:#fff}
+.stat{background:#2a2a2a;border-radius:10px;padding:10px 16px;text-align:center}
+.stat b{display:block;font-size:1.25rem;color:var(--amar)}
+.stat small{color:#bbb;font-size:.75rem}
+.tipos{display:flex;gap:8px;flex-wrap:wrap;margin:18px 0 0}
+.tipos a{background:#2a2a2a;color:#ddd;text-decoration:none;font-weight:600;padding:9px 18px;border-radius:99px;font-size:.92rem}
+.tipos a.on{background:var(--amar);color:var(--ink)}
+.cidades{display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 0}
+.cidades a{background:transparent;border:1px solid #555;color:#bbb;text-decoration:none;font-weight:600;padding:6px 14px;border-radius:99px;font-size:.82rem}
+.cidades a.on{border-color:var(--amar);color:var(--amar)}
+.cidades .breve{border:1px dashed #4a4a4a;color:#777;font-weight:600;padding:6px 14px;border-radius:99px;font-size:.82rem;cursor:default}
+.cidades .novo{background:var(--amar);color:#1a1a1a;border-radius:6px;padding:0 5px;font-size:.68rem;vertical-align:middle}
+.cidades details.mais{display:inline-block}
+.cidades details.mais[open]{flex-basis:100%}
+.cidades details.mais summary{list-style:none;display:inline-block;cursor:pointer;border:1px solid #555;color:#bbb;font-weight:600;padding:6px 14px;border-radius:99px;font-size:.82rem}
+.cidades details.mais summary::-webkit-details-marker{display:none}
+.cidades details.mais[open] summary{border-color:var(--amar);color:var(--amar)}
+.cidades details.mais .lista{display:flex;gap:8px;flex-wrap:wrap;margin-top:8px}
+.cidades details.mais .lista a{background:transparent;border:1px solid #555;color:#bbb;text-decoration:none;font-weight:600;padding:6px 14px;border-radius:99px;font-size:.82rem}
+.cidades.claro details.mais summary{border-color:#cfccbe;color:#5f5f5f}
+.cidades.claro details.mais[open] summary{border-color:var(--ink);color:var(--ink)}
+.cidades.claro details.mais .lista a{border-color:#cfccbe;color:#5f5f5f}
+/* Os tres seletores (cidade, tipo de imovel e venda/aluguel) passaram a ficar
+   juntos, logo acima da tabela que eles mudam. Como saem do cabecalho escuro
+   para o corpo claro, precisam da variante de cor abaixo. */
+.filtros{background:var(--card);border:1px solid var(--borda);border-radius:12px;padding:14px 16px;margin-bottom:16px}
+.filtros .rot{display:block;font-size:.78rem;text-transform:uppercase;letter-spacing:.04em;color:var(--cinza);font-weight:700}
+.filtros .tipos,.filtros .cidades{margin:6px 0 0}
+.filtros .linha+.linha{margin-top:12px}
+.tipos.claro a{background:#efedE4;color:#3a3a3a}
+.tipos.claro a.on{background:var(--ink);color:var(--amar)}
+.cidades.claro a{border-color:#cfccbe;color:#5f5f5f}
+.cidades.claro a.on{border-color:var(--ink);color:var(--ink);background:#fff}
+.cidades.claro .breve{border-color:#d6d3c6;color:#9a9a90}
+.filtros .toggle{margin-bottom:0;margin-top:6px}
+main{padding:28px 0 10px}
+section{margin-bottom:42px}
+h2{font-size:1.35rem;margin-bottom:6px;border-left:5px solid var(--amar);padding-left:10px}
+.sub{color:var(--cinza);font-size:.9rem;margin-bottom:16px}
+.toggle{display:inline-flex;border:2px solid var(--ink);border-radius:99px;overflow:hidden;margin-bottom:16px}
+.toggle button{border:0;background:#fff;padding:8px 22px;font-size:.95rem;font-weight:600;cursor:pointer}
+.toggle button.on{background:var(--ink);color:var(--amar)}
+.tblwrap{overflow-x:auto;background:var(--card);border:1px solid var(--borda);border-radius:12px;background-image:linear-gradient(to right,var(--card),var(--card)),linear-gradient(to right,var(--card),var(--card)),linear-gradient(to right,rgba(0,0,0,.18),rgba(0,0,0,0)),linear-gradient(to left,rgba(0,0,0,.18),rgba(0,0,0,0));background-position:left center,right center,left center,right center;background-repeat:no-repeat;background-size:24px 100%,24px 100%,14px 100%,14px 100%;background-attachment:local,local,scroll,scroll}
+table{width:100%;border-collapse:collapse;font-size:.92rem;min-width:560px}
+th{text-align:left;padding:10px 12px;background:#f3f2ec;font-size:.78rem;text-transform:uppercase;letter-spacing:.5px;color:#555}
+td{padding:9px 12px;border-top:1px solid var(--borda)}
+td.num,th.num{text-align:right;font-variant-numeric:tabular-nums}
+tr:hover td{background:#fffbe6}
+.rk{color:#5f5f5f;font-size:.8rem;width:30px}
+.med{font-weight:700;white-space:nowrap}
+.faixa{position:relative;height:8px;background:#eee;border-radius:4px;min-width:110px}
+.faixa i{position:absolute;height:8px;background:var(--amar);border-radius:4px}
+.faixa u{position:absolute;top:-2px;width:3px;height:12px;background:var(--ink);border-radius:2px}
+.bdg{font-size:.72rem;padding:2px 8px;border-radius:99px;white-space:nowrap}
+.bdg.alta{background:#d9f2d9;color:#1b6e1b}.bdg.media{background:#fff3cd;color:#6b5400}.bdg.baixa{background:#fde2e2;color:#a33}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px}
+.card{background:var(--card);border:1px solid var(--borda);border-radius:12px;padding:18px}
+.card h3{font-size:1.05rem;margin-bottom:10px}
+.kv{display:flex;justify-content:space-between;gap:10px;padding:5px 0;border-bottom:1px dashed var(--borda);font-size:.9rem}
+.kv:last-child{border:0}.kv b{font-variant-numeric:tabular-nums;text-align:right}
+select,input,textarea{padding:11px 12px;border:2px solid var(--ink);border-radius:8px;font-size:1rem;background:#fff;margin-right:10px;margin-bottom:12px;font-family:inherit}
+.aviso{background:#fff8dc;border:1px solid #eedc82;border-radius:10px;padding:14px 16px;font-size:.87rem;margin:14px 0}
+.metod ol{margin:10px 0 10px 22px;font-size:.92rem}
+.metod li{margin-bottom:7px}
+.disc{font-size:.8rem;color:var(--cinza)}
+.disc li{margin-bottom:5px;margin-left:18px}
+.dl a{display:inline-block;background:var(--ink);color:var(--amar);text-decoration:none;font-weight:600;padding:9px 18px;border-radius:8px;margin:4px 8px 4px 0;font-size:.9rem}
+.cite{background:#f3f2ec;border-radius:8px;padding:12px 14px;font-family:ui-monospace,monospace;font-size:.83rem;margin:10px 0}
+footer{background:var(--ink);color:#bbb;padding:30px 0;margin-top:30px;font-size:.85rem}
+footer a{color:var(--amar);text-decoration:none;font-weight:600}
+/* convite de seguir: fica no topo do rodape, ou seja, depois que a pessoa ja
+   teve a resposta que veio buscar. Nao cobre conteudo, nao e popup, nao tem
+   fechar. Um alvo de toque so, grande o suficiente no celular. */
+.segue{display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap;
+ background:rgba(255,255,255,.06);border:1px solid rgba(255,212,0,.35);border-radius:12px;
+ padding:14px 18px;margin-bottom:22px}
+.segue span{color:#e8e6df;font-size:.95rem}
+.segue b{color:#fff}
+.segue a.ig{background:var(--amar);color:var(--ink);padding:10px 20px;border-radius:999px;
+ font-weight:700;white-space:nowrap;font-size:.95rem}
+@media(max-width:600px){.segue{justify-content:center;text-align:center}.segue a.ig{width:100%;text-align:center}}
+.crumb{font-size:.85rem;margin-bottom:14px}.crumb a{color:#6b5400;text-decoration:none}
+@media(max-width:600px){header h1,header .marca{font-size:1.45rem}header h1.tema{font-size:.98rem}.stat{padding:8px 12px}
+.hero b{font-size:2.2rem}.hero p{font-size:.95rem}
+table{font-size:1rem}td,th{padding:11px 8px}
+.sub{font-size:.95rem}.bdg{font-size:.82rem}.disc{font-size:.9rem}.kv{font-size:.95rem}.metod ol{font-size:1rem}
+/* WCAG 2.5.8 exige 24px (AA); 44px so nos controles isolados, onde o espaco e barato */
+.cidades a{padding:12px 16px}.tipos a{padding:12px 18px}.toggle button{padding:12px 22px}.ferr a{padding:13px 16px}
+td a{display:inline-block;padding:4px 0}}
+</style></head><body><header><div class="wrap"><div class="marca"><a href="../">Metro Quadrado <span>Palhoça</span></a></div><h1 class="tema">Preço do m² em Enseada de Brito, Palhoça</h1></div></header><main><div class="wrap"><p class="crumb" style="margin-top:20px"><a href="https://metroquadradosc.com.br/">Metro Quadrado</a> › <a href="../index.html">Palhoça</a> › <b>Enseada de Brito</b></p><div class="ferr"><a href="https://metroquadradosc.com.br/comparar/">⚖️ Comparar cidades e bairros</a><a href="https://metroquadradosc.com.br/calculadora/">🧮 Quanto vale meu imóvel?</a><a href="https://metroquadradosc.com.br/assistente/">🤖 Assistente</a><a href="https://metroquadradosc.com.br/anuncie/" class="destaque">📢 Para corretores</a></div><section><div class="cards"><div class="card"><h3>Casas</h3><div class="kv"><span>Venda — mediana</span><b>R$ 5.556/m²</b></div><div class="kv"><span>Venda — faixa P25–P75</span><b>R$ 4.000 – R$ 7.529</b></div><div class="kv"><span>Venda — anúncios</span><b><span class="bdg alta">n=33 · alta</span></b></div><div class="kv"><span>vs. mediana da cidade</span><b>-8,8%</b></div></div></div><div class="aviso" style="margin-top:16px">📷 Retrato do mercado a partir de preços de oferta — não é avaliação do seu imóvel. Coleta: setembro/2026 · mediana por bairro, mínimo 5 anúncios com área informada, sem repetir anúncio entre fontes. O m² de casas embute o valor do terreno; o de terrenos varia com tamanho e topografia. <a href="https://metroquadradosc.com.br/metodologia/">Veja o método completo</a>.</div></section></div></main><section class="cta-bairro"><p class="sub" style="margin:0 0 8px">O que fazer com esse número?</p><a class="btn" href="https://metroquadradosc.com.br/calculadora/?cid=palhoca&amp;bai=Enseada%20de%20Brito">🏠 Quanto vale meu imóvel no Enseada de Brito?</a> <a class="btn sec" href="https://metroquadradosc.com.br/comparar/?cat=casa&amp;s=palhoca:Enseada%20de%20Brito,palhoca:__geral">⚖️ Comparar o Enseada de Brito com Palhoça</a></section><section><h2>Em resumo</h2><p class="sub">Não há anúncios de apartamento suficientes no bairro Enseada de Brito em setembro/2026. Na cidade toda, a mediana do m² de apartamentos à venda em Palhoça é de <b>R$ 7.680/m²</b>, apurada em 1682 anúncios. Veja o <a href="../index.html">ranking completo de Palhoça</a>.</p></section><section><h2>Continue explorando</h2><p class="sub">Bairros com preço parecido: <a href="aririu-da-formiga.html">Aririú da Formiga</a> · <a href="bela-vista.html">Bela Vista</a> · <a href="aririu.html">Aririu</a> · <a href="barra-do-aririu.html">Barra do Aririú</a>.</p><p class="sub"><a href="https://metroquadradosc.com.br/comparar/?cat=casa&amp;s=palhoca:Enseada%20de%20Brito,palhoca:__geral">⚖️ Comparar o Enseada de Brito com a cidade toda ou outro bairro</a> · <a href="https://metroquadradosc.com.br/calculadora/">🧮 Quanto vale um imóvel no Enseada de Brito?</a> · <a href="../index.html">Ranking completo de Palhoça</a></p><p class="sub" style="margin-top:12px;padding-top:12px;border-top:1px solid var(--borda)">📢 <b>Corretor ou corretora em Palhoça?</b> Use a mediana do Enseada de Brito para sustentar o preço na conversa com o proprietário. <a href="https://metroquadradosc.com.br/anuncie/">Veja como usar o índice no seu trabalho</a>.</p></section><section><h2>Todos os bairros de Palhoça</h2><p class="sub" style="line-height:2"><a href="alto-aririu.html">Alto Aririu</a> · <a href="aririu.html">Aririu</a> · <a href="aririu-da-formiga.html">Aririú da Formiga</a> · <a href="balneario-ponta-do-papagaio-ens-brito.html">Balneário Ponta do Papagaio (Ens Brito)</a> · <a href="barra-do-aririu.html">Barra do Aririú</a> · <a href="bela-vista.html">Bela Vista</a> · <a href="brejaru.html">Brejarú</a> · <a href="caminho-novo.html">Caminho Novo</a> · <a href="centro.html">Centro</a> · <a href="cidade-universitaria-pedra-branca.html">Cidade Universitária Pedra Branca</a> · <b>Enseada de Brito</b> · <a href="enseada-do-brito.html">Enseada do Brito</a> · <a href="enseada-do-brito-ens-brito.html">Enseada do Brito (Ens Brito)</a> · <a href="geminada-bela-vista.html">Geminada Bela Vista</a> · <a href="geminada-nova-palhoca.html">Geminada Nova Palhoca</a> · <a href="geminada-villa-toscana.html">Geminada Villa Toscana</a> · <a href="guarda-do-cubatao.html">Guarda do Cubatão</a> · <a href="guarda-do-embau.html">Guarda do Embaú</a> · <a href="jardim-eldorado.html">Jardim Eldorado</a> · <a href="madri.html">Madri</a> · <a href="nova.html">Nova</a> · <a href="nova-palhoca.html">Nova Palhoca</a> · <a href="pacheco.html">Pacheco</a> · <a href="pachecos.html">Pachecos</a> · <a href="pagani.html">Pagani</a> · <a href="passa-vinte.html">Passa Vinte</a> · <a href="passagem-de-maciambu-ens-brito.html">Passagem de Maciambú (Ens Brito)</a> · <a href="passagem-do-massiambu.html">Passagem do Massiambú</a> · <a href="pedra-branca.html">Pedra Branca</a> · <a href="pinheira.html">Pinheira</a> · <a href="ponta-do-papagaio.html">Ponta do Papagaio</a> · <a href="ponte-do-imaruim.html">Ponte do Imaruim</a> · <a href="praia-da-pinheira.html">Praia da Pinheira</a> · <a href="praia-de-fora.html">Praia de Fora</a> · <a href="praia-do-sonho.html">Praia do Sonho</a> · <a href="praia-do-sonho-ens-brito.html">Praia do Sonho (Ens Brito)</a> · <a href="rio-grande.html">Rio Grande</a> · <a href="sao-sebastiao.html">São Sebastião</a> · <a href="vale-verde.html">Vale Verde</a></p><p class="sub"><a href="../index.html">← Ranking completo de Palhoça</a></p></section><footer><div class="wrap"><div class="segue"><span>Preço novo do m² <b>todo mês</b>, de graça, aqui e no Instagram.</span><a class="ig" href="https://www.instagram.com/minutojaragua/" target="_blank" rel="noopener" onclick="try{if(typeof gtag==='function')gtag('event','clique_instagram',{rotulo:'rodape',categoria:location.pathname});}catch(e){}">Seguir @minutojaragua</a></div><p><b style="color:#fff">Minuto Jaraguá</b> — Jaraguá do Sul em 1 minuto, sem enrolação.</p><p style="margin-top:6px">📲 <a href="https://whatsapp.com/channel/0029VbDVRhr7dmeij8qMmI16">Canal no WhatsApp (grátis)</a> · <a href="https://wa.me/5547997424339?text=Ol%C3%A1!%20Vim%20pelo%20site%20Metro%20Quadrado%20e%20quero%20falar%20com%20o%20Minuto%20Jaragu%C3%A1.">💬 Falar com a gente</a> · <a href="https://www.instagram.com/minutojaragua/">@minutojaragua</a></p><p style="margin-top:6px;color:#6b6b6b">📌 Salve este site: no celular, menu do navegador › <b>Adicionar à tela inicial</b>; no computador, <b>Ctrl+D</b>.</p><p style="margin-top:8px">Levantamento e edição: <a href="https://metroquadradosc.com.br/quem-somos/">Redação do Minuto Jaraguá</a></p><p style="margin-top:10px;color:#888">© 2026 Minuto Jaraguá · <a href="https://metroquadradosc.com.br/quem-somos/" style="color:#888;text-decoration:underline">quem somos</a> · <a href="https://metroquadradosc.com.br/metodologia/" style="color:#888;text-decoration:underline">metodologia</a> · <a href="https://metroquadradosc.com.br/imprensa/" style="color:#888;text-decoration:underline">imprensa</a> · <a href="https://metroquadradosc.com.br/anuncie/" style="color:#888;text-decoration:underline">para corretores</a> · <a href="https://metroquadradosc.com.br/conector/" style="color:#888;text-decoration:underline">conector de IA</a> · <a href="https://metroquadradosc.com.br/privacidade/" style="color:#888;text-decoration:underline">privacidade</a> · dados: CC BY 4.0 · atualizado em 2026-09-01 · dados de referência: setembro/2026 · próxima atualização: 1º/10/2026 · medimos visitas de forma agregada (Google Analytics, IP anonimizado)</p><p style="margin-top:8px;color:#777;font-size:.85em">Conteúdo informativo: recorte estatístico de anúncios públicos (preços pedidos, não transações). Não é avaliação, oferta nem recomendação de investimento — decisões com base nestes dados são de responsabilidade do leitor.</p></div></footer></body></html>

@@ -1,0 +1,53 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Lages,Brusque,apartamento,venda,8408.1,4505.8,10604.5,8,,setembro/2026
+Lages,Centro,apartamento,venda,6000.0,4583.3,8205.1,97,,setembro/2026
+Lages,Conta Dinheiro,apartamento,venda,6633.3,6074.4,6896.6,7,,setembro/2026
+Lages,Coral,apartamento,venda,7173.9,5676.9,7769.7,15,,setembro/2026
+Lages,Promorar,apartamento,venda,2711.0,2231.2,3106.6,7,,setembro/2026
+Lages,São Cristóvão,apartamento,venda,7438.0,6688.6,8537.2,18,,setembro/2026
+Lages,Universitário,apartamento,venda,6541.3,5629.8,7543.8,12,,setembro/2026
+Lages,Vila Nova,apartamento,venda,6315.8,5131.6,6567.2,5,,setembro/2026
+Lages,Beatriz,casa,venda,3520.0,3152.2,4313.6,9,,setembro/2026
+Lages,Brusque,casa,venda,2523.3,2129.6,4160.0,13,,setembro/2026
+Lages,Caravágio,casa,venda,3144.4,1922.2,3683.0,7,,setembro/2026
+Lages,Centro,casa,venda,4484.4,3522.6,5461.6,46,,setembro/2026
+Lages,Chapada,casa,venda,4800.0,4256.1,5700.0,13,,setembro/2026
+Lages,Copacabana,casa,venda,3835.5,2973.1,4941.9,22,,setembro/2026
+Lages,Coral,casa,venda,4386.0,3118.8,5218.7,15,,setembro/2026
+Lages,Frei Rogério,casa,venda,4831.9,3093.4,6087.0,21,,setembro/2026
+Lages,Gethal,casa,venda,3499.4,1541.5,3506.5,5,,setembro/2026
+Lages,Guarujá,casa,venda,4267.4,3421.4,5269.0,26,,setembro/2026
+Lages,Jardim Cepar,casa,venda,4312.5,4002.7,5046.6,7,,setembro/2026
+Lages,Jardim Panorâmico,casa,venda,3470.9,2654.3,4305.6,10,,setembro/2026
+Lages,Maria Luiza,casa,venda,3301.9,3061.2,3380.3,5,,setembro/2026
+Lages,Petrópolis,casa,venda,2954.5,2020.7,3287.9,15,,setembro/2026
+Lages,Popular,casa,venda,2909.4,1740.8,3243.9,6,,setembro/2026
+Lages,Sagrado Coração de Jesus,casa,venda,3637.9,2645.5,5159.2,24,,setembro/2026
+Lages,Santa Catarina,casa,venda,4338.2,3571.4,4700.0,5,,setembro/2026
+Lages,Santa Helena,casa,venda,3089.0,2567.5,3802.4,14,,setembro/2026
+Lages,São Cristóvão,casa,venda,4758.1,4187.5,6000.0,17,,setembro/2026
+Lages,São Miguel,casa,venda,4180.3,2890.1,4411.2,8,,setembro/2026
+Lages,Universitário,casa,venda,4049.6,2535.5,6115.1,13,,setembro/2026
+Lages,Vila Nova,casa,venda,2733.4,2142.9,4166.7,13,,setembro/2026
+Lages,Brusque,terreno,venda,1072.1,1017.7,1151.8,6,,setembro/2026
+Lages,Caroba,terreno,venda,152.8,133.3,236.1,9,,setembro/2026
+Lages,Centro,terreno,venda,1601.9,1263.4,2289.9,20,,setembro/2026
+Lages,Chapada,terreno,venda,485.0,442.9,608.6,25,,setembro/2026
+Lages,Conta Dinheiro,terreno,venda,1000.9,865.3,1142.5,8,,setembro/2026
+Lages,Copacabana,terreno,venda,826.7,445.5,1115.5,5,,setembro/2026
+Lages,Coral,terreno,venda,952.4,910.7,1034.5,9,,setembro/2026
+Lages,Cruz de Malta,terreno,venda,133.4,108.0,184.7,6,,setembro/2026
+Lages,Da Chapada,terreno,venda,493.8,392.2,583.2,10,,setembro/2026
+Lages,Frei Rogério,terreno,venda,735.5,657.6,809.7,8,,setembro/2026
+Lages,Guarujá,terreno,venda,499.6,434.0,680.6,14,,setembro/2026
+Lages,Jardim Panorâmico,terreno,venda,547.9,511.5,620.0,10,,setembro/2026
+Lages,Morro do Posto,terreno,venda,462.0,428.8,594.5,8,,setembro/2026
+Lages,Penha,terreno,venda,444.4,384.7,638.7,12,,setembro/2026
+Lages,Sagrado Coração de Jesus,terreno,venda,1244.1,1180.1,1302.1,5,,setembro/2026
+Lages,Santa Clara,terreno,venda,194.4,164.9,225.0,5,,setembro/2026
+Lages,Tributo,terreno,venda,375.0,252.1,421.9,7,,setembro/2026
+Lages,Universitário,terreno,venda,1250.0,984.8,1500.0,5,,setembro/2026
+Lages,Vila Maria,terreno,venda,281.7,274.4,380.9,18,,setembro/2026
+Lages,Vila Nova,terreno,venda,815.9,712.4,946.3,6,,setembro/2026
+Lages,Centro,sala,venda,3903.7,3444.2,6083.3,14,12.36,setembro/2026
+Lages,Centro,sala,aluguel,40.2,26.7,60.0,33,12.36,setembro/2026

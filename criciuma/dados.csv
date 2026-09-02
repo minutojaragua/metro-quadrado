@@ -1,0 +1,144 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Criciúma,Ana Maria,apartamento,venda,4901.6,4451.9,5439.9,17,,setembro/2026
+Criciúma,Argentina,apartamento,venda,3966.1,3891.3,4519.2,5,,setembro/2026
+Criciúma,Bosque do Repouso,apartamento,aluguel,32.4,30.3,34.9,5,,setembro/2026
+Criciúma,Ceará,apartamento,venda,5800.4,5276.6,6857.6,14,,setembro/2026
+Criciúma,Centro,apartamento,venda,7491.0,5463.6,9497.2,338,4.76,setembro/2026
+Criciúma,Centro,apartamento,aluguel,29.7,21.7,36.5,46,4.76,setembro/2026
+Criciúma,Comerciário,apartamento,venda,6232.0,4744.5,8295.1,92,6.39,setembro/2026
+Criciúma,Comerciário,apartamento,aluguel,33.2,27.7,36.3,10,6.39,setembro/2026
+Criciúma,Cruzeiro do Sul,apartamento,venda,6756.6,5291.3,10388.3,22,,setembro/2026
+Criciúma,Dos Imigrantes,apartamento,venda,5245.9,5200.0,5573.8,5,,setembro/2026
+Criciúma,Linha Batista,apartamento,venda,4122.7,3830.7,4600.0,5,,setembro/2026
+Criciúma,Michel,apartamento,venda,7004.9,5781.6,9336.9,48,,setembro/2026
+Criciúma,Mina do Mato,apartamento,venda,5304.1,4653.5,6250.0,6,,setembro/2026
+Criciúma,Mina União,apartamento,venda,4729.6,4241.4,5002.2,13,7.64,setembro/2026
+Criciúma,Mina União,apartamento,aluguel,30.1,25.4,49.2,6,7.64,setembro/2026
+Criciúma,Operária Nova,apartamento,venda,3804.3,3454.6,5349.9,7,,setembro/2026
+Criciúma,Pinheirinho,apartamento,venda,5486.1,4815.7,6860.2,18,6.28,setembro/2026
+Criciúma,Pinheirinho,apartamento,aluguel,28.7,28.6,31.7,5,6.28,setembro/2026
+Criciúma,Pio Corrêa,apartamento,venda,6511.3,5355.1,8821.7,30,,setembro/2026
+Criciúma,Próspera,apartamento,venda,8531.2,6309.9,10167.0,14,4.66,setembro/2026
+Criciúma,Próspera,apartamento,aluguel,33.1,27.4,41.1,7,4.66,setembro/2026
+Criciúma,Quarta Linha,apartamento,venda,3776.7,3360.6,3928.2,7,,setembro/2026
+Criciúma,Rio Maina,apartamento,venda,5867.9,4731.6,6594.8,15,,setembro/2026
+Criciúma,Santa Augusta,apartamento,venda,4905.5,4360.5,5735.9,8,10.05,setembro/2026
+Criciúma,Santa Augusta,apartamento,aluguel,41.1,35.7,46.4,6,10.05,setembro/2026
+Criciúma,Santa Bárbara,apartamento,venda,6829.6,5559.1,8577.6,44,4.67,setembro/2026
+Criciúma,Santa Bárbara,apartamento,aluguel,26.6,25.0,26.9,5,4.67,setembro/2026
+Criciúma,Santa Catarina,apartamento,venda,6459.2,5294.0,8480.5,12,,setembro/2026
+Criciúma,Santa Luzia,apartamento,aluguel,26.9,26.3,36.3,5,,setembro/2026
+Criciúma,Santo Antônio,apartamento,venda,5928.2,4338.9,6170.2,17,5.36,setembro/2026
+Criciúma,Santo Antônio,apartamento,aluguel,26.5,23.9,32.7,6,5.36,setembro/2026
+Criciúma,São Cristóvão,apartamento,venda,6028.9,4882.8,7628.2,17,,setembro/2026
+Criciúma,São Francisco,apartamento,venda,5368.5,5092.5,5693.8,5,6.46,setembro/2026
+Criciúma,São Francisco,apartamento,aluguel,28.9,28.5,35.6,9,6.46,setembro/2026
+Criciúma,São Luiz,apartamento,venda,5770.8,4135.6,6798.7,23,6.65,setembro/2026
+Criciúma,São Luiz,apartamento,aluguel,32.0,28.7,33.0,9,6.65,setembro/2026
+Criciúma,Universitário,apartamento,venda,5019.1,4344.7,5921.1,12,6.77,setembro/2026
+Criciúma,Universitário,apartamento,aluguel,28.3,25.4,34.1,11,6.77,setembro/2026
+Criciúma,Vera Cruz,apartamento,venda,6818.2,5699.0,8560.7,15,,setembro/2026
+Criciúma,Vila Floresta II,apartamento,venda,4994.8,4912.4,6270.2,5,,setembro/2026
+Criciúma,Ana Maria,casa,venda,2766.4,2023.2,3304.9,18,,setembro/2026
+Criciúma,Archimedes Naspolini,casa,venda,5081.6,4179.3,5151.5,5,,setembro/2026
+Criciúma,Argentina,casa,venda,4637.7,2350.0,5863.4,11,,setembro/2026
+Criciúma,Bosque do Repouso,casa,venda,6699.7,4741.2,7902.1,9,,setembro/2026
+Criciúma,Ceará,casa,venda,2911.8,2520.7,5288.5,9,,setembro/2026
+Criciúma,Centro,casa,venda,5019.3,2879.2,5911.7,23,8.63,setembro/2026
+Criciúma,Centro,casa,aluguel,36.1,21.1,57.9,12,8.63,setembro/2026
+Criciúma,Cidade Mineira Nova,casa,venda,3146.9,2488.7,4063.2,7,,setembro/2026
+Criciúma,Cidade Mineira Velha,casa,venda,2982.5,2410.8,3063.6,5,,setembro/2026
+Criciúma,Comerciário,casa,venda,3839.3,2436.3,6620.2,8,,setembro/2026
+Criciúma,Cristo Redentor,casa,venda,2400.0,1606.1,2825.0,5,,setembro/2026
+Criciúma,Cruzeiro do Sul,casa,venda,3514.8,2727.7,5448.7,16,,setembro/2026
+Criciúma,Demboski,casa,venda,3120.0,2960.0,3359.8,5,,setembro/2026
+Criciúma,Fábio Silva,casa,venda,3027.2,1881.4,5045.6,11,,setembro/2026
+Criciúma,Jardim Angélica,casa,venda,3746.3,3095.2,5694.9,22,,setembro/2026
+Criciúma,Jardim Maristela,casa,venda,3984.3,3234.1,5339.3,20,,setembro/2026
+Criciúma,Jardim Montevidéu,casa,venda,2848.1,2388.9,5904.2,5,,setembro/2026
+Criciúma,Laranjinha,casa,venda,3794.0,3212.7,4650.4,17,,setembro/2026
+Criciúma,Linha Batista,casa,venda,4834.3,2864.7,6212.2,16,,setembro/2026
+Criciúma,Lote Seis,casa,venda,3960.1,3406.6,5362.9,10,,setembro/2026
+Criciúma,Maria Céu,casa,venda,3800.0,1734.0,3897.6,5,,setembro/2026
+Criciúma,Metropol,casa,venda,3512.5,2759.3,3737.4,7,,setembro/2026
+Criciúma,Michel,casa,venda,4503.2,2977.8,7200.0,17,,setembro/2026
+Criciúma,Milanese,casa,venda,2548.2,1975.0,3130.0,6,,setembro/2026
+Criciúma,Mina Brasil,casa,venda,4284.7,3261.0,6532.1,24,,setembro/2026
+Criciúma,Mina do Mato,casa,venda,3199.7,2170.2,4453.4,19,,setembro/2026
+Criciúma,Mina União,casa,venda,4077.6,3040.2,4370.7,8,,setembro/2026
+Criciúma,Monte Castelo,casa,venda,3595.5,1576.6,5609.1,7,,setembro/2026
+Criciúma,Morro Estevão,casa,venda,2532.5,1058.1,3428.6,5,,setembro/2026
+Criciúma,Nossa Senhora da Salete,casa,venda,4722.2,4419.9,5533.5,15,,setembro/2026
+Criciúma,Operária Nova,casa,venda,4615.9,2611.3,4750.0,13,,setembro/2026
+Criciúma,Pinheirinho,casa,venda,3448.3,2334.0,4708.0,27,,setembro/2026
+Criciúma,Pio Corrêa,casa,venda,5869.3,3638.5,8279.0,28,,setembro/2026
+Criciúma,Primeira Linha,casa,venda,4570.4,2652.6,7360.4,10,,setembro/2026
+Criciúma,Próspera,casa,venda,3686.1,1888.9,5250.0,33,,setembro/2026
+Criciúma,Quarta Linha,casa,venda,3404.0,2195.7,4544.2,10,,setembro/2026
+Criciúma,Rio Maina,casa,venda,3520.8,2620.1,4193.9,22,,setembro/2026
+Criciúma,Sangão,casa,venda,3356.6,3118.3,5000.0,5,,setembro/2026
+Criciúma,Santa Augusta,casa,venda,3400.0,2516.8,4995.0,11,,setembro/2026
+Criciúma,Santa Bárbara,casa,venda,3735.1,2024.0,5635.6,28,,setembro/2026
+Criciúma,Santa Catarina,casa,venda,5183.1,3992.0,5937.1,13,,setembro/2026
+Criciúma,Santa Luzia,casa,venda,3193.4,1766.7,3750.0,17,,setembro/2026
+Criciúma,Santo Antônio,casa,venda,3527.5,2486.1,5414.0,24,,setembro/2026
+Criciúma,São Cristóvão,casa,venda,4881.0,3516.5,6055.3,8,,setembro/2026
+Criciúma,São Defende,casa,venda,3888.9,3125.0,5185.2,17,,setembro/2026
+Criciúma,São Luiz,casa,venda,3353.2,2822.7,4082.7,16,,setembro/2026
+Criciúma,São Sebastião,casa,venda,2578.8,2256.5,4758.6,16,,setembro/2026
+Criciúma,São Simão,casa,venda,3732.1,2991.5,9691.6,5,,setembro/2026
+Criciúma,Universitário,casa,venda,4222.2,1683.3,6351.6,8,,setembro/2026
+Criciúma,Vera Cruz,casa,venda,4206.3,3279.3,4592.0,7,,setembro/2026
+Criciúma,Vila Floresta,casa,venda,3199.3,2248.8,5149.1,8,,setembro/2026
+Criciúma,Vila Isabel,casa,venda,5027.6,2633.8,5926.9,8,,setembro/2026
+Criciúma,Vila Manaus,casa,venda,1946.3,1856.2,2635.1,8,,setembro/2026
+Criciúma,Vila Nova Esperança,casa,venda,4444.4,2578.2,5694.5,7,,setembro/2026
+Criciúma,Vila São José,casa,venda,4016.7,3156.6,4705.5,6,,setembro/2026
+Criciúma,Vila Zuleima,casa,venda,2125.0,1953.3,2488.1,7,,setembro/2026
+Criciúma,Wosocris,casa,venda,2980.2,2715.1,3433.3,7,,setembro/2026
+Criciúma,Ana Maria,terreno,venda,534.7,427.3,674.9,10,,setembro/2026
+Criciúma,Archimedes Naspolini,terreno,venda,432.9,351.2,470.4,21,,setembro/2026
+Criciúma,Argentina,terreno,venda,589.7,463.5,627.5,28,,setembro/2026
+Criciúma,Bosque do Repouso,terreno,venda,555.6,481.1,612.0,19,,setembro/2026
+Criciúma,Brasília,terreno,venda,456.8,426.1,531.5,10,,setembro/2026
+Criciúma,Ceará,terreno,venda,835.5,616.6,1115.2,6,,setembro/2026
+Criciúma,Centro,terreno,venda,1899.3,1342.3,3373.9,14,,setembro/2026
+Criciúma,Coloninha Zilli,terreno,venda,510.0,473.2,660.5,8,,setembro/2026
+Criciúma,Comerciário,terreno,venda,772.4,701.6,891.5,11,,setembro/2026
+Criciúma,Cruzeiro do Sul,terreno,venda,1297.9,648.2,1554.2,8,,setembro/2026
+Criciúma,Jardim Angélica,terreno,venda,542.1,466.4,699.5,19,,setembro/2026
+Criciúma,Jardim Maristela,terreno,venda,661.5,617.2,751.8,7,,setembro/2026
+Criciúma,Laranjinha,terreno,venda,329.9,227.8,414.7,20,,setembro/2026
+Criciúma,Linha Anta,terreno,venda,264.4,245.6,305.6,13,,setembro/2026
+Criciúma,Linha Batista,terreno,venda,311.1,267.7,347.2,17,,setembro/2026
+Criciúma,Lote Seis,terreno,venda,833.3,674.6,1006.1,11,,setembro/2026
+Criciúma,Maria Céu,terreno,venda,369.0,363.6,527.7,9,,setembro/2026
+Criciúma,Mina Brasil,terreno,venda,948.1,862.8,1031.2,11,,setembro/2026
+Criciúma,Mina do Mato,terreno,venda,461.5,405.6,588.6,30,,setembro/2026
+Criciúma,Naspolini,terreno,venda,548.4,485.3,718.3,7,,setembro/2026
+Criciúma,Nossa Senhora da Salete,terreno,venda,995.0,816.7,1392.9,5,,setembro/2026
+Criciúma,Operária Nova,terreno,venda,775.2,555.6,833.3,9,,setembro/2026
+Criciúma,Pinheirinho,terreno,venda,449.1,379.5,545.9,14,,setembro/2026
+Criciúma,Pio Corrêa,terreno,venda,1049.0,958.4,1125.6,10,,setembro/2026
+Criciúma,Primeira Linha,terreno,venda,480.1,390.4,717.0,73,,setembro/2026
+Criciúma,Primeira Linha Pontilhão,terreno,venda,383.3,348.1,432.6,8,,setembro/2026
+Criciúma,Próspera,terreno,venda,1075.8,821.5,1514.7,19,,setembro/2026
+Criciúma,Quarta Linha,terreno,venda,328.2,289.1,431.5,22,,setembro/2026
+Criciúma,Recanto Verde,terreno,venda,368.6,282.2,429.7,5,,setembro/2026
+Criciúma,Rio Maina,terreno,venda,400.0,336.8,466.1,21,,setembro/2026
+Criciúma,Sangão,terreno,venda,306.9,281.1,340.5,16,,setembro/2026
+Criciúma,Santa Bárbara,terreno,venda,1611.0,1428.8,1720.6,5,,setembro/2026
+Criciúma,Santa Luzia,terreno,venda,379.0,351.4,473.3,15,,setembro/2026
+Criciúma,Santo Antônio,terreno,venda,513.0,429.5,582.4,17,,setembro/2026
+Criciúma,São Defende,terreno,venda,298.3,283.4,313.8,37,,setembro/2026
+Criciúma,São Luiz,terreno,venda,655.2,508.2,1136.8,15,,setembro/2026
+Criciúma,São Sebastião,terreno,venda,357.7,238.2,392.2,6,,setembro/2026
+Criciúma,São Simão,terreno,venda,687.3,397.3,1142.8,28,,setembro/2026
+Criciúma,Universitário,terreno,venda,605.1,463.6,919.8,5,,setembro/2026
+Criciúma,Verdinho,terreno,venda,81.8,49.5,230.2,5,,setembro/2026
+Criciúma,Vila Floresta II,terreno,venda,375.7,331.6,422.0,8,,setembro/2026
+Criciúma,Vila Nova Esperança,terreno,venda,280.0,253.1,360.0,15,,setembro/2026
+Criciúma,Centro,sala,venda,7915.6,5788.4,11414.5,59,6.08,setembro/2026
+Criciúma,Centro,sala,aluguel,40.1,29.3,58.4,55,6.08,setembro/2026
+Criciúma,Pio Corrêa,sala,aluguel,75.4,48.6,87.5,6,,setembro/2026
+Criciúma,Santa Bárbara,sala,aluguel,62.5,41.1,63.6,5,,setembro/2026

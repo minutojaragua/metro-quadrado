@@ -1,0 +1,209 @@
+<!DOCTYPE html><html lang="pt-BR"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
+<meta name="author" content="Minuto Jaraguá">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R0HV8VXVQZ"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());try{if(/[?&]interno=1/.test(location.search))localStorage.setItem('mq_interno','1');}catch(e){}
+var _mqInt=false;try{_mqInt=localStorage.getItem('mq_interno')==='1';}catch(e){}
+// origem por navegador de app: o Instagram (e Threads/Facebook) abre o link no navegador
+// interno DELE e apaga o referrer, entao o clique da bio caia no GA4 como "(direct)".
+// O proprio app se identifica no user agent, entao da para creditar a origem sem sujar a
+// URL com utm_ (decisao do Jales 29/08/2026: link da bio fica limpo).
+var _mqApp=null;try{var _u=navigator.userAgent||'';
+ if(/Instagram/i.test(_u))_mqApp='instagram';
+ else if(/Barcelona/i.test(_u))_mqApp='threads';
+ else if(/FBAN|FBAV|FB_IAB/i.test(_u))_mqApp='facebook';
+ else if(/WhatsApp/i.test(_u))_mqApp='whatsapp';}catch(e){}
+var _mqCfg=_mqInt?{anonymize_ip:true,traffic_type:'internal'}:{anonymize_ip:true};
+// so credita se a URL nao trouxer utm_source: marcacao explicita sempre vence a deducao.
+if(_mqApp&&!/[?&]utm_source=/.test(location.search)){_mqCfg.campaign_source=_mqApp;_mqCfg.campaign_medium='app';_mqCfg.campaign_name='perfil';}
+gtag('config','G-R0HV8VXVQZ',_mqCfg);
+if(_mqApp)try{gtag('event','origem_app',{rotulo:_mqApp,categoria:location.pathname});}catch(e){}
+// marca de aparelho interno tambem como propriedade de usuario: assim o aparelho do Jales
+// (inclusive o celular) fica separavel no relatorio depois de registrar a dimensao de escopo
+// USUARIO chamada 'interno' no GA4. So o traffic_type nao basta, ele e inerte sem o filtro.
+if(_mqInt)try{gtag('set','user_properties',{interno:'1'});}catch(e){}</script>
+<!-- jornada do visitante: eventos proprios, sem biblioteca externa.
+     Os parametros reusam "rotulo" e "categoria", que ja sao dimensoes
+     personalizadas registradas no GA4, entao aparecem no relatorio sem
+     precisar registrar nada novo. -->
+<script>(function(){
+function ev(n,r,c){try{if(typeof gtag==='function')gtag('event',n,{rotulo:r||'',categoria:c||''});}catch(e){}}
+var t0=Date.now(),prof={},cam=location.pathname;
+try{var j=JSON.parse(sessionStorage.getItem('mq_jornada')||'[]');
+ var de=j.length?j[j.length-1]:'(entrada)';
+ j.push(cam);if(j.length>30)j=j.slice(-30);
+ sessionStorage.setItem('mq_jornada',JSON.stringify(j));
+ ev('passo_jornada',(j.length>=3?'passo 3+':'passo '+j.length)+' | veio de '+de,cam);}catch(e){}
+document.addEventListener('click',function(e){
+ var a=e.target&&e.target.closest?e.target.closest('a,button'):null;if(!a)return;
+ var h=a.getAttribute('href')||'',txt=(a.textContent||'').trim().slice(0,60);
+ var cm=(a.tagName==='A'&&a.pathname)?a.pathname:h;
+ if(cm.indexOf('/bairro/')>=0){ev('ver_bairro',txt,cam);}
+ else if(a.closest('.cidades'))ev('trocar_cidade',txt,cam);
+ else if(a.closest('.tipos'))ev('trocar_tipo',txt,cam);
+ else if(a.closest('.toggle'))ev('alternar_operacao',txt,cam);
+ else if(h.indexOf('ig.me')>=0)ev('contato','direct_ig',cam);
+ else if(h.indexOf('wa.me/55')>=0)ev('contato','whatsapp',cam);
+ else if(h.indexOf('wa.me')>=0)ev('compartilhar','whatsapp',cam);
+ else if(/anuncie/.test(h))ev('clique_anuncie',txt,cam);
+ else if(h.indexOf('.csv')>=0||h.indexOf('.json')>=0)ev('baixar_dados',h.split('/').pop(),cam);
+ else if(a.closest('.ferr')||a.closest('.dl'))ev('clique_ferramenta',txt,cam);
+ else if(/copiar link/i.test(txt))ev('compartilhar','copiar link',cam);},true);
+function rol(){var d=document.documentElement,H=d.scrollHeight-d.clientHeight;if(H<=0)return;
+ var p=Math.round(window.pageYOffset/H*100);
+ [25,50,75,90].forEach(function(m){if(p>=m&&!prof[m]){prof[m]=1;ev('rolagem',m+'%',cam);}});}
+window.addEventListener('scroll',rol,{passive:true});rol();
+[15,30,60,120].forEach(function(s){setTimeout(function(){if(!document.hidden)ev('permanencia',s+'s',cam);},s*1000);});
+var _saiu=0;document.addEventListener('visibilitychange',function(){if(document.visibilityState==='hidden'&&!_saiu){_saiu=1;
+ var mx=0;for(var k in prof){if(+k>mx)mx=+k;}
+ var seg=Math.round((Date.now()-t0)/1000);
+ var fx=seg<10?'0 a 10s':seg<30?'10 a 30s':seg<60?'30 a 60s':seg<180?'1 a 3min':'mais de 3min';
+ ev('saida_pagina',fx+' | rolou '+mx+'%',cam);}});
+})();</script>
+<title>Galpões em Chapecó: R$ 4.280/m² por bairro</title>
+<meta name="description" content="Galpões em Chapecó: mediana de R$ 4.280/m² (venda) e R$ 25,7/m² (aluguel) por bairro. Ranking com 18 bairros, atualizado em setembro/2026.">
+<meta property="og:title" content="Galpões em Chapecó: R$ 4.280/m² por bairro">
+<meta property="og:description" content="Galpões em Chapecó: mediana de R$ 4.280/m² (venda) e R$ 25,7/m² (aluguel) por bairro. Ranking com 18 bairros, atualizado em setembro/2026.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://metroquadradosc.com.br/chapeco/galpoes/">
+<meta property="og:site_name" content="Metro Quadrado, do Minuto Jaraguá">
+<meta property="og:image" content="https://metroquadradosc.com.br/og/chapeco.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="https://metroquadradosc.com.br/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="192x192" href="https://metroquadradosc.com.br/icone/icone-192.png">
+<link rel="apple-touch-icon" href="https://metroquadradosc.com.br/icone/icone-180.png">
+<link rel="manifest" href="https://metroquadradosc.com.br/manifest.webmanifest">
+<meta name="theme-color" content="#1a1a1a">
+<link rel="canonical" href="https://metroquadradosc.com.br/chapeco/galpoes/">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Dataset", "name": "Índice Metro Quadrado (IMQ) — preço do m² de galpões por bairro em Chapecó/SC", "description": "Medianas do preço do m² de galpões por bairro de Chapecó/SC (venda e aluguel), a partir de 254 anúncios públicos deduplicados de 9 fontes. Coleta: setembro/2026.", "url": "https://metroquadradosc.com.br/chapeco/galpoes/", "keywords": ["preço do m² Chapecó", "valor do metro quadrado", "galpões", "imóveis", "Santa Catarina"], "creator": {"@type": "Organization", "name": "Minuto Jaraguá"}, "author": {"@type": "Organization", "name": "Minuto Jaraguá", "url": "https://metroquadradosc.com.br/quem-somos/", "sameAs": ["https://www.instagram.com/minutojaragua/"]}, "publisher": {"@type": "Organization", "name": "Minuto Jaraguá", "url": "https://www.instagram.com/minutojaragua/"}, "datePublished": "2026-09-01", "dateModified": "2026-09-01", "temporalCoverage": "2026-09", "spatialCoverage": "Chapecó, SC, Brasil", "isAccessibleForFree": true, "license": "https://creativecommons.org/licenses/by/4.0/", "distribution": [{"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://metroquadradosc.com.br/chapeco/dados.csv"}, {"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://metroquadradosc.com.br/chapeco/dados.json"}]}</script><style>
+:root{--amar:#FFD400;--ink:#1a1a1a;--cinza:#666;--fundo:#fafaf7;--card:#fff;--borda:#e8e6e0}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,'Segoe UI',Roboto,sans-serif;background:var(--fundo);color:var(--ink);line-height:1.55}
+.wrap{max-width:880px;margin:0 auto;padding:0 18px}
+header{background:var(--ink);color:#fff;padding:30px 0 22px;border-bottom:6px solid var(--amar)}
+header h1,header .marca{font-size:1.9rem;letter-spacing:-.5px;font-weight:700;line-height:1.15}
+header h1 a,header .marca a{color:inherit;text-decoration:none}
+header h1 span,header .marca span{color:var(--amar)}
+header p{color:#cfcfcf;margin-top:6px;max-width:680px}
+/* H1 semantico do tema (o nome da marca vira .marca): mesma aparencia do antigo <p> */
+header h1.tema{font-size:1.02rem;font-weight:600;letter-spacing:0;color:#cfcfcf;margin-top:8px;max-width:680px}
+.stats{display:flex;gap:14px;flex-wrap:wrap;margin-top:16px}
+.hero{margin-top:18px}
+.herofim .varant{color:#cfcfcf;font-size:.92rem;margin:8px 0 0}
+.cta-bairro{margin-top:16px;padding:14px 16px;border:1px solid var(--borda);border-radius:14px}
+.cta-bairro .btn{display:inline-block;margin:4px 8px 4px 0;padding:11px 15px;border-radius:10px;background:var(--ink);color:var(--amar);font-weight:700;text-decoration:none;border:2px solid var(--ink)}
+.cta-bairro .btn.sec{background:transparent;color:var(--ink)}
+.herofim{background:var(--ink);border-radius:14px;padding:20px 24px;margin-top:26px}
+.herofim .hero{margin-top:0}
+.hero b{font-size:2.7rem;line-height:1;color:var(--amar);font-variant-numeric:tabular-nums;letter-spacing:-1px}
+.hero span{font-size:1.2rem;font-weight:700;color:var(--amar);margin-left:2px}
+.hero p{color:#e9e9e9;font-size:1rem;margin-top:6px;max-width:56ch}
+.hero p b{color:#fff;font-size:inherit;letter-spacing:0}
+.metaline{margin-top:10px;font-size:.85rem;color:#a8a8a8}
+.metaline a{color:#d8d8d8}
+.assina{margin-top:6px;font-size:.85rem;color:#bdbdbd}
+.assina a{color:var(--amar);font-weight:600}
+.ferr{display:flex;gap:8px;flex-wrap:wrap;margin-top:18px}
+.dobra{margin-top:12px}
+.dobra>summary{cursor:pointer;display:inline-block;font-weight:700;color:#1b6e1b;background:#fff;border:2px solid #1b6e1b;border-radius:20px;padding:11px 18px;font-size:.95rem;list-style:none}
+.dobra>summary::-webkit-details-marker{display:none}
+.dobra>summary::after{content:" ▾"}
+.dobra[open]>summary::after{content:" ▴"}
+.dobra[open]>summary{margin-bottom:10px}
+.indice{margin-top:16px;font-size:.88rem;color:#8f8f8f;line-height:2}
+.indice a{color:#d8d8d8;text-decoration:none;border-bottom:1px solid #4a4a4a;padding-bottom:2px}
+.ferr a{font-weight:700;background:#fff;border:2px solid #1b6e1b;color:#1b6e1b;border-radius:20px;padding:12px 16px;text-decoration:none;font-size:.95rem}
+.ferr a.destaque{background:#0E4C92;border-color:#0E4C92;color:#fff}
+.stat{background:#2a2a2a;border-radius:10px;padding:10px 16px;text-align:center}
+.stat b{display:block;font-size:1.25rem;color:var(--amar)}
+.stat small{color:#bbb;font-size:.75rem}
+.tipos{display:flex;gap:8px;flex-wrap:wrap;margin:18px 0 0}
+.tipos a{background:#2a2a2a;color:#ddd;text-decoration:none;font-weight:600;padding:9px 18px;border-radius:99px;font-size:.92rem}
+.tipos a.on{background:var(--amar);color:var(--ink)}
+.cidades{display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 0}
+.cidades a{background:transparent;border:1px solid #555;color:#bbb;text-decoration:none;font-weight:600;padding:6px 14px;border-radius:99px;font-size:.82rem}
+.cidades a.on{border-color:var(--amar);color:var(--amar)}
+.cidades .breve{border:1px dashed #4a4a4a;color:#777;font-weight:600;padding:6px 14px;border-radius:99px;font-size:.82rem;cursor:default}
+.cidades .novo{background:var(--amar);color:#1a1a1a;border-radius:6px;padding:0 5px;font-size:.68rem;vertical-align:middle}
+.cidades details.mais{display:inline-block}
+.cidades details.mais[open]{flex-basis:100%}
+.cidades details.mais summary{list-style:none;display:inline-block;cursor:pointer;border:1px solid #555;color:#bbb;font-weight:600;padding:6px 14px;border-radius:99px;font-size:.82rem}
+.cidades details.mais summary::-webkit-details-marker{display:none}
+.cidades details.mais[open] summary{border-color:var(--amar);color:var(--amar)}
+.cidades details.mais .lista{display:flex;gap:8px;flex-wrap:wrap;margin-top:8px}
+.cidades details.mais .lista a{background:transparent;border:1px solid #555;color:#bbb;text-decoration:none;font-weight:600;padding:6px 14px;border-radius:99px;font-size:.82rem}
+.cidades.claro details.mais summary{border-color:#cfccbe;color:#5f5f5f}
+.cidades.claro details.mais[open] summary{border-color:var(--ink);color:var(--ink)}
+.cidades.claro details.mais .lista a{border-color:#cfccbe;color:#5f5f5f}
+/* Os tres seletores (cidade, tipo de imovel e venda/aluguel) passaram a ficar
+   juntos, logo acima da tabela que eles mudam. Como saem do cabecalho escuro
+   para o corpo claro, precisam da variante de cor abaixo. */
+.filtros{background:var(--card);border:1px solid var(--borda);border-radius:12px;padding:14px 16px;margin-bottom:16px}
+.filtros .rot{display:block;font-size:.78rem;text-transform:uppercase;letter-spacing:.04em;color:var(--cinza);font-weight:700}
+.filtros .tipos,.filtros .cidades{margin:6px 0 0}
+.filtros .linha+.linha{margin-top:12px}
+.tipos.claro a{background:#efedE4;color:#3a3a3a}
+.tipos.claro a.on{background:var(--ink);color:var(--amar)}
+.cidades.claro a{border-color:#cfccbe;color:#5f5f5f}
+.cidades.claro a.on{border-color:var(--ink);color:var(--ink);background:#fff}
+.cidades.claro .breve{border-color:#d6d3c6;color:#9a9a90}
+.filtros .toggle{margin-bottom:0;margin-top:6px}
+main{padding:28px 0 10px}
+section{margin-bottom:42px}
+h2{font-size:1.35rem;margin-bottom:6px;border-left:5px solid var(--amar);padding-left:10px}
+.sub{color:var(--cinza);font-size:.9rem;margin-bottom:16px}
+.toggle{display:inline-flex;border:2px solid var(--ink);border-radius:99px;overflow:hidden;margin-bottom:16px}
+.toggle button{border:0;background:#fff;padding:8px 22px;font-size:.95rem;font-weight:600;cursor:pointer}
+.toggle button.on{background:var(--ink);color:var(--amar)}
+.tblwrap{overflow-x:auto;background:var(--card);border:1px solid var(--borda);border-radius:12px;background-image:linear-gradient(to right,var(--card),var(--card)),linear-gradient(to right,var(--card),var(--card)),linear-gradient(to right,rgba(0,0,0,.18),rgba(0,0,0,0)),linear-gradient(to left,rgba(0,0,0,.18),rgba(0,0,0,0));background-position:left center,right center,left center,right center;background-repeat:no-repeat;background-size:24px 100%,24px 100%,14px 100%,14px 100%;background-attachment:local,local,scroll,scroll}
+table{width:100%;border-collapse:collapse;font-size:.92rem;min-width:560px}
+th{text-align:left;padding:10px 12px;background:#f3f2ec;font-size:.78rem;text-transform:uppercase;letter-spacing:.5px;color:#555}
+td{padding:9px 12px;border-top:1px solid var(--borda)}
+td.num,th.num{text-align:right;font-variant-numeric:tabular-nums}
+tr:hover td{background:#fffbe6}
+.rk{color:#5f5f5f;font-size:.8rem;width:30px}
+.med{font-weight:700;white-space:nowrap}
+.faixa{position:relative;height:8px;background:#eee;border-radius:4px;min-width:110px}
+.faixa i{position:absolute;height:8px;background:var(--amar);border-radius:4px}
+.faixa u{position:absolute;top:-2px;width:3px;height:12px;background:var(--ink);border-radius:2px}
+.bdg{font-size:.72rem;padding:2px 8px;border-radius:99px;white-space:nowrap}
+.bdg.alta{background:#d9f2d9;color:#1b6e1b}.bdg.media{background:#fff3cd;color:#6b5400}.bdg.baixa{background:#fde2e2;color:#a33}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px}
+.card{background:var(--card);border:1px solid var(--borda);border-radius:12px;padding:18px}
+.card h3{font-size:1.05rem;margin-bottom:10px}
+.kv{display:flex;justify-content:space-between;gap:10px;padding:5px 0;border-bottom:1px dashed var(--borda);font-size:.9rem}
+.kv:last-child{border:0}.kv b{font-variant-numeric:tabular-nums;text-align:right}
+select,input,textarea{padding:11px 12px;border:2px solid var(--ink);border-radius:8px;font-size:1rem;background:#fff;margin-right:10px;margin-bottom:12px;font-family:inherit}
+.aviso{background:#fff8dc;border:1px solid #eedc82;border-radius:10px;padding:14px 16px;font-size:.87rem;margin:14px 0}
+.metod ol{margin:10px 0 10px 22px;font-size:.92rem}
+.metod li{margin-bottom:7px}
+.disc{font-size:.8rem;color:var(--cinza)}
+.disc li{margin-bottom:5px;margin-left:18px}
+.dl a{display:inline-block;background:var(--ink);color:var(--amar);text-decoration:none;font-weight:600;padding:9px 18px;border-radius:8px;margin:4px 8px 4px 0;font-size:.9rem}
+.cite{background:#f3f2ec;border-radius:8px;padding:12px 14px;font-family:ui-monospace,monospace;font-size:.83rem;margin:10px 0}
+footer{background:var(--ink);color:#bbb;padding:30px 0;margin-top:30px;font-size:.85rem}
+footer a{color:var(--amar);text-decoration:none;font-weight:600}
+/* convite de seguir: fica no topo do rodape, ou seja, depois que a pessoa ja
+   teve a resposta que veio buscar. Nao cobre conteudo, nao e popup, nao tem
+   fechar. Um alvo de toque so, grande o suficiente no celular. */
+.segue{display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap;
+ background:rgba(255,255,255,.06);border:1px solid rgba(255,212,0,.35);border-radius:12px;
+ padding:14px 18px;margin-bottom:22px}
+.segue span{color:#e8e6df;font-size:.95rem}
+.segue b{color:#fff}
+.segue a.ig{background:var(--amar);color:var(--ink);padding:10px 20px;border-radius:999px;
+ font-weight:700;white-space:nowrap;font-size:.95rem}
+@media(max-width:600px){.segue{justify-content:center;text-align:center}.segue a.ig{width:100%;text-align:center}}
+.crumb{font-size:.85rem;margin-bottom:14px}.crumb a{color:#6b5400;text-decoration:none}
+@media(max-width:600px){header h1,header .marca{font-size:1.45rem}header h1.tema{font-size:.98rem}.stat{padding:8px 12px}
+.hero b{font-size:2.2rem}.hero p{font-size:.95rem}
+table{font-size:1rem}td,th{padding:11px 8px}
+.sub{font-size:.95rem}.bdg{font-size:.82rem}.disc{font-size:.9rem}.kv{font-size:.95rem}.metod ol{font-size:1rem}
+/* WCAG 2.5.8 exige 24px (AA); 44px so nos controles isolados, onde o espaco e barato */
+.cidades a{padding:12px 16px}.tipos a{padding:12px 18px}.toggle button{padding:12px 22px}.ferr a{padding:13px 16px}
+td a{display:inline-block;padding:4px 0}}
+</style></head><body><header><div class="wrap"><div class="marca"><a href="../">Metro Quadrado <span>Chapecó</span></a></div><h1 class="tema">Preço do m² de galpões em Chapecó, bairro por bairro · setembro/2026</h1><p>Índice próprio do <b style="color:#fff">Minuto Jaraguá</b>, gratuito e com método aberto, apurado todo mês em anúncios públicos.</p><p class="metaline">254 anúncios · 18 bairros no ranking · 9 fontes · <a href="https://metroquadradosc.com.br/metodologia/">como calculamos</a></p><p class="assina">Levantamento e edição: <a href="https://metroquadradosc.com.br/quem-somos/">Redação do Minuto Jaraguá</a> · atualizado em 01/09/2026</p><p style="margin-top:14px;font-size:.95rem"><a href="https://wa.me/?text=O%20pre%C3%A7o%20do%20m%C2%B2%20em%20Chapec%C3%B3%2C%20bairro%20por%20bairro%20%28setembro/2026%29%3A%20https%3A//metroquadradosc.com.br/chapeco/galpoes/" target="_blank" rel="noopener" style="display:inline-block;color:#0b2e13;background:#25D366;padding:13px 18px;border-radius:999px;text-decoration:none;font-weight:700">📲 Compartilhar no WhatsApp</a> <button onclick="navigator.clipboard.writeText(location.href.split('#')[0]);this.textContent='✅ link copiado'" style="background:none;border:1px solid #8a8a8a;color:#e6e6e6;padding:13px 18px;border-radius:999px;cursor:pointer;font-size:1em">🔗 copiar link</button></p><div class="ferr"><a href="https://metroquadradosc.com.br/comparar/">⚖️ Comparar cidades e bairros</a><a href="https://metroquadradosc.com.br/calculadora/">🧮 Quanto vale meu imóvel?</a><a href="https://metroquadradosc.com.br/assistente/">🤖 Assistente</a><a href="https://metroquadradosc.com.br/anuncie/" class="destaque">📢 Para corretores</a></div></div></header><main><div class="wrap"><section id="ranking"><h2>Galpões: ranking por bairro</h2><p class="sub">Mediana do preço pedido por m². A barra mostra a <b>faixa típica</b> — a metade central dos anúncios do bairro: 25% pedem menos que ela e 25% pedem mais; o traço preto é a mediana. Confiança pelo nº de anúncios: <span class="bdg alta">n≥20 alta</span> <span class="bdg media">10–19 média</span> <span class="bdg baixa">5–9 baixa</span></p><div class="filtros"><div class="linha"><span class="rot">Cidade</span><div class="cidades claro"><a href="https://metroquadradosc.com.br/chapeco/" class="on" title="Preço do m² em Chapecó, bairro por bairro">📍 Chapecó</a><a href="https://metroquadradosc.com.br/" title="Preço do m² em Jaraguá do Sul, bairro por bairro">📍 Jaraguá do Sul</a><a href="https://metroquadradosc.com.br/joinville/" title="Preço do m² em Joinville, bairro por bairro">📍 Joinville</a><a href="https://metroquadradosc.com.br/florianopolis/" title="Preço do m² em Florianópolis, bairro por bairro">📍 Florianópolis <b class="novo">novo</b></a><a href="https://metroquadradosc.com.br/guaramirim/" title="Preço do m² em Guaramirim, bairro por bairro">📍 Guaramirim</a><a href="https://metroquadradosc.com.br/blumenau/" title="Preço do m² em Blumenau, bairro por bairro">📍 Blumenau <b class="novo">novo</b></a><a href="https://metroquadradosc.com.br/brusque/" title="Preço do m² em Brusque, bairro por bairro">📍 Brusque <b class="novo">novo</b></a><a href="https://metroquadradosc.com.br/sao-jose/" title="Preço do m² em São José, bairro por bairro">📍 São José <b class="novo">novo</b></a><a href="https://metroquadradosc.com.br/palhoca/" title="Preço do m² em Palhoça, bairro por bairro">📍 Palhoça <b class="novo">novo</b></a><a href="https://metroquadradosc.com.br/itajai/" title="Preço do m² em Itajaí, bairro por bairro">📍 Itajaí <b class="novo">novo</b></a><a href="https://metroquadradosc.com.br/criciuma/" title="Preço do m² em Criciúma, bairro por bairro">📍 Criciúma <b class="novo">novo</b></a><a href="https://metroquadradosc.com.br/lages/" title="Preço do m² em Lages, bairro por bairro">📍 Lages <b class="novo">novo</b></a><details class="mais"><summary>+ todas as cidades (15)</summary><div class="lista"><a href="https://metroquadradosc.com.br/schroeder/" title="Preço do m² em Schroeder, bairro por bairro">📍 Schroeder</a><a href="https://metroquadradosc.com.br/corupa/" title="Preço do m² em Corupá, bairro por bairro">📍 Corupá</a><a href="https://metroquadradosc.com.br/massaranduba/" title="Preço do m² em Massaranduba, bairro por bairro">📍 Massaranduba</a></div></details><span class="breve" title="Em breve no índice">📍 Navegantes · 01/10</span></div></div><div class="linha"><span class="rot">Tipo de imóvel</span><div class="tipos claro"><a href="../index.html">Apartamentos</a><a href="../casas/">Casas</a><a href="../terrenos/">Terrenos</a><a href="../salas/">Salas comerciais</a><a href="../galpoes/" class="on">Galpões</a></div></div></div><p class="sub" style="margin-bottom:8px"><b>🔑 Valores de ALUGUEL</b> (R$ por m² <b>ao mês</b>). Ainda não há anúncios de venda suficientes para um ranking de compra.</p><div class="tblwrap"><table><thead><tr><th class="rk">#</th><th>Bairro</th><th class="num">Mediana R$/m²</th><th>Faixa típica de preços</th><th>Confiança</th></tr></thead><tbody><tr><td class="rk">1</td><td><a href="../bairro/alvorada.html" style="color:inherit;text-decoration:none;border-bottom:1px dotted #999">Alvorada</a></td><td class="num med">R$ 35,0</td><td><div class="faixa" title="faixa típica: de R$ 33,4 a R$ 39,5 · mediana R$ 35,0"><i style="left:64.2%;width:19.3%"></i><u style="left:69.3%"></u></div></td><td><span class="bdg baixa">n=5 · baixa</span></td></tr><tr><td class="rk">2</td><td><a href="../bairro/centro.html" style="color:inherit;text-decoration:none;border-bottom:1px dotted #999">Centro</a></td><td class="num med">R$ 32,7</td><td><div class="faixa" title="faixa típica: de R$ 25,5 a R$ 39,1 · mediana R$ 32,7"><i style="left:39.2%;width:43.0%"></i><u style="left:62.0%"></u></div></td><td><span class="bdg baixa">n=5 · baixa</span></td></tr><tr><td class="rk">3</td><td><a href="../bairro/bom-retiro.html" style="color:inherit;text-decoration:none;border-bottom:1px dotted #999">Bom Retiro</a></td><td class="num med">R$ 32,6</td><td><div class="faixa" title="faixa típica: de R$ 31,4 a R$ 37,2 · mediana R$ 32,6"><i style="left:57.9%;width:18.4%"></i><u style="left:61.7%"></u></div></td><td><span class="bdg baixa">n=6 · baixa</span></td></tr><tr><td class="rk">4</td><td><a href="../bairro/lider.html" style="color:inherit;text-decoration:none;border-bottom:1px dotted #999">Líder</a></td><td class="num med">R$ 30,8</td><td><div class="faixa" title="faixa típica: de R$ 24,7 a R$ 32,5 · mediana R$ 30,8"><i style="left:36.7%;width:24.7%"></i><u style="left:56.0%"></u></div></td><td><span class="bdg media">n=11 · média</span></td></tr><tr><td class="rk">5</td><td><a href="../bairro/lajeado.html" style="color:inherit;text-decoration:none;border-bottom:1px dotted #999">Lajeado</a></td><td class="num med">R$ 29,6</td><td><div class="faixa" title="faixa típica: de R$ 23,2 a R$ 41,2 · mediana R$ 29,6"><i style="left:32.0%;width:57.0%"></i><u style="left:52.2%"></u></div></td><td><span class="bdg media">n=11 · média</span></td></tr><tr><td class="rk">6</td><td><a href="../bairro/sao-cristovao.html" style="color:inherit;text-decoration:none;border-bottom:1px dotted #999">São Cristóvão</a></td><td class="num med">R$ 28,8</td><td><div class="faixa" title="faixa típica: de R$ 23,8 a R$ 32,8 · mediana R$ 28,8"><i style="left:33.9%;width:28.5%"></i><u style="left:49.7%"></u></div></td><td><span class="bdg media">n=14 · média</span></td></tr><tr><td class="rk">7</td><td><a href="../bairro/paraiso.html" style="color:inherit;text-decoration:none;border-bottom:1px dotted #999">Paraíso</a></td><td class="num med">R$ 28,4</td><td><div class="faixa" title="faixa típica: de R$ 22,2 a R$ 36,4 · mediana R$ 28,4"><i style="left:28.8%;width:44.9%"></i><u style="left:48.4%"></u></div></td><td><span class="bdg baixa">n=7 · baixa</span></td></tr><tr><td class="rk">8</td><td><a href="../bairro/santa-maria.html" style="color:inherit;text-decoration:none;border-bottom:1px dotted #999">Santa Maria</a></td><td class="num med">R$ 28,2</td><td><div class="faixa" title="faixa típica: de R$ 17,3 a R$ 32,2 · mediana R$ 28,2"><i style="left:13.3%;width:47.2%"></i><u style="left:47.8%"></u></div></td><td><span class="bdg baixa">n=6 · baixa</span></td></tr><tr><td class="rk">9</td><td><a href="../bairro/bela-vista.html" style="color:inherit;text-decoration:none;border-bottom:1px dotted #999">Bela Vista</a></td><td class="num med">R$ 27,3</td><td><div class="faixa" title="faixa típica: de R$ 19,9 a R$ 33,0 · mediana R$ 27,3"><i style="left:21.5%;width:41.5%"></i><u style="left:44.9%"></u></div></td><td><span class="bdg media">n=10 · média</span></td></tr><tr><td class="rk">10</td><td><a href="../bairro/passo-dos-fortes.html" style="color:inherit;text-decoration:none;border-bottom:1px dotted #999">Passo dos Fortes</a></td><td class="num med">R$ 26,7</td><td><div class="faixa" title="faixa típica: de R$ 20,5 a R$ 29,1 · mediana R$ 26,7"><i style="left:23.4%;width:27.2%"></i><u style="left:43.0%"></u></div></td><td><span class="bdg baixa">n=5 · baixa</span></td></tr><tr><td class="rk">11</td><td><a href="../bairro/belvedere.html" style="color:inherit;text-decoration:none;border-bottom:1px dotted #999">Belvedere</a></td><td class="num med">R$ 26,6</td><td><div class="faixa" title="faixa típica: de R$ 21,9 a R$ 34,1 · mediana R$ 26,6"><i style="left:27.8%;width:38.6%"></i><u style="left:42.7%"></u></div></td><td><span class="bdg baixa">n=9 · baixa</span></td></tr><tr><td class="rk">12</td><td><a href="../bairro/santos-dumont.html" style="color:inherit;text-decoration:none;border-bottom:1px dotted #999">Santos Dumont</a></td><td class="num med">R$ 26,5</td><td><div class="faixa" title="faixa típica: de R$ 24,3 a R$ 32,6 · mediana R$ 26,5"><i style="left:35.4%;width:26.3%"></i><u style="left:42.4%"></u></div></td><td><span class="bdg media">n=15 · média</span></td></tr><tr><td class="rk">13</td><td><a href="../bairro/eldorado.html" style="color:inherit;text-decoration:none;border-bottom:1px dotted #999">Eldorado</a></td><td class="num med">R$ 25,7</td><td><div class="faixa" title="faixa típica: de R$ 24,8 a R$ 44,7 · mediana R$ 25,7"><i style="left:37.0%;width:63.0%"></i><u style="left:39.9%"></u></div></td><td><span class="bdg baixa">n=6 · baixa</span></td></tr><tr><td class="rk">14</td><td><a href="../bairro/palmital.html" style="color:inherit;text-decoration:none;border-bottom:1px dotted #999">Palmital</a></td><td class="num med">R$ 25,4</td><td><div class="faixa" title="faixa típica: de R$ 22,1 a R$ 32,3 · mediana R$ 25,4"><i style="left:28.5%;width:32.3%"></i><u style="left:38.9%"></u></div></td><td><span class="bdg media">n=16 · média</span></td></tr><tr><td class="rk">15</td><td><a href="../bairro/araras.html" style="color:inherit;text-decoration:none;border-bottom:1px dotted #999">Araras</a></td><td class="num med">R$ 24,4</td><td><div class="faixa" title="faixa típica: de R$ 20,0 a R$ 33,8 · mediana R$ 24,4"><i style="left:21.8%;width:43.7%"></i><u style="left:35.8%"></u></div></td><td><span class="bdg media">n=14 · média</span></td></tr><tr><td class="rk">16</td><td><a href="../bairro/sao-lucas.html" style="color:inherit;text-decoration:none;border-bottom:1px dotted #999">São Lucas</a></td><td class="num med">R$ 21,9</td><td><div class="faixa" title="faixa típica: de R$ 17,2 a R$ 24,8 · mediana R$ 21,9"><i style="left:13.0%;width:24.1%"></i><u style="left:27.8%"></u></div></td><td><span class="bdg baixa">n=7 · baixa</span></td></tr><tr><td class="rk">17</td><td><a href="../bairro/efapi.html" style="color:inherit;text-decoration:none;border-bottom:1px dotted #999">Efapi</a></td><td class="num med">R$ 21,4</td><td><div class="faixa" title="faixa típica: de R$ 18,7 a R$ 24,3 · mediana R$ 21,4"><i style="left:17.7%;width:17.7%"></i><u style="left:26.3%"></u></div></td><td><span class="bdg media">n=10 · média</span></td></tr><tr><td class="rk">18</td><td><a href="../bairro/trevo.html" style="color:inherit;text-decoration:none;border-bottom:1px dotted #999">Trevo</a></td><td class="num med">R$ 16,6</td><td><div class="faixa" title="faixa típica: de R$ 13,1 a R$ 20,5 · mediana R$ 16,6"><i style="left:0.0%;width:23.4%"></i><u style="left:11.1%"></u></div></td><td><span class="bdg media">n=16 · média</span></td></tr></tbody></table></div><div class="aviso">🏭 Galpões, barracões e pavilhões industriais/logísticos de 100 m² a 2 ha. Mercado heterogêneo: pé-direito, doca, pátio de manobra, energia e zoneamento mudam muito o preço — a mediana é referência, não avaliação. Preços de oferta, não de venda efetiva.</div></section><section id="rendimento"><h2>Rendimento do aluguel (yield)</h2><p class="sub">Pelo m² mediano da cidade (galpões): aluguel de 12 meses ÷ preço de venda = <b>7,21% ao ano</b>, bruto (antes de vacância, IPTU e manutenção). Ainda não há bairros suficientes com venda e aluguel simultâneos para um ranking por bairro.</p><details class="dobra"><summary>Ver a tabela dos bairros</summary></details></section></div></main><section class="herofim"><div class="hero"><b>R$ 4.280</b><span>/m²</span><p>mediana do m² de galpões à venda em Chapecó, setembro/2026. Aluguel: <b>R$ 25,70/m²</b> ao mês.</p></div></section><section class="cta-bairro"><p class="sub" style="margin:0 0 8px">O que fazer com esse número?</p><a class="btn" href="https://metroquadradosc.com.br/calculadora/?cid=chapeco">🏠 Quanto vale meu imóvel em Chapecó?</a> <a class="btn sec" href="https://metroquadradosc.com.br/comparar/?cat=galpao&amp;s=chapeco:__geral,joinville:__geral">⚖️ Comparar Chapecó com Joinville</a></section><section style="margin-top:20px"><h2>O que os números de setembro/2026 mostram em Chapecó</h2><p class="sub">Para alugar, a mediana em Chapecó é de <b>R$ 25,7/m²</b> por mês, sobre 232 anúncios. Cruzando venda e aluguel, o rendimento bruto de quem compra para alugar fica em <b>7,21% ao ano</b>, antes de condomínio, IPTU, vacância e imposto. Os valores são preços pedidos em anúncios públicos de 9 fontes, não vendas fechadas. Veja <a href="https://metroquadradosc.com.br/metodologia/">como calculamos</a>, compare bairros lado a lado no <a href="https://metroquadradosc.com.br/comparar/">comparador</a> ou estime o seu imóvel na <a href="https://metroquadradosc.com.br/calculadora/">calculadora</a>.</p></section><footer><div class="wrap"><div class="segue"><span>Preço novo do m² <b>todo mês</b>, de graça, aqui e no Instagram.</span><a class="ig" href="https://www.instagram.com/minutojaragua/" target="_blank" rel="noopener" onclick="try{if(typeof gtag==='function')gtag('event','clique_instagram',{rotulo:'rodape',categoria:location.pathname});}catch(e){}">Seguir @minutojaragua</a></div><p><b style="color:#fff">Minuto Jaraguá</b> — Jaraguá do Sul em 1 minuto, sem enrolação.</p><p style="margin-top:6px">📲 <a href="https://whatsapp.com/channel/0029VbDVRhr7dmeij8qMmI16">Canal no WhatsApp (grátis)</a> · <a href="https://wa.me/5547997424339?text=Ol%C3%A1!%20Vim%20pelo%20site%20Metro%20Quadrado%20e%20quero%20falar%20com%20o%20Minuto%20Jaragu%C3%A1.">💬 Falar com a gente</a> · <a href="https://www.instagram.com/minutojaragua/">@minutojaragua</a></p><p style="margin-top:6px;color:#6b6b6b">📌 Salve este site: no celular, menu do navegador › <b>Adicionar à tela inicial</b>; no computador, <b>Ctrl+D</b>.</p><p style="margin-top:8px">Levantamento e edição: <a href="https://metroquadradosc.com.br/quem-somos/">Redação do Minuto Jaraguá</a></p><p style="margin-top:10px;color:#888">© 2026 Minuto Jaraguá · <a href="https://metroquadradosc.com.br/quem-somos/" style="color:#888;text-decoration:underline">quem somos</a> · <a href="https://metroquadradosc.com.br/metodologia/" style="color:#888;text-decoration:underline">metodologia</a> · <a href="https://metroquadradosc.com.br/imprensa/" style="color:#888;text-decoration:underline">imprensa</a> · <a href="https://metroquadradosc.com.br/anuncie/" style="color:#888;text-decoration:underline">para corretores</a> · <a href="https://metroquadradosc.com.br/conector/" style="color:#888;text-decoration:underline">conector de IA</a> · <a href="https://metroquadradosc.com.br/privacidade/" style="color:#888;text-decoration:underline">privacidade</a> · dados: CC BY 4.0 · atualizado em 2026-09-01 · dados de referência: setembro/2026 · próxima atualização: 1º/10/2026 · medimos visitas de forma agregada (Google Analytics, IP anonimizado)</p><p style="margin-top:8px;color:#777;font-size:.85em">Conteúdo informativo: recorte estatístico de anúncios públicos (preços pedidos, não transações). Não é avaliação, oferta nem recomendação de investimento — decisões com base nestes dados são de responsabilidade do leitor.</p></div></footer><script>function _abre(){var h=location.hash.slice(1);if(!h)return;var s=document.getElementById(h);if(!s)return;var d=s.querySelector("details.dobra");if(d&&!d.open){d.open=true;setTimeout(function(){s.scrollIntoView()},0);}}addEventListener("hashchange",_abre);addEventListener("load",_abre);</script></body></html>
