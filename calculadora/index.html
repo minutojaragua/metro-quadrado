@@ -79,7 +79,7 @@ var _saiu=0;document.addEventListener('visibilitychange',function(){if(document.
 <link rel="manifest" href="https://metroquadradosc.com.br/manifest.webmanifest">
 <meta name="theme-color" content="#1a1a1a">
 <link rel="canonical" href="https://metroquadradosc.com.br/calculadora/">
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Quanto vale meu imóvel em Jaraguá do Sul?", "acceptedAnswer": {"@type": "Answer", "text": "Multiplique a área pela mediana de R$/m² do seu bairro — a calculadora do Metro Quadrado faz isso na hora com dados de setembro/2026, com a faixa típica de preços e nível de confiança, sem cadastro."}}, {"@type": "Question", "name": "A estimativa é uma avaliação oficial?", "acceptedAnswer": {"@type": "Answer", "text": "Não. É uma estimativa estatística por preços pedidos em anúncios públicos do mês — não substitui avaliação de corretor ou laudo. O valor real depende de padrão, estado e negociação."}}]}</script><style>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Quanto vale meu imóvel em Jaraguá do Sul?", "acceptedAnswer": {"@type": "Answer", "text": "Multiplique a área pela mediana de R$/m² do seu bairro — a calculadora do Metro Quadrado faz isso na hora com dados de setembro/2026, com a faixa típica de preços e nível de confiança, sem cadastro."}}, {"@type": "Question", "name": "Por que o apartamento pequeno custa mais por metro quadrado?", "acceptedAnswer": {"@type": "Answer", "text": "Cozinha, banheiro, vaga e área comum custam quase o mesmo num apartamento de 35 m² ou de 90 m², então o preço por m² do pequeno sobe: em Jaraguá do Sul, dentro do mesmo bairro, unidades de 20 a 40 m² pedem cerca de 50% a mais por m²; em Florianópolis, cerca de 33%. A calculadora aplica esse ajuste por faixa de tamanho, medido em cada cidade."}}, {"@type": "Question", "name": "A estimativa é uma avaliação oficial?", "acceptedAnswer": {"@type": "Answer", "text": "Não. É uma estimativa estatística por preços pedidos em anúncios públicos do mês — não substitui avaliação de corretor ou laudo. O valor real depende de padrão, estado e negociação."}}]}</script><style>
 :root{--amar:#FFD400;--ink:#1a1a1a;--cinza:#666;--fundo:#fafaf7;--card:#fff;--borda:#e8e6e0}
 *{margin:0;padding:0;box-sizing:border-box}
 body{font-family:-apple-system,'Segoe UI',Roboto,sans-serif;background:var(--fundo);color:var(--ink);line-height:1.55}
@@ -227,7 +227,7 @@ td a{display:inline-block;padding:4px 0}}
 <input id="area" type="number" min="10" max="50000" placeholder="área (m²)" aria-label="Área em metros quadrados" style="padding:8px 10px;font-size:1em;border-radius:8px;width:110px;border:1px solid #bbb">
 </div>
 <div id="res"></div>
-<p class="sub" style="margin-top:14px">A conta é transparente: mediana do R$/m² do bairro × sua área, com a faixa central dos anúncios — descartados os 25% mais baratos e os 25% mais caros. Nos terrenos, use a área do lote. <a href="../metodologia/">Metodologia</a>.</p>
+<p class="sub" style="margin-top:14px">A conta é transparente: mediana do R$/m² do bairro × sua área × ajuste pelo tamanho (o m² do imóvel pequeno custa mais; o ajuste é medido dentro de cada bairro), com a faixa central dos anúncios — descartados os 25% mais baratos e os 25% mais caros. Nos terrenos, use a área do lote. <a href="../metodologia/">Metodologia</a>.</p>
 <div class="aviso" style="margin-top:10px">📷 Isto é uma <b>estimativa estatística por preços pedidos</b> em anúncios públicos do mês — não é avaliação de imóvel, laudo nem oferta. O valor real depende de padrão construtivo, estado, andar, vaga e negociação. Nada do que você digita aqui é enviado ou guardado — a conta acontece no seu navegador.</div>
 </section>
 </div></main>
@@ -284,7 +284,14 @@ async function calcula(){
   h+='<p style="font-size:1.25em;margin:10px 0"><b>'+verbo.charAt(0).toUpperCase()+verbo.slice(1)+' R$ '+fmt(med)+suf+'</b></p>';
   h+='<p>A metade central dos anúncios do mês sugere entre <b>R$ '+fmt(lo)+suf+'</b> e <b>R$ '+fmt(hi)+suf+'</b>. Base: R$ '+fmt(st.mediana,op==="aluguel"?1:0)+'/m² (mediana) · '+badge(st.n)+'</p>';
   if(mult!==1){const pc=Math.round((mult-1)*100);
-    h+='<p style="color:#666">📐 Ajuste por tamanho: na cidade, imóveis desta categoria com '+banda.min+'–'+(banda.max>=1500?banda.max+'':banda.max)+' m² pedem <b>'+(pc>0?'+':'')+pc+'%</b> por m² em relação à média — a estimativa acima já considera isso (n='+banda.n+').</p>';}
+    h+='<p style="color:#666">📐 Ajuste por tamanho: dentro do mesmo bairro, '+(CATS[cat]||cat).toLowerCase()+'s de '+rotFaixa(banda)+' pedem <b>'+(pc>0?'+':'')+pc+'%</b> por m² em relação à mediana do bairro — a estimativa acima já considera isso (n='+banda.n+' anúncios na cidade'+(banda.n<30?', amostra pequena':'')+').</p>';}
+  if(fa&&fa.length>=3){
+    h+='<details style="margin-top:10px"><summary style="cursor:pointer;color:#1b6e1b;font-weight:700">📏 R$/m² por tamanho em '+cnome+' ('+(CATS[cat]||cat).toLowerCase()+', '+op+')</summary>';
+    h+='<table style="margin-top:8px;font-size:0.92em"><thead><tr><th>tamanho</th><th>anúncios</th><th>R$/m² mediano</th><th>dentro do bairro</th></tr></thead><tbody>';
+    fa.forEach(f=>{const pc=Math.round((f.mult-1)*100), eu=banda&&f.min===banda.min;
+      h+='<tr'+(eu?' style="background:#eef7ee;font-weight:700"':'')+'><td>'+rotFaixa(f)+(eu?' ← o seu':'')+'</td><td>'+f.n+'</td><td>R$ '+fmt(f.ppm,op==="aluguel"?1:0)+'</td><td>'+(Math.abs(pc)<=2?'na média':(pc>0?'+':'')+pc+'%')+'</td></tr>';});
+    h+='</tbody></table><p class="sub" style="margin-top:6px">"Dentro do bairro" compara cada anúncio com a mediana do próprio bairro: é o efeito do tamanho sem misturar com a localização. O m² do imóvel pequeno custa mais (o mercado chama de efeito Manhattan) porque cozinha, banheiro e área comum pesam igual num imóvel de 35 ou de 90 m². No imóvel muito grande o m² também pode subir, por padrão de acabamento.</p></details>';
+  }
   if(op==="venda"&&no.aluguel){
     const faA=((S.geral||{}).faixas_area||{}).aluguel;
     const bA=faA?faA.find(f=>area>=f.min&&area<f.max):null;
@@ -305,6 +312,7 @@ async function calcula(){
   h+='</div>';
   R.innerHTML=h;
 }
+function rotFaixa(f){return f.max>=1500?f.min+' m² ou mais':(f.min+' a '+f.max+' m²');}
 function slugify(s){return s.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"").replace(/['’´`]/g,"").replace(/\s+/g,"-").replace(/[^a-z0-9-]/g,"");}
 async function init(){
   selPreenche($("cid"),CFG.map(c=>[c.slug,c.nome]));
