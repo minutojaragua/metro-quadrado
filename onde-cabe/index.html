@@ -308,12 +308,47 @@ async function universo(){
   }
   return out;
 }
+// 02/09/2026 (pedido do Jales, para o reel do informe): posicao do bairro na cidade E no
+// estado. universo() so carrega a cidade filtrada, entao o ranking do estado precisa de uma
+// passada propria por TODAS as cidades. 1o lugar = mais caro, mesma convencao do ranking da
+// pagina de cidade. So entram bairros com pelo menos 10 anuncios: com menos, a posicao seria
+// ruido, e a linha diz "amostra pequena" em vez de inventar um numero.
+const RANK={};
+async function ranking(){
+  if(RANK[OP])return RANK[OP];
+  const todos=[];
+  for(const c of CFG){
+    let d;try{d=await dados(c);}catch(e){continue;}
+    const B=(d.segmentos.apartamento||{}).bairros||{};
+    for(const b in B){
+      const t=(B[b].tipico||{})[OP];
+      if(!t||!t.valor||!t.n||t.n<10)continue;
+      todos.push({k:c.slug+"|"+b,slug:c.slug,valor:t.valor});
+    }
+  }
+  todos.sort((a,b)=>b.valor-a.valor);
+  const porCidade={};
+  todos.forEach(function(x){(porCidade[x.slug]=porCidade[x.slug]||[]).push(x);});
+  const mapa={};
+  todos.forEach(function(x,i){
+    const lista=porCidade[x.slug];
+    mapa[x.k]={estado:i+1,estadoDe:todos.length,cidade:lista.indexOf(x)+1,cidadeDe:lista.length};
+  });
+  RANK[OP]=mapa; return mapa;
+}
+function posicao(x){
+  const r=(RANK[OP]||{})[x.slug+"|"+x.bairro];
+  if(!r)return '<span class="sub">amostra pequena</span>';
+  return '<span style="white-space:nowrap">'+r.cidade+'\u00ba de '+r.cidadeDe+' na cidade</span><br>'+
+         '<span class="sub" style="font-size:.85em;white-space:nowrap">'+r.estado+'\u00ba de '+r.estadoDe+' em SC</span>';
+}
 function slugify(s){return s.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"").replace(/['’´`]/g,"").replace(/\s+/g,"-").replace(/[^a-z0-9-]/g,"");}
 async function calcula(){
   const v=limpaNum($("val").value);
   $("val").value=v?fmt(v):"";
   if(!v){$("resumo").innerHTML="";$("res").innerHTML='<p class="sub">Informe um valor para começar.</p>';return;}
   const U0=await universo();
+  await ranking();
   const U=$("peq").checked?U0:U0.filter(x=>x.n>=10);
   // Encargos informados pela pessoa, aplicados IGUAIS a todos os bairros. E de proposito:
   // condominio por bairro so existe em 22 dos 339 bairros medidos (6%, e so em Jaraguá e
@@ -341,12 +376,13 @@ async function calcula(){
     return '<tr><td class="rk">'+(i+1)+'</td><td><a href="'+x.url+'" style="color:inherit;border-bottom:1px dotted #999;text-decoration:none">'+x.bairro+'</a><br><span class="sub" style="font-size:.85em">'+x.cidade+'</span></td>'+
     '<td class="num">R$ '+fmt(x.valor)+(ehAlu()?"<span class=\"muted\">/mês</span>":"")+'</td><td class="num">'+fmt(x.area)+' m²</td>'+
     (enc?'<td class="num"><b>R$ '+fmt(x.valor+enc)+'</b></td>':'')+
-    '<td class="num">R$ '+fmt(x.m2,ehAlu()?1:0)+'</td><td class="num">R$ '+fmt(v-x.valor-enc)+'</td><td>'+selo(x.n)+'</td></tr>';
+    '<td class="num">R$ '+fmt(x.m2,ehAlu()?1:0)+'</td><td class="num">R$ '+fmt(v-x.valor-enc)+'</td>'+
+    '<td>'+posicao(x)+'</td><td>'+selo(x.n)+'</td></tr>';
   }).join("");
   $("res").innerHTML='<div class="tblwrap"><table><thead><tr><th class="rk">#</th><th data-s="t">Bairro</th>'+
     '<th class="num" data-s="n">'+(ehAlu()?"Aluguel típico":"Apartamento típico")+'</th><th class="num" data-s="n">Área típica</th>'+
     (enc?'<th class="num" data-s="n">Total/mês</th>':'')+
-    '<th class="num" data-s="n">'+(ehAlu()?"R$/m²/mês":"R$/m² do bairro")+'</th><th class="num" data-s="n">Sobra</th><th data-s="c">Confiança</th></tr></thead><tbody>'+lin+'</tbody></table></div>'+
+    '<th class="num" data-s="n">'+(ehAlu()?"R$/m²/mês":"R$/m² do bairro")+'</th><th class="num" data-s="n">Sobra</th><th data-s="t">Posição</th><th data-s="c">Confiança</th></tr></thead><tbody>'+lin+'</tbody></table></div>'+
     (cabem.length>60?'<p class="sub" style="margin-top:8px">Mostrando os 60 primeiros de '+cabem.length+'. Filtre por cidade para ver o resto.</p>':'');
   // 02/09/2026: evento proprio para o aluguel. Compra e aluguel sao a mesma pagina
   // (/onde-cabe/ com ?op=aluguel), e o pagePath do GA4 nao carrega a query, entao sem
