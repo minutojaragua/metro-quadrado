@@ -409,7 +409,8 @@ async function init(){
   $("enc").addEventListener("keyup",e=>{if(e.key==="Enter")calcula();});
   // o modo entra por ultimo: modo() ja refaz os atalhos e chama calcula(), e precisa dos
   // ouvintes ja ligados. Com ?op=aluguel a pilula da barra cai direto no modo aluguel.
-  if(q.get("op")==="aluguel"){modo("aluguel");return;}
+  // modo() repoe o valor padrao do modo, entao um link com ?v= precisa reaplicar depois dele
+  if(q.get("op")==="aluguel"){modo("aluguel");if(q.get("v")){$("val").value=fmt(limpaNum(q.get("v")));calcula();}return;}
   calcula();
 }
 init();
