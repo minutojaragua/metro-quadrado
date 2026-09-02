@@ -339,7 +339,13 @@ async function calcula(){
     (enc?'<th class="num" data-s="n">Total/mês</th>':'')+
     '<th class="num" data-s="n">'+(ehAlu()?"R$/m²/mês":"R$/m² do bairro")+'</th><th class="num" data-s="n">Sobra</th><th data-s="c">Confiança</th></tr></thead><tbody>'+lin+'</tbody></table></div>'+
     (cabem.length>60?'<p class="sub" style="margin-top:8px">Mostrando os 60 primeiros de '+cabem.length+'. Filtre por cidade para ver o resto.</p>':'');
-  try{if(typeof gtag==="function")gtag("event","onde_cabe",{rotulo:"R$ "+fmt(v),categoria:$("cid").value,lados:String(cabem.length)});}catch(e){}
+  // 02/09/2026: evento proprio para o aluguel. Compra e aluguel sao a mesma pagina
+  // (/onde-cabe/ com ?op=aluguel), e o pagePath do GA4 nao carrega a query, entao sem
+  // nome de evento distinto o Studio somaria as duas coisas numa linha so.
+  // "lados" leva quantos bairros couberam; no aluguel, o rotulo marca se a pessoa somou encargos.
+  try{if(typeof gtag==="function")gtag("event",ehAlu()?"onde_cabe_aluguel":"onde_cabe",
+    {rotulo:"R$ "+fmt(v)+(ehAlu()?"/mês"+(enc?" + R$ "+fmt(enc):" sem encargos"):""),
+     categoria:$("cid").value,lados:String(cabem.length)});}catch(e){}
 }
 // So sugere numero de condominio/IPTU com amostra que sustente. Guaramirim, por exemplo,
 // tem IPTU informado em UM anuncio: isso nao e mediana, e anedota, e nao pode virar sugestao.
