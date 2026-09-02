@@ -4,7 +4,8 @@
 <meta name="author" content="Minuto Jaraguá">
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-R0HV8VXVQZ"></script>
-<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());try{if(/[?&]interno=1/.test(location.search))localStorage.setItem('mq_interno','1');}catch(e){}
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}try{if(localStorage.getItem('mq_optout')==='1')window['ga-disable-G-R0HV8VXVQZ']=true;}catch(e){}
+gtag('js',new Date());try{if(/[?&]interno=1/.test(location.search))localStorage.setItem('mq_interno','1');}catch(e){}
 var _mqInt=false;try{_mqInt=localStorage.getItem('mq_interno')==='1';}catch(e){}
 // origem por navegador de app: o Instagram (e Threads/Facebook) abre o link no navegador
 // interno DELE e apaga o referrer, entao o clique da bio caia no GA4 como "(direct)".
@@ -19,6 +20,8 @@ var _mqCfg=_mqInt?{anonymize_ip:true,traffic_type:'internal'}:{anonymize_ip:true
 // so credita se a URL nao trouxer utm_source: marcacao explicita sempre vence a deducao.
 if(_mqApp&&!/[?&]utm_source=/.test(location.search)){_mqCfg.campaign_source=_mqApp;_mqCfg.campaign_medium='app';_mqCfg.campaign_name='perfil';}
 gtag('config','G-R0HV8VXVQZ',_mqCfg);
+// evento de uso das ferramentas (calculadora, onde-cabe, por-perto, MCMV, informe): antes só o comparador media uso.
+window.mqEv=function(n,r,c){try{if(typeof gtag==='function')gtag('event',n,{rotulo:r||'',categoria:c||''});}catch(e){}};
 if(_mqApp)try{gtag('event','origem_app',{rotulo:_mqApp,categoria:location.pathname});}catch(e){}
 // marca de aparelho interno tambem como propriedade de usuario: assim o aparelho do Jales
 // (inclusive o celular) fica separavel no relatorio depois de registrar a dimensao de escopo
@@ -45,6 +48,7 @@ document.addEventListener('click',function(e){
  else if(a.closest('.tipos'))ev('trocar_tipo',txt,cam);
  else if(a.closest('.toggle'))ev('alternar_operacao',txt,cam);
  else if(h.indexOf('ig.me')>=0)ev('contato','direct_ig',cam);
+ else if(h.indexOf('whatsapp.com/channel')>=0)ev('assinar_canal',txt,cam);
  else if(h.indexOf('wa.me/55')>=0)ev('contato','whatsapp',cam);
  else if(h.indexOf('wa.me')>=0)ev('compartilhar','whatsapp',cam);
  else if(/anuncie/.test(h))ev('clique_anuncie',txt,cam);
@@ -63,9 +67,9 @@ var _saiu=0;document.addEventListener('visibilitychange',function(){if(document.
  ev('saida_pagina',fx+' | rolou '+mx+'%',cam);}});
 })();</script>
 <title>Quanto vale meu imóvel? Calculadora por bairro — SC</title>
-<meta name="description" content="Estimativa gratuita pela mediana do seu bairro: apartamento, casa, terreno ou sala em 6 cidades do norte de SC. Sem cadastro e sem enviar seus dados.">
+<meta name="description" content="Estimativa gratuita pela mediana do seu bairro: apartamento, casa, terreno ou sala em 18 cidades de Santa Catarina. Sem cadastro e sem enviar seus dados.">
 <meta property="og:title" content="Quanto vale meu imóvel? Calculadora por bairro — SC">
-<meta property="og:description" content="Estimativa gratuita pela mediana do seu bairro: apartamento, casa, terreno ou sala em 6 cidades do norte de SC. Sem cadastro e sem enviar seus dados.">
+<meta property="og:description" content="Estimativa gratuita pela mediana do seu bairro: apartamento, casa, terreno ou sala em 18 cidades de Santa Catarina. Sem cadastro e sem enviar seus dados.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://metroquadradosc.com.br/calculadora/">
 <meta property="og:site_name" content="Metro Quadrado, do Minuto Jaraguá">
@@ -95,8 +99,12 @@ header h1.tema{font-size:1.02rem;font-weight:600;letter-spacing:0;color:#cfcfcf;
 .hero{margin-top:18px}
 .herofim .varant{color:#cfcfcf;font-size:.92rem;margin:8px 0 0}
 .cta-bairro{margin-top:16px;padding:14px 16px;border:1px solid var(--borda);border-radius:14px}
-.cta-bairro .btn{display:inline-block;margin:4px 8px 4px 0;padding:11px 15px;border-radius:10px;background:var(--ink);color:var(--amar);font-weight:700;text-decoration:none;border:2px solid var(--ink)}
-.cta-bairro .btn.sec{background:transparent;color:var(--ink)}
+.btn,.cta-bairro .btn{display:inline-block;margin:4px 8px 4px 0;padding:11px 15px;border-radius:10px;background:var(--ink);color:var(--amar);font-weight:700;text-decoration:none;border:2px solid var(--ink)}
+.btn.sec,.cta-bairro .btn.sec{background:transparent;color:var(--ink)}
+.card h2.h3{font-size:1.05rem;margin-bottom:10px;border:0;padding:0}
+.mobn{display:none;color:#6b6b6b;font-size:.78rem;font-weight:400}
+@media(max-width:520px){table.rk5{min-width:0}table.rk5 th:nth-child(4),table.rk5 td:nth-child(4),table.rk5 th:nth-child(5),table.rk5 td:nth-child(5){display:none}table.rk5 .mobn{display:block}}
+#topo{position:fixed;right:14px;bottom:14px;display:none;background:var(--ink);color:var(--amar);border:2px solid var(--amar);border-radius:999px;padding:10px 14px;font-weight:700;cursor:pointer;z-index:9;font-size:.9rem}
 .herofim{background:var(--ink);border-radius:14px;padding:20px 24px;margin-top:26px}
 .herofim .hero{margin-top:0}
 .hero b{font-size:2.7rem;line-height:1;color:var(--amar);font-variant-numeric:tabular-nums;letter-spacing:-1px}
@@ -115,7 +123,7 @@ header h1.tema{font-size:1.02rem;font-weight:600;letter-spacing:0;color:#cfcfcf;
 .dobra[open]>summary::after{content:" ▴"}
 .dobra[open]>summary{margin-bottom:10px}
 .indice{margin-top:16px;font-size:.88rem;color:#8f8f8f;line-height:2}
-.indice a{color:#d8d8d8;text-decoration:none;border-bottom:1px solid #4a4a4a;padding-bottom:2px}
+.indice a{color:#d8d8d8;text-decoration:none;display:inline-block;padding:4px 0;border-bottom:1px solid #4a4a4a;padding-bottom:2px}
 .ferr a{font-weight:700;background:#fff;border:2px solid #1b6e1b;color:#1b6e1b;border-radius:20px;padding:12px 16px;text-decoration:none;font-size:.95rem}
 .ferr a.destaque{background:#0E4C92;border-color:#0E4C92;color:#fff}
 .stat{background:#2a2a2a;border-radius:10px;padding:10px 16px;text-align:center}
@@ -127,8 +135,8 @@ header h1.tema{font-size:1.02rem;font-weight:600;letter-spacing:0;color:#cfcfcf;
 .cidades{display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 0}
 .cidades a{background:transparent;border:1px solid #555;color:#bbb;text-decoration:none;font-weight:600;padding:6px 14px;border-radius:99px;font-size:.82rem}
 .cidades a.on{border-color:var(--amar);color:var(--amar)}
-.cidades .breve{border:1px dashed #4a4a4a;color:#777;font-weight:600;padding:6px 14px;border-radius:99px;font-size:.82rem;cursor:default}
-.cidades .novo{background:var(--amar);color:#1a1a1a;border-radius:6px;padding:0 5px;font-size:.68rem;vertical-align:middle}
+.cidades .breve{border:1px dashed #4a4a4a;color:#949494;font-weight:600;padding:6px 14px;border-radius:99px;font-size:.82rem;cursor:default}
+.cidades .novo{background:var(--amar);color:#1a1a1a;border-radius:6px;padding:0 5px;font-size:.78rem;vertical-align:middle}
 .cidades details.mais{display:inline-block}
 .cidades details.mais[open]{flex-basis:100%}
 .cidades details.mais summary{list-style:none;display:inline-block;cursor:pointer;border:1px solid #555;color:#bbb;font-weight:600;padding:6px 14px;border-radius:99px;font-size:.82rem}
@@ -150,7 +158,7 @@ header h1.tema{font-size:1.02rem;font-weight:600;letter-spacing:0;color:#cfcfcf;
 .tipos.claro a.on{background:var(--ink);color:var(--amar)}
 .cidades.claro a{border-color:#cfccbe;color:#5f5f5f}
 .cidades.claro a.on{border-color:var(--ink);color:var(--ink);background:#fff}
-.cidades.claro .breve{border-color:#d6d3c6;color:#9a9a90}
+.cidades.claro .breve{border-color:#d6d3c6;color:#6b6b6b}
 .filtros .toggle{margin-bottom:0;margin-top:6px}
 main{padding:28px 0 10px}
 section{margin-bottom:42px}
@@ -167,9 +175,9 @@ td.num,th.num{text-align:right;font-variant-numeric:tabular-nums}
 tr:hover td{background:#fffbe6}
 th[data-s]{cursor:pointer;user-select:none;white-space:nowrap;position:relative}
 th[data-s]:hover{background:#eceadf;color:#222}
-th[data-s]::after{content:"95";opacity:.32;margin-left:5px;font-size:.9em}
-th[data-s][aria-sort="descending"]::after{content:"BC";opacity:1}
-th[data-s][aria-sort="ascending"]::after{content:"B2";opacity:1}
+th[data-s]::after{content:"\2195";opacity:.32;margin-left:5px;font-size:.9em}
+th[data-s][aria-sort="descending"]::after{content:"\25BC";opacity:1}
+th[data-s][aria-sort="ascending"]::after{content:"\25B2";opacity:1}
 th[data-s]:focus-visible{outline:2px solid var(--ink);outline-offset:-2px}
 .dicaord{font-size:.8rem;color:#8a8578;margin:6px 2px 0}
 .rk{color:#5f5f5f;font-size:.8rem;width:30px}
@@ -177,7 +185,7 @@ th[data-s]:focus-visible{outline:2px solid var(--ink);outline-offset:-2px}
 .faixa{position:relative;height:8px;background:#eee;border-radius:4px;min-width:110px}
 .faixa i{position:absolute;height:8px;background:var(--amar);border-radius:4px}
 .faixa u{position:absolute;top:-2px;width:3px;height:12px;background:var(--ink);border-radius:2px}
-.bdg{font-size:.72rem;padding:2px 8px;border-radius:99px;white-space:nowrap}
+.bdg{font-size:.78rem;padding:2px 8px;border-radius:99px;white-space:nowrap}
 .bdg.alta{background:#d9f2d9;color:#1b6e1b}.bdg.media{background:#fff3cd;color:#6b5400}.bdg.baixa{background:#fde2e2;color:#a33}
 .cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px}
 .card{background:var(--card);border:1px solid var(--borda);border-radius:12px;padding:18px}
@@ -279,9 +287,13 @@ async function calcula(){
   const banda=fa?fa.find(f=>area>=f.min&&area<f.max):null;
   const mult=(banda&&Math.abs(banda.mult-1)>0.02)?banda.mult:1;
   const med=Math.round(st.mediana*mult*area/arr)*arr, lo=Math.round(st.p25*mult*area/arr)*arr, hi=Math.round(st.p75*mult*area/arr)*arr;
-  const verbo=op==="venda"?"vale tipicamente":"alugaria por volta de";
-  let h='<div class="card" style="max-width:640px"><h3>'+(CATS[cat]||cat)+' de '+fmt(area)+' m² — '+onde+'</h3>';
-  h+='<p style="font-size:1.25em;margin:10px 0"><b>'+verbo.charAt(0).toUpperCase()+verbo.slice(1)+' R$ '+fmt(med)+suf+'</b></p>';
+  // 02/09/2026 (compliance): "vale" é vocabulário de avaliação (Lei 6.530/78, Res. COFECI 1.066/07). O aviso
+  // fica DENTRO do cartão, porque é o print do cartão que a pessoa manda no WhatsApp.
+  const onde2=bai==="__geral__"?"na cidade":"no bairro";
+  const frase=op==="venda"?"Anúncios parecidos "+onde2+" pedem, em geral, ":"Anúncios parecidos "+onde2+" são anunciados por volta de ";
+  let h='<div class="card" style="max-width:640px"><h3>'+(CATS[cat]||cat)+' de '+fmt(area)+' m², '+onde+'</h3>';
+  h+='<p style="font-size:1.25em;margin:10px 0">'+frase+'<b>R$ '+fmt(med)+suf+'</b></p>';
+  h+='<p class="sub" style="margin:-4px 0 10px">Estimativa a partir de anúncios públicos do mês. Não é avaliação do seu imóvel.</p>';
   h+='<p>A metade central dos anúncios do mês sugere entre <b>R$ '+fmt(lo)+suf+'</b> e <b>R$ '+fmt(hi)+suf+'</b>. Base: R$ '+fmt(st.mediana,op==="aluguel"?1:0)+'/m² (mediana) · '+badge(st.n)+'</p>';
   if(mult!==1){const pc=Math.round((mult-1)*100);
     h+='<p style="color:#666">📐 Ajuste por tamanho: dentro do mesmo bairro, '+(CATS[cat]||cat).toLowerCase()+'s de '+rotFaixa(banda)+' pedem <b>'+(pc>0?'+':'')+pc+'%</b> por m² em relação à mediana do bairro — a estimativa acima já considera isso (n='+banda.n+' anúncios na cidade'+(banda.n<30?', amostra pequena':'')+').</p>';}
@@ -308,9 +320,10 @@ async function calcula(){
     const pref=c.path.replace("dados.json","");
     h+='<p><a href="'+pref+'bairro/'+slugify(bai)+'.html">Ver todos os números do bairro '+bai+' →</a></p>';
   }
-  h+='<p style="margin-top:12px"><a href="https://wa.me/5547997424339?text=Ol%C3%A1!%20Vim%20pelo%20site%20Metro%20Quadrado%20e%20quero%20falar%20com%20o%20Minuto%20Jaragu%C3%A1." style="display:inline-block;background:#25D366;color:#fff;padding:9px 16px;border-radius:8px;text-decoration:none;font-weight:700">💬 Falar no WhatsApp</a> <a href="https://ig.me/m/minutojaragua" style="display:inline-block;padding:9px 12px;text-decoration:none;font-weight:700;color:#1b6e1b">ou direct no IG</a></p>';
+  h+='<div style="margin-top:14px;padding-top:12px;border-top:1px solid #e4e2d8"><p>📅 <b>Esse número muda todo dia 1.</b> No dia 1 de cada mês nós publicamos a nova mediana do seu bairro. Receba no canal do WhatsApp: é grátis e não precisa de cadastro.</p><p style="margin-top:8px"><a href="https://whatsapp.com/channel/0029VbDVRhr7dmeij8qMmI16" target="_blank" rel="noopener" style="display:inline-block;background:#25D366;color:#0b2e13;padding:11px 18px;border-radius:999px;text-decoration:none;font-weight:700">📲 Receber no canal do WhatsApp</a></p><p class="sub" style="margin-top:8px">Dúvida sobre o número? <a href="https://wa.me/5547997424339?text=Ol%C3%A1!%20Vim%20pelo%20site%20Metro%20Quadrado%20e%20quero%20falar%20com%20o%20Minuto%20Jaragu%C3%A1.">Fale com a redação no WhatsApp</a> ou no <a href="https://ig.me/m/minutojaragua">direct do @minutojaragua</a>.</p></div>';
   h+='</div>';
   R.innerHTML=h;
+  try{mqEv('calcular',cat+' '+fmt(area)+' m2 '+op,$("cid").value+(bai!=="__geral__"?' '+bai:''));}catch(e){}
 }
 function rotFaixa(f){return f.max>=1500?f.min+' m² ou mais':(f.min+' a '+f.max+' m²');}
 function slugify(s){return s.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"").replace(/['’´`]/g,"").replace(/\s+/g,"-").replace(/[^a-z0-9-]/g,"");}
@@ -328,4 +341,4 @@ async function init(){
 }
 init();
 </script>
-<footer><div class="wrap"><div class="ferr"><a href="https://metroquadradosc.com.br/comparar/">⚖️ Comparar cidades e bairros</a><a href="https://metroquadradosc.com.br/onde-cabe/">💰 Onde meu dinheiro compra</a><a href="https://metroquadradosc.com.br/por-perto/">📍 Onde morar perto do que importa</a><a href="https://metroquadradosc.com.br/minha-casa-minha-vida/">🏠 Minha Casa Minha Vida: onde cabe</a><a href="https://metroquadradosc.com.br/assistente/">🤖 Assistente</a><a href="https://metroquadradosc.com.br/anuncie/" class="destaque">📢 Para corretores</a></div><div class="segue"><span>Preço novo do m² <b>todo mês</b>, de graça, aqui e no Instagram.</span><a class="ig" href="https://www.instagram.com/minutojaragua/" target="_blank" rel="noopener" onclick="try{if(typeof gtag==='function')gtag('event','clique_instagram',{rotulo:'rodape',categoria:location.pathname});}catch(e){}">Seguir @minutojaragua</a></div><p><b style="color:#fff">Minuto Jaraguá</b> — Jaraguá do Sul em 1 minuto, sem enrolação.</p><p style="margin-top:6px">📲 <a href="https://whatsapp.com/channel/0029VbDVRhr7dmeij8qMmI16">Canal no WhatsApp (grátis)</a> · <a href="https://wa.me/5547997424339?text=Ol%C3%A1!%20Vim%20pelo%20site%20Metro%20Quadrado%20e%20quero%20falar%20com%20o%20Minuto%20Jaragu%C3%A1.">💬 Falar com a gente</a> · <a href="https://www.instagram.com/minutojaragua/">@minutojaragua</a></p><p style="margin-top:6px;color:#6b6b6b">📌 Salve este site: no celular, menu do navegador › <b>Adicionar à tela inicial</b>; no computador, <b>Ctrl+D</b>.</p><p style="margin-top:8px">Levantamento e edição: <a href="https://metroquadradosc.com.br/quem-somos/">Redação do Minuto Jaraguá</a></p><p style="margin-top:10px;color:#888">© 2026 Minuto Jaraguá · <a href="https://metroquadradosc.com.br/quem-somos/" style="color:#888;text-decoration:underline">quem somos</a> · <a href="https://metroquadradosc.com.br/metodologia/" style="color:#888;text-decoration:underline">metodologia</a> · <a href="https://metroquadradosc.com.br/imprensa/" style="color:#888;text-decoration:underline">imprensa</a> · <a href="https://metroquadradosc.com.br/anuncie/" style="color:#888;text-decoration:underline">para corretores</a> · <a href="https://metroquadradosc.com.br/conector/" style="color:#888;text-decoration:underline">conector de IA</a> · <a href="https://metroquadradosc.com.br/privacidade/" style="color:#888;text-decoration:underline">privacidade</a> · dados: CC BY 4.0 · atualizado em 2026-09-01 · dados de referência: setembro/2026 · próxima atualização: 1º/10/2026 · medimos visitas de forma agregada (Google Analytics, IP anonimizado)</p><p style="margin-top:8px;color:#777;font-size:.85em">Conteúdo informativo: recorte estatístico de anúncios públicos (preços pedidos, não transações). Não é avaliação, oferta nem recomendação de investimento — decisões com base nestes dados são de responsabilidade do leitor.</p></div></footer><script>(function(){var CF={alta:3,"m\u00e9dia":2,media:2,baixa:1};function num(t){t=(t||"").replace(/\u00a0/g," ");var m=t.match(/-?\d[\d.]*(?:,\d+)?/);return m?parseFloat(m[0].replace(/\./g,"").replace(",",".")):null;}function conf(t){t=(t||"").toLowerCase();for(var k in CF){if(t.indexOf(k)>=0)return CF[k];}return null;}function val(td,tp){if(!td)return null;var t=td.textContent;return tp=="n"?num(t):tp=="c"?conf(t):t.trim().toLowerCase();}function ordena(th){var tp=th.getAttribute("data-s"),tr=th.parentNode,tb=th.closest("table"),bd=tb.tBodies[0];if(!bd)return;var i=[].indexOf.call(tr.cells,th),asc=th.getAttribute("aria-sort")=="descending";if(!th.hasAttribute("aria-sort"))asc=(tp=="t");[].forEach.call(tr.cells,function(c){c.removeAttribute("aria-sort");});th.setAttribute("aria-sort",asc?"ascending":"descending");var ls=[].slice.call(bd.rows).map(function(r,k){return[r,val(r.cells[i],tp),k];});ls.sort(function(a,b){var x=a[1],y=b[1];if(x===null||x==="")return 1;if(y===null||y==="")return -1;if(x<y)return asc?-1:1;if(x>y)return asc?1:-1;return a[2]-b[2];});var f=document.createDocumentFragment();ls.forEach(function(e){f.appendChild(e[0]);});bd.appendChild(f);var p=1;[].forEach.call(bd.rows,function(r){var c=r.querySelector("td.rk");if(c)c.textContent=p++;});try{if(typeof gtag==="function")gtag("event","ordenar_tabela",{rotulo:th.textContent.trim(),categoria:location.pathname,lados:asc?"asc":"desc"});}catch(e){}}document.addEventListener("click",function(e){var th=e.target.closest&&e.target.closest("th[data-s]");if(th)ordena(th);});document.addEventListener("keydown",function(e){if(e.key!="Enter"&&e.key!=" ")return;var th=e.target.closest&&e.target.closest("th[data-s]");if(th){e.preventDefault();ordena(th);}});document.addEventListener("DOMContentLoaded",function(){[].forEach.call(document.querySelectorAll("th[data-s]"),function(th){th.tabIndex=0;th.setAttribute("role","button");th.title="Clique para ordenar por "+th.textContent.trim();});var w=document.querySelector(".tblwrap");if(w&&w.querySelector("th[data-s]")){var p=document.createElement("p");p.className="dicaord";p.textContent="\u2195 Clique no t\u00edtulo de uma coluna para reordenar a tabela (ex.: do maior rendimento para o menor).";w.parentNode.insertBefore(p,w.nextSibling);}});})();</script></body></html>
+<footer><div class="wrap"><div class="ferr"><a href="https://metroquadradosc.com.br/comparar/">⚖️ Comparar cidades e bairros</a><a href="https://metroquadradosc.com.br/informe/">📄 Informe mensal em PDF</a><a href="https://metroquadradosc.com.br/onde-cabe/">💰 Onde meu dinheiro compra</a><a href="https://metroquadradosc.com.br/por-perto/">📍 Onde morar perto do que importa</a><a href="https://metroquadradosc.com.br/minha-casa-minha-vida/">🏠 Minha Casa Minha Vida: onde cabe</a><a href="https://metroquadradosc.com.br/assistente/">🤖 Assistente</a><a href="https://metroquadradosc.com.br/anuncie/" class="destaque">📢 Para corretores</a></div><div class="segue"><span>Preço novo do m² <b>todo mês</b>, de graça, aqui e no Instagram.</span><a class="ig" href="https://www.instagram.com/minutojaragua/" target="_blank" rel="noopener" onclick="try{if(typeof gtag==='function')gtag('event','clique_instagram',{rotulo:'rodape',categoria:location.pathname});}catch(e){}">Seguir @minutojaragua</a></div><p><b style="color:#fff">Minuto Jaraguá</b> — Jaraguá do Sul em 1 minuto, sem enrolação.</p><p style="margin-top:6px">📲 <a href="https://whatsapp.com/channel/0029VbDVRhr7dmeij8qMmI16">Canal no WhatsApp (grátis)</a> · <a href="https://wa.me/5547997424339?text=Ol%C3%A1!%20Vim%20pelo%20site%20Metro%20Quadrado%20e%20quero%20falar%20com%20o%20Minuto%20Jaragu%C3%A1.">💬 Falar com a gente</a> · <a href="https://www.instagram.com/minutojaragua/">@minutojaragua</a></p><p style="margin-top:6px;color:#6b6b6b">📌 Salve este site: no celular, menu do navegador › <b>Adicionar à tela inicial</b>; no computador, <b>Ctrl+D</b>.</p><p style="margin-top:8px">Levantamento e edição: <a href="https://metroquadradosc.com.br/quem-somos/">Redação do Minuto Jaraguá</a></p><p style="margin-top:10px;color:#888">© 2026 Minuto Jaraguá · <a href="https://metroquadradosc.com.br/quem-somos/" style="color:#888;text-decoration:underline">quem somos</a> · <a href="https://metroquadradosc.com.br/metodologia/" style="color:#888;text-decoration:underline">metodologia</a> · <a href="https://metroquadradosc.com.br/historico/" style="color:#888;text-decoration:underline">histórico</a> · <a href="https://metroquadradosc.com.br/imprensa/" style="color:#888;text-decoration:underline">imprensa</a> · <a href="https://metroquadradosc.com.br/anuncie/" style="color:#888;text-decoration:underline">para corretores</a> · <a href="https://metroquadradosc.com.br/conector/" style="color:#888;text-decoration:underline">conector de IA</a> · <a href="https://metroquadradosc.com.br/privacidade/" style="color:#888;text-decoration:underline">privacidade</a> · dados: CC BY 4.0 (medianas) · coordenadas de bairros: ODbL, © colaboradores do OpenStreetMap · atualizado em 2026-09-01 · dados de referência: setembro/2026 · próxima atualização: 1º/10/2026 · medimos visitas de forma agregada (Google Analytics, IP anonimizado)</p><p style="margin-top:8px;color:#949494;font-size:.85em">Conteúdo informativo: recorte estatístico de anúncios públicos (preços pedidos, não transações). Não é avaliação, oferta nem recomendação de investimento — decisões com base nestes dados são de responsabilidade do leitor.</p></div></footer><script>(function(){var CF={alta:3,"m\u00e9dia":2,media:2,baixa:1};function num(t){t=(t||"").replace(/\u00a0/g," ");var m=t.match(/-?\d[\d.]*(?:,\d+)?/);return m?parseFloat(m[0].replace(/\./g,"").replace(",",".")):null;}function conf(t){t=(t||"").toLowerCase();for(var k in CF){if(t.indexOf(k)>=0)return CF[k];}return null;}function val(td,tp){if(!td)return null;var t=td.textContent;return tp=="n"?num(t):tp=="c"?conf(t):t.trim().toLowerCase();}function ordena(th){var tp=th.getAttribute("data-s"),tr=th.parentNode,tb=th.closest("table"),bd=tb.tBodies[0];if(!bd)return;var i=[].indexOf.call(tr.cells,th),asc=th.getAttribute("aria-sort")=="descending";if(!th.hasAttribute("aria-sort"))asc=(tp=="t");[].forEach.call(tr.cells,function(c){c.removeAttribute("aria-sort");});th.setAttribute("aria-sort",asc?"ascending":"descending");var ls=[].slice.call(bd.rows).map(function(r,k){return[r,val(r.cells[i],tp),k];});ls.sort(function(a,b){var x=a[1],y=b[1];if(x===null||x==="")return 1;if(y===null||y==="")return -1;if(x<y)return asc?-1:1;if(x>y)return asc?1:-1;return a[2]-b[2];});var f=document.createDocumentFragment();ls.forEach(function(e){f.appendChild(e[0]);});bd.appendChild(f);var p=1;[].forEach.call(bd.rows,function(r){var c=r.querySelector("td.rk");if(c)c.textContent=p++;});try{if(typeof gtag==="function")gtag("event","ordenar_tabela",{rotulo:th.textContent.trim(),categoria:location.pathname,lados:asc?"asc":"desc"});}catch(e){}}document.addEventListener("click",function(e){var th=e.target.closest&&e.target.closest("th[data-s]");if(th)ordena(th);});document.addEventListener("keydown",function(e){if(e.key!="Enter"&&e.key!=" ")return;var th=e.target.closest&&e.target.closest("th[data-s]");if(th){e.preventDefault();ordena(th);}});document.addEventListener("DOMContentLoaded",function(){[].forEach.call(document.querySelectorAll("th[data-s]"),function(th){th.tabIndex=0;th.setAttribute("role","button");th.title="Clique para ordenar por "+th.textContent.trim();});var w=document.querySelector(".tblwrap");if(w&&w.querySelector("th[data-s]")){var p=document.createElement("p");p.className="dicaord";p.textContent="\u2195 Clique no t\u00edtulo de uma coluna para reordenar a tabela (ex.: do maior rendimento para o menor).";w.parentNode.insertBefore(p,w.nextSibling);}var bt=document.createElement("button");bt.id="topo";bt.type="button";bt.textContent="\u2191 topo";bt.setAttribute("aria-label","Voltar ao topo");bt.onclick=function(){window.scrollTo({top:0,behavior:"smooth"});};document.body.appendChild(bt);window.addEventListener("scroll",function(){bt.style.display=window.pageYOffset>1500?"block":"none";},{passive:true});});})();</script></body></html>

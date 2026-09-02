@@ -2,7 +2,7 @@
  "name": "Metro Quadrado, do Minuto Jaraguá",
  "short_name": "Metro²",
  "lang": "pt-BR",
- "description": "Preço do m² por bairro no norte de Santa Catarina, todo mês, de graça.",
+ "description": "Preço do m² por bairro em Santa Catarina, todo mês, de graça.",
  "start_url": "/?utm_source=tela_inicial&utm_medium=atalho",
  "scope": "/",
  "display": "standalone",
