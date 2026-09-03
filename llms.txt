@@ -4,34 +4,34 @@
 
 ## Cidades (dados por bairro)
 
-- [Jaraguá do Sul](https://metroquadradosc.com.br/): mediana apartamentos R$ 5.984/m² (venda)
-- [Guaramirim](https://metroquadradosc.com.br/guaramirim/): mediana apartamentos R$ 5.238/m² (venda)
-- [Schroeder](https://metroquadradosc.com.br/schroeder/): mediana apartamentos R$ 4.596/m² (venda)
-- [Corupá](https://metroquadradosc.com.br/corupa/)
-- [Massaranduba](https://metroquadradosc.com.br/massaranduba/)
-- [Joinville](https://metroquadradosc.com.br/joinville/): mediana apartamentos R$ 7.294/m² (venda)
-- [Florianópolis](https://metroquadradosc.com.br/florianopolis/): mediana apartamentos R$ 12.087/m² (venda)
-- [Blumenau](https://metroquadradosc.com.br/blumenau/): mediana apartamentos R$ 7.767/m² (venda)
-- [São Bento do Sul](https://metroquadradosc.com.br/sao-bento-do-sul/): mediana apartamentos R$ 5.778/m² (venda)
-- [São Francisco do Sul](https://metroquadradosc.com.br/sao-francisco-do-sul/): mediana apartamentos R$ 7.000/m² (venda)
-- [Brusque](https://metroquadradosc.com.br/brusque/): mediana apartamentos R$ 7.424/m² (venda)
-- [São José](https://metroquadradosc.com.br/sao-jose/): mediana apartamentos R$ 7.853/m² (venda)
-- [Palhoça](https://metroquadradosc.com.br/palhoca/): mediana apartamentos R$ 7.680/m² (venda)
-- [Chapecó](https://metroquadradosc.com.br/chapeco/): mediana apartamentos R$ 6.730/m² (venda)
-- [Criciúma](https://metroquadradosc.com.br/criciuma/): mediana apartamentos R$ 6.348/m² (venda)
-- [Lages](https://metroquadradosc.com.br/lages/): mediana apartamentos R$ 6.569/m² (venda)
-- [Itajaí](https://metroquadradosc.com.br/itajai/): mediana apartamentos R$ 11.534/m² (venda)
-- [Navegantes](https://metroquadradosc.com.br/navegantes/): mediana apartamentos R$ 9.184/m² (venda)
+- [Jaraguá do Sul](https://acorridadosbairros.com.br/): mediana apartamentos R$ 5.984/m² (venda)
+- [Guaramirim](https://acorridadosbairros.com.br/guaramirim/): mediana apartamentos R$ 5.238/m² (venda)
+- [Schroeder](https://acorridadosbairros.com.br/schroeder/): mediana apartamentos R$ 4.596/m² (venda)
+- [Corupá](https://acorridadosbairros.com.br/corupa/)
+- [Massaranduba](https://acorridadosbairros.com.br/massaranduba/)
+- [Joinville](https://acorridadosbairros.com.br/joinville/): mediana apartamentos R$ 7.294/m² (venda)
+- [Florianópolis](https://acorridadosbairros.com.br/florianopolis/): mediana apartamentos R$ 12.087/m² (venda)
+- [Blumenau](https://acorridadosbairros.com.br/blumenau/): mediana apartamentos R$ 7.767/m² (venda)
+- [São Bento do Sul](https://acorridadosbairros.com.br/sao-bento-do-sul/): mediana apartamentos R$ 5.778/m² (venda)
+- [São Francisco do Sul](https://acorridadosbairros.com.br/sao-francisco-do-sul/): mediana apartamentos R$ 7.000/m² (venda)
+- [Brusque](https://acorridadosbairros.com.br/brusque/): mediana apartamentos R$ 7.424/m² (venda)
+- [São José](https://acorridadosbairros.com.br/sao-jose/): mediana apartamentos R$ 7.853/m² (venda)
+- [Palhoça](https://acorridadosbairros.com.br/palhoca/): mediana apartamentos R$ 7.680/m² (venda)
+- [Chapecó](https://acorridadosbairros.com.br/chapeco/): mediana apartamentos R$ 6.730/m² (venda)
+- [Criciúma](https://acorridadosbairros.com.br/criciuma/): mediana apartamentos R$ 6.348/m² (venda)
+- [Lages](https://acorridadosbairros.com.br/lages/): mediana apartamentos R$ 6.569/m² (venda)
+- [Itajaí](https://acorridadosbairros.com.br/itajai/): mediana apartamentos R$ 11.534/m² (venda)
+- [Navegantes](https://acorridadosbairros.com.br/navegantes/): mediana apartamentos R$ 9.184/m² (venda)
 
 ## Ferramentas e dados
 
-- [Comparador de cidades e bairros](https://metroquadradosc.com.br/comparar/)
-- [Calculadora: quanto vale meu imóvel](https://metroquadradosc.com.br/calculadora/)
-- [Metodologia completa](https://metroquadradosc.com.br/metodologia/): mediana de preços pedidos, corte mínimo de 5 anúncios, dedup entre fontes
-- [Dados abertos em CSV](https://metroquadradosc.com.br/dados.csv) e JSON por cidade (licença CC BY 4.0)
-- [Sala de imprensa com números citáveis](https://metroquadradosc.com.br/imprensa/)
-- [Conector MCP para assistentes de IA](https://metroquadradosc.com.br/conector/): servidor aberto em https://mcp.metroquadrado.workers.dev/mcp, transporte streamable-http, sem autenticação, somente leitura. Ferramentas: preco_m2, ranking_bairros, comparar, rendimento_aluguel, metodologia
+- [Comparador de cidades e bairros](https://acorridadosbairros.com.br/comparar/)
+- [Calculadora: quanto vale meu imóvel](https://acorridadosbairros.com.br/calculadora/)
+- [Metodologia completa](https://acorridadosbairros.com.br/metodologia/): mediana de preços pedidos, corte mínimo de 5 anúncios, dedup entre fontes
+- [Dados abertos em CSV](https://acorridadosbairros.com.br/dados.csv) e JSON por cidade (licença CC BY 4.0)
+- [Sala de imprensa com números citáveis](https://acorridadosbairros.com.br/imprensa/)
+- [Conector MCP para assistentes de IA](https://acorridadosbairros.com.br/conector/): servidor aberto em https://mcp.metroquadrado.workers.dev/mcp, transporte streamable-http, sem autenticação, somente leitura. Ferramentas: preco_m2, ranking_bairros, comparar, rendimento_aluguel, metodologia
 
 ## Como citar
 
-Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://metroquadradosc.com.br
+Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
