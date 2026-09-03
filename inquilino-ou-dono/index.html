@@ -246,6 +246,7 @@ td a{display:inline-block;padding:4px 0}}
 
 <h2 id="rankings">Os dois lados do estado</h2>
 <p>Um número resolve a discussão: <b>quantos anos de aluguel pagam o apartamento</b>. É a mediana do m² de venda dividida pela mediana do m² de aluguel do mesmo bairro, o que torna a conta neutra em relação ao tamanho. Índices internacionais usam a régua de 15 anos: abaixo dela comprar tende a compensar, acima dela alugar tende a compensar.</p>
+<p class="sub">Como os dois lados da conta são por metro quadrado, o ranking não depende do tamanho do imóvel: o mesmo bairro dá o mesmo número para um apartamento de 40 m² ou de 140 m². Para dar tamanho e preço concretos, cada posição mostra também o <b>apartamento típico</b> do bairro, que é o de área e valor medianos entre os anúncios do mês, e o aluguel estimado para essa mesma área, já com o ajuste por faixa de tamanho.</p>
 <div class="iodgrid">
   <section><h3>🔑 Onde o inquilino ganha</h3>
     <p class="sub">Comprar custa muitos anos de aluguel. Quem mora aqui paga, por mês, pouco perto do preço do imóvel.</p>
@@ -258,7 +259,7 @@ td a{display:inline-block;padding:4px 0}}
 </div>
 <details style="margin:14px 0"><summary style="cursor:pointer;color:#1b6e1b;font-weight:700">📋 Ver todos os bairros medidos, com filtro por cidade</summary>
   <p style="margin:10px 0"><label>Cidade <select id="f-cid"><option value="">todas</option></select></label></p>
-  <div class="tblwrap"><table class="rk5"><thead><tr><th class="rk">#</th><th>Bairro</th><th class="num">Anos</th><th class="num">Ao ano</th><th class="num">R$/m² venda</th><th class="num">R$/m² aluguel</th><th>Confiança</th></tr></thead><tbody id="t-todos"></tbody></table></div>
+  <div class="tblwrap"><table class="rk5"><thead><tr><th class="rk">#</th><th>Bairro</th><th class="num">Anos</th><th class="num">Ao ano</th><th>Apartamento típico</th><th class="num">R$/m² venda</th><th class="num">R$/m² aluguel</th><th>Confiança</th></tr></thead><tbody id="t-todos"></tbody></table></div>
 </details>
 
 <h2 id="troca">A troca: vender aqui, morar de aluguel aqui, comprar ali</h2>
@@ -299,6 +300,16 @@ async function dados(c){if(cache[c.slug])return cache[c.slug];const r=await fetc
 let LISTA=[];
 function fmt(n,d){return (n||0).toLocaleString("pt-BR",{minimumFractionDigits:d||0,maximumFractionDigits:d||0});}
 function brl(n){return "R$ "+fmt(n);}
+function brlk(n){n=Math.round(n);
+  if(n>=1000000)return "R$ "+fmt(n/1000000,n>=10000000?1:2).replace(".",",")+" mi";
+  if(n>=1000)return "R$ "+fmt(Math.round(n/1000))+" mil";
+  return "R$ "+fmt(n);}
+// o apartamento tipico e o de area e valor medianos do bairro. O ranking em si e por m2
+// (neutro em area); o tipico entra so para dar tamanho e preco concretos a cada posicao,
+// e o aluguel e estimado para a MESMA area, com o ajuste por faixa de tamanho.
+function apeTipico(x){const a=areaTip(x);
+  const v=(((x.tip||{}).venda||{}).valor)||estValor(x,a);
+  return '<small class="sub">apê típico de '+fmt(a)+' m² · '+brlk(v)+' · aluga ~'+brl(Math.round(estAluguel(x,a)/50)*50)+'/mês</small>';}
 function conf(x){const n=Math.min(x.nv,x.na);
   const c=n>=20?"alta":(n>=10?"media":"baixa"), r=n>=20?"alta":(n>=10?"média":"baixa");
   return '<span class="bdg '+c+'">n='+n+' · '+r+'</span>';}
@@ -333,8 +344,8 @@ function pinta(){
     LISTA.filter(x=>x.anos<15).length+' bairros estão abaixo dela (comprar tende a compensar) e '+
     LISTA.filter(x=>x.anos>=15).length+' acima (alugar tende a compensar).</p>';
   const dono=LISTA.slice(0,15), inq=LISTA.slice(-15).reverse();
-  const linha=(x,i)=>'<tr><td class="rk">'+(i+1)+'</td><td>'+linkBairro(x)+'<br>'+conf(x)+'</td><td class="num" style="white-space:nowrap">'+
-    fmt(x.anos,1)+'<br><small class="sub">'+fmt(x.y,2)+'% ao ano</small></td></tr>';
+  const linha=(x,i)=>'<tr><td class="rk">'+(i+1)+'</td><td>'+linkBairro(x)+'<br>'+apeTipico(x)+'<br>'+conf(x)+
+    '</td><td class="num" style="white-space:nowrap">'+fmt(x.anos,1)+'<br><small class="sub">'+fmt(x.y,2)+'% ao ano</small></td></tr>';
   document.getElementById("t-dono").innerHTML=dono.map(linha).join("");
   document.getElementById("t-inq").innerHTML=inq.map(linha).join("");
   const fc=document.getElementById("f-cid");
@@ -348,7 +359,8 @@ function todos(){
   const f=document.getElementById("f-cid").value;
   const L=f?LISTA.filter(x=>x.cid===f):LISTA;
   document.getElementById("t-todos").innerHTML=L.map((x,i)=>'<tr><td class="rk">'+(i+1)+'</td><td>'+linkBairro(x)+
-    '</td><td class="num">'+fmt(x.anos,1)+'</td><td class="num">'+fmt(x.y,2)+'%</td><td class="num">'+fmt(x.vm2)+
+    '</td><td class="num">'+fmt(x.anos,1)+'</td><td class="num">'+fmt(x.y,2)+'%</td><td>'+fmt(areaTip(x))+' m² · '+
+    brlk((((x.tip||{}).venda||{}).valor)||estValor(x,areaTip(x)))+'</td><td class="num">'+fmt(x.vm2)+
     '</td><td class="num">'+fmt(x.am2,1)+'</td><td>'+conf(x)+'</td></tr>').join("");
 }
 function bairros(){
@@ -380,7 +392,8 @@ function calcula(){
   h+='<p>Para continuar morando no mesmo bairro, num apartamento do mesmo tamanho, o aluguel sairia por volta de <b>'+brl(Math.round(ficar/50)*50)+' por mês</b>. Aqui o imóvel custa <b>'+fmt(x.anos,1)+' anos de aluguel</b> '+conf(x)+'.</p>';
   if(!top.length){h+='<p class="sub">Com esse valor não dá para comprar o apartamento típico de nenhum outro bairro medido'+(mesma?' na sua cidade':'')+'.</p>';R.innerHTML=h;return;}
   h+='<div class="tblwrap"><table class="rk5"><thead><tr><th>Comprar em</th><th class="num">Quantos</th><th class="num">Recebe por mês</th><th class="num">Sobra no bolso</th><th class="num">Saldo mensal</th><th>Confiança</th></tr></thead><tbody>';
-  top.forEach(o=>{h+='<tr><td>'+linkBairro(o.y)+' <small class="sub">'+fmt(o.y.anos,1)+' anos · '+fmt(o.a)+' m²</small></td><td class="num">'+o.un+
+  top.forEach(o=>{h+='<tr><td>'+linkBairro(o.y)+'<br><small class="sub">apê típico de '+fmt(o.a)+' m² · '+
+    brlk(estValor(o.y,o.a))+' cada · '+fmt(o.y.anos,1)+' anos</small></td><td class="num">'+o.un+
     '</td><td class="num">'+brl(Math.round(o.receb/50)*50)+'</td><td class="num">'+brl(Math.round(o.sobra/1000)*1000)+
     '</td><td class="num '+(o.saldo>=0?"pos":"neg")+'"><span class="saldo">'+(o.saldo>=0?"+":"")+brl(Math.round(o.saldo/50)*50)+'</span></td><td>'+conf(o.y)+'</td></tr>';});
   h+='</tbody></table></div>';
