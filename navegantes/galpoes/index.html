@@ -58,6 +58,7 @@ document.addEventListener('click',function(e){
  else if(a.closest('.toggle'))ev('alternar_operacao',txt,cam);
  else if(h.indexOf('ig.me')>=0)ev('contato','direct_ig',cam);
  else if(h.indexOf('whatsapp.com/channel')>=0)ev('assinar_canal',txt,cam);
+ else if(h.indexOf('wa.me/55')>=0&&h.indexOf('ALERTA')>=0)ev('alerta_bairro',txt,cam);
  else if(h.indexOf('wa.me/55')>=0)ev('contato','whatsapp',cam);
  else if(h.indexOf('wa.me')>=0)ev('compartilhar','whatsapp',cam);
  else if(/anuncie/.test(h))ev('clique_anuncie',txt,cam);
@@ -109,7 +110,7 @@ header h1.tema.leve{font-weight:400;line-height:1.45}
 .stats{display:flex;gap:14px;flex-wrap:wrap;margin-top:16px}
 .hero{margin-top:18px}
 .herofim .varant{color:#cfcfcf;font-size:.92rem;margin:8px 0 0}
-.cta-bairro{margin-top:16px;padding:14px 16px;border:1px solid var(--borda);border-radius:14px}
+.cta-bairro{margin-top:16px;padding:14px 16px;border:1px solid var(--borda);border-radius:14px}.cmn{display:grid;gap:10px;grid-template-columns:1fr 1fr}.cmn label{display:flex;flex-direction:column;gap:4px;font-size:.9rem;color:var(--cinza)}.cmn input,.cmn select{padding:9px 10px;border:1px solid var(--borda);border-radius:8px;font:inherit;background:var(--card);color:var(--ink);max-width:100%}.cmn .full{grid-column:1/-1}.cmn button{font:inherit;cursor:pointer}@media(max-width:520px){.cmn{grid-template-columns:1fr}}
 .btn,.cta-bairro .btn{display:inline-block;margin:4px 8px 4px 0;padding:11px 15px;border-radius:10px;background:var(--ink);color:var(--amar);font-weight:700;text-decoration:none;border:2px solid var(--ink)}
 .btn.sec,.cta-bairro .btn.sec{background:transparent;color:var(--ink)}
 .card h2.h3{font-size:1.05rem;margin-bottom:10px;border:0;padding:0}
