@@ -240,7 +240,11 @@ header p.lead{color:#e9e9e9;margin-top:10px;font-size:.98rem}header p.lead b{col
 .porta-lider span{font-size:.9rem;color:#e9e9e9}
 .porta-btn{grid-column:1/-1;display:block;text-align:center;background:var(--amar);color:var(--ink);font-weight:800;border-radius:12px;padding:13px 16px;text-decoration:none;font-size:1.05rem}
 .porta-btn:hover{filter:brightness(.95)}
-@media(max-width:600px){.porta{grid-template-columns:1fr;gap:12px;padding:14px}.porta-n b{font-size:2.3rem}header p.lead{font-size:.9rem;color:#d4d4d4}.ferr{flex-wrap:nowrap;overflow-x:auto;padding-bottom:6px;scrollbar-width:thin}.ferr a{flex:none;white-space:nowrap}}
+/* 04/09/2026 (Jales, e os números concordam): a faixa de ferramentas em linha única com
+   rolagem lateral, adotada em 03/09, escondia tudo que não coubesse na largura da tela.
+   O clique em ferramenta caiu de 20 a 24 por dia para 1 e depois 0 nos dois dias seguintes.
+   Volta a quebrar linha no celular, como era antes, herdando .ferr{flex-wrap:wrap} do topo. */
+@media(max-width:600px){.porta{grid-template-columns:1fr;gap:12px;padding:14px}.porta-n b{font-size:2.3rem}header p.lead{font-size:.9rem;color:#d4d4d4}}
 /* FAQ visivel: details fechado, pergunta em negrito, uma linha sutil entre itens */
 details.faq{border-bottom:1px solid var(--borda);padding:10px 0}
 details.faq summary{cursor:pointer;font-weight:700;list-style-position:inside}
