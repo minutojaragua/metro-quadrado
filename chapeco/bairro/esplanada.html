@@ -228,6 +228,19 @@ footer a{color:var(--amar);text-decoration:none;font-weight:600}
 .crumb{font-size:.85rem;margin-bottom:14px}.crumb a{color:#6b5400;text-decoration:none}
 /* paragrafo-resposta logo apos o H1 (SEO 02/09): uma frase com o numero, sem bloco hero */
 header p.lead{color:#e9e9e9;margin-top:10px;font-size:.98rem}header p.lead b{color:var(--amar)}
+.porta{display:grid;grid-template-columns:1fr auto;gap:14px 24px;align-items:center;margin-top:16px;padding:16px 18px;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.16);border-radius:14px}
+.porta-n b{font-size:2.6rem;line-height:1;color:var(--amar);font-variant-numeric:tabular-nums;letter-spacing:-1px}
+.porta-n span{font-size:1.1rem;font-weight:700;color:var(--amar);margin-left:2px}
+.porta-n small{display:block;color:#e9e9e9;font-size:.92rem;margin-top:6px;line-height:1.35}
+.porta-n .varant{color:#cfcfcf;font-size:.84rem;margin:4px 0 0}
+.porta-lider{display:flex;align-items:center;gap:10px;color:#fff;text-decoration:none;min-width:0}
+.porta-lider svg{width:64px;height:64px;flex:none;background:var(--fundo);border-radius:16px;padding:3px;box-sizing:border-box}
+.porta-lider em{display:block;font-style:normal;font-size:.7rem;letter-spacing:.07em;text-transform:uppercase;color:#cfcfcf}
+.porta-lider b{display:block;font-size:1.05rem;line-height:1.2}
+.porta-lider span{font-size:.9rem;color:#e9e9e9}
+.porta-btn{grid-column:1/-1;display:block;text-align:center;background:var(--amar);color:var(--ink);font-weight:800;border-radius:12px;padding:13px 16px;text-decoration:none;font-size:1.05rem}
+.porta-btn:hover{filter:brightness(.95)}
+@media(max-width:600px){.porta{grid-template-columns:1fr;gap:12px;padding:14px}.porta-n b{font-size:2.3rem}header p.lead{font-size:.9rem;color:#d4d4d4}.ferr{flex-wrap:nowrap;overflow-x:auto;padding-bottom:6px;scrollbar-width:thin}.ferr a{flex:none;white-space:nowrap}}
 /* FAQ visivel: details fechado, pergunta em negrito, uma linha sutil entre itens */
 details.faq{border-bottom:1px solid var(--borda);padding:10px 0}
 details.faq summary{cursor:pointer;font-weight:700;list-style-position:inside}
