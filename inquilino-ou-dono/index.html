@@ -266,7 +266,12 @@ details.faq p{margin:8px 0 0}
 table{font-size:1rem}td,th{padding:11px 8px}
 .sub{font-size:.95rem}.bdg{font-size:.82rem}.disc{font-size:.9rem}.kv{font-size:.95rem}.metod ol{font-size:1rem}
 /* WCAG 2.5.8 exige 24px (AA); 44px so nos controles isolados, onde o espaco e barato */
-.cidades a{padding:12px 16px}.tipos a{padding:12px 18px}.toggle button{padding:12px 22px}.ferr a{padding:13px 16px}
+.cidades a,.cidades details.mais summary{padding:12px 16px}.tipos a{padding:12px 18px}.toggle button{padding:12px 22px}
+/* 04/09/2026 (auditoria de navegacao): as 10 pilulas empilhadas custavam 546px e empurravam
+   o preco do bairro para fora do primeiro dobre. Grade de 2 colunas: 354px, as 10 visiveis,
+   alvo de 47px. Esconder pilula atras de faixa ou details ja foi tentado em 03/09 e zerou o clique. */
+.ferr{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.ferr a{padding:11px 10px;font-size:.86rem;text-align:center;display:flex;align-items:center;justify-content:center;min-height:46px}
 td a{display:inline-block;padding:4px 0}}
 </style></head><body><header><div class="wrap"><div class="marca"><a href="../">A Corrida dos Bairros</a></div><h1 class="tema leve">Onde o inquilino ganha e onde o dono ganha em Santa Catarina e São Paulo, quantos anos de aluguel pagam o apartamento típico de cada bairro</h1></div></header>
 <main><div class="wrap">
