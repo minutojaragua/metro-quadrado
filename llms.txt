@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 35 cidades de Santa Catarina, São Paulo, Tocantins, Rondônia, Espírito Santo, Amapá, Roraima, Sergipe, Rio Grande do Norte, Paraíba e Mato Grosso, Brasil, bairro por bairro, a partir de 141.604 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 36 cidades de Santa Catarina, São Paulo, Tocantins, Rondônia, Espírito Santo, Amapá, Roraima, Sergipe, Rio Grande do Norte, Paraíba e Mato Grosso, Brasil, bairro por bairro, a partir de 189.882 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 ## Cidades (dados por bairro)
 
@@ -22,7 +22,7 @@
 - [Lages](https://acorridadosbairros.com.br/lages/): mediana apartamentos R$ 6.504/m² (venda)
 - [Itajaí](https://acorridadosbairros.com.br/itajai/): mediana apartamentos R$ 11.597/m² (venda)
 - [Navegantes](https://acorridadosbairros.com.br/navegantes/): mediana apartamentos R$ 9.243/m² (venda)
-- [Santos](https://acorridadosbairros.com.br/sp/santos/): mediana apartamentos R$ 8.627/m² (venda)
+- [Santos](https://acorridadosbairros.com.br/sp/santos/): mediana apartamentos R$ 8.615/m² (venda)
 - [Limeira](https://acorridadosbairros.com.br/sp/limeira/): mediana apartamentos R$ 5.161/m² (venda)
 - [Piracicaba](https://acorridadosbairros.com.br/sp/piracicaba/): mediana apartamentos R$ 4.700/m² (venda)
 - [Campinas](https://acorridadosbairros.com.br/sp/campinas/): mediana apartamentos R$ 7.143/m² (venda)
@@ -39,6 +39,7 @@
 - [Natal](https://acorridadosbairros.com.br/rn/natal/): mediana apartamentos R$ 6.161/m² (venda)
 - [João Pessoa](https://acorridadosbairros.com.br/pb/joao-pessoa/): mediana apartamentos R$ 9.554/m² (venda)
 - [Cuiabá](https://acorridadosbairros.com.br/mt/cuiaba/): mediana apartamentos R$ 6.667/m² (venda)
+- [São Paulo](https://acorridadosbairros.com.br/sp/sao-paulo/): mediana apartamentos R$ 9.677/m² (venda)
 
 ## Ferramentas e dados
 

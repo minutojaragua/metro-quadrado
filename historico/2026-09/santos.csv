@@ -1,17 +1,17 @@
 cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
-Santos,Aparecida,apartamento,venda,9572.6,6479.2,12887.9,207,7.41,setembro/2026
-Santos,Aparecida,apartamento,aluguel,59.1,47.5,83.6,53,7.41,setembro/2026
+Santos,Aparecida,apartamento,venda,9559.1,6531.2,12871.1,208,7.42,setembro/2026
+Santos,Aparecida,apartamento,aluguel,59.1,47.5,83.6,53,7.42,setembro/2026
 Santos,Boqueirão,apartamento,venda,10000.0,7169.4,13249.7,398,7.66,setembro/2026
 Santos,Boqueirão,apartamento,aluguel,63.8,44.8,80.9,121,7.66,setembro/2026
 Santos,Campo Grande,apartamento,venda,6316.8,5333.3,8647.1,110,9.38,setembro/2026
 Santos,Campo Grande,apartamento,aluguel,49.4,40.0,64.3,26,9.38,setembro/2026
-Santos,Embaré,apartamento,venda,9375.0,6798.9,13314.0,251,7.56,setembro/2026
-Santos,Embaré,apartamento,aluguel,59.1,47.0,79.1,71,7.56,setembro/2026
-Santos,Encruzilhada,apartamento,venda,6586.5,5012.7,9372.9,46,11.24,setembro/2026
-Santos,Encruzilhada,apartamento,aluguel,61.7,53.5,69.0,8,11.24,setembro/2026
+Santos,Embaré,apartamento,venda,9287.5,6813.8,13304.3,252,7.58,setembro/2026
+Santos,Embaré,apartamento,aluguel,58.7,46.2,78.8,72,7.58,setembro/2026
+Santos,Encruzilhada,apartamento,venda,6538.5,5000.0,9325.5,47,11.32,setembro/2026
+Santos,Encruzilhada,apartamento,aluguel,61.7,53.5,69.0,8,11.32,setembro/2026
 Santos,Estuário,apartamento,venda,9491.1,8509.2,9990.1,31,,setembro/2026
-Santos,Gonzaga,apartamento,venda,9044.4,6553.4,13013.7,389,9.18,setembro/2026
-Santos,Gonzaga,apartamento,aluguel,69.2,50.0,88.1,129,9.18,setembro/2026
+Santos,Gonzaga,apartamento,venda,9040.3,6551.1,12996.9,390,9.19,setembro/2026
+Santos,Gonzaga,apartamento,aluguel,69.2,50.0,88.1,129,9.19,setembro/2026
 Santos,José Menino,apartamento,venda,8623.7,6351.2,12273.4,198,8.1,setembro/2026
 Santos,José Menino,apartamento,aluguel,58.2,47.0,85.5,47,8.1,setembro/2026
 Santos,Macuco,apartamento,venda,8153.8,5975.9,9461.0,55,9.51,setembro/2026
@@ -21,12 +21,12 @@ Santos,Marapé,apartamento,aluguel,62.5,46.3,69.8,27,9.61,setembro/2026
 Santos,Morro de Nova Cintra,apartamento,venda,6633.3,6081.3,7299.4,14,,setembro/2026
 Santos,Pompéia,apartamento,venda,8125.0,6767.1,11383.0,149,9.42,setembro/2026
 Santos,Pompéia,apartamento,aluguel,63.8,53.4,74.4,34,9.42,setembro/2026
-Santos,Ponta da Praia,apartamento,venda,10194.8,7068.1,14497.1,223,7.18,setembro/2026
-Santos,Ponta da Praia,apartamento,aluguel,61.0,50.5,74.6,59,7.18,setembro/2026
+Santos,Ponta da Praia,apartamento,venda,10165.5,7088.0,14433.2,224,7.2,setembro/2026
+Santos,Ponta da Praia,apartamento,aluguel,61.0,50.5,74.6,59,7.2,setembro/2026
 Santos,Vila Belmiro,apartamento,venda,6363.6,5544.0,9985.7,37,10.15,setembro/2026
 Santos,Vila Belmiro,apartamento,aluguel,53.8,34.4,71.9,6,10.15,setembro/2026
-Santos,Vila Matias,apartamento,venda,6018.9,4785.6,7844.1,62,10.39,setembro/2026
-Santos,Vila Matias,apartamento,aluguel,52.1,40.8,73.7,16,10.39,setembro/2026
+Santos,Vila Matias,apartamento,venda,6000.0,4807.6,7793.5,63,10.42,setembro/2026
+Santos,Vila Matias,apartamento,aluguel,52.1,40.8,73.7,16,10.42,setembro/2026
 Santos,Vila Rica,apartamento,venda,11151.5,7978.8,13902.6,23,,setembro/2026
 Santos,Aparecida,casa,venda,8491.9,6753.0,9909.7,66,6.88,setembro/2026
 Santos,Aparecida,casa,aluguel,48.7,40.0,52.4,14,6.88,setembro/2026

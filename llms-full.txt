@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 35 cidades de Santa Catarina, São Paulo, Tocantins, Rondônia, Espírito Santo, Amapá, Roraima, Sergipe, Rio Grande do Norte, Paraíba e Mato Grosso, Brasil, bairro por bairro, a partir de 141.604 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 36 cidades de Santa Catarina, São Paulo, Tocantins, Rondônia, Espírito Santo, Amapá, Roraima, Sergipe, Rio Grande do Norte, Paraíba e Mato Grosso, Brasil, bairro por bairro, a partir de 189.882 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -1078,7 +1078,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Serraria | R$ 5.563 | 98 | R$ 34,8 | 84 | 7,51% | – |
 | Sertão do Maruim | R$ 5.929 | 50 | R$ 34,6 | 31 | 7,00% | – |
 
-### Casas, cidade toda: venda R$ 5.492/m² (n=2009); aluguel R$ 35,7/m²/mês (n=142); rendimento bruto do aluguel 7,80% a.a.
+### Casas, cidade toda: venda R$ 5.496/m² (n=2010); aluguel R$ 35,7/m²/mês (n=142); rendimento bruto do aluguel 7,79% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -1109,7 +1109,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Serraria | R$ 5.046 | 124 | R$ 39,0 | 6 | 9,27% | – |
 | Sertão do Maruim | R$ 5.625 | 209 | R$ 30,7 | 7 | 6,55% | – |
 
-### Terrenos, cidade toda: venda R$ 1.064/m² (n=587)
+### Terrenos, cidade toda: venda R$ 1.064/m² (n=588)
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -1779,25 +1779,25 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 
 ## Santos (setembro/2026): https://acorridadosbairros.com.br/sp/santos/
 
-### Apartamentos, cidade toda: venda R$ 8.627/m² (n=2340); aluguel R$ 62,4/m²/mês (n=622); rendimento bruto do aluguel 8,68% a.a.
+### Apartamentos, cidade toda: venda R$ 8.615/m² (n=2347); aluguel R$ 62,2/m²/mês (n=623); rendimento bruto do aluguel 8,66% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Aparecida | R$ 9.573 | 207 | R$ 59,1 | 53 | 7,41% | – |
+| Aparecida | R$ 9.559 | 208 | R$ 59,1 | 53 | 7,42% | – |
 | Boqueirão | R$ 10.000 | 398 | R$ 63,8 | 121 | 7,66% | – |
 | Campo Grande | R$ 6.317 | 110 | R$ 49,4 | 26 | 9,38% | – |
-| Embaré | R$ 9.375 | 251 | R$ 59,1 | 71 | 7,56% | – |
-| Encruzilhada | R$ 6.586 | 46 | R$ 61,7 | 8 | 11,24% | – |
+| Embaré | R$ 9.288 | 252 | R$ 58,7 | 72 | 7,58% | – |
+| Encruzilhada | R$ 6.538 | 47 | R$ 61,7 | 8 | 11,32% | – |
 | Estuário | R$ 9.491 | 31 | – | – | – | – |
-| Gonzaga | R$ 9.044 | 389 | R$ 69,2 | 129 | 9,18% | – |
+| Gonzaga | R$ 9.040 | 390 | R$ 69,2 | 129 | 9,19% | – |
 | José Menino | R$ 8.624 | 198 | R$ 58,2 | 47 | 8,10% | – |
 | Macuco | R$ 8.154 | 55 | R$ 64,6 | 15 | 9,51% | – |
 | Marapé | R$ 7.804 | 123 | R$ 62,5 | 27 | 9,61% | – |
 | Morro de Nova Cintra | R$ 6.633 | 14 | – | – | – | – |
 | Pompéia | R$ 8.125 | 149 | R$ 63,8 | 34 | 9,42% | – |
-| Ponta da Praia | R$ 10.195 | 223 | R$ 61,0 | 59 | 7,18% | – |
+| Ponta da Praia | R$ 10.166 | 224 | R$ 61,0 | 59 | 7,20% | – |
 | Vila Belmiro | R$ 6.364 | 37 | R$ 53,8 | 6 | 10,15% | – |
-| Vila Matias | R$ 6.019 | 62 | R$ 52,1 | 16 | 10,39% | – |
+| Vila Matias | R$ 6.000 | 63 | R$ 52,1 | 16 | 10,42% | – |
 | Vila Rica | R$ 11.152 | 23 | – | – | – | – |
 
 ### Casas, cidade toda: venda R$ 6.996/m² (n=640); aluguel R$ 44,6/m²/mês (n=211); rendimento bruto do aluguel 7,65% a.a.
@@ -2701,7 +2701,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Vila Satúrnia | R$ 7.872 | 17 | R$ 53,7 | 9 | 8,19% | – |
 | Vila Trinta e Um de Março | R$ 11.542 | 9 | – | – | – | – |
 
-### Casas, cidade toda: venda R$ 5.164/m² (n=3303); aluguel R$ 29,7/m²/mês (n=1221); rendimento bruto do aluguel 6,90% a.a.
+### Casas, cidade toda: venda R$ 5.165/m² (n=3306); aluguel R$ 29,7/m²/mês (n=1221); rendimento bruto do aluguel 6,90% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -2718,7 +2718,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Bonfim | R$ 5.972 | 12 | – | – | – | – |
 | Bosque | R$ 4.244 | 14 | R$ 35,6 | 20 | 10,07% | – |
 | Bosque das Palmeiras | R$ 4.549 | 10 | – | – | – | – |
-| Bosque de Barão Geraldo | R$ 5.448 | 12 | – | – | – | – |
+| Bosque de Barão Geraldo | R$ 5.775 | 13 | – | – | – | – |
 | Botafogo | R$ 4.989 | 14 | R$ 25,6 | 11 | 6,16% | – |
 | Cambuí | R$ 8.058 | 37 | R$ 47,1 | 48 | 7,01% | – |
 | Caminhos de San Conrado | R$ 5.661 | 10 | – | – | – | – |
@@ -2840,7 +2840,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Nova | R$ 7.820 | 42 | R$ 39,2 | 65 | 6,02% | – |
 | Nova Sousas (Sousas) | R$ 4.015 | 6 | – | – | – | – |
 | Núcleo Residencial Parque da Amizade | R$ 9.154 | 5 | – | – | – | – |
-| Parque Alto Taquaral | R$ 4.708 | 21 | R$ 32,1 | 9 | 8,18% | – |
+| Parque Alto Taquaral | R$ 4.696 | 22 | R$ 32,1 | 9 | 8,20% | – |
 | Parque Beatriz | R$ 4.187 | 9 | – | – | – | – |
 | Parque Camboriú | R$ 2.760 | 6 | – | – | – | – |
 | Parque da Figueira | R$ 3.755 | 8 | R$ 27,5 | 6 | 8,79% | – |
@@ -2920,7 +2920,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Vila Santa Isabel | R$ 5.391 | 11 | – | – | – | – |
 | Ville Sainte Hélène | R$ 11.493 | 18 | – | – | – | – |
 
-### Terrenos, cidade toda: venda R$ 1.242/m² (n=1131)
+### Terrenos, cidade toda: venda R$ 1.243/m² (n=1132)
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -2942,7 +2942,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Chácara São Rafael | R$ 1.196 | 6 | – | – | – | – |
 | Cidade Universitária | R$ 1.111 | 7 | – | – | – | – |
 | Fazenda Pau d'Alho | R$ 1.680 | 10 | – | – | – | – |
-| Fazenda Santa Cândida | R$ 983 | 8 | – | – | – | – |
+| Fazenda Santa Cândida | R$ 1.061 | 9 | – | – | – | – |
 | Guara | R$ 578 | 7 | – | – | – | – |
 | Jardim Aliança | R$ 1.052 | 6 | – | – | – | – |
 | Jardim Chapadão | R$ 1.522 | 13 | – | – | – | – |
@@ -4170,6 +4170,1603 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Residencial Paiaguás | R$ 13.780 | 6 | R$ 97,0 | 13 | 8,45% | – |
 | Ribeirão da Ponte | – | – | R$ 70,2 | 5 | – | – |
 | Santa Rosa | – | – | R$ 89,6 | 14 | – | – |
+
+
+## São Paulo (setembro/2026): https://acorridadosbairros.com.br/sp/sao-paulo/
+
+### Apartamentos, cidade toda: venda R$ 9.677/m² (n=20723); aluguel R$ 51,3/m²/mês (n=5863); rendimento bruto do aluguel 6,36% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| (Zona Norte) Barro Branco | R$ 7.462 | 16 | – | – | – | – |
+| Aclimação | R$ 9.052 | 276 | R$ 63,7 | 39 | 8,44% | – |
+| Aeroporto | R$ 8.000 | 5 | – | – | – | – |
+| Água Branca | R$ 12.387 | 50 | R$ 58,3 | 19 | 5,65% | – |
+| Água Fria | R$ 8.578 | 80 | R$ 61,7 | 6 | 8,63% | – |
+| Água Rasa | R$ 9.615 | 15 | R$ 42,1 | 10 | 5,25% | – |
+| Alto da Boa Vista | R$ 11.416 | 28 | R$ 46,5 | 17 | 4,89% | – |
+| Alto da Lapa | R$ 12.214 | 37 | R$ 61,3 | 12 | 6,02% | – |
+| Alto da Mooca | R$ 10.658 | 43 | R$ 64,7 | 11 | 7,28% | – |
+| Alto de Pinheiros | R$ 14.737 | 51 | R$ 64,6 | 12 | 5,26% | – |
+| Alto de Santana | R$ 7.700 | 12 | – | – | – | – |
+| Alto do Ipiranga | R$ 12.720 | 31 | R$ 61,0 | 12 | 5,75% | – |
+| Alto do Pari | R$ 8.654 | 13 | – | – | – | – |
+| Americanópolis | R$ 6.722 | 5 | – | – | – | – |
+| Anália Franco | R$ 11.586 | 98 | R$ 77,5 | 16 | 8,03% | – |
+| Aricanduva | R$ 6.889 | 21 | – | – | – | – |
+| Artur Alvim | R$ 6.049 | 17 | R$ 36,6 | 8 | 7,26% | – |
+| Barra Funda | R$ 11.586 | 52 | R$ 70,4 | 13 | 7,29% | – |
+| Barro Branco (Zona Norte) | – | – | R$ 46,5 | 5 | – | – |
+| Bela Aliança | R$ 10.639 | 11 | R$ 52,8 | 10 | 5,96% | – |
+| Bela Vista | R$ 9.497 | 580 | R$ 62,9 | 105 | 7,95% | – |
+| Belém | R$ 10.408 | 34 | R$ 60,0 | 15 | 6,92% | – |
+| Belenzinho | R$ 9.750 | 41 | R$ 75,0 | 11 | 9,23% | – |
+| Bom Retiro | R$ 5.740 | 12 | – | – | – | – |
+| Bosque da Saúde | R$ 9.191 | 89 | R$ 43,9 | 15 | 5,73% | – |
+| Brás | R$ 8.056 | 57 | R$ 59,0 | 12 | 8,79% | – |
+| Brasilândia | R$ 7.162 | 6 | – | – | – | – |
+| Bresser | R$ 8.561 | 7 | – | – | – | – |
+| Brooklin | R$ 14.583 | 183 | R$ 93,3 | 47 | 7,68% | – |
+| Brooklin Novo | R$ 13.125 | 69 | R$ 78,6 | 24 | 7,19% | – |
+| Brooklin Paulista | R$ 13.873 | 154 | R$ 81,7 | 54 | 7,07% | – |
+| Burgo Paulista | – | – | R$ 40,4 | 6 | – | – |
+| Butantã | R$ 8.906 | 239 | R$ 70,0 | 63 | 9,43% | – |
+| Cambuci | R$ 7.984 | 203 | R$ 48,5 | 15 | 7,29% | – |
+| Campininha | R$ 8.966 | 5 | R$ 58,8 | 6 | 7,87% | – |
+| Campo Belo | R$ 12.413 | 376 | R$ 69,1 | 78 | 6,68% | – |
+| Campo Grande | R$ 9.593 | 6 | R$ 49,7 | 10 | 6,22% | – |
+| Campo Limpo | R$ 6.734 | 5 | R$ 35,6 | 5 | 6,34% | – |
+| Campos Elíseos | R$ 6.683 | 26 | R$ 62,3 | 7 | 11,19% | – |
+| Cangaíba | R$ 6.060 | 22 | R$ 30,3 | 7 | 6,00% | – |
+| Canindé | R$ 7.111 | 7 | – | – | – | – |
+| Carandiru | R$ 9.500 | 8 | R$ 50,1 | 8 | 6,33% | – |
+| Carrão | R$ 9.895 | 8 | – | – | – | – |
+| Casa Verde | R$ 10.054 | 35 | R$ 40,7 | 5 | 4,86% | – |
+| Casa Verde Alta | R$ 6.000 | 7 | – | – | – | – |
+| Casa Verde Baixa | R$ 8.112 | 7 | – | – | – | – |
+| Caxingui | R$ 10.870 | 7 | – | – | – | – |
+| Centro | R$ 8.958 | 34 | R$ 71,6 | 11 | 9,59% | – |
+| Centro Histórico | R$ 11.000 | 11 | – | – | – | – |
+| Cerqueira César | R$ 15.812 | 127 | R$ 75,8 | 45 | 5,75% | – |
+| Chácara Belenzinho | R$ 7.059 | 23 | R$ 45,0 | 9 | 7,65% | – |
+| Chácara Califórnia | R$ 9.107 | 79 | R$ 53,9 | 18 | 7,10% | – |
+| Chácara Cruzeiro do Sul | R$ 6.829 | 5 | R$ 31,4 | 5 | 5,52% | – |
+| Chácara do Encosto | – | – | R$ 36,8 | 5 | – | – |
+| Chácara Flora | R$ 9.443 | 5 | R$ 82,0 | 7 | 10,42% | – |
+| Chácara Gaivotas | R$ 14.429 | 6 | – | – | – | – |
+| Chácara Inglesa | R$ 10.302 | 149 | R$ 64,1 | 20 | 7,47% | – |
+| Chácara Itaim | R$ 24.731 | 5 | – | – | – | – |
+| Chácara Klabin | R$ 14.533 | 138 | R$ 74,0 | 34 | 6,11% | – |
+| Chácara Mafalda | R$ 7.500 | 11 | R$ 44,7 | 5 | 7,15% | – |
+| Chácara Maria Trindade | R$ 5.238 | 5 | R$ 31,8 | 7 | 7,29% | – |
+| Chácara Nossa Senhora do Bom Conselho | R$ 6.250 | 5 | R$ 46,1 | 6 | 8,85% | – |
+| Chácara Santa Etelvina | R$ 3.125 | 5 | – | – | – | – |
+| Chácara Santana | R$ 7.356 | 8 | – | – | – | – |
+| Chácara Santo Amaro | R$ 11.208 | 6 | – | – | – | – |
+| Chácara Santo Antônio | R$ 13.478 | 47 | R$ 81,4 | 16 | 7,25% | – |
+| Chácara Santo Antônio (Zona Leste) | R$ 10.544 | 42 | R$ 51,7 | 14 | 5,88% | – |
+| Chácara Santo Antônio (Zona Sul) | R$ 14.138 | 25 | – | – | – | – |
+| Chácara Seis de Outubro | R$ 6.818 | 15 | R$ 44,1 | 5 | 7,76% | – |
+| Chácara Tatuapé | – | – | R$ 57,6 | 12 | – | – |
+| Chora Menino | R$ 9.375 | 7 | R$ 40,0 | 9 | 5,12% | – |
+| Cidade Ademar | R$ 6.458 | 5 | – | – | – | – |
+| Cidade Antônio Estevão de Carvalho | R$ 6.323 | 15 | – | – | – | – |
+| Cidade Jardim | R$ 26.186 | 5 | – | – | – | – |
+| Cidade Líder | R$ 5.133 | 32 | – | – | – | – |
+| Cidade Mãe do Céu | R$ 15.210 | 41 | R$ 67,6 | 15 | 5,33% | – |
+| Cidade Monções | R$ 14.893 | 64 | R$ 81,8 | 21 | 6,59% | – |
+| Cidade Nova Heliópolis | R$ 6.146 | 9 | – | – | – | – |
+| Cidade Patriarca | R$ 7.841 | 61 | R$ 42,8 | 9 | 6,55% | – |
+| Cidade Popular | R$ 3.849 | 6 | – | – | – | – |
+| Cidade São Francisco | R$ 9.946 | 8 | R$ 42,7 | 10 | 5,15% | – |
+| Cidade Satélite Santa Bárbara | R$ 5.148 | 6 | R$ 32,2 | 7 | 7,51% | – |
+| Cidade Tiradentes | R$ 3.649 | 9 | – | – | – | – |
+| Cidade Vargas | R$ 10.000 | 7 | – | – | – | – |
+| City América | – | – | R$ 48,4 | 7 | – | – |
+| City Empresárial | R$ 5.465 | 5 | – | – | – | – |
+| Colônia | R$ 5.489 | 12 | – | – | – | – |
+| Colônia (Zona Leste) | R$ 6.279 | 9 | – | – | – | – |
+| Conceição | R$ 9.623 | 28 | R$ 42,4 | 15 | 5,29% | – |
+| Conjunto City Jaraguá | R$ 4.167 | 7 | – | – | – | – |
+| Conjunto Habitacional Brigadeiro Eduardo Gomes | R$ 3.682 | 8 | – | – | – | – |
+| Conjunto Habitacional Fazenda do Carmo | R$ 2.708 | 9 | – | – | – | – |
+| Conjunto Habitacional Inácio Monteiro | R$ 3.262 | 6 | – | – | – | – |
+| Conjunto Habitacional Instituto Adventista | R$ 4.348 | 6 | – | – | – | – |
+| Conjunto Habitacional Jova Rural | R$ 3.600 | 5 | – | – | – | – |
+| Conjunto Habitacional Juscelino Kubitschek | R$ 2.627 | 5 | – | – | – | – |
+| Conjunto Habitacional Padre José de Anchieta | R$ 4.732 | 5 | – | – | – | – |
+| Conjunto Habitacional Padre Manoel da Nóbrega | R$ 4.464 | 7 | R$ 29,2 | 5 | 7,85% | – |
+| Conjunto Habitacional Padre Manoel de Paiva | R$ 4.118 | 9 | – | – | – | – |
+| Conjunto Habitacional Parque Valo Velho II | R$ 3.890 | 8 | – | – | – | – |
+| Conjunto Habitacional Santa Etelvina I | R$ 3.972 | 8 | – | – | – | – |
+| Conjunto Habitacional Santa Etelvina II | R$ 3.389 | 6 | – | – | – | – |
+| Conjunto Habitacional Santa Etelvina III | R$ 5.129 | 8 | – | – | – | – |
+| Conjunto Habitacional Sitio Conceição | R$ 3.125 | 5 | – | – | – | – |
+| Conjunto Habitacional Teotonio Vilela | R$ 4.659 | 7 | – | – | – | – |
+| Conjunto Promorar Raposo Tavares | R$ 4.479 | 7 | – | – | – | – |
+| Conjunto Promorar Sapopemba | R$ 5.000 | 6 | – | – | – | – |
+| Conjunto Promorar Vila Maria III | R$ 12.266 | 5 | – | – | – | – |
+| Conjunto Residencial Elisio Teixeira Leite | R$ 3.788 | 7 | – | – | – | – |
+| Conjunto Residencial Ingai | R$ 6.000 | 9 | – | – | – | – |
+| Conjunto Residencial José Bonifácio | R$ 4.092 | 8 | R$ 27,1 | 11 | 7,95% | – |
+| Conjunto Residencial Morumbi | R$ 4.937 | 5 | R$ 30,5 | 14 | 7,41% | – |
+| Consolação | R$ 13.250 | 151 | R$ 78,4 | 40 | 7,10% | – |
+| Cupecê | – | – | R$ 55,4 | 8 | – | – |
+| Cursino | R$ 10.319 | 15 | R$ 58,3 | 17 | 6,78% | – |
+| Engenheiro Goulart | R$ 4.666 | 5 | – | – | – | – |
+| Ermelino Matarazzo | R$ 6.600 | 29 | R$ 32,5 | 10 | 5,91% | – |
+| Fazenda Aricanduva | R$ 5.541 | 6 | R$ 33,6 | 14 | 7,28% | – |
+| Fazenda Caguaçu | R$ 4.880 | 8 | – | – | – | – |
+| Fazenda da Juta | R$ 3.000 | 5 | – | – | – | – |
+| Fazenda Morumbi | R$ 5.588 | 9 | R$ 38,3 | 8 | 8,22% | – |
+| Ferreira | R$ 11.067 | 5 | R$ 65,5 | 7 | 7,10% | – |
+| Freguesia do Ó | R$ 8.214 | 22 | R$ 45,6 | 9 | 6,66% | – |
+| Gleba do Pêssego | R$ 4.886 | 5 | R$ 39,2 | 7 | 9,63% | – |
+| Granja Julieta | R$ 13.158 | 27 | R$ 77,5 | 12 | 7,07% | – |
+| Guaianazes | R$ 5.413 | 5 | – | – | – | – |
+| Guaiaúna | R$ 9.702 | 5 | – | – | – | – |
+| Guapira | R$ 5.240 | 10 | – | – | – | – |
+| Guarapiranga | R$ 8.340 | 5 | – | – | – | – |
+| Guarujá | R$ 6.167 | 6 | – | – | – | – |
+| Higienópolis | R$ 12.408 | 152 | R$ 68,4 | 30 | 6,61% | – |
+| Horto do Ipê | R$ 6.064 | 5 | – | – | – | – |
+| Horto Florestal | R$ 9.000 | 13 | – | – | – | – |
+| Ibirapuera | R$ 20.086 | 15 | R$ 85,5 | 13 | 5,11% | – |
+| Imirim | R$ 7.835 | 32 | – | – | – | – |
+| Indianópolis | R$ 14.444 | 141 | R$ 81,6 | 24 | 6,78% | – |
+| Instituto de Previdência | R$ 10.145 | 5 | – | – | – | – |
+| Interlagos | R$ 9.000 | 10 | R$ 45,6 | 5 | 6,08% | – |
+| Ipiranga | R$ 10.400 | 405 | R$ 56,4 | 60 | 6,51% | – |
+| Itaim | R$ 16.589 | 6 | – | – | – | – |
+| Itaim Bibi | R$ 16.494 | 183 | R$ 83,3 | 69 | 6,06% | – |
+| Itaim Paulista | R$ 4.605 | 8 | R$ 29,2 | 7 | 7,61% | – |
+| Itaquera | R$ 6.000 | 41 | R$ 30,8 | 8 | 6,16% | – |
+| Jabaquara | R$ 7.087 | 120 | R$ 51,3 | 27 | 8,69% | – |
+| Jabaquara (Zona Sul) | R$ 10.089 | 10 | – | – | – | – |
+| Jaçanã | R$ 6.025 | 6 | R$ 42,4 | 5 | 8,44% | – |
+| Jaguaré | R$ 8.106 | 25 | R$ 38,6 | 12 | 5,71% | – |
+| Jaraguá | R$ 6.154 | 11 | R$ 34,3 | 7 | 6,69% | – |
+| Jardim | R$ 10.993 | 6 | – | – | – | – |
+| Jardim Adelfiore | R$ 7.708 | 6 | – | – | – | – |
+| Jardim Adhemar de Barros | R$ 7.547 | 5 | R$ 50,0 | 9 | 7,95% | – |
+| Jardim Aeroporto | R$ 10.526 | 19 | R$ 60,9 | 8 | 6,94% | – |
+| Jardim Amália | R$ 5.600 | 5 | – | – | – | – |
+| Jardim Amaralina | R$ 5.955 | 10 | – | – | – | – |
+| Jardim América | R$ 17.958 | 25 | R$ 103,4 | 8 | 6,91% | – |
+| Jardim América da Penha | R$ 6.880 | 12 | R$ 38,5 | 10 | 6,72% | – |
+| Jardim Ampliação | R$ 6.418 | 35 | R$ 43,1 | 23 | 8,06% | – |
+| Jardim Anália Franco | R$ 12.792 | 288 | R$ 69,4 | 79 | 6,51% | – |
+| Jardim Andaraí | R$ 5.625 | 27 | R$ 34,8 | 6 | 7,42% | – |
+| Jardim Ângela (Zona Leste) | R$ 5.201 | 6 | – | – | – | – |
+| Jardim Anhangüera | R$ 9.886 | 6 | – | – | – | – |
+| Jardim Antártica | R$ 4.592 | 7 | – | – | – | – |
+| Jardim Aparecida | R$ 5.112 | 6 | – | – | – | – |
+| Jardim Aricanduva | – | – | R$ 42,6 | 7 | – | – |
+| Jardim Arize | R$ 6.615 | 7 | R$ 45,8 | 5 | 8,31% | – |
+| Jardim Arpoador | R$ 8.410 | 7 | – | – | – | – |
+| Jardim Aurélia | R$ 15.190 | 10 | R$ 103,6 | 5 | 8,18% | – |
+| Jardim Avelino | R$ 8.116 | 26 | R$ 57,5 | 8 | 8,50% | – |
+| Jardim Beatriz | – | – | R$ 38,0 | 5 | – | – |
+| Jardim Bela Vista (Zona Norte) | R$ 7.242 | 11 | – | – | – | – |
+| Jardim Belaura | R$ 8.730 | 5 | – | – | – | – |
+| Jardim Belcito | R$ 4.183 | 8 | – | – | – | – |
+| Jardim Belém | R$ 6.114 | 5 | – | – | – | – |
+| Jardim Bélgica | R$ 7.250 | 5 | – | – | – | – |
+| Jardim Boa Vista | R$ 5.500 | 7 | – | – | – | – |
+| Jardim Boa Vista (Zona Oeste) | R$ 5.997 | 11 | R$ 36,6 | 12 | 7,32% | – |
+| Jardim Bonfiglioli | R$ 7.614 | 7 | R$ 50,0 | 5 | 7,88% | – |
+| Jardim Botânico | R$ 6.531 | 5 | – | – | – | – |
+| Jardim Botucatu | R$ 4.766 | 6 | – | – | – | – |
+| Jardim Brasil | – | – | R$ 42,1 | 6 | – | – |
+| Jardim Brasil (Zona Norte) | R$ 6.862 | 22 | – | – | – | – |
+| Jardim Brasil (Zona Sul) | R$ 10.358 | 53 | R$ 50,0 | 5 | 5,79% | – |
+| Jardim Brasília | R$ 6.071 | 8 | R$ 36,3 | 11 | 7,17% | – |
+| Jardim Brasília (Zona Leste) | R$ 5.506 | 5 | – | – | – | – |
+| Jardim Caboré | R$ 9.651 | 14 | – | – | – | – |
+| Jardim Caravelas | R$ 12.000 | 13 | R$ 93,8 | 7 | 9,38% | – |
+| Jardim Casablanca | R$ 7.381 | 5 | R$ 55,6 | 11 | 9,04% | – |
+| Jardim Castelo | R$ 5.532 | 23 | – | – | – | – |
+| Jardim Catanduva | – | – | R$ 37,9 | 8 | – | – |
+| Jardim Celeste | R$ 5.902 | 27 | R$ 39,8 | 8 | 8,09% | – |
+| Jardim Cidade Pirituba | R$ 8.030 | 20 | R$ 48,6 | 6 | 7,26% | – |
+| Jardim Cidália | – | – | R$ 45,3 | 5 | – | – |
+| Jardim Cinco de Julho | R$ 6.804 | 8 | R$ 35,6 | 16 | 6,28% | – |
+| Jardim Colombo | R$ 7.581 | 6 | – | – | – | – |
+| Jardim Colonial | R$ 5.192 | 6 | – | – | – | – |
+| Jardim Consórcio | R$ 9.649 | 5 | R$ 48,0 | 5 | 5,97% | – |
+| Jardim da Campina | R$ 4.841 | 6 | – | – | – | – |
+| Jardim da Glória | R$ 10.760 | 49 | R$ 78,3 | 8 | 8,73% | – |
+| Jardim da Laranjeira (Zona Leste) | R$ 3.653 | 7 | – | – | – | – |
+| Jardim da Saúde | R$ 7.074 | 57 | R$ 37,0 | 9 | 6,28% | – |
+| Jardim Dabril | – | – | R$ 37,1 | 7 | – | – |
+| Jardim Danfer | – | – | R$ 34,5 | 5 | – | – |
+| Jardim das Acácias | R$ 18.000 | 113 | R$ 108,6 | 14 | 7,24% | – |
+| Jardim das Bandeiras | R$ 15.875 | 7 | – | – | – | – |
+| Jardim das Graças | R$ 7.587 | 9 | – | – | – | – |
+| Jardim das Perdizes | R$ 18.513 | 8 | R$ 80,7 | 10 | 5,23% | – |
+| Jardim das Vertentes | R$ 8.976 | 8 | R$ 54,6 | 14 | 7,30% | – |
+| Jardim do Divino | R$ 4.412 | 7 | – | – | – | – |
+| Jardim do Lago | R$ 5.500 | 5 | R$ 35,7 | 9 | 7,79% | – |
+| Jardim do Tiro | R$ 6.357 | 6 | R$ 39,1 | 10 | 7,38% | – |
+| Jardim Dom Bosco | R$ 12.558 | 9 | R$ 73,0 | 6 | 6,98% | – |
+| Jardim dos Prados | R$ 5.909 | 5 | – | – | – | – |
+| Jardim Dracena | R$ 5.221 | 5 | R$ 33,9 | 5 | 7,79% | – |
+| Jardim Esmeralda | R$ 6.677 | 11 | R$ 59,5 | 8 | 10,69% | – |
+| Jardim Ester | R$ 6.429 | 13 | – | – | – | – |
+| Jardim Ester Yolanda | – | – | R$ 46,3 | 8 | – | – |
+| Jardim Europa | R$ 19.551 | 15 | R$ 82,2 | 11 | 5,05% | – |
+| Jardim Felicidade (Zona Norte) | – | – | R$ 35,6 | 5 | – | – |
+| Jardim Fonte do Morumbi | R$ 13.272 | 18 | R$ 63,7 | 14 | 5,76% | – |
+| Jardim Francisco Mendes | R$ 4.662 | 6 | – | – | – | – |
+| Jardim Germania | R$ 7.073 | 7 | R$ 52,6 | 5 | 8,92% | – |
+| Jardim Gilda Maria | R$ 4.345 | 6 | R$ 38,1 | 6 | 10,52% | – |
+| Jardim Glória | R$ 12.561 | 8 | – | – | – | – |
+| Jardim Guairaca | R$ 5.465 | 8 | – | – | – | – |
+| Jardim Guedala | R$ 15.540 | 7 | R$ 61,2 | 5 | 4,73% | – |
+| Jardim Helena | R$ 6.923 | 5 | – | – | – | – |
+| Jardim Helga | R$ 6.468 | 6 | – | – | – | – |
+| Jardim Helian | R$ 5.800 | 9 | R$ 33,8 | 5 | 6,99% | – |
+| Jardim Ibitirama | R$ 6.310 | 8 | – | – | – | – |
+| Jardim Imbé | R$ 4.659 | 5 | – | – | – | – |
+| Jardim Imperador | R$ 5.667 | 5 | R$ 33,5 | 10 | 7,09% | – |
+| Jardim Imperador (Zona Leste) | R$ 5.323 | 5 | – | – | – | – |
+| Jardim Imperador (Zona Sul) | R$ 8.091 | 6 | – | – | – | – |
+| Jardim Independência | R$ 10.156 | 23 | – | – | – | – |
+| Jardim Independência (São Paulo) | R$ 10.492 | 6 | – | – | – | – |
+| Jardim Íris | R$ 8.065 | 11 | R$ 47,8 | 17 | 7,11% | – |
+| Jardim Itacolomi | R$ 7.647 | 5 | R$ 53,8 | 6 | 8,44% | – |
+| Jardim Itapeva | R$ 7.867 | 10 | R$ 43,8 | 5 | 6,68% | – |
+| Jardim Ivana | – | – | R$ 28,8 | 5 | – | – |
+| Jardim Japão | R$ 8.202 | 8 | R$ 42,6 | 5 | 6,23% | – |
+| Jardim Jaqueline | R$ 5.766 | 7 | – | – | – | – |
+| Jardim Jussara | – | – | R$ 45,3 | 9 | – | – |
+| Jardim Lar | R$ 6.818 | 5 | – | – | – | – |
+| Jardim Laura | R$ 3.667 | 5 | – | – | – | – |
+| Jardim Leme | R$ 4.792 | 6 | – | – | – | – |
+| Jardim Leônidas Moreira | – | – | R$ 32,8 | 12 | – | – |
+| Jardim Leonor | R$ 6.989 | 6 | R$ 93,8 | 11 | 16,10% | – |
+| Jardim Leonor Mendes de Barros | R$ 8.696 | 6 | – | – | – | – |
+| Jardim Lider | R$ 6.580 | 6 | – | – | – | – |
+| Jardim Londrina | R$ 5.769 | 5 | R$ 37,2 | 5 | 7,74% | – |
+| Jardim Lourdes | R$ 4.303 | 6 | – | – | – | – |
+| Jardim Luanda | R$ 6.896 | 6 | – | – | – | – |
+| Jardim Macedônia | R$ 4.727 | 5 | – | – | – | – |
+| Jardim Mangalot | – | – | R$ 38,5 | 8 | – | – |
+| Jardim Marajoara | R$ 9.143 | 28 | R$ 54,9 | 16 | 7,21% | – |
+| Jardim Maria Duarte | R$ 7.115 | 5 | – | – | – | – |
+| Jardim Marília | – | – | R$ 35,8 | 6 | – | – |
+| Jardim Mariliza | R$ 6.905 | 5 | – | – | – | – |
+| Jardim Marilu | R$ 3.229 | 7 | – | – | – | – |
+| Jardim Maringa | R$ 5.969 | 7 | – | – | – | – |
+| Jardim Marisa | – | – | R$ 52,4 | 9 | – | – |
+| Jardim Maristela | R$ 5.679 | 5 | R$ 32,5 | 5 | 6,87% | – |
+| Jardim Martins Silva | R$ 4.422 | 10 | – | – | – | – |
+| Jardim Matarazzo | R$ 6.010 | 6 | – | – | – | – |
+| Jardim Melo | R$ 6.667 | 5 | – | – | – | – |
+| Jardim Mirante | – | – | R$ 64,3 | 6 | – | – |
+| Jardim Miriam | R$ 5.600 | 5 | – | – | – | – |
+| Jardim Mitsutani | R$ 5.168 | 6 | – | – | – | – |
+| Jardim Mônica | R$ 4.664 | 8 | – | – | – | – |
+| Jardim Monte Alegre | – | – | R$ 70,3 | 7 | – | – |
+| Jardim Monte Kemel | R$ 8.316 | 12 | R$ 48,8 | 6 | 7,04% | – |
+| Jardim Morumbi | R$ 13.423 | 12 | R$ 78,1 | 21 | 6,98% | – |
+| Jardim Nadir | R$ 7.260 | 6 | R$ 34,8 | 10 | 5,75% | – |
+| Jardim Nazareth | – | – | R$ 29,4 | 5 | – | – |
+| Jardim Neide | R$ 5.846 | 5 | – | – | – | – |
+| Jardim Neila | R$ 7.167 | 6 | – | – | – | – |
+| Jardim Nélia | R$ 4.775 | 6 | – | – | – | – |
+| Jardim Nordeste | – | – | R$ 44,4 | 9 | – | – |
+| Jardim Norma | R$ 5.365 | 9 | – | – | – | – |
+| Jardim Nossa Senhora Aparecida | R$ 6.626 | 8 | – | – | – | – |
+| Jardim Nossa Senhora do Carmo | R$ 6.516 | 8 | – | – | – | – |
+| Jardim Nove de Julho | R$ 5.382 | 8 | R$ 29,6 | 7 | 6,60% | – |
+| Jardim Novo Santo Amaro | R$ 5.309 | 7 | – | – | – | – |
+| Jardim Novo Taboão | R$ 6.941 | 9 | – | – | – | – |
+| Jardim Olympia | – | – | R$ 42,3 | 9 | – | – |
+| Jardim Oriental | R$ 6.473 | 10 | R$ 50,8 | 7 | 9,42% | – |
+| Jardim Palmares | – | – | R$ 35,9 | 14 | – | – |
+| Jardim Papai Noel | R$ 8.333 | 5 | – | – | – | – |
+| Jardim Paraíso | R$ 9.750 | 15 | R$ 49,6 | 10 | 6,10% | – |
+| Jardim Paris | R$ 5.869 | 6 | R$ 31,4 | 5 | 6,42% | – |
+| Jardim Parque Morumbi | R$ 6.113 | 18 | R$ 48,3 | 11 | 9,48% | – |
+| Jardim Patente | R$ 4.337 | 5 | R$ 26,6 | 5 | 7,36% | – |
+| Jardim Patente Novo | R$ 5.123 | 8 | – | – | – | – |
+| Jardim Paulista | R$ 13.787 | 400 | R$ 65,5 | 102 | 5,70% | – |
+| Jardim Paulistano | R$ 18.875 | 18 | R$ 113,3 | 6 | 7,20% | – |
+| Jardim Paulo VI | R$ 19.417 | 5 | – | – | – | – |
+| Jardim Pedra Branca | R$ 4.130 | 5 | – | – | – | – |
+| Jardim Pedro José Nunes | R$ 4.296 | 7 | – | – | – | – |
+| Jardim Pereira Leite | R$ 9.411 | 12 | – | – | – | – |
+| Jardim Peri Peri | – | – | R$ 53,3 | 7 | – | – |
+| Jardim Pinheiros | – | – | R$ 41,8 | 13 | – | – |
+| Jardim Piraçuama | R$ 6.333 | 5 | R$ 32,4 | 5 | 6,14% | – |
+| Jardim Pirituba | – | – | R$ 37,3 | 14 | – | – |
+| Jardim Planalto | R$ 5.519 | 10 | – | – | – | – |
+| Jardim Popular | – | – | R$ 44,1 | 7 | – | – |
+| Jardim Portal I e II | R$ 12.588 | 44 | – | – | – | – |
+| Jardim Previdência | R$ 7.350 | 8 | R$ 36,7 | 5 | 5,99% | – |
+| Jardim Primavera | – | – | R$ 46,4 | 7 | – | – |
+| Jardim Promissão | R$ 7.225 | 5 | – | – | – | – |
+| Jardim Prudência | R$ 11.054 | 24 | R$ 82,0 | 11 | 8,90% | – |
+| Jardim Recanto Verde | R$ 4.820 | 5 | – | – | – | – |
+| Jardim Redil | R$ 4.300 | 5 | – | – | – | – |
+| Jardim Regina | R$ 6.733 | 20 | – | – | – | – |
+| Jardim Remo | R$ 6.791 | 6 | – | – | – | – |
+| Jardim Rio Pequeno | R$ 6.284 | 6 | R$ 41,1 | 6 | 7,85% | – |
+| Jardim Robru | – | – | R$ 25,8 | 12 | – | – |
+| Jardim Sabará | R$ 9.444 | 5 | R$ 53,8 | 9 | 6,84% | – |
+| Jardim Santa Adelia | – | – | R$ 33,3 | 8 | – | – |
+| Jardim Santa Cruz (Sacomã) | R$ 4.844 | 7 | – | – | – | – |
+| Jardim Santa Emília | R$ 6.204 | 23 | R$ 37,2 | 16 | 7,20% | – |
+| Jardim Santa Etelvina | R$ 3.583 | 5 | – | – | – | – |
+| Jardim Santa Josefina | R$ 5.161 | 9 | – | – | – | – |
+| Jardim Santa Mônica | – | – | R$ 33,7 | 6 | – | – |
+| Jardim Santa Teresinha | R$ 7.346 | 9 | – | – | – | – |
+| Jardim Santa Terezinha | R$ 5.562 | 22 | R$ 31,8 | 13 | 6,86% | – |
+| Jardim Santa Terezinha (Zona Leste) | R$ 5.312 | 5 | – | – | – | – |
+| Jardim Santo Amaro | R$ 10.000 | 17 | R$ 35,3 | 10 | 4,24% | – |
+| Jardim Santo Antonio | R$ 6.346 | 7 | R$ 27,3 | 5 | 5,16% | – |
+| Jardim São Francisco (Zona Leste) | R$ 5.686 | 25 | – | – | – | – |
+| Jardim São Judas Tadeu | – | – | R$ 26,6 | 7 | – | – |
+| Jardim São Luís | – | – | R$ 52,9 | 7 | – | – |
+| Jardim São Paulo(Zona Leste) | R$ 5.125 | 7 | – | – | – | – |
+| Jardim Sao Paulo(Zona Norte) | R$ 11.248 | 123 | R$ 65,5 | 19 | 6,99% | – |
+| Jardim São Pedro | R$ 3.991 | 6 | – | – | – | – |
+| Jardim São Roberto | R$ 7.980 | 5 | – | – | – | – |
+| Jardim São Savério | R$ 5.659 | 75 | R$ 35,9 | 19 | 7,61% | – |
+| Jardim Soares | R$ 7.400 | 8 | – | – | – | – |
+| Jardim Sônia (Zona Sul) | R$ 5.952 | 5 | – | – | – | – |
+| Jardim Sul | R$ 6.103 | 7 | R$ 57,4 | 12 | 11,29% | – |
+| Jardim Taboão | R$ 5.540 | 6 | R$ 48,5 | 5 | 10,51% | – |
+| Jardim Taquaral | R$ 8.528 | 12 | R$ 46,9 | 14 | 6,60% | – |
+| Jardim Teresa | – | – | R$ 46,8 | 7 | – | – |
+| Jardim Textil | R$ 9.494 | 9 | – | – | – | – |
+| Jardim Tietê | – | – | R$ 34,4 | 5 | – | – |
+| Jardim Tiro Ao Pombo | R$ 4.500 | 6 | – | – | – | – |
+| Jardim Três Marias | – | – | R$ 31,0 | 7 | – | – |
+| Jardim Trussardi | – | – | R$ 70,3 | 9 | – | – |
+| Jardim Ubirajara | R$ 5.760 | 6 | – | – | – | – |
+| Jardim Umarizal | R$ 7.453 | 5 | R$ 51,0 | 11 | 8,21% | – |
+| Jardim Umuarama | – | – | R$ 49,3 | 9 | – | – |
+| Jardim Universidade Pinheiros | R$ 25.215 | 9 | – | – | – | – |
+| Jardim Vaz de Lima | R$ 4.681 | 5 | – | – | – | – |
+| Jardim Vazani | R$ 10.792 | 9 | R$ 44,9 | 12 | 4,99% | – |
+| Jardim Vera Cruz(Zona Sul) | R$ 15.780 | 6 | – | – | – | – |
+| Jardim Vergueiro | R$ 6.194 | 5 | R$ 42,2 | 6 | 8,18% | – |
+| Jardim Vergueiro (Sacomã) | R$ 5.385 | 23 | – | – | – | – |
+| Jardim Vila Carrão | R$ 7.800 | 5 | R$ 37,6 | 11 | 5,78% | – |
+| Jardim Vila Formosa | R$ 7.174 | 38 | R$ 51,0 | 6 | 8,53% | – |
+| Jardim Vila Mariana | R$ 12.310 | 134 | R$ 74,8 | 17 | 7,29% | – |
+| Jardim Vilas Boas | R$ 4.414 | 8 | – | – | – | – |
+| Jardim Vista Linda | – | – | R$ 44,8 | 14 | – | – |
+| Jardim Vitoria Regia | R$ 8.618 | 6 | R$ 45,3 | 16 | 6,31% | – |
+| Jardins | R$ 14.857 | 60 | R$ 86,9 | 15 | 7,02% | – |
+| Jardins Recanto das Rosas | R$ 4.634 | 5 | – | – | – | – |
+| José Bonifácio | R$ 5.595 | 9 | R$ 29,1 | 15 | 6,24% | – |
+| Jundiaí | R$ 7.430 | 6 | – | – | – | – |
+| Jurubatuba | R$ 11.696 | 6 | – | – | – | – |
+| Klabin | R$ 13.763 | 9 | – | – | – | – |
+| Lajeado | R$ 6.222 | 5 | – | – | – | – |
+| Lapa | R$ 10.537 | 19 | R$ 63,2 | 8 | 7,20% | – |
+| Lapa de Baixo | R$ 7.094 | 8 | – | – | – | – |
+| Lar | R$ 7.958 | 6 | R$ 48,3 | 15 | 7,28% | – |
+| Lauzane Paulista | R$ 9.267 | 77 | R$ 47,3 | 11 | 6,12% | – |
+| Liberdade | R$ 8.220 | 64 | R$ 62,0 | 18 | 9,05% | – |
+| Limão | R$ 8.160 | 15 | – | – | – | – |
+| Limoeiro | R$ 5.238 | 5 | – | – | – | – |
+| Loteamento City Jaragua | R$ 5.873 | 10 | R$ 39,1 | 5 | 7,99% | – |
+| Loteamento Reserva Raposo | R$ 6.783 | 8 | – | – | – | – |
+| Mandaqui | R$ 7.310 | 90 | R$ 36,5 | 18 | 5,99% | – |
+| Maranhão | R$ 7.354 | 16 | R$ 45,8 | 5 | 7,47% | – |
+| Mirandópolis | R$ 9.973 | 106 | R$ 61,4 | 18 | 7,39% | – |
+| Moema | R$ 14.189 | 418 | R$ 72,5 | 92 | 6,13% | – |
+| Moema Índios | R$ 12.662 | 17 | – | – | – | – |
+| Moema Pássaros | R$ 14.133 | 17 | – | – | – | – |
+| Moinho Velho | R$ 7.041 | 10 | – | – | – | – |
+| Mooca | R$ 9.206 | 174 | R$ 51,2 | 23 | 6,67% | – |
+| Morro dos Ingleses | R$ 9.336 | 21 | R$ 42,5 | 19 | 5,46% | – |
+| Morumbi | R$ 7.619 | 84 | R$ 48,9 | 21 | 7,70% | – |
+| Nossa Senhora do Ó | R$ 7.586 | 9 | R$ 38,7 | 6 | 6,12% | – |
+| Nova Klabin | R$ 13.768 | 14 | – | – | – | – |
+| Nova Piraju | R$ 9.848 | 5 | R$ 95,2 | 7 | 11,60% | – |
+| Núcleo Lageado | R$ 4.361 | 6 | – | – | – | – |
+| Pacaembu | R$ 9.173 | 14 | – | – | – | – |
+| Panamby | R$ 8.719 | 25 | R$ 61,3 | 22 | 8,44% | – |
+| Parada | R$ 6.792 | 6 | – | – | – | – |
+| Parada Inglesa | R$ 9.577 | 83 | R$ 57,5 | 13 | 7,20% | – |
+| Parada XV de Novembro | R$ 5.416 | 7 | – | – | – | – |
+| Paraíso | R$ 12.500 | 399 | R$ 57,7 | 69 | 5,54% | – |
+| Paraíso do Morumbi | R$ 7.986 | 33 | R$ 40,1 | 24 | 6,03% | – |
+| Paraisópolis | R$ 5.368 | 14 | R$ 45,9 | 13 | 10,26% | – |
+| Parque Alves de Lima | R$ 9.048 | 5 | – | – | – | – |
+| Parque Artur Alvim | R$ 5.513 | 5 | – | – | – | – |
+| Parque Bairro Morumbi | R$ 5.392 | 8 | – | – | – | – |
+| Parque Boa Esperança | R$ 4.755 | 5 | – | – | – | – |
+| Parque Boturussu | R$ 6.126 | 6 | R$ 43,3 | 5 | 8,48% | – |
+| Parque Bristol | R$ 6.200 | 9 | R$ 40,9 | 11 | 7,92% | – |
+| Parque Colonial | R$ 14.551 | 7 | R$ 95,0 | 5 | 7,83% | – |
+| Parque da Mooca | R$ 8.879 | 37 | R$ 53,0 | 13 | 7,16% | – |
+| Parque da Vila Prudente | R$ 10.407 | 9 | R$ 49,7 | 6 | 5,73% | – |
+| Parque das Paineiras | R$ 5.904 | 10 | – | – | – | – |
+| Parque do Carmo | – | – | R$ 26,9 | 9 | – | – |
+| Parque do Morumbi | R$ 11.748 | 7 | R$ 75,8 | 10 | 7,74% | – |
+| Parque Esmeralda | R$ 5.714 | 7 | R$ 40,4 | 7 | 8,48% | – |
+| Parque Flamengo | R$ 4.423 | 5 | – | – | – | – |
+| Parque Fongaro | R$ 3.926 | 8 | – | – | – | – |
+| Parque Imperial | R$ 8.691 | 19 | R$ 44,5 | 14 | 6,14% | – |
+| Parque Independência | R$ 7.500 | 5 | – | – | – | – |
+| Parque Industrial Tomas Edson | R$ 11.447 | 8 | R$ 73,5 | 7 | 7,71% | – |
+| Parque Ipê | R$ 6.102 | 6 | R$ 39,7 | 10 | 7,81% | – |
+| Parque Mandaqui | R$ 7.143 | 47 | R$ 35,5 | 6 | 5,96% | – |
+| Parque Maria Helena | R$ 6.364 | 5 | R$ 37,0 | 11 | 6,98% | – |
+| Parque Maria Luiza | R$ 8.750 | 5 | – | – | – | – |
+| Parque Munhoz | – | – | R$ 36,7 | 15 | – | – |
+| Parque Nações Unidas | R$ 4.919 | 6 | R$ 27,6 | 17 | 6,73% | – |
+| Parque Novo Mundo | R$ 6.791 | 7 | – | – | – | – |
+| Parque Paineiras | R$ 6.478 | 6 | – | – | – | – |
+| Parque Panamericano | R$ 7.202 | 14 | R$ 37,8 | 7 | 6,30% | – |
+| Parque Paulistano | – | – | R$ 34,6 | 6 | – | – |
+| Parque Reboucas | R$ 8.411 | 19 | R$ 47,6 | 17 | 6,79% | – |
+| Parque Regina | – | – | R$ 35,9 | 6 | – | – |
+| Parque Residencial da Lapa | R$ 6.076 | 10 | – | – | – | – |
+| Parque Residencial Julia | R$ 8.696 | 8 | R$ 44,6 | 9 | 6,15% | – |
+| Parque Santa Cecília | R$ 9.200 | 19 | R$ 58,7 | 10 | 7,66% | – |
+| Parque Santa Rita | – | – | R$ 32,9 | 12 | – | – |
+| Parque São Domingos | R$ 8.820 | 6 | – | – | – | – |
+| Parque São Jorge | R$ 11.603 | 68 | R$ 70,6 | 12 | 7,30% | – |
+| Parque São Lourenço | R$ 5.208 | 14 | – | – | – | – |
+| Parque São Lucas | R$ 7.134 | 44 | R$ 43,4 | 9 | 7,30% | – |
+| Parque São Luís | – | – | R$ 32,7 | 7 | – | – |
+| Parque Tomas Saraiva | R$ 5.294 | 5 | – | – | – | – |
+| Parque Vitória | – | – | R$ 58,1 | 11 | – | – |
+| Patriarca | R$ 7.900 | 14 | – | – | – | – |
+| Pedreira | – | – | R$ 36,0 | 7 | – | – |
+| Penha | R$ 6.102 | 9 | R$ 41,9 | 6 | 8,24% | – |
+| Penha de França | R$ 7.046 | 60 | R$ 40,7 | 18 | 6,93% | – |
+| Perdizes | R$ 13.292 | 202 | R$ 69,3 | 42 | 6,26% | – |
+| Pinheiros | R$ 15.000 | 259 | R$ 85,6 | 89 | 6,85% | – |
+| Piqueri | R$ 6.254 | 6 | R$ 35,3 | 7 | 6,77% | – |
+| Pirajussara | R$ 5.166 | 6 | – | – | – | – |
+| Pirituba | R$ 6.524 | 11 | R$ 30,9 | 5 | 5,68% | – |
+| Planalto Paulista | R$ 11.783 | 44 | R$ 58,6 | 12 | 5,97% | – |
+| Pompeia | R$ 13.729 | 19 | R$ 68,8 | 10 | 6,01% | – |
+| Ponte Rasa | R$ 6.822 | 6 | – | – | – | – |
+| Praça da Árvore | R$ 9.738 | 8 | – | – | – | – |
+| Praia Grande | R$ 6.250 | 7 | – | – | – | – |
+| Quarta Parada | R$ 13.128 | 10 | R$ 58,8 | 5 | 5,37% | – |
+| Quinta da Paineira | R$ 7.514 | 8 | – | – | – | – |
+| Real Parque | R$ 7.663 | 42 | R$ 47,7 | 6 | 7,47% | – |
+| República | R$ 8.421 | 35 | R$ 57,7 | 8 | 8,22% | – |
+| Sacomã | R$ 7.378 | 65 | R$ 42,6 | 18 | 6,93% | – |
+| Santa Cecília | R$ 10.525 | 82 | R$ 45,0 | 13 | 5,13% | – |
+| Santa Efigênia | R$ 5.946 | 7 | – | – | – | – |
+| Santa Teresinha | R$ 11.045 | 99 | – | – | – | – |
+| Santana | R$ 10.226 | 362 | R$ 66,7 | 51 | 7,83% | – |
+| Santo Amaro | R$ 10.835 | 168 | R$ 73,5 | 44 | 8,14% | – |
+| São João Clímaco | R$ 5.414 | 7 | – | – | – | – |
+| São Judas | R$ 10.593 | 36 | R$ 56,9 | 5 | 6,45% | – |
+| São Lucas | R$ 6.091 | 9 | – | – | – | – |
+| São Mateus | R$ 5.781 | 6 | – | – | – | – |
+| São Miguel Paulista | R$ 5.617 | 26 | R$ 29,4 | 5 | 6,28% | – |
+| Sapopemba | – | – | R$ 43,9 | 9 | – | – |
+| Saúde | R$ 9.848 | 252 | R$ 55,7 | 29 | 6,79% | – |
+| Sé | R$ 7.204 | 8 | – | – | – | – |
+| Sítio da Figueira | R$ 8.617 | 9 | – | – | – | – |
+| Sítio do Mandaqui | R$ 6.140 | 5 | – | – | – | – |
+| Sítio Pinheirinho | R$ 6.154 | 5 | – | – | – | – |
+| Socorro | R$ 10.635 | 5 | R$ 52,9 | 13 | 5,97% | – |
+| Sumaré | R$ 12.188 | 32 | R$ 50,2 | 7 | 4,94% | – |
+| Sumarezinho | R$ 13.637 | 22 | R$ 100,0 | 9 | 8,80% | – |
+| Tatuapé | R$ 10.890 | 773 | R$ 63,7 | 158 | 7,02% | – |
+| Tremembé | R$ 7.357 | 18 | – | – | – | – |
+| Tucuruvi | R$ 9.512 | 105 | R$ 57,3 | 15 | 7,23% | – |
+| V Mariana | R$ 10.000 | 9 | – | – | – | – |
+| Várzea de Baixo | R$ 12.651 | 5 | – | – | – | – |
+| Veleiros | – | – | R$ 47,9 | 5 | – | – |
+| Vila Albertina | R$ 7.736 | 7 | – | – | – | – |
+| Vila Alexandria | R$ 8.000 | 7 | – | – | – | – |
+| Vila Alpina | R$ 6.804 | 50 | R$ 24,5 | 5 | 4,32% | – |
+| Vila Amália | R$ 8.056 | 21 | – | – | – | – |
+| Vila Amélia | R$ 6.250 | 9 | R$ 34,0 | 5 | 6,53% | – |
+| Vila Anastácio | R$ 12.742 | 21 | – | – | – | – |
+| Vila Andrade | R$ 8.166 | 198 | R$ 52,9 | 53 | 7,77% | – |
+| Vila Anhangüera | R$ 7.031 | 11 | – | – | – | – |
+| Vila Antonieta | R$ 6.823 | 22 | R$ 39,2 | 6 | 6,89% | – |
+| Vila Antonina | R$ 8.772 | 21 | – | – | – | – |
+| Vila Araguaia | R$ 6.667 | 5 | – | – | – | – |
+| Vila Aricanduva | R$ 7.148 | 14 | – | – | – | – |
+| Vila Aurora (Zona Norte) | R$ 7.183 | 11 | – | – | – | – |
+| Vila Azevedo | R$ 9.571 | 19 | – | – | – | – |
+| Vila Baruel | R$ 15.682 | 5 | – | – | – | – |
+| Vila Bela | R$ 7.538 | 17 | – | – | – | – |
+| Vila Bela Vista (Zona Norte) | R$ 6.020 | 5 | – | – | – | – |
+| Vila Bertioga | R$ 10.500 | 15 | – | – | – | – |
+| Vila Brasilina | R$ 7.143 | 7 | – | – | – | – |
+| Vila Brasílio Machado | R$ 9.129 | 20 | – | – | – | – |
+| Vila Buarque | R$ 8.596 | 26 | R$ 55,8 | 7 | 7,79% | – |
+| Vila Butantã | R$ 7.195 | 11 | R$ 84,4 | 8 | 14,08% | – |
+| Vila Califórnia | R$ 7.512 | 17 | R$ 45,7 | 5 | 7,30% | – |
+| Vila Campestre | R$ 7.357 | 47 | R$ 39,2 | 10 | 6,39% | – |
+| Vila Canero | R$ 10.427 | 6 | – | – | – | – |
+| Vila Caraguatá | R$ 6.087 | 9 | – | – | – | – |
+| Vila Carlos de Campos | R$ 8.137 | 6 | – | – | – | – |
+| Vila Carmosina | R$ 5.418 | 12 | R$ 38,1 | 9 | 8,44% | – |
+| Vila Carrão | R$ 8.511 | 210 | R$ 51,9 | 35 | 7,32% | – |
+| Vila Clementino | R$ 12.083 | 381 | R$ 64,4 | 85 | 6,40% | – |
+| Vila Congonhas | R$ 9.171 | 12 | – | – | – | – |
+| Vila Constança | R$ 6.907 | 13 | R$ 44,8 | 5 | 7,78% | – |
+| Vila Cordeiro | R$ 15.712 | 14 | R$ 97,0 | 9 | 7,41% | – |
+| Vila Cosmopolita | – | – | R$ 24,8 | 17 | – | – |
+| Vila Cruzeiro | R$ 13.876 | 15 | – | – | – | – |
+| Vila Curuçá | R$ 6.000 | 9 | – | – | – | – |
+| Vila da Saúde | R$ 9.435 | 72 | R$ 46,9 | 5 | 5,97% | – |
+| Vila das Belezas | R$ 8.143 | 9 | – | – | – | – |
+| Vila das Mercês | R$ 7.221 | 42 | R$ 41,6 | 20 | 6,91% | – |
+| Vila Deodoro | R$ 7.500 | 11 | – | – | – | – |
+| Vila Diva (Zona Leste) | R$ 7.587 | 8 | – | – | – | – |
+| Vila do Bosque | R$ 9.009 | 6 | – | – | – | – |
+| Vila do Castelo | R$ 6.333 | 9 | – | – | – | – |
+| Vila do Encontro | R$ 6.375 | 7 | R$ 46,2 | 5 | 8,70% | – |
+| Vila Dom Pedro I | R$ 10.273 | 55 | R$ 57,1 | 7 | 6,67% | – |
+| Vila Dom Pedro II | R$ 8.616 | 22 | R$ 53,2 | 9 | 7,41% | – |
+| Vila Ema | R$ 6.928 | 90 | R$ 44,5 | 27 | 7,71% | – |
+| Vila Esperança | R$ 8.143 | 29 | R$ 47,5 | 8 | 7,00% | – |
+| Vila Ester (Zona Norte) | R$ 14.575 | 6 | – | – | – | – |
+| Vila Fachini | R$ 5.279 | 18 | – | – | – | – |
+| Vila Firmiano Pinto | R$ 10.386 | 71 | R$ 66,5 | 10 | 7,68% | – |
+| Vila Formosa | R$ 8.693 | 192 | R$ 44,0 | 33 | 6,07% | – |
+| Vila Gertrudes | R$ 17.000 | 24 | R$ 116,7 | 9 | 8,24% | – |
+| Vila Gomes | R$ 9.394 | 9 | – | – | – | – |
+| Vila Gomes Cardim | R$ 11.040 | 233 | R$ 57,9 | 23 | 6,29% | – |
+| Vila Granada | R$ 8.138 | 6 | – | – | – | – |
+| Vila Guaca | R$ 9.992 | 9 | – | – | – | – |
+| Vila Guarani | R$ 10.744 | 8 | R$ 47,3 | 8 | 5,28% | – |
+| Vila Guarani (Zona Sul) | R$ 9.907 | 127 | R$ 51,9 | 28 | 6,29% | – |
+| Vila Guilherme | R$ 8.561 | 59 | R$ 45,2 | 22 | 6,34% | – |
+| Vila Guilhermina | R$ 7.344 | 29 | R$ 51,4 | 9 | 8,40% | – |
+| Vila Gumercindo | R$ 9.529 | 184 | R$ 51,4 | 17 | 6,47% | – |
+| Vila Gustavo | R$ 8.806 | 27 | R$ 48,9 | 5 | 6,66% | – |
+| Vila Independência | R$ 8.818 | 15 | – | – | – | – |
+| Vila Indiana | R$ 8.543 | 7 | – | – | – | – |
+| Vila Industrial | R$ 6.261 | 24 | R$ 40,9 | 5 | 7,84% | – |
+| Vila Invernada | R$ 7.700 | 20 | R$ 53,6 | 13 | 8,35% | – |
+| Vila Ipojuca | R$ 11.618 | 16 | R$ 51,9 | 6 | 5,36% | – |
+| Vila Irmãos Arnoni | R$ 8.235 | 12 | – | – | – | – |
+| Vila Isa | R$ 10.000 | 6 | – | – | – | – |
+| Vila Isolina Mazzei | R$ 8.057 | 13 | – | – | – | – |
+| Vila Ivg | R$ 6.700 | 9 | – | – | – | – |
+| Vila Ivone | R$ 7.238 | 6 | – | – | – | – |
+| Vila Jacuí | R$ 6.106 | 7 | R$ 34,5 | 11 | 6,78% | – |
+| Vila Jaguara | – | – | R$ 41,7 | 5 | – | – |
+| Vila Jaraguá | R$ 5.629 | 6 | – | – | – | – |
+| Vila Leopoldina | R$ 13.500 | 37 | R$ 68,4 | 17 | 6,08% | – |
+| Vila Liviero | R$ 6.833 | 5 | – | – | – | – |
+| Vila Madalena | R$ 16.837 | 79 | R$ 89,4 | 27 | 6,37% | – |
+| Vila Mangalot | – | – | R$ 35,4 | 8 | – | – |
+| Vila Maria | R$ 9.875 | 21 | R$ 37,5 | 13 | 4,56% | – |
+| Vila Maria Alta | R$ 8.259 | 19 | – | – | – | – |
+| Vila Mariana | R$ 12.175 | 944 | R$ 69,2 | 130 | 6,82% | – |
+| Vila Marieta | R$ 5.889 | 6 | – | – | – | – |
+| Vila Mascote | R$ 9.000 | 55 | R$ 51,6 | 12 | 6,88% | – |
+| Vila Matilde | R$ 8.147 | 61 | R$ 48,8 | 8 | 7,19% | – |
+| Vila Mazzei | R$ 8.036 | 55 | R$ 45,6 | 12 | 6,81% | – |
+| Vila Medeiros | R$ 6.614 | 15 | – | – | – | – |
+| Vila Moinho Velho | R$ 7.333 | 36 | – | – | – | – |
+| Vila Monte Alegre | R$ 9.010 | 41 | – | – | – | – |
+| Vila Monumento | R$ 8.438 | 110 | R$ 62,7 | 6 | 8,92% | – |
+| Vila Moraes | R$ 7.350 | 41 | – | – | – | – |
+| Vila Moreira | R$ 8.548 | 8 | – | – | – | – |
+| Vila Morumbi | R$ 6.469 | 10 | – | – | – | – |
+| Vila Nair | R$ 8.929 | 23 | R$ 50,9 | 8 | 6,84% | – |
+| Vila Nhocune | R$ 6.383 | 11 | – | – | – | – |
+| Vila Nivi | R$ 8.561 | 13 | – | – | – | – |
+| Vila Nova Cachoeirinha | R$ 6.933 | 18 | R$ 44,0 | 7 | 7,62% | – |
+| Vila Nova Conceição | R$ 19.197 | 100 | R$ 105,0 | 43 | 6,56% | – |
+| Vila Nova Manchester | R$ 7.206 | 8 | – | – | – | – |
+| Vila Nova Mazzei | R$ 7.616 | 14 | – | – | – | – |
+| Vila Nova Savoia | R$ 7.250 | 5 | – | – | – | – |
+| Vila Olímpia | R$ 15.333 | 163 | R$ 101,5 | 59 | 7,94% | – |
+| Vila Oratório | R$ 7.500 | 7 | – | – | – | – |
+| Vila Paiva | R$ 8.626 | 11 | – | – | – | – |
+| Vila Palmeiras | R$ 8.182 | 5 | – | – | – | – |
+| Vila Parque Jabaquara | R$ 7.234 | 29 | – | – | – | – |
+| Vila Paulicéia | R$ 9.376 | 30 | R$ 53,9 | 6 | 6,90% | – |
+| Vila Paulista | R$ 9.378 | 8 | – | – | – | – |
+| Vila Penteado | R$ 10.000 | 5 | – | – | – | – |
+| Vila Pirajussara | R$ 7.924 | 46 | R$ 32,6 | 6 | 4,94% | – |
+| Vila Pirituba | – | – | R$ 47,7 | 6 | – | – |
+| Vila Polopoli | R$ 8.073 | 6 | – | – | – | – |
+| Vila Pompeia | R$ 12.443 | 42 | – | – | – | – |
+| Vila Prel | R$ 7.312 | 7 | – | – | – | – |
+| Vila Princesa Isabel | – | – | R$ 27,5 | 7 | – | – |
+| Vila Progredior | R$ 15.250 | 15 | – | – | – | – |
+| Vila Progresso | – | – | R$ 36,9 | 7 | – | – |
+| Vila Prudente | R$ 8.922 | 32 | R$ 46,6 | 20 | 6,27% | – |
+| Vila Prudente (Zona Leste) | R$ 8.846 | 119 | R$ 54,0 | 8 | 7,33% | – |
+| Vila Raquel | R$ 5.238 | 10 | – | – | – | – |
+| Vila Ré | R$ 7.286 | 23 | R$ 37,6 | 8 | 6,19% | – |
+| Vila Regente Feijó | R$ 10.663 | 236 | R$ 53,0 | 37 | 5,96% | – |
+| Vila Romana | R$ 12.913 | 32 | R$ 79,1 | 9 | 7,35% | – |
+| Vila Sabrina | – | – | R$ 37,3 | 5 | – | – |
+| Vila Santa Catarina | R$ 7.123 | 37 | – | – | – | – |
+| Vila Santa Clara | R$ 8.452 | 20 | R$ 54,1 | 11 | 7,68% | – |
+| Vila Santa Isabel | R$ 7.400 | 9 | – | – | – | – |
+| Vila Santo Estéfano | R$ 7.518 | 20 | – | – | – | – |
+| Vila Santo Estevão | R$ 8.240 | 25 | – | – | – | – |
+| Vila Santos | R$ 5.909 | 10 | – | – | – | – |
+| Vila São Francisco | R$ 9.175 | 6 | – | – | – | – |
+| Vila São José | R$ 11.555 | 10 | – | – | – | – |
+| Vila São José (Ipiranga) | R$ 11.750 | 11 | – | – | – | – |
+| Vila Sílvia | R$ 5.188 | 11 | – | – | – | – |
+| Vila Sofia | R$ 8.637 | 22 | R$ 58,8 | 17 | 8,17% | – |
+| Vila Sônia | R$ 9.615 | 25 | R$ 56,0 | 9 | 6,99% | – |
+| Vila Suzana | R$ 6.618 | 57 | R$ 47,7 | 16 | 8,65% | – |
+| Vila Talarico | R$ 6.395 | 5 | – | – | – | – |
+| Vila Tolstoi | R$ 8.955 | 14 | – | – | – | – |
+| Vila Uberabinha | R$ 20.018 | 16 | – | – | – | – |
+| Vila Vera | R$ 7.500 | 21 | – | – | – | – |
+| Vila Zelina | R$ 6.568 | 17 | – | – | – | – |
+| Vila Zilda | R$ 11.995 | 6 | – | – | – | – |
+| Vila Zilda (Tatuapé) | R$ 11.282 | 29 | – | – | – | – |
+
+### Casas, cidade toda: venda R$ 5.238/m² (n=13913); aluguel R$ 30,0/m²/mês (n=2615); rendimento bruto do aluguel 6,87% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| (Zona Norte) Barro Branco | R$ 5.825 | 14 | – | – | – | – |
+| Aclimação | R$ 7.494 | 65 | R$ 43,2 | 16 | 6,92% | – |
+| Água Fria | R$ 5.954 | 52 | R$ 32,1 | 5 | 6,47% | – |
+| Água Rasa | R$ 5.325 | 18 | – | – | – | – |
+| Alto da Boa Vista | R$ 9.000 | 37 | – | – | – | – |
+| Alto da Lapa | R$ 9.385 | 14 | R$ 36,2 | 5 | 4,63% | – |
+| Alto da Mooca | R$ 6.400 | 13 | – | – | – | – |
+| Alto da Riviera | R$ 3.354 | 7 | – | – | – | – |
+| Alto de Pinheiros | R$ 12.139 | 107 | R$ 58,0 | 5 | 5,73% | – |
+| Alto do Ipiranga | R$ 6.667 | 25 | R$ 26,1 | 5 | 4,70% | – |
+| Altos de Vila Prudente | R$ 3.667 | 7 | – | – | – | – |
+| Americanópolis | R$ 4.480 | 16 | R$ 27,5 | 5 | 7,37% | – |
+| Anália Franco | R$ 6.603 | 13 | – | – | – | – |
+| Anhangüera | R$ 4.480 | 5 | – | – | – | – |
+| Aricanduva | R$ 4.701 | 15 | – | – | – | – |
+| Artur Alvim | R$ 4.806 | 14 | – | – | – | – |
+| Associação Sobradinho | R$ 2.806 | 5 | – | – | – | – |
+| Barro Branco (Zona Norte) | R$ 5.295 | 6 | – | – | – | – |
+| Bela Aliança | R$ 7.833 | 6 | – | – | – | – |
+| Bela Vista | R$ 7.410 | 24 | R$ 41,7 | 9 | 6,75% | – |
+| Belém | R$ 6.048 | 6 | – | – | – | – |
+| Belenzinho | R$ 5.598 | 10 | – | – | – | – |
+| Boaçava | R$ 12.597 | 9 | – | – | – | – |
+| Bortolândia | R$ 4.412 | 13 | – | – | – | – |
+| Bosque da Saúde | R$ 6.648 | 84 | R$ 32,7 | 16 | 5,90% | – |
+| Brasilândia | R$ 2.662 | 5 | R$ 21,4 | 11 | 9,65% | – |
+| Brooklin | R$ 8.864 | 53 | R$ 38,9 | 12 | 5,27% | – |
+| Brooklin Novo | R$ 11.043 | 25 | – | – | – | – |
+| Brooklin Paulista | R$ 8.182 | 60 | R$ 40,2 | 8 | 5,90% | – |
+| Brooklin Velho | R$ 6.847 | 14 | – | – | – | – |
+| Burgo Paulista | R$ 6.204 | 9 | – | – | – | – |
+| Butantã | R$ 5.154 | 155 | R$ 36,7 | 16 | 8,54% | – |
+| Cachoeirinha | R$ 3.075 | 7 | – | – | – | – |
+| Cambuci | R$ 5.944 | 59 | R$ 31,2 | 9 | 6,30% | – |
+| Campo Belo | R$ 7.984 | 164 | R$ 42,8 | 51 | 6,43% | – |
+| Campo Grande | R$ 4.869 | 12 | – | – | – | – |
+| Campo Limpo | R$ 3.300 | 5 | R$ 35,0 | 6 | 12,73% | – |
+| Cangaíba | R$ 4.300 | 10 | – | – | – | – |
+| Capão do Embira | R$ 3.641 | 10 | – | – | – | – |
+| Capão Redondo | R$ 4.182 | 5 | – | – | – | – |
+| Capela do Socorro | R$ 6.740 | 5 | – | – | – | – |
+| Carandiru | R$ 5.692 | 7 | – | – | – | – |
+| Casa Verde | R$ 5.308 | 17 | – | – | – | – |
+| Casa Verde Alta | R$ 4.343 | 6 | R$ 28,4 | 6 | 7,85% | – |
+| Casa Verde Média | R$ 5.501 | 8 | R$ 31,2 | 5 | 6,81% | – |
+| Caxingui | R$ 7.627 | 5 | – | – | – | – |
+| Cerqueira César | R$ 16.583 | 6 | – | – | – | – |
+| Chácara Belenzinho | R$ 4.800 | 66 | R$ 22,2 | 11 | 5,55% | – |
+| Chácara Bosque do Sol | R$ 2.000 | 5 | – | – | – | – |
+| Chácara Califórnia | R$ 5.731 | 19 | – | – | – | – |
+| Chácara Cocaia | R$ 2.750 | 5 | – | – | – | – |
+| Chácara Cruzeiro do Sul | R$ 4.311 | 5 | – | – | – | – |
+| Chácara do Encosto | R$ 6.772 | 6 | – | – | – | – |
+| Chácara Figueira Grande | R$ 3.618 | 6 | – | – | – | – |
+| Chácara Inglesa | R$ 6.538 | 45 | – | – | – | – |
+| Chácara Japonesa | R$ 7.250 | 9 | – | – | – | – |
+| Chácara Klabin | R$ 8.974 | 15 | R$ 43,6 | 5 | 5,83% | – |
+| Chácara Mafalda | R$ 5.214 | 28 | R$ 32,3 | 5 | 7,43% | – |
+| Chácara Monte Alegre | R$ 8.973 | 10 | – | – | – | – |
+| Chácara Nossa Senhora Aparecida | R$ 3.994 | 5 | – | – | – | – |
+| Chácara Santo Antônio | R$ 8.587 | 15 | R$ 37,0 | 7 | 5,17% | – |
+| Chácara Santo Antônio (Zona Leste) | R$ 5.794 | 12 | – | – | – | – |
+| Chácara Santo Antônio (Zona Sul) | R$ 8.016 | 16 | – | – | – | – |
+| Chácara Seis de Outubro | R$ 5.408 | 7 | – | – | – | – |
+| Chácara Tatuapé | R$ 7.919 | 6 | – | – | – | – |
+| Chora Menino | R$ 5.132 | 16 | R$ 21,6 | 6 | 5,05% | – |
+| Cidade Ademar | R$ 4.615 | 15 | – | – | – | – |
+| Cidade Antônio Estevão de Carvalho | R$ 3.785 | 10 | R$ 29,6 | 6 | 9,39% | – |
+| Cidade Centenário | R$ 3.600 | 5 | – | – | – | – |
+| Cidade Continental | R$ 4.518 | 8 | – | – | – | – |
+| Cidade Domitila | R$ 5.279 | 7 | – | – | – | – |
+| Cidade dos Bandeirantes | R$ 5.000 | 9 | R$ 29,6 | 11 | 7,10% | – |
+| Cidade Dutra | R$ 6.287 | 6 | R$ 22,7 | 6 | 4,33% | – |
+| Cidade Jardim | R$ 12.500 | 23 | – | – | – | – |
+| Cidade Kemel | R$ 3.510 | 5 | – | – | – | – |
+| Cidade Líder | R$ 5.000 | 95 | R$ 36,8 | 5 | 8,83% | – |
+| Cidade Mãe do Céu | R$ 6.300 | 35 | R$ 24,1 | 8 | 4,59% | – |
+| Cidade Monções | R$ 9.494 | 7 | – | – | – | – |
+| Cidade Patriarca | R$ 4.615 | 59 | – | – | – | – |
+| Cidade São Francisco | R$ 4.975 | 14 | R$ 30,5 | 8 | 7,36% | – |
+| Cidade São Mateus | R$ 3.280 | 9 | – | – | – | – |
+| Cidade Tiradentes | R$ 2.168 | 5 | – | – | – | – |
+| Cidade Vargas | R$ 5.208 | 22 | R$ 24,4 | 5 | 5,62% | – |
+| City América | R$ 5.000 | 7 | – | – | – | – |
+| City Recanto Anastácio | R$ 5.868 | 5 | – | – | – | – |
+| Conjunto Habitacional A e Carvalho | R$ 3.072 | 6 | – | – | – | – |
+| Conjunto Habitacional Águia de Haia | R$ 3.022 | 5 | – | – | – | – |
+| Conjunto Habitacional Barreira Grande | R$ 2.982 | 5 | – | – | – | – |
+| Conjunto Habitacional Brigadeiro Faria Lima | R$ 3.312 | 7 | – | – | – | – |
+| Conjunto Habitacional Jardim São Bento | R$ 3.180 | 5 | – | – | – | – |
+| Conjunto Habitacional Marechal Mascarenhas de Morais | R$ 3.200 | 7 | – | – | – | – |
+| Conjunto Habitacional Recanto dos Humildes | R$ 4.000 | 5 | – | – | – | – |
+| Conjunto Habitacional Turística | R$ 3.631 | 5 | – | – | – | – |
+| Conjunto Residencial Alpes do Jaraguá | R$ 3.625 | 6 | – | – | – | – |
+| Conjunto Residencial Bandeirantes | R$ 3.680 | 5 | – | – | – | – |
+| Conjunto Residencial Butantã | R$ 5.750 | 13 | R$ 25,2 | 6 | 5,26% | – |
+| Conjunto Residencial Jardim Canaã | R$ 5.488 | 5 | – | – | – | – |
+| Conjunto Residencial Novo Pacaembu | R$ 4.999 | 6 | – | – | – | – |
+| Conjunto Residencial Prestes Maia | R$ 2.293 | 8 | – | – | – | – |
+| Conjunto Residencial Sabará - Campo Grande | R$ 4.400 | 5 | – | – | – | – |
+| Conjunto Residencial Salvador Tolezani | R$ 5.206 | 8 | – | – | – | – |
+| Conjunto Residencial Santa Terezinha | R$ 4.974 | 8 | – | – | – | – |
+| Conjunto Residencial Sitio Oratório | R$ 4.225 | 5 | – | – | – | – |
+| Conjunto Residencial Vista Verde | R$ 5.520 | 7 | – | – | – | – |
+| Cupecê | R$ 5.692 | 13 | R$ 28,8 | 8 | 6,07% | – |
+| Cursino | R$ 4.609 | 12 | – | – | – | – |
+| Ermelino Matarazzo | R$ 4.810 | 48 | – | – | – | – |
+| Fazenda Aricanduva | – | – | R$ 20,5 | 5 | – | – |
+| Fazenda Morumbi | R$ 6.875 | 6 | – | – | – | – |
+| Ferreira | R$ 5.896 | 9 | – | – | – | – |
+| Flor da Cantareira | R$ 1.850 | 6 | – | – | – | – |
+| Freguesia do Ó | R$ 4.686 | 14 | R$ 30,8 | 5 | 7,89% | – |
+| Granja Julieta | R$ 10.444 | 16 | – | – | – | – |
+| Guarapiranga | – | – | R$ 19,5 | 5 | – | – |
+| Higienópolis | R$ 12.324 | 9 | R$ 82,0 | 6 | 7,98% | – |
+| Horto | R$ 5.337 | 6 | – | – | – | – |
+| Horto Florestal | R$ 5.877 | 48 | R$ 34,0 | 9 | 6,94% | – |
+| Imirim | R$ 5.052 | 34 | – | – | – | – |
+| Indianópolis | R$ 7.608 | 38 | R$ 38,8 | 10 | 6,12% | – |
+| Instituto de Previdência | R$ 5.241 | 12 | – | – | – | – |
+| Interlagos | R$ 5.185 | 14 | – | – | – | – |
+| Ipiranga | R$ 5.793 | 182 | R$ 36,1 | 38 | 7,48% | – |
+| Itaim Paulista | R$ 4.160 | 6 | – | – | – | – |
+| Itaquera | R$ 4.797 | 30 | R$ 20,2 | 10 | 5,05% | – |
+| Itu | R$ 5.184 | 25 | – | – | – | – |
+| Jabaquara | R$ 5.133 | 83 | R$ 31,0 | 14 | 7,25% | – |
+| Jaçanã | R$ 5.101 | 10 | – | – | – | – |
+| Jaguaré | R$ 3.662 | 8 | – | – | – | – |
+| Jaraguá | R$ 2.786 | 16 | – | – | – | – |
+| Jardim | R$ 5.673 | 5 | – | – | – | – |
+| Jardim Adelaide | R$ 4.250 | 5 | – | – | – | – |
+| Jardim Aeroporto | R$ 5.470 | 22 | R$ 35,2 | 5 | 7,72% | – |
+| Jardim Aladim | R$ 2.083 | 5 | – | – | – | – |
+| Jardim Alpino | R$ 3.440 | 7 | – | – | – | – |
+| Jardim Alto Alegre (São Rafael) | R$ 2.652 | 7 | – | – | – | – |
+| Jardim Alto Pedroso | R$ 3.000 | 5 | – | – | – | – |
+| Jardim Alviverde | R$ 1.860 | 6 | – | – | – | – |
+| Jardim Alvorada (Zona Oeste) | R$ 4.054 | 11 | R$ 23,2 | 6 | 6,87% | – |
+| Jardim Alzira | R$ 5.417 | 7 | – | – | – | – |
+| Jardim América | R$ 13.891 | 10 | R$ 59,7 | 5 | 5,16% | – |
+| Jardim Ana Lúcia | R$ 4.280 | 6 | – | – | – | – |
+| Jardim Ana Maria | R$ 4.157 | 8 | – | – | – | – |
+| Jardim Ana Rosa | R$ 5.000 | 7 | – | – | – | – |
+| Jardim Anália Franco | R$ 7.616 | 34 | R$ 39,6 | 18 | 6,24% | – |
+| Jardim Andaraí | R$ 4.464 | 9 | – | – | – | – |
+| Jardim Angelina | R$ 3.840 | 9 | – | – | – | – |
+| Jardim Aricanduva | R$ 5.352 | 19 | R$ 29,2 | 5 | 6,55% | – |
+| Jardim Arize | R$ 4.990 | 5 | – | – | – | – |
+| Jardim Arizona | R$ 4.552 | 13 | – | – | – | – |
+| Jardim Arpoador | R$ 5.375 | 10 | – | – | – | – |
+| Jardim Artur Alvim | R$ 6.666 | 5 | – | – | – | – |
+| Jardim Ataliba Leonel | R$ 3.414 | 24 | R$ 23,3 | 9 | 8,19% | – |
+| Jardim Aurélio | R$ 2.846 | 6 | – | – | – | – |
+| Jardim Aurora (Zona Leste) | R$ 4.107 | 5 | – | – | – | – |
+| Jardim Avelino | R$ 6.639 | 13 | – | – | – | – |
+| Jardim Avenida | R$ 4.688 | 7 | – | – | – | – |
+| Jardim Bandeirantes (Zona Norte) | R$ 4.736 | 6 | – | – | – | – |
+| Jardim Batalha | R$ 5.120 | 5 | – | – | – | – |
+| Jardim Beatriz | R$ 3.720 | 6 | – | – | – | – |
+| Jardim Belcito | R$ 2.362 | 14 | – | – | – | – |
+| Jardim Bélgica | R$ 6.495 | 8 | – | – | – | – |
+| Jardim Bichinhos | R$ 3.750 | 6 | – | – | – | – |
+| Jardim Boa Esperança | R$ 4.500 | 7 | – | – | – | – |
+| Jardim Boa Vista (Zona Sul) | R$ 2.923 | 7 | – | – | – | – |
+| Jardim Bonfiglioli | R$ 4.948 | 35 | R$ 40,2 | 8 | 9,75% | – |
+| Jardim Brasil | R$ 3.799 | 9 | R$ 27,1 | 5 | 8,56% | – |
+| Jardim Brasil (Zona Norte) | R$ 4.419 | 75 | – | – | – | – |
+| Jardim Brasil (Zona Sul) | R$ 5.600 | 29 | – | – | – | – |
+| Jardim Brasília | R$ 3.663 | 13 | R$ 20,6 | 8 | 6,75% | – |
+| Jardim Brasília (Zona Leste) | R$ 4.630 | 5 | – | – | – | – |
+| Jardim Brasília (Zona Norte) | R$ 4.235 | 5 | – | – | – | – |
+| Jardim Britânia | R$ 4.800 | 5 | – | – | – | – |
+| Jardim Cabuçu | R$ 3.008 | 8 | – | – | – | – |
+| Jardim Cachoeira | R$ 4.122 | 6 | – | – | – | – |
+| Jardim Caguassu | R$ 3.101 | 5 | – | – | – | – |
+| Jardim Cambara | R$ 4.122 | 6 | R$ 30,0 | 5 | 8,73% | – |
+| Jardim Campinas | R$ 2.560 | 7 | – | – | – | – |
+| Jardim Campo Grande | R$ 6.264 | 7 | R$ 45,7 | 5 | 8,76% | – |
+| Jardim Campo Limpo (Zona Norte) | R$ 5.145 | 8 | – | – | – | – |
+| Jardim Campos | R$ 1.964 | 5 | – | – | – | – |
+| Jardim Capão Redondo | R$ 3.524 | 5 | – | – | – | – |
+| Jardim Caravelas | R$ 8.496 | 5 | – | – | – | – |
+| Jardim Carlu | R$ 4.046 | 10 | R$ 22,3 | 9 | 6,61% | – |
+| Jardim Carolina | R$ 4.699 | 7 | – | – | – | – |
+| Jardim Carombé | R$ 2.496 | 6 | – | – | – | – |
+| Jardim Casa Pintada | R$ 3.500 | 5 | – | – | – | – |
+| Jardim Catanduva | R$ 4.551 | 6 | R$ 24,6 | 6 | 6,49% | – |
+| Jardim Catarina | R$ 3.580 | 6 | – | – | – | – |
+| Jardim Cecy | R$ 4.286 | 7 | – | – | – | – |
+| Jardim Celeste | R$ 4.924 | 5 | – | – | – | – |
+| Jardim Centenário | R$ 5.040 | 5 | – | – | – | – |
+| Jardim Cidade Pirituba | R$ 4.762 | 72 | – | – | – | – |
+| Jardim Cidália | R$ 5.102 | 9 | – | – | – | – |
+| Jardim Clímax | R$ 2.880 | 6 | – | – | – | – |
+| Jardim Cliper | R$ 4.229 | 8 | – | – | – | – |
+| Jardim Coimbra | R$ 3.800 | 9 | R$ 21,8 | 5 | 6,88% | – |
+| Jardim Colombo | R$ 7.940 | 8 | – | – | – | – |
+| Jardim Colorado | R$ 5.333 | 13 | – | – | – | – |
+| Jardim Comercial | R$ 2.240 | 7 | – | – | – | – |
+| Jardim Consolata | R$ 7.611 | 5 | – | – | – | – |
+| Jardim Consórcio | R$ 4.102 | 8 | R$ 34,6 | 7 | 10,12% | – |
+| Jardim Cordeiro | R$ 10.924 | 31 | – | – | – | – |
+| Jardim Cotching | R$ 5.208 | 7 | – | – | – | – |
+| Jardim Cotiana | R$ 4.000 | 7 | – | – | – | – |
+| Jardim Cotinha | R$ 4.845 | 5 | – | – | – | – |
+| Jardim Cristal | R$ 4.742 | 5 | – | – | – | – |
+| Jardim Cruzeiro | R$ 3.906 | 7 | – | – | – | – |
+| Jardim Cupecê | R$ 4.064 | 6 | – | – | – | – |
+| Jardim da Conquista | R$ 3.182 | 5 | – | – | – | – |
+| Jardim da Conquista (Zona Leste) | R$ 3.721 | 7 | – | – | – | – |
+| Jardim da Glória | R$ 6.300 | 71 | R$ 30,2 | 8 | 5,75% | – |
+| Jardim da Pedreira | R$ 3.597 | 6 | – | – | – | – |
+| Jardim da Saúde | R$ 5.790 | 53 | – | – | – | – |
+| Jardim Dabril | R$ 4.368 | 6 | – | – | – | – |
+| Jardim Damasceno | R$ 3.367 | 6 | – | – | – | – |
+| Jardim Danfer | R$ 3.350 | 8 | R$ 30,7 | 6 | 11,00% | – |
+| Jardim das Acácias | R$ 8.271 | 10 | – | – | – | – |
+| Jardim das Bandeiras | R$ 12.476 | 6 | – | – | – | – |
+| Jardim das Camélias | R$ 3.667 | 7 | – | – | – | – |
+| Jardim das Camélias (Zona Sul) | R$ 4.400 | 9 | – | – | – | – |
+| Jardim das Carmelitas | R$ 4.709 | 6 | – | – | – | – |
+| Jardim das Esmeraldas | R$ 2.812 | 7 | R$ 18,0 | 7 | 7,68% | – |
+| Jardim das Flores | R$ 3.561 | 5 | R$ 21,4 | 5 | 7,21% | – |
+| Jardim das Imbuias | R$ 3.529 | 7 | – | – | – | – |
+| Jardim das Laranjeiras | R$ 5.300 | 13 | – | – | – | – |
+| Jardim das Oliveiras | R$ 6.018 | 5 | – | – | – | – |
+| Jardim das Rosas | R$ 3.000 | 5 | – | – | – | – |
+| Jardim das Rosas (Zona Leste) | R$ 3.133 | 5 | – | – | – | – |
+| Jardim das Rosas (Zona Norte) | R$ 4.240 | 5 | – | – | – | – |
+| Jardim das Vertentes | R$ 4.897 | 12 | – | – | – | – |
+| Jardim Daysy | R$ 2.996 | 5 | R$ 32,0 | 5 | 12,82% | – |
+| Jardim de Lorenzo | R$ 2.905 | 5 | – | – | – | – |
+| Jardim Denise | R$ 4.114 | 5 | – | – | – | – |
+| Jardim Dinorah | – | – | R$ 23,3 | 7 | – | – |
+| Jardim do Colégio | R$ 6.183 | 5 | R$ 25,1 | 7 | 4,87% | – |
+| Jardim do Colégio (Zona Norte) | R$ 7.143 | 7 | – | – | – | – |
+| Jardim Dona Sinhá | R$ 4.138 | 5 | – | – | – | – |
+| Jardim dos Álamos | R$ 2.000 | 5 | – | – | – | – |
+| Jardim dos Bichinhos | R$ 4.375 | 7 | – | – | – | – |
+| Jardim dos Estados | R$ 9.792 | 25 | R$ 36,4 | 5 | 4,46% | – |
+| Jardim dos Francos | R$ 2.830 | 8 | – | – | – | – |
+| Jardim dos Ipês | R$ 3.520 | 6 | – | – | – | – |
+| Jardim dos Lagos | R$ 4.750 | 5 | – | – | – | – |
+| Jardim dos Manacás | R$ 3.360 | 7 | – | – | – | – |
+| Jardim Duprat | R$ 3.596 | 6 | – | – | – | – |
+| Jardim Edi | R$ 3.175 | 9 | – | – | – | – |
+| Jardim Edilene | R$ 2.722 | 8 | – | – | – | – |
+| Jardim Egle | R$ 2.250 | 5 | – | – | – | – |
+| Jardim Elba | R$ 2.873 | 6 | – | – | – | – |
+| Jardim Eliana | R$ 2.954 | 7 | – | – | – | – |
+| Jardim Eliane | R$ 5.000 | 9 | – | – | – | – |
+| Jardim Elisa Maria | R$ 3.454 | 5 | – | – | – | – |
+| Jardim Eliza | R$ 4.333 | 9 | – | – | – | – |
+| Jardim Elizabeth | R$ 4.447 | 6 | – | – | – | – |
+| Jardim Ernestina | R$ 7.758 | 6 | – | – | – | – |
+| Jardim Esmeralda | R$ 5.417 | 9 | – | – | – | – |
+| Jardim Esmeralda (Zona Sul) | R$ 3.890 | 8 | – | – | – | – |
+| Jardim Ester | R$ 4.286 | 10 | R$ 31,0 | 8 | 8,68% | – |
+| Jardim Ester Yolanda | R$ 4.288 | 12 | R$ 22,5 | 7 | 6,30% | – |
+| Jardim Europa | R$ 22.491 | 9 | – | – | – | – |
+| Jardim Everest | R$ 9.750 | 5 | – | – | – | – |
+| Jardim Faria Lima | R$ 4.333 | 7 | – | – | – | – |
+| Jardim Felicidade (Zona Norte) | R$ 4.190 | 5 | R$ 25,9 | 6 | 7,42% | – |
+| Jardim Felicidade (Zona Oeste) | R$ 5.933 | 7 | R$ 26,0 | 5 | 5,26% | – |
+| Jardim Fernandes | R$ 5.027 | 14 | R$ 21,0 | 7 | 5,01% | – |
+| Jardim Figueira Grande | R$ 3.356 | 5 | – | – | – | – |
+| Jardim Filhos da Terra | R$ 2.800 | 5 | – | – | – | – |
+| Jardim Floresta | R$ 6.250 | 25 | – | – | – | – |
+| Jardim Fontalis | R$ 3.036 | 7 | – | – | – | – |
+| Jardim Franca | R$ 6.535 | 50 | R$ 28,2 | 6 | 5,18% | – |
+| Jardim Fraternidade | R$ 4.103 | 7 | – | – | – | – |
+| Jardim Gianetti | R$ 4.600 | 8 | – | – | – | – |
+| Jardim Glória | R$ 5.365 | 5 | – | – | – | – |
+| Jardim Gonzaga | R$ 4.284 | 5 | – | – | – | – |
+| Jardim Grimaldi | R$ 3.940 | 10 | – | – | – | – |
+| Jardim Guaianazes | R$ 2.189 | 6 | – | – | – | – |
+| Jardim Guairaca | R$ 5.250 | 24 | R$ 35,0 | 5 | 8,00% | – |
+| Jardim Guanabara | R$ 4.402 | 7 | – | – | – | – |
+| Jardim Guanca | R$ 5.317 | 10 | R$ 34,1 | 6 | 7,70% | – |
+| Jardim Guanhembu | R$ 5.120 | 8 | R$ 29,0 | 6 | 6,80% | – |
+| Jardim Guapira | R$ 4.231 | 15 | – | – | – | – |
+| Jardim Guarani | R$ 3.477 | 8 | – | – | – | – |
+| Jardim Guarau | R$ 3.599 | 10 | – | – | – | – |
+| Jardim Guedala | R$ 7.953 | 28 | R$ 46,6 | 5 | 7,03% | – |
+| Jardim Helena | R$ 5.968 | 5 | – | – | – | – |
+| Jardim Hercilia | R$ 4.800 | 9 | – | – | – | – |
+| Jardim Hípico | R$ 13.274 | 5 | – | – | – | – |
+| Jardim Humaitá | R$ 6.452 | 7 | – | – | – | – |
+| Jardim Iae | R$ 3.233 | 6 | – | – | – | – |
+| Jardim Ibiratiba | R$ 5.500 | 9 | – | – | – | – |
+| Jardim Icaraí | R$ 2.678 | 6 | – | – | – | – |
+| Jardim Imperador | R$ 4.143 | 7 | – | – | – | – |
+| Jardim Imperador (Zona Leste) | R$ 4.018 | 7 | – | – | – | – |
+| Jardim Indaiá | R$ 3.963 | 6 | – | – | – | – |
+| Jardim Independência | R$ 5.125 | 15 | – | – | – | – |
+| Jardim Independência (São Paulo) | R$ 5.818 | 7 | – | – | – | – |
+| Jardim Internacional | R$ 6.386 | 8 | – | – | – | – |
+| Jardim Ipanema | R$ 5.130 | 6 | – | – | – | – |
+| Jardim Ipanema (Cidade Líder) | R$ 4.238 | 6 | – | – | – | – |
+| Jardim Ipanema (Zona Sul) | R$ 4.200 | 6 | – | – | – | – |
+| Jardim Ipê | R$ 3.563 | 6 | – | – | – | – |
+| Jardim Iporanga | R$ 3.856 | 8 | – | – | – | – |
+| Jardim Iracema | R$ 3.190 | 5 | – | – | – | – |
+| Jardim Itália | R$ 5.288 | 7 | – | – | – | – |
+| Jardim Itapema | R$ 6.400 | 5 | – | – | – | – |
+| Jardim Itápolis | R$ 2.695 | 6 | – | – | – | – |
+| Jardim Itapura | R$ 3.600 | 5 | – | – | – | – |
+| Jardim Itatinga | R$ 6.534 | 11 | – | – | – | – |
+| Jardim Iva | R$ 3.862 | 10 | – | – | – | – |
+| Jardim Ivana | R$ 4.077 | 7 | – | – | – | – |
+| Jardim Ivone | R$ 4.909 | 9 | – | – | – | – |
+| Jardim Jabaquara | R$ 3.397 | 8 | – | – | – | – |
+| Jardim Jaçanã | R$ 3.694 | 29 | – | – | – | – |
+| Jardim Japão | R$ 3.763 | 5 | – | – | – | – |
+| Jardim Jaú | R$ 3.864 | 8 | – | – | – | – |
+| Jardim Joamar | R$ 3.378 | 5 | – | – | – | – |
+| Jardim Juá | R$ 5.312 | 7 | – | – | – | – |
+| Jardim Julieta | R$ 4.667 | 5 | – | – | – | – |
+| Jardim Jussara | R$ 7.082 | 5 | – | – | – | – |
+| Jardim Labitary | R$ 3.895 | 6 | – | – | – | – |
+| Jardim Lallo | R$ 4.468 | 6 | – | – | – | – |
+| Jardim Laone | R$ 3.667 | 7 | – | – | – | – |
+| Jardim Leonor | R$ 8.104 | 12 | – | – | – | – |
+| Jardim Leonor Mendes de Barros | R$ 8.453 | 34 | R$ 34,9 | 6 | 4,95% | – |
+| Jardim Líbano | R$ 5.242 | 7 | – | – | – | – |
+| Jardim Liderança | R$ 4.353 | 10 | – | – | – | – |
+| Jardim Lídia | R$ 6.000 | 5 | – | – | – | – |
+| Jardim Lisboa | R$ 5.505 | 6 | – | – | – | – |
+| Jardim Londrina | R$ 5.602 | 10 | – | – | – | – |
+| Jardim Los Angeles | R$ 6.500 | 7 | – | – | – | – |
+| Jardim Lourdes (Zona Sul) | R$ 4.096 | 6 | – | – | – | – |
+| Jardim Lucélia | R$ 2.632 | 6 | – | – | – | – |
+| Jardim Lúcia | R$ 3.750 | 7 | – | – | – | – |
+| Jardim Luso | R$ 3.200 | 7 | – | – | – | – |
+| Jardim Luzitânia | R$ 16.226 | 13 | – | – | – | – |
+| Jardim Mangalot | R$ 4.075 | 8 | R$ 32,4 | 6 | 9,54% | – |
+| Jardim Marabá (Zona Sul) | R$ 4.321 | 6 | – | – | – | – |
+| Jardim Maracanã | R$ 3.719 | 8 | – | – | – | – |
+| Jardim Marajoara | R$ 6.278 | 11 | – | – | – | – |
+| Jardim Marcel | R$ 5.627 | 8 | – | – | – | – |
+| Jardim Maria Amália | R$ 3.714 | 5 | – | – | – | – |
+| Jardim Maria Duarte | R$ 4.200 | 5 | – | – | – | – |
+| Jardim Maria Estela | R$ 3.721 | 12 | R$ 17,0 | 5 | 5,48% | – |
+| Jardim Maria Luiza | R$ 3.402 | 5 | – | – | – | – |
+| Jardim Maria Rita | R$ 4.712 | 10 | R$ 22,4 | 14 | 5,70% | – |
+| Jardim Maria Virginia | R$ 5.000 | 7 | – | – | – | – |
+| Jardim Marilda | R$ 1.890 | 9 | – | – | – | – |
+| Jardim Marília | R$ 3.963 | 6 | R$ 22,6 | 9 | 6,84% | – |
+| Jardim Mariliza | R$ 3.796 | 20 | – | – | – | – |
+| Jardim Maringa | R$ 5.082 | 14 | R$ 20,0 | 5 | 4,72% | – |
+| Jardim Marisa | R$ 5.298 | 7 | R$ 26,7 | 9 | 6,05% | – |
+| Jardim Maristela | – | – | R$ 14,9 | 7 | – | – |
+| Jardim Marquesa | R$ 4.400 | 7 | – | – | – | – |
+| Jardim Matarazzo | – | – | R$ 18,0 | 5 | – | – |
+| Jardim Mimar | R$ 4.900 | 9 | – | – | – | – |
+| Jardim Miriam | – | – | R$ 25,2 | 6 | – | – |
+| Jardim Modelo | R$ 2.977 | 6 | R$ 19,2 | 8 | 7,74% | – |
+| Jardim Monjolo | R$ 4.276 | 9 | – | – | – | – |
+| Jardim Monte Alegre | R$ 4.116 | 8 | – | – | – | – |
+| Jardim Monte Azul | R$ 5.417 | 6 | – | – | – | – |
+| Jardim Monte Kemel | R$ 5.839 | 10 | – | – | – | – |
+| Jardim Moreno | R$ 3.327 | 7 | – | – | – | – |
+| Jardim Morumbi | R$ 9.346 | 11 | – | – | – | – |
+| Jardim Mutinga | R$ 3.913 | 9 | – | – | – | – |
+| Jardim Nakamura | R$ 2.423 | 5 | – | – | – | – |
+| Jardim Nice | R$ 3.250 | 9 | – | – | – | – |
+| Jardim Niteroi | R$ 4.432 | 6 | – | – | – | – |
+| Jardim Nordeste | R$ 3.436 | 8 | – | – | – | – |
+| Jardim Nossa Senhora do Carmo | R$ 3.807 | 21 | R$ 37,3 | 8 | 11,76% | – |
+| Jardim Nosso Lar | R$ 4.878 | 7 | – | – | – | – |
+| Jardim Nova Germania | R$ 4.426 | 6 | – | – | – | – |
+| Jardim Novo Carrão | R$ 3.252 | 6 | R$ 23,2 | 6 | 8,56% | – |
+| Jardim Novo Jaú | R$ 1.880 | 5 | – | – | – | – |
+| Jardim Novo Mundo | R$ 9.887 | 6 | – | – | – | – |
+| Jardim Odete | R$ 4.041 | 6 | R$ 25,0 | 9 | 7,42% | – |
+| Jardim Olinda | R$ 3.143 | 5 | – | – | – | – |
+| Jardim Olympia | R$ 5.285 | 12 | R$ 25,0 | 5 | 5,68% | – |
+| Jardim Ondina | R$ 4.035 | 8 | – | – | – | – |
+| Jardim Oriental | R$ 5.071 | 28 | R$ 28,2 | 7 | 6,67% | – |
+| Jardim Palmares | R$ 6.198 | 5 | R$ 39,0 | 5 | 7,55% | – |
+| Jardim Palmares (Zona Sul) | R$ 5.643 | 5 | – | – | – | – |
+| Jardim Panorama (Zona Leste) | R$ 3.583 | 9 | – | – | – | – |
+| Jardim Paqueta | R$ 4.917 | 6 | – | – | – | – |
+| Jardim Paraguaçu | R$ 3.047 | 7 | R$ 19,7 | 7 | 7,76% | – |
+| Jardim Paraíso | R$ 5.938 | 19 | – | – | – | – |
+| Jardim Patente | R$ 4.529 | 6 | R$ 9,8 | 5 | 2,60% | – |
+| Jardim Paulista | R$ 18.978 | 45 | R$ 60,7 | 15 | 3,84% | – |
+| Jardim Paulistano | R$ 17.583 | 36 | R$ 78,9 | 5 | 5,38% | – |
+| Jardim Pedro José Nunes | R$ 4.733 | 11 | – | – | – | – |
+| Jardim Penha | R$ 3.750 | 7 | – | – | – | – |
+| Jardim Peri | R$ 4.861 | 8 | – | – | – | – |
+| Jardim Peri Peri | R$ 6.096 | 12 | – | – | – | – |
+| Jardim Petrópolis | R$ 8.941 | 18 | – | – | – | – |
+| Jardim Picolo | R$ 6.740 | 10 | – | – | – | – |
+| Jardim Pinheiros | R$ 4.872 | 14 | R$ 26,7 | 7 | 6,58% | – |
+| Jardim Piqueroby | R$ 4.968 | 17 | – | – | – | – |
+| Jardim Piraçuama | R$ 2.690 | 5 | – | – | – | – |
+| Jardim Pirajussara | R$ 7.290 | 6 | – | – | – | – |
+| Jardim Pirituba | R$ 3.900 | 8 | – | – | – | – |
+| Jardim Planalto | R$ 3.431 | 6 | – | – | – | – |
+| Jardim Ponte Rasa | R$ 3.763 | 13 | R$ 21,4 | 5 | 6,83% | – |
+| Jardim Popular | R$ 5.314 | 9 | R$ 30,0 | 5 | 6,77% | – |
+| Jardim Portal I e II | R$ 12.042 | 10 | – | – | – | – |
+| Jardim Porteira Grande | R$ 3.375 | 10 | – | – | – | – |
+| Jardim Presidente | R$ 2.370 | 7 | – | – | – | – |
+| Jardim Previdência | – | – | R$ 24,7 | 6 | – | – |
+| Jardim Primavera | R$ 5.250 | 8 | R$ 25,0 | 5 | 5,71% | – |
+| Jardim Primavera (Zona Norte) | R$ 5.610 | 7 | – | – | – | – |
+| Jardim Primavera (Zona Sul) | R$ 3.412 | 8 | – | – | – | – |
+| Jardim Progresso | R$ 2.903 | 6 | – | – | – | – |
+| Jardim Prudência | R$ 6.270 | 26 | – | – | – | – |
+| Jardim Quisisana (Vila Nova Curuçá) | R$ 2.739 | 7 | – | – | – | – |
+| Jardim Raposo Tavares | R$ 4.800 | 7 | – | – | – | – |
+| Jardim Record | R$ 4.493 | 13 | – | – | – | – |
+| Jardim Regina | R$ 5.199 | 52 | R$ 29,7 | 8 | 6,86% | – |
+| Jardim Regis | R$ 4.006 | 7 | – | – | – | – |
+| Jardim Reimberg | R$ 2.845 | 8 | – | – | – | – |
+| Jardim Represa | R$ 4.026 | 8 | – | – | – | – |
+| Jardim República | R$ 3.487 | 6 | – | – | – | – |
+| Jardim Rincão | R$ 3.044 | 5 | – | – | – | – |
+| Jardim Riviera | R$ 3.875 | 5 | – | – | – | – |
+| Jardim Rizzo | R$ 5.904 | 13 | – | – | – | – |
+| Jardim Rodolfo Pirani | R$ 2.923 | 9 | – | – | – | – |
+| Jardim Rosa Maria | R$ 5.813 | 15 | R$ 33,0 | 7 | 6,81% | – |
+| Jardim Rossin | R$ 3.140 | 6 | – | – | – | – |
+| Jardim Rubio | R$ 3.818 | 5 | – | – | – | – |
+| Jardim Sabará | R$ 5.526 | 5 | – | – | – | – |
+| Jardim Sabiá II | R$ 2.000 | 5 | – | – | – | – |
+| Jardim Samambaia | R$ 3.080 | 6 | – | – | – | – |
+| Jardim Samara | R$ 2.820 | 6 | – | – | – | – |
+| Jardim Sandra | R$ 4.372 | 6 | – | – | – | – |
+| Jardim Santa Adelia | R$ 4.083 | 11 | R$ 18,3 | 6 | 5,38% | – |
+| Jardim Santa Cruz | R$ 4.390 | 7 | – | – | – | – |
+| Jardim Santa Cruz (Campo Grande) | R$ 5.397 | 10 | – | – | – | – |
+| Jardim Santa Cruz (Sacomã) | R$ 3.633 | 9 | – | – | – | – |
+| Jardim Santa Cruz (Zona Norte) | R$ 3.667 | 9 | – | – | – | – |
+| Jardim Santa Edwiges (Grajaú) | R$ 4.667 | 7 | – | – | – | – |
+| Jardim Santa Emília | R$ 4.438 | 8 | – | – | – | – |
+| Jardim Santa Fé (Zona Oeste) | R$ 3.550 | 9 | – | – | – | – |
+| Jardim Santa Inês | R$ 5.554 | 6 | – | – | – | – |
+| Jardim Santa Lucrécia | R$ 3.636 | 9 | – | – | – | – |
+| Jardim Santa Maria | R$ 4.390 | 17 | R$ 35,0 | 6 | 9,57% | – |
+| Jardim Santa Mônica | R$ 3.333 | 6 | R$ 29,7 | 6 | 10,69% | – |
+| Jardim Santa Terezinha (Pedreira) | R$ 2.975 | 5 | – | – | – | – |
+| Jardim Santo Alberto | R$ 2.450 | 6 | – | – | – | – |
+| Jardim Santo Amaro | R$ 7.505 | 10 | – | – | – | – |
+| Jardim Santo André | R$ 3.125 | 7 | – | – | – | – |
+| Jardim Santo Antoninho | R$ 5.667 | 7 | – | – | – | – |
+| Jardim Santo Elias | – | – | R$ 39,7 | 6 | – | – |
+| Jardim Santos Dumont | R$ 4.469 | 11 | – | – | – | – |
+| Jardim São Bento | R$ 6.655 | 14 | – | – | – | – |
+| Jardim São Bento Novo | R$ 2.267 | 5 | – | – | – | – |
+| Jardim São Bernardo | R$ 5.129 | 7 | – | – | – | – |
+| Jardim São Carlos | R$ 2.916 | 10 | – | – | – | – |
+| Jardim São Carlos (Zona Leste) | R$ 3.480 | 9 | – | – | – | – |
+| Jardim São Domingos | R$ 8.333 | 5 | – | – | – | – |
+| Jardim São Francisco | R$ 3.750 | 5 | – | – | – | – |
+| Jardim São Francisco (Zona Leste) | R$ 2.608 | 10 | – | – | – | – |
+| Jardim São Gabriel | R$ 3.179 | 6 | – | – | – | – |
+| Jardim São João (Guaianazes) | R$ 3.200 | 5 | – | – | – | – |
+| Jardim São João (Zona Norte) | R$ 4.000 | 5 | – | – | – | – |
+| Jardim São Jorge | R$ 3.600 | 7 | – | – | – | – |
+| Jardim São Jorge (Raposo Tavares) | R$ 3.802 | 5 | – | – | – | – |
+| Jardim Sao José | R$ 4.600 | 8 | R$ 33,3 | 5 | 8,69% | – |
+| Jardim São José (São Mateus) | R$ 4.312 | 8 | – | – | – | – |
+| Jardim São José (Zona Norte) | R$ 5.267 | 5 | R$ 39,3 | 5 | 8,95% | – |
+| Jardim São Judas Tadeu | R$ 3.280 | 6 | – | – | – | – |
+| Jardim São Manoel | R$ 3.332 | 8 | – | – | – | – |
+| Jardim São Miguel | R$ 5.278 | 5 | – | – | – | – |
+| Jardim São Nicolau | R$ 3.584 | 7 | – | – | – | – |
+| Jardim Sao Paulo(Zona Norte) | R$ 6.733 | 79 | R$ 35,9 | 8 | 6,40% | – |
+| Jardim São Ricardo | R$ 5.724 | 10 | – | – | – | – |
+| Jardim São Roberto | R$ 3.333 | 19 | – | – | – | – |
+| Jardim São Roque | R$ 4.372 | 8 | – | – | – | – |
+| Jardim São Vicente | R$ 3.156 | 6 | – | – | – | – |
+| Jardim Sapopemba | R$ 2.720 | 9 | – | – | – | – |
+| Jardim Sarah | R$ 4.324 | 10 | R$ 28,8 | 7 | 7,99% | – |
+| Jardim Satélite | R$ 5.524 | 6 | – | – | – | – |
+| Jardim Seckler | R$ 3.778 | 9 | – | – | – | – |
+| Jardim Selma | R$ 5.059 | 5 | – | – | – | – |
+| Jardim Senice | R$ 2.169 | 6 | – | – | – | – |
+| Jardim Sertãozinho | R$ 3.400 | 7 | – | – | – | – |
+| Jardim Shangrilá (Zona Norte) | R$ 2.710 | 8 | – | – | – | – |
+| Jardim Silveira | R$ 1.882 | 5 | – | – | – | – |
+| Jardim Sônia | R$ 5.071 | 6 | – | – | – | – |
+| Jardim Sônia Inga | R$ 2.513 | 7 | – | – | – | – |
+| Jardim Soraia | R$ 3.954 | 6 | – | – | – | – |
+| Jardim Suzana | R$ 5.333 | 7 | – | – | – | – |
+| Jardim Sydney | R$ 3.200 | 5 | – | – | – | – |
+| Jardim Taboão | R$ 4.964 | 7 | R$ 25,0 | 10 | 6,04% | – |
+| Jardim Taipas | R$ 3.799 | 6 | – | – | – | – |
+| Jardim Tango | R$ 3.875 | 6 | – | – | – | – |
+| Jardim Tenani | R$ 5.578 | 6 | – | – | – | – |
+| Jardim Teresa | R$ 5.034 | 9 | – | – | – | – |
+| Jardim Textil | R$ 6.396 | 38 | R$ 39,5 | 14 | 7,41% | – |
+| Jardim Thealia | R$ 2.806 | 5 | – | – | – | – |
+| Jardim Thomaz | R$ 4.724 | 6 | – | – | – | – |
+| Jardim Tietê | R$ 3.436 | 12 | R$ 15,0 | 7 | 5,24% | – |
+| Jardim Toca | R$ 3.200 | 9 | – | – | – | – |
+| Jardim Tremembé | R$ 4.912 | 12 | – | – | – | – |
+| Jardim Três Marias | R$ 5.103 | 6 | – | – | – | – |
+| Jardim Triana | R$ 5.243 | 9 | – | – | – | – |
+| Jardim Trussardi | R$ 5.923 | 8 | R$ 26,9 | 5 | 5,45% | – |
+| Jardim Tuã | R$ 2.477 | 8 | – | – | – | – |
+| Jardim Tupã | R$ 4.110 | 5 | – | – | – | – |
+| Jardim Ubirajara (Zona Sul) | R$ 6.330 | 5 | – | – | – | – |
+| Jardim Umuarama | R$ 5.426 | 12 | – | – | – | – |
+| Jardim Vale das Virtudes | R$ 2.704 | 7 | – | – | – | – |
+| Jardim Valparaiso | R$ 3.857 | 5 | – | – | – | – |
+| Jardim Varginha | R$ 2.560 | 5 | – | – | – | – |
+| Jardim Vera Cruz | R$ 7.367 | 6 | – | – | – | – |
+| Jardim Vera Cruz(Zona Leste) | R$ 2.226 | 6 | – | – | – | – |
+| Jardim Vergueiro (Sacomã) | R$ 4.609 | 7 | – | – | – | – |
+| Jardim Verônia | R$ 2.389 | 6 | – | – | – | – |
+| Jardim Viana | R$ 10.000 | 5 | – | – | – | – |
+| Jardim Vila Carrão | R$ 3.283 | 8 | R$ 21,7 | 5 | 7,93% | – |
+| Jardim Vila Formosa | R$ 4.304 | 59 | R$ 23,1 | 14 | 6,44% | – |
+| Jardim Vila Mariana | R$ 8.389 | 15 | – | – | – | – |
+| Jardim Vila Rica | R$ 4.046 | 6 | – | – | – | – |
+| Jardim Virginia Bianca | R$ 4.568 | 32 | R$ 31,3 | 8 | 8,22% | – |
+| Jardim Vista Alegre | R$ 2.874 | 8 | – | – | – | – |
+| Jardim Vista Linda | R$ 5.000 | 9 | – | – | – | – |
+| Jardim Vitória Régia (Zona Norte) | R$ 3.831 | 6 | – | – | – | – |
+| Jardim Vivan | R$ 4.516 | 7 | R$ 22,9 | 10 | 6,08% | – |
+| Jd. Ipanema | R$ 2.662 | 6 | – | – | – | – |
+| Jd. São João | R$ 3.627 | 6 | – | – | – | – |
+| Jd. Vivan | R$ 3.529 | 11 | – | – | – | – |
+| Jordanopolis | R$ 4.767 | 6 | – | – | – | – |
+| Lajeado | R$ 3.055 | 5 | – | – | – | – |
+| Lapa | R$ 8.074 | 13 | – | – | – | – |
+| Lauzane Paulista | R$ 4.664 | 35 | R$ 28,8 | 7 | 7,41% | – |
+| Liberdade | R$ 5.484 | 5 | – | – | – | – |
+| Limão | R$ 4.174 | 13 | – | – | – | – |
+| Limoeiro | R$ 3.800 | 13 | – | – | – | – |
+| Mandaqui | R$ 5.401 | 84 | R$ 35,6 | 5 | 7,91% | – |
+| Mirandópolis | R$ 7.577 | 130 | R$ 39,7 | 27 | 6,29% | – |
+| Moema | R$ 10.520 | 30 | R$ 58,3 | 11 | 6,65% | – |
+| Moinho Velho | R$ 5.000 | 9 | – | – | – | – |
+| Mooca | R$ 5.825 | 62 | R$ 30,4 | 9 | 6,26% | – |
+| Morro do Índio | R$ 2.590 | 5 | – | – | – | – |
+| Morro dos Ingleses | R$ 7.261 | 5 | – | – | – | – |
+| Morro Grande | R$ 4.306 | 5 | – | – | – | – |
+| Morumbi | R$ 7.164 | 28 | R$ 42,9 | 7 | 7,19% | – |
+| Nova Klabin | R$ 7.230 | 8 | – | – | – | – |
+| Nova Piraju | R$ 7.206 | 5 | – | – | – | – |
+| Pacaembu | R$ 9.559 | 23 | R$ 53,3 | 7 | 6,69% | – |
+| Palmas do Tremembé | R$ 4.790 | 12 | – | – | – | – |
+| Parada Inglesa | R$ 6.186 | 45 | – | – | – | – |
+| Parada XV de Novembro | – | – | R$ 22,5 | 5 | – | – |
+| Paraíso | R$ 11.534 | 28 | R$ 43,5 | 10 | 4,53% | – |
+| Parque | R$ 2.375 | 5 | – | – | – | – |
+| Parque Alto do Rio Bonito | R$ 3.416 | 5 | – | – | – | – |
+| Parque América | R$ 4.003 | 8 | – | – | – | – |
+| Parque Anhangüera (São Domingos) | R$ 3.257 | 5 | – | – | – | – |
+| Parque Belém | R$ 1.872 | 6 | – | – | – | – |
+| Parque Boturussu | R$ 4.885 | 11 | R$ 27,9 | 8 | 6,85% | – |
+| Parque Casa de Pedra | R$ 4.418 | 12 | – | – | – | – |
+| Parque Císper | R$ 3.361 | 10 | – | – | – | – |
+| Parque Cocaia | R$ 1.860 | 6 | – | – | – | – |
+| Parque Colonial | R$ 8.212 | 8 | R$ 49,1 | 5 | 7,17% | – |
+| Parque Continental | R$ 5.814 | 5 | R$ 35,4 | 6 | 7,31% | – |
+| Parque Cruzeiro do Sul | R$ 5.259 | 10 | – | – | – | – |
+| Parque da Lapa | R$ 6.312 | 7 | – | – | – | – |
+| Parque da Mooca | R$ 7.143 | 9 | R$ 40,8 | 11 | 6,85% | – |
+| Parque da Vila Prudente | R$ 5.556 | 13 | – | – | – | – |
+| Parque das Árvores | R$ 3.796 | 8 | – | – | – | – |
+| Parque do Carmo | R$ 6.030 | 10 | R$ 20,9 | 5 | 4,16% | – |
+| Parque dos Bancários | R$ 4.286 | 6 | – | – | – | – |
+| Parque dos Príncipes | R$ 5.738 | 8 | – | – | – | – |
+| Parque Edu Chaves | R$ 5.362 | 5 | – | – | – | – |
+| Parque Fernanda | R$ 5.472 | 6 | – | – | – | – |
+| Parque Fongaro | R$ 3.478 | 5 | – | – | – | – |
+| Parque Grajaú | R$ 2.869 | 9 | – | – | – | – |
+| Parque Guaianazes | R$ 5.985 | 7 | – | – | – | – |
+| Parque Guarani | R$ 4.550 | 12 | – | – | – | – |
+| Parque Independência | R$ 3.910 | 5 | – | – | – | – |
+| Parque Ipê | R$ 4.127 | 5 | – | – | – | – |
+| Parque Itaberaba | R$ 3.988 | 9 | – | – | – | – |
+| Parque Jabaquara | R$ 4.414 | 23 | – | – | – | – |
+| Parque Luis Mucciolo | R$ 4.198 | 6 | – | – | – | – |
+| Parque Malagoli | R$ 3.933 | 5 | – | – | – | – |
+| Parque Mandaqui | R$ 5.568 | 24 | – | – | – | – |
+| Parque Maria Domitila | R$ 4.434 | 6 | R$ 38,0 | 9 | 10,28% | – |
+| Parque Maria Helena | – | – | R$ 24,4 | 6 | – | – |
+| Parque Maria Luiza | R$ 3.718 | 12 | – | – | – | – |
+| Parque Monteiro Soares | R$ 5.200 | 7 | – | – | – | – |
+| Parque Munhoz | R$ 4.482 | 7 | – | – | – | – |
+| Parque Palmas do Tremembé | R$ 5.894 | 5 | – | – | – | – |
+| Parque Panamericano | R$ 3.582 | 36 | – | – | – | – |
+| Parque Paulistano | R$ 5.332 | 6 | R$ 25,4 | 7 | 5,72% | – |
+| Parque Penha | R$ 2.896 | 8 | – | – | – | – |
+| Parque Peruche | R$ 5.256 | 11 | – | – | – | – |
+| Parque Planalto | R$ 3.988 | 8 | – | – | – | – |
+| Parque Ramos Freitas | R$ 3.836 | 8 | – | – | – | – |
+| Parque Recreio | R$ 1.300 | 5 | – | – | – | – |
+| Parque Regina | R$ 4.776 | 7 | R$ 27,5 | 5 | 6,91% | – |
+| Parque Residencial Cocaia | R$ 3.760 | 5 | – | – | – | – |
+| Parque Residencial Oratorio | R$ 4.564 | 9 | – | – | – | – |
+| Parque Rodrigues Alves | R$ 6.278 | 6 | – | – | – | – |
+| Parque Santa Madalena | R$ 3.905 | 9 | – | – | – | – |
+| Parque São Domingos | R$ 6.667 | 9 | – | – | – | – |
+| Parque São Jorge | R$ 4.751 | 6 | – | – | – | – |
+| Parque São José | R$ 2.600 | 5 | – | – | – | – |
+| Parque São Lucas | R$ 4.601 | 136 | R$ 26,3 | 12 | 6,86% | – |
+| Parque São Luís | R$ 4.915 | 6 | R$ 27,0 | 5 | 6,59% | – |
+| Parque São Rafael | R$ 3.167 | 9 | R$ 17,6 | 9 | 6,67% | – |
+| Parque Savoy City | – | – | R$ 23,6 | 11 | – | – |
+| Parque Tomas Saraiva | R$ 4.283 | 8 | – | – | – | – |
+| Parque Vitória | R$ 5.646 | 14 | R$ 32,5 | 5 | 6,91% | – |
+| Patriarca | R$ 5.000 | 7 | – | – | – | – |
+| Penha | R$ 6.110 | 20 | – | – | – | – |
+| Penha de França | R$ 5.200 | 81 | R$ 34,7 | 7 | 8,01% | – |
+| Perdizes | R$ 8.696 | 19 | R$ 37,8 | 5 | 5,22% | – |
+| Pinheiros | R$ 13.058 | 33 | R$ 52,5 | 17 | 4,82% | – |
+| Piqueri | R$ 4.635 | 6 | – | – | – | – |
+| Pirituba | R$ 4.722 | 7 | – | – | – | – |
+| Planalto Paulista | R$ 6.545 | 136 | R$ 33,8 | 22 | 6,20% | – |
+| Ponte Rasa | R$ 5.000 | 11 | – | – | – | – |
+| Pq Nações Unidas | R$ 3.880 | 6 | – | – | – | – |
+| Pq. Panamericano | R$ 2.871 | 9 | – | – | – | – |
+| Praça da Árvore | R$ 6.168 | 20 | – | – | – | – |
+| Quarta Parada | R$ 5.500 | 7 | – | – | – | – |
+| Real Parque | R$ 7.120 | 7 | – | – | – | – |
+| Recanto Campo Belo | R$ 2.333 | 5 | – | – | – | – |
+| Retiro Morumbi | R$ 9.676 | 6 | – | – | – | – |
+| Rio Pequeno | R$ 4.231 | 13 | – | – | – | – |
+| Sacomã | R$ 4.344 | 40 | R$ 31,4 | 5 | 8,68% | – |
+| Santa Teresinha | R$ 6.138 | 35 | – | – | – | – |
+| Santana | R$ 6.287 | 75 | R$ 34,5 | 10 | 6,58% | – |
+| Santo Amaro | R$ 7.881 | 68 | R$ 51,2 | 14 | 7,80% | – |
+| São João Clímaco | R$ 4.798 | 9 | – | – | – | – |
+| São Mateus | R$ 3.262 | 6 | – | – | – | – |
+| São Miguel | R$ 6.167 | 5 | – | – | – | – |
+| São Miguel Paulista | R$ 4.238 | 64 | – | – | – | – |
+| Sapopemba | R$ 4.748 | 6 | R$ 23,1 | 8 | 5,84% | – |
+| Saúde | R$ 6.000 | 97 | R$ 23,1 | 12 | 4,62% | – |
+| Sítio da Figueira | R$ 4.408 | 10 | – | – | – | – |
+| Sumaré | R$ 10.792 | 15 | – | – | – | – |
+| Sumarezinho | R$ 11.654 | 6 | – | – | – | – |
+| Tatuapé | R$ 6.364 | 157 | R$ 42,2 | 48 | 7,96% | – |
+| Tremembé | R$ 5.321 | 96 | – | – | – | – |
+| Tucuruvi | R$ 6.138 | 63 | – | – | – | – |
+| Vila Água Funda | R$ 3.923 | 5 | – | – | – | – |
+| Vila Albertina | R$ 6.738 | 18 | – | – | – | – |
+| Vila Alexandria | R$ 4.483 | 6 | – | – | – | – |
+| Vila Alpina | R$ 5.100 | 55 | – | – | – | – |
+| Vila Amália | R$ 5.006 | 5 | – | – | – | – |
+| Vila Amélia | R$ 4.293 | 5 | – | – | – | – |
+| Vila Andrade | R$ 7.037 | 5 | – | – | – | – |
+| Vila Anglo Brasileira | R$ 8.060 | 6 | – | – | – | – |
+| Vila Anhangüera | R$ 6.101 | 62 | – | – | – | – |
+| Vila Antonieta | R$ 4.720 | 35 | – | – | – | – |
+| Vila Antonina | R$ 4.092 | 6 | – | – | – | – |
+| Vila Aricanduva | R$ 5.272 | 28 | – | – | – | – |
+| Vila Aurora | R$ 4.167 | 9 | – | – | – | – |
+| Vila Aurora (Zona Norte) | R$ 5.122 | 20 | – | – | – | – |
+| Vila Babilônia | R$ 5.108 | 9 | – | – | – | – |
+| Vila Beatriz | R$ 5.500 | 5 | – | – | – | – |
+| Vila Bela | R$ 5.733 | 9 | R$ 23,3 | 5 | 4,88% | – |
+| Vila Bertioga | R$ 6.301 | 17 | – | – | – | – |
+| Vila Brasilina | R$ 3.716 | 12 | – | – | – | – |
+| Vila Brasílio Machado | R$ 6.409 | 26 | – | – | – | – |
+| Vila Buenos Aires | R$ 3.390 | 8 | – | – | – | – |
+| Vila Butantã | R$ 4.425 | 7 | – | – | – | – |
+| Vila Califórnia | R$ 5.057 | 18 | – | – | – | – |
+| Vila Campestre | R$ 4.592 | 45 | – | – | – | – |
+| Vila Carioca | R$ 4.250 | 5 | – | – | – | – |
+| Vila Carmosina | R$ 3.624 | 8 | – | – | – | – |
+| Vila Carrão | R$ 6.094 | 252 | R$ 35,5 | 14 | 6,99% | – |
+| Vila Clementino | R$ 8.328 | 138 | R$ 47,9 | 45 | 6,90% | – |
+| Vila Congonhas | R$ 7.909 | 9 | – | – | – | – |
+| Vila Constança | R$ 4.977 | 14 | – | – | – | – |
+| Vila Cordeiro | R$ 7.400 | 37 | R$ 44,5 | 8 | 7,22% | – |
+| Vila Cruzeiro | R$ 6.597 | 12 | – | – | – | – |
+| Vila Curuçá | R$ 4.571 | 11 | – | – | – | – |
+| Vila da Saúde | R$ 6.019 | 25 | – | – | – | – |
+| Vila Dalila | R$ 4.778 | 8 | – | – | – | – |
+| Vila Dalva | R$ 3.750 | 6 | – | – | – | – |
+| Vila das Mercês | R$ 4.249 | 10 | – | – | – | – |
+| Vila Deodoro | R$ 7.324 | 8 | – | – | – | – |
+| Vila Diva (Zona Leste) | R$ 4.117 | 6 | – | – | – | – |
+| Vila do Bosque | R$ 6.579 | 6 | – | – | – | – |
+| Vila do Castelo | R$ 5.012 | 5 | – | – | – | – |
+| Vila do Encontro | R$ 4.304 | 15 | – | – | – | – |
+| Vila Dom Pedro I | R$ 6.828 | 18 | – | – | – | – |
+| Vila Dom Pedro II | R$ 6.125 | 19 | – | – | – | – |
+| Vila dos Remédios | R$ 5.000 | 5 | – | – | – | – |
+| Vila Ema | R$ 4.728 | 88 | – | – | – | – |
+| Vila Esperança | R$ 5.094 | 22 | – | – | – | – |
+| Vila Ester | R$ 5.840 | 10 | – | – | – | – |
+| Vila Fachini | R$ 3.963 | 62 | – | – | – | – |
+| Vila Fernandes | R$ 4.941 | 7 | – | – | – | – |
+| Vila Firmiano Pinto | R$ 6.450 | 23 | – | – | – | – |
+| Vila Formosa | R$ 5.351 | 220 | R$ 26,1 | 24 | 5,85% | – |
+| Vila Gomes | R$ 5.642 | 10 | – | – | – | – |
+| Vila Gomes Cardim | R$ 7.282 | 52 | R$ 41,2 | 21 | 6,79% | – |
+| Vila Graciosa | R$ 3.669 | 5 | – | – | – | – |
+| Vila Granada | R$ 4.917 | 15 | – | – | – | – |
+| Vila Guarani | R$ 5.732 | 9 | – | – | – | – |
+| Vila Guarani (Zona Sul) | R$ 5.257 | 58 | R$ 37,8 | 5 | 8,63% | – |
+| Vila Guilherme | R$ 7.042 | 19 | – | – | – | – |
+| Vila Guilhermina | R$ 6.134 | 17 | – | – | – | – |
+| Vila Gumercindo | R$ 5.722 | 74 | R$ 30,9 | 8 | 6,48% | – |
+| Vila Gustavo | R$ 5.582 | 12 | – | – | – | – |
+| Vila Ida | R$ 9.775 | 8 | – | – | – | – |
+| Vila Independência | R$ 4.722 | 9 | – | – | – | – |
+| Vila Industrial | R$ 3.750 | 29 | – | – | – | – |
+| Vila Invernada | R$ 5.000 | 26 | – | – | – | – |
+| Vila Ipojuca | R$ 5.661 | 8 | – | – | – | – |
+| Vila Irmãos Arnoni | R$ 4.802 | 24 | – | – | – | – |
+| Vila Isa | R$ 4.827 | 6 | – | – | – | – |
+| Vila Isolina Mazzei | R$ 6.270 | 12 | – | – | – | – |
+| Vila Ivg | R$ 4.892 | 9 | – | – | – | – |
+| Vila Ivone | R$ 4.379 | 10 | – | – | – | – |
+| Vila Jacuí | R$ 6.050 | 7 | – | – | – | – |
+| Vila Jaguara | R$ 2.752 | 5 | – | – | – | – |
+| Vila Libanesa | R$ 4.711 | 6 | – | – | – | – |
+| Vila Lúcia | R$ 4.475 | 7 | – | – | – | – |
+| Vila Madalena | R$ 10.422 | 61 | R$ 39,7 | 6 | 4,57% | – |
+| Vila Mafra | R$ 5.750 | 18 | – | – | – | – |
+| Vila Marari | R$ 4.739 | 16 | – | – | – | – |
+| Vila Margarida | R$ 4.494 | 5 | – | – | – | – |
+| Vila Maria Alta | R$ 6.000 | 9 | – | – | – | – |
+| Vila Mariana | R$ 8.653 | 321 | R$ 42,3 | 110 | 5,87% | – |
+| Vila Marieta | R$ 3.625 | 7 | – | – | – | – |
+| Vila Mascote | R$ 5.530 | 12 | R$ 37,5 | 5 | 8,14% | – |
+| Vila Matilde | R$ 4.850 | 54 | – | – | – | – |
+| Vila Mazzei | R$ 4.941 | 81 | – | – | – | – |
+| Vila Medeiros | R$ 4.510 | 18 | – | – | – | – |
+| Vila Mirante | R$ 5.437 | 5 | – | – | – | – |
+| Vila Moinho Velho | R$ 5.575 | 34 | – | – | – | – |
+| Vila Monte Alegre | R$ 5.750 | 9 | – | – | – | – |
+| Vila Monumento | R$ 5.000 | 67 | R$ 31,1 | 10 | 7,46% | – |
+| Vila Moraes | R$ 4.690 | 54 | – | – | – | – |
+| Vila Moreira | R$ 6.790 | 5 | – | – | – | – |
+| Vila Morumbi | R$ 11.500 | 7 | – | – | – | – |
+| Vila Nair | R$ 5.436 | 17 | – | – | – | – |
+| Vila Nhocune | R$ 4.667 | 13 | – | – | – | – |
+| Vila Nivi | R$ 8.500 | 9 | – | – | – | – |
+| Vila Nova | R$ 3.509 | 5 | – | – | – | – |
+| Vila Nova Caledônia | R$ 6.956 | 5 | – | – | – | – |
+| Vila Nova Conceição | R$ 18.994 | 21 | – | – | – | – |
+| Vila Nova Jaraguá | R$ 2.960 | 5 | – | – | – | – |
+| Vila Nova Manchester | R$ 4.241 | 13 | – | – | – | – |
+| Vila Nova Mazzei | R$ 4.957 | 31 | – | – | – | – |
+| Vila Olímpia | R$ 11.017 | 24 | – | – | – | – |
+| Vila Olinda | R$ 5.392 | 10 | – | – | – | – |
+| Vila Oratório | R$ 4.859 | 6 | – | – | – | – |
+| Vila Paranaguá | R$ 4.488 | 14 | – | – | – | – |
+| Vila Parque Jabaquara | R$ 3.865 | 11 | – | – | – | – |
+| Vila Paulicéia | R$ 5.755 | 15 | – | – | – | – |
+| Vila Pedra Branca | R$ 5.086 | 5 | – | – | – | – |
+| Vila Penteado | R$ 3.850 | 5 | – | – | – | – |
+| Vila Pirajussara | R$ 6.207 | 47 | – | – | – | – |
+| Vila Polopoli | R$ 6.268 | 15 | – | – | – | – |
+| Vila Pompeia | R$ 6.667 | 7 | – | – | – | – |
+| Vila Primavera | R$ 4.192 | 15 | – | – | – | – |
+| Vila Princesa Isabel | – | – | R$ 18,1 | 5 | – | – |
+| Vila Progresso (Zona Norte) | R$ 4.979 | 14 | – | – | – | – |
+| Vila Prudente | R$ 6.615 | 7 | – | – | – | – |
+| Vila Prudente (Zona Leste) | R$ 5.631 | 52 | – | – | – | – |
+| Vila Ré | R$ 5.616 | 35 | – | – | – | – |
+| Vila Regente Feijó | R$ 5.889 | 51 | R$ 33,0 | 18 | 6,72% | – |
+| Vila Rica | R$ 2.694 | 7 | – | – | – | – |
+| Vila Romero | R$ 6.344 | 11 | – | – | – | – |
+| Vila Rosa | R$ 4.524 | 6 | – | – | – | – |
+| Vila Salete | R$ 5.618 | 6 | – | – | – | – |
+| Vila Santa Catarina | R$ 4.821 | 23 | – | – | – | – |
+| Vila Santa Clara | R$ 5.100 | 29 | – | – | – | – |
+| Vila Santa Isabel | R$ 6.400 | 35 | – | – | – | – |
+| Vila Santana | R$ 3.900 | 5 | – | – | – | – |
+| Vila Santo Estéfano | R$ 5.213 | 13 | – | – | – | – |
+| Vila Santo Estevão | R$ 6.970 | 6 | – | – | – | – |
+| Vila São Francisco | R$ 5.357 | 7 | – | – | – | – |
+| Vila São Geraldo | R$ 5.707 | 7 | – | – | – | – |
+| Vila São José | R$ 5.882 | 7 | – | – | – | – |
+| Vila São José (Ipiranga) | R$ 4.950 | 8 | – | – | – | – |
+| Vila São Silvestre | R$ 5.362 | 6 | – | – | – | – |
+| Vila Sônia | R$ 5.423 | 27 | – | – | – | – |
+| Vila Suzana | R$ 5.573 | 6 | – | – | – | – |
+| Vila Talarico | R$ 4.779 | 12 | – | – | – | – |
+| Vila Tiradentes | R$ 4.760 | 6 | – | – | – | – |
+| Vila Tolstoi | R$ 3.840 | 15 | – | – | – | – |
+| Vila Vera | R$ 6.282 | 8 | – | – | – | – |
+| Vila Zelina | R$ 6.195 | 10 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 2.690/m² (n=1628)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Anália Franco | R$ 4.930 | 7 | – | – | – | – |
+| Bosque da Saúde | R$ 3.667 | 9 | – | – | – | – |
+| Butantã | R$ 3.324 | 21 | – | – | – | – |
+| Campo Belo | R$ 6.571 | 5 | – | – | – | – |
+| Chácara Belenzinho | R$ 2.622 | 11 | – | – | – | – |
+| Chácara Califórnia | R$ 3.482 | 5 | – | – | – | – |
+| Chácara Mafalda | R$ 3.312 | 7 | – | – | – | – |
+| Cidade Líder | R$ 1.511 | 5 | – | – | – | – |
+| Cidade Mãe do Céu | R$ 6.292 | 7 | – | – | – | – |
+| Cidade Patriarca | R$ 2.320 | 7 | – | – | – | – |
+| Ermelino Matarazzo | R$ 2.377 | 10 | – | – | – | – |
+| Horto Florestal | R$ 1.060 | 9 | – | – | – | – |
+| Imirim | R$ 2.175 | 5 | – | – | – | – |
+| Ipiranga | R$ 4.753 | 26 | – | – | – | – |
+| Itaquera | R$ 1.400 | 11 | – | – | – | – |
+| Itu | R$ 162 | 10 | – | – | – | – |
+| Jabaquara | R$ 4.021 | 17 | – | – | – | – |
+| Jardim Belcito | R$ 842 | 6 | – | – | – | – |
+| Jardim Brasil (Zona Norte) | R$ 2.483 | 5 | – | – | – | – |
+| Jardim Jaçanã | R$ 1.409 | 5 | – | – | – | – |
+| Jardim Regina | R$ 3.300 | 5 | – | – | – | – |
+| Jardim Vila Formosa | R$ 3.015 | 7 | – | – | – | – |
+| Mandaqui | R$ 2.475 | 6 | – | – | – | – |
+| Mooca | R$ 4.444 | 11 | – | – | – | – |
+| Morumbi | R$ 4.161 | 6 | – | – | – | – |
+| Parque Boturussu | R$ 1.984 | 6 | – | – | – | – |
+| Parque São Lucas | R$ 2.493 | 12 | – | – | – | – |
+| Penha de França | R$ 3.407 | 27 | – | – | – | – |
+| Sacomã | R$ 2.893 | 6 | – | – | – | – |
+| Santana | R$ 3.400 | 7 | – | – | – | – |
+| Santo Amaro | R$ 4.846 | 9 | – | – | – | – |
+| São Miguel Paulista | R$ 1.855 | 9 | – | – | – | – |
+| Saúde | R$ 4.923 | 19 | – | – | – | – |
+| Tatuapé | R$ 5.990 | 43 | – | – | – | – |
+| Tremembé | R$ 1.586 | 13 | – | – | – | – |
+| Tucuruvi | R$ 5.012 | 13 | – | – | – | – |
+| Vila Alpina | R$ 2.102 | 8 | – | – | – | – |
+| Vila Brasílio Machado | R$ 2.752 | 5 | – | – | – | – |
+| Vila Carrão | R$ 3.880 | 35 | – | – | – | – |
+| Vila Clementino | R$ 7.848 | 14 | – | – | – | – |
+| Vila Cordeiro | R$ 5.536 | 5 | – | – | – | – |
+| Vila da Saúde | R$ 2.525 | 5 | – | – | – | – |
+| Vila Ema | R$ 3.462 | 8 | – | – | – | – |
+| Vila Esperança | R$ 3.786 | 5 | – | – | – | – |
+| Vila Fachini | R$ 2.500 | 7 | – | – | – | – |
+| Vila Formosa | R$ 3.593 | 69 | – | – | – | – |
+| Vila Guarani (Zona Sul) | R$ 5.098 | 7 | – | – | – | – |
+| Vila Gumercindo | R$ 3.704 | 11 | – | – | – | – |
+| Vila Industrial | R$ 2.320 | 5 | – | – | – | – |
+| Vila Invernada | R$ 3.009 | 9 | – | – | – | – |
+| Vila Irmãos Arnoni | R$ 1.742 | 6 | – | – | – | – |
+| Vila Jacuí | R$ 2.500 | 5 | – | – | – | – |
+| Vila Mariana | R$ 8.199 | 16 | – | – | – | – |
+| Vila Matilde | R$ 3.520 | 6 | – | – | – | – |
+| Vila Mazzei | R$ 2.302 | 5 | – | – | – | – |
+| Vila Moinho Velho | R$ 2.108 | 6 | – | – | – | – |
+| Vila Monumento | R$ 4.963 | 8 | – | – | – | – |
+| Vila Nair | R$ 3.125 | 5 | – | – | – | – |
+| Vila Prudente (Zona Leste) | R$ 3.630 | 11 | – | – | – | – |
+| Vila Regente Feijó | R$ 4.906 | 18 | – | – | – | – |
+
+### Salas comerciais, cidade toda: venda R$ 9.460/m² (n=491); aluguel R$ 48,0/m²/mês (n=1652); rendimento bruto do aluguel 6,09% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Aclimação | R$ 11.667 | 8 | R$ 73,4 | 6 | 7,55% | – |
+| Balneário São Francisco | – | – | R$ 30,2 | 5 | – | – |
+| Barra Funda | R$ 8.804 | 6 | R$ 50,0 | 5 | 6,82% | – |
+| Bela Vista | R$ 6.468 | 16 | R$ 54,3 | 11 | 10,07% | – |
+| Belenzinho | – | – | R$ 60,0 | 5 | – | – |
+| Bosque da Saúde | R$ 7.321 | 5 | – | – | – | – |
+| Brasilândia | – | – | R$ 40,0 | 5 | – | – |
+| Brooklin | – | – | R$ 55,2 | 6 | – | – |
+| Butantã | – | – | R$ 72,5 | 5 | – | – |
+| Cachoeirinha | – | – | R$ 34,2 | 6 | – | – |
+| Cambuci | – | – | R$ 48,0 | 5 | – | – |
+| Campo Belo | R$ 9.583 | 6 | – | – | – | – |
+| Canindé | – | – | R$ 41,6 | 6 | – | – |
+| Carrão | – | – | R$ 51,1 | 6 | – | – |
+| Centro | – | – | R$ 30,5 | 7 | – | – |
+| Centro Histórico | – | – | R$ 39,5 | 9 | – | – |
+| Cerqueira César | R$ 11.412 | 6 | – | – | – | – |
+| Chácara Belenzinho | – | – | R$ 25,0 | 7 | – | – |
+| Chácara Santana | – | – | R$ 52,7 | 6 | – | – |
+| Cidade Centenário | – | – | R$ 45,0 | 5 | – | – |
+| Cidade Mãe do Céu | – | – | R$ 60,0 | 5 | – | – |
+| Cidade São Mateus | – | – | R$ 53,8 | 7 | – | – |
+| Cidade Tiradentes | – | – | R$ 45,8 | 7 | – | – |
+| Consolação | R$ 8.393 | 7 | R$ 57,7 | 9 | 8,25% | – |
+| Guapira | – | – | R$ 40,4 | 6 | – | – |
+| Ipiranga | R$ 9.446 | 12 | R$ 42,2 | 19 | 5,36% | – |
+| Itaberaba | – | – | R$ 29,1 | 7 | – | – |
+| Itaim Bibi | R$ 14.596 | 6 | – | – | – | – |
+| Jabaquara | R$ 7.391 | 21 | R$ 44,1 | 21 | 7,16% | – |
+| Jaçanã | – | – | R$ 35,7 | 5 | – | – |
+| Jardim Anália Franco | R$ 15.405 | 5 | – | – | – | – |
+| Jardim Ângela | – | – | R$ 67,4 | 6 | – | – |
+| Jardim Aricanduva | – | – | R$ 34,0 | 7 | – | – |
+| Jardim Belém | – | – | R$ 44,0 | 7 | – | – |
+| Jardim Brasil (Zona Norte) | – | – | R$ 56,2 | 9 | – | – |
+| Jardim Brasília (Zona Leste) | – | – | R$ 37,2 | 5 | – | – |
+| Jardim Caboré | – | – | R$ 61,2 | 15 | – | – |
+| Jardim Celeste | – | – | R$ 41,7 | 5 | – | – |
+| Jardim Colorado | – | – | R$ 46,9 | 8 | – | – |
+| Jardim da Saúde | – | – | R$ 59,0 | 5 | – | – |
+| Jardim das Acácias | – | – | R$ 128,6 | 5 | – | – |
+| Jardim do Carmo | – | – | R$ 78,9 | 9 | – | – |
+| Jardim Dom Bosco | – | – | R$ 55,6 | 5 | – | – |
+| Jardim Esmeralda | – | – | R$ 55,0 | 5 | – | – |
+| Jardim Felicidade (Zona Oeste) | – | – | R$ 62,5 | 7 | – | – |
+| Jardim Guarapiranga | – | – | R$ 63,0 | 5 | – | – |
+| Jardim Helena | – | – | R$ 36,6 | 6 | – | – |
+| Jardim Itapemirim | – | – | R$ 50,0 | 6 | – | – |
+| Jardim Ivana | – | – | R$ 33,3 | 7 | – | – |
+| Jardim Londrina | – | – | R$ 57,9 | 7 | – | – |
+| Jardim Monte Kemel | – | – | R$ 80,0 | 5 | – | – |
+| Jardim Oriental | – | – | R$ 54,2 | 5 | – | – |
+| Jardim Paulista | R$ 10.872 | 16 | R$ 75,0 | 11 | 8,28% | – |
+| Jardim Paulistano | – | – | R$ 57,4 | 7 | – | – |
+| Jardim Penha | – | – | R$ 50,0 | 7 | – | – |
+| Jardim Planalto | – | – | R$ 42,9 | 9 | – | – |
+| Jardim Regina | – | – | R$ 41,2 | 7 | – | – |
+| Jardim Rio Douro | – | – | R$ 45,8 | 5 | – | – |
+| Jardim Rosana | – | – | R$ 45,5 | 7 | – | – |
+| Jardim Sao Paulo(Zona Norte) | – | – | R$ 50,0 | 5 | – | – |
+| Jardim São Ricardo | – | – | R$ 61,7 | 8 | – | – |
+| Jardim Sapopemba | – | – | R$ 28,3 | 7 | – | – |
+| Jardim Três Marias | – | – | R$ 65,6 | 5 | – | – |
+| Lapa | R$ 7.273 | 5 | R$ 37,7 | 10 | 6,22% | – |
+| Liberdade | R$ 7.667 | 6 | R$ 47,0 | 10 | 7,36% | – |
+| Mirandópolis | – | – | R$ 54,2 | 5 | – | – |
+| Moema | R$ 10.596 | 7 | R$ 75,0 | 5 | 8,49% | – |
+| Mooca | – | – | R$ 61,1 | 7 | – | – |
+| Nossa Senhora do Ó | – | – | R$ 44,4 | 6 | – | – |
+| Paraíso | – | – | R$ 61,7 | 13 | – | – |
+| Parelheiros | – | – | R$ 58,5 | 8 | – | – |
+| Parque América | – | – | R$ 41,0 | 6 | – | – |
+| Parque Artur Alvim | – | – | R$ 60,0 | 7 | – | – |
+| Parque Brasil | – | – | R$ 100,0 | 5 | – | – |
+| Parque Císper | – | – | R$ 50,0 | 9 | – | – |
+| Parque do Morumbi | – | – | R$ 148,1 | 5 | – | – |
+| Parque Mandaqui | – | – | R$ 36,4 | 9 | – | – |
+| Parque Maria Luiza | – | – | R$ 39,5 | 8 | – | – |
+| Parque Residencial Cocaia | – | – | R$ 21,2 | 6 | – | – |
+| Parque Santa Amélia | – | – | R$ 79,9 | 6 | – | – |
+| Parque Santa Madalena | – | – | R$ 32,9 | 5 | – | – |
+| Parque São Lucas | – | – | R$ 30,0 | 7 | – | – |
+| Perdizes | R$ 10.531 | 12 | R$ 87,1 | 6 | 9,92% | – |
+| Pinheiros | R$ 14.103 | 13 | R$ 94,4 | 9 | 8,03% | – |
+| República | R$ 3.893 | 6 | R$ 166,7 | 5 | 51,39% | – |
+| Santana | R$ 10.490 | 43 | R$ 47,8 | 25 | 5,47% | – |
+| Santo Amaro | R$ 8.930 | 12 | R$ 60,0 | 11 | 8,06% | – |
+| São Miguel Paulista | – | – | R$ 50,0 | 5 | – | – |
+| Saúde | R$ 8.800 | 10 | R$ 35,7 | 5 | 4,87% | – |
+| Tatuapé | R$ 14.571 | 23 | R$ 71,7 | 65 | 5,90% | – |
+| Tucuruvi | R$ 8.333 | 5 | R$ 51,4 | 7 | 7,40% | – |
+| Vila Carrão | R$ 10.000 | 9 | R$ 46,4 | 9 | 5,57% | – |
+| Vila Clementino | R$ 9.546 | 13 | R$ 52,4 | 6 | 6,59% | – |
+| Vila Formosa | – | – | R$ 52,5 | 7 | – | – |
+| Vila Gomes Cardim | – | – | R$ 85,2 | 13 | – | – |
+| Vila Mariana | R$ 9.480 | 26 | R$ 57,5 | 24 | 7,28% | – |
+| Vila Monte Alegre | R$ 7.977 | 8 | R$ 43,3 | 5 | 6,51% | – |
+| Vila Olímpia | – | – | R$ 102,4 | 7 | – | – |
+| Vila Prudente (Zona Leste) | R$ 11.071 | 5 | R$ 55,2 | 6 | 5,98% | – |
 
 
 Metodologia: https://acorridadosbairros.com.br/metodologia/ · Dados abertos CC BY 4.0: https://acorridadosbairros.com.br/dados.csv · Imprensa: https://acorridadosbairros.com.br/imprensa/
