@@ -1,83 +1,79 @@
 cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
-Palmas,1003 Sul,casa,venda,5046.3,4204.6,6000.0,21,,setembro/2026
+Palmas,1003 Sul,casa,venda,4986.9,4097.9,6000.0,20,,setembro/2026
 Palmas,109 Sul,casa,venda,12024.4,11261.3,14218.0,5,,setembro/2026
 Palmas,110 Norte,casa,venda,4944.4,4033.9,7287.5,7,,setembro/2026
 Palmas,110 Sul,casa,venda,6693.4,5542.6,8627.7,8,,setembro/2026
-Palmas,1103 Sul,casa,venda,5203.3,3839.7,5726.3,19,,setembro/2026
+Palmas,1103 Sul,casa,venda,5242.5,3875.2,5808.8,20,,setembro/2026
 Palmas,1104 Sul,casa,venda,5351.4,5301.2,5714.3,5,,setembro/2026
 Palmas,1204 Sul,casa,venda,3063.2,2241.7,4264.2,8,,setembro/2026
-Palmas,1205 Sul,casa,venda,5952.4,5766.4,6089.9,7,,setembro/2026
-Palmas,1305 Sul,casa,venda,4228.6,3420.0,5280.6,6,,setembro/2026
-Palmas,1404 Sul,casa,venda,5147.1,3703.7,5640.0,15,,setembro/2026
-Palmas,1406 Sul,casa,venda,4761.9,4368.9,5166.7,13,,setembro/2026
-Palmas,1503 Sul,casa,venda,5000.0,3629.6,5652.2,45,,setembro/2026
-Palmas,1504 Sul,casa,venda,4869.4,3250.0,6617.6,13,,setembro/2026
-Palmas,1506 Sul,casa,venda,5100.3,3489.1,5567.8,22,,setembro/2026
-Palmas,1601 Sul,casa,venda,3489.9,3313.5,3774.4,6,,setembro/2026
-Palmas,1603 Sul,casa,venda,4358.4,3858.1,4851.4,12,,setembro/2026
+Palmas,1205 Sul,casa,venda,5766.4,4522.8,6052.7,10,,setembro/2026
+Palmas,1305 Sul,casa,venda,4857.1,3480.0,5394.7,7,,setembro/2026
+Palmas,1404 Sul,casa,venda,5002.0,3518.5,5525.1,14,,setembro/2026
+Palmas,1406 Sul,casa,venda,4662.5,4057.9,5082.0,12,,setembro/2026
+Palmas,1503 Sul,casa,venda,4952.1,3599.1,5625.4,44,,setembro/2026
+Palmas,1504 Sul,casa,venda,4739.9,3186.7,5658.9,12,,setembro/2026
+Palmas,1506 Sul,casa,venda,5013.2,3684.1,5514.9,23,,setembro/2026
+Palmas,1601 Sul,casa,venda,3709.5,3371.2,4997.8,8,,setembro/2026
+Palmas,1603 Sul,casa,venda,4565.2,3881.3,5997.3,15,,setembro/2026
 Palmas,204 Sul,casa,venda,7250.6,6215.1,10046.9,6,,setembro/2026
-Palmas,205 Norte,casa,venda,11808.1,10000.0,11904.8,5,,setembro/2026
-Palmas,208 Norte,casa,venda,5157.6,4156.6,6184.3,6,,setembro/2026
 Palmas,209 Sul,casa,venda,13246.3,12585.7,13887.8,6,,setembro/2026
 Palmas,303 Sul,casa,venda,5778.9,5015.1,7984.8,6,,setembro/2026
-Palmas,305 Sul,casa,venda,5300.0,4861.1,6571.4,9,,setembro/2026
-Palmas,307 Sul,casa,venda,4242.4,4077.7,5500.0,9,,setembro/2026
-Palmas,309 Sul,casa,venda,6645.6,4935.5,7759.5,30,,setembro/2026
+Palmas,305 Sul,casa,venda,5823.8,4926.8,7282.9,10,,setembro/2026
+Palmas,307 Sul,casa,venda,4217.0,4099.9,5274.7,10,,setembro/2026
+Palmas,309 Sul,casa,venda,6559.9,4935.5,7687.9,30,,setembro/2026
 Palmas,403 Sul,casa,venda,5301.6,4846.1,6002.9,6,,setembro/2026
-Palmas,404 Sul,casa,venda,6764.7,5274.7,7857.1,9,,setembro/2026
-Palmas,405 Sul,casa,venda,5625.0,4332.1,7008.6,18,,setembro/2026
-Palmas,407 Sul,casa,venda,5681.0,4455.1,6605.0,18,,setembro/2026
-Palmas,409 Sul,casa,venda,5694.3,4784.5,6819.9,19,,setembro/2026
-Palmas,504 Norte,casa,venda,5333.3,4545.5,5854.1,5,,setembro/2026
-Palmas,505 Sul,casa,venda,6562.5,5633.3,8047.6,45,,setembro/2026
-Palmas,507 Sul,casa,venda,5080.2,3841.7,6292.0,27,,setembro/2026
+Palmas,404 Sul,casa,venda,6795.6,5586.5,8000.9,10,,setembro/2026
+Palmas,405 Sul,casa,venda,5918.5,4347.7,7004.9,20,,setembro/2026
+Palmas,407 Sul,casa,venda,5681.0,4511.0,6593.2,20,,setembro/2026
+Palmas,409 Sul,casa,venda,5694.3,4784.5,6860.1,19,,setembro/2026
+Palmas,505 Sul,casa,venda,6574.9,5678.7,8105.7,46,,setembro/2026
+Palmas,507 Sul,casa,venda,5141.9,3862.5,6284.1,28,,setembro/2026
 Palmas,509 Sul,casa,venda,6222.4,5582.5,7552.4,10,,setembro/2026
 Palmas,603 Sul,casa,venda,4267.2,4063.6,5358.9,8,,setembro/2026
-Palmas,604 Norte,casa,venda,5100.7,3369.8,6446.8,18,,setembro/2026
+Palmas,604 Norte,casa,venda,5000.0,3260.9,6210.9,13,,setembro/2026
 Palmas,605 Sul,casa,venda,6536.5,5434.8,7170.2,10,,setembro/2026
 Palmas,704 Norte,casa,venda,6030.4,5078.1,6399.4,10,,setembro/2026
 Palmas,704 Sul,casa,venda,3864.7,3708.4,4564.6,7,,setembro/2026
-Palmas,804 Norte,casa,venda,3609.0,2885.6,4461.4,7,,setembro/2026
-Palmas,806 Sul,casa,venda,6345.7,4931.3,6760.3,8,,setembro/2026
-Palmas,904 Sul,casa,venda,3929.9,3322.4,4503.6,8,,setembro/2026
-Palmas,906 Sul,casa,venda,4447.1,3807.6,5383.3,8,,setembro/2026
+Palmas,804 Norte,casa,venda,2972.2,2799.1,3609.0,5,,setembro/2026
+Palmas,806 Sul,casa,venda,6345.7,4931.3,6802.8,8,,setembro/2026
+Palmas,904 Sul,casa,venda,3693.2,2636.4,4411.8,9,,setembro/2026
+Palmas,906 Sul,casa,venda,4794.9,3948.6,6159.8,10,,setembro/2026
 Palmas,Bertaville,casa,venda,4024.4,3378.4,4333.3,17,,setembro/2026
-Palmas,Graciosa - Orla 14,casa,venda,5227.3,4008.6,7201.9,9,,setembro/2026
+Palmas,Graciosa - Orla 14,casa,venda,5424.9,4309.8,7733.4,10,,setembro/2026
 Palmas,Jardim Aureny III,casa,venda,3706.9,3490.2,3883.3,10,,setembro/2026
 Palmas,Loteamento Caribe,casa,venda,9432.2,7467.4,10350.8,15,,setembro/2026
 Palmas,Loteamento Residencial Polinésia,casa,venda,9493.7,7900.0,9558.8,5,,setembro/2026
-Palmas,Plano Diretor Norte (quadra não informada),casa,venda,4805.9,3437.5,6466.4,34,,setembro/2026
-Palmas,Plano Diretor Sul (quadra não informada),casa,venda,5156.2,3800.3,8057.5,175,7.56,setembro/2026
-Palmas,Plano Diretor Sul (quadra não informada),casa,aluguel,32.5,19.4,36.1,5,7.56,setembro/2026
+Palmas,Plano Diretor Norte (quadra não informada),casa,venda,4000.0,3037.4,4898.0,25,,setembro/2026
+Palmas,Plano Diretor Sul (quadra não informada),casa,venda,5123.3,3796.7,7674.0,170,7.61,setembro/2026
+Palmas,Plano Diretor Sul (quadra não informada),casa,aluguel,32.5,19.4,36.1,5,7.61,setembro/2026
 Palmas,105 Norte,apartamento,venda,8478.3,7971.5,10049.7,11,,setembro/2026
 Palmas,106 Norte,apartamento,venda,8394.2,7180.9,8888.9,9,,setembro/2026
 Palmas,106 Sul,apartamento,venda,6965.7,4879.3,7745.0,6,,setembro/2026
 Palmas,110 Norte,apartamento,venda,8988.8,8620.7,9400.0,5,,setembro/2026
 Palmas,1504 Sul,apartamento,aluguel,45.5,41.8,46.6,6,,setembro/2026
 Palmas,204 Sul,apartamento,venda,7788.8,6857.0,8485.7,15,,setembro/2026
-Palmas,205 Sul,apartamento,venda,8333.3,7732.7,9145.9,11,,setembro/2026
-Palmas,206 Sul,apartamento,venda,6924.1,5433.8,8030.4,10,,setembro/2026
+Palmas,205 Sul,apartamento,venda,8156.0,7730.0,9033.6,10,,setembro/2026
+Palmas,206 Sul,apartamento,venda,6392.9,5363.2,8389.2,8,,setembro/2026
 Palmas,207 Sul,apartamento,venda,9074.1,8909.1,9434.0,5,,setembro/2026
 Palmas,208 Sul,apartamento,venda,7142.9,6324.1,7857.1,5,,setembro/2026
 Palmas,306 Sul,apartamento,venda,7654.2,7298.4,7793.4,8,,setembro/2026
 Palmas,308 Sul,apartamento,venda,7083.3,6566.3,7880.4,9,,setembro/2026
 Palmas,404 Sul,apartamento,venda,11758.4,9047.6,14741.1,17,,setembro/2026
-Palmas,406 Norte,apartamento,venda,4883.0,4497.4,5169.2,7,,setembro/2026
-Palmas,603 Sul,apartamento,venda,7948.7,7142.9,10833.3,5,,setembro/2026
+Palmas,603 Sul,apartamento,venda,8893.7,7344.3,10584.7,6,,setembro/2026
 Palmas,706 Sul,apartamento,venda,8081.9,7596.2,8522.7,9,,setembro/2026
 Palmas,806 Sul,apartamento,venda,5476.2,4563.2,5937.5,9,,setembro/2026
-Palmas,Graciosa - Orla 14,apartamento,venda,13194.4,11236.6,15046.5,71,5.62,setembro/2026
+Palmas,Graciosa - Orla 14,apartamento,venda,13189.3,11201.8,15081.4,70,5.62,setembro/2026
 Palmas,Graciosa - Orla 14,apartamento,aluguel,61.8,50.4,79.4,18,5.62,setembro/2026
-Palmas,Plano Diretor Norte (quadra não informada),apartamento,venda,8944.6,6080.7,10498.5,24,8.16,setembro/2026
-Palmas,Plano Diretor Norte (quadra não informada),apartamento,aluguel,60.8,50.4,65.2,10,8.16,setembro/2026
-Palmas,Plano Diretor Sul (quadra não informada),apartamento,venda,9174.3,7682.3,11418.6,63,6.74,setembro/2026
-Palmas,Plano Diretor Sul (quadra não informada),apartamento,aluguel,51.5,42.8,58.3,9,6.74,setembro/2026
+Palmas,Plano Diretor Norte (quadra não informada),apartamento,venda,8250.0,5759.5,9994.2,19,8.84,setembro/2026
+Palmas,Plano Diretor Norte (quadra não informada),apartamento,aluguel,60.8,50.4,65.2,10,8.84,setembro/2026
+Palmas,Plano Diretor Sul (quadra não informada),apartamento,venda,9027.8,7618.7,11196.4,59,6.85,setembro/2026
+Palmas,Plano Diretor Sul (quadra não informada),apartamento,aluguel,51.5,42.8,58.3,9,6.85,setembro/2026
 Palmas,505 Sul,terreno,venda,1043.6,753.1,1194.4,5,,setembro/2026
 Palmas,Bertaville,terreno,venda,347.7,311.1,367.0,8,,setembro/2026
 Palmas,Loteamento Caribe,terreno,venda,918.2,812.5,1083.8,10,,setembro/2026
 Palmas,Loteamento Residencial Polinésia,terreno,venda,632.5,628.1,695.3,5,,setembro/2026
 Palmas,Plano Diretor Norte (quadra não informada),terreno,venda,772.6,628.1,1111.1,9,,setembro/2026
-Palmas,Plano Diretor Sul (quadra não informada),terreno,venda,957.8,666.2,1388.9,40,,setembro/2026
+Palmas,Plano Diretor Sul (quadra não informada),terreno,venda,943.4,663.1,1347.2,39,,setembro/2026
 Palmas,104 Norte,sala,aluguel,41.7,36.7,70.0,5,,setembro/2026
 Palmas,Plano Diretor Sul (quadra não informada),sala,venda,11785.7,10700.4,14102.8,7,5.09,setembro/2026
 Palmas,Plano Diretor Sul (quadra não informada),sala,aluguel,50.0,42.3,65.5,7,5.09,setembro/2026

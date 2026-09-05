@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 36 cidades de Santa Catarina, São Paulo, Tocantins, Rondônia, Espírito Santo, Amapá, Roraima, Sergipe, Rio Grande do Norte, Paraíba e Mato Grosso, Brasil, bairro por bairro, a partir de 189.882 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 37 cidades de Santa Catarina, São Paulo, Tocantins, Rondônia, Espírito Santo, Amapá, Roraima, Sergipe, Rio Grande do Norte, Paraíba e Mato Grosso, Brasil, bairro por bairro, a partir de 191.279 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 ## Cidades (dados por bairro)
 
@@ -14,6 +14,7 @@
 - [Blumenau](https://acorridadosbairros.com.br/blumenau/): mediana apartamentos R$ 7.812/m² (venda)
 - [São Bento do Sul](https://acorridadosbairros.com.br/sao-bento-do-sul/): mediana apartamentos R$ 5.833/m² (venda)
 - [São Francisco do Sul](https://acorridadosbairros.com.br/sao-francisco-do-sul/): mediana apartamentos R$ 7.000/m² (venda)
+- [Pomerode](https://acorridadosbairros.com.br/pomerode/): mediana apartamentos R$ 7.327/m² (venda)
 - [Brusque](https://acorridadosbairros.com.br/brusque/): mediana apartamentos R$ 7.448/m² (venda)
 - [São José](https://acorridadosbairros.com.br/sao-jose/): mediana apartamentos R$ 7.774/m² (venda)
 - [Palhoça](https://acorridadosbairros.com.br/palhoca/): mediana apartamentos R$ 7.661/m² (venda)
@@ -37,7 +38,7 @@
 - [Boa Vista](https://acorridadosbairros.com.br/rr/boa-vista/): mediana apartamentos R$ 5.462/m² (venda)
 - [Aracaju](https://acorridadosbairros.com.br/se/aracaju/): mediana apartamentos R$ 5.179/m² (venda)
 - [Natal](https://acorridadosbairros.com.br/rn/natal/): mediana apartamentos R$ 6.161/m² (venda)
-- [João Pessoa](https://acorridadosbairros.com.br/pb/joao-pessoa/): mediana apartamentos R$ 9.554/m² (venda)
+- [João Pessoa](https://acorridadosbairros.com.br/pb/joao-pessoa/): mediana apartamentos R$ 9.505/m² (venda)
 - [Cuiabá](https://acorridadosbairros.com.br/mt/cuiaba/): mediana apartamentos R$ 6.667/m² (venda)
 - [São Paulo](https://acorridadosbairros.com.br/sp/sao-paulo/): mediana apartamentos R$ 9.677/m² (venda)
 
