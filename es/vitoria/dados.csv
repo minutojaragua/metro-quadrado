@@ -1,0 +1,46 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Vitória,Barro Vermelho,apartamento,venda,16797.6,14188.8,20145.6,56,4.76,setembro/2026
+Vitória,Barro Vermelho,apartamento,aluguel,66.7,55.6,79.4,15,4.76,setembro/2026
+Vitória,Bento Ferreira,apartamento,venda,12496.8,9445.8,14104.7,58,4.5,setembro/2026
+Vitória,Bento Ferreira,apartamento,aluguel,46.9,36.9,47.5,6,4.5,setembro/2026
+Vitória,Centro,apartamento,venda,3578.9,2870.7,4954.0,14,,setembro/2026
+Vitória,Enseada do Suá,apartamento,venda,18400.3,14927.6,20766.3,72,3.9,setembro/2026
+Vitória,Enseada do Suá,apartamento,aluguel,59.8,52.8,74.5,16,3.9,setembro/2026
+Vitória,Ilha do Boi,apartamento,venda,10349.7,10112.8,11750.0,7,,setembro/2026
+Vitória,Jardim Camburi,apartamento,venda,13261.5,10900.5,15831.5,198,4.17,setembro/2026
+Vitória,Jardim Camburi,apartamento,aluguel,46.1,38.7,65.0,33,4.17,setembro/2026
+Vitória,Jardim da Penha,apartamento,venda,12054.0,9392.9,15373.7,121,4.86,setembro/2026
+Vitória,Jardim da Penha,apartamento,aluguel,48.8,45.8,61.5,26,4.86,setembro/2026
+Vitória,Maruípe,apartamento,venda,5430.6,4174.2,6853.4,6,,setembro/2026
+Vitória,Mata da Praia,apartamento,venda,17386.4,14375.5,20356.6,56,3.64,setembro/2026
+Vitória,Mata da Praia,apartamento,aluguel,52.7,47.1,62.2,14,3.64,setembro/2026
+Vitória,Monte Belo,apartamento,venda,15113.9,8645.2,20993.2,6,,setembro/2026
+Vitória,Morada de Camburi,apartamento,venda,12416.0,10399.6,13397.1,6,,setembro/2026
+Vitória,Praia de Santa Helena,apartamento,venda,14285.7,10884.4,19259.3,9,,setembro/2026
+Vitória,Praia do Canto,apartamento,venda,17094.0,13861.3,23278.4,87,3.89,setembro/2026
+Vitória,Praia do Canto,apartamento,aluguel,55.4,43.5,65.8,20,3.89,setembro/2026
+Vitória,Praia do Suá,apartamento,venda,13970.6,11246.5,15508.3,23,,setembro/2026
+Vitória,Santa Helena,apartamento,venda,13418.1,11727.3,18635.2,33,,setembro/2026
+Vitória,Santa Lúcia,apartamento,venda,13096.1,8763.9,16490.1,44,5.45,setembro/2026
+Vitória,Santa Lúcia,apartamento,aluguel,59.5,44.2,60.3,8,5.45,setembro/2026
+Vitória,Santa Luíza,apartamento,venda,18275.2,14655.3,22408.1,8,,setembro/2026
+Vitória,Fradinhos,casa,venda,7023.8,3890.3,7371.4,5,,setembro/2026
+Vitória,Ilha do Boi,casa,venda,13399.0,11137.9,15389.1,8,,setembro/2026
+Vitória,Jardim Camburi,casa,venda,10613.4,9437.5,11806.8,12,3.34,setembro/2026
+Vitória,Jardim Camburi,casa,aluguel,29.5,25.1,54.1,6,3.34,setembro/2026
+Vitória,Jardim da Penha,casa,venda,9448.8,7513.8,11460.6,6,,setembro/2026
+Vitória,Mata da Praia,casa,venda,11900.0,8744.8,15596.0,16,,setembro/2026
+Vitória,Centro,sala,venda,2213.1,2205.7,3250.0,5,12.96,setembro/2026
+Vitória,Centro,sala,aluguel,23.9,18.2,38.2,20,12.96,setembro/2026
+Vitória,Enseada do Suá,sala,venda,11966.3,10123.8,14422.4,12,9.45,setembro/2026
+Vitória,Enseada do Suá,sala,aluguel,94.2,67.6,115.0,33,9.45,setembro/2026
+Vitória,Jardim Camburi,sala,aluguel,92.9,60.0,107.1,9,,setembro/2026
+Vitória,Jardim da Penha,sala,venda,16800.0,12142.9,18666.8,5,,setembro/2026
+Vitória,Mata da Praia,sala,venda,11311.5,10246.4,14064.2,7,7.01,setembro/2026
+Vitória,Mata da Praia,sala,aluguel,66.1,43.6,66.7,5,7.01,setembro/2026
+Vitória,Praia do Canto,sala,venda,6250.0,4475.0,7096.8,13,16.9,setembro/2026
+Vitória,Praia do Canto,sala,aluguel,88.0,43.3,100.0,13,16.9,setembro/2026
+Vitória,Praia do Suá,sala,venda,7284.2,6476.2,8051.9,12,7.07,setembro/2026
+Vitória,Praia do Suá,sala,aluguel,42.9,30.7,50.0,9,7.07,setembro/2026
+Vitória,Santa Lúcia,sala,venda,5833.3,4729.9,7843.8,22,8.85,setembro/2026
+Vitória,Santa Lúcia,sala,aluguel,43.0,38.6,68.2,21,8.85,setembro/2026

@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 24 cidades de Santa Catarina, Brasil, bairro por bairro, a partir de 113.851 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 25 cidades de Santa Catarina, Brasil, bairro por bairro, a partir de 115.189 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -3233,6 +3233,59 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Embratel | – | – | R$ 55,2 | 5 | – | – |
 | Olaria | – | – | R$ 66,4 | 12 | – | – |
 | São Cristóvão | – | – | R$ 56,3 | 6 | – | – |
+
+
+## Vitória (setembro/2026): https://acorridadosbairros.com.br/es/vitoria/
+
+### Apartamentos, cidade toda: venda R$ 13.968/m² (n=828); aluguel R$ 50,7/m²/mês (n=153); rendimento bruto do aluguel 4,36% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Barro Vermelho | R$ 16.798 | 56 | R$ 66,7 | 15 | 4,76% | – |
+| Bento Ferreira | R$ 12.497 | 58 | R$ 46,9 | 6 | 4,50% | – |
+| Centro | R$ 3.579 | 14 | – | – | – | – |
+| Enseada do Suá | R$ 18.400 | 72 | R$ 59,8 | 16 | 3,90% | – |
+| Ilha do Boi | R$ 10.350 | 7 | – | – | – | – |
+| Jardim Camburi | R$ 13.262 | 198 | R$ 46,1 | 33 | 4,17% | – |
+| Jardim da Penha | R$ 12.054 | 121 | R$ 48,8 | 26 | 4,86% | – |
+| Maruípe | R$ 5.431 | 6 | – | – | – | – |
+| Mata da Praia | R$ 17.386 | 56 | R$ 52,7 | 14 | 3,64% | – |
+| Monte Belo | R$ 15.114 | 6 | – | – | – | – |
+| Morada de Camburi | R$ 12.416 | 6 | – | – | – | – |
+| Praia de Santa Helena | R$ 14.286 | 9 | – | – | – | – |
+| Praia do Canto | R$ 17.094 | 87 | R$ 55,4 | 20 | 3,89% | – |
+| Praia do Suá | R$ 13.971 | 23 | – | – | – | – |
+| Santa Helena | R$ 13.418 | 33 | – | – | – | – |
+| Santa Lúcia | R$ 13.096 | 44 | R$ 59,5 | 8 | 5,45% | – |
+| Santa Luíza | R$ 18.275 | 8 | – | – | – | – |
+
+### Casas, cidade toda: venda R$ 8.861/m² (n=90); aluguel R$ 32,8/m²/mês (n=20); rendimento bruto do aluguel 4,44% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Fradinhos | R$ 7.024 | 5 | – | – | – | – |
+| Ilha do Boi | R$ 13.399 | 8 | – | – | – | – |
+| Jardim Camburi | R$ 10.613 | 12 | R$ 29,5 | 6 | 3,34% | – |
+| Jardim da Penha | R$ 9.449 | 6 | – | – | – | – |
+| Mata da Praia | R$ 11.900 | 16 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 5.036/m² (n=27)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+
+### Salas comerciais, cidade toda: venda R$ 7.372/m² (n=92); aluguel R$ 56,1/m²/mês (n=128); rendimento bruto do aluguel 9,13% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Centro | R$ 2.213 | 5 | R$ 23,9 | 20 | 12,96% | – |
+| Enseada do Suá | R$ 11.966 | 12 | R$ 94,2 | 33 | 9,45% | – |
+| Jardim Camburi | – | – | R$ 92,9 | 9 | – | – |
+| Jardim da Penha | R$ 16.800 | 5 | – | – | – | – |
+| Mata da Praia | R$ 11.312 | 7 | R$ 66,1 | 5 | 7,01% | – |
+| Praia do Canto | R$ 6.250 | 13 | R$ 88,0 | 13 | 16,90% | – |
+| Praia do Suá | R$ 7.284 | 12 | R$ 42,9 | 9 | 7,07% | – |
+| Santa Lúcia | R$ 5.833 | 22 | R$ 43,0 | 21 | 8,85% | – |
 
 
 Metodologia: https://acorridadosbairros.com.br/metodologia/ · Dados abertos CC BY 4.0: https://acorridadosbairros.com.br/dados.csv · Imprensa: https://acorridadosbairros.com.br/imprensa/
