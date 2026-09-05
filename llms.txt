@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 34 cidades de Santa Catarina, Brasil, bairro por bairro, a partir de 135.929 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 35 cidades de Santa Catarina, Brasil, bairro por bairro, a partir de 141.602 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 ## Cidades (dados por bairro)
 
@@ -30,7 +30,7 @@
 - [Porto Velho](https://acorridadosbairros.com.br/ro/porto-velho/): mediana apartamentos R$ 5.864/m² (venda)
 - [Vitória](https://acorridadosbairros.com.br/es/vitoria/): mediana apartamentos R$ 13.772/m² (venda)
 - [Balneário Camboriú](https://acorridadosbairros.com.br/balneario-camboriu/): mediana apartamentos R$ 17.167/m² (venda)
-- [Macapá](https://acorridadosbairros.com.br/ap/macapa/): mediana apartamentos R$ 8.099/m² (venda)
+- [Macapá](https://acorridadosbairros.com.br/ap/macapa/): mediana apartamentos R$ 7.790/m² (venda)
 - [Itapema](https://acorridadosbairros.com.br/itapema/): mediana apartamentos R$ 15.943/m² (venda)
 - [Porto Belo](https://acorridadosbairros.com.br/porto-belo/): mediana apartamentos R$ 15.838/m² (venda)
 - [Itapoá](https://acorridadosbairros.com.br/itapoa/): mediana apartamentos R$ 9.534/m² (venda)
@@ -38,6 +38,7 @@
 - [Aracaju](https://acorridadosbairros.com.br/se/aracaju/): mediana apartamentos R$ 5.179/m² (venda)
 - [Natal](https://acorridadosbairros.com.br/rn/natal/): mediana apartamentos R$ 6.161/m² (venda)
 - [João Pessoa](https://acorridadosbairros.com.br/pb/joao-pessoa/): mediana apartamentos R$ 9.554/m² (venda)
+- [Cuiabá](https://acorridadosbairros.com.br/mt/cuiaba/): mediana apartamentos R$ 6.667/m² (venda)
 
 ## Ferramentas e dados
 
