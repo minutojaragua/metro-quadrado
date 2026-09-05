@@ -425,6 +425,13 @@ async function render(){
   }
   rows+=linha("Nº de anúncios (venda)",picks.map(p=>g(p,["venda","n"])),0,"","max");
   rows+=linha("Nº de anúncios (aluguel)",picks.map(p=>g(p,["aluguel","n"])),0,"","max");
+  // 05/09/2026 (Jales: "sempre que colocar o ranking deve colocar o nivel de confianca de cada
+  // dado"): o comparador ja mostrava o n cru, mas n cru nao diz se 8 e pouco ou muito. Aqui
+  // vale a ponta mais fraca da coluna, porque o retorno na mesma tabela depende das duas.
+  rows+=`<tr><td>Confian\u00e7a</td>`+picks.map(function(p){
+    var nv=g(p,["venda","n"])||0, na=g(p,["aluguel","n"])||0, m=(nv&&na)?Math.min(nv,na):(nv||na);
+    var cl=m>=20?"alta":m>=10?"media":"baixa";
+    return `<td><span class="bdg ${cl}">n=${m} \u00b7 ${cl==="media"?"m\u00e9dia":cl}</span></td>`;}).join("")+`</tr>`;
   $("res").innerHTML=`<div class="tblwrap"><table>
    <thead><tr><th></th>${nomes.map((n,i)=>`<th style="color:${CORES[i%CORES.length]}">${n}</th>`).join("")}</tr></thead>
    <tbody>${rows}</tbody></table></div>
