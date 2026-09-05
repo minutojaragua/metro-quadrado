@@ -1,125 +1,125 @@
 cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
-Piracicaba,Água Branca,apartamento,venda,5000.0,4304.3,6000.0,21,6.67,setembro/2026
+Piracicaba,Água Branca,apartamento,venda,5000.0,4261.5,6090.9,23,6.67,setembro/2026
 Piracicaba,Água Branca,apartamento,aluguel,27.8,25.0,33.5,15,6.67,setembro/2026
 Piracicaba,Água Seca,apartamento,venda,4494.1,3516.3,5147.3,12,,setembro/2026
-Piracicaba,Alemães,apartamento,venda,8050.8,5600.0,9514.6,45,6.51,setembro/2026
-Piracicaba,Alemães,apartamento,aluguel,43.7,37.1,55.6,17,6.51,setembro/2026
-Piracicaba,Alto,apartamento,venda,4545.5,3750.0,6254.1,121,8.87,setembro/2026
-Piracicaba,Alto,apartamento,aluguel,33.6,23.8,41.8,35,8.87,setembro/2026
-Piracicaba,Bongue,apartamento,venda,4000.0,3333.3,4444.4,5,,setembro/2026
-Piracicaba,Campestre,apartamento,venda,4155.6,3727.1,4743.6,25,7.71,setembro/2026
+Piracicaba,Alemães,apartamento,venda,8273.2,6589.6,10000.0,50,6.34,setembro/2026
+Piracicaba,Alemães,apartamento,aluguel,43.7,37.1,55.6,17,6.34,setembro/2026
+Piracicaba,Alto,apartamento,venda,4595.1,3750.0,6279.6,124,8.77,setembro/2026
+Piracicaba,Alto,apartamento,aluguel,33.6,23.8,41.8,35,8.77,setembro/2026
+Piracicaba,Bongue,apartamento,venda,4775.4,3833.3,9220.0,8,,setembro/2026
+Piracicaba,Campestre,apartamento,venda,4155.6,3720.6,4818.6,27,7.71,setembro/2026
 Piracicaba,Campestre,apartamento,aluguel,26.7,21.5,31.9,10,7.71,setembro/2026
 Piracicaba,Castelinho,apartamento,venda,5061.6,4571.8,5721.1,8,,setembro/2026
-Piracicaba,Centro,apartamento,venda,4189.2,3583.2,5417.6,254,9.05,setembro/2026
-Piracicaba,Centro,apartamento,aluguel,31.6,18.4,44.3,61,9.05,setembro/2026
+Piracicaba,Centro,apartamento,venda,4216.4,3594.2,5517.2,259,9.28,setembro/2026
+Piracicaba,Centro,apartamento,aluguel,32.6,21.4,45.0,65,9.28,setembro/2026
 Piracicaba,Chácara Esperia,apartamento,venda,5368.9,4923.1,5769.2,5,,setembro/2026
 Piracicaba,Chácaras Água Branca,apartamento,venda,3636.4,2712.0,4109.9,11,,setembro/2026
-Piracicaba,Cidade Alta,apartamento,venda,5206.8,3854.6,8129.8,58,8.83,setembro/2026
-Piracicaba,Cidade Alta,apartamento,aluguel,38.3,31.0,50.0,53,8.83,setembro/2026
-Piracicaba,Cidade Jardim,apartamento,venda,5622.1,3517.0,10342.6,20,13.04,setembro/2026
-Piracicaba,Cidade Jardim,apartamento,aluguel,61.1,54.4,71.1,15,13.04,setembro/2026
-Piracicaba,Dois Córregos,apartamento,venda,4657.5,4000.0,6774.0,37,7.01,setembro/2026
-Piracicaba,Dois Córregos,apartamento,aluguel,27.2,23.3,31.3,14,7.01,setembro/2026
+Piracicaba,Cidade Alta,apartamento,venda,5365.2,3920.6,8043.3,64,8.41,setembro/2026
+Piracicaba,Cidade Alta,apartamento,aluguel,37.6,30.9,49.7,54,8.41,setembro/2026
+Piracicaba,Cidade Jardim,apartamento,venda,6555.6,3567.5,10342.6,24,11.17,setembro/2026
+Piracicaba,Cidade Jardim,apartamento,aluguel,61.0,53.2,70.6,16,11.17,setembro/2026
+Piracicaba,Dois Córregos,apartamento,venda,4817.7,4038.9,6789.2,38,6.78,setembro/2026
+Piracicaba,Dois Córregos,apartamento,aluguel,27.2,23.3,31.3,14,6.78,setembro/2026
 Piracicaba,Gleba Califórnia,apartamento,venda,4555.6,3925.9,5000.0,25,9.27,setembro/2026
 Piracicaba,Gleba Califórnia,apartamento,aluguel,35.2,32.6,40.4,6,9.27,setembro/2026
-Piracicaba,Glebas Califórnia,apartamento,venda,4656.9,3764.1,5031.6,23,6.6,setembro/2026
-Piracicaba,Glebas Califórnia,apartamento,aluguel,25.6,23.5,33.4,8,6.6,setembro/2026
+Piracicaba,Glebas Califórnia,apartamento,venda,4665.4,3791.2,5168.4,24,6.58,setembro/2026
+Piracicaba,Glebas Califórnia,apartamento,aluguel,25.6,23.5,33.4,8,6.58,setembro/2026
 Piracicaba,Higienópolis,apartamento,venda,4486.9,3451.3,5579.0,34,5.51,setembro/2026
 Piracicaba,Higienópolis,apartamento,aluguel,20.6,19.9,28.7,10,5.51,setembro/2026
 Piracicaba,Jaraguá,apartamento,venda,3755.4,3200.9,4933.1,14,,setembro/2026
-Piracicaba,Jardim Abaeté,apartamento,venda,4662.2,4363.1,5163.5,22,6.43,setembro/2026
-Piracicaba,Jardim Abaeté,apartamento,aluguel,25.0,23.2,27.0,7,6.43,setembro/2026
+Piracicaba,Jardim Abaeté,apartamento,venda,4623.0,4321.3,5112.2,23,6.49,setembro/2026
+Piracicaba,Jardim Abaeté,apartamento,aluguel,25.0,23.2,27.0,7,6.49,setembro/2026
 Piracicaba,Jardim Astúrias I,apartamento,venda,4469.7,4328.4,4545.5,5,,setembro/2026
 Piracicaba,Jardim Belvedere,apartamento,venda,3037.3,2234.6,3360.2,7,,setembro/2026
-Piracicaba,Jardim Brasília,apartamento,venda,6228.4,5096.8,6873.2,10,,setembro/2026
+Piracicaba,Jardim Brasília,apartamento,venda,6228.4,5205.3,6911.0,12,,setembro/2026
 Piracicaba,Jardim Califórnia,apartamento,venda,7499.3,5428.6,8178.6,10,6.18,setembro/2026
 Piracicaba,Jardim Califórnia,apartamento,aluguel,38.6,32.9,43.6,6,6.18,setembro/2026
-Piracicaba,Jardim Caxambu,apartamento,venda,3511.7,3149.4,4226.6,22,,setembro/2026
-Piracicaba,Jardim Elite,apartamento,venda,5349.7,3888.9,8333.3,81,7.11,setembro/2026
-Piracicaba,Jardim Elite,apartamento,aluguel,31.7,25.8,44.0,30,7.11,setembro/2026
-Piracicaba,Jardim Europa,apartamento,venda,10285.7,9494.1,11519.0,26,6.62,setembro/2026
-Piracicaba,Jardim Europa,apartamento,aluguel,56.7,52.3,70.2,19,6.62,setembro/2026
+Piracicaba,Jardim Caxambu,apartamento,venda,3529.4,3164.4,4256.0,23,,setembro/2026
+Piracicaba,Jardim Elite,apartamento,venda,5356.6,3897.4,8655.5,82,7.1,setembro/2026
+Piracicaba,Jardim Elite,apartamento,aluguel,31.7,25.8,44.0,30,7.1,setembro/2026
+Piracicaba,Jardim Europa,apartamento,venda,10176.8,9494.1,11472.6,30,6.58,setembro/2026
+Piracicaba,Jardim Europa,apartamento,aluguel,55.8,51.1,70.1,20,6.58,setembro/2026
 Piracicaba,Jardim Itapuã,apartamento,venda,3584.8,3439.6,4054.1,11,,setembro/2026
 Piracicaba,Jardim Maria,apartamento,venda,3645.8,3163.3,4400.0,9,,setembro/2026
-Piracicaba,Jardim Nova Iguaçu,apartamento,venda,4514.1,3928.7,4962.1,26,6.91,setembro/2026
-Piracicaba,Jardim Nova Iguaçu,apartamento,aluguel,26.0,22.9,28.6,8,6.91,setembro/2026
+Piracicaba,Jardim Nova Iguaçu,apartamento,venda,4545.5,3966.5,5051.7,27,6.86,setembro/2026
+Piracicaba,Jardim Nova Iguaçu,apartamento,aluguel,26.0,22.9,28.6,8,6.86,setembro/2026
 Piracicaba,Jardim Nova Suíça,apartamento,venda,3636.4,3066.4,4043.4,8,7.49,setembro/2026
 Piracicaba,Jardim Nova Suíça,apartamento,aluguel,22.7,20.0,25.0,5,7.49,setembro/2026
 Piracicaba,Jardim Parque Jupiá,apartamento,venda,4081.5,3467.5,4760.7,36,7.14,setembro/2026
 Piracicaba,Jardim Parque Jupiá,apartamento,aluguel,24.3,23.4,30.0,8,7.14,setembro/2026
 Piracicaba,Jardim Petrópolis,apartamento,venda,2846.2,2695.8,3047.4,8,,setembro/2026
 Piracicaba,Jardim Santa Isabel,apartamento,venda,3404.3,3020.8,3636.4,13,,setembro/2026
-Piracicaba,Jardim São Francisco,apartamento,venda,3954.0,3468.2,4604.6,22,7.07,setembro/2026
-Piracicaba,Jardim São Francisco,apartamento,aluguel,23.3,18.7,28.3,10,7.07,setembro/2026
+Piracicaba,Jardim São Francisco,apartamento,venda,4078.1,3492.0,4663.2,23,6.86,setembro/2026
+Piracicaba,Jardim São Francisco,apartamento,aluguel,23.3,18.7,28.3,10,6.86,setembro/2026
 Piracicaba,Jardim São Jorge,apartamento,venda,3111.1,2172.8,3278.6,5,,setembro/2026
 Piracicaba,Jardim Sol Nascente,apartamento,venda,4231.4,4054.9,4413.8,6,,setembro/2026
-Piracicaba,Jupiá,apartamento,venda,4820.3,3272.7,4997.1,9,,setembro/2026
+Piracicaba,Jupiá,apartamento,venda,4846.1,3340.9,4994.8,10,,setembro/2026
 Piracicaba,Loteamento Kobayat Líbano,apartamento,venda,3272.7,3103.6,3748.9,11,,setembro/2026
 Piracicaba,Monte Líbano,apartamento,venda,3528.4,3219.7,3743.4,6,,setembro/2026
 Piracicaba,Morumbi,apartamento,venda,4516.1,2922.3,5871.4,31,6.91,setembro/2026
 Piracicaba,Morumbi,apartamento,aluguel,26.0,19.1,38.2,13,6.91,setembro/2026
-Piracicaba,Nova,apartamento,venda,8571.4,6560.2,12469.7,11,,setembro/2026
-Piracicaba,Nova América,apartamento,venda,4712.6,3837.7,5953.7,99,7.69,setembro/2026
-Piracicaba,Nova América,apartamento,aluguel,30.2,26.9,36.0,65,7.69,setembro/2026
+Piracicaba,Nova,apartamento,venda,8428.6,5353.8,11887.1,15,,setembro/2026
+Piracicaba,Nova América,apartamento,venda,4728.6,3847.4,6294.7,104,7.66,setembro/2026
+Piracicaba,Nova América,apartamento,aluguel,30.2,26.9,36.0,65,7.66,setembro/2026
 Piracicaba,Nova Pompéia,apartamento,venda,3913.0,3315.2,4374.5,7,,setembro/2026
-Piracicaba,Ondas,apartamento,venda,3965.5,3721.3,4444.4,9,,setembro/2026
+Piracicaba,Ondas,apartamento,venda,4151.2,3751.2,4567.6,10,,setembro/2026
 Piracicaba,Parque Água Branca,apartamento,venda,7000.0,3648.6,7285.7,5,,setembro/2026
 Piracicaba,Parque Conceição II,apartamento,venda,5214.3,4729.3,5381.0,19,,setembro/2026
 Piracicaba,Parque Orlanda I,apartamento,venda,3186.0,3163.3,3333.3,5,,setembro/2026
 Piracicaba,Parque Residencial,apartamento,venda,3581.2,3385.4,3758.4,6,,setembro/2026
-Piracicaba,Parque Santa Cecília,apartamento,venda,5859.4,4948.6,6625.0,17,5.67,setembro/2026
-Piracicaba,Parque Santa Cecília,apartamento,aluguel,27.7,26.3,35.4,8,5.67,setembro/2026
+Piracicaba,Parque Santa Cecília,apartamento,venda,5992.2,5018.3,6940.3,18,5.55,setembro/2026
+Piracicaba,Parque Santa Cecília,apartamento,aluguel,27.7,26.3,35.4,8,5.55,setembro/2026
 Piracicaba,Parque São Matheus,apartamento,venda,4434.0,4000.0,4732.1,13,,setembro/2026
-Piracicaba,Paulicéia,apartamento,venda,5332.3,3788.7,6891.2,60,7.65,setembro/2026
-Piracicaba,Paulicéia,apartamento,aluguel,34.0,26.7,38.9,32,7.65,setembro/2026
-Piracicaba,Paulista,apartamento,venda,5108.6,4360.5,6500.0,49,7.89,setembro/2026
-Piracicaba,Paulista,apartamento,aluguel,33.6,30.6,39.7,22,7.89,setembro/2026
+Piracicaba,Paulicéia,apartamento,venda,5388.0,3874.3,6903.1,62,7.57,setembro/2026
+Piracicaba,Paulicéia,apartamento,aluguel,34.0,26.7,38.0,32,7.57,setembro/2026
+Piracicaba,Paulista,apartamento,venda,5108.6,4361.4,6435.5,51,7.92,setembro/2026
+Piracicaba,Paulista,apartamento,aluguel,33.7,30.7,40.5,23,7.92,setembro/2026
 Piracicaba,Piracicamirim,apartamento,venda,4333.3,3491.2,5900.2,64,7.56,setembro/2026
-Piracicaba,Piracicamirim,apartamento,aluguel,27.3,24.0,34.4,21,7.56,setembro/2026
+Piracicaba,Piracicamirim,apartamento,aluguel,27.3,23.8,34.2,23,7.56,setembro/2026
 Piracicaba,Pompéia,apartamento,venda,4323.6,3698.4,5465.6,32,8.49,setembro/2026
 Piracicaba,Pompéia,apartamento,aluguel,30.6,28.1,34.4,11,8.49,setembro/2026
-Piracicaba,Santa Cecília,apartamento,venda,5340.9,4286.3,5568.2,6,,setembro/2026
+Piracicaba,Santa Cecília,apartamento,venda,5227.3,4111.9,5530.3,7,,setembro/2026
 Piracicaba,Santa Terezinha,apartamento,venda,4085.1,3585.7,4627.1,23,6.08,setembro/2026
 Piracicaba,Santa Terezinha,apartamento,aluguel,20.7,19.8,26.1,5,6.08,setembro/2026
-Piracicaba,São Dimas,apartamento,venda,7721.5,5698.6,9967.0,91,7.49,setembro/2026
+Piracicaba,São Dimas,apartamento,venda,7721.5,5541.7,10107.2,95,7.49,setembro/2026
 Piracicaba,São Dimas,apartamento,aluguel,48.2,33.5,58.9,60,7.49,setembro/2026
-Piracicaba,São Judas,apartamento,venda,9000.9,4926.9,11458.5,82,6.29,setembro/2026
-Piracicaba,São Judas,apartamento,aluguel,47.2,32.1,55.6,32,6.29,setembro/2026
+Piracicaba,São Judas,apartamento,venda,9000.9,4924.0,11375.4,84,6.11,setembro/2026
+Piracicaba,São Judas,apartamento,aluguel,45.8,31.7,55.2,34,6.11,setembro/2026
 Piracicaba,Vale do Sol,apartamento,venda,2340.4,2073.4,3269.8,19,10.51,setembro/2026
 Piracicaba,Vale do Sol,apartamento,aluguel,20.5,19.4,23.9,7,10.51,setembro/2026
-Piracicaba,Vila Independência,apartamento,venda,7142.9,5258.4,8971.8,59,6.96,setembro/2026
-Piracicaba,Vila Independência,apartamento,aluguel,41.4,37.8,49.2,40,6.96,setembro/2026
+Piracicaba,Vila Independência,apartamento,venda,7194.6,5367.4,8982.0,62,6.79,setembro/2026
+Piracicaba,Vila Independência,apartamento,aluguel,40.7,36.1,49.1,42,6.79,setembro/2026
 Piracicaba,Vila Industrial,apartamento,venda,6090.3,5776.2,6440.2,8,,setembro/2026
-Piracicaba,Vila Monteiro,apartamento,venda,4089.9,3364.2,5175.8,42,7.75,setembro/2026
-Piracicaba,Vila Monteiro,apartamento,aluguel,26.4,23.3,32.4,19,7.75,setembro/2026
+Piracicaba,Vila Monteiro,apartamento,venda,4044.9,3359.5,5208.3,45,7.83,setembro/2026
+Piracicaba,Vila Monteiro,apartamento,aluguel,26.4,23.3,32.4,19,7.83,setembro/2026
 Piracicaba,Vila Prudente,apartamento,venda,7463.5,4142.2,8697.9,7,,setembro/2026
-Piracicaba,Vila Rezende,apartamento,venda,6666.7,4948.4,10597.5,43,3.82,setembro/2026
-Piracicaba,Vila Rezende,apartamento,aluguel,21.2,19.6,27.6,5,3.82,setembro/2026
+Piracicaba,Vila Rezende,apartamento,venda,6666.7,4948.4,10597.5,43,4.39,setembro/2026
+Piracicaba,Vila Rezende,apartamento,aluguel,24.4,20.0,33.7,6,4.39,setembro/2026
 Piracicaba,Vila Sônia,apartamento,venda,3191.5,2605.2,3579.2,15,,setembro/2026
-Piracicaba,Água Branca,casa,venda,4717.0,3761.8,6199.8,103,5.37,setembro/2026
-Piracicaba,Água Branca,casa,aluguel,21.1,16.6,27.7,20,5.37,setembro/2026
-Piracicaba,Água Seca,casa,venda,5957.4,5008.8,6857.1,15,,setembro/2026
+Piracicaba,Água Branca,casa,venda,4707.5,3693.1,6182.1,104,5.38,setembro/2026
+Piracicaba,Água Branca,casa,aluguel,21.1,16.6,27.7,20,5.38,setembro/2026
+Piracicaba,Água Seca,casa,venda,5945.9,4231.5,6808.5,17,,setembro/2026
 Piracicaba,Alemães,casa,venda,4072.6,3112.0,6550.2,47,6.04,setembro/2026
 Piracicaba,Alemães,casa,aluguel,20.5,16.0,26.6,17,6.04,setembro/2026
 Piracicaba,Algodoal,casa,venda,2911.8,2500.0,3395.6,13,,setembro/2026
 Piracicaba,Alphaville,casa,venda,13096.5,11465.8,14377.5,8,5.26,setembro/2026
 Piracicaba,Alphaville,casa,aluguel,57.4,46.4,60.6,6,5.26,setembro/2026
-Piracicaba,Alto,casa,venda,3750.0,2940.7,4484.9,83,7.2,setembro/2026
-Piracicaba,Alto,casa,aluguel,22.5,18.0,33.0,36,7.2,setembro/2026
+Piracicaba,Alto,casa,venda,3719.0,2904.7,4484.0,84,6.87,setembro/2026
+Piracicaba,Alto,casa,aluguel,21.3,17.9,31.4,35,6.87,setembro/2026
 Piracicaba,Alto da Pompéia,casa,venda,2940.4,2792.7,3713.4,10,,setembro/2026
 Piracicaba,Artemis,casa,venda,6797.7,4657.0,7266.7,5,,setembro/2026
 Piracicaba,Bongue,casa,venda,8336.8,6839.5,9404.5,14,,setembro/2026
-Piracicaba,Campestre,casa,venda,6098.0,4613.1,6921.4,103,7.4,setembro/2026
-Piracicaba,Campestre,casa,aluguel,37.6,26.9,39.9,13,7.4,setembro/2026
+Piracicaba,Campestre,casa,venda,6089.0,4628.0,6920.6,104,7.41,setembro/2026
+Piracicaba,Campestre,casa,aluguel,37.6,26.9,39.9,13,7.41,setembro/2026
 Piracicaba,Castelinho,casa,venda,3565.8,2850.0,4193.1,49,,setembro/2026
 Piracicaba,Cecap,casa,venda,2750.0,2342.9,3555.6,33,,setembro/2026
-Piracicaba,Centro,casa,venda,3543.3,2690.5,4410.6,144,6.74,setembro/2026
-Piracicaba,Centro,casa,aluguel,19.9,16.1,25.0,63,6.74,setembro/2026
+Piracicaba,Centro,casa,venda,3536.6,2687.4,4362.9,147,6.75,setembro/2026
+Piracicaba,Centro,casa,aluguel,19.9,16.1,25.0,66,6.75,setembro/2026
 Piracicaba,Chácara Esperia,casa,venda,4842.8,4022.2,5566.6,6,,setembro/2026
 Piracicaba,Chácara Nazaré,casa,venda,4444.4,4000.0,5226.6,5,,setembro/2026
 Piracicaba,Cidade Alta,casa,venda,3056.4,2368.0,3736.3,32,8.68,setembro/2026
 Piracicaba,Cidade Alta,casa,aluguel,22.1,17.5,25.8,21,8.68,setembro/2026
-Piracicaba,Cidade Jardim,casa,venda,5835.9,4009.6,7521.4,26,6.0,setembro/2026
+Piracicaba,Cidade Jardim,casa,venda,5835.9,4130.9,7445.4,28,6.0,setembro/2026
 Piracicaba,Cidade Jardim,casa,aluguel,29.2,23.7,35.9,13,6.0,setembro/2026
 Piracicaba,Cidade Judiciária,casa,venda,5671.6,4776.1,5756.1,9,,setembro/2026
 Piracicaba,Colinas do Piracicaba (Ártemis),casa,venda,4584.5,3691.3,5876.4,51,4.45,setembro/2026
@@ -133,16 +133,16 @@ Piracicaba,Condominio Soleil,casa,venda,7259.1,7053.9,8049.1,7,,setembro/2026
 Piracicaba,Condomínio Villa Bela Vista,casa,venda,9426.2,9134.4,10142.2,10,,setembro/2026
 Piracicaba,Conjunto Habitacional Água Branca,casa,venda,2909.1,2657.6,4650.3,13,,setembro/2026
 Piracicaba,Conjunto Residencial Mário Dedini,casa,venda,2954.5,2413.8,3515.6,49,,setembro/2026
-Piracicaba,Damha I,casa,venda,8689.6,7583.8,9545.3,14,,setembro/2026
+Piracicaba,Damha I,casa,venda,8341.8,6976.9,9220.6,18,,setembro/2026
 Piracicaba,Damha II,casa,venda,9309.5,8745.8,9495.8,13,,setembro/2026
 Piracicaba,Dois Córregos,casa,venda,4354.2,3698.9,5930.8,34,5.73,setembro/2026
 Piracicaba,Dois Córregos,casa,aluguel,20.8,18.6,23.3,7,5.73,setembro/2026
 Piracicaba,Garças,casa,venda,2833.3,2200.0,4263.6,25,,setembro/2026
 Piracicaba,Gleba Califórnia,casa,venda,4807.7,4512.8,6291.4,7,,setembro/2026
 Piracicaba,Glebas Califórnia,casa,venda,5428.6,4460.9,5619.2,7,,setembro/2026
-Piracicaba,Higienópolis,casa,venda,3118.7,2069.8,4030.9,28,8.39,setembro/2026
-Piracicaba,Higienópolis,casa,aluguel,21.8,18.6,29.7,5,8.39,setembro/2026
-Piracicaba,Jaraguá,casa,venda,3038.0,2500.0,3714.3,41,,setembro/2026
+Piracicaba,Higienópolis,casa,venda,3170.7,2069.8,4056.0,29,8.25,setembro/2026
+Piracicaba,Higienópolis,casa,aluguel,21.8,18.6,29.7,5,8.25,setembro/2026
+Piracicaba,Jaraguá,casa,venda,3060.1,2503.3,3746.7,42,,setembro/2026
 Piracicaba,Jardim Abaeté,casa,venda,4067.9,3352.3,5166.9,10,,setembro/2026
 Piracicaba,Jardim Algodoal,casa,venda,2687.5,2446.0,3544.4,43,,setembro/2026
 Piracicaba,Jardim Alvorada,casa,venda,3359.4,2587.3,4009.0,44,,setembro/2026
@@ -157,16 +157,16 @@ Piracicaba,Jardim Califórnia,casa,venda,5656.6,3809.8,6425.5,28,,setembro/2026
 Piracicaba,Jardim Caxambu,casa,venda,4185.0,3193.9,4751.2,35,5.88,setembro/2026
 Piracicaba,Jardim Caxambu,casa,aluguel,20.5,15.2,30.5,6,5.88,setembro/2026
 Piracicaba,Jardim Diamante,casa,venda,2828.3,2654.9,3452.2,13,,setembro/2026
-Piracicaba,Jardim Elite,casa,venda,4118.6,3467.9,5121.5,32,,setembro/2026
+Piracicaba,Jardim Elite,casa,venda,4128.4,3487.5,5129.0,33,,setembro/2026
 Piracicaba,Jardim Esplanada,casa,venda,2278.8,1942.3,2620.9,14,,setembro/2026
-Piracicaba,Jardim Europa,casa,venda,4343.0,3315.6,5133.3,37,6.41,setembro/2026
-Piracicaba,Jardim Europa,casa,aluguel,23.2,17.7,33.1,20,6.41,setembro/2026
+Piracicaba,Jardim Europa,casa,venda,4590.8,3342.8,5420.4,39,6.56,setembro/2026
+Piracicaba,Jardim Europa,casa,aluguel,25.1,18.3,32.3,22,6.56,setembro/2026
 Piracicaba,Jardim Ibirapuera,casa,venda,2749.7,2248.1,3581.5,16,,setembro/2026
 Piracicaba,Jardim Itapuã,casa,venda,2215.7,1845.9,2723.6,32,,setembro/2026
 Piracicaba,Jardim Monumento,casa,venda,3792.9,3308.6,4433.0,42,5.66,setembro/2026
 Piracicaba,Jardim Monumento,casa,aluguel,17.9,16.2,19.8,6,5.66,setembro/2026
 Piracicaba,Jardim Noiva da Colina,casa,venda,3389.8,2866.7,4500.0,33,,setembro/2026
-Piracicaba,Jardim Nova Iguaçu,casa,venda,3437.1,2274.9,4233.2,6,,setembro/2026
+Piracicaba,Jardim Nova Iguaçu,casa,venda,3374.2,2291.4,3988.8,7,,setembro/2026
 Piracicaba,Jardim Nova Suíça,casa,venda,2925.5,2578.9,3421.1,9,,setembro/2026
 Piracicaba,Jardim Oriente,casa,venda,2533.3,2331.3,3061.9,9,,setembro/2026
 Piracicaba,Jardim Parque Jupiá,casa,venda,4587.5,3358.7,6196.5,15,,setembro/2026
@@ -175,8 +175,8 @@ Piracicaba,Jardim Residencial Javary III,casa,venda,2596.2,2363.6,3441.6,5,,sete
 Piracicaba,Jardim Santa Ignês II,casa,venda,3045.5,2600.0,4095.6,8,,setembro/2026
 Piracicaba,Jardim Santa Isabel,casa,venda,2763.2,2668.7,3387.1,5,,setembro/2026
 Piracicaba,Jardim Santa Silvia,casa,venda,3080.4,2599.1,3619.0,5,,setembro/2026
-Piracicaba,Jardim São Francisco,casa,venda,6052.3,4913.7,8017.9,34,8.27,setembro/2026
-Piracicaba,Jardim São Francisco,casa,aluguel,41.7,37.6,46.7,9,8.27,setembro/2026
+Piracicaba,Jardim São Francisco,casa,venda,6044.0,4653.2,8014.8,35,8.28,setembro/2026
+Piracicaba,Jardim São Francisco,casa,aluguel,41.7,37.6,46.7,9,8.28,setembro/2026
 Piracicaba,Jardim São Jorge,casa,venda,2767.9,2282.9,3619.6,14,,setembro/2026
 Piracicaba,Jardim São Luiz,casa,venda,3114.2,2503.5,3782.4,32,,setembro/2026
 Piracicaba,Jardim São Mateus,casa,venda,3575.2,3203.1,4088.9,6,,setembro/2026
@@ -188,37 +188,37 @@ Piracicaba,Loteamento Kobayat Líbano,casa,venda,2575.8,2377.4,2924.7,11,,setemb
 Piracicaba,Loteamento Residencial e Comercial Villa d'Aquila,casa,venda,8744.5,8263.6,9344.2,26,6.02,setembro/2026
 Piracicaba,Loteamento Residencial e Comercial Villa d'Aquila,casa,aluguel,43.9,43.3,44.9,5,6.02,setembro/2026
 Piracicaba,Loteamento Residencial e Comercial Villa Daquila,casa,venda,8289.5,8013.6,8676.1,7,,setembro/2026
-Piracicaba,Loteamento Residencial Reserva do Engenho,casa,venda,7048.9,5958.9,9177.6,36,,setembro/2026
+Piracicaba,Loteamento Residencial Reserva do Engenho,casa,venda,7107.1,6041.7,9166.7,37,,setembro/2026
 Piracicaba,Loteamento Santa Rosa,casa,venda,3830.6,2721.9,5331.7,37,,setembro/2026
-Piracicaba,Loteamento São Francisco,casa,venda,3809.5,2680.4,5120.0,53,,setembro/2026
+Piracicaba,Loteamento São Francisco,casa,venda,3881.9,2686.6,5090.0,54,,setembro/2026
 Piracicaba,Mário Dedini,casa,venda,2916.7,2536.4,3405.5,9,,setembro/2026
 Piracicaba,Monte Alegre,casa,venda,6812.9,4973.4,9552.8,39,7.05,setembro/2026
 Piracicaba,Monte Alegre,casa,aluguel,40.0,33.9,49.2,14,7.05,setembro/2026
 Piracicaba,Monte Líbano,casa,venda,2213.5,1628.6,3174.9,30,,setembro/2026
 Piracicaba,Morada do Engenho,casa,venda,9306.3,8078.8,10394.7,10,,setembro/2026
-Piracicaba,Morato,casa,venda,9142.9,7220.6,9508.3,7,,setembro/2026
+Piracicaba,Morato,casa,venda,8261.0,6945.0,9402.1,8,,setembro/2026
 Piracicaba,Morumbi,casa,venda,4294.3,3690.4,5373.1,34,,setembro/2026
 Piracicaba,Nhô Quim,casa,venda,3259.9,2760.3,4534.6,8,,setembro/2026
 Piracicaba,Noiva da Colina,casa,venda,2500.0,2444.4,2958.3,5,,setembro/2026
 Piracicaba,Nossa Senhora de Fátima,casa,venda,3200.5,2472.4,3602.7,28,7.5,setembro/2026
 Piracicaba,Nossa Senhora de Fátima,casa,aluguel,20.0,20.0,21.8,5,7.5,setembro/2026
-Piracicaba,Nova,casa,venda,4320.2,3518.1,5450.1,146,6.56,setembro/2026
-Piracicaba,Nova,casa,aluguel,23.6,17.1,28.9,36,6.56,setembro/2026
-Piracicaba,Nova América,casa,venda,3091.6,2572.3,3936.1,70,6.79,setembro/2026
-Piracicaba,Nova América,casa,aluguel,17.5,13.8,19.5,8,6.79,setembro/2026
+Piracicaba,Nova,casa,venda,4401.2,3533.8,5501.5,149,6.43,setembro/2026
+Piracicaba,Nova,casa,aluguel,23.6,17.1,28.9,36,6.43,setembro/2026
+Piracicaba,Nova América,casa,venda,3110.6,2586.7,4087.8,73,6.75,setembro/2026
+Piracicaba,Nova América,casa,aluguel,17.5,13.8,19.5,8,6.75,setembro/2026
 Piracicaba,Nova Pompéia,casa,venda,6438.8,4438.0,8308.8,32,,setembro/2026
 Piracicaba,Novo Horizonte,casa,venda,2297.3,1976.7,2833.3,9,,setembro/2026
-Piracicaba,Ondas,casa,venda,7088.6,5963.8,9041.7,76,6.74,setembro/2026
-Piracicaba,Ondas,casa,aluguel,39.8,39.1,44.5,5,6.74,setembro/2026
+Piracicaba,Ondas,casa,venda,7039.0,5831.7,8993.2,78,6.79,setembro/2026
+Piracicaba,Ondas,casa,aluguel,39.8,39.1,44.5,5,6.79,setembro/2026
 Piracicaba,Ondas - Condomínio Soleil,casa,venda,7215.9,6126.3,8019.0,6,,setembro/2026
 Piracicaba,Ondinhas,casa,venda,6956.5,6486.5,7515.6,9,,setembro/2026
 Piracicaba,Panorama,casa,venda,4232.4,3028.3,5100.0,7,,setembro/2026
 Piracicaba,Park Campestre,casa,venda,6694.9,5538.5,7375.0,7,,setembro/2026
-Piracicaba,Park Unimep Taquaral,casa,venda,7265.9,6807.2,7785.7,17,,setembro/2026
+Piracicaba,Park Unimep Taquaral,casa,venda,7185.6,6787.7,7730.0,18,,setembro/2026
 Piracicaba,Parque Água Branca,casa,venda,4090.1,2978.5,6223.0,26,,setembro/2026
 Piracicaba,Parque Cecap I,casa,venda,6525.8,3958.7,7982.8,6,,setembro/2026
 Piracicaba,Parque Chapadão,casa,venda,2836.9,2548.7,3419.2,7,,setembro/2026
-Piracicaba,Parque Conceição II,casa,venda,3956.8,3503.7,4362.9,15,,setembro/2026
+Piracicaba,Parque Conceição II,casa,venda,3961.9,3641.1,4671.1,16,,setembro/2026
 Piracicaba,Parque Nossa Senhora das Graças,casa,venda,3000.0,2544.5,3399.5,15,,setembro/2026
 Piracicaba,Parque Orlanda I,casa,venda,3333.3,2813.6,3451.4,7,,setembro/2026
 Piracicaba,Parque Primeiro de Maio,casa,venda,3714.3,3243.8,4644.3,7,,setembro/2026
@@ -233,19 +233,19 @@ Piracicaba,Parque São Matheus,casa,venda,3565.5,3102.8,4441.7,15,10.37,setembro
 Piracicaba,Parque São Matheus,casa,aluguel,30.8,18.8,40.0,5,10.37,setembro/2026
 Piracicaba,Parque Taquaral,casa,venda,6351.4,4626.4,7296.4,48,3.78,setembro/2026
 Piracicaba,Parque Taquaral,casa,aluguel,20.0,15.9,38.3,8,3.78,setembro/2026
-Piracicaba,Paulicéia,casa,venda,2782.0,2385.5,3847.7,46,8.11,setembro/2026
-Piracicaba,Paulicéia,casa,aluguel,18.8,13.3,24.6,9,8.11,setembro/2026
-Piracicaba,Paulista,casa,venda,3381.6,2704.2,4211.5,39,7.35,setembro/2026
-Piracicaba,Paulista,casa,aluguel,20.7,18.2,22.8,12,7.35,setembro/2026
+Piracicaba,Paulicéia,casa,venda,2918.6,2387.2,4282.5,48,7.73,setembro/2026
+Piracicaba,Paulicéia,casa,aluguel,18.8,13.3,24.6,9,7.73,setembro/2026
+Piracicaba,Paulista,casa,venda,3393.7,2708.3,4299.3,41,7.32,setembro/2026
+Piracicaba,Paulista,casa,aluguel,20.7,18.2,22.8,12,7.32,setembro/2026
 Piracicaba,Perdizes,casa,venda,3276.8,2539.0,4046.6,28,,setembro/2026
-Piracicaba,Piracicamirim,casa,venda,3735.4,3070.6,5203.9,58,8.32,setembro/2026
-Piracicaba,Piracicamirim,casa,aluguel,25.9,19.6,32.9,16,8.32,setembro/2026
+Piracicaba,Piracicamirim,casa,venda,3696.6,3065.7,5184.0,59,8.41,setembro/2026
+Piracicaba,Piracicamirim,casa,aluguel,25.9,19.6,32.9,16,8.41,setembro/2026
 Piracicaba,Pompéia,casa,venda,3428.6,2560.4,4518.1,39,7.87,setembro/2026
 Piracicaba,Pompéia,casa,aluguel,22.5,18.8,24.8,6,7.87,setembro/2026
 Piracicaba,Prezoto,casa,venda,4166.7,3093.8,4526.3,13,,setembro/2026
 Piracicaba,Prezotto,casa,venda,3812.4,2902.7,4579.2,8,,setembro/2026
 Piracicaba,Reserva das Paineiras,casa,venda,6100.0,5132.7,7562.3,12,,setembro/2026
-Piracicaba,Reserva do Engenho,casa,venda,7182.7,6456.1,8085.9,16,,setembro/2026
+Piracicaba,Reserva do Engenho,casa,venda,7159.1,5906.4,7917.0,18,,setembro/2026
 Piracicaba,Reserva Jequitibá,casa,venda,8831.4,8325.3,9276.8,8,,setembro/2026
 Piracicaba,Reserva Taquaral,casa,venda,6673.6,5503.3,6833.3,5,,setembro/2026
 Piracicaba,Residencial Agape,casa,venda,6382.5,5796.7,6658.9,10,,setembro/2026
@@ -262,31 +262,32 @@ Piracicaba,Residencial Terras de Ártemis,casa,venda,7313.9,6943.2,7554.0,5,,set
 Piracicaba,Residencial Villa d'Aquila,casa,venda,8623.5,7653.1,9477.6,14,,setembro/2026
 Piracicaba,Santa Cecília,casa,venda,4000.0,2888.9,5000.0,9,,setembro/2026
 Piracicaba,Santa Rita,casa,venda,4383.9,3361.6,5189.8,19,,setembro/2026
-Piracicaba,Santa Rosa,casa,venda,8056.5,5000.0,9061.5,73,6.52,setembro/2026
-Piracicaba,Santa Rosa,casa,aluguel,43.8,36.4,51.5,32,6.52,setembro/2026
+Piracicaba,Santa Rosa,casa,venda,7924.5,4740.2,9050.0,75,6.65,setembro/2026
+Piracicaba,Santa Rosa,casa,aluguel,43.9,35.3,52.3,31,6.65,setembro/2026
 Piracicaba,Santa Rosa Ipês,casa,venda,4077.6,3203.7,7908.2,37,,setembro/2026
 Piracicaba,Santa Terezinha,casa,venda,2953.8,2553.5,3542.2,62,8.13,setembro/2026
 Piracicaba,Santa Terezinha,casa,aluguel,20.0,17.6,23.5,11,8.13,setembro/2026
-Piracicaba,São Dimas,casa,venda,4012.5,3308.5,5031.1,59,7.99,setembro/2026
-Piracicaba,São Dimas,casa,aluguel,26.7,19.6,39.1,37,7.99,setembro/2026
+Piracicaba,São Dimas,casa,venda,4014.6,3317.6,5180.6,60,7.98,setembro/2026
+Piracicaba,São Dimas,casa,aluguel,26.7,19.6,39.1,37,7.98,setembro/2026
 Piracicaba,São Jorge,casa,venda,2817.9,1765.9,4026.6,7,,setembro/2026
-Piracicaba,São Judas,casa,venda,4258.4,3710.0,4978.3,27,8.74,setembro/2026
+Piracicaba,São Judas,casa,venda,4258.4,3600.0,4979.6,29,8.74,setembro/2026
 Piracicaba,São Judas,casa,aluguel,31.0,25.0,41.3,11,8.74,setembro/2026
 Piracicaba,São Luiz,casa,venda,3605.4,2863.6,4815.5,33,,setembro/2026
-Piracicaba,Taquaral,casa,venda,6620.7,5331.9,7758.7,27,,setembro/2026
+Piracicaba,Taquaral,casa,venda,6701.0,5458.2,7751.2,28,,setembro/2026
 Piracicaba,Terra Nova,casa,venda,3785.8,2950.0,4795.3,22,,setembro/2026
 Piracicaba,Terra Rica,casa,venda,2655.4,2492.2,3230.8,5,,setembro/2026
 Piracicaba,Terras,casa,venda,6428.6,5600.0,7476.6,65,5.71,setembro/2026
 Piracicaba,Terras,casa,aluguel,30.6,28.7,34.6,27,5.71,setembro/2026
+Piracicaba,Terras de Piracicaba III,casa,venda,7468.5,6405.7,7517.9,5,,setembro/2026
 Piracicaba,Terras de Piracicaba IV,casa,venda,7440.5,6759.0,8131.9,7,,setembro/2026
 Piracicaba,Terras do Engenho,casa,venda,4432.1,3923.1,5375.8,11,,setembro/2026
-Piracicaba,Unileste,casa,venda,8000.0,6940.6,8963.4,11,,setembro/2026
+Piracicaba,Unileste,casa,venda,7583.3,6635.4,8930.0,12,,setembro/2026
 Piracicaba,Vale do Sol,casa,venda,3913.4,3380.1,4276.8,14,,setembro/2026
 Piracicaba,Verde,casa,venda,3712.9,2950.3,5166.7,17,,setembro/2026
 Piracicaba,Vila Cristina,casa,venda,2589.3,2040.8,3212.1,5,,setembro/2026
 Piracicaba,Vila Fatima,casa,venda,4100.0,3475.6,4562.0,5,,setembro/2026
-Piracicaba,Vila Independência,casa,venda,3602.9,3168.4,4437.9,67,6.69,setembro/2026
-Piracicaba,Vila Independência,casa,aluguel,20.1,17.2,23.7,32,6.69,setembro/2026
+Piracicaba,Vila Independência,casa,venda,3704.8,3168.4,4504.4,71,6.38,setembro/2026
+Piracicaba,Vila Independência,casa,aluguel,19.7,16.7,23.4,34,6.38,setembro/2026
 Piracicaba,Vila Industrial,casa,venda,2674.4,2233.0,4504.1,39,,setembro/2026
 Piracicaba,Vila Monteiro,casa,venda,3261.9,2750.0,3999.5,68,9.71,setembro/2026
 Piracicaba,Vila Monteiro,casa,aluguel,26.4,24.0,32.4,7,9.71,setembro/2026
@@ -294,18 +295,18 @@ Piracicaba,Vila Prudente,casa,venda,3679.4,3407.6,4432.6,14,,setembro/2026
 Piracicaba,Vila Rezende,casa,venda,3539.3,2813.7,4267.9,115,8.48,setembro/2026
 Piracicaba,Vila Rezende,casa,aluguel,25.0,19.9,27.7,15,8.48,setembro/2026
 Piracicaba,Vila Sônia,casa,venda,3160.5,2510.1,5613.6,13,,setembro/2026
-Piracicaba,Villa Bela Vista,casa,venda,9231.3,8649.2,9562.8,8,,setembro/2026
-Piracicaba,Villa d'Áquila,casa,venda,7722.4,7407.4,7848.8,5,,setembro/2026
+Piracicaba,Villa Bela Vista,casa,venda,9195.4,7476.8,9483.3,11,,setembro/2026
+Piracicaba,Villa d'Aquila,casa,venda,7700.0,7377.0,7848.8,9,,setembro/2026
 Piracicaba,Água Branca,terreno,venda,1000.0,987.3,1085.7,29,,setembro/2026
 Piracicaba,Água Seca,terreno,venda,898.4,808.5,966.7,23,,setembro/2026
 Piracicaba,Alphaville,terreno,venda,2568.6,2336.1,2709.5,6,,setembro/2026
 Piracicaba,Alto,terreno,venda,1500.0,1363.6,1831.3,9,,setembro/2026
 Piracicaba,Artemis,terreno,venda,553.6,481.1,604.6,5,,setembro/2026
 Piracicaba,Bongue,terreno,venda,872.7,790.2,1000.0,21,,setembro/2026
-Piracicaba,Campestre,terreno,venda,618.3,498.6,685.8,143,,setembro/2026
+Piracicaba,Campestre,terreno,venda,618.3,497.3,689.7,145,,setembro/2026
 Piracicaba,Campos do Conde,terreno,venda,720.3,700.9,750.0,9,,setembro/2026
 Piracicaba,Canadá,terreno,venda,857.5,852.2,892.0,6,,setembro/2026
-Piracicaba,Castelinho,terreno,venda,1050.3,975.0,1067.9,12,,setembro/2026
+Piracicaba,Castelinho,terreno,venda,1050.0,900.0,1066.7,13,,setembro/2026
 Piracicaba,Cecap,terreno,venda,762.7,666.7,972.9,7,,setembro/2026
 Piracicaba,Centro,terreno,venda,2100.8,1165.7,2848.6,31,,setembro/2026
 Piracicaba,Centro (Tupi),terreno,venda,2497.5,2000.0,2500.0,5,,setembro/2026
@@ -343,7 +344,7 @@ Piracicaba,Loteamento Residencial e Comercial Villa d'Aquila,terreno,venda,1493.
 Piracicaba,Loteamento Residencial Reserva do Engenho,terreno,venda,1012.9,973.7,1170.8,11,,setembro/2026
 Piracicaba,Loteamento Santa Rosa,terreno,venda,700.0,612.7,769.2,29,,setembro/2026
 Piracicaba,Loteamento São Francisco,terreno,venda,691.9,583.0,913.6,8,,setembro/2026
-Piracicaba,Monte Alegre,terreno,venda,1825.2,1729.6,2003.8,12,,setembro/2026
+Piracicaba,Monte Alegre,terreno,venda,1739.1,1711.1,2003.6,13,,setembro/2026
 Piracicaba,Monte Líbano,terreno,venda,600.0,493.6,693.3,7,,setembro/2026
 Piracicaba,Nossa Senhora de Fátima,terreno,venda,546.4,459.4,636.9,6,,setembro/2026
 Piracicaba,Nova,terreno,venda,923.1,903.8,998.2,19,,setembro/2026
@@ -387,29 +388,29 @@ Piracicaba,Terras Di Treviso,terreno,venda,800.0,722.9,825.8,7,,setembro/2026
 Piracicaba,Tupi,terreno,venda,765.5,347.0,2066.3,6,,setembro/2026
 Piracicaba,Unileste,terreno,venda,1190.9,1020.7,1393.4,14,,setembro/2026
 Piracicaba,Vale do Sol,terreno,venda,550.0,490.0,664.3,32,,setembro/2026
-Piracicaba,Vila Independência,terreno,venda,1133.3,889.0,1196.4,7,,setembro/2026
+Piracicaba,Vila Independência,terreno,venda,1062.8,926.0,1177.2,8,,setembro/2026
 Piracicaba,Vila Industrial,terreno,venda,898.1,626.1,1002.3,17,,setembro/2026
 Piracicaba,Vila Monteiro,terreno,venda,1149.8,1120.0,1317.1,9,,setembro/2026
 Piracicaba,Vila Rezende,terreno,venda,987.7,675.0,1250.0,9,,setembro/2026
 Piracicaba,Água Branca,sala,aluguel,32.8,20.6,38.3,7,,setembro/2026
 Piracicaba,Alemães,sala,aluguel,60.5,52.2,69.5,9,,setembro/2026
 Piracicaba,Alto,sala,venda,5162.5,3507.0,8208.3,16,9.3,setembro/2026
-Piracicaba,Alto,sala,aluguel,40.0,31.2,60.0,33,9.3,setembro/2026
+Piracicaba,Alto,sala,aluguel,40.0,31.7,60.2,35,9.3,setembro/2026
 Piracicaba,Bairro Alto,sala,aluguel,30.6,30.0,38.5,5,,setembro/2026
 Piracicaba,Capim Fino,sala,aluguel,58.4,54.0,90.8,9,,setembro/2026
-Piracicaba,Centro,sala,venda,4691.3,2799.5,8100.0,32,11.49,setembro/2026
-Piracicaba,Centro,sala,aluguel,44.9,26.4,67.6,75,11.49,setembro/2026
-Piracicaba,Cidade Alta,sala,venda,5622.7,3842.7,9250.0,26,8.9,setembro/2026
-Piracicaba,Cidade Alta,sala,aluguel,41.7,26.7,65.1,37,8.9,setembro/2026
-Piracicaba,Cidade Jardim,sala,venda,15000.0,13095.2,16250.0,5,7.11,setembro/2026
-Piracicaba,Cidade Jardim,sala,aluguel,88.9,71.4,102.2,11,7.11,setembro/2026
+Piracicaba,Centro,sala,venda,4857.1,2823.5,8461.5,33,11.09,setembro/2026
+Piracicaba,Centro,sala,aluguel,44.9,26.4,70.8,75,11.09,setembro/2026
+Piracicaba,Cidade Alta,sala,venda,5622.7,3842.7,9250.0,26,9.05,setembro/2026
+Piracicaba,Cidade Alta,sala,aluguel,42.4,27.2,66.3,38,9.05,setembro/2026
+Piracicaba,Cidade Jardim,sala,venda,15000.0,13095.2,16250.0,5,7.37,setembro/2026
+Piracicaba,Cidade Jardim,sala,aluguel,92.1,72.6,105.1,12,7.37,setembro/2026
 Piracicaba,Jardim Elite,sala,aluguel,45.3,36.7,59.4,6,,setembro/2026
-Piracicaba,Jardim Europa,sala,aluguel,81.0,76.3,99.2,6,,setembro/2026
-Piracicaba,Paulicéia,sala,aluguel,25.0,22.0,32.0,9,,setembro/2026
+Piracicaba,Jardim Europa,sala,aluguel,83.3,77.1,105.8,7,,setembro/2026
+Piracicaba,Paulicéia,sala,aluguel,26.2,22.3,33.0,10,,setembro/2026
 Piracicaba,Paulista,sala,aluguel,48.0,41.0,66.4,18,,setembro/2026
 Piracicaba,Piracicamirim,sala,aluguel,55.0,47.7,62.5,7,,setembro/2026
 Piracicaba,Residencial Nova Água Branca II,sala,aluguel,16.7,15.1,19.2,6,,setembro/2026
-Piracicaba,São Dimas,sala,aluguel,53.1,37.5,66.7,9,,setembro/2026
+Piracicaba,São Dimas,sala,aluguel,56.6,40.6,68.5,10,,setembro/2026
 Piracicaba,Vila Independência,sala,aluguel,55.7,34.3,61.7,10,,setembro/2026
 Piracicaba,Vila Industrial,sala,aluguel,40.0,40.0,45.0,5,,setembro/2026
 Piracicaba,Vila Monteiro,sala,aluguel,28.1,22.0,30.9,6,,setembro/2026
@@ -417,8 +418,8 @@ Piracicaba,Vila Rezende,sala,aluguel,39.8,28.6,52.1,19,,setembro/2026
 Piracicaba,Água Branca,galpao,aluguel,20.0,17.4,20.4,7,,setembro/2026
 Piracicaba,Alto,galpao,venda,2969.6,2238.6,3495.1,8,9.25,setembro/2026
 Piracicaba,Alto,galpao,aluguel,22.9,17.3,28.2,9,9.25,setembro/2026
-Piracicaba,Centro,galpao,venda,3254.6,2143.2,3375.1,6,8.44,setembro/2026
-Piracicaba,Centro,galpao,aluguel,22.9,15.5,24.6,11,8.44,setembro/2026
+Piracicaba,Centro,galpao,venda,3254.6,2143.2,3375.1,6,7.6,setembro/2026
+Piracicaba,Centro,galpao,aluguel,20.6,13.7,24.0,12,7.6,setembro/2026
 Piracicaba,Higienópolis,galpao,aluguel,28.6,19.8,32.3,6,,setembro/2026
 Piracicaba,Jardim Algodoal,galpao,aluguel,20.6,20.3,21.9,6,,setembro/2026
 Piracicaba,Jardim Caxambu,galpao,aluguel,20.8,20.0,23.4,6,,setembro/2026

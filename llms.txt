@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 21 cidades de Santa Catarina, Brasil, bairro por bairro, a partir de 97.302 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 22 cidades de Santa Catarina, Brasil, bairro por bairro, a partir de 109.830 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 ## Cidades (dados por bairro)
 
@@ -24,7 +24,8 @@
 - [Navegantes](https://acorridadosbairros.com.br/navegantes/): mediana apartamentos R$ 9.243/m² (venda)
 - [Santos](https://acorridadosbairros.com.br/sp/santos/): mediana apartamentos R$ 8.621/m² (venda)
 - [Limeira](https://acorridadosbairros.com.br/sp/limeira/): mediana apartamentos R$ 5.161/m² (venda)
-- [Piracicaba](https://acorridadosbairros.com.br/sp/piracicaba/): mediana apartamentos R$ 4.651/m² (venda)
+- [Piracicaba](https://acorridadosbairros.com.br/sp/piracicaba/): mediana apartamentos R$ 4.715/m² (venda)
+- [Campinas](https://acorridadosbairros.com.br/sp/campinas/): mediana apartamentos R$ 7.167/m² (venda)
 
 ## Ferramentas e dados
 

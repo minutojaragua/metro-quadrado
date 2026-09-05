@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 21 cidades de Santa Catarina, Brasil, bairro por bairro, a partir de 97.302 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 22 cidades de Santa Catarina, Brasil, bairro por bairro, a partir de 109.830 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -2176,96 +2176,96 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 
 ## Piracicaba (setembro/2026): https://acorridadosbairros.com.br/sp/piracicaba/
 
-### Apartamentos, cidade toda: venda R$ 4.651/m² (n=1989); aluguel R$ 33,3/m²/mês (n=749); rendimento bruto do aluguel 8,59% a.a.
+### Apartamentos, cidade toda: venda R$ 4.715/m² (n=2086); aluguel R$ 33,3/m²/mês (n=765); rendimento bruto do aluguel 8,48% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Água Branca | R$ 5.000 | 21 | R$ 27,8 | 15 | 6,67% | – |
+| Água Branca | R$ 5.000 | 23 | R$ 27,8 | 15 | 6,67% | – |
 | Água Seca | R$ 4.494 | 12 | – | – | – | – |
-| Alemães | R$ 8.051 | 45 | R$ 43,7 | 17 | 6,51% | – |
-| Alto | R$ 4.546 | 121 | R$ 33,6 | 35 | 8,87% | – |
-| Bongue | R$ 4.000 | 5 | – | – | – | – |
-| Campestre | R$ 4.156 | 25 | R$ 26,7 | 10 | 7,71% | – |
+| Alemães | R$ 8.273 | 50 | R$ 43,7 | 17 | 6,34% | – |
+| Alto | R$ 4.595 | 124 | R$ 33,6 | 35 | 8,77% | – |
+| Bongue | R$ 4.775 | 8 | – | – | – | – |
+| Campestre | R$ 4.156 | 27 | R$ 26,7 | 10 | 7,71% | – |
 | Castelinho | R$ 5.062 | 8 | – | – | – | – |
-| Centro | R$ 4.189 | 254 | R$ 31,6 | 61 | 9,05% | – |
+| Centro | R$ 4.216 | 259 | R$ 32,6 | 65 | 9,28% | – |
 | Chácara Esperia | R$ 5.369 | 5 | – | – | – | – |
 | Chácaras Água Branca | R$ 3.636 | 11 | – | – | – | – |
-| Cidade Alta | R$ 5.207 | 58 | R$ 38,3 | 53 | 8,83% | – |
-| Cidade Jardim | R$ 5.622 | 20 | R$ 61,1 | 15 | 13,04% | – |
-| Dois Córregos | R$ 4.658 | 37 | R$ 27,2 | 14 | 7,01% | – |
+| Cidade Alta | R$ 5.365 | 64 | R$ 37,6 | 54 | 8,41% | – |
+| Cidade Jardim | R$ 6.556 | 24 | R$ 61,0 | 16 | 11,17% | – |
+| Dois Córregos | R$ 4.818 | 38 | R$ 27,2 | 14 | 6,78% | – |
 | Gleba Califórnia | R$ 4.556 | 25 | R$ 35,2 | 6 | 9,27% | – |
-| Glebas Califórnia | R$ 4.657 | 23 | R$ 25,6 | 8 | 6,60% | – |
+| Glebas Califórnia | R$ 4.665 | 24 | R$ 25,6 | 8 | 6,58% | – |
 | Higienópolis | R$ 4.487 | 34 | R$ 20,6 | 10 | 5,51% | – |
 | Jaraguá | R$ 3.755 | 14 | – | – | – | – |
-| Jardim Abaeté | R$ 4.662 | 22 | R$ 25,0 | 7 | 6,43% | – |
+| Jardim Abaeté | R$ 4.623 | 23 | R$ 25,0 | 7 | 6,49% | – |
 | Jardim Astúrias I | R$ 4.470 | 5 | – | – | – | – |
 | Jardim Belvedere | R$ 3.037 | 7 | – | – | – | – |
-| Jardim Brasília | R$ 6.228 | 10 | – | – | – | – |
+| Jardim Brasília | R$ 6.228 | 12 | – | – | – | – |
 | Jardim Califórnia | R$ 7.499 | 10 | R$ 38,6 | 6 | 6,18% | – |
-| Jardim Caxambu | R$ 3.512 | 22 | – | – | – | – |
-| Jardim Elite | R$ 5.350 | 81 | R$ 31,7 | 30 | 7,11% | – |
-| Jardim Europa | R$ 10.286 | 26 | R$ 56,7 | 19 | 6,62% | – |
+| Jardim Caxambu | R$ 3.529 | 23 | – | – | – | – |
+| Jardim Elite | R$ 5.357 | 82 | R$ 31,7 | 30 | 7,10% | – |
+| Jardim Europa | R$ 10.177 | 30 | R$ 55,8 | 20 | 6,58% | – |
 | Jardim Itapuã | R$ 3.585 | 11 | – | – | – | – |
 | Jardim Maria | R$ 3.646 | 9 | – | – | – | – |
-| Jardim Nova Iguaçu | R$ 4.514 | 26 | R$ 26,0 | 8 | 6,91% | – |
+| Jardim Nova Iguaçu | R$ 4.546 | 27 | R$ 26,0 | 8 | 6,86% | – |
 | Jardim Nova Suíça | R$ 3.636 | 8 | R$ 22,7 | 5 | 7,49% | – |
 | Jardim Parque Jupiá | R$ 4.082 | 36 | R$ 24,3 | 8 | 7,14% | – |
 | Jardim Petrópolis | R$ 2.846 | 8 | – | – | – | – |
 | Jardim Santa Isabel | R$ 3.404 | 13 | – | – | – | – |
-| Jardim São Francisco | R$ 3.954 | 22 | R$ 23,3 | 10 | 7,07% | – |
+| Jardim São Francisco | R$ 4.078 | 23 | R$ 23,3 | 10 | 6,86% | – |
 | Jardim São Jorge | R$ 3.111 | 5 | – | – | – | – |
 | Jardim Sol Nascente | R$ 4.231 | 6 | – | – | – | – |
-| Jupiá | R$ 4.820 | 9 | – | – | – | – |
+| Jupiá | R$ 4.846 | 10 | – | – | – | – |
 | Loteamento Kobayat Líbano | R$ 3.273 | 11 | – | – | – | – |
 | Monte Líbano | R$ 3.528 | 6 | – | – | – | – |
 | Morumbi | R$ 4.516 | 31 | R$ 26,0 | 13 | 6,91% | – |
-| Nova | R$ 8.571 | 11 | – | – | – | – |
-| Nova América | R$ 4.713 | 99 | R$ 30,2 | 65 | 7,69% | – |
+| Nova | R$ 8.429 | 15 | – | – | – | – |
+| Nova América | R$ 4.729 | 104 | R$ 30,2 | 65 | 7,66% | – |
 | Nova Pompéia | R$ 3.913 | 7 | – | – | – | – |
-| Ondas | R$ 3.966 | 9 | – | – | – | – |
+| Ondas | R$ 4.151 | 10 | – | – | – | – |
 | Parque Água Branca | R$ 7.000 | 5 | – | – | – | – |
 | Parque Conceição II | R$ 5.214 | 19 | – | – | – | – |
 | Parque Orlanda I | R$ 3.186 | 5 | – | – | – | – |
 | Parque Residencial | R$ 3.581 | 6 | – | – | – | – |
-| Parque Santa Cecília | R$ 5.859 | 17 | R$ 27,7 | 8 | 5,67% | – |
+| Parque Santa Cecília | R$ 5.992 | 18 | R$ 27,7 | 8 | 5,55% | – |
 | Parque São Matheus | R$ 4.434 | 13 | – | – | – | – |
-| Paulicéia | R$ 5.332 | 60 | R$ 34,0 | 32 | 7,65% | – |
-| Paulista | R$ 5.109 | 49 | R$ 33,6 | 22 | 7,89% | – |
-| Piracicamirim | R$ 4.333 | 64 | R$ 27,3 | 21 | 7,56% | – |
+| Paulicéia | R$ 5.388 | 62 | R$ 34,0 | 32 | 7,57% | – |
+| Paulista | R$ 5.109 | 51 | R$ 33,7 | 23 | 7,92% | – |
+| Piracicamirim | R$ 4.333 | 64 | R$ 27,3 | 23 | 7,56% | – |
 | Pompéia | R$ 4.324 | 32 | R$ 30,6 | 11 | 8,49% | – |
-| Santa Cecília | R$ 5.341 | 6 | – | – | – | – |
+| Santa Cecília | R$ 5.227 | 7 | – | – | – | – |
 | Santa Terezinha | R$ 4.085 | 23 | R$ 20,7 | 5 | 6,08% | – |
-| São Dimas | R$ 7.722 | 91 | R$ 48,2 | 60 | 7,49% | – |
-| São Judas | R$ 9.001 | 82 | R$ 47,2 | 32 | 6,29% | – |
+| São Dimas | R$ 7.722 | 95 | R$ 48,2 | 60 | 7,49% | – |
+| São Judas | R$ 9.001 | 84 | R$ 45,8 | 34 | 6,11% | – |
 | Vale do Sol | R$ 2.340 | 19 | R$ 20,5 | 7 | 10,51% | – |
-| Vila Independência | R$ 7.143 | 59 | R$ 41,4 | 40 | 6,96% | – |
+| Vila Independência | R$ 7.195 | 62 | R$ 40,7 | 42 | 6,79% | – |
 | Vila Industrial | R$ 6.090 | 8 | – | – | – | – |
-| Vila Monteiro | R$ 4.090 | 42 | R$ 26,4 | 19 | 7,75% | – |
+| Vila Monteiro | R$ 4.045 | 45 | R$ 26,4 | 19 | 7,83% | – |
 | Vila Prudente | R$ 7.464 | 7 | – | – | – | – |
-| Vila Rezende | R$ 6.667 | 43 | R$ 21,2 | 5 | 3,82% | – |
+| Vila Rezende | R$ 6.667 | 43 | R$ 24,4 | 6 | 4,39% | – |
 | Vila Sônia | R$ 3.192 | 15 | – | – | – | – |
 
-### Casas, cidade toda: venda R$ 4.095/m² (n=4259); aluguel R$ 24,1/m²/mês (n=711); rendimento bruto do aluguel 7,06% a.a.
+### Casas, cidade toda: venda R$ 4.106/m² (n=4324); aluguel R$ 24,0/m²/mês (n=716); rendimento bruto do aluguel 7,01% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Água Branca | R$ 4.717 | 103 | R$ 21,1 | 20 | 5,37% | – |
-| Água Seca | R$ 5.957 | 15 | – | – | – | – |
+| Água Branca | R$ 4.708 | 104 | R$ 21,1 | 20 | 5,38% | – |
+| Água Seca | R$ 5.946 | 17 | – | – | – | – |
 | Alemães | R$ 4.073 | 47 | R$ 20,5 | 17 | 6,04% | – |
 | Algodoal | R$ 2.912 | 13 | – | – | – | – |
 | Alphaville | R$ 13.096 | 8 | R$ 57,4 | 6 | 5,26% | – |
-| Alto | R$ 3.750 | 83 | R$ 22,5 | 36 | 7,20% | – |
+| Alto | R$ 3.719 | 84 | R$ 21,3 | 35 | 6,87% | – |
 | Alto da Pompéia | R$ 2.940 | 10 | – | – | – | – |
 | Artemis | R$ 6.798 | 5 | – | – | – | – |
 | Bongue | R$ 8.337 | 14 | – | – | – | – |
-| Campestre | R$ 6.098 | 103 | R$ 37,6 | 13 | 7,40% | – |
+| Campestre | R$ 6.089 | 104 | R$ 37,6 | 13 | 7,41% | – |
 | Castelinho | R$ 3.566 | 49 | – | – | – | – |
 | Cecap | R$ 2.750 | 33 | – | – | – | – |
-| Centro | R$ 3.543 | 144 | R$ 19,9 | 63 | 6,74% | – |
+| Centro | R$ 3.537 | 147 | R$ 19,9 | 66 | 6,75% | – |
 | Chácara Esperia | R$ 4.843 | 6 | – | – | – | – |
 | Chácara Nazaré | R$ 4.444 | 5 | – | – | – | – |
 | Cidade Alta | R$ 3.056 | 32 | R$ 22,1 | 21 | 8,68% | – |
-| Cidade Jardim | R$ 5.836 | 26 | R$ 29,2 | 13 | 6,00% | – |
+| Cidade Jardim | R$ 5.836 | 28 | R$ 29,2 | 13 | 6,00% | – |
 | Cidade Judiciária | R$ 5.672 | 9 | – | – | – | – |
 | Colinas do Piracicaba (Ártemis) | R$ 4.584 | 51 | R$ 17,0 | 8 | 4,45% | – |
 | Conceição | R$ 5.432 | 12 | – | – | – | – |
@@ -2277,14 +2277,14 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Condomínio Villa Bela Vista | R$ 9.426 | 10 | – | – | – | – |
 | Conjunto Habitacional Água Branca | R$ 2.909 | 13 | – | – | – | – |
 | Conjunto Residencial Mário Dedini | R$ 2.954 | 49 | – | – | – | – |
-| Damha I | R$ 8.690 | 14 | – | – | – | – |
+| Damha I | R$ 8.342 | 18 | – | – | – | – |
 | Damha II | R$ 9.310 | 13 | – | – | – | – |
 | Dois Córregos | R$ 4.354 | 34 | R$ 20,8 | 7 | 5,73% | – |
 | Garças | R$ 2.833 | 25 | – | – | – | – |
 | Gleba Califórnia | R$ 4.808 | 7 | – | – | – | – |
 | Glebas Califórnia | R$ 5.429 | 7 | – | – | – | – |
-| Higienópolis | R$ 3.119 | 28 | R$ 21,8 | 5 | 8,39% | – |
-| Jaraguá | R$ 3.038 | 41 | – | – | – | – |
+| Higienópolis | R$ 3.171 | 29 | R$ 21,8 | 5 | 8,25% | – |
+| Jaraguá | R$ 3.060 | 42 | – | – | – | – |
 | Jardim Abaeté | R$ 4.068 | 10 | – | – | – | – |
 | Jardim Algodoal | R$ 2.688 | 43 | – | – | – | – |
 | Jardim Alvorada | R$ 3.359 | 44 | – | – | – | – |
@@ -2297,14 +2297,14 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Jardim Califórnia | R$ 5.657 | 28 | – | – | – | – |
 | Jardim Caxambu | R$ 4.185 | 35 | R$ 20,5 | 6 | 5,88% | – |
 | Jardim Diamante | R$ 2.828 | 13 | – | – | – | – |
-| Jardim Elite | R$ 4.119 | 32 | – | – | – | – |
+| Jardim Elite | R$ 4.128 | 33 | – | – | – | – |
 | Jardim Esplanada | R$ 2.279 | 14 | – | – | – | – |
-| Jardim Europa | R$ 4.343 | 37 | R$ 23,2 | 20 | 6,41% | – |
+| Jardim Europa | R$ 4.591 | 39 | R$ 25,1 | 22 | 6,56% | – |
 | Jardim Ibirapuera | R$ 2.750 | 16 | – | – | – | – |
 | Jardim Itapuã | R$ 2.216 | 32 | – | – | – | – |
 | Jardim Monumento | R$ 3.793 | 42 | R$ 17,9 | 6 | 5,66% | – |
 | Jardim Noiva da Colina | R$ 3.390 | 33 | – | – | – | – |
-| Jardim Nova Iguaçu | R$ 3.437 | 6 | – | – | – | – |
+| Jardim Nova Iguaçu | R$ 3.374 | 7 | – | – | – | – |
 | Jardim Nova Suíça | R$ 2.926 | 9 | – | – | – | – |
 | Jardim Oriente | R$ 2.533 | 9 | – | – | – | – |
 | Jardim Parque Jupiá | R$ 4.588 | 15 | – | – | – | – |
@@ -2313,7 +2313,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Jardim Santa Ignês II | R$ 3.046 | 8 | – | – | – | – |
 | Jardim Santa Isabel | R$ 2.763 | 5 | – | – | – | – |
 | Jardim Santa Silvia | R$ 3.080 | 5 | – | – | – | – |
-| Jardim São Francisco | R$ 6.052 | 34 | R$ 41,7 | 9 | 8,27% | – |
+| Jardim São Francisco | R$ 6.044 | 35 | R$ 41,7 | 9 | 8,28% | – |
 | Jardim São Jorge | R$ 2.768 | 14 | – | – | – | – |
 | Jardim São Luiz | R$ 3.114 | 32 | – | – | – | – |
 | Jardim São Mateus | R$ 3.575 | 6 | – | – | – | – |
@@ -2324,32 +2324,32 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Loteamento Kobayat Líbano | R$ 2.576 | 11 | – | – | – | – |
 | Loteamento Residencial e Comercial Villa d'Aquila | R$ 8.744 | 26 | R$ 43,9 | 5 | 6,02% | – |
 | Loteamento Residencial e Comercial Villa Daquila | R$ 8.290 | 7 | – | – | – | – |
-| Loteamento Residencial Reserva do Engenho | R$ 7.049 | 36 | – | – | – | – |
+| Loteamento Residencial Reserva do Engenho | R$ 7.107 | 37 | – | – | – | – |
 | Loteamento Santa Rosa | R$ 3.831 | 37 | – | – | – | – |
-| Loteamento São Francisco | R$ 3.810 | 53 | – | – | – | – |
+| Loteamento São Francisco | R$ 3.882 | 54 | – | – | – | – |
 | Mário Dedini | R$ 2.917 | 9 | – | – | – | – |
 | Monte Alegre | R$ 6.813 | 39 | R$ 40,0 | 14 | 7,05% | – |
 | Monte Líbano | R$ 2.214 | 30 | – | – | – | – |
 | Morada do Engenho | R$ 9.306 | 10 | – | – | – | – |
-| Morato | R$ 9.143 | 7 | – | – | – | – |
+| Morato | R$ 8.261 | 8 | – | – | – | – |
 | Morumbi | R$ 4.294 | 34 | – | – | – | – |
 | Nhô Quim | R$ 3.260 | 8 | – | – | – | – |
 | Noiva da Colina | R$ 2.500 | 5 | – | – | – | – |
 | Nossa Senhora de Fátima | R$ 3.200 | 28 | R$ 20,0 | 5 | 7,50% | – |
-| Nova | R$ 4.320 | 146 | R$ 23,6 | 36 | 6,56% | – |
-| Nova América | R$ 3.092 | 70 | R$ 17,5 | 8 | 6,79% | – |
+| Nova | R$ 4.401 | 149 | R$ 23,6 | 36 | 6,43% | – |
+| Nova América | R$ 3.111 | 73 | R$ 17,5 | 8 | 6,75% | – |
 | Nova Pompéia | R$ 6.439 | 32 | – | – | – | – |
 | Novo Horizonte | R$ 2.297 | 9 | – | – | – | – |
-| Ondas | R$ 7.089 | 76 | R$ 39,8 | 5 | 6,74% | – |
+| Ondas | R$ 7.039 | 78 | R$ 39,8 | 5 | 6,79% | – |
 | Ondas - Condomínio Soleil | R$ 7.216 | 6 | – | – | – | – |
 | Ondinhas | R$ 6.956 | 9 | – | – | – | – |
 | Panorama | R$ 4.232 | 7 | – | – | – | – |
 | Park Campestre | R$ 6.695 | 7 | – | – | – | – |
-| Park Unimep Taquaral | R$ 7.266 | 17 | – | – | – | – |
+| Park Unimep Taquaral | R$ 7.186 | 18 | – | – | – | – |
 | Parque Água Branca | R$ 4.090 | 26 | – | – | – | – |
 | Parque Cecap I | R$ 6.526 | 6 | – | – | – | – |
 | Parque Chapadão | R$ 2.837 | 7 | – | – | – | – |
-| Parque Conceição II | R$ 3.957 | 15 | – | – | – | – |
+| Parque Conceição II | R$ 3.962 | 16 | – | – | – | – |
 | Parque Nossa Senhora das Graças | R$ 3.000 | 15 | – | – | – | – |
 | Parque Orlanda I | R$ 3.333 | 7 | – | – | – | – |
 | Parque Primeiro de Maio | R$ 3.714 | 7 | – | – | – | – |
@@ -2361,15 +2361,15 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Parque São Jorge | R$ 3.517 | 8 | – | – | – | – |
 | Parque São Matheus | R$ 3.566 | 15 | R$ 30,8 | 5 | 10,37% | – |
 | Parque Taquaral | R$ 6.351 | 48 | R$ 20,0 | 8 | 3,78% | – |
-| Paulicéia | R$ 2.782 | 46 | R$ 18,8 | 9 | 8,11% | – |
-| Paulista | R$ 3.382 | 39 | R$ 20,7 | 12 | 7,35% | – |
+| Paulicéia | R$ 2.919 | 48 | R$ 18,8 | 9 | 7,73% | – |
+| Paulista | R$ 3.394 | 41 | R$ 20,7 | 12 | 7,32% | – |
 | Perdizes | R$ 3.277 | 28 | – | – | – | – |
-| Piracicamirim | R$ 3.735 | 58 | R$ 25,9 | 16 | 8,32% | – |
+| Piracicamirim | R$ 3.697 | 59 | R$ 25,9 | 16 | 8,41% | – |
 | Pompéia | R$ 3.429 | 39 | R$ 22,5 | 6 | 7,87% | – |
 | Prezoto | R$ 4.167 | 13 | – | – | – | – |
 | Prezotto | R$ 3.812 | 8 | – | – | – | – |
 | Reserva das Paineiras | R$ 6.100 | 12 | – | – | – | – |
-| Reserva do Engenho | R$ 7.183 | 16 | – | – | – | – |
+| Reserva do Engenho | R$ 7.159 | 18 | – | – | – | – |
 | Reserva Jequitibá | R$ 8.831 | 8 | – | – | – | – |
 | Reserva Taquaral | R$ 6.674 | 5 | – | – | – | – |
 | Residencial Agape | R$ 6.382 | 10 | – | – | – | – |
@@ -2386,34 +2386,35 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Residencial Villa d'Aquila | R$ 8.624 | 14 | – | – | – | – |
 | Santa Cecília | R$ 4.000 | 9 | – | – | – | – |
 | Santa Rita | R$ 4.384 | 19 | – | – | – | – |
-| Santa Rosa | R$ 8.056 | 73 | R$ 43,8 | 32 | 6,52% | – |
+| Santa Rosa | R$ 7.924 | 75 | R$ 43,9 | 31 | 6,65% | – |
 | Santa Rosa Ipês | R$ 4.078 | 37 | – | – | – | – |
 | Santa Terezinha | R$ 2.954 | 62 | R$ 20,0 | 11 | 8,13% | – |
-| São Dimas | R$ 4.012 | 59 | R$ 26,7 | 37 | 7,99% | – |
+| São Dimas | R$ 4.015 | 60 | R$ 26,7 | 37 | 7,98% | – |
 | São Jorge | R$ 2.818 | 7 | – | – | – | – |
-| São Judas | R$ 4.258 | 27 | R$ 31,0 | 11 | 8,74% | – |
+| São Judas | R$ 4.258 | 29 | R$ 31,0 | 11 | 8,74% | – |
 | São Luiz | R$ 3.605 | 33 | – | – | – | – |
-| Taquaral | R$ 6.621 | 27 | – | – | – | – |
+| Taquaral | R$ 6.701 | 28 | – | – | – | – |
 | Terra Nova | R$ 3.786 | 22 | – | – | – | – |
 | Terra Rica | R$ 2.655 | 5 | – | – | – | – |
 | Terras | R$ 6.429 | 65 | R$ 30,6 | 27 | 5,71% | – |
+| Terras de Piracicaba III | R$ 7.468 | 5 | – | – | – | – |
 | Terras de Piracicaba IV | R$ 7.440 | 7 | – | – | – | – |
 | Terras do Engenho | R$ 4.432 | 11 | – | – | – | – |
-| Unileste | R$ 8.000 | 11 | – | – | – | – |
+| Unileste | R$ 7.583 | 12 | – | – | – | – |
 | Vale do Sol | R$ 3.913 | 14 | – | – | – | – |
 | Verde | R$ 3.713 | 17 | – | – | – | – |
 | Vila Cristina | R$ 2.589 | 5 | – | – | – | – |
 | Vila Fatima | R$ 4.100 | 5 | – | – | – | – |
-| Vila Independência | R$ 3.603 | 67 | R$ 20,1 | 32 | 6,69% | – |
+| Vila Independência | R$ 3.705 | 71 | R$ 19,7 | 34 | 6,38% | – |
 | Vila Industrial | R$ 2.674 | 39 | – | – | – | – |
 | Vila Monteiro | R$ 3.262 | 68 | R$ 26,4 | 7 | 9,71% | – |
 | Vila Prudente | R$ 3.679 | 14 | – | – | – | – |
 | Vila Rezende | R$ 3.539 | 115 | R$ 25,0 | 15 | 8,48% | – |
 | Vila Sônia | R$ 3.160 | 13 | – | – | – | – |
-| Villa Bela Vista | R$ 9.231 | 8 | – | – | – | – |
-| Villa d'Áquila | R$ 7.722 | 5 | – | – | – | – |
+| Villa Bela Vista | R$ 9.195 | 11 | – | – | – | – |
+| Villa d'Aquila | R$ 7.700 | 9 | – | – | – | – |
 
-### Terrenos, cidade toda: venda R$ 810/m² (n=1699)
+### Terrenos, cidade toda: venda R$ 810/m² (n=1705)
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -2423,10 +2424,10 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Alto | R$ 1.500 | 9 | – | – | – | – |
 | Artemis | R$ 554 | 5 | – | – | – | – |
 | Bongue | R$ 873 | 21 | – | – | – | – |
-| Campestre | R$ 618 | 143 | – | – | – | – |
+| Campestre | R$ 618 | 145 | – | – | – | – |
 | Campos do Conde | R$ 720 | 9 | – | – | – | – |
 | Canadá | R$ 858 | 6 | – | – | – | – |
-| Castelinho | R$ 1.050 | 12 | – | – | – | – |
+| Castelinho | R$ 1.050 | 13 | – | – | – | – |
 | Cecap | R$ 763 | 7 | – | – | – | – |
 | Centro | R$ 2.101 | 31 | – | – | – | – |
 | Centro (Tupi) | R$ 2.498 | 5 | – | – | – | – |
@@ -2464,7 +2465,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Loteamento Residencial Reserva do Engenho | R$ 1.013 | 11 | – | – | – | – |
 | Loteamento Santa Rosa | R$ 700 | 29 | – | – | – | – |
 | Loteamento São Francisco | R$ 692 | 8 | – | – | – | – |
-| Monte Alegre | R$ 1.825 | 12 | – | – | – | – |
+| Monte Alegre | R$ 1.739 | 13 | – | – | – | – |
 | Monte Líbano | R$ 600 | 7 | – | – | – | – |
 | Nossa Senhora de Fátima | R$ 546 | 6 | – | – | – | – |
 | Nova | R$ 923 | 19 | – | – | – | – |
@@ -2508,34 +2509,502 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Tupi | R$ 766 | 6 | – | – | – | – |
 | Unileste | R$ 1.191 | 14 | – | – | – | – |
 | Vale do Sol | R$ 550 | 32 | – | – | – | – |
-| Vila Independência | R$ 1.133 | 7 | – | – | – | – |
+| Vila Independência | R$ 1.063 | 8 | – | – | – | – |
 | Vila Industrial | R$ 898 | 17 | – | – | – | – |
 | Vila Monteiro | R$ 1.150 | 9 | – | – | – | – |
 | Vila Rezende | R$ 988 | 9 | – | – | – | – |
 
-### Salas comerciais, cidade toda: venda R$ 5.426/m² (n=106); aluguel R$ 45,0/m²/mês (n=331); rendimento bruto do aluguel 9,95% a.a.
+### Salas comerciais, cidade toda: venda R$ 5.467/m² (n=109); aluguel R$ 45,5/m²/mês (n=339); rendimento bruto do aluguel 9,99% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
 | Água Branca | – | – | R$ 32,8 | 7 | – | – |
 | Alemães | – | – | R$ 60,5 | 9 | – | – |
-| Alto | R$ 5.162 | 16 | R$ 40,0 | 33 | 9,30% | – |
+| Alto | R$ 5.162 | 16 | R$ 40,0 | 35 | 9,30% | – |
 | Bairro Alto | – | – | R$ 30,6 | 5 | – | – |
 | Capim Fino | – | – | R$ 58,4 | 9 | – | – |
-| Centro | R$ 4.691 | 32 | R$ 44,9 | 75 | 11,49% | – |
-| Cidade Alta | R$ 5.623 | 26 | R$ 41,7 | 37 | 8,90% | – |
-| Cidade Jardim | R$ 15.000 | 5 | R$ 88,9 | 11 | 7,11% | – |
+| Centro | R$ 4.857 | 33 | R$ 44,9 | 75 | 11,09% | – |
+| Cidade Alta | R$ 5.623 | 26 | R$ 42,4 | 38 | 9,05% | – |
+| Cidade Jardim | R$ 15.000 | 5 | R$ 92,1 | 12 | 7,37% | – |
 | Jardim Elite | – | – | R$ 45,3 | 6 | – | – |
-| Jardim Europa | – | – | R$ 81,0 | 6 | – | – |
-| Paulicéia | – | – | R$ 25,0 | 9 | – | – |
+| Jardim Europa | – | – | R$ 83,3 | 7 | – | – |
+| Paulicéia | – | – | R$ 26,2 | 10 | – | – |
 | Paulista | – | – | R$ 48,0 | 18 | – | – |
 | Piracicamirim | – | – | R$ 55,0 | 7 | – | – |
 | Residencial Nova Água Branca II | – | – | R$ 16,7 | 6 | – | – |
-| São Dimas | – | – | R$ 53,1 | 9 | – | – |
+| São Dimas | – | – | R$ 56,6 | 10 | – | – |
 | Vila Independência | – | – | R$ 55,7 | 10 | – | – |
 | Vila Industrial | – | – | R$ 40,0 | 5 | – | – |
 | Vila Monteiro | – | – | R$ 28,1 | 6 | – | – |
 | Vila Rezende | – | – | R$ 39,8 | 19 | – | – |
+
+
+## Campinas (setembro/2026): https://acorridadosbairros.com.br/sp/campinas/
+
+### Apartamentos, cidade toda: venda R$ 7.167/m² (n=3866); aluguel R$ 50,0/m²/mês (n=2074); rendimento bruto do aluguel 8,37% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Alphaville | R$ 13.097 | 5 | – | – | – | – |
+| Bairro das Palmeiras | R$ 12.671 | 12 | – | – | – | – |
+| Barão Geraldo | – | – | R$ 46,1 | 9 | – | – |
+| Bonfim | R$ 7.440 | 46 | R$ 51,0 | 31 | 8,23% | – |
+| Bosque | R$ 5.795 | 88 | R$ 61,9 | 43 | 12,82% | – |
+| Botafogo | R$ 5.254 | 87 | R$ 46,1 | 60 | 10,53% | – |
+| Cambuí | R$ 10.321 | 624 | R$ 58,6 | 368 | 6,81% | – |
+| Centro | R$ 4.905 | 290 | R$ 40,0 | 159 | 9,79% | – |
+| Chácara Cneo | R$ 9.022 | 5 | – | – | – | – |
+| Chácara da Barra | R$ 10.000 | 44 | R$ 40,3 | 7 | 4,84% | – |
+| Chácara Primavera | R$ 8.782 | 14 | R$ 46,7 | 12 | 6,38% | – |
+| Cidade Satélite Íris | R$ 5.000 | 15 | R$ 42,0 | 8 | 10,08% | – |
+| Cidade Universitária | – | – | R$ 52,1 | 20 | – | – |
+| Conjunto Habitacional Edivaldo Antônio Orsi | R$ 2.956 | 6 | – | – | – | – |
+| Conjunto Residencial Parque Bandeirantes | R$ 3.929 | 8 | – | – | – | – |
+| Conjunto Residencial Souza Queiroz | R$ 3.321 | 8 | – | – | – | – |
+| Dic II (Conj Habitacional Doutor Antônio Mendonça de Barros) | R$ 3.157 | 6 | – | – | – | – |
+| Dic III (Conjunto Habitacional Ruy Novaes) | R$ 3.077 | 5 | – | – | – | – |
+| Dic VI (Conjunto Habitacional Santo Dias Silva) | R$ 3.182 | 5 | – | – | – | – |
+| Fazenda São Quirino | R$ 16.029 | 22 | R$ 81,5 | 12 | 6,10% | – |
+| Fundação da Casa Popular | R$ 7.841 | 10 | R$ 53,4 | 11 | 8,17% | – |
+| Galleria | R$ 12.616 | 6 | – | – | – | – |
+| Grupo Residencial do Iapc | R$ 9.864 | 6 | – | – | – | – |
+| Guanabara | R$ 11.263 | 8 | – | – | – | – |
+| Jardim Alto da Barra | R$ 11.421 | 6 | – | – | – | – |
+| Jardim Amazonas | R$ 5.361 | 13 | – | – | – | – |
+| Jardim Andorinhas | R$ 4.095 | 8 | – | – | – | – |
+| Jardim Antonio Von Zuben | R$ 5.642 | 18 | R$ 47,4 | 6 | 10,08% | – |
+| Jardim Aurélia | R$ 8.182 | 19 | R$ 47,0 | 19 | 6,89% | – |
+| Jardim Baronesa | R$ 8.913 | 5 | – | – | – | – |
+| Jardim Bela Vista | R$ 4.083 | 6 | – | – | – | – |
+| Jardim Belo Horizonte | R$ 14.951 | 28 | R$ 65,6 | 21 | 5,27% | – |
+| Jardim Boa Esperança | – | – | R$ 41,7 | 9 | – | – |
+| Jardim Brasil | R$ 11.735 | 27 | R$ 62,5 | 8 | 6,39% | – |
+| Jardim Campos Elíseos | R$ 4.041 | 20 | R$ 28,4 | 10 | 8,43% | – |
+| Jardim Capivari | R$ 5.376 | 12 | – | – | – | – |
+| Jardim Chapadão | R$ 6.579 | 33 | R$ 35,5 | 14 | 6,48% | – |
+| Jardim Cristina | R$ 3.925 | 5 | – | – | – | – |
+| Jardim das Bandeiras | R$ 3.964 | 12 | R$ 29,3 | 11 | 8,87% | – |
+| Jardim das Cerejeiras | R$ 8.667 | 9 | R$ 50,1 | 10 | 6,94% | – |
+| Jardim das Paineiras | R$ 9.067 | 31 | R$ 42,9 | 9 | 5,68% | – |
+| Jardim das Palmeiras | R$ 10.406 | 5 | – | – | – | – |
+| Jardim do Lago | R$ 6.070 | 24 | R$ 36,0 | 6 | 7,12% | – |
+| Jardim do Lago Continuação | R$ 5.400 | 21 | R$ 29,2 | 6 | 6,49% | – |
+| Jardim do Lago II | R$ 5.254 | 7 | – | – | – | – |
+| Jardim do Trevo | R$ 4.740 | 5 | – | – | – | – |
+| Jardim Dom Bosco | – | – | R$ 46,2 | 6 | – | – |
+| Jardim dos Oliveiras | R$ 4.302 | 6 | – | – | – | – |
+| Jardim Esmeraldina | R$ 5.745 | 6 | – | – | – | – |
+| Jardim Flamboyant | R$ 5.864 | 30 | R$ 36,1 | 20 | 7,39% | – |
+| Jardim García | R$ 6.112 | 18 | – | – | – | – |
+| Jardim Guanabara | R$ 11.287 | 52 | R$ 68,2 | 34 | 7,25% | – |
+| Jardim Guarani | R$ 7.567 | 12 | R$ 26,4 | 5 | 4,19% | – |
+| Jardim Ibirapuera | R$ 7.154 | 6 | R$ 61,0 | 27 | 10,23% | – |
+| Jardim Interlagos | R$ 4.308 | 8 | – | – | – | – |
+| Jardim Ipaussurama | R$ 6.504 | 16 | R$ 44,3 | 12 | 8,17% | – |
+| Jardim Itamarati | R$ 17.333 | 8 | R$ 86,1 | 8 | 5,96% | – |
+| Jardim Madalena | R$ 13.378 | 15 | R$ 63,6 | 14 | 5,70% | – |
+| Jardim Márcia | R$ 4.880 | 12 | – | – | – | – |
+| Jardim Margarida | R$ 6.685 | 6 | – | – | – | – |
+| Jardim Miranda | R$ 5.131 | 12 | – | – | – | – |
+| Jardim Monte Alto | R$ 4.715 | 8 | – | – | – | – |
+| Jardim Myrian Moreira da Costa | R$ 7.738 | 6 | R$ 43,6 | 5 | 6,76% | – |
+| Jardim Nossa Senhora Auxiliadora | R$ 8.986 | 8 | – | – | – | – |
+| Jardim Nova Europa | R$ 6.307 | 72 | R$ 45,0 | 36 | 8,56% | – |
+| Jardim Novo Campos Elíseos | R$ 3.727 | 7 | – | – | – | – |
+| Jardim Novo Maracanã | R$ 4.192 | 9 | – | – | – | – |
+| Jardim Novo São José | R$ 5.456 | 6 | – | – | – | – |
+| Jardim Ouro Verde | R$ 4.881 | 5 | – | – | – | – |
+| Jardim Pacaembu | R$ 3.845 | 6 | – | – | – | – |
+| Jardim Paraíso | R$ 5.648 | 18 | R$ 32,0 | 10 | 6,80% | – |
+| Jardim Paranapanema | R$ 7.451 | 9 | – | – | – | – |
+| Jardim Paulicéia | R$ 4.310 | 19 | R$ 27,8 | 14 | 7,74% | – |
+| Jardim Paulistano | R$ 5.400 | 6 | – | – | – | – |
+| Jardim Planalto | R$ 8.872 | 8 | R$ 83,3 | 12 | 11,27% | – |
+| Jardim Primavera | R$ 9.167 | 5 | – | – | – | – |
+| Jardim Proença | R$ 5.862 | 45 | R$ 32,9 | 9 | 6,73% | – |
+| Jardim Samambaia | R$ 5.654 | 12 | R$ 44,9 | 5 | 9,53% | – |
+| Jardim Santa Genebra | R$ 8.317 | 7 | – | – | – | – |
+| Jardim São José | R$ 4.766 | 7 | – | – | – | – |
+| Jardim São Vicente | R$ 6.841 | 11 | R$ 46,5 | 16 | 8,16% | – |
+| Jardim Uruguai | R$ 5.102 | 6 | – | – | – | – |
+| Loteamento Alphaville | R$ 10.876 | 11 | R$ 46,9 | 9 | 5,17% | – |
+| Loteamento Chácara Prado | R$ 8.533 | 7 | – | – | – | – |
+| Loteamento Country Ville | R$ 3.750 | 7 | – | – | – | – |
+| Loteamento Parque das Águas | R$ 5.227 | 11 | R$ 50,0 | 5 | 11,48% | – |
+| Loteamento Parque São Martinho | R$ 5.545 | 24 | R$ 35,2 | 6 | 7,62% | – |
+| Loteamento Residencial Parque dos Cantos | R$ 6.144 | 6 | – | – | – | – |
+| Loteamento Residencial Vila Bella | R$ 9.328 | 15 | R$ 48,8 | 5 | 6,28% | – |
+| Loteamento Residencial Vila Bella Dom Pedro | R$ 12.141 | 12 | R$ 66,7 | 12 | 6,59% | – |
+| Mansões Santo Antônio | R$ 9.897 | 134 | R$ 52,4 | 79 | 6,35% | – |
+| Notre Dame | R$ 8.905 | 8 | R$ 67,8 | 6 | 9,14% | – |
+| Nova | R$ 14.174 | 88 | R$ 101,3 | 42 | 8,58% | – |
+| Parque Brasília | R$ 7.857 | 9 | R$ 29,8 | 22 | 4,55% | – |
+| Parque Camélias | R$ 4.912 | 7 | – | – | – | – |
+| Parque da Hípica | R$ 9.674 | 10 | – | – | – | – |
+| Parque das Cachoeiras | R$ 5.778 | 11 | – | – | – | – |
+| Parque das Constelações | R$ 4.778 | 5 | – | – | – | – |
+| Parque das Flores | R$ 10.202 | 9 | R$ 58,2 | 10 | 6,85% | – |
+| Parque Dom Pedro II | R$ 4.158 | 6 | – | – | – | – |
+| Parque Fazendinha | R$ 5.443 | 13 | R$ 35,1 | 6 | 7,74% | – |
+| Parque Industrial | R$ 8.000 | 51 | R$ 62,5 | 35 | 9,38% | – |
+| Parque Itália | R$ 6.288 | 27 | R$ 40,2 | 14 | 7,67% | – |
+| Parque Nova | R$ 11.218 | 7 | R$ 77,1 | 6 | 8,25% | – |
+| Parque Prado | R$ 9.717 | 84 | R$ 53,2 | 31 | 6,57% | – |
+| Parque Residencial Caiapó | R$ 4.896 | 7 | – | – | – | – |
+| Parque Residencial Vila União | R$ 3.607 | 10 | – | – | – | – |
+| Parque Rural Fazenda Santa Cândida | R$ 11.367 | 19 | R$ 58,9 | 17 | 6,22% | – |
+| Parque São Jorge | R$ 4.600 | 9 | R$ 28,7 | 6 | 7,49% | – |
+| Parque Taquaral | – | – | R$ 63,6 | 7 | – | – |
+| Parque Valença I | R$ 4.015 | 6 | – | – | – | – |
+| Ponte Preta | R$ 5.943 | 59 | R$ 51,5 | 23 | 10,40% | – |
+| Recanto do Sol I | R$ 4.043 | 13 | – | – | – | – |
+| Residencial Cosmos | R$ 4.127 | 8 | R$ 27,3 | 7 | 7,94% | – |
+| Residencial Moradas do Valle | R$ 4.868 | 8 | – | – | – | – |
+| Residencial Parque da Fazenda | R$ 7.178 | 18 | R$ 53,1 | 24 | 8,88% | – |
+| Residencial Sírius | R$ 3.505 | 8 | – | – | – | – |
+| Residencial Vila Park | R$ 4.623 | 9 | – | – | – | – |
+| Residencial Villa Garden | R$ 8.962 | 8 | – | – | – | – |
+| São Bernardo | R$ 6.220 | 51 | R$ 42,3 | 21 | 8,16% | – |
+| Swift | R$ 8.832 | 20 | R$ 48,3 | 33 | 6,56% | – |
+| Swiss Park | R$ 12.033 | 45 | R$ 75,9 | 24 | 7,57% | – |
+| Taquaral | R$ 11.370 | 131 | R$ 63,2 | 77 | 6,67% | – |
+| Vila Abaeté | R$ 3.696 | 7 | – | – | – | – |
+| Vila Anhangüera | R$ 6.667 | 9 | R$ 38,8 | 6 | 6,98% | – |
+| Vila Brandina | R$ 10.237 | 32 | R$ 68,1 | 21 | 7,98% | – |
+| Vila Carminha | R$ 5.156 | 11 | – | – | – | – |
+| Vila Estanislau | R$ 6.567 | 6 | – | – | – | – |
+| Vila Formosa | R$ 5.968 | 6 | – | – | – | – |
+| Vila Industrial | R$ 5.393 | 65 | R$ 41,7 | 31 | 9,28% | – |
+| Vila Ipê | R$ 7.696 | 8 | R$ 32,3 | 7 | 5,04% | – |
+| Vila Itália | R$ 3.973 | 5 | – | – | – | – |
+| Vila Itapura | R$ 6.974 | 87 | R$ 57,9 | 60 | 9,96% | – |
+| Vila João Jorge | R$ 6.774 | 25 | R$ 37,1 | 10 | 6,57% | – |
+| Vila Joaquim Inácio | R$ 3.750 | 5 | – | – | – | – |
+| Vila Lídia | R$ 10.889 | 13 | R$ 80,4 | 21 | 8,86% | – |
+| Vila Marieta | R$ 5.204 | 26 | R$ 36,2 | 12 | 8,35% | – |
+| Vila Mimosa | R$ 5.248 | 16 | R$ 38,7 | 9 | 8,85% | – |
+| Vila Nova | R$ 7.417 | 23 | R$ 49,9 | 22 | 8,07% | – |
+| Vila Nova Teixeira | R$ 5.210 | 8 | – | – | – | – |
+| Vila Orozimbo Maia | R$ 4.327 | 9 | – | – | – | – |
+| Vila Padre Manoel de Nóbrega | R$ 3.700 | 5 | – | – | – | – |
+| Vila Palácios | R$ 5.800 | 11 | – | – | – | – |
+| Vila Pompéia | R$ 5.312 | 8 | – | – | – | – |
+| Vila Progresso | R$ 8.569 | 14 | R$ 51,9 | 22 | 7,27% | – |
+| Vila Proost de Souza | R$ 6.609 | 19 | R$ 36,7 | 7 | 6,66% | – |
+| Vila Rossi | R$ 5.748 | 6 | – | – | – | – |
+| Vila Rossi Borghi e Siqueira | R$ 6.800 | 9 | – | – | – | – |
+| Vila Santana | R$ 4.398 | 6 | – | – | – | – |
+| Vila São Bento | R$ 7.402 | 10 | R$ 50,7 | 6 | 8,22% | – |
+| Vila Satúrnia | R$ 7.872 | 17 | R$ 53,7 | 9 | 8,19% | – |
+| Vila Trinta e Um de Março | R$ 11.542 | 9 | – | – | – | – |
+
+### Casas, cidade toda: venda R$ 5.183/m² (n=3268); aluguel R$ 29,6/m²/mês (n=1220); rendimento bruto do aluguel 6,85% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Alphaville | R$ 9.515 | 34 | – | – | – | – |
+| Alphaville D. Pedro 1 | R$ 10.891 | 8 | – | – | – | – |
+| Alphaville Dom Pedro | R$ 11.168 | 31 | R$ 48,8 | 14 | 5,24% | – |
+| Alphaville Dom Pedro 2 | R$ 12.549 | 8 | – | – | – | – |
+| Alphaville Dom Pedro 3 | R$ 12.044 | 21 | – | – | – | – |
+| Alto Taquaral | R$ 5.971 | 15 | – | – | – | – |
+| Arborais | R$ 10.689 | 8 | – | – | – | – |
+| Bairro das Palmeiras | R$ 8.825 | 15 | R$ 36,6 | 11 | 4,98% | – |
+| Barão Geraldo | R$ 5.889 | 82 | R$ 32,5 | 17 | 6,62% | – |
+| Barão Geraldo - Centro | R$ 3.950 | 7 | – | – | – | – |
+| Bonfim | R$ 5.972 | 12 | – | – | – | – |
+| Bosque | R$ 4.244 | 14 | R$ 35,6 | 20 | 10,07% | – |
+| Bosque das Palmeiras | R$ 4.710 | 9 | – | – | – | – |
+| Bosque de Barão Geraldo | R$ 5.448 | 12 | – | – | – | – |
+| Botafogo | R$ 4.989 | 14 | R$ 25,6 | 11 | 6,16% | – |
+| Cambuí | R$ 8.058 | 37 | R$ 47,1 | 48 | 7,01% | – |
+| Caminhos de San Conrado | R$ 5.661 | 10 | – | – | – | – |
+| Centro | R$ 3.984 | 15 | R$ 28,2 | 24 | 8,49% | – |
+| Chácara da Barra | R$ 4.153 | 23 | R$ 26,1 | 12 | 7,54% | – |
+| Chácara Primavera | R$ 8.487 | 30 | R$ 39,9 | 22 | 5,64% | – |
+| Chácara Santa Margarida | R$ 5.660 | 5 | – | – | – | – |
+| Chácara São Rafael | R$ 9.281 | 9 | – | – | – | – |
+| Cidade Jardim | R$ 3.635 | 9 | – | – | – | – |
+| Cidade Universitária | R$ 4.312 | 82 | R$ 25,1 | 12 | 6,99% | – |
+| Colinas do Ermitage (Sousas) | R$ 7.190 | 5 | – | – | – | – |
+| Condomínio Chácaras do Alto da Nova | R$ 9.167 | 7 | – | – | – | – |
+| Conjunto Habitacional Padre Anchieta | R$ 2.899 | 7 | – | – | – | – |
+| Conjunto Habitacional Parque da Floresta | R$ 2.407 | 7 | – | – | – | – |
+| Dic II (Conj Habitacional Doutor Antônio Mendonça de Barros) | R$ 2.759 | 6 | – | – | – | – |
+| Dic III (Conjunto Habitacional Ruy Novaes) | R$ 2.122 | 6 | – | – | – | – |
+| Dic V (Conjunto Habitacional Chico Mendes) | R$ 1.633 | 11 | – | – | – | – |
+| Dic VI (Conjunto Habitacional Santo Dias Silva) | R$ 2.834 | 8 | – | – | – | – |
+| Fazenda Santa Cândida | R$ 8.462 | 13 | – | – | – | – |
+| Fazenda São Quirino | R$ 7.335 | 5 | – | – | – | – |
+| Galleria | R$ 10.157 | 6 | – | – | – | – |
+| Gramado | R$ 9.677 | 21 | R$ 42,2 | 6 | 5,23% | – |
+| Hipica | R$ 7.171 | 5 | – | – | – | – |
+| Jardim Aires da Costa | R$ 3.648 | 8 | – | – | – | – |
+| Jardim Alto da Barra | R$ 3.565 | 5 | – | – | – | – |
+| Jardim América | R$ 4.280 | 6 | – | – | – | – |
+| Jardim Anchieta | R$ 3.042 | 7 | – | – | – | – |
+| Jardim Antonio Von Zuben | R$ 3.271 | 7 | – | – | – | – |
+| Jardim Aurélia | R$ 4.093 | 8 | R$ 17,2 | 6 | 5,04% | – |
+| Jardim Baronesa | R$ 2.929 | 7 | – | – | – | – |
+| Jardim Bela Vista | R$ 4.876 | 10 | R$ 29,5 | 9 | 7,26% | – |
+| Jardim Boa Esperança | R$ 4.018 | 10 | R$ 26,5 | 17 | 7,91% | – |
+| Jardim Bom Retiro | – | – | R$ 34,7 | 6 | – | – |
+| Jardim Botânico (Sousas) | R$ 6.236 | 10 | – | – | – | – |
+| Jardim Campos Elíseos | R$ 3.343 | 18 | – | – | – | – |
+| Jardim Capivari | R$ 3.308 | 6 | – | – | – | – |
+| Jardim Carlos Gomes | R$ 5.590 | 7 | – | – | – | – |
+| Jardim Carlos Lourenço | R$ 2.900 | 9 | – | – | – | – |
+| Jardim Chapadão | R$ 4.125 | 88 | R$ 25,3 | 42 | 7,36% | – |
+| Jardim Conceição | R$ 5.484 | 9 | R$ 37,4 | 10 | 8,18% | – |
+| Jardim Cristina | R$ 3.366 | 5 | – | – | – | – |
+| Jardim das Bandeiras | – | – | R$ 21,2 | 9 | – | – |
+| Jardim das Oliveiras | R$ 3.222 | 5 | – | – | – | – |
+| Jardim das Paineiras | R$ 5.167 | 24 | R$ 33,3 | 21 | 7,73% | – |
+| Jardim das Palmeiras | R$ 5.919 | 9 | – | – | – | – |
+| Jardim do Sol | R$ 5.537 | 14 | R$ 27,5 | 7 | 5,96% | – |
+| Jardim do Trevo | R$ 3.700 | 11 | R$ 33,4 | 6 | 10,83% | – |
+| Jardim do Vovô | R$ 4.583 | 7 | – | – | – | – |
+| Jardim Dom Bosco | R$ 5.067 | 10 | R$ 31,1 | 7 | 7,37% | – |
+| Jardim dos Oliveiras | R$ 3.502 | 10 | R$ 24,6 | 12 | 8,43% | – |
+| Jardim Estoril | R$ 3.550 | 8 | – | – | – | – |
+| Jardim Eulina | R$ 3.264 | 31 | – | – | – | – |
+| Jardim Flamboyant | R$ 4.892 | 14 | R$ 24,3 | 15 | 5,96% | – |
+| Jardim García | R$ 3.660 | 7 | – | – | – | – |
+| Jardim Guanabara | R$ 4.284 | 31 | R$ 22,9 | 17 | 6,41% | – |
+| Jardim Guarani | R$ 3.760 | 16 | – | – | – | – |
+| Jardim Ibirapuera | R$ 5.932 | 8 | – | – | – | – |
+| Jardim Independência | R$ 3.846 | 12 | R$ 23,1 | 5 | 7,21% | – |
+| Jardim Ipaussurama | R$ 3.911 | 6 | – | – | – | – |
+| Jardim Irmãos Sigrist | R$ 3.322 | 6 | – | – | – | – |
+| Jardim Itamarati | – | – | R$ 32,4 | 5 | – | – |
+| Jardim Leonor | R$ 3.617 | 22 | R$ 23,0 | 10 | 7,63% | – |
+| Jardim Londres | R$ 3.041 | 7 | – | – | – | – |
+| Jardim Lumen Christi | R$ 4.570 | 7 | – | – | – | – |
+| Jardim Madalena | R$ 7.143 | 15 | R$ 56,0 | 9 | 9,41% | – |
+| Jardim Magnólia | R$ 3.667 | 11 | – | – | – | – |
+| Jardim Miranda | R$ 3.614 | 5 | – | – | – | – |
+| Jardim Morumbi | R$ 3.056 | 8 | – | – | – | – |
+| Jardim Myrian Moreira da Costa | R$ 4.808 | 8 | – | – | – | – |
+| Jardim New York | R$ 3.200 | 7 | – | – | – | – |
+| Jardim Nossa Senhora Auxiliadora | R$ 5.161 | 20 | R$ 31,1 | 30 | 7,23% | – |
+| Jardim Nova Europa | R$ 4.016 | 20 | R$ 24,0 | 13 | 7,17% | – |
+| Jardim Novo Campos Elíseos | R$ 3.717 | 20 | R$ 20,9 | 6 | 6,75% | – |
+| Jardim Novo Maracanã | R$ 2.600 | 5 | – | – | – | – |
+| Jardim Ouro Preto | R$ 2.368 | 5 | – | – | – | – |
+| Jardim Paraíso | R$ 4.632 | 16 | R$ 22,1 | 14 | 5,72% | – |
+| Jardim Paraíso de Viracopos | R$ 3.516 | 12 | – | – | – | – |
+| Jardim Planalto | R$ 4.594 | 9 | – | – | – | – |
+| Jardim Planalto de Viracopos | R$ 2.000 | 12 | – | – | – | – |
+| Jardim Primavera | – | – | R$ 24,5 | 10 | – | – |
+| Jardim Proença | R$ 3.876 | 16 | R$ 22,8 | 13 | 7,06% | – |
+| Jardim Proença I | R$ 4.494 | 15 | – | – | – | – |
+| Jardim Roseira | R$ 2.900 | 9 | – | – | – | – |
+| Jardim San Diego | R$ 3.120 | 6 | – | – | – | – |
+| Jardim Santa Eudóxia | R$ 3.450 | 7 | – | – | – | – |
+| Jardim Santa Genebra | R$ 4.461 | 20 | – | – | – | – |
+| Jardim Santa Genebra II (Barão Geraldo) | R$ 6.727 | 10 | – | – | – | – |
+| Jardim Santa Judith | R$ 4.388 | 9 | – | – | – | – |
+| Jardim Santa Lúcia | R$ 2.850 | 8 | – | – | – | – |
+| Jardim Santa Marcelina | R$ 6.576 | 18 | R$ 34,8 | 6 | 6,35% | – |
+| Jardim Santa Rita de Cássia | R$ 3.974 | 6 | – | – | – | – |
+| Jardim Santana | R$ 4.014 | 13 | R$ 32,0 | 6 | 9,57% | – |
+| Jardim São Carlos | R$ 4.717 | 5 | R$ 29,4 | 10 | 7,48% | – |
+| Jardim São Fernando | R$ 3.166 | 7 | – | – | – | – |
+| Jardim São Francisco | R$ 3.109 | 5 | – | – | – | – |
+| Jardim São Francisco (Sousas) | R$ 4.607 | 7 | – | – | – | – |
+| Jardim São Gonçalo | R$ 4.942 | 6 | – | – | – | – |
+| Jardim São Rafael | – | – | R$ 26,3 | 5 | – | – |
+| Jardim Tupi | R$ 4.295 | 7 | – | – | – | – |
+| Jardim Uruguai | R$ 2.560 | 7 | – | – | – | – |
+| Joaquim Egídio | R$ 9.142 | 6 | – | – | – | – |
+| Loteamento Alphaville | R$ 9.304 | 83 | R$ 45,5 | 49 | 5,87% | – |
+| Loteamento Arboreto dos Jequitibás (Sousas) | R$ 7.551 | 6 | – | – | – | – |
+| Loteamento Artesano | R$ 12.438 | 5 | – | – | – | – |
+| Loteamento Caminhos de San Conrado (Sousas) | R$ 7.860 | 13 | – | – | – | – |
+| Loteamento Chácaras Vale das Garças | R$ 4.669 | 9 | – | – | – | – |
+| Loteamento Mont Blanc Residence | R$ 10.347 | 31 | – | – | – | – |
+| Loteamento Parque dos Alecrins | R$ 9.586 | 30 | R$ 52,2 | 5 | 6,53% | – |
+| Loteamento Residencial Arborais | R$ 11.244 | 39 | R$ 71,4 | 5 | 7,62% | – |
+| Loteamento Residencial Campina Verde | R$ 4.936 | 6 | – | – | – | – |
+| Loteamento Residencial Entre Verdes (Sousas) | R$ 16.033 | 11 | – | – | – | – |
+| Loteamento Residencial Flavia | R$ 3.452 | 6 | – | – | – | – |
+| Loteamento Residencial Jaguari (Sousas) | R$ 8.577 | 6 | – | – | – | – |
+| Loteamento Residencial Pedra Alta (Sousas) | R$ 11.920 | 17 | – | – | – | – |
+| Loteamento Residencial Porto Seguro | R$ 3.199 | 7 | – | – | – | – |
+| Mansões Santo Antônio | R$ 7.841 | 11 | – | – | – | – |
+| Mont Blanc Résidence | R$ 11.983 | 5 | – | – | – | – |
+| Notre Dame | R$ 8.678 | 6 | – | – | – | – |
+| Nova | R$ 7.820 | 42 | R$ 39,2 | 65 | 6,02% | – |
+| Nova Sousas (Sousas) | R$ 4.015 | 6 | – | – | – | – |
+| Núcleo Residencial Parque da Amizade | R$ 9.154 | 5 | – | – | – | – |
+| Parque Alto Taquaral | R$ 4.708 | 21 | R$ 32,1 | 9 | 8,18% | – |
+| Parque Beatriz | R$ 4.187 | 9 | – | – | – | – |
+| Parque Camboriú | R$ 2.760 | 6 | – | – | – | – |
+| Parque da Figueira | R$ 3.755 | 8 | R$ 27,5 | 6 | 8,79% | – |
+| Parque da Hípica | R$ 7.046 | 22 | – | – | – | – |
+| Parque das Flores | R$ 6.551 | 8 | R$ 31,3 | 6 | 5,73% | – |
+| Parque das Quaresmeiras | R$ 7.941 | 9 | – | – | – | – |
+| Parque das Universidades | R$ 4.556 | 9 | – | – | – | – |
+| Parque Dom Pedro II | R$ 2.863 | 6 | – | – | – | – |
+| Parque dos Pomares | R$ 4.712 | 8 | R$ 40,7 | 6 | 10,37% | – |
+| Parque dos Resedás | R$ 8.779 | 8 | R$ 45,7 | 7 | 6,25% | – |
+| Parque Imperador | R$ 7.500 | 17 | – | – | – | – |
+| Parque Industrial | R$ 4.617 | 7 | – | – | – | – |
+| Parque Jambeiro | R$ 6.381 | 18 | R$ 42,1 | 6 | 7,92% | – |
+| Parque Jatibaia (Sousas) | R$ 4.735 | 6 | – | – | – | – |
+| Parque Nova | R$ 6.066 | 14 | R$ 26,4 | 20 | 5,22% | – |
+| Parque Residencial Carvalho de Moura | R$ 3.092 | 8 | – | – | – | – |
+| Parque Residencial Vila União | R$ 3.358 | 12 | – | – | – | – |
+| Parque Rural Fazenda Santa Cândida | R$ 8.733 | 30 | R$ 39,4 | 8 | 5,41% | – |
+| Parque Santa Bárbara | R$ 4.504 | 8 | R$ 18,9 | 9 | 5,04% | – |
+| Parque São Jorge | R$ 3.200 | 5 | – | – | – | – |
+| Parque São Quirino | R$ 3.429 | 15 | R$ 26,9 | 6 | 9,41% | – |
+| Parque Taquaral | R$ 6.474 | 67 | R$ 40,9 | 40 | 7,58% | – |
+| Parque Tropical | R$ 3.284 | 6 | – | – | – | – |
+| Parque Universitário de Viracopos | R$ 2.333 | 8 | – | – | – | – |
+| Parque Via Norte | R$ 4.000 | 15 | – | – | – | – |
+| Parque Xangrilá | R$ 5.776 | 17 | – | – | – | – |
+| Ponte Preta | R$ 4.631 | 6 | R$ 22,2 | 6 | 5,75% | – |
+| Recanto do Sol II | R$ 3.292 | 7 | – | – | – | – |
+| Residencial Barão do Café | R$ 6.718 | 28 | R$ 28,3 | 7 | 5,05% | – |
+| Residencial Cittá Di Firenze | R$ 4.064 | 6 | – | – | – | – |
+| Residencial Cittá Di Salerno | R$ 3.909 | 9 | – | – | – | – |
+| Residencial Cosmos | R$ 4.531 | 7 | – | – | – | – |
+| Residencial Estância Eudóxia | R$ 10.681 | 12 | – | – | – | – |
+| Residencial Jatibela | R$ 12.389 | 16 | – | – | – | – |
+| Residencial Nova Bandeirante | R$ 3.500 | 7 | – | – | – | – |
+| Residencial Parque dos Alecrins | R$ 9.250 | 5 | – | – | – | – |
+| Residencial Parque Rio das Pedras | R$ 7.438 | 32 | – | – | – | – |
+| Residencial Sainte Helene | R$ 11.858 | 13 | – | – | – | – |
+| Residencial Terra Nova | R$ 3.198 | 5 | – | – | – | – |
+| Residencial Terras do Barão | R$ 6.582 | 17 | – | – | – | – |
+| Residencial Vila Verde | R$ 6.016 | 9 | – | – | – | – |
+| São Bernardo | R$ 5.183 | 7 | – | – | – | – |
+| Sítios de Recreio Gramado | R$ 10.873 | 27 | R$ 38,0 | 6 | 4,19% | – |
+| Sousas | R$ 11.083 | 15 | R$ 28,8 | 10 | 3,12% | – |
+| Swiss Park | R$ 9.996 | 91 | R$ 46,7 | 42 | 5,61% | – |
+| Taquaral | R$ 4.714 | 46 | R$ 31,4 | 20 | 7,99% | – |
+| Tijuco das Telhas | R$ 5.125 | 12 | – | – | – | – |
+| Vila Aeroporto | R$ 2.332 | 17 | – | – | – | – |
+| Vila Anhangüera | R$ 3.901 | 5 | – | – | – | – |
+| Vila Boa Vista | R$ 2.392 | 6 | – | – | – | – |
+| Vila Brandina | R$ 3.818 | 7 | R$ 18,0 | 5 | 5,66% | – |
+| Vila Carlito | R$ 5.017 | 5 | – | – | – | – |
+| Vila Castelo Branco | R$ 3.241 | 7 | – | – | – | – |
+| Vila Costa e Silva | R$ 5.213 | 10 | – | – | – | – |
+| Vila dos Plátanos | R$ 8.904 | 8 | – | – | – | – |
+| Vila Dutra | R$ 3.553 | 6 | – | – | – | – |
+| Vila Georgina | R$ 2.783 | 9 | R$ 22,4 | 11 | 9,66% | – |
+| Vila Hollândia | R$ 6.076 | 13 | – | – | – | – |
+| Vila Industrial | R$ 3.248 | 20 | R$ 26,8 | 14 | 9,90% | – |
+| Vila Itapura | R$ 6.078 | 9 | R$ 27,8 | 13 | 5,49% | – |
+| Vila João Jorge | R$ 4.447 | 6 | – | – | – | – |
+| Vila Joaquim Inácio | R$ 3.946 | 5 | R$ 23,9 | 5 | 7,27% | – |
+| Vila Lemos | R$ 3.932 | 10 | R$ 23,0 | 9 | 7,02% | – |
+| Vila Lunardi | R$ 2.667 | 7 | – | – | – | – |
+| Vila Marieta | R$ 4.734 | 9 | – | – | – | – |
+| Vila Miguel Vicente Cury | R$ 5.639 | 6 | – | – | – | – |
+| Vila Nogueira | R$ 4.612 | 16 | R$ 19,5 | 13 | 5,07% | – |
+| Vila Nova | R$ 4.739 | 9 | R$ 26,8 | 6 | 6,79% | – |
+| Vila Nova São José | R$ 3.058 | 13 | – | – | – | – |
+| Vila Padre Manoel de Nóbrega | R$ 2.868 | 9 | – | – | – | – |
+| Vila Paraíso | R$ 2.158 | 5 | – | – | – | – |
+| Vila Perseu Leite de Barros | R$ 4.600 | 6 | – | – | – | – |
+| Vila Pompéia | R$ 1.971 | 6 | – | – | – | – |
+| Vila Progresso | R$ 2.951 | 6 | – | – | – | – |
+| Vila Proost de Souza | R$ 4.214 | 8 | – | – | – | – |
+| Vila Rica | R$ 3.500 | 6 | – | – | – | – |
+| Vila Santa Isabel | R$ 5.391 | 11 | – | – | – | – |
+| Ville Sainte Hélène | R$ 11.493 | 18 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 1.243/m² (n=1121)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Alphaville | R$ 1.599 | 11 | – | – | – | – |
+| Alphaville Dom Pedro | R$ 2.500 | 11 | – | – | – | – |
+| Alphaville Dom Pedro 3 | R$ 2.441 | 7 | – | – | – | – |
+| Alphaville Dom Pedro Zero | R$ 2.430 | 9 | – | – | – | – |
+| Alto Taquaral | R$ 1.886 | 8 | – | – | – | – |
+| Bairro das Palmeiras | R$ 1.770 | 8 | – | – | – | – |
+| Barão Geraldo | R$ 1.000 | 49 | – | – | – | – |
+| Bela Aliança | R$ 1.740 | 6 | – | – | – | – |
+| Bosque | R$ 2.133 | 6 | – | – | – | – |
+| Cambuí | R$ 5.831 | 6 | – | – | – | – |
+| Caminhos de San Conrado (Sousas) | R$ 1.000 | 7 | – | – | – | – |
+| Centro | R$ 4.000 | 7 | – | – | – | – |
+| Chácara Bela Vista | R$ 462 | 13 | – | – | – | – |
+| Chácara Belvedere | R$ 488 | 8 | – | – | – | – |
+| Chácara Santa Margarida | R$ 691 | 26 | – | – | – | – |
+| Chácara São Rafael | R$ 1.196 | 6 | – | – | – | – |
+| Cidade Universitária | R$ 1.111 | 7 | – | – | – | – |
+| Condomínio Residencial Portinari | R$ 821 | 6 | – | – | – | – |
+| Fazenda Pau d'Alho | R$ 1.638 | 9 | – | – | – | – |
+| Fazenda Santa Cândida | R$ 983 | 8 | – | – | – | – |
+| Guara | R$ 594 | 6 | – | – | – | – |
+| Jardim Aliança | R$ 1.052 | 6 | – | – | – | – |
+| Jardim Chapadão | R$ 1.522 | 13 | – | – | – | – |
+| Jardim Conceição (Sousas) | R$ 2.032 | 8 | – | – | – | – |
+| Jardim Guarani | R$ 1.235 | 8 | – | – | – | – |
+| Jardim Madalena | R$ 2.012 | 8 | – | – | – | – |
+| Jardim Myrian Moreira da Costa | R$ 1.600 | 7 | – | – | – | – |
+| Jardim Nova Europa | R$ 1.286 | 5 | – | – | – | – |
+| Jardim Novo Campos Elíseos | R$ 950 | 9 | – | – | – | – |
+| Jardim Santana | R$ 833 | 6 | – | – | – | – |
+| Jardim São Judas Tadeu | R$ 588 | 7 | – | – | – | – |
+| Jatibela | R$ 2.152 | 8 | – | – | – | – |
+| Joaquim Egídio | R$ 319 | 11 | – | – | – | – |
+| Loteamento Alphaville | R$ 1.708 | 18 | – | – | – | – |
+| Loteamento Artesano | R$ 2.196 | 11 | – | – | – | – |
+| Loteamento Artesano Galleria | R$ 2.077 | 6 | – | – | – | – |
+| Loteamento Caminhos de San Conrado (Sousas) | R$ 908 | 10 | – | – | – | – |
+| Loteamento Mont Blanc Residence | R$ 2.258 | 7 | – | – | – | – |
+| Loteamento Parque dos Alecrins | R$ 1.232 | 8 | – | – | – | – |
+| Loteamento Residencial Arborais | R$ 1.737 | 27 | – | – | – | – |
+| Loteamento Residencial Entre Verdes (Sousas) | R$ 1.183 | 19 | – | – | – | – |
+| Loteamento Residencial Pedra Alta (Sousas) | R$ 1.045 | 21 | – | – | – | – |
+| Loteamento Serena | R$ 1.580 | 35 | – | – | – | – |
+| Morada das Nascentes | R$ 241 | 5 | – | – | – | – |
+| Morada das Nascentes (Joaquim Egídio) | R$ 287 | 13 | – | – | – | – |
+| Nova | R$ 3.300 | 25 | – | – | – | – |
+| Parque Ceasa | R$ 2.584 | 8 | – | – | – | – |
+| Parque das Universidades | R$ 905 | 13 | – | – | – | – |
+| Parque dos Pomares | R$ 678 | 8 | – | – | – | – |
+| Parque Jatibaia (Sousas) | R$ 385 | 7 | – | – | – | – |
+| Parque Rural Fazenda Santa Cândida | R$ 1.134 | 19 | – | – | – | – |
+| Parque São Quirino | R$ 883 | 14 | – | – | – | – |
+| Parque Taquaral | R$ 2.000 | 11 | – | – | – | – |
+| Parque Xangrilá | R$ 967 | 11 | – | – | – | – |
+| Residencial Cittá Di Salerno | R$ 677 | 6 | – | – | – | – |
+| Residencial Jatibela | R$ 1.686 | 13 | – | – | – | – |
+| Residencial Parque da Fazenda | R$ 1.014 | 6 | – | – | – | – |
+| Residencial Terras do Barão | R$ 1.388 | 6 | – | – | – | – |
+| Santa Clara | R$ 952 | 5 | – | – | – | – |
+| Sousas | R$ 866 | 22 | – | – | – | – |
+| Swiss Park | R$ 2.262 | 14 | – | – | – | – |
+| Taquaral | R$ 2.462 | 7 | – | – | – | – |
+| Vila Modesto Fernandes | R$ 1.314 | 7 | – | – | – | – |
+| Vila Sônia (Sousas) | R$ 1.988 | 9 | – | – | – | – |
+
+### Salas comerciais, cidade toda: venda R$ 5.375/m² (n=239); aluguel R$ 38,0/m²/mês (n=382); rendimento bruto do aluguel 8,48% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Barão Geraldo | – | – | R$ 36,8 | 5 | – | – |
+| Bosque | R$ 5.588 | 9 | – | – | – | – |
+| Botafogo | R$ 5.454 | 16 | R$ 45,0 | 13 | 9,90% | – |
+| Cambuí | R$ 9.858 | 32 | R$ 67,3 | 32 | 8,19% | – |
+| Centro | R$ 3.448 | 105 | R$ 20,0 | 150 | 6,96% | – |
+| Jardim Brasil | R$ 4.446 | 6 | – | – | – | – |
+| Jardim Chapadão | R$ 8.485 | 9 | R$ 27,7 | 11 | 3,92% | – |
+| Jardim Guanabara | R$ 5.679 | 8 | R$ 48,0 | 13 | 10,14% | – |
+| Jardim Leonor | – | – | R$ 71,0 | 7 | – | – |
+| Loteamento Alphaville | – | – | R$ 85,5 | 13 | – | – |
+| Parque dos Resedás | – | – | R$ 75,0 | 5 | – | – |
+| Swiss Park | – | – | R$ 64,6 | 8 | – | – |
+| Taquaral | – | – | R$ 47,7 | 13 | – | – |
+| Vila Itapura | R$ 6.193 | 16 | R$ 45,0 | 15 | 8,72% | – |
+| Ville Sainte Hélène | R$ 12.219 | 7 | – | – | – | – |
 
 
 Metodologia: https://acorridadosbairros.com.br/metodologia/ · Dados abertos CC BY 4.0: https://acorridadosbairros.com.br/dados.csv · Imprensa: https://acorridadosbairros.com.br/imprensa/
