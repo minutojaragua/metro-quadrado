@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 27 cidades de Santa Catarina, Brasil, bairro por bairro, a partir de 119.796 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 27 cidades de Santa Catarina, Brasil, bairro por bairro, a partir de 119.819 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -3243,7 +3243,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 
 ## Vitória (setembro/2026): https://acorridadosbairros.com.br/es/vitoria/
 
-### Apartamentos, cidade toda: venda R$ 13.795/m² (n=1008); aluguel R$ 54,4/m²/mês (n=141); rendimento bruto do aluguel 4,73% a.a.
+### Apartamentos, cidade toda: venda R$ 13.772/m² (n=1022); aluguel R$ 54,4/m²/mês (n=141); rendimento bruto do aluguel 4,74% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -3251,21 +3251,22 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Bento Ferreira | R$ 11.688 | 93 | R$ 46,7 | 5 | 4,79% | – |
 | Centro | R$ 3.579 | 14 | – | – | – | – |
 | Enseada do Suá | R$ 18.562 | 76 | R$ 59,8 | 16 | 3,87% | – |
+| Ilha de Santa Maria | R$ 18.964 | 8 | – | – | – | – |
 | Ilha do Boi | R$ 11.216 | 10 | – | – | – | – |
-| Jardim Camburi | R$ 13.173 | 223 | R$ 48,1 | 24 | 4,38% | – |
+| Jardim Camburi | R$ 13.170 | 226 | R$ 48,1 | 24 | 4,38% | – |
 | Jardim da Penha | R$ 11.745 | 162 | R$ 48,9 | 25 | 5,00% | – |
-| Maruípe | R$ 5.431 | 6 | – | – | – | – |
+| Maruípe | R$ 8.750 | 11 | – | – | – | – |
 | Mata da Praia | R$ 17.778 | 83 | R$ 52,7 | 14 | 3,56% | – |
 | Monte Belo | R$ 15.114 | 6 | – | – | – | – |
 | Morada de Camburi | R$ 12.416 | 6 | – | – | – | – |
-| Praia de Santa Helena | R$ 14.286 | 9 | – | – | – | – |
+| Praia de Santa Helena | R$ 12.857 | 10 | – | – | – | – |
 | Praia do Canto | R$ 16.573 | 125 | R$ 55,4 | 20 | 4,01% | – |
 | Praia do Suá | R$ 13.837 | 24 | – | – | – | – |
 | Santa Helena | R$ 13.418 | 33 | – | – | – | – |
 | Santa Lúcia | R$ 13.096 | 44 | R$ 59,5 | 8 | 5,45% | – |
 | Santa Luíza | R$ 18.275 | 8 | – | – | – | – |
 
-### Casas, cidade toda: venda R$ 8.667/m² (n=165); aluguel R$ 39,2/m²/mês (n=10); rendimento bruto do aluguel 5,43% a.a.
+### Casas, cidade toda: venda R$ 8.516/m² (n=172); aluguel R$ 39,2/m²/mês (n=10); rendimento bruto do aluguel 5,52% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -3273,13 +3274,14 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | De Lourdes | R$ 5.289 | 11 | – | – | – | – |
 | Fradinhos | R$ 7.024 | 5 | – | – | – | – |
 | Ilha do Boi | R$ 12.117 | 22 | – | – | – | – |
-| Jardim Camburi | R$ 10.981 | 17 | – | – | – | – |
+| Jardim Camburi | R$ 10.877 | 18 | – | – | – | – |
 | Jardim da Penha | R$ 9.449 | 8 | – | – | – | – |
+| Maruípe | R$ 5.000 | 9 | – | – | – | – |
 | Mata da Praia | R$ 10.179 | 38 | – | – | – | – |
 | República | R$ 6.806 | 8 | – | – | – | – |
 | Santa Cecília | R$ 4.000 | 7 | – | – | – | – |
 
-### Terrenos, cidade toda: venda R$ 5.904/m² (n=31)
+### Terrenos, cidade toda: venda R$ 5.904/m² (n=33)
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
