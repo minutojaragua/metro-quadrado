@@ -1,0 +1,30 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Palmas,Bertaville,casa,venda,4024.4,3378.4,4333.3,17,,setembro/2026
+Palmas,Graciosa - Orla 14,casa,venda,7201.9,4611.0,8692.6,15,,setembro/2026
+Palmas,Jardim Aureny III,casa,venda,3706.9,3490.2,3883.3,10,,setembro/2026
+Palmas,Jardim Janaína (Taquaralto),casa,venda,3432.8,3254.7,3572.8,7,,setembro/2026
+Palmas,Loteamento Caribe,casa,venda,9432.2,7467.4,10350.8,15,,setembro/2026
+Palmas,Loteamento Residencial Polinésia,casa,venda,7887.4,7639.9,9510.0,8,,setembro/2026
+Palmas,Morada do Sol,casa,venda,3606.6,3583.3,3671.9,5,,setembro/2026
+Palmas,Plano Diretor Norte,casa,venda,4750.0,3365.7,6373.7,115,9.25,setembro/2026
+Palmas,Plano Diretor Norte,casa,aluguel,36.6,28.8,50.3,6,9.25,setembro/2026
+Palmas,Plano Diretor Sul,casa,venda,5226.6,3925.0,6809.6,542,7.76,setembro/2026
+Palmas,Plano Diretor Sul,casa,aluguel,33.8,26.3,42.5,43,7.76,setembro/2026
+Palmas,Setor Santa Fé 2 (Taquaralto),casa,venda,3387.1,3278.5,3684.8,7,,setembro/2026
+Palmas,Graciosa - Orla 14,apartamento,venda,13184.1,11209.6,14860.1,99,5.33,setembro/2026
+Palmas,Graciosa - Orla 14,apartamento,aluguel,58.6,50.5,79.0,23,5.33,setembro/2026
+Palmas,Loteamento Lago Sul (Taquaralto),apartamento,venda,2857.1,2500.0,3125.0,5,,setembro/2026
+Palmas,Plano Diretor Norte,apartamento,venda,6909.1,5569.1,8885.7,75,8.82,setembro/2026
+Palmas,Plano Diretor Norte,apartamento,aluguel,50.8,43.1,61.4,27,8.82,setembro/2026
+Palmas,Plano Diretor Sul,apartamento,venda,8081.9,6696.4,10240.3,165,7.05,setembro/2026
+Palmas,Plano Diretor Sul,apartamento,aluguel,47.5,38.8,53.0,65,7.05,setembro/2026
+Palmas,Bertaville,terreno,venda,347.7,311.1,367.0,8,,setembro/2026
+Palmas,Loteamento Caribe,terreno,venda,918.2,812.5,1083.8,10,,setembro/2026
+Palmas,Loteamento Residencial Polinésia,terreno,venda,663.9,618.5,739.6,8,,setembro/2026
+Palmas,Plano Diretor Norte,terreno,venda,851.1,600.0,1250.0,17,,setembro/2026
+Palmas,Plano Diretor Sul,terreno,venda,833.3,654.6,1226.3,88,,setembro/2026
+Palmas,Plano Diretor Norte,sala,aluguel,52.9,37.9,54.4,14,,setembro/2026
+Palmas,Plano Diretor Sul,sala,venda,11790.9,11771.2,14211.5,9,4.66,setembro/2026
+Palmas,Plano Diretor Sul,sala,aluguel,45.8,34.9,62.5,18,4.66,setembro/2026
+Palmas,Plano Diretor Sul,galpao,venda,2272.7,1848.0,3222.2,9,10.45,setembro/2026
+Palmas,Plano Diretor Sul,galpao,aluguel,19.8,15.5,23.1,32,10.45,setembro/2026
