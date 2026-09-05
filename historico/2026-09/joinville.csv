@@ -1,160 +1,163 @@
 cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
 Joinville,Adhemar Garcia,apartamento,aluguel,26.5,24.8,29.2,10,,setembro/2026
-Joinville,América,apartamento,venda,9064.6,6812.4,11534.5,428,4.78,setembro/2026
-Joinville,América,apartamento,aluguel,36.1,28.1,44.9,97,4.78,setembro/2026
-Joinville,Anita Garibaldi,apartamento,venda,8172.6,6469.8,9908.4,350,4.95,setembro/2026
-Joinville,Anita Garibaldi,apartamento,aluguel,33.7,27.7,46.2,93,4.95,setembro/2026
-Joinville,Atiradores,apartamento,venda,8857.1,7068.1,11363.6,233,4.4,setembro/2026
-Joinville,Atiradores,apartamento,aluguel,32.5,26.8,42.1,46,4.4,setembro/2026
+Joinville,América,apartamento,venda,9088.7,6864.0,11534.5,440,4.7,setembro/2026
+Joinville,América,apartamento,aluguel,35.6,28.0,44.7,99,4.7,setembro/2026
+Joinville,Anita Garibaldi,apartamento,venda,8195.9,6455.9,9915.2,359,4.95,setembro/2026
+Joinville,Anita Garibaldi,apartamento,aluguel,33.8,27.7,46.5,94,4.95,setembro/2026
+Joinville,Atiradores,apartamento,venda,9036.1,7214.4,11511.7,259,4.34,setembro/2026
+Joinville,Atiradores,apartamento,aluguel,32.7,26.8,42.3,47,4.34,setembro/2026
 Joinville,Aventureiro,apartamento,venda,5391.3,4860.2,6009.4,30,6.19,setembro/2026
 Joinville,Aventureiro,apartamento,aluguel,27.8,23.7,30.6,28,6.19,setembro/2026
-Joinville,Boa Vista,apartamento,venda,5000.0,3544.3,6090.9,13,7.01,setembro/2026
+Joinville,Boa Vista,apartamento,venda,5000.0,3861.1,6074.3,15,7.01,setembro/2026
 Joinville,Boa Vista,apartamento,aluguel,29.2,24.8,34.0,23,7.01,setembro/2026
-Joinville,Boehmerwald,apartamento,aluguel,27.5,23.8,31.9,18,,setembro/2026
-Joinville,Bom Retiro,apartamento,venda,6392.9,5226.7,7552.7,83,5.59,setembro/2026
-Joinville,Bom Retiro,apartamento,aluguel,29.8,26.2,34.6,56,5.59,setembro/2026
-Joinville,Bucarein,apartamento,venda,6571.4,5181.3,7818.2,65,5.88,setembro/2026
+Joinville,Boehmerwald,apartamento,venda,4883.7,4334.1,5133.3,5,6.76,setembro/2026
+Joinville,Boehmerwald,apartamento,aluguel,27.5,23.8,31.9,18,6.76,setembro/2026
+Joinville,Bom Retiro,apartamento,venda,6493.1,5254.9,7608.4,84,5.51,setembro/2026
+Joinville,Bom Retiro,apartamento,aluguel,29.8,26.2,34.6,56,5.51,setembro/2026
+Joinville,Bucarein,apartamento,venda,6571.4,5240.5,7837.5,69,5.88,setembro/2026
 Joinville,Bucarein,apartamento,aluguel,32.2,28.0,39.7,41,5.88,setembro/2026
-Joinville,Centro,apartamento,venda,8500.0,6434.7,11416.5,151,5.01,setembro/2026
-Joinville,Centro,apartamento,aluguel,35.5,27.4,47.6,96,5.01,setembro/2026
+Joinville,Centro,apartamento,venda,8552.7,6460.8,11500.0,157,5.05,setembro/2026
+Joinville,Centro,apartamento,aluguel,36.0,27.5,48.9,97,5.05,setembro/2026
 Joinville,Comasa,apartamento,venda,4713.2,4264.7,6163.5,9,10.16,setembro/2026
 Joinville,Comasa,apartamento,aluguel,39.9,35.6,49.2,6,10.16,setembro/2026
-Joinville,Costa e Silva,apartamento,venda,6379.2,5254.9,7789.9,218,6.15,setembro/2026
-Joinville,Costa e Silva,apartamento,aluguel,32.7,27.0,40.0,104,6.15,setembro/2026
+Joinville,Costa e Silva,apartamento,venda,6360.9,5262.5,7756.9,219,6.15,setembro/2026
+Joinville,Costa e Silva,apartamento,aluguel,32.6,27.1,39.6,105,6.15,setembro/2026
 Joinville,Espinheiros,apartamento,venda,6282.6,5398.4,6549.7,7,,setembro/2026
 Joinville,Fátima,apartamento,venda,5195.1,4616.3,6154.4,12,,setembro/2026
-Joinville,Floresta,apartamento,venda,5790.7,4510.9,6800.7,93,6.3,setembro/2026
-Joinville,Floresta,apartamento,aluguel,30.4,26.4,36.4,53,6.3,setembro/2026
-Joinville,Glória,apartamento,venda,7725.1,6065.9,9419.2,110,5.27,setembro/2026
-Joinville,Glória,apartamento,aluguel,33.9,26.1,43.9,40,5.27,setembro/2026
+Joinville,Floresta,apartamento,venda,5616.0,4521.5,6708.3,94,6.5,setembro/2026
+Joinville,Floresta,apartamento,aluguel,30.4,26.4,36.4,53,6.5,setembro/2026
+Joinville,Glória,apartamento,venda,7894.7,6158.4,10034.1,117,5.15,setembro/2026
+Joinville,Glória,apartamento,aluguel,33.9,26.1,43.9,40,5.15,setembro/2026
 Joinville,Guanabara,apartamento,venda,6290.1,5051.9,6763.2,24,5.3,setembro/2026
 Joinville,Guanabara,apartamento,aluguel,27.8,23.6,34.7,15,5.3,setembro/2026
-Joinville,Iririú,apartamento,venda,5051.4,4592.6,6023.4,58,7.2,setembro/2026
+Joinville,Iririú,apartamento,venda,5052.1,4601.8,6022.4,59,7.2,setembro/2026
 Joinville,Iririú,apartamento,aluguel,30.3,24.6,34.1,40,7.2,setembro/2026
-Joinville,Itaum,apartamento,venda,5422.3,4898.3,6319.4,17,7.79,setembro/2026
-Joinville,Itaum,apartamento,aluguel,35.2,33.8,36.6,8,7.79,setembro/2026
+Joinville,Itaum,apartamento,venda,5442.9,4940.4,6192.8,20,7.76,setembro/2026
+Joinville,Itaum,apartamento,aluguel,35.2,33.8,36.6,8,7.76,setembro/2026
 Joinville,Jardim Iririú,apartamento,venda,4699.2,4365.9,4864.7,11,6.51,setembro/2026
 Joinville,Jardim Iririú,apartamento,aluguel,25.5,22.5,31.1,13,6.51,setembro/2026
-Joinville,Jardim Sofia,apartamento,venda,5444.4,4446.4,5888.9,9,5.69,setembro/2026
-Joinville,Jardim Sofia,apartamento,aluguel,25.8,22.7,30.3,7,5.69,setembro/2026
+Joinville,Jardim Sofia,apartamento,venda,5153.1,4231.2,5798.2,10,6.01,setembro/2026
+Joinville,Jardim Sofia,apartamento,aluguel,25.8,22.7,30.3,7,6.01,setembro/2026
 Joinville,Jarivatuba,apartamento,aluguel,25.0,24.0,25.4,5,,setembro/2026
 Joinville,João Costa,apartamento,venda,4762.8,4374.2,5227.3,10,7.43,setembro/2026
 Joinville,João Costa,apartamento,aluguel,29.5,27.2,33.3,15,7.43,setembro/2026
-Joinville,Nova Brasília,apartamento,venda,6254.9,5197.5,7180.2,7,,setembro/2026
+Joinville,Nova Brasília,apartamento,venda,6044.1,5384.5,7020.3,8,,setembro/2026
 Joinville,Paranaguamirim,apartamento,venda,4187.5,3921.3,5152.8,11,8.02,setembro/2026
 Joinville,Paranaguamirim,apartamento,aluguel,28.0,25.3,31.9,11,8.02,setembro/2026
 Joinville,Parque Guarani,apartamento,venda,4983.3,4741.9,5175.3,7,6.41,setembro/2026
 Joinville,Parque Guarani,apartamento,aluguel,26.6,24.9,28.6,8,6.41,setembro/2026
 Joinville,Petrópolis,apartamento,venda,5396.9,5010.2,6492.9,10,7.2,setembro/2026
 Joinville,Petrópolis,apartamento,aluguel,32.4,26.2,33.7,10,7.2,setembro/2026
-Joinville,Pirabeiraba,apartamento,venda,6684.8,5303.3,7242.8,11,4.83,setembro/2026
-Joinville,Pirabeiraba,apartamento,aluguel,26.9,22.4,30.8,9,4.83,setembro/2026
-Joinville,Saguaçu,apartamento,venda,7311.6,6149.9,8683.2,206,5.17,setembro/2026
-Joinville,Saguaçu,apartamento,aluguel,31.5,26.2,39.2,58,5.17,setembro/2026
-Joinville,Santa Catarina,apartamento,venda,6169.5,4793.3,7405.6,6,5.84,setembro/2026
-Joinville,Santa Catarina,apartamento,aluguel,30.0,26.8,31.6,9,5.84,setembro/2026
-Joinville,Santo Antônio,apartamento,venda,7295.5,5769.8,9153.2,235,5.16,setembro/2026
-Joinville,Santo Antônio,apartamento,aluguel,31.4,27.2,38.0,88,5.16,setembro/2026
-Joinville,São Marcos,apartamento,venda,5896.6,5205.1,6318.0,8,5.86,setembro/2026
-Joinville,São Marcos,apartamento,aluguel,28.8,24.6,33.4,15,5.86,setembro/2026
-Joinville,Vila Nova,apartamento,venda,5080.7,4592.6,5922.0,50,6.71,setembro/2026
-Joinville,Vila Nova,apartamento,aluguel,28.4,22.3,33.6,35,6.71,setembro/2026
-Joinville,Adhemar Garcia,casa,venda,4581.6,3223.8,5443.3,19,,setembro/2026
-Joinville,América,casa,venda,7728.5,6565.7,9196.1,105,5.34,setembro/2026
-Joinville,América,casa,aluguel,34.4,22.3,34.6,7,5.34,setembro/2026
-Joinville,Anita Garibaldi,casa,venda,6392.6,5156.0,7307.0,59,,setembro/2026
-Joinville,Atiradores,casa,venda,7345.7,6680.6,9200.0,9,,setembro/2026
-Joinville,Aventureiro,casa,venda,5140.8,3433.0,6151.1,55,5.79,setembro/2026
+Joinville,Pirabeiraba,apartamento,venda,6576.4,5396.0,7188.4,12,4.91,setembro/2026
+Joinville,Pirabeiraba,apartamento,aluguel,26.9,22.4,30.8,9,4.91,setembro/2026
+Joinville,Saguaçu,apartamento,venda,7435.9,6162.1,8935.0,215,5.18,setembro/2026
+Joinville,Saguaçu,apartamento,aluguel,32.1,26.3,39.3,59,5.18,setembro/2026
+Joinville,Santa Catarina,apartamento,venda,6170.1,5093.1,7216.8,8,5.83,setembro/2026
+Joinville,Santa Catarina,apartamento,aluguel,30.0,26.8,31.6,9,5.83,setembro/2026
+Joinville,Santo Antônio,apartamento,venda,7282.7,5772.0,9034.7,240,5.17,setembro/2026
+Joinville,Santo Antônio,apartamento,aluguel,31.4,27.2,38.3,88,5.17,setembro/2026
+Joinville,São Marcos,apartamento,venda,5793.2,4666.7,6296.4,9,5.94,setembro/2026
+Joinville,São Marcos,apartamento,aluguel,28.7,24.8,33.1,16,5.94,setembro/2026
+Joinville,Vila Nova,apartamento,venda,5049.4,4590.2,5848.0,49,6.75,setembro/2026
+Joinville,Vila Nova,apartamento,aluguel,28.4,22.3,33.6,35,6.75,setembro/2026
+Joinville,Adhemar Garcia,casa,venda,4090.9,3223.8,5333.2,19,,setembro/2026
+Joinville,América,casa,venda,7743.5,6565.7,9225.1,109,5.33,setembro/2026
+Joinville,América,casa,aluguel,34.4,25.8,34.7,9,5.33,setembro/2026
+Joinville,Anita Garibaldi,casa,venda,6380.1,5281.0,7152.9,70,6.71,setembro/2026
+Joinville,Anita Garibaldi,casa,aluguel,35.7,28.8,49.4,5,6.71,setembro/2026
+Joinville,Atiradores,casa,venda,7345.7,6621.5,9206.3,11,,setembro/2026
+Joinville,Aventureiro,casa,venda,5140.8,3428.6,6229.0,57,5.79,setembro/2026
 Joinville,Aventureiro,casa,aluguel,24.8,23.3,32.9,5,5.79,setembro/2026
-Joinville,Boa Vista,casa,venda,5665.7,4632.8,6739.6,68,6.99,setembro/2026
-Joinville,Boa Vista,casa,aluguel,33.0,29.0,35.2,11,6.99,setembro/2026
-Joinville,Boehmerwald,casa,venda,3650.8,2658.6,4909.8,59,,setembro/2026
-Joinville,Bom Retiro,casa,venda,5921.0,5115.7,6974.4,98,6.08,setembro/2026
-Joinville,Bom Retiro,casa,aluguel,30.0,24.8,41.9,17,6.08,setembro/2026
-Joinville,Bucarein,casa,venda,4649.1,3952.7,6181.8,29,,setembro/2026
+Joinville,Boa Vista,casa,venda,5612.5,4559.5,6548.6,72,7.06,setembro/2026
+Joinville,Boa Vista,casa,aluguel,33.0,29.0,35.2,11,7.06,setembro/2026
+Joinville,Boehmerwald,casa,venda,3676.5,2663.3,5151.5,61,,setembro/2026
+Joinville,Bom Retiro,casa,venda,5911.3,5117.7,6926.2,99,6.09,setembro/2026
+Joinville,Bom Retiro,casa,aluguel,30.0,24.8,41.9,17,6.09,setembro/2026
+Joinville,Bucarein,casa,venda,4682.7,3983.5,6337.1,30,,setembro/2026
 Joinville,Comasa,casa,venda,4910.9,4347.2,5405.5,22,,setembro/2026
-Joinville,Costa e Silva,casa,venda,5550.5,4712.8,6241.5,138,5.84,setembro/2026
-Joinville,Costa e Silva,casa,aluguel,27.0,23.7,31.5,10,5.84,setembro/2026
-Joinville,Espinheiros,casa,venda,5583.4,5296.3,6248.1,8,6.19,setembro/2026
-Joinville,Espinheiros,casa,aluguel,28.8,19.7,32.8,7,6.19,setembro/2026
+Joinville,Costa e Silva,casa,venda,5557.8,4855.2,6310.0,146,5.83,setembro/2026
+Joinville,Costa e Silva,casa,aluguel,27.0,23.7,31.5,10,5.83,setembro/2026
+Joinville,Espinheiros,casa,venda,5432.1,4984.9,6060.3,10,6.36,setembro/2026
+Joinville,Espinheiros,casa,aluguel,28.8,19.7,32.8,7,6.36,setembro/2026
 Joinville,Fátima,casa,venda,3974.7,2650.7,4985.5,18,8.06,setembro/2026
 Joinville,Fátima,casa,aluguel,26.7,21.9,32.4,6,8.06,setembro/2026
-Joinville,Floresta,casa,venda,4930.0,3693.1,5982.5,160,7.59,setembro/2026
-Joinville,Floresta,casa,aluguel,31.2,20.1,37.9,15,7.59,setembro/2026
-Joinville,Glória,casa,venda,6931.5,5568.8,8596.7,172,6.87,setembro/2026
-Joinville,Glória,casa,aluguel,39.7,25.2,58.5,14,6.87,setembro/2026
-Joinville,Guanabara,casa,venda,4701.8,4323.6,5720.6,36,,setembro/2026
-Joinville,Iririú,casa,venda,5000.0,4272.7,5958.3,77,9.14,setembro/2026
+Joinville,Floresta,casa,venda,4868.4,3823.5,6012.9,173,7.69,setembro/2026
+Joinville,Floresta,casa,aluguel,31.2,18.6,37.2,16,7.69,setembro/2026
+Joinville,Glória,casa,venda,7007.9,5568.8,8596.7,176,6.8,setembro/2026
+Joinville,Glória,casa,aluguel,39.7,25.2,58.5,14,6.8,setembro/2026
+Joinville,Guanabara,casa,venda,4680.9,4338.3,5708.4,39,,setembro/2026
+Joinville,Iririú,casa,venda,5000.0,4291.5,5884.2,83,9.14,setembro/2026
 Joinville,Iririú,casa,aluguel,38.1,28.3,45.1,10,9.14,setembro/2026
-Joinville,Itaum,casa,venda,4369.7,2905.0,5250.6,49,6.23,setembro/2026
-Joinville,Itaum,casa,aluguel,22.7,18.8,26.9,5,6.23,setembro/2026
+Joinville,Itaum,casa,venda,4350.9,3158.7,5257.4,52,6.26,setembro/2026
+Joinville,Itaum,casa,aluguel,22.7,18.8,26.9,5,6.26,setembro/2026
 Joinville,Itinga,casa,venda,4375.0,3034.3,6245.2,15,,setembro/2026
 Joinville,Jardim Iririú,casa,venda,4700.9,3629.7,5454.5,33,,setembro/2026
 Joinville,Jardim Paraíso,casa,venda,3981.9,2667.0,5504.6,8,,setembro/2026
-Joinville,Jardim Sofia,casa,venda,6166.7,4987.7,7096.7,23,,setembro/2026
-Joinville,Jarivatuba,casa,venda,4615.4,3480.7,5354.0,15,7.02,setembro/2026
-Joinville,Jarivatuba,casa,aluguel,27.0,22.2,31.3,5,7.02,setembro/2026
-Joinville,João Costa,casa,venda,3759.1,2819.3,4717.6,36,,setembro/2026
-Joinville,Morro do Meio,casa,venda,4191.2,2942.0,4812.5,14,,setembro/2026
+Joinville,Jardim Sofia,casa,venda,6080.1,5190.0,7077.8,24,,setembro/2026
+Joinville,Jarivatuba,casa,venda,4471.9,2892.1,5352.4,16,7.25,setembro/2026
+Joinville,Jarivatuba,casa,aluguel,27.0,22.2,31.3,5,7.25,setembro/2026
+Joinville,João Costa,casa,venda,4047.6,2916.7,5248.0,39,,setembro/2026
+Joinville,Morro do Meio,casa,venda,4583.3,3008.9,4960.5,15,,setembro/2026
 Joinville,Nova Brasília,casa,venda,4951.5,3962.5,5741.0,46,,setembro/2026
 Joinville,Paranaguamirim,casa,venda,4410.3,2970.3,4923.1,33,5.61,setembro/2026
 Joinville,Paranaguamirim,casa,aluguel,20.6,17.5,28.2,6,5.61,setembro/2026
 Joinville,Parque Guarani,casa,venda,4206.0,3533.9,4592.5,22,,setembro/2026
-Joinville,Petrópolis,casa,venda,3851.1,3145.1,5531.0,38,8.66,setembro/2026
-Joinville,Petrópolis,casa,aluguel,27.8,25.0,28.8,8,8.66,setembro/2026
-Joinville,Pirabeiraba,casa,venda,7875.1,5000.0,8800.0,21,,setembro/2026
+Joinville,Petrópolis,casa,venda,3909.1,3124.4,5615.4,41,8.53,setembro/2026
+Joinville,Petrópolis,casa,aluguel,27.8,25.0,28.8,8,8.53,setembro/2026
+Joinville,Pirabeiraba,casa,venda,7926.0,5346.9,8728.4,22,,setembro/2026
 Joinville,Profipo,casa,venda,3376.3,2389.7,3720.4,6,,setembro/2026
-Joinville,Saguaçu,casa,venda,6219.6,5086.0,7099.4,120,5.4,setembro/2026
-Joinville,Saguaçu,casa,aluguel,28.0,27.0,37.2,9,5.4,setembro/2026
-Joinville,Santa Catarina,casa,venda,5266.7,4271.1,5971.1,27,6.52,setembro/2026
-Joinville,Santa Catarina,casa,aluguel,28.6,25.7,30.8,6,6.52,setembro/2026
-Joinville,Santo Antônio,casa,venda,5968.6,4914.0,7461.6,63,,setembro/2026
-Joinville,São Marcos,casa,venda,5562.3,4677.5,6540.0,36,,setembro/2026
-Joinville,Ulysses Guimarães,casa,venda,4415.9,2916.7,5178.6,9,,setembro/2026
-Joinville,Vila Nova,casa,venda,5666.7,4825.2,6624.7,92,6.1,setembro/2026
-Joinville,Vila Nova,casa,aluguel,28.8,21.5,34.4,16,6.1,setembro/2026
-Joinville,América,terreno,venda,2348.0,1774.0,2690.5,30,,setembro/2026
-Joinville,Anita Garibaldi,terreno,venda,1424.9,1105.4,1729.2,34,,setembro/2026
-Joinville,Atiradores,terreno,venda,1794.7,1304.6,2191.8,14,,setembro/2026
-Joinville,Aventureiro,terreno,venda,1034.2,924.5,1251.7,7,,setembro/2026
-Joinville,Boa Vista,terreno,venda,975.9,808.8,1174.1,12,,setembro/2026
-Joinville,Boehmerwald,terreno,venda,791.7,604.8,928.4,19,,setembro/2026
-Joinville,Bom Retiro,terreno,venda,1098.9,749.8,1319.4,17,,setembro/2026
-Joinville,Bucarein,terreno,venda,1685.5,1358.8,2034.1,8,,setembro/2026
-Joinville,Centro,terreno,venda,3000.9,1870.9,3716.2,7,,setembro/2026
-Joinville,Costa e Silva,terreno,venda,1002.7,737.5,1337.8,21,,setembro/2026
+Joinville,Saguaçu,casa,venda,6238.3,5113.1,7146.8,124,5.39,setembro/2026
+Joinville,Saguaçu,casa,aluguel,28.0,27.0,37.2,9,5.39,setembro/2026
+Joinville,Santa Catarina,casa,venda,5195.8,4350.3,5873.9,30,6.61,setembro/2026
+Joinville,Santa Catarina,casa,aluguel,28.6,25.7,30.8,6,6.61,setembro/2026
+Joinville,Santo Antônio,casa,venda,5968.6,5000.0,7500.0,65,,setembro/2026
+Joinville,São Marcos,casa,venda,5459.4,4645.9,6609.4,40,,setembro/2026
+Joinville,Ulysses Guimarães,casa,venda,4708.0,3062.5,5164.4,10,,setembro/2026
+Joinville,Vila Nova,casa,venda,5571.4,4736.8,6616.3,101,6.2,setembro/2026
+Joinville,Vila Nova,casa,aluguel,28.8,21.5,34.4,16,6.2,setembro/2026
+Joinville,Zona Industrial Norte,casa,venda,6030.2,5571.4,7023.8,5,,setembro/2026
+Joinville,América,terreno,venda,2317.7,1694.0,2664.4,32,,setembro/2026
+Joinville,Anita Garibaldi,terreno,venda,1464.3,1125.4,1798.3,40,,setembro/2026
+Joinville,Atiradores,terreno,venda,1908.4,1322.3,2249.0,16,,setembro/2026
+Joinville,Aventureiro,terreno,venda,1070.0,971.9,1433.3,9,,setembro/2026
+Joinville,Boa Vista,terreno,venda,1000.0,797.1,1256.8,15,,setembro/2026
+Joinville,Boehmerwald,terreno,venda,814.3,621.3,1041.7,21,,setembro/2026
+Joinville,Bom Retiro,terreno,venda,1098.9,874.9,1291.6,19,,setembro/2026
+Joinville,Bucarein,terreno,venda,2014.7,1388.9,2092.6,9,,setembro/2026
+Joinville,Centro,terreno,venda,3034.2,2082.2,3965.8,8,,setembro/2026
+Joinville,Costa e Silva,terreno,venda,1051.3,784.2,1392.0,24,,setembro/2026
 Joinville,Espinheiros,terreno,venda,1550.0,1370.5,1648.0,11,,setembro/2026
-Joinville,Floresta,terreno,venda,869.2,672.3,1063.5,97,,setembro/2026
-Joinville,Glória,terreno,venda,1340.2,1005.9,2056.8,32,,setembro/2026
+Joinville,Floresta,terreno,venda,873.2,673.4,1065.9,102,,setembro/2026
+Joinville,Glória,terreno,venda,1340.2,1002.2,2065.4,34,,setembro/2026
 Joinville,Guanabara,terreno,venda,1130.1,938.6,1230.4,10,,setembro/2026
-Joinville,Iririú,terreno,venda,1016.4,802.8,1237.0,20,,setembro/2026
-Joinville,Itaum,terreno,venda,830.9,735.8,1053.4,17,,setembro/2026
-Joinville,Itinga,terreno,venda,611.0,400.9,742.5,14,,setembro/2026
+Joinville,Iririú,terreno,venda,1049.9,830.3,1298.8,22,,setembro/2026
+Joinville,Itaum,terreno,venda,842.1,748.0,1039.5,18,,setembro/2026
+Joinville,Itinga,terreno,venda,657.2,497.9,742.5,18,,setembro/2026
 Joinville,Jardim Paraíso,terreno,venda,800.0,453.9,896.6,5,,setembro/2026
 Joinville,Jardim Sofia,terreno,venda,635.7,294.5,1129.8,6,,setembro/2026
-Joinville,Jarivatuba,terreno,venda,795.0,619.9,874.3,8,,setembro/2026
+Joinville,Jarivatuba,terreno,venda,731.1,616.6,878.0,11,,setembro/2026
 Joinville,João Costa,terreno,venda,703.8,520.7,1102.3,10,,setembro/2026
-Joinville,Nova Brasília,terreno,venda,703.7,537.4,952.4,9,,setembro/2026
+Joinville,Nova Brasília,terreno,venda,748.6,560.7,915.1,10,,setembro/2026
 Joinville,Paranaguamirim,terreno,venda,664.4,447.2,708.0,11,,setembro/2026
 Joinville,Petrópolis,terreno,venda,731.1,469.6,1071.4,9,,setembro/2026
 Joinville,Pirabeiraba,terreno,venda,742.6,372.4,1276.5,12,,setembro/2026
-Joinville,Saguaçu,terreno,venda,1422.7,1056.8,1554.2,20,,setembro/2026
+Joinville,Saguaçu,terreno,venda,1404.3,1053.6,1538.0,21,,setembro/2026
 Joinville,Santa Catarina,terreno,venda,835.8,730.9,1016.3,10,,setembro/2026
-Joinville,Santo Antônio,terreno,venda,2155.6,1396.8,2419.6,7,,setembro/2026
+Joinville,Santo Antônio,terreno,venda,1827.2,1279.4,2389.3,8,,setembro/2026
 Joinville,São Marcos,terreno,venda,548.5,473.1,823.9,6,,setembro/2026
 Joinville,Vila Nova,terreno,venda,1052.8,814.0,1678.8,36,,setembro/2026
-Joinville,Zona Industrial Norte,terreno,venda,845.7,650.2,1600.0,9,,setembro/2026
-Joinville,América,sala,venda,10000.0,9792.0,12797.0,7,6.37,setembro/2026
-Joinville,América,sala,aluguel,53.1,38.5,70.0,73,6.37,setembro/2026
-Joinville,Anita Garibaldi,sala,aluguel,53.1,36.2,73.4,44,,setembro/2026
+Joinville,Zona Industrial Norte,terreno,venda,1091.8,692.5,1675.0,10,,setembro/2026
+Joinville,América,sala,venda,11398.5,9780.6,13619.2,10,5.66,setembro/2026
+Joinville,América,sala,aluguel,53.8,38.8,70.0,74,5.66,setembro/2026
+Joinville,Anita Garibaldi,sala,aluguel,53.1,36.2,73.2,46,,setembro/2026
 Joinville,Atiradores,sala,aluguel,56.9,50.5,73.4,14,,setembro/2026
 Joinville,Aventureiro,sala,aluguel,32.1,31.5,36.3,5,,setembro/2026
 Joinville,Boa Vista,sala,aluguel,40.8,37.2,52.4,16,,setembro/2026
 Joinville,Boehmerwald,sala,aluguel,50.0,40.0,62.5,5,,setembro/2026
 Joinville,Bom Retiro,sala,aluguel,46.6,36.9,55.8,23,,setembro/2026
 Joinville,Bucarein,sala,aluguel,41.2,32.1,50.0,25,,setembro/2026
-Joinville,Centro,sala,venda,5555.6,4800.0,8181.8,21,7.02,setembro/2026
-Joinville,Centro,sala,aluguel,32.5,23.8,46.9,153,7.02,setembro/2026
+Joinville,Centro,sala,venda,6250.0,5135.1,8918.9,25,6.22,setembro/2026
+Joinville,Centro,sala,aluguel,32.4,23.4,45.9,151,6.22,setembro/2026
 Joinville,Costa e Silva,sala,aluguel,42.5,39.8,52.5,25,,setembro/2026
 Joinville,Fátima,sala,aluguel,46.7,34.5,50.8,8,,setembro/2026
 Joinville,Floresta,sala,aluguel,34.3,29.8,37.8,18,,setembro/2026
@@ -164,14 +167,14 @@ Joinville,Iririú,sala,aluguel,41.9,34.8,50.7,28,,setembro/2026
 Joinville,Itaum,sala,aluguel,41.7,32.9,54.0,8,,setembro/2026
 Joinville,Jardim Iririú,sala,aluguel,27.6,22.0,33.7,10,,setembro/2026
 Joinville,Saguaçu,sala,aluguel,39.5,32.4,50.0,28,,setembro/2026
-Joinville,Santo Antônio,sala,aluguel,43.2,36.2,54.7,16,,setembro/2026
+Joinville,Santo Antônio,sala,aluguel,45.5,34.0,55.2,15,,setembro/2026
 Joinville,Vila Nova,sala,aluguel,43.8,34.7,53.3,15,,setembro/2026
 Joinville,Costa e Silva,galpao,aluguel,30.0,29.7,35.2,9,,setembro/2026
 Joinville,Floresta,galpao,aluguel,27.1,24.3,33.8,6,,setembro/2026
 Joinville,Itaum,galpao,aluguel,24.1,16.7,30.2,6,,setembro/2026
 Joinville,Itinga,galpao,aluguel,22.9,20.0,23.8,5,,setembro/2026
 Joinville,Paranaguamirim,galpao,aluguel,20.0,19.4,20.0,5,,setembro/2026
-Joinville,Pirabeiraba,galpao,aluguel,30.0,8.4,31.0,11,,setembro/2026
+Joinville,Pirabeiraba,galpao,aluguel,26.5,5.7,30.5,12,,setembro/2026
 Joinville,Santa Catarina,galpao,aluguel,30.0,25.8,34.9,11,,setembro/2026
 Joinville,Vila Nova,galpao,aluguel,30.0,27.8,31.7,15,,setembro/2026
 Joinville,Zona Industrial,galpao,aluguel,29.5,27.2,39.2,10,,setembro/2026

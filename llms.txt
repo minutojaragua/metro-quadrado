@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 26 cidades de Santa Catarina, Brasil, bairro por bairro, a partir de 118.950 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 27 cidades de Santa Catarina, Brasil, bairro por bairro, a partir de 119.796 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 ## Cidades (dados por bairro)
 
@@ -9,7 +9,7 @@
 - [Schroeder](https://acorridadosbairros.com.br/schroeder/): mediana apartamentos R$ 4.596/m² (venda)
 - [Corupá](https://acorridadosbairros.com.br/corupa/)
 - [Massaranduba](https://acorridadosbairros.com.br/massaranduba/)
-- [Joinville](https://acorridadosbairros.com.br/joinville/): mediana apartamentos R$ 7.246/m² (venda)
+- [Joinville](https://acorridadosbairros.com.br/joinville/): mediana apartamentos R$ 7.287/m² (venda)
 - [Florianópolis](https://acorridadosbairros.com.br/florianopolis/): mediana apartamentos R$ 11.869/m² (venda)
 - [Blumenau](https://acorridadosbairros.com.br/blumenau/): mediana apartamentos R$ 7.812/m² (venda)
 - [São Bento do Sul](https://acorridadosbairros.com.br/sao-bento-do-sul/): mediana apartamentos R$ 5.833/m² (venda)
@@ -26,10 +26,11 @@
 - [Limeira](https://acorridadosbairros.com.br/sp/limeira/): mediana apartamentos R$ 5.161/m² (venda)
 - [Piracicaba](https://acorridadosbairros.com.br/sp/piracicaba/): mediana apartamentos R$ 4.700/m² (venda)
 - [Campinas](https://acorridadosbairros.com.br/sp/campinas/): mediana apartamentos R$ 7.167/m² (venda)
-- [Palmas](https://acorridadosbairros.com.br/to/palmas/): mediana apartamentos R$ 8.412/m² (venda)
+- [Palmas](https://acorridadosbairros.com.br/to/palmas/): mediana apartamentos R$ 8.397/m² (venda)
 - [Porto Velho](https://acorridadosbairros.com.br/ro/porto-velho/): mediana apartamentos R$ 5.907/m² (venda)
-- [Vitória](https://acorridadosbairros.com.br/es/vitoria/): mediana apartamentos R$ 13.968/m² (venda)
-- [Balneário Camboriú](https://acorridadosbairros.com.br/balneario-camboriu/): mediana apartamentos R$ 17.100/m² (venda)
+- [Vitória](https://acorridadosbairros.com.br/es/vitoria/): mediana apartamentos R$ 13.795/m² (venda)
+- [Balneário Camboriú](https://acorridadosbairros.com.br/balneario-camboriu/): mediana apartamentos R$ 17.083/m² (venda)
+- [Macapá](https://acorridadosbairros.com.br/ap/macapa/): mediana apartamentos R$ 7.325/m² (venda)
 
 ## Ferramentas e dados
 
