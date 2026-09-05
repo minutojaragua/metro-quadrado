@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 31 cidades de Santa Catarina, Brasil, bairro por bairro, a partir de 125.887 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 31 cidades de Santa Catarina, Brasil, bairro por bairro, a partir de 125.976 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -3422,7 +3422,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 
 ## Itapema (setembro/2026): https://acorridadosbairros.com.br/itapema/
 
-### Apartamentos, cidade toda: venda R$ 15.900/m² (n=1618); aluguel R$ 44,0/m²/mês (n=353); rendimento bruto do aluguel 3,32% a.a.
+### Apartamentos, cidade toda: venda R$ 15.943/m² (n=1662); aluguel R$ 44,0/m²/mês (n=353); rendimento bruto do aluguel 3,31% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -3430,70 +3430,71 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Andorinha | R$ 17.273 | 13 | – | – | – | – |
 | Canto da Praia | R$ 17.931 | 28 | – | – | – | – |
 | Casa Branca | R$ 9.130 | 35 | – | – | – | – |
-| Castelo Branco | R$ 14.938 | 16 | – | – | – | – |
-| Centro | R$ 18.564 | 326 | R$ 44,4 | 45 | 2,87% | – |
-| Ilhota | R$ 23.897 | 13 | – | – | – | – |
-| Jardim Praia Mar | R$ 12.071 | 29 | – | – | – | – |
-| Meia Praia | R$ 16.407 | 937 | R$ 40,7 | 243 | 2,98% | – |
-| Morretes | R$ 12.328 | 125 | R$ 52,9 | 30 | 5,15% | – |
+| Castelo Branco | R$ 15.061 | 17 | – | – | – | – |
+| Centro | R$ 18.502 | 337 | R$ 44,4 | 45 | 2,88% | – |
+| Ilhota | R$ 18.581 | 24 | – | – | – | – |
+| Jardim Praia Mar | R$ 11.961 | 30 | – | – | – | – |
+| Meia Praia | R$ 16.412 | 937 | R$ 40,7 | 243 | 2,98% | – |
+| Morretes | R$ 12.324 | 142 | R$ 52,9 | 30 | 5,15% | – |
 | Tabuleiro das Oliveiras | R$ 10.714 | 5 | – | – | – | – |
-| Tabuleiro dos Oliveiras | R$ 12.037 | 27 | R$ 57,5 | 14 | 5,73% | – |
-| Várzea | R$ 13.506 | 16 | – | – | – | – |
+| Tabuleiro dos Oliveiras | R$ 12.114 | 29 | R$ 57,5 | 14 | 5,70% | – |
+| Várzea | R$ 13.528 | 17 | – | – | – | – |
 
-### Casas, cidade toda: venda R$ 8.146/m² (n=234); aluguel R$ 27,6/m²/mês (n=24); rendimento bruto do aluguel 4,07% a.a.
+### Casas, cidade toda: venda R$ 8.148/m² (n=241); aluguel R$ 27,6/m²/mês (n=24); rendimento bruto do aluguel 4,06% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
 | Alto São Bento | R$ 6.825 | 23 | – | – | – | – |
-| Canto da Praia | R$ 14.354 | 13 | – | – | – | – |
+| Canto da Praia | R$ 14.527 | 14 | – | – | – | – |
 | Casa Branca | R$ 15.471 | 20 | – | – | – | – |
 | Centro | R$ 11.087 | 6 | R$ 9,3 | 5 | 1,01% | – |
+| Ilhota | R$ 12.857 | 9 | – | – | – | – |
 | Meia Praia | R$ 12.111 | 32 | R$ 17,0 | 6 | 1,68% | – |
-| Morretes | R$ 7.440 | 87 | R$ 40,5 | 6 | 6,53% | – |
+| Morretes | R$ 7.414 | 87 | R$ 40,5 | 6 | 6,55% | – |
 | Residenciais Fazenda | R$ 9.375 | 9 | – | – | – | – |
 | Sertão do Trombudo | R$ 8.034 | 14 | – | – | – | – |
 | Tabuleiro dos Oliveiras | R$ 8.148 | 5 | – | – | – | – |
 | Várzea | R$ 6.400 | 13 | – | – | – | – |
 
-### Terrenos, cidade toda: venda R$ 2.351/m² (n=117)
+### Terrenos, cidade toda: venda R$ 2.351/m² (n=119)
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
 | Alto São Bento | R$ 1.545 | 8 | – | – | – | – |
 | Casa Branca | R$ 2.000 | 13 | – | – | – | – |
-| Ilhota | R$ 5.667 | 15 | – | – | – | – |
+| Ilhota | R$ 5.646 | 16 | – | – | – | – |
 | Meia Praia | R$ 8.527 | 13 | – | – | – | – |
-| Morretes | R$ 3.171 | 25 | – | – | – | – |
+| Morretes | R$ 3.302 | 26 | – | – | – | – |
 | Sertão do Trombudo | R$ 1.421 | 14 | – | – | – | – |
 | Tabuleiro dos Oliveiras | R$ 2.951 | 5 | – | – | – | – |
 | Várzea | R$ 2.286 | 7 | – | – | – | – |
 
-### Salas comerciais, cidade toda: venda R$ 15.090/m² (n=95); aluguel R$ 63,6/m²/mês (n=117); rendimento bruto do aluguel 5,06% a.a.
+### Salas comerciais, cidade toda: venda R$ 14.992/m² (n=96); aluguel R$ 63,6/m²/mês (n=117); rendimento bruto do aluguel 5,09% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
 | Centro | R$ 20.986 | 5 | R$ 79,2 | 20 | 4,53% | – |
-| Meia Praia | R$ 15.596 | 51 | R$ 62,5 | 73 | 4,81% | – |
+| Meia Praia | R$ 15.543 | 52 | R$ 62,5 | 73 | 4,83% | – |
 | Morretes | R$ 14.151 | 23 | R$ 60,2 | 13 | 5,10% | – |
 
 
 ## Porto Belo (setembro/2026): https://acorridadosbairros.com.br/porto-belo/
 
-### Apartamentos, cidade toda: venda R$ 15.942/m² (n=664); aluguel R$ 50,0/m²/mês (n=47); rendimento bruto do aluguel 3,76% a.a.
+### Apartamentos, cidade toda: venda R$ 15.790/m² (n=697); aluguel R$ 50,0/m²/mês (n=47); rendimento bruto do aluguel 3,80% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
 | Alto Perequê | R$ 13.296 | 20 | – | – | – | – |
 | Balneário Perequê | R$ 15.778 | 175 | R$ 50,5 | 22 | 3,84% | – |
-| Centro | R$ 14.720 | 19 | R$ 14,8 | 5 | 1,21% | – |
+| Centro | R$ 14.810 | 24 | R$ 14,8 | 5 | 1,20% | – |
 | Jardim Dourado | R$ 17.333 | 55 | – | – | – | – |
-| Pereque | R$ 15.818 | 325 | R$ 53,7 | 12 | 4,07% | – |
+| Pereque | R$ 15.587 | 353 | R$ 53,7 | 12 | 4,13% | – |
 | Porto Belo | R$ 13.488 | 11 | – | – | – | – |
 | Vila Nova | R$ 12.354 | 14 | – | – | – | – |
 | Viva Park | R$ 20.433 | 8 | – | – | – | – |
 | Vivapark | R$ 17.926 | 29 | – | – | – | – |
 
-### Casas, cidade toda: venda R$ 8.884/m² (n=212); aluguel R$ 14,1/m²/mês (n=27); rendimento bruto do aluguel 1,90% a.a.
+### Casas, cidade toda: venda R$ 8.901/m² (n=214); aluguel R$ 14,1/m²/mês (n=27); rendimento bruto do aluguel 1,90% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -3502,7 +3503,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Balneário Perequê | R$ 8.772 | 57 | R$ 31,0 | 10 | 4,24% | – |
 | Centro | R$ 9.750 | 28 | R$ 10,0 | 10 | 1,23% | – |
 | Jardim Dourado | R$ 9.040 | 23 | – | – | – | – |
-| Pereque | R$ 9.357 | 26 | – | – | – | – |
+| Pereque | R$ 9.410 | 28 | – | – | – | – |
 | Vila Nova | R$ 7.584 | 38 | – | – | – | – |
 | Vivapark | R$ 17.518 | 5 | – | – | – | – |
 
