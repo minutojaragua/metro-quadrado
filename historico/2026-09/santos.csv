@@ -1,17 +1,17 @@
 cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
-Santos,Aparecida,apartamento,venda,9572.6,6479.2,12887.9,203,7.56,setembro/2026
-Santos,Aparecida,apartamento,aluguel,60.3,47.6,84.6,52,7.56,setembro/2026
-Santos,Boqueirão,apartamento,venda,10000.0,7172.2,13342.9,391,7.66,setembro/2026
-Santos,Boqueirão,apartamento,aluguel,63.8,44.9,82.1,119,7.66,setembro/2026
+Santos,Aparecida,apartamento,venda,9572.6,6479.2,12887.9,207,7.41,setembro/2026
+Santos,Aparecida,apartamento,aluguel,59.1,47.5,83.6,53,7.41,setembro/2026
+Santos,Boqueirão,apartamento,venda,10000.0,7169.4,13249.7,398,7.66,setembro/2026
+Santos,Boqueirão,apartamento,aluguel,63.8,44.8,80.9,121,7.66,setembro/2026
 Santos,Campo Grande,apartamento,venda,6316.8,5333.3,8647.1,110,9.38,setembro/2026
 Santos,Campo Grande,apartamento,aluguel,49.4,40.0,64.3,26,9.38,setembro/2026
-Santos,Embaré,apartamento,venda,9287.5,6784.1,13323.7,250,7.64,setembro/2026
-Santos,Embaré,apartamento,aluguel,59.1,47.0,79.1,71,7.64,setembro/2026
+Santos,Embaré,apartamento,venda,9375.0,6798.9,13314.0,251,7.56,setembro/2026
+Santos,Embaré,apartamento,aluguel,59.1,47.0,79.1,71,7.56,setembro/2026
 Santos,Encruzilhada,apartamento,venda,6586.5,5012.7,9372.9,46,11.24,setembro/2026
 Santos,Encruzilhada,apartamento,aluguel,61.7,53.5,69.0,8,11.24,setembro/2026
 Santos,Estuário,apartamento,venda,9491.1,8509.2,9990.1,31,,setembro/2026
-Santos,Gonzaga,apartamento,venda,9080.5,6569.3,13052.0,385,9.14,setembro/2026
-Santos,Gonzaga,apartamento,aluguel,69.2,50.0,88.1,129,9.14,setembro/2026
+Santos,Gonzaga,apartamento,venda,9044.4,6553.4,13013.7,389,9.18,setembro/2026
+Santos,Gonzaga,apartamento,aluguel,69.2,50.0,88.1,129,9.18,setembro/2026
 Santos,José Menino,apartamento,venda,8623.7,6351.2,12273.4,198,8.1,setembro/2026
 Santos,José Menino,apartamento,aluguel,58.2,47.0,85.5,47,8.1,setembro/2026
 Santos,Macuco,apartamento,venda,8153.8,5975.9,9461.0,55,9.51,setembro/2026
@@ -36,8 +36,8 @@ Santos,Boqueirão,casa,aluguel,42.3,35.5,53.9,12,7.0,setembro/2026
 Santos,Campo Grande,casa,venda,7127.9,5828.9,8833.3,70,7.63,setembro/2026
 Santos,Campo Grande,casa,aluguel,45.3,33.2,62.2,15,7.63,setembro/2026
 Santos,Castelo,casa,venda,3137.3,3069.7,3974.8,7,,setembro/2026
-Santos,Embaré,casa,venda,8218.5,6497.8,9925.8,88,6.95,setembro/2026
-Santos,Embaré,casa,aluguel,47.6,39.5,55.4,35,6.95,setembro/2026
+Santos,Embaré,casa,venda,8218.5,6497.8,9925.8,88,6.86,setembro/2026
+Santos,Embaré,casa,aluguel,47.0,39.2,55.4,34,6.86,setembro/2026
 Santos,Encruzilhada,casa,venda,6519.0,4829.5,8452.4,22,8.8,setembro/2026
 Santos,Encruzilhada,casa,aluguel,47.8,32.4,65.5,6,8.8,setembro/2026
 Santos,Estuário,casa,venda,6299.6,5011.4,7048.0,22,10.74,setembro/2026
