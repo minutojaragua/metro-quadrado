@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 33 cidades de Santa Catarina, Brasil, bairro por bairro, a partir de 130.569 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 33 cidades de Santa Catarina, Brasil, bairro por bairro, a partir de 131.020 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -3653,90 +3653,95 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 
 ## Aracaju (setembro/2026): https://acorridadosbairros.com.br/se/aracaju/
 
-### Apartamentos, cidade toda: venda R$ 5.032/m² (n=839); aluguel R$ 30,6/m²/mês (n=213); rendimento bruto do aluguel 7,30% a.a.
+### Apartamentos, cidade toda: venda R$ 5.179/m² (n=1059); aluguel R$ 30,6/m²/mês (n=230); rendimento bruto do aluguel 7,09% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
 | 13 de Julho | R$ 4.528 | 12 | – | – | – | – |
-| Aeroporto | R$ 4.810 | 17 | R$ 26,8 | 6 | 6,69% | – |
-| Aruana | R$ 5.763 | 35 | R$ 29,4 | 11 | 6,12% | – |
-| Atalaia | R$ 8.405 | 52 | R$ 47,3 | 18 | 6,75% | – |
-| Centro | R$ 2.882 | 15 | R$ 44,0 | 7 | 18,32% | – |
-| Coroa do Meio | R$ 6.888 | 44 | R$ 52,0 | 15 | 9,06% | – |
-| Dezoito do Forte | R$ 4.182 | 6 | – | – | – | – |
+| Aeroporto | R$ 4.712 | 19 | R$ 26,8 | 7 | 6,83% | – |
+| Aruana | R$ 5.846 | 55 | R$ 29,5 | 14 | 6,06% | – |
+| Atalaia | R$ 7.828 | 72 | R$ 50,8 | 19 | 7,79% | – |
+| Centro | R$ 2.875 | 17 | R$ 44,0 | 7 | 18,37% | – |
+| Coroa do Meio | R$ 7.397 | 58 | R$ 47,2 | 18 | 7,66% | – |
+| Dezoito do Forte | R$ 4.154 | 7 | – | – | – | – |
 | Dom Luciano | R$ 3.750 | 7 | – | – | – | – |
-| Farolândia | R$ 6.403 | 47 | R$ 45,5 | 19 | 8,53% | – |
-| Grageru | R$ 4.720 | 38 | R$ 29,6 | 6 | 7,53% | – |
-| Inácio Barbosa | R$ 4.790 | 24 | R$ 31,4 | 11 | 7,87% | – |
-| Jabotiana | R$ 4.843 | 39 | R$ 28,3 | 17 | 7,01% | – |
-| Jardins | R$ 8.756 | 52 | R$ 40,0 | 11 | 5,48% | – |
-| Luzia | R$ 6.197 | 38 | R$ 32,5 | 18 | 6,29% | – |
-| Marivan | R$ 4.287 | 21 | – | – | – | – |
-| Ponto Novo | R$ 4.367 | 26 | R$ 20,4 | 5 | 5,61% | – |
+| Farolândia | R$ 6.576 | 66 | R$ 45,3 | 20 | 8,27% | – |
+| Grageru | R$ 4.755 | 60 | R$ 29,6 | 6 | 7,47% | – |
+| Inácio Barbosa | R$ 4.716 | 30 | R$ 31,4 | 11 | 7,99% | – |
+| Jabotiana | R$ 4.836 | 52 | R$ 28,3 | 17 | 7,02% | – |
+| Jardins | R$ 9.067 | 80 | R$ 45,9 | 18 | 6,07% | – |
+| Luzia | R$ 6.333 | 59 | R$ 32,5 | 18 | 6,16% | – |
+| Marivan | R$ 4.271 | 30 | – | – | – | – |
+| Ponto Novo | R$ 4.568 | 35 | R$ 20,4 | 5 | 5,36% | – |
 | Porto Dantas | R$ 2.500 | 13 | – | – | – | – |
 | Robalo | R$ 5.452 | 9 | – | – | – | – |
-| Salgado Filho | R$ 4.136 | 14 | – | – | – | – |
+| Salgado Filho | R$ 4.136 | 16 | – | – | – | – |
 | Santo Antônio | R$ 3.500 | 11 | – | – | – | – |
 | São Conrado | R$ 3.375 | 18 | – | – | – | – |
-| São José | R$ 2.843 | 24 | R$ 26,7 | 8 | 11,27% | – |
-| Suíssa | R$ 3.132 | 14 | – | – | – | – |
-| Treze de Julho | R$ 4.598 | 20 | – | – | – | – |
+| São José | R$ 2.804 | 28 | R$ 26,7 | 8 | 11,43% | – |
+| Suíssa | R$ 3.049 | 19 | – | – | – | – |
+| Treze de Julho | R$ 4.558 | 42 | – | – | – | – |
 | Zona de Expansão (Aruana) | R$ 4.611 | 12 | – | – | – | – |
 
-### Casas, cidade toda: venda R$ 2.667/m² (n=576); aluguel R$ 18,0/m²/mês (n=81); rendimento bruto do aluguel 8,10% a.a.
+### Casas, cidade toda: venda R$ 2.750/m² (n=664); aluguel R$ 17,8/m²/mês (n=94); rendimento bruto do aluguel 7,77% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Aruana | R$ 4.583 | 33 | R$ 28,8 | 9 | 7,54% | – |
-| Atalaia | R$ 3.573 | 18 | – | – | – | – |
+| Aeroporto | R$ 3.872 | 6 | – | – | – | – |
+| Aruana | R$ 4.769 | 43 | R$ 30,2 | 10 | 7,60% | – |
+| Atalaia | R$ 3.571 | 23 | – | – | – | – |
 | Avenida Augusto Franco, Ponto Novo | R$ 5.600 | 7 | – | – | – | – |
-| Bugio | R$ 2.277 | 6 | – | – | – | – |
-| Centro | R$ 2.575 | 14 | – | – | – | – |
-| Cirurgia | R$ 2.701 | 10 | – | – | – | – |
-| Coroa do Meio | R$ 3.600 | 21 | – | – | – | – |
-| Dezoito do Forte | R$ 2.875 | 7 | – | – | – | – |
-| Farolândia | R$ 3.407 | 14 | – | – | – | – |
+| Bugio | R$ 2.277 | 8 | – | – | – | – |
+| Centro | R$ 2.445 | 15 | – | – | – | – |
+| Cirurgia | R$ 2.425 | 11 | – | – | – | – |
+| Coroa do Meio | R$ 3.675 | 22 | – | – | – | – |
+| Dezoito do Forte | R$ 2.875 | 9 | – | – | – | – |
+| Farolândia | R$ 3.095 | 21 | R$ 13,3 | 5 | 5,16% | – |
 | Getúlio Vargas | R$ 2.083 | 5 | – | – | – | – |
-| Inácio Barbosa | R$ 3.666 | 7 | – | – | – | – |
+| Grageru | R$ 5.000 | 5 | – | – | – | – |
+| Inácio Barbosa | R$ 3.598 | 10 | – | – | – | – |
 | Jabotiana | R$ 3.333 | 11 | R$ 16,8 | 6 | 6,05% | – |
-| José Conrado de Araújo | R$ 1.656 | 6 | – | – | – | – |
-| Luzia | R$ 3.691 | 12 | – | – | – | – |
-| Mosqueiro | R$ 3.403 | 17 | R$ 22,5 | 7 | 7,93% | – |
-| Ponto Novo | R$ 2.321 | 7 | – | – | – | – |
-| Robalo | R$ 4.236 | 16 | – | – | – | – |
-| Salgado Filho | R$ 2.902 | 12 | – | – | – | – |
-| Santo Antônio | R$ 2.148 | 11 | – | – | – | – |
-| Santos Dumont | R$ 1.833 | 6 | – | – | – | – |
-| São Conrado | R$ 2.952 | 9 | – | – | – | – |
-| São José | R$ 2.397 | 6 | – | – | – | – |
-| Siqueira Campos | R$ 2.400 | 7 | R$ 18,8 | 5 | 9,40% | – |
+| José Conrado de Araújo | R$ 1.890 | 7 | – | – | – | – |
+| Luzia | R$ 3.300 | 15 | – | – | – | – |
+| Mosqueiro | R$ 3.558 | 26 | R$ 21,2 | 8 | 7,15% | – |
+| Ponto Novo | R$ 2.351 | 8 | – | – | – | – |
+| Robalo | R$ 4.185 | 19 | – | – | – | – |
+| Salgado Filho | R$ 2.804 | 13 | – | – | – | – |
+| Santo Antônio | R$ 2.344 | 12 | – | – | – | – |
+| Santos Dumont | R$ 1.870 | 7 | – | – | – | – |
+| São Conrado | R$ 2.680 | 10 | – | – | – | – |
+| São José | R$ 2.466 | 12 | – | – | – | – |
+| São José dos Náufragos | R$ 4.144 | 6 | – | – | – | – |
+| Siqueira Campos | R$ 2.433 | 9 | R$ 18,8 | 5 | 9,27% | – |
 | Suíça | R$ 2.954 | 6 | – | – | – | – |
-| Suíssa | R$ 2.583 | 8 | – | – | – | – |
-| Treze de Julho | R$ 2.696 | 8 | – | – | – | – |
-| Zona de Expansão (Mosqueiro) | R$ 3.427 | 5 | – | – | – | – |
+| Suíssa | R$ 2.667 | 16 | – | – | – | – |
+| Treze de Julho | R$ 2.619 | 9 | – | – | – | – |
+| Zona de Expansão (Mosqueiro) | R$ 5.088 | 7 | – | – | – | – |
 
-### Terrenos, cidade toda: venda R$ 600/m² (n=115)
+### Terrenos, cidade toda: venda R$ 656/m² (n=150)
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
 | Areia Branca | R$ 204 | 5 | – | – | – | – |
-| Aruana | R$ 1.036 | 9 | – | – | – | – |
+| Aruana | R$ 1.746 | 16 | – | – | – | – |
+| Farolândia | R$ 2.100 | 5 | – | – | – | – |
 | Jabotiana | R$ 579 | 6 | – | – | – | – |
-| Mosqueiro | R$ 300 | 17 | – | – | – | – |
-| Robalo | R$ 868 | 9 | – | – | – | – |
+| Mosqueiro | R$ 312 | 19 | – | – | – | – |
+| Robalo | R$ 868 | 15 | – | – | – | – |
+| São José dos Náufragos | R$ 488 | 7 | – | – | – | – |
 
-### Salas comerciais, cidade toda: venda R$ 4.769/m² (n=32); aluguel R$ 66,7/m²/mês (n=181); rendimento bruto do aluguel 16,78% a.a.
+### Salas comerciais, cidade toda: venda R$ 4.769/m² (n=36); aluguel R$ 68,1/m²/mês (n=251); rendimento bruto do aluguel 17,14% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Atalaia | – | – | R$ 83,3 | 5 | – | – |
-| Centro | R$ 2.500 | 5 | R$ 48,1 | 16 | 23,09% | – |
-| Coroa do Meio | – | – | R$ 78,5 | 9 | – | – |
-| Grageru | – | – | R$ 73,8 | 10 | – | – |
-| Jardins | R$ 12.188 | 5 | R$ 82,4 | 33 | 8,11% | – |
+| Atalaia | – | – | R$ 84,4 | 7 | – | – |
+| Centro | R$ 2.500 | 7 | R$ 36,6 | 30 | 17,57% | – |
+| Coroa do Meio | – | – | R$ 82,1 | 19 | – | – |
+| Grageru | – | – | R$ 69,9 | 11 | – | – |
+| Jardins | R$ 12.188 | 5 | R$ 85,3 | 64 | 8,40% | – |
 | Luzia | – | – | R$ 50,0 | 5 | – | – |
-| Salgado Filho | – | – | R$ 83,3 | 20 | – | – |
-| São José | R$ 5.553 | 6 | R$ 50,6 | 18 | 10,93% | – |
+| Salgado Filho | – | – | R$ 82,2 | 24 | – | – |
+| São José | R$ 5.440 | 7 | R$ 49,0 | 25 | 10,81% | – |
 | Siqueira Campos | – | – | R$ 46,7 | 5 | – | – |
 | Treze de Julho | – | – | R$ 53,2 | 12 | – | – |
 
