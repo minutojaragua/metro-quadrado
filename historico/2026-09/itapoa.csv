@@ -1,7 +1,7 @@
 cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
 Itapoá,Balneario Cambiju,casa,venda,6301.4,5405.9,6897.8,15,,setembro/2026
 Itapoá,Balneario Santa Clara,casa,venda,4902.0,2388.9,7580.0,5,,setembro/2026
-Itapoá,Bamerindus,casa,venda,5362.5,4030.1,6996.8,16,,setembro/2026
+Itapoá,Bamerindus,casa,venda,4892.1,4159.6,6395.7,19,,setembro/2026
 Itapoá,Barra do Sai,casa,venda,5722.4,4619.5,7043.5,183,6.98,setembro/2026
 Itapoá,Barra do Sai,casa,aluguel,33.3,29.2,34.1,7,6.98,setembro/2026
 Itapoá,Brandalize,casa,venda,4276.3,3048.2,5843.4,19,,setembro/2026
@@ -28,8 +28,8 @@ Itapoá,Rio Gracioso,casa,venda,2291.7,2142.9,3047.1,5,,setembro/2026
 Itapoá,Rosa dos Ventos,casa,venda,5341.1,3933.3,6266.1,8,,setembro/2026
 Itapoá,Sai Mirim,casa,venda,5270.3,4151.0,6649.7,19,,setembro/2026
 Itapoá,Samambaial,casa,venda,4830.9,3738.3,5237.0,15,,setembro/2026
-Itapoá,São José,casa,venda,5555.6,4815.7,6048.0,35,4.8,setembro/2026
-Itapoá,São José,casa,aluguel,22.2,21.1,25.6,5,4.8,setembro/2026
+Itapoá,São José,casa,venda,5525.0,4748.7,6096.9,42,4.82,setembro/2026
+Itapoá,São José,casa,aluguel,22.2,21.1,25.6,5,4.82,setembro/2026
 Itapoá,Uirapuru,casa,venda,5718.8,4650.0,6141.2,7,,setembro/2026
 Itapoá,Volta Ao Mundo,casa,venda,3600.2,2776.4,4612.4,14,,setembro/2026
 Itapoá,Volta Ao Mundo I,casa,venda,5168.3,4789.6,6507.7,7,,setembro/2026
@@ -48,7 +48,8 @@ Itapoá,Pontal do Norte,apartamento,venda,9010.4,7364.4,10251.1,8,,setembro/2026
 Itapoá,Princesa do Mar,apartamento,venda,7188.0,5792.1,11055.6,5,,setembro/2026
 Itapoá,Rainha,apartamento,venda,10773.8,8095.5,13364.1,20,,setembro/2026
 Itapoá,Rainha do Mar,apartamento,venda,10819.6,8398.0,13204.5,52,,setembro/2026
-Itapoá,Bamerindus,terreno,venda,546.0,468.8,666.7,9,,setembro/2026
+Itapoá,São José,apartamento,venda,8722.9,7478.0,8846.3,5,,setembro/2026
+Itapoá,Bamerindus,terreno,venda,535.7,454.5,666.7,17,,setembro/2026
 Itapoá,Barra do Sai,terreno,venda,924.1,631.9,1353.2,56,,setembro/2026
 Itapoá,Cambiju,terreno,venda,622.7,291.7,1081.0,12,,setembro/2026
 Itapoá,Centro,terreno,venda,958.3,703.1,1111.1,12,,setembro/2026
@@ -61,5 +62,6 @@ Itapoá,Paese,terreno,venda,1733.3,1073.7,1870.6,7,,setembro/2026
 Itapoá,Pontal do Norte,terreno,venda,556.1,434.2,795.3,18,,setembro/2026
 Itapoá,Praia das Palmeiras,terreno,venda,397.1,309.2,543.6,6,,setembro/2026
 Itapoá,Rainha do Mar,terreno,venda,1001.3,731.4,1134.6,6,,setembro/2026
-Itapoá,São José,terreno,venda,747.3,472.2,926.3,14,,setembro/2026
+Itapoá,São José,terreno,venda,747.6,527.8,972.2,16,,setembro/2026
+Itapoá,Tomazelli,terreno,venda,460.2,246.2,515.5,5,,setembro/2026
 Itapoá,Itapema do Norte,sala,aluguel,51.6,47.5,58.1,15,,setembro/2026
