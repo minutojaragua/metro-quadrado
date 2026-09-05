@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 31 cidades de Santa Catarina, Brasil, bairro por bairro, a partir de 126.174 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 32 cidades de Santa Catarina, Brasil, bairro por bairro, a partir de 127.932 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 ## Cidades (dados por bairro)
 
@@ -35,6 +35,7 @@
 - [Porto Belo](https://acorridadosbairros.com.br/porto-belo/): mediana apartamentos R$ 15.838/m² (venda)
 - [Itapoá](https://acorridadosbairros.com.br/itapoa/): mediana apartamentos R$ 9.534/m² (venda)
 - [Boa Vista](https://acorridadosbairros.com.br/rr/boa-vista/): mediana apartamentos R$ 5.462/m² (venda)
+- [Aracaju](https://acorridadosbairros.com.br/se/aracaju/): mediana apartamentos R$ 5.071/m² (venda)
 
 ## Ferramentas e dados
 
