@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 28 cidades de Santa Catarina, Brasil, bairro por bairro, a partir de 122.398 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 29 cidades de Santa Catarina, Brasil, bairro por bairro, a partir de 123.603 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -3467,6 +3467,59 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Centro | R$ 20.986 | 5 | R$ 79,2 | 20 | 4,53% | – |
 | Meia Praia | R$ 15.543 | 52 | R$ 62,5 | 73 | 4,83% | – |
 | Morretes | R$ 13.907 | 22 | R$ 60,2 | 13 | 5,19% | – |
+
+
+## Porto Belo (setembro/2026): https://acorridadosbairros.com.br/porto-belo/
+
+### Apartamentos, cidade toda: venda R$ 15.876/m² (n=660); aluguel R$ 50,0/m²/mês (n=47); rendimento bruto do aluguel 3,78% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Alto Perequê | R$ 13.296 | 20 | – | – | – | – |
+| Balneário Perequê | R$ 15.778 | 175 | R$ 50,5 | 22 | 3,84% | – |
+| Centro | R$ 14.720 | 19 | R$ 14,8 | 5 | 1,21% | – |
+| Jardim Dourado | R$ 17.333 | 55 | – | – | – | – |
+| Pereque | R$ 15.652 | 321 | R$ 53,7 | 12 | 4,12% | – |
+| Porto Belo | R$ 13.488 | 11 | – | – | – | – |
+| Vila Nova | R$ 12.354 | 14 | – | – | – | – |
+| Viva Park | R$ 20.433 | 8 | – | – | – | – |
+| Vivapark | R$ 17.926 | 29 | – | – | – | – |
+
+### Casas, cidade toda: venda R$ 8.884/m² (n=212); aluguel R$ 14,1/m²/mês (n=27); rendimento bruto do aluguel 1,90% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Alto Perequê | R$ 7.792 | 22 | – | – | – | – |
+| Araçá | R$ 18.235 | 5 | – | – | – | – |
+| Balneário Perequê | R$ 8.772 | 57 | R$ 31,0 | 10 | 4,24% | – |
+| Centro | R$ 9.750 | 28 | R$ 10,0 | 10 | 1,23% | – |
+| Jardim Dourado | R$ 9.040 | 23 | – | – | – | – |
+| Pereque | R$ 9.357 | 26 | – | – | – | – |
+| Vila Nova | R$ 7.584 | 38 | – | – | – | – |
+| Vivapark | R$ 17.518 | 5 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 3.856/m² (n=174)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Alto Perequê | R$ 1.838 | 17 | – | – | – | – |
+| Araçá | R$ 1.640 | 5 | – | – | – | – |
+| Balneário Perequê | R$ 5.020 | 26 | – | – | – | – |
+| Centro | R$ 3.301 | 36 | – | – | – | – |
+| Jardim Dourado | R$ 3.617 | 22 | – | – | – | – |
+| Pereque | R$ 8.000 | 5 | – | – | – | – |
+| Santa Luzia | R$ 7.037 | 24 | – | – | – | – |
+| Sertão de Santa Luzia | R$ 9.901 | 15 | – | – | – | – |
+| Vila Nova | R$ 2.070 | 6 | – | – | – | – |
+
+### Salas comerciais, cidade toda: venda R$ 17.807/m² (n=36); aluguel R$ 69,0/m²/mês (n=21); rendimento bruto do aluguel 4,65% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Balneário Perequê | R$ 13.712 | 17 | R$ 76,3 | 12 | 6,68% | – |
+| Centro | – | – | R$ 69,3 | 6 | – | – |
+| Jardim Dourado | R$ 20.038 | 7 | – | – | – | – |
+| Pereque | R$ 18.820 | 5 | – | – | – | – |
 
 
 Metodologia: https://acorridadosbairros.com.br/metodologia/ · Dados abertos CC BY 4.0: https://acorridadosbairros.com.br/dados.csv · Imprensa: https://acorridadosbairros.com.br/imprensa/
