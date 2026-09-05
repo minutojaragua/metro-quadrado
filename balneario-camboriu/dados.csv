@@ -5,22 +5,22 @@ Balneário Camboriú,Bairro das Nações,apartamento,venda,13735.9,12108.3,15667
 Balneário Camboriú,Barra,apartamento,venda,11588.6,10149.3,16342.4,14,,setembro/2026
 Balneário Camboriú,Barra Norte,apartamento,venda,20863.3,16837.7,24229.0,51,4.3,setembro/2026
 Balneário Camboriú,Barra Norte,apartamento,aluguel,74.8,63.6,100.6,20,4.3,setembro/2026
-Balneário Camboriú,Barra Sul,apartamento,venda,19570.0,14282.1,25250.8,82,4.69,setembro/2026
-Balneário Camboriú,Barra Sul,apartamento,aluguel,76.5,52.6,101.2,81,4.69,setembro/2026
-Balneário Camboriú,Centro,apartamento,venda,18134.7,13281.5,22495.3,755,3.61,setembro/2026
-Balneário Camboriú,Centro,apartamento,aluguel,54.5,37.4,77.9,852,3.61,setembro/2026
+Balneário Camboriú,Barra Sul,apartamento,venda,19916.1,14514.3,25324.9,87,4.61,setembro/2026
+Balneário Camboriú,Barra Sul,apartamento,aluguel,76.5,52.6,101.2,81,4.61,setembro/2026
+Balneário Camboriú,Centro,apartamento,venda,18166.7,13323.2,22608.5,763,3.6,setembro/2026
+Balneário Camboriú,Centro,apartamento,aluguel,54.5,37.4,77.9,852,3.6,setembro/2026
 Balneário Camboriú,Estados,apartamento,venda,16825.4,13064.5,19139.8,33,4.07,setembro/2026
 Balneário Camboriú,Estados,apartamento,aluguel,57.1,42.9,75.0,5,4.07,setembro/2026
 Balneário Camboriú,Frente do Mar,apartamento,aluguel,79.3,63.3,99.5,7,,setembro/2026
 Balneário Camboriú,Jardim Iate Clube,apartamento,venda,13058.4,10827.5,14577.1,7,,setembro/2026
 Balneário Camboriú,Municípios,apartamento,venda,11104.2,8892.7,13663.0,32,7.21,setembro/2026
 Balneário Camboriú,Municípios,apartamento,aluguel,66.7,59.2,76.0,9,7.21,setembro/2026
-Balneário Camboriú,Nações,apartamento,venda,14623.7,12120.8,17166.0,54,4.92,setembro/2026
-Balneário Camboriú,Nações,apartamento,aluguel,60.0,50.0,76.5,39,4.92,setembro/2026
-Balneário Camboriú,Nova Esperança,apartamento,venda,8480.2,7514.2,10000.0,18,6.79,setembro/2026
-Balneário Camboriú,Nova Esperança,apartamento,aluguel,48.0,41.4,56.5,9,6.79,setembro/2026
-Balneário Camboriú,Pioneiros,apartamento,venda,18660.4,14776.1,22025.6,195,4.61,setembro/2026
-Balneário Camboriú,Pioneiros,apartamento,aluguel,71.7,55.4,87.4,156,4.61,setembro/2026
+Balneário Camboriú,Nações,apartamento,venda,14821.2,12154.6,17165.4,55,4.86,setembro/2026
+Balneário Camboriú,Nações,apartamento,aluguel,60.0,50.0,76.5,39,4.86,setembro/2026
+Balneário Camboriú,Nova Esperança,apartamento,venda,8648.6,7528.3,10064.9,19,6.66,setembro/2026
+Balneário Camboriú,Nova Esperança,apartamento,aluguel,48.0,41.4,56.5,9,6.66,setembro/2026
+Balneário Camboriú,Pioneiros,apartamento,venda,18699.2,14776.1,22060.7,199,4.6,setembro/2026
+Balneário Camboriú,Pioneiros,apartamento,aluguel,71.7,55.4,87.4,156,4.6,setembro/2026
 Balneário Camboriú,Praia Brava,apartamento,venda,13644.2,12451.2,14703.0,8,,setembro/2026
 Balneário Camboriú,Praia do Estaleiro,apartamento,venda,17417.4,15770.8,23087.2,9,,setembro/2026
 Balneário Camboriú,Praia dos Amores,apartamento,venda,16875.0,13489.4,19449.3,59,5.17,setembro/2026
@@ -40,7 +40,7 @@ Balneário Camboriú,Nações,casa,venda,8750.0,6200.0,10851.1,65,,setembro/2026
 Balneário Camboriú,Nova Esperança,casa,venda,7422.0,5501.4,9262.0,52,,setembro/2026
 Balneário Camboriú,Praia das Taquaras,casa,venda,16050.3,12636.9,18851.3,26,,setembro/2026
 Balneário Camboriú,Praia do Estaleirinho,casa,venda,12957.0,10410.4,17071.2,10,,setembro/2026
-Balneário Camboriú,Praia do Estaleiro,casa,venda,15576.9,12285.4,18871.6,36,,setembro/2026
+Balneário Camboriú,Praia do Estaleiro,casa,venda,16091.2,12500.0,19015.7,41,,setembro/2026
 Balneário Camboriú,Praia dos Amores,casa,venda,13908.1,11933.8,16633.9,66,5.48,setembro/2026
 Balneário Camboriú,Praia dos Amores,casa,aluguel,63.5,51.5,77.4,12,5.48,setembro/2026
 Balneário Camboriú,São Judas Tadeu,casa,venda,11202.4,7484.2,14888.9,36,,setembro/2026
@@ -54,14 +54,14 @@ Balneário Camboriú,Municípios,terreno,venda,3289.6,2796.8,3608.2,16,,setembro
 Balneário Camboriú,Nações,terreno,venda,5223.5,4257.7,7707.3,30,,setembro/2026
 Balneário Camboriú,Nova Esperança,terreno,venda,2428.3,1493.8,3374.8,34,,setembro/2026
 Balneário Camboriú,Praia das Taquaras,terreno,venda,2653.3,1438.9,2965.1,16,,setembro/2026
-Balneário Camboriú,Praia do Estaleirinho,terreno,venda,3506.3,2352.1,5436.9,23,,setembro/2026
+Balneário Camboriú,Praia do Estaleirinho,terreno,venda,3550.0,2528.2,5702.6,24,,setembro/2026
 Balneário Camboriú,Praia do Estaleiro,terreno,venda,2735.6,960.5,4112.6,31,,setembro/2026
 Balneário Camboriú,Praia dos Amores,terreno,venda,8357.6,7037.0,9219.7,10,,setembro/2026
 Balneário Camboriú,São Judas Tadeu,terreno,venda,2142.9,1939.4,3030.3,9,,setembro/2026
 Balneário Camboriú,Várzea do Ranchinho,terreno,venda,2000.0,1000.0,3546.7,5,,setembro/2026
 Balneário Camboriú,Vila Real,terreno,venda,4620.0,3684.2,4800.0,9,,setembro/2026
 Balneário Camboriú,Ariribá,sala,aluguel,264.2,254.2,275.0,8,,setembro/2026
-Balneário Camboriú,Centro,sala,venda,17092.2,13159.3,19950.0,28,6.59,setembro/2026
-Balneário Camboriú,Centro,sala,aluguel,93.8,78.8,117.8,24,6.59,setembro/2026
+Balneário Camboriú,Centro,sala,venda,17272.7,13120.7,19966.7,27,6.52,setembro/2026
+Balneário Camboriú,Centro,sala,aluguel,93.8,78.8,117.8,24,6.52,setembro/2026
 Balneário Camboriú,Nações,sala,venda,11056.3,9509.8,12844.6,8,,setembro/2026
-Balneário Camboriú,Pioneiros,sala,venda,17628.8,12462.3,18687.6,17,,setembro/2026
+Balneário Camboriú,Pioneiros,sala,venda,17634.6,12755.8,19212.4,18,,setembro/2026

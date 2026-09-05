@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 27 cidades de Santa Catarina, Brasil, bairro por bairro, a partir de 119.819 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 28 cidades de Santa Catarina, Brasil, bairro por bairro, a partir de 122.398 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -509,7 +509,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Vargem do Bom Jesus | R$ 7.051 | 17 | – | – | – | – |
 | Vargem Grande | R$ 9.643 | 14 | R$ 38,1 | 6 | 4,74% | – |
 
-### Casas, cidade toda: venda R$ 7.915/m² (n=3940); aluguel R$ 45,5/m²/mês (n=543); rendimento bruto do aluguel 6,90% a.a.
+### Casas, cidade toda: venda R$ 7.913/m² (n=3941); aluguel R$ 45,5/m²/mês (n=543); rendimento bruto do aluguel 6,90% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -518,7 +518,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Armação | R$ 10.345 | 53 | – | – | – | – |
 | Balneário | R$ 7.768 | 51 | R$ 51,4 | 9 | 7,94% | – |
 | Balneario do Estreito | R$ 8.476 | 7 | – | – | – | – |
-| Barra da Lagoa | R$ 6.663 | 33 | R$ 51,8 | 10 | 9,33% | – |
+| Barra da Lagoa | R$ 6.369 | 34 | R$ 51,8 | 10 | 9,76% | – |
 | Bom Abrigo | R$ 10.224 | 23 | – | – | – | – |
 | Cachoeira do Bom Jesus | R$ 8.562 | 160 | R$ 49,5 | 14 | 6,94% | – |
 | Cacupé | R$ 11.006 | 84 | R$ 50,0 | 9 | 5,45% | – |
@@ -1154,7 +1154,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 
 ## Palhoça (setembro/2026): https://acorridadosbairros.com.br/palhoca/
 
-### Apartamentos, cidade toda: venda R$ 7.657/m² (n=1604); aluguel R$ 36,4/m²/mês (n=750); rendimento bruto do aluguel 5,70% a.a.
+### Apartamentos, cidade toda: venda R$ 7.661/m² (n=1605); aluguel R$ 36,4/m²/mês (n=750); rendimento bruto do aluguel 5,70% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -1632,7 +1632,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 
 ## Itajaí (setembro/2026): https://acorridadosbairros.com.br/itajai/
 
-### Apartamentos, cidade toda: venda R$ 11.594/m² (n=1671); aluguel R$ 57,3/m²/mês (n=1124); rendimento bruto do aluguel 5,93% a.a.
+### Apartamentos, cidade toda: venda R$ 11.597/m² (n=1673); aluguel R$ 57,3/m²/mês (n=1124); rendimento bruto do aluguel 5,93% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -1652,7 +1652,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Fiúza Lima | R$ 10.562 | 13 | – | – | – | – |
 | Itaipava | R$ 6.808 | 23 | R$ 38,0 | 23 | 6,70% | – |
 | Murta | R$ 7.032 | 24 | R$ 45,7 | 9 | 7,80% | – |
-| Praia Brava | R$ 19.333 | 221 | R$ 79,1 | 257 | 4,91% | – |
+| Praia Brava | R$ 19.383 | 223 | R$ 79,1 | 257 | 4,90% | – |
 | Ressacada | R$ 9.889 | 59 | R$ 48,3 | 36 | 5,86% | – |
 | Santa Clara | R$ 19.785 | 17 | – | – | – | – |
 | Santa Regina | R$ 5.692 | 12 | R$ 50,0 | 13 | 10,54% | – |
@@ -3303,7 +3303,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 
 ## Balneário Camboriú (setembro/2026): https://acorridadosbairros.com.br/balneario-camboriu/
 
-### Apartamentos, cidade toda: venda R$ 17.083/m² (n=1424); aluguel R$ 59,4/m²/mês (n=1256); rendimento bruto do aluguel 4,17% a.a.
+### Apartamentos, cidade toda: venda R$ 17.164/m² (n=1443); aluguel R$ 59,4/m²/mês (n=1256); rendimento bruto do aluguel 4,15% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -3311,22 +3311,22 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Bairro das Nações | R$ 13.736 | 10 | – | – | – | – |
 | Barra | R$ 11.589 | 14 | – | – | – | – |
 | Barra Norte | R$ 20.863 | 51 | R$ 74,8 | 20 | 4,30% | – |
-| Barra Sul | R$ 19.570 | 82 | R$ 76,5 | 81 | 4,69% | – |
-| Centro | R$ 18.135 | 755 | R$ 54,5 | 852 | 3,61% | – |
+| Barra Sul | R$ 19.916 | 87 | R$ 76,5 | 81 | 4,61% | – |
+| Centro | R$ 18.167 | 763 | R$ 54,5 | 852 | 3,60% | – |
 | Estados | R$ 16.825 | 33 | R$ 57,1 | 5 | 4,07% | – |
 | Frente do Mar | – | – | R$ 79,3 | 7 | – | – |
 | Jardim Iate Clube | R$ 13.058 | 7 | – | – | – | – |
 | Municípios | R$ 11.104 | 32 | R$ 66,7 | 9 | 7,21% | – |
-| Nações | R$ 14.624 | 54 | R$ 60,0 | 39 | 4,92% | – |
-| Nova Esperança | R$ 8.480 | 18 | R$ 48,0 | 9 | 6,79% | – |
-| Pioneiros | R$ 18.660 | 195 | R$ 71,7 | 156 | 4,61% | – |
+| Nações | R$ 14.821 | 55 | R$ 60,0 | 39 | 4,86% | – |
+| Nova Esperança | R$ 8.649 | 19 | R$ 48,0 | 9 | 6,66% | – |
+| Pioneiros | R$ 18.699 | 199 | R$ 71,7 | 156 | 4,60% | – |
 | Praia Brava | R$ 13.644 | 8 | – | – | – | – |
 | Praia do Estaleiro | R$ 17.417 | 9 | – | – | – | – |
 | Praia dos Amores | R$ 16.875 | 59 | R$ 72,7 | 34 | 5,17% | – |
 | São Judas Tadeu | R$ 9.645 | 10 | – | – | – | – |
 | Vila Real | R$ 10.265 | 45 | R$ 50,0 | 14 | 5,85% | – |
 
-### Casas, cidade toda: venda R$ 10.875/m² (n=642); aluguel R$ 56,0/m²/mês (n=30); rendimento bruto do aluguel 6,18% a.a.
+### Casas, cidade toda: venda R$ 10.900/m² (n=648); aluguel R$ 56,0/m²/mês (n=30); rendimento bruto do aluguel 6,17% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -3340,12 +3340,12 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Nova Esperança | R$ 7.422 | 52 | – | – | – | – |
 | Praia das Taquaras | R$ 16.050 | 26 | – | – | – | – |
 | Praia do Estaleirinho | R$ 12.957 | 10 | – | – | – | – |
-| Praia do Estaleiro | R$ 15.577 | 36 | – | – | – | – |
+| Praia do Estaleiro | R$ 16.091 | 41 | – | – | – | – |
 | Praia dos Amores | R$ 13.908 | 66 | R$ 63,5 | 12 | 5,48% | – |
 | São Judas Tadeu | R$ 11.202 | 36 | – | – | – | – |
 | Vila Real | R$ 8.532 | 25 | – | – | – | – |
 
-### Terrenos, cidade toda: venda R$ 3.514/m² (n=298)
+### Terrenos, cidade toda: venda R$ 3.520/m² (n=299)
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -3358,7 +3358,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Nações | R$ 5.224 | 30 | – | – | – | – |
 | Nova Esperança | R$ 2.428 | 34 | – | – | – | – |
 | Praia das Taquaras | R$ 2.653 | 16 | – | – | – | – |
-| Praia do Estaleirinho | R$ 3.506 | 23 | – | – | – | – |
+| Praia do Estaleirinho | R$ 3.550 | 24 | – | – | – | – |
 | Praia do Estaleiro | R$ 2.736 | 31 | – | – | – | – |
 | Praia dos Amores | R$ 8.358 | 10 | – | – | – | – |
 | São Judas Tadeu | R$ 2.143 | 9 | – | – | – | – |
@@ -3370,9 +3370,9 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
 | Ariribá | – | – | R$ 264,2 | 8 | – | – |
-| Centro | R$ 17.092 | 28 | R$ 93,8 | 24 | 6,59% | – |
+| Centro | R$ 17.273 | 27 | R$ 93,8 | 24 | 6,52% | – |
 | Nações | R$ 11.056 | 8 | – | – | – | – |
-| Pioneiros | R$ 17.629 | 17 | – | – | – | – |
+| Pioneiros | R$ 17.635 | 18 | – | – | – | – |
 
 
 ## Macapá (setembro/2026): https://acorridadosbairros.com.br/ap/macapa/
@@ -3410,6 +3410,63 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
+
+
+## Itapema (setembro/2026): https://acorridadosbairros.com.br/itapema/
+
+### Apartamentos, cidade toda: venda R$ 15.779/m² (n=1604); aluguel R$ 44,0/m²/mês (n=351); rendimento bruto do aluguel 3,35% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Alto São Bento | R$ 12.057 | 15 | R$ 48,3 | 8 | 4,81% | – |
+| Andorinha | R$ 16.581 | 14 | – | – | – | – |
+| Canto da Praia | R$ 18.200 | 27 | – | – | – | – |
+| Casa Branca | R$ 9.130 | 35 | – | – | – | – |
+| Castelo Branco | R$ 14.938 | 16 | – | – | – | – |
+| Centro | R$ 18.478 | 317 | R$ 44,2 | 44 | 2,87% | – |
+| Ilhota | R$ 23.897 | 13 | – | – | – | – |
+| Jardim Praia Mar | R$ 12.071 | 29 | – | – | – | – |
+| Meia Praia | R$ 16.274 | 930 | R$ 40,6 | 242 | 2,99% | – |
+| Morretes | R$ 12.328 | 125 | R$ 52,9 | 30 | 5,15% | – |
+| Tabuleiro das Oliveiras | R$ 10.714 | 5 | – | – | – | – |
+| Tabuleiro dos Oliveiras | R$ 12.037 | 27 | R$ 57,5 | 14 | 5,73% | – |
+| Várzea | R$ 13.506 | 16 | – | – | – | – |
+
+### Casas, cidade toda: venda R$ 8.144/m² (n=235); aluguel R$ 27,6/m²/mês (n=24); rendimento bruto do aluguel 4,07% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Alto São Bento | R$ 6.825 | 23 | – | – | – | – |
+| Canto da Praia | R$ 14.354 | 13 | – | – | – | – |
+| Casa Branca | R$ 15.471 | 20 | – | – | – | – |
+| Centro | R$ 11.087 | 6 | R$ 9,3 | 5 | 1,01% | – |
+| Meia Praia | R$ 11.977 | 33 | R$ 17,0 | 6 | 1,70% | – |
+| Morretes | R$ 7.440 | 87 | R$ 40,5 | 6 | 6,53% | – |
+| Residenciais Fazenda | R$ 9.375 | 9 | – | – | – | – |
+| Sertão do Trombudo | R$ 8.034 | 14 | – | – | – | – |
+| Tabuleiro dos Oliveiras | R$ 8.148 | 5 | – | – | – | – |
+| Várzea | R$ 6.400 | 13 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 2.359/m² (n=118)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Alto São Bento | R$ 1.545 | 8 | – | – | – | – |
+| Casa Branca | R$ 2.000 | 13 | – | – | – | – |
+| Ilhota | R$ 5.667 | 15 | – | – | – | – |
+| Meia Praia | R$ 8.064 | 14 | – | – | – | – |
+| Morretes | R$ 3.171 | 25 | – | – | – | – |
+| Sertão do Trombudo | R$ 1.421 | 14 | – | – | – | – |
+| Tabuleiro dos Oliveiras | R$ 2.951 | 5 | – | – | – | – |
+| Várzea | R$ 2.286 | 7 | – | – | – | – |
+
+### Salas comerciais, cidade toda: venda R$ 15.090/m² (n=95); aluguel R$ 63,6/m²/mês (n=117); rendimento bruto do aluguel 5,06% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Centro | R$ 20.986 | 5 | R$ 79,2 | 20 | 4,53% | – |
+| Meia Praia | R$ 15.543 | 52 | R$ 62,5 | 73 | 4,83% | – |
+| Morretes | R$ 13.907 | 22 | R$ 60,2 | 13 | 5,19% | – |
 
 
 Metodologia: https://acorridadosbairros.com.br/metodologia/ · Dados abertos CC BY 4.0: https://acorridadosbairros.com.br/dados.csv · Imprensa: https://acorridadosbairros.com.br/imprensa/
