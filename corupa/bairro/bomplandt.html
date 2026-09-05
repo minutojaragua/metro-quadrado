@@ -26,7 +26,13 @@ window.mqEv=function(n,r,c){try{if(typeof gtag==='function')gtag('event',n,{rotu
 // seriam centenas de valores distintos e o GA4 jogaria a cauda em "(other)".
 window.mqOrigem=function(){try{var p=location.pathname.split('/').filter(Boolean);
 if(!p.length)return 'home';if(p.indexOf('bairro')>=0)return 'bairro';
-var f=['calculadora','comparar','onde-cabe','por-perto','inquilino-ou-dono','minha-casa-minha-vida','informe','assistente','metodologia','historico','anuncie'];
+// 05/09/2026 (teste de clique): cidade de fora de SC mora em /<uf>/<cidade>/. Sem descartar a
+// UF, Santos, Limeira, Piracicaba, Campinas e Sao Paulo viravam o MESMO "cidade:sp", as 11
+// capitais viravam "cidade:se", "cidade:rn"... e /sp/sao-paulo/casas/ era contado como cidade
+// em vez de segmento. Eram 16 das 35 cidades publicadas sem origem propria no relatorio.
+var UF=['ac','al','ap','am','ba','ce','df','es','go','ma','mt','ms','mg','pa','pb','pr','pe','pi','rj','rn','rs','ro','rr','sc','sp','se','to'];
+if(p.length>1&&UF.indexOf(p[0])>=0)p=p.slice(1);
+var f=['calculadora','comparar','onde-cabe','por-perto','inquilino-ou-dono','minha-casa-minha-vida','informe','assistente','metodologia','historico','anuncie','ranking','quem-somos','privacidade','conector','imprensa','corredores'];
 if(f.indexOf(p[0])>=0)return p[0];
 var seg=['casas','terrenos','salas','galpoes','apartamentos'];
 if(seg.indexOf(p[0])>=0||(p.length>1&&seg.indexOf(p[1])>=0))return 'segmento';
