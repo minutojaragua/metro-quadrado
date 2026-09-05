@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 29 cidades de Santa Catarina, Brasil, bairro por bairro, a partir de 123.603 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 30 cidades de Santa Catarina, Brasil, bairro por bairro, a partir de 125.263 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -3520,6 +3520,87 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Centro | – | – | R$ 69,3 | 6 | – | – |
 | Jardim Dourado | R$ 20.038 | 7 | – | – | – | – |
 | Pereque | R$ 18.820 | 5 | – | – | – | – |
+
+
+## Itapoá (setembro/2026): https://acorridadosbairros.com.br/itapoa/
+
+### Apartamentos, cidade toda: venda R$ 9.702/m² (n=430); aluguel R$ 29,4/m²/mês (n=36); rendimento bruto do aluguel 3,64% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Barra do Sai | R$ 9.661 | 35 | – | – | – | – |
+| Cambiju | R$ 6.709 | 12 | – | – | – | – |
+| Centro | R$ 9.550 | 45 | R$ 29,7 | 6 | 3,73% | – |
+| Continental | R$ 8.614 | 25 | – | – | – | – |
+| Itapema do Norte | R$ 9.818 | 128 | R$ 28,2 | 12 | 3,45% | – |
+| Jardim Perola do Atlântico | R$ 10.830 | 17 | – | – | – | – |
+| Maresia | R$ 9.161 | 12 | – | – | – | – |
+| Mariluz | R$ 8.830 | 7 | – | – | – | – |
+| Paese | R$ 9.475 | 31 | – | – | – | – |
+| Pontal do Norte | R$ 9.010 | 8 | – | – | – | – |
+| Princesa do Mar | R$ 7.188 | 5 | – | – | – | – |
+| Rainha | R$ 10.774 | 20 | – | – | – | – |
+| Rainha do Mar | R$ 11.171 | 49 | – | – | – | – |
+
+### Casas, cidade toda: venda R$ 5.441/m² (n=869); aluguel R$ 23,2/m²/mês (n=46); rendimento bruto do aluguel 5,12% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Balneario Cambiju | R$ 5.774 | 11 | – | – | – | – |
+| Balneario Santa Clara | R$ 4.902 | 5 | – | – | – | – |
+| Bamerindus | R$ 5.612 | 15 | – | – | – | – |
+| Barra do Sai | R$ 5.754 | 181 | R$ 33,3 | 7 | 6,95% | – |
+| Brandalize | R$ 4.276 | 19 | – | – | – | – |
+| Brasília | R$ 5.454 | 27 | – | – | – | – |
+| Cambiju | R$ 5.229 | 53 | – | – | – | – |
+| Centro | R$ 5.888 | 47 | R$ 20,1 | 5 | 4,10% | – |
+| Continental | R$ 5.559 | 42 | – | – | – | – |
+| Imperador | R$ 2.708 | 5 | – | – | – | – |
+| Itapema do Norte | R$ 5.910 | 94 | R$ 23,9 | 10 | 4,85% | – |
+| Itapema do Sai | R$ 4.103 | 11 | – | – | – | – |
+| Jardim da Barra | R$ 4.774 | 14 | – | – | – | – |
+| Jardim Perola do Atlântico | R$ 4.356 | 13 | – | – | – | – |
+| Mariluz | R$ 4.407 | 16 | – | – | – | – |
+| Paese | R$ 5.404 | 22 | – | – | – | – |
+| Pontal | R$ 5.000 | 7 | – | – | – | – |
+| Pontal do Norte | R$ 5.646 | 29 | – | – | – | – |
+| Praia das Palmeiras | R$ 3.822 | 8 | – | – | – | – |
+| Princesa do Mar | R$ 5.397 | 24 | – | – | – | – |
+| Rainha | R$ 5.833 | 13 | – | – | – | – |
+| Rainha do Mar | R$ 6.144 | 33 | – | – | – | – |
+| Rio Gracioso | R$ 2.292 | 5 | – | – | – | – |
+| Rosa dos Ventos | R$ 5.341 | 8 | – | – | – | – |
+| Sai Mirim | R$ 5.270 | 19 | – | – | – | – |
+| Samambaial | R$ 4.831 | 15 | – | – | – | – |
+| São José | R$ 5.601 | 34 | R$ 22,2 | 5 | 4,76% | – |
+| Uirapuru | R$ 5.719 | 7 | – | – | – | – |
+| Volta Ao Mundo | R$ 3.600 | 14 | – | – | – | – |
+| Volta Ao Mundo I | R$ 5.066 | 6 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 750/m² (n=249)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Bamerindus | R$ 546 | 9 | – | – | – | – |
+| Barra do Sai | R$ 904 | 55 | – | – | – | – |
+| Cambiju | R$ 623 | 12 | – | – | – | – |
+| Centro | R$ 1.000 | 11 | – | – | – | – |
+| Continental | R$ 542 | 12 | – | – | – | – |
+| Figueira do Pontal | R$ 424 | 7 | – | – | – | – |
+| Itapema do Norte | R$ 1.222 | 17 | – | – | – | – |
+| Itapema do Sai | R$ 330 | 10 | – | – | – | – |
+| Maresia | R$ 415 | 5 | – | – | – | – |
+| Paese | R$ 1.733 | 7 | – | – | – | – |
+| Pontal do Norte | R$ 553 | 17 | – | – | – | – |
+| Praia das Palmeiras | R$ 397 | 6 | – | – | – | – |
+| Rainha do Mar | R$ 1.001 | 6 | – | – | – | – |
+| São José | R$ 747 | 14 | – | – | – | – |
+
+### Salas comerciais, cidade toda: venda R$ 8.524/m² (n=5); aluguel R$ 47,9/m²/mês (n=25); rendimento bruto do aluguel 6,74% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Itapema do Norte | – | – | R$ 51,6 | 15 | – | – |
 
 
 Metodologia: https://acorridadosbairros.com.br/metodologia/ · Dados abertos CC BY 4.0: https://acorridadosbairros.com.br/dados.csv · Imprensa: https://acorridadosbairros.com.br/imprensa/
