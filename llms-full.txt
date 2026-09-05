@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 25 cidades de Santa Catarina, Brasil, bairro por bairro, a partir de 115.189 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 26 cidades de Santa Catarina, Brasil, bairro por bairro, a partir de 118.950 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -3286,6 +3286,80 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Praia do Canto | R$ 6.250 | 13 | R$ 88,0 | 13 | 16,90% | – |
 | Praia do Suá | R$ 7.284 | 12 | R$ 42,9 | 9 | 7,07% | – |
 | Santa Lúcia | R$ 5.833 | 22 | R$ 43,0 | 21 | 8,85% | – |
+
+
+## Balneário Camboriú (setembro/2026): https://acorridadosbairros.com.br/balneario-camboriu/
+
+### Apartamentos, cidade toda: venda R$ 17.100/m² (n=1420); aluguel R$ 59,4/m²/mês (n=1256); rendimento bruto do aluguel 4,17% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Ariribá | R$ 15.097 | 24 | R$ 55,0 | 17 | 4,37% | – |
+| Bairro das Nações | R$ 13.736 | 10 | – | – | – | – |
+| Barra | R$ 11.589 | 14 | – | – | – | – |
+| Barra Norte | R$ 20.863 | 51 | R$ 74,8 | 20 | 4,30% | – |
+| Barra Sul | R$ 19.570 | 82 | R$ 76,5 | 81 | 4,69% | – |
+| Centro | R$ 18.136 | 751 | R$ 54,5 | 852 | 3,61% | – |
+| Estados | R$ 16.825 | 33 | R$ 57,1 | 5 | 4,07% | – |
+| Frente do Mar | – | – | R$ 79,3 | 7 | – | – |
+| Jardim Iate Clube | R$ 13.058 | 7 | – | – | – | – |
+| Municípios | R$ 11.104 | 32 | R$ 66,7 | 9 | 7,21% | – |
+| Nações | R$ 14.624 | 54 | R$ 60,0 | 39 | 4,92% | – |
+| Nova Esperança | R$ 8.480 | 18 | R$ 48,0 | 9 | 6,79% | – |
+| Pioneiros | R$ 18.660 | 195 | R$ 71,7 | 156 | 4,61% | – |
+| Praia Brava | R$ 13.644 | 8 | – | – | – | – |
+| Praia do Estaleiro | R$ 17.417 | 9 | – | – | – | – |
+| Praia dos Amores | R$ 16.875 | 59 | R$ 72,7 | 34 | 5,17% | – |
+| São Judas Tadeu | R$ 9.645 | 10 | – | – | – | – |
+| Vila Real | R$ 10.265 | 45 | R$ 50,0 | 14 | 5,85% | – |
+
+### Casas, cidade toda: venda R$ 10.875/m² (n=642); aluguel R$ 56,0/m²/mês (n=30); rendimento bruto do aluguel 6,18% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Ariribá | R$ 11.459 | 102 | R$ 56,8 | 6 | 5,95% | – |
+| Barra | R$ 13.274 | 87 | – | – | – | – |
+| Centro | R$ 11.134 | 53 | R$ 53,8 | 5 | 5,80% | – |
+| Estados | R$ 10.377 | 31 | – | – | – | – |
+| Jardim Iate Clube | R$ 5.480 | 15 | – | – | – | – |
+| Municípios | R$ 6.812 | 28 | – | – | – | – |
+| Nações | R$ 8.750 | 65 | – | – | – | – |
+| Nova Esperança | R$ 7.422 | 52 | – | – | – | – |
+| Praia das Taquaras | R$ 16.050 | 26 | – | – | – | – |
+| Praia do Estaleirinho | R$ 12.957 | 10 | – | – | – | – |
+| Praia do Estaleiro | R$ 15.577 | 36 | – | – | – | – |
+| Praia dos Amores | R$ 13.908 | 66 | R$ 63,5 | 12 | 5,48% | – |
+| São Judas Tadeu | R$ 11.202 | 36 | – | – | – | – |
+| Vila Real | R$ 8.532 | 25 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 3.514/m² (n=298)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Ariribá | R$ 4.382 | 30 | – | – | – | – |
+| Barra | R$ 4.000 | 35 | – | – | – | – |
+| Centro | R$ 8.333 | 9 | – | – | – | – |
+| Estados | R$ 1.911 | 12 | – | – | – | – |
+| Jardim Iate Clube | R$ 3.240 | 20 | – | – | – | – |
+| Municípios | R$ 3.290 | 16 | – | – | – | – |
+| Nações | R$ 5.224 | 30 | – | – | – | – |
+| Nova Esperança | R$ 2.428 | 34 | – | – | – | – |
+| Praia das Taquaras | R$ 2.653 | 16 | – | – | – | – |
+| Praia do Estaleirinho | R$ 3.506 | 23 | – | – | – | – |
+| Praia do Estaleiro | R$ 2.736 | 31 | – | – | – | – |
+| Praia dos Amores | R$ 8.358 | 10 | – | – | – | – |
+| São Judas Tadeu | R$ 2.143 | 9 | – | – | – | – |
+| Várzea do Ranchinho | R$ 2.000 | 5 | – | – | – | – |
+| Vila Real | R$ 4.620 | 9 | – | – | – | – |
+
+### Salas comerciais, cidade toda: venda R$ 15.552/m² (n=68); aluguel R$ 96,8/m²/mês (n=39); rendimento bruto do aluguel 7,47% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Ariribá | – | – | R$ 264,2 | 8 | – | – |
+| Centro | R$ 17.092 | 28 | R$ 93,8 | 24 | 6,59% | – |
+| Nações | R$ 11.056 | 8 | – | – | – | – |
+| Pioneiros | R$ 17.629 | 17 | – | – | – | – |
 
 
 Metodologia: https://acorridadosbairros.com.br/metodologia/ · Dados abertos CC BY 4.0: https://acorridadosbairros.com.br/dados.csv · Imprensa: https://acorridadosbairros.com.br/imprensa/
