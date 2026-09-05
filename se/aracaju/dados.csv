@@ -1,5 +1,4 @@
 cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
-Aracaju,13 de Julho,apartamento,venda,4527.8,4069.6,5831.4,12,,setembro/2026
 Aracaju,Aeroporto,apartamento,venda,4711.5,4143.5,5858.1,19,6.83,setembro/2026
 Aracaju,Aeroporto,apartamento,aluguel,26.8,23.3,28.3,7,6.83,setembro/2026
 Aracaju,Aruana,apartamento,venda,5846.2,4825.0,8870.3,55,6.06,setembro/2026
@@ -35,7 +34,7 @@ Aracaju,São Conrado,apartamento,venda,3375.4,2948.3,3851.5,18,,setembro/2026
 Aracaju,São José,apartamento,venda,2803.9,2197.6,4149.0,28,11.43,setembro/2026
 Aracaju,São José,apartamento,aluguel,26.7,20.8,32.3,8,11.43,setembro/2026
 Aracaju,Suíssa,apartamento,venda,3048.8,2901.9,3468.3,19,,setembro/2026
-Aracaju,Treze de Julho,apartamento,venda,4558.4,3592.2,5352.7,42,,setembro/2026
+Aracaju,Treze de Julho,apartamento,venda,4545.5,3680.8,5364.0,52,,setembro/2026
 Aracaju,Zona de Expansão (Aruana),apartamento,venda,4611.3,4145.2,4951.0,12,,setembro/2026
 Aracaju,Aeroporto,casa,venda,3871.6,3317.1,4970.6,6,,setembro/2026
 Aracaju,Aruana,casa,venda,4769.2,3540.1,5744.2,43,7.6,setembro/2026
@@ -46,7 +45,7 @@ Aracaju,Bugio,casa,venda,2277.1,1797.0,3001.9,8,,setembro/2026
 Aracaju,Centro,casa,venda,2445.0,1952.4,3335.0,15,,setembro/2026
 Aracaju,Cirurgia,casa,venda,2425.0,2212.0,3077.8,11,,setembro/2026
 Aracaju,Coroa do Meio,casa,venda,3675.0,2190.5,4862.3,22,,setembro/2026
-Aracaju,Dezoito do Forte,casa,venda,2875.0,2539.7,3823.5,9,,setembro/2026
+Aracaju,Dezoito do Forte,casa,venda,2839.5,2509.9,3596.8,10,,setembro/2026
 Aracaju,Farolândia,casa,venda,3095.2,2567.6,4709.5,21,5.16,setembro/2026
 Aracaju,Farolândia,casa,aluguel,13.3,12.8,16.7,5,5.16,setembro/2026
 Aracaju,Getúlio Vargas,casa,venda,2083.3,1948.1,2111.1,5,,setembro/2026
@@ -70,8 +69,8 @@ Aracaju,Siqueira Campos,casa,venda,2433.3,2333.3,2653.1,9,9.27,setembro/2026
 Aracaju,Siqueira Campos,casa,aluguel,18.8,14.7,40.0,5,9.27,setembro/2026
 Aracaju,Suíça,casa,venda,2953.8,2173.1,4765.4,6,,setembro/2026
 Aracaju,Suíssa,casa,venda,2666.7,1884.2,3614.7,16,,setembro/2026
-Aracaju,Treze de Julho,casa,venda,2619.0,2291.0,3030.3,9,,setembro/2026
-Aracaju,Zona de Expansão (Mosqueiro),casa,venda,5087.7,3102.6,6317.7,7,,setembro/2026
+Aracaju,Treze de Julho,casa,venda,2509.5,2272.8,3020.5,10,,setembro/2026
+Aracaju,Zona de Expansão (Mosqueiro),casa,venda,4627.2,3265.0,6235.8,8,,setembro/2026
 Aracaju,Areia Branca,terreno,venda,203.8,166.7,600.0,5,,setembro/2026
 Aracaju,Aruana,terreno,venda,1745.8,750.0,1901.1,16,,setembro/2026
 Aracaju,Farolândia,terreno,venda,2100.0,1636.4,4243.5,5,,setembro/2026
