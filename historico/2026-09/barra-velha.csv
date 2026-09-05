@@ -1,0 +1,29 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Barra Velha,Beira Mar,apartamento,venda,14111.8,12878.1,14462.3,8,,setembro/2026
+Barra Velha,Centro,apartamento,venda,9130.3,6479.0,10386.9,90,5.26,setembro/2026
+Barra Velha,Centro,apartamento,aluguel,40.0,33.3,45.0,9,5.26,setembro/2026
+Barra Velha,Itajuba,apartamento,venda,9088.2,6535.1,11399.1,170,6.07,setembro/2026
+Barra Velha,Itajuba,apartamento,aluguel,46.0,41.4,49.0,5,6.07,setembro/2026
+Barra Velha,Itajubá II,apartamento,venda,10806.2,8948.7,15111.9,15,,setembro/2026
+Barra Velha,Itingá I,apartamento,venda,6689.1,6228.1,7257.4,5,,setembro/2026
+Barra Velha,Jardim Icaraí,apartamento,venda,5948.3,5596.5,6683.4,10,,setembro/2026
+Barra Velha,Los Angeles,apartamento,venda,6153.8,5515.7,7911.3,7,,setembro/2026
+Barra Velha,Nova,apartamento,venda,5549.2,5176.2,6125.0,9,,setembro/2026
+Barra Velha,Quinta dos Açorianos,apartamento,venda,5768.8,5714.3,6213.9,5,,setembro/2026
+Barra Velha,São Cristóvão,apartamento,venda,6485.1,5453.3,7117.4,29,,setembro/2026
+Barra Velha,Tabuleiro,apartamento,venda,12275.0,10464.3,15018.7,206,,setembro/2026
+Barra Velha,Centro,casa,venda,5844.2,4833.3,8181.8,89,,setembro/2026
+Barra Velha,Itajuba,casa,venda,6337.1,5094.5,7677.1,159,,setembro/2026
+Barra Velha,Jardim Icaraí,casa,venda,6105.3,4187.5,7679.9,23,,setembro/2026
+Barra Velha,Los Angeles,casa,venda,5473.8,4049.2,6357.3,16,,setembro/2026
+Barra Velha,Nova,casa,venda,6486.5,5929.0,7232.6,31,,setembro/2026
+Barra Velha,Quinta dos Açorianos,casa,venda,5775.2,5071.0,6448.6,74,,setembro/2026
+Barra Velha,São Cristóvão,casa,venda,5618.2,4270.0,6331.3,54,,setembro/2026
+Barra Velha,Tabuleiro,casa,venda,7606.3,5598.2,9805.2,32,,setembro/2026
+Barra Velha,Vila Nova,casa,venda,5639.1,4574.0,6636.8,34,,setembro/2026
+Barra Velha,Centro,terreno,venda,1270.1,1028.9,1781.7,17,,setembro/2026
+Barra Velha,Itajuba,terreno,venda,833.3,570.0,1125.0,27,,setembro/2026
+Barra Velha,Nova,terreno,venda,1000.0,870.5,1071.4,9,,setembro/2026
+Barra Velha,Quinta dos Açorianos,terreno,venda,660.9,569.6,755.5,17,,setembro/2026
+Barra Velha,São Cristóvão,terreno,venda,594.2,446.2,722.8,14,,setembro/2026
+Barra Velha,Sertãozinho,terreno,venda,308.4,300.0,312.5,5,,setembro/2026
