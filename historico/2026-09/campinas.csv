@@ -268,7 +268,6 @@ Campinas,Cidade Jardim,casa,venda,3634.6,2729.4,4753.0,9,,setembro/2026
 Campinas,Cidade Universitária,casa,venda,4311.6,3503.8,5274.3,82,6.99,setembro/2026
 Campinas,Cidade Universitária,casa,aluguel,25.1,18.2,27.1,12,6.99,setembro/2026
 Campinas,Colinas do Ermitage (Sousas),casa,venda,7189.5,5857.1,7348.1,5,,setembro/2026
-Campinas,Condomínio Chácaras do Alto da Nova,casa,venda,9166.7,7651.1,13080.3,7,,setembro/2026
 Campinas,Conjunto Habitacional Padre Anchieta,casa,venda,2898.6,2584.6,3076.1,7,,setembro/2026
 Campinas,Conjunto Habitacional Parque da Floresta,casa,venda,2407.4,1906.7,3031.7,7,,setembro/2026
 Campinas,Dic II (Conj Habitacional Doutor Antônio Mendonça de Barros),casa,venda,2759.3,2374.4,3102.1,6,,setembro/2026
@@ -343,8 +342,8 @@ Campinas,Jardim Miranda,casa,venda,3613.6,3235.3,5315.3,5,,setembro/2026
 Campinas,Jardim Morumbi,casa,venda,3055.6,2362.6,3644.4,8,,setembro/2026
 Campinas,Jardim Myrian Moreira da Costa,casa,venda,4807.7,3359.9,5764.7,8,,setembro/2026
 Campinas,Jardim New York,casa,venda,3200.0,3181.3,3865.6,7,,setembro/2026
-Campinas,Jardim Nossa Senhora Auxiliadora,casa,venda,5160.9,3589.9,6022.9,20,7.23,setembro/2026
-Campinas,Jardim Nossa Senhora Auxiliadora,casa,aluguel,31.1,26.0,43.8,30,7.23,setembro/2026
+Campinas,Jardim Nossa Senhora Auxiliadora,casa,venda,5174.6,3623.2,6000.0,21,7.21,setembro/2026
+Campinas,Jardim Nossa Senhora Auxiliadora,casa,aluguel,31.1,26.0,43.8,30,7.21,setembro/2026
 Campinas,Jardim Nova Europa,casa,venda,4030.6,3480.4,4636.2,20,7.15,setembro/2026
 Campinas,Jardim Nova Europa,casa,aluguel,24.0,22.0,27.3,13,7.15,setembro/2026
 Campinas,Jardim Novo Campos Elíseos,casa,venda,3741.9,2678.2,4250.0,21,6.7,setembro/2026
@@ -528,7 +527,6 @@ Campinas,Chácara Belvedere,terreno,venda,487.6,325.3,590.9,8,,setembro/2026
 Campinas,Chácara Santa Margarida,terreno,venda,691.0,557.7,833.3,26,,setembro/2026
 Campinas,Chácara São Rafael,terreno,venda,1195.9,990.8,1374.3,6,,setembro/2026
 Campinas,Cidade Universitária,terreno,venda,1111.1,977.8,1235.2,7,,setembro/2026
-Campinas,Condomínio Residencial Portinari,terreno,venda,820.6,759.9,880.6,6,,setembro/2026
 Campinas,Fazenda Pau d'Alho,terreno,venda,1680.3,1602.3,1746.4,10,,setembro/2026
 Campinas,Fazenda Santa Cândida,terreno,venda,982.7,901.2,1153.4,8,,setembro/2026
 Campinas,Guara,terreno,venda,577.8,531.3,655.6,7,,setembro/2026
@@ -554,6 +552,7 @@ Campinas,Loteamento Residencial Arborais,terreno,venda,1737.1,1619.0,1838.6,27,,
 Campinas,Loteamento Residencial Entre Verdes (Sousas),terreno,venda,1201.2,1018.0,1308.3,20,,setembro/2026
 Campinas,Loteamento Residencial Pedra Alta (Sousas),terreno,venda,1044.8,999.1,1244.4,21,,setembro/2026
 Campinas,Loteamento Serena,terreno,venda,1580.4,1498.7,1674.1,35,,setembro/2026
+Campinas,Mansões Santo Antônio,terreno,venda,1343.8,989.7,1837.3,5,,setembro/2026
 Campinas,Morada das Nascentes,terreno,venda,240.6,228.4,260.5,5,,setembro/2026
 Campinas,Morada das Nascentes (Joaquim Egídio),terreno,venda,287.4,254.5,403.3,13,,setembro/2026
 Campinas,Nova,terreno,venda,3299.7,3286.0,3975.0,25,,setembro/2026
