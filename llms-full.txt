@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 23 cidades de Santa Catarina, Brasil, bairro por bairro, a partir de 111.657 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 23 cidades de Santa Catarina, Brasil, bairro por bairro, a partir de 111.779 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -3015,46 +3015,97 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 
 ## Palmas (setembro/2026): https://acorridadosbairros.com.br/to/palmas/
 
-### Apartamentos, cidade toda: venda R$ 8.842/m² (n=348); aluguel R$ 49,0/m²/mês (n=116); rendimento bruto do aluguel 6,65% a.a.
+### Apartamentos, cidade toda: venda R$ 8.400/m² (n=361); aluguel R$ 50,0/m²/mês (n=94); rendimento bruto do aluguel 7,14% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Graciosa - Orla 14 | R$ 13.184 | 99 | R$ 58,6 | 23 | 5,33% | – |
-| Loteamento Lago Sul (Taquaralto) | R$ 2.857 | 5 | – | – | – | – |
-| Plano Diretor Norte | R$ 6.909 | 75 | R$ 50,8 | 27 | 8,82% | – |
-| Plano Diretor Sul | R$ 8.082 | 165 | R$ 47,5 | 65 | 7,05% | – |
+| 105 Norte | R$ 8.478 | 11 | – | – | – | – |
+| 106 Norte | R$ 8.394 | 9 | – | – | – | – |
+| 106 Sul | R$ 6.966 | 6 | – | – | – | – |
+| 1504 Sul | – | – | R$ 45,5 | 6 | – | – |
+| 204 Sul | R$ 7.789 | 15 | – | – | – | – |
+| 205 Sul | R$ 8.333 | 11 | – | – | – | – |
+| 206 Sul | R$ 6.924 | 10 | – | – | – | – |
+| 207 Sul | R$ 9.074 | 5 | – | – | – | – |
+| 208 Sul | R$ 7.143 | 5 | – | – | – | – |
+| 306 Sul | R$ 7.654 | 8 | – | – | – | – |
+| 308 Sul | R$ 7.083 | 9 | – | – | – | – |
+| 404 Sul | R$ 11.758 | 17 | – | – | – | – |
+| 603 Sul | R$ 7.949 | 5 | – | – | – | – |
+| 706 Sul | R$ 8.082 | 9 | – | – | – | – |
+| 806 Sul | R$ 5.476 | 9 | – | – | – | – |
+| Graciosa - Orla 14 | R$ 13.189 | 70 | R$ 61,8 | 18 | 5,62% | – |
+| Plano Diretor Norte (quadra não informada) | R$ 8.575 | 18 | R$ 60,8 | 10 | 8,51% | – |
+| Plano Diretor Sul (quadra não informada) | R$ 9.174 | 63 | R$ 51,5 | 9 | 6,74% | – |
 
-### Casas, cidade toda: venda R$ 5.069/m² (n=760); aluguel R$ 34,8/m²/mês (n=52); rendimento bruto do aluguel 8,24% a.a.
+### Casas, cidade toda: venda R$ 5.155/m² (n=884); aluguel R$ 35,0/m²/mês (n=41); rendimento bruto do aluguel 8,15% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
+| 1003 Sul | R$ 5.046 | 21 | – | – | – | – |
+| 109 Sul | R$ 12.024 | 5 | – | – | – | – |
+| 110 Norte | R$ 4.944 | 7 | – | – | – | – |
+| 110 Sul | R$ 6.693 | 8 | – | – | – | – |
+| 1103 Sul | R$ 5.203 | 19 | – | – | – | – |
+| 1104 Sul | R$ 5.351 | 5 | – | – | – | – |
+| 1204 Sul | R$ 3.063 | 8 | – | – | – | – |
+| 1205 Sul | R$ 5.952 | 7 | – | – | – | – |
+| 1305 Sul | R$ 4.229 | 6 | – | – | – | – |
+| 1404 Sul | R$ 5.147 | 15 | – | – | – | – |
+| 1406 Sul | R$ 4.762 | 13 | – | – | – | – |
+| 1503 Sul | R$ 5.000 | 45 | – | – | – | – |
+| 1504 Sul | R$ 4.869 | 13 | – | – | – | – |
+| 1506 Sul | R$ 5.100 | 22 | – | – | – | – |
+| 1601 Sul | R$ 3.490 | 6 | – | – | – | – |
+| 1603 Sul | R$ 4.358 | 12 | – | – | – | – |
+| 204 Sul | R$ 7.251 | 6 | – | – | – | – |
+| 209 Sul | R$ 13.246 | 6 | – | – | – | – |
+| 303 Sul | R$ 5.779 | 6 | – | – | – | – |
+| 305 Sul | R$ 5.300 | 9 | – | – | – | – |
+| 307 Sul | R$ 4.242 | 9 | – | – | – | – |
+| 309 Sul | R$ 6.646 | 30 | – | – | – | – |
+| 403 Sul | R$ 5.302 | 6 | – | – | – | – |
+| 404 Sul | R$ 6.765 | 9 | – | – | – | – |
+| 405 Sul | R$ 5.625 | 18 | – | – | – | – |
+| 407 Sul | R$ 5.681 | 18 | – | – | – | – |
+| 409 Sul | R$ 5.657 | 18 | – | – | – | – |
+| 505 Sul | R$ 6.562 | 45 | – | – | – | – |
+| 507 Sul | R$ 5.080 | 27 | – | – | – | – |
+| 509 Sul | R$ 6.222 | 10 | – | – | – | – |
+| 603 Sul | R$ 4.267 | 8 | – | – | – | – |
+| 604 Norte | R$ 3.542 | 11 | – | – | – | – |
+| 605 Sul | R$ 6.536 | 10 | – | – | – | – |
+| 704 Norte | R$ 6.030 | 10 | – | – | – | – |
+| 704 Sul | R$ 3.865 | 7 | – | – | – | – |
+| 804 Norte | R$ 2.972 | 5 | – | – | – | – |
+| 806 Sul | R$ 6.346 | 8 | – | – | – | – |
+| 904 Sul | R$ 3.930 | 8 | – | – | – | – |
+| 906 Sul | R$ 4.447 | 8 | – | – | – | – |
 | Bertaville | R$ 4.024 | 17 | – | – | – | – |
-| Graciosa - Orla 14 | R$ 7.202 | 15 | – | – | – | – |
+| Graciosa - Orla 14 | R$ 5.227 | 9 | – | – | – | – |
 | Jardim Aureny III | R$ 3.707 | 10 | – | – | – | – |
-| Jardim Janaína (Taquaralto) | R$ 3.433 | 7 | – | – | – | – |
 | Loteamento Caribe | R$ 9.432 | 15 | – | – | – | – |
-| Loteamento Residencial Polinésia | R$ 7.887 | 8 | – | – | – | – |
-| Morada do Sol | R$ 3.607 | 5 | – | – | – | – |
-| Plano Diretor Norte | R$ 4.750 | 115 | R$ 36,6 | 6 | 9,25% | – |
-| Plano Diretor Sul | R$ 5.227 | 542 | R$ 33,8 | 43 | 7,76% | – |
-| Setor Santa Fé 2 (Taquaralto) | R$ 3.387 | 7 | – | – | – | – |
+| Loteamento Residencial Polinésia | R$ 9.494 | 5 | – | – | – | – |
+| Plano Diretor Norte (quadra não informada) | R$ 3.942 | 24 | – | – | – | – |
+| Plano Diretor Sul (quadra não informada) | R$ 5.156 | 175 | R$ 32,5 | 5 | 7,56% | – |
 
-### Terrenos, cidade toda: venda R$ 800/m² (n=144)
+### Terrenos, cidade toda: venda R$ 801/m² (n=155)
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
+| 505 Sul | R$ 1.044 | 5 | – | – | – | – |
 | Bertaville | R$ 348 | 8 | – | – | – | – |
 | Loteamento Caribe | R$ 918 | 10 | – | – | – | – |
-| Loteamento Residencial Polinésia | R$ 664 | 8 | – | – | – | – |
-| Plano Diretor Norte | R$ 851 | 17 | – | – | – | – |
-| Plano Diretor Sul | R$ 833 | 88 | – | – | – | – |
+| Loteamento Residencial Polinésia | R$ 632 | 5 | – | – | – | – |
+| Plano Diretor Norte (quadra não informada) | R$ 773 | 9 | – | – | – | – |
+| Plano Diretor Sul (quadra não informada) | R$ 958 | 40 | – | – | – | – |
 
-### Salas comerciais, cidade toda: venda R$ 11.791/m² (n=13); aluguel R$ 50,8/m²/mês (n=34); rendimento bruto do aluguel 5,17% a.a.
+### Salas comerciais, cidade toda: venda R$ 12.766/m² (n=15); aluguel R$ 50,0/m²/mês (n=40); rendimento bruto do aluguel 4,70% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Plano Diretor Norte | – | – | R$ 52,9 | 14 | – | – |
-| Plano Diretor Sul | R$ 11.791 | 9 | R$ 45,8 | 18 | 4,66% | – |
+| 104 Norte | – | – | R$ 41,7 | 5 | – | – |
+| Plano Diretor Sul (quadra não informada) | R$ 11.786 | 7 | R$ 50,0 | 7 | 5,09% | – |
 
 
 Metodologia: https://acorridadosbairros.com.br/metodologia/ · Dados abertos CC BY 4.0: https://acorridadosbairros.com.br/dados.csv · Imprensa: https://acorridadosbairros.com.br/imprensa/
