@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 31 cidades de Santa Catarina, Brasil, bairro por bairro, a partir de 125.976 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 31 cidades de Santa Catarina, Brasil, bairro por bairro, a partir de 126.174 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -3480,46 +3480,46 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 
 ## Porto Belo (setembro/2026): https://acorridadosbairros.com.br/porto-belo/
 
-### Apartamentos, cidade toda: venda R$ 15.790/m² (n=697); aluguel R$ 50,0/m²/mês (n=47); rendimento bruto do aluguel 3,80% a.a.
+### Apartamentos, cidade toda: venda R$ 15.838/m² (n=847); aluguel R$ 50,0/m²/mês (n=47); rendimento bruto do aluguel 3,79% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
 | Alto Perequê | R$ 13.296 | 20 | – | – | – | – |
 | Balneário Perequê | R$ 15.778 | 175 | R$ 50,5 | 22 | 3,84% | – |
-| Centro | R$ 14.810 | 24 | R$ 14,8 | 5 | 1,20% | – |
-| Jardim Dourado | R$ 17.333 | 55 | – | – | – | – |
-| Pereque | R$ 15.587 | 353 | R$ 53,7 | 12 | 4,13% | – |
+| Centro | R$ 16.154 | 87 | R$ 14,8 | 5 | 1,10% | – |
+| Jardim Dourado | R$ 16.875 | 105 | – | – | – | – |
+| Pereque | R$ 15.612 | 364 | R$ 53,7 | 12 | 4,13% | – |
 | Porto Belo | R$ 13.488 | 11 | – | – | – | – |
-| Vila Nova | R$ 12.354 | 14 | – | – | – | – |
+| Vila Nova | R$ 13.085 | 40 | – | – | – | – |
 | Viva Park | R$ 20.433 | 8 | – | – | – | – |
 | Vivapark | R$ 17.926 | 29 | – | – | – | – |
 
-### Casas, cidade toda: venda R$ 8.901/m² (n=214); aluguel R$ 14,1/m²/mês (n=27); rendimento bruto do aluguel 1,90% a.a.
+### Casas, cidade toda: venda R$ 9.296/m² (n=256); aluguel R$ 14,1/m²/mês (n=27); rendimento bruto do aluguel 1,82% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
 | Alto Perequê | R$ 7.792 | 22 | – | – | – | – |
 | Araçá | R$ 18.235 | 5 | – | – | – | – |
 | Balneário Perequê | R$ 8.772 | 57 | R$ 31,0 | 10 | 4,24% | – |
-| Centro | R$ 9.750 | 28 | R$ 10,0 | 10 | 1,23% | – |
-| Jardim Dourado | R$ 9.040 | 23 | – | – | – | – |
-| Pereque | R$ 9.410 | 28 | – | – | – | – |
-| Vila Nova | R$ 7.584 | 38 | – | – | – | – |
+| Centro | R$ 10.168 | 42 | R$ 10,0 | 10 | 1,18% | – |
+| Jardim Dourado | R$ 14.742 | 42 | – | – | – | – |
+| Pereque | R$ 9.375 | 27 | – | – | – | – |
+| Vila Nova | R$ 7.701 | 48 | – | – | – | – |
 | Vivapark | R$ 17.518 | 5 | – | – | – | – |
 
-### Terrenos, cidade toda: venda R$ 3.856/m² (n=174)
+### Terrenos, cidade toda: venda R$ 3.856/m² (n=180)
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
 | Alto Perequê | R$ 1.838 | 17 | – | – | – | – |
 | Araçá | R$ 1.640 | 5 | – | – | – | – |
 | Balneário Perequê | R$ 5.020 | 26 | – | – | – | – |
-| Centro | R$ 3.301 | 36 | – | – | – | – |
-| Jardim Dourado | R$ 3.617 | 22 | – | – | – | – |
+| Centro | R$ 3.333 | 37 | – | – | – | – |
+| Jardim Dourado | R$ 3.533 | 23 | – | – | – | – |
 | Pereque | R$ 8.000 | 5 | – | – | – | – |
 | Santa Luzia | R$ 7.037 | 24 | – | – | – | – |
 | Sertão de Santa Luzia | R$ 9.901 | 15 | – | – | – | – |
-| Vila Nova | R$ 2.070 | 6 | – | – | – | – |
+| Vila Nova | R$ 2.242 | 10 | – | – | – | – |
 
 ### Salas comerciais, cidade toda: venda R$ 17.807/m² (n=36); aluguel R$ 69,0/m²/mês (n=21); rendimento bruto do aluguel 4,65% a.a.
 
