@@ -1,8 +1,8 @@
 cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
 Navegantes,Centro,apartamento,venda,9697.1,7640.9,11947.0,350,4.95,setembro/2026
 Navegantes,Centro,apartamento,aluguel,40.0,33.7,48.4,37,4.95,setembro/2026
-Navegantes,Gravatá,apartamento,venda,9482.3,7532.1,12490.4,574,4.8,setembro/2026
-Navegantes,Gravatá,apartamento,aluguel,37.9,33.8,42.5,58,4.8,setembro/2026
+Navegantes,Gravatá,apartamento,venda,9523.3,7594.7,12500.0,572,4.78,setembro/2026
+Navegantes,Gravatá,apartamento,aluguel,37.9,33.8,42.5,58,4.78,setembro/2026
 Navegantes,Machados,apartamento,venda,6818.2,6631.0,7597.6,7,7.06,setembro/2026
 Navegantes,Machados,apartamento,aluguel,40.1,36.7,42.8,6,7.06,setembro/2026
 Navegantes,Meia Praia,apartamento,venda,8035.7,6745.8,9846.3,147,5.39,setembro/2026
@@ -12,10 +12,10 @@ Navegantes,São Paulo,apartamento,venda,7000.0,6442.6,7245.3,7,,setembro/2026
 Navegantes,São Pedro,apartamento,venda,10386.4,8737.9,12668.9,23,,setembro/2026
 Navegantes,Volta Grande,apartamento,venda,5082.0,4754.1,6783.9,9,7.86,setembro/2026
 Navegantes,Volta Grande,apartamento,aluguel,33.3,30.4,38.8,6,7.86,setembro/2026
-Navegantes,Centro,casa,venda,6815.9,5434.4,8639.3,114,5.46,setembro/2026
-Navegantes,Centro,casa,aluguel,31.0,26.4,41.0,6,5.46,setembro/2026
-Navegantes,Gravatá,casa,venda,6821.1,4756.2,8244.3,128,5.98,setembro/2026
-Navegantes,Gravatá,casa,aluguel,34.0,25.9,40.7,13,5.98,setembro/2026
+Navegantes,Centro,casa,venda,6756.8,5451.9,8611.9,115,5.51,setembro/2026
+Navegantes,Centro,casa,aluguel,31.0,26.4,41.0,6,5.51,setembro/2026
+Navegantes,Gravatá,casa,venda,6800.0,4742.9,8219.7,129,6.0,setembro/2026
+Navegantes,Gravatá,casa,aluguel,34.0,25.9,40.7,13,6.0,setembro/2026
 Navegantes,Machados,casa,venda,4300.0,2678.6,5142.9,17,,setembro/2026
 Navegantes,Meia Praia,casa,venda,6838.4,5108.7,8231.7,76,5.51,setembro/2026
 Navegantes,Meia Praia,casa,aluguel,31.4,25.0,36.0,5,5.51,setembro/2026

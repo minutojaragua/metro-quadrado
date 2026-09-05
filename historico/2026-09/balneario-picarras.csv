@@ -1,0 +1,19 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Balneário Piçarras,Armação,apartamento,venda,11205.4,10304.3,12104.5,6,,setembro/2026
+Balneário Piçarras,Bairro Itacolomi,apartamento,venda,14361.7,13572.1,15752.5,9,,setembro/2026
+Balneário Piçarras,Centro,apartamento,venda,14340.9,11320.8,17555.1,281,4.88,setembro/2026
+Balneário Piçarras,Centro,apartamento,aluguel,58.3,43.8,60.5,5,4.88,setembro/2026
+Balneário Piçarras,Itacolomi,apartamento,venda,13429.6,9906.2,17451.0,276,5.0,setembro/2026
+Balneário Piçarras,Itacolomi,apartamento,aluguel,56.0,46.5,67.3,10,5.0,setembro/2026
+Balneário Piçarras,Itajubá,apartamento,venda,9899.7,9141.7,11749.4,12,,setembro/2026
+Balneário Piçarras,Nossa Senhora da Paz,apartamento,venda,7790.6,7758.6,8174.6,5,,setembro/2026
+Balneário Piçarras,Santo Antônio,apartamento,venda,9240.8,7889.0,9757.1,6,,setembro/2026
+Balneário Piçarras,Tabuleiro,apartamento,venda,15975.0,11852.9,16569.3,5,,setembro/2026
+Balneário Piçarras,Centro,casa,venda,9614.7,7395.2,11672.4,34,,setembro/2026
+Balneário Piçarras,Itacolomi,casa,venda,6895.2,5878.6,8500.2,72,,setembro/2026
+Balneário Piçarras,Itajubá,casa,venda,7083.3,6875.0,10612.5,17,,setembro/2026
+Balneário Piçarras,Nossa Senhora da Paz,casa,venda,6156.4,5263.2,8000.0,9,,setembro/2026
+Balneário Piçarras,Santo Antônio,casa,venda,5991.7,5119.0,14718.6,5,,setembro/2026
+Balneário Piçarras,Centro,terreno,venda,1785.7,1254.0,2000.0,5,,setembro/2026
+Balneário Piçarras,Itacolomi,terreno,venda,1578.0,1152.2,2291.4,20,,setembro/2026
+Balneário Piçarras,Nossa Senhora da Paz,terreno,venda,1123.5,711.0,1230.1,6,,setembro/2026
