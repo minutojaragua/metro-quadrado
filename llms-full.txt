@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 39 cidades de Santa Catarina, São Paulo, Tocantins, Rondônia, Espírito Santo, Amapá, Roraima, Sergipe, Rio Grande do Norte, Paraíba e Mato Grosso, Brasil, bairro por bairro, a partir de 193.599 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 40 cidades de Santa Catarina, São Paulo, Tocantins, Rondônia, Espírito Santo, Amapá, Roraima, Sergipe, Rio Grande do Norte, Paraíba e Mato Grosso, Brasil, bairro por bairro, a partir de 194.412 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -5895,6 +5895,55 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Sertãozinho | R$ 308 | 5 | – | – | – | – |
 
 ### Salas comerciais, cidade toda: 
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+
+
+## Penha (setembro/2026): https://acorridadosbairros.com.br/penha/
+
+### Apartamentos, cidade toda: venda R$ 11.938/m² (n=372); aluguel R$ 47,0/m²/mês (n=20); rendimento bruto do aluguel 4,72% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Armação | R$ 12.682 | 88 | R$ 45,6 | 6 | 4,31% | – |
+| Armação do Itapocorói | R$ 11.127 | 7 | – | – | – | – |
+| Centro | R$ 11.967 | 132 | R$ 48,7 | 9 | 4,88% | – |
+| Gravatá | R$ 7.018 | 6 | – | – | – | – |
+| Itapocoroi | R$ 11.124 | 11 | – | – | – | – |
+| Nossa Senhora de Fatima | R$ 7.006 | 24 | – | – | – | – |
+| Praia Alegre | R$ 11.839 | 9 | – | – | – | – |
+| Praia da Armação | R$ 19.654 | 9 | – | – | – | – |
+| Praia de Armação | R$ 10.649 | 38 | – | – | – | – |
+| Praia de Armação do Itapocorói | R$ 12.349 | 30 | – | – | – | – |
+
+### Casas, cidade toda: venda R$ 6.639/m² (n=309)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Armação | R$ 7.436 | 66 | – | – | – | – |
+| Armação do Itapocorói | R$ 6.638 | 21 | – | – | – | – |
+| Centro | R$ 6.528 | 90 | – | – | – | – |
+| Gravatá | R$ 5.635 | 13 | – | – | – | – |
+| Nossa Senhora de Fatima | R$ 5.909 | 28 | – | – | – | – |
+| Praia Alegre | R$ 7.666 | 12 | – | – | – | – |
+| Praia de Armação | R$ 7.202 | 26 | – | – | – | – |
+| Praia de Armação do Itapocorói | R$ 6.106 | 13 | – | – | – | – |
+| Praia de São Miguel | R$ 5.904 | 6 | – | – | – | – |
+| Praia Grande | R$ 9.259 | 11 | – | – | – | – |
+| Santa Lidia | R$ 4.999 | 8 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 1.588/m² (n=103)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Armação | R$ 2.565 | 13 | – | – | – | – |
+| Centro | R$ 1.852 | 33 | – | – | – | – |
+| Gravatá | R$ 1.074 | 5 | – | – | – | – |
+| Nossa Senhora de Fatima | R$ 1.118 | 22 | – | – | – | – |
+| Praia de Armação | R$ 2.148 | 5 | – | – | – | – |
+
+### Salas comerciais, cidade toda: venda R$ 16.667/m² (n=9)
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|

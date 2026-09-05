@@ -1,0 +1,29 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Penha,Armação,casa,venda,7435.9,6015.6,9984.4,66,,setembro/2026
+Penha,Armação do Itapocorói,casa,venda,6637.6,5384.6,7615.4,21,,setembro/2026
+Penha,Centro,casa,venda,6527.5,5422.7,8431.8,90,,setembro/2026
+Penha,Gravatá,casa,venda,5635.3,3800.0,7568.0,13,,setembro/2026
+Penha,Nossa Senhora de Fatima,casa,venda,5909.1,3887.2,6710.2,28,,setembro/2026
+Penha,Praia Alegre,casa,venda,7666.4,5286.9,9465.8,12,,setembro/2026
+Penha,Praia de Armação,casa,venda,7202.0,5768.5,10492.1,26,,setembro/2026
+Penha,Praia de Armação do Itapocorói,casa,venda,6106.2,4934.2,9300.0,13,,setembro/2026
+Penha,Praia de São Miguel,casa,venda,5904.0,4603.5,8702.0,6,,setembro/2026
+Penha,Praia Grande,casa,venda,9259.3,8516.5,11250.0,11,,setembro/2026
+Penha,Santa Lidia,casa,venda,4998.9,4186.2,6385.3,8,,setembro/2026
+Penha,Armação,apartamento,venda,12681.8,10992.7,16550.9,88,4.31,setembro/2026
+Penha,Armação,apartamento,aluguel,45.6,36.3,51.1,6,4.31,setembro/2026
+Penha,Armação do Itapocorói,apartamento,venda,11126.8,9579.8,12926.2,7,,setembro/2026
+Penha,Centro,apartamento,venda,11966.6,9495.0,15360.0,132,4.88,setembro/2026
+Penha,Centro,apartamento,aluguel,48.7,38.2,53.8,9,4.88,setembro/2026
+Penha,Gravatá,apartamento,venda,7017.7,6880.1,7126.9,6,,setembro/2026
+Penha,Itapocoroi,apartamento,venda,11123.5,9822.1,14171.1,11,,setembro/2026
+Penha,Nossa Senhora de Fatima,apartamento,venda,7006.5,6013.7,9019.3,24,,setembro/2026
+Penha,Praia Alegre,apartamento,venda,11839.0,9717.2,14465.4,9,,setembro/2026
+Penha,Praia da Armação,apartamento,venda,19654.5,19006.0,21866.3,9,,setembro/2026
+Penha,Praia de Armação,apartamento,venda,10649.4,8901.1,12285.7,38,,setembro/2026
+Penha,Praia de Armação do Itapocorói,apartamento,venda,12349.2,11633.2,14998.3,30,,setembro/2026
+Penha,Armação,terreno,venda,2564.9,1984.1,3460.1,13,,setembro/2026
+Penha,Centro,terreno,venda,1851.9,1286.1,2424.7,33,,setembro/2026
+Penha,Gravatá,terreno,venda,1074.4,446.5,1231.1,5,,setembro/2026
+Penha,Nossa Senhora de Fatima,terreno,venda,1118.1,834.3,1451.4,22,,setembro/2026
+Penha,Praia de Armação,terreno,venda,2148.1,1500.0,3560.0,5,,setembro/2026
