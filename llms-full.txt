@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 31 cidades de Santa Catarina, Brasil, bairro por bairro, a partir de 125.580 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 31 cidades de Santa Catarina, Brasil, bairro por bairro, a partir de 125.803 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -3116,120 +3116,125 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 
 ## Porto Velho (setembro/2026): https://acorridadosbairros.com.br/ro/porto-velho/
 
-### Apartamentos, cidade toda: venda R$ 5.907/m² (n=374); aluguel R$ 37,5/m²/mês (n=95); rendimento bruto do aluguel 7,62% a.a.
+### Apartamentos, cidade toda: venda R$ 5.864/m² (n=404); aluguel R$ 37,6/m²/mês (n=98); rendimento bruto do aluguel 7,69% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Agenor de Carvalho | R$ 4.917 | 11 | – | – | – | – |
+| Agenor de Carvalho | R$ 4.917 | 13 | – | – | – | – |
 | Aponiã | R$ 6.491 | 9 | – | – | – | – |
 | Bairro Industrial | R$ 4.990 | 12 | – | – | – | – |
 | Bairro Novo | R$ 3.760 | 6 | – | – | – | – |
-| Embratel | R$ 6.313 | 18 | – | – | – | – |
+| Costa e Silva | R$ 7.749 | 5 | – | – | – | – |
+| Embratel | R$ 6.440 | 20 | – | – | – | – |
 | Flodoaldo Pontes Pinto | R$ 6.866 | 5 | – | – | – | – |
 | Floresta | R$ 3.629 | 9 | – | – | – | – |
-| Igarapé | R$ 6.259 | 7 | – | – | – | – |
-| Industrial | R$ 5.833 | 7 | – | – | – | – |
-| Lagoa | R$ 6.240 | 25 | – | – | – | – |
+| Igarapé | R$ 6.185 | 8 | – | – | – | – |
+| Industrial | R$ 5.603 | 10 | – | – | – | – |
+| Lagoa | R$ 6.202 | 25 | – | – | – | – |
 | Liberdade | R$ 5.612 | 9 | – | – | – | – |
-| Nossa Senhora das Graças | R$ 6.389 | 8 | R$ 41,3 | 6 | 7,76% | – |
-| Nova | R$ 5.391 | 8 | – | – | – | – |
+| Nossa Senhora das Graças | R$ 6.541 | 10 | R$ 41,3 | 6 | 7,58% | – |
+| Nova | R$ 6.216 | 9 | – | – | – | – |
 | Nova Esperança | R$ 5.282 | 9 | – | – | – | – |
-| Olaria | R$ 7.009 | 35 | R$ 37,8 | 10 | 6,47% | – |
-| Pedrinhas | R$ 5.084 | 16 | R$ 36,4 | 8 | 8,59% | – |
+| Olaria | R$ 6.881 | 42 | R$ 37,8 | 10 | 6,59% | – |
+| Pedrinhas | R$ 5.091 | 19 | R$ 36,4 | 8 | 8,58% | – |
 | Residencial Brisas do Madeira | R$ 7.237 | 5 | – | – | – | – |
 | Residencial Garden Club | – | – | R$ 40,5 | 5 | – | – |
-| Rio Madeira | R$ 6.618 | 51 | R$ 42,5 | 12 | 7,71% | – |
-| São João Bosco | R$ 8.149 | 16 | – | – | – | – |
-| Tiradentes | R$ 6.592 | 8 | – | – | – | – |
+| Rio Madeira | R$ 6.593 | 53 | R$ 41,2 | 13 | 7,50% | – |
+| São João Bosco | R$ 8.149 | 16 | R$ 51,0 | 5 | 7,51% | – |
+| Tiradentes | R$ 7.135 | 9 | – | – | – | – |
 | Triângulo | R$ 4.729 | 18 | R$ 25,0 | 5 | 6,34% | – |
 
-### Casas, cidade toda: venda R$ 3.409/m² (n=987); aluguel R$ 23,3/m²/mês (n=57); rendimento bruto do aluguel 8,20% a.a.
+### Casas, cidade toda: venda R$ 3.457/m² (n=1116); aluguel R$ 22,3/m²/mês (n=61); rendimento bruto do aluguel 7,74% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Aeroclube | R$ 5.269 | 46 | – | – | – | – |
-| Agenor de Carvalho | R$ 2.607 | 27 | – | – | – | – |
+| Aeroclube | R$ 5.234 | 49 | – | – | – | – |
+| Agenor de Carvalho | R$ 2.607 | 29 | – | – | – | – |
 | Agenor M. de Carvalho | R$ 2.450 | 14 | – | – | – | – |
 | Alphaville | R$ 6.987 | 7 | – | – | – | – |
-| Aponiã | R$ 2.939 | 72 | – | – | – | – |
+| Aponiã | R$ 3.370 | 88 | – | – | – | – |
 | Areal | R$ 1.528 | 11 | – | – | – | – |
 | Bairro Industrial | R$ 5.845 | 10 | – | – | – | – |
 | Bairro Novo | R$ 4.000 | 5 | – | – | – | – |
 | Caiari | R$ 2.868 | 5 | – | – | – | – |
 | Caladinho | R$ 1.772 | 7 | – | – | – | – |
-| Castanheira | R$ 2.119 | 12 | – | – | – | – |
-| Centro | R$ 2.286 | 7 | – | – | – | – |
-| Cidade Jardim | R$ 6.348 | 10 | – | – | – | – |
-| Cohab | R$ 2.514 | 10 | – | – | – | – |
-| Conceição | R$ 1.765 | 18 | – | – | – | – |
+| Castanheira | R$ 2.182 | 15 | – | – | – | – |
+| Centro | R$ 2.500 | 9 | – | – | – | – |
+| Cidade Jardim | R$ 6.087 | 23 | – | – | – | – |
+| Cohab | R$ 2.417 | 15 | – | – | – | – |
+| Conceição | R$ 1.765 | 20 | – | – | – | – |
 | Condominio Ecoville | R$ 8.717 | 8 | – | – | – | – |
 | Condomínio Vila Eletronorte | R$ 3.482 | 5 | – | – | – | – |
-| Costa e Silva | R$ 6.210 | 26 | – | – | – | – |
-| Cuniã | R$ 2.095 | 23 | – | – | – | – |
-| Eldorado | R$ 2.081 | 12 | – | – | – | – |
+| Costa e Silva | R$ 5.892 | 30 | – | – | – | – |
+| Cuniã | R$ 2.131 | 24 | – | – | – | – |
+| Eldorado | R$ 2.149 | 16 | – | – | – | – |
 | Eletronorte | R$ 3.306 | 6 | – | – | – | – |
 | Embratel | R$ 2.750 | 21 | – | – | – | – |
-| Esperança da Comunidade | R$ 1.994 | 10 | – | – | – | – |
-| Flodoaldo Pontes Pinto | R$ 3.929 | 41 | – | – | – | – |
+| Esperança da Comunidade | R$ 2.070 | 12 | – | – | – | – |
+| Flodoaldo Pontes Pinto | R$ 3.896 | 42 | – | – | – | – |
 | Floresta | R$ 1.912 | 10 | – | – | – | – |
 | Greenville | R$ 3.692 | 6 | – | – | – | – |
-| Igarapé | R$ 1.945 | 22 | – | – | – | – |
+| Igarapé | R$ 2.267 | 27 | – | – | – | – |
+| Industrial | R$ 5.552 | 6 | – | – | – | – |
 | Jardim Santana | R$ 1.717 | 6 | – | – | – | – |
-| Juscelino Kubitschek | R$ 2.628 | 5 | – | – | – | – |
-| Lagoa | R$ 4.562 | 39 | – | – | – | – |
-| Lagoinha | R$ 2.103 | 10 | – | – | – | – |
-| Liberdade | R$ 3.000 | 9 | – | – | – | – |
-| Nossa Senhora das Graças | R$ 3.154 | 14 | – | – | – | – |
-| Nova | R$ 2.466 | 24 | – | – | – | – |
-| Nova Esperança | R$ 4.643 | 87 | – | – | – | – |
-| Nova Floresta | R$ 2.525 | 13 | – | – | – | – |
-| Novo Horizonte | R$ 4.491 | 19 | – | – | – | – |
-| Olaria | R$ 2.646 | 10 | – | – | – | – |
-| Panair | R$ 2.912 | 10 | – | – | – | – |
-| Pedrinhas | R$ 2.667 | 14 | – | – | – | – |
-| Planalto | R$ 4.412 | 12 | – | – | – | – |
-| Rio Madeira | R$ 5.469 | 65 | – | – | – | – |
+| Juscelino Kubitschek | R$ 2.433 | 8 | – | – | – | – |
+| Lagoa | R$ 4.364 | 40 | – | – | – | – |
+| Lagoinha | R$ 2.103 | 12 | – | – | – | – |
+| Liberdade | R$ 3.053 | 11 | – | – | – | – |
+| Nossa Senhora das Graças | R$ 3.250 | 15 | – | – | – | – |
+| Nova | R$ 2.543 | 26 | – | – | – | – |
+| Nova Esperança | R$ 4.546 | 93 | – | – | – | – |
+| Nova Floresta | R$ 2.471 | 14 | – | – | – | – |
+| Novo Horizonte | R$ 4.310 | 20 | – | – | – | – |
+| Olaria | R$ 2.646 | 12 | – | – | – | – |
+| Panair | R$ 3.077 | 11 | – | – | – | – |
+| Pedrinhas | R$ 3.333 | 15 | – | – | – | – |
+| Planalto | R$ 4.538 | 15 | – | – | – | – |
+| Rio Madeira | R$ 5.402 | 69 | – | – | – | – |
 | São Cristóvão | R$ 5.000 | 7 | – | – | – | – |
-| São João Bosco | R$ 2.750 | 17 | – | – | – | – |
-| Tancredo Neves | R$ 1.145 | 9 | – | – | – | – |
-| Tiradentes | R$ 2.625 | 5 | – | – | – | – |
-| Três Marias | R$ 1.812 | 16 | – | – | – | – |
-| Triângulo | R$ 6.219 | 21 | – | – | – | – |
+| São João Bosco | R$ 2.912 | 20 | – | – | – | – |
+| São Sebastião | R$ 2.833 | 5 | – | – | – | – |
+| Tancredo Neves | R$ 1.198 | 10 | – | – | – | – |
+| Tiradentes | R$ 2.926 | 7 | – | – | – | – |
+| Três Marias | R$ 1.812 | 18 | – | – | – | – |
+| Triângulo | R$ 6.302 | 31 | – | – | – | – |
 
-### Terrenos, cidade toda: venda R$ 565/m² (n=369)
+### Terrenos, cidade toda: venda R$ 567/m² (n=398)
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
 | Aeroclube | R$ 530 | 23 | – | – | – | – |
 | Alphaville | R$ 594 | 6 | – | – | – | – |
-| Aponiã | R$ 820 | 24 | – | – | – | – |
+| Aponiã | R$ 846 | 26 | – | – | – | – |
 | Areal | R$ 707 | 5 | – | – | – | – |
 | Bairro Industrial | R$ 2.569 | 5 | – | – | – | – |
 | Caiari | R$ 596 | 5 | – | – | – | – |
 | Castanheira | R$ 368 | 5 | – | – | – | – |
 | Centro | R$ 1.118 | 8 | – | – | – | – |
 | Cidade Jardim | R$ 538 | 6 | – | – | – | – |
-| Eldorado | R$ 473 | 8 | – | – | – | – |
-| Embratel | R$ 1.600 | 7 | – | – | – | – |
+| Eldorado | R$ 460 | 9 | – | – | – | – |
+| Em Condominio Triangulo | R$ 468 | 5 | – | – | – | – |
+| Embratel | R$ 1.371 | 8 | – | – | – | – |
 | Flodoaldo Pontes Pinto | R$ 859 | 9 | – | – | – | – |
 | Floresta | R$ 300 | 5 | – | – | – | – |
-| Igarapé | R$ 1.000 | 5 | – | – | – | – |
+| Igarapé | R$ 787 | 9 | – | – | – | – |
 | Lagoa | R$ 450 | 7 | – | – | – | – |
-| Lagoinha | R$ 333 | 7 | – | – | – | – |
+| Lagoinha | R$ 422 | 8 | – | – | – | – |
+| Nossa Senhora das Graças | R$ 1.458 | 6 | – | – | – | – |
 | Nova | R$ 747 | 5 | – | – | – | – |
 | Nova Esperança | R$ 500 | 15 | – | – | – | – |
-| Olaria | R$ 1.483 | 12 | – | – | – | – |
+| Olaria | R$ 1.467 | 13 | – | – | – | – |
 | Pedrinhas | R$ 811 | 9 | – | – | – | – |
 | Planalto | R$ 103 | 8 | – | – | – | – |
 | Residencial Viena | R$ 267 | 5 | – | – | – | – |
 | Rio Madeira | R$ 466 | 9 | – | – | – | – |
-| São Cristóvão | R$ 1.385 | 6 | – | – | – | – |
+| São Cristóvão | R$ 1.371 | 7 | – | – | – | – |
 | São João Bosco | R$ 796 | 5 | – | – | – | – |
 | Socialista | R$ 490 | 5 | – | – | – | – |
 | Teixeirão | R$ 220 | 6 | – | – | – | – |
-| Triângulo | R$ 450 | 26 | – | – | – | – |
+| Triângulo | R$ 440 | 29 | – | – | – | – |
 
-### Salas comerciais, cidade toda: venda R$ 4.294/m² (n=18); aluguel R$ 50,0/m²/mês (n=87); rendimento bruto do aluguel 13,97% a.a.
+### Salas comerciais, cidade toda: venda R$ 4.587/m² (n=19); aluguel R$ 50,0/m²/mês (n=88); rendimento bruto do aluguel 13,08% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -3377,26 +3382,29 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 
 ## Macapá (setembro/2026): https://acorridadosbairros.com.br/ap/macapa/
 
-### Apartamentos, cidade toda: venda R$ 7.325/m² (n=29)
+### Apartamentos, cidade toda: venda R$ 8.099/m² (n=34)
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Central | R$ 8.888 | 7 | – | – | – | – |
+| Central | R$ 8.990 | 8 | – | – | – | – |
+| Jardim Marco Zero | R$ 7.325 | 5 | – | – | – | – |
+| Universidade | R$ 8.694 | 5 | – | – | – | – |
 
-### Casas, cidade toda: venda R$ 4.717/m² (n=170); aluguel R$ 28,9/m²/mês (n=11); rendimento bruto do aluguel 7,35% a.a.
+### Casas, cidade toda: venda R$ 4.750/m² (n=189); aluguel R$ 28,9/m²/mês (n=11); rendimento bruto do aluguel 7,30% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
 | Brasil Novo | R$ 5.664 | 7 | – | – | – | – |
-| Cabralzinho | R$ 4.592 | 29 | – | – | – | – |
-| Central | R$ 6.251 | 11 | – | – | – | – |
+| Cabralzinho | R$ 4.602 | 30 | – | – | – | – |
+| Central | R$ 6.061 | 15 | – | – | – | – |
 | Fazendinha | R$ 5.042 | 6 | – | – | – | – |
-| Jardim Marco Zero | R$ 6.071 | 5 | – | – | – | – |
-| Marabaixo | R$ 4.086 | 15 | – | – | – | – |
+| Jardim Felicidade | R$ 3.080 | 5 | – | – | – | – |
+| Jardim Marco Zero | R$ 4.764 | 8 | – | – | – | – |
+| Marabaixo | R$ 4.118 | 17 | – | – | – | – |
 | Renascer | R$ 4.814 | 8 | – | – | – | – |
-| Santa Rita | R$ 2.267 | 5 | – | – | – | – |
-| São José | R$ 4.964 | 31 | – | – | – | – |
-| Universidade | R$ 5.091 | 9 | – | – | – | – |
+| Santa Rita | R$ 3.028 | 8 | – | – | – | – |
+| São José | R$ 5.002 | 32 | – | – | – | – |
+| Universidade | R$ 5.266 | 10 | – | – | – | – |
 
 ### Terrenos, cidade toda: venda R$ 669/m² (n=48)
 
