@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 31 cidades de Santa Catarina, Brasil, bairro por bairro, a partir de 125.803 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 31 cidades de Santa Catarina, Brasil, bairro por bairro, a partir de 125.862 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -3532,74 +3532,74 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 
 ## Itapoá (setembro/2026): https://acorridadosbairros.com.br/itapoa/
 
-### Apartamentos, cidade toda: venda R$ 9.702/m² (n=430); aluguel R$ 29,4/m²/mês (n=36); rendimento bruto do aluguel 3,64% a.a.
+### Apartamentos, cidade toda: venda R$ 9.549/m² (n=459); aluguel R$ 29,4/m²/mês (n=36); rendimento bruto do aluguel 3,69% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Barra do Sai | R$ 9.661 | 35 | – | – | – | – |
+| Barra do Sai | R$ 9.661 | 37 | – | – | – | – |
 | Cambiju | R$ 6.709 | 12 | – | – | – | – |
-| Centro | R$ 9.550 | 45 | R$ 29,7 | 6 | 3,73% | – |
+| Centro | R$ 9.550 | 47 | R$ 29,7 | 6 | 3,73% | – |
 | Continental | R$ 8.614 | 25 | – | – | – | – |
-| Itapema do Norte | R$ 9.818 | 128 | R$ 28,2 | 12 | 3,45% | – |
-| Jardim Perola do Atlântico | R$ 10.830 | 17 | – | – | – | – |
+| Itapema do Norte | R$ 9.758 | 136 | R$ 28,2 | 12 | 3,47% | – |
+| Jardim Perola do Atlântico | R$ 9.698 | 24 | – | – | – | – |
 | Maresia | R$ 9.161 | 12 | – | – | – | – |
 | Mariluz | R$ 8.830 | 7 | – | – | – | – |
-| Paese | R$ 9.475 | 31 | – | – | – | – |
+| Paese | R$ 8.791 | 35 | – | – | – | – |
 | Pontal do Norte | R$ 9.010 | 8 | – | – | – | – |
 | Princesa do Mar | R$ 7.188 | 5 | – | – | – | – |
 | Rainha | R$ 10.774 | 20 | – | – | – | – |
-| Rainha do Mar | R$ 11.171 | 49 | – | – | – | – |
+| Rainha do Mar | R$ 10.820 | 52 | – | – | – | – |
 
-### Casas, cidade toda: venda R$ 5.441/m² (n=869); aluguel R$ 23,2/m²/mês (n=46); rendimento bruto do aluguel 5,12% a.a.
+### Casas, cidade toda: venda R$ 5.452/m² (n=892); aluguel R$ 23,2/m²/mês (n=46); rendimento bruto do aluguel 5,11% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Balneario Cambiju | R$ 5.774 | 11 | – | – | – | – |
+| Balneario Cambiju | R$ 6.301 | 15 | – | – | – | – |
 | Balneario Santa Clara | R$ 4.902 | 5 | – | – | – | – |
-| Bamerindus | R$ 5.612 | 15 | – | – | – | – |
-| Barra do Sai | R$ 5.754 | 181 | R$ 33,3 | 7 | 6,95% | – |
+| Bamerindus | R$ 5.362 | 16 | – | – | – | – |
+| Barra do Sai | R$ 5.722 | 183 | R$ 33,3 | 7 | 6,98% | – |
 | Brandalize | R$ 4.276 | 19 | – | – | – | – |
-| Brasília | R$ 5.454 | 27 | – | – | – | – |
+| Brasília | R$ 5.558 | 29 | – | – | – | – |
 | Cambiju | R$ 5.229 | 53 | – | – | – | – |
-| Centro | R$ 5.888 | 47 | R$ 20,1 | 5 | 4,10% | – |
-| Continental | R$ 5.559 | 42 | – | – | – | – |
+| Centro | R$ 5.896 | 48 | R$ 20,1 | 5 | 4,09% | – |
+| Continental | R$ 5.606 | 43 | – | – | – | – |
 | Imperador | R$ 2.708 | 5 | – | – | – | – |
-| Itapema do Norte | R$ 5.910 | 94 | R$ 23,9 | 10 | 4,85% | – |
+| Itapema do Norte | R$ 5.909 | 97 | R$ 23,9 | 10 | 4,85% | – |
 | Itapema do Sai | R$ 4.103 | 11 | – | – | – | – |
 | Jardim da Barra | R$ 4.774 | 14 | – | – | – | – |
-| Jardim Perola do Atlântico | R$ 4.356 | 13 | – | – | – | – |
+| Jardim Perola do Atlântico | R$ 4.484 | 14 | – | – | – | – |
 | Mariluz | R$ 4.407 | 16 | – | – | – | – |
 | Paese | R$ 5.404 | 22 | – | – | – | – |
 | Pontal | R$ 5.000 | 7 | – | – | – | – |
-| Pontal do Norte | R$ 5.646 | 29 | – | – | – | – |
+| Pontal do Norte | R$ 5.646 | 31 | – | – | – | – |
 | Praia das Palmeiras | R$ 3.822 | 8 | – | – | – | – |
-| Princesa do Mar | R$ 5.397 | 24 | – | – | – | – |
+| Princesa do Mar | R$ 5.360 | 25 | – | – | – | – |
 | Rainha | R$ 5.833 | 13 | – | – | – | – |
 | Rainha do Mar | R$ 6.144 | 33 | – | – | – | – |
 | Rio Gracioso | R$ 2.292 | 5 | – | – | – | – |
 | Rosa dos Ventos | R$ 5.341 | 8 | – | – | – | – |
 | Sai Mirim | R$ 5.270 | 19 | – | – | – | – |
 | Samambaial | R$ 4.831 | 15 | – | – | – | – |
-| São José | R$ 5.601 | 34 | R$ 22,2 | 5 | 4,76% | – |
+| São José | R$ 5.556 | 35 | R$ 22,2 | 5 | 4,80% | – |
 | Uirapuru | R$ 5.719 | 7 | – | – | – | – |
 | Volta Ao Mundo | R$ 3.600 | 14 | – | – | – | – |
-| Volta Ao Mundo I | R$ 5.066 | 6 | – | – | – | – |
+| Volta Ao Mundo I | R$ 5.168 | 7 | – | – | – | – |
 
-### Terrenos, cidade toda: venda R$ 750/m² (n=249)
+### Terrenos, cidade toda: venda R$ 765/m² (n=256)
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
 | Bamerindus | R$ 546 | 9 | – | – | – | – |
-| Barra do Sai | R$ 904 | 55 | – | – | – | – |
+| Barra do Sai | R$ 924 | 56 | – | – | – | – |
 | Cambiju | R$ 623 | 12 | – | – | – | – |
-| Centro | R$ 1.000 | 11 | – | – | – | – |
-| Continental | R$ 542 | 12 | – | – | – | – |
+| Centro | R$ 958 | 12 | – | – | – | – |
+| Continental | R$ 575 | 13 | – | – | – | – |
 | Figueira do Pontal | R$ 424 | 7 | – | – | – | – |
-| Itapema do Norte | R$ 1.222 | 17 | – | – | – | – |
+| Itapema do Norte | R$ 1.223 | 18 | – | – | – | – |
 | Itapema do Sai | R$ 330 | 10 | – | – | – | – |
 | Maresia | R$ 415 | 5 | – | – | – | – |
 | Paese | R$ 1.733 | 7 | – | – | – | – |
-| Pontal do Norte | R$ 553 | 17 | – | – | – | – |
+| Pontal do Norte | R$ 556 | 18 | – | – | – | – |
 | Praia das Palmeiras | R$ 397 | 6 | – | – | – | – |
 | Rainha do Mar | R$ 1.001 | 6 | – | – | – | – |
 | São José | R$ 747 | 14 | – | – | – | – |
