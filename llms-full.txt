@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 55 cidades de Santa Catarina, São Paulo e mais 24 estados, Brasil, bairro por bairro, a partir de 354.077 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 55 cidades de Santa Catarina, São Paulo e mais 24 estados, Brasil, bairro por bairro, a partir de 354.164 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -7567,12 +7567,12 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 
 ## Goiânia (setembro/2026): https://acorridadosbairros.com.br/go/goiania/
 
-### Apartamentos, cidade toda: venda R$ 7.891/m² (n=4218); aluguel R$ 40,0/m²/mês (n=1457); rendimento bruto do aluguel 6,08% a.a.
+### Apartamentos, cidade toda: venda R$ 7.891/m² (n=4218); aluguel R$ 40,0/m²/mês (n=1521); rendimento bruto do aluguel 6,08% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
 | Aeroviário | R$ 8.215 | 21 | – | – | – | – |
-| Alto da Glória | R$ 8.367 | 83 | R$ 41,4 | 46 | 5,94% | – |
+| Alto da Glória | R$ 8.367 | 83 | R$ 40,7 | 44 | 5,84% | – |
 | Chácaras Alto da Glória | R$ 7.229 | 9 | – | – | – | – |
 | Chácaras Dona Gê | R$ 6.801 | 14 | – | – | – | – |
 | Chácaras Santa Rita | R$ 5.000 | 11 | – | – | – | – |
@@ -7603,10 +7603,10 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Loteamento Grande Retiro | R$ 5.050 | 9 | – | – | – | – |
 | Moinho dos Ventos | R$ 4.304 | 19 | R$ 38,2 | 5 | 10,65% | – |
 | Nossa Senhora de Fátima | R$ 2.537 | 5 | – | – | – | – |
-| Park Lozandes | R$ 10.593 | 57 | R$ 58,3 | 13 | 6,60% | – |
+| Park Lozandes | R$ 10.593 | 57 | R$ 56,2 | 14 | 6,37% | – |
 | Parque Acalanto | R$ 4.357 | 5 | – | – | – | – |
-| Parque Amazônia | R$ 7.819 | 149 | R$ 34,6 | 54 | 5,31% | – |
-| Parque Industrial João Braz | R$ 4.444 | 5 | – | – | – | – |
+| Parque Amazônia | R$ 7.819 | 149 | R$ 36,6 | 72 | 5,62% | – |
+| Parque Industrial João Braz | R$ 4.444 | 5 | R$ 29,0 | 5 | 7,83% | – |
 | Parque Industrial Paulista | R$ 4.404 | 10 | – | – | – | – |
 | Parque Oeste Industrial | R$ 5.606 | 49 | R$ 24,4 | 10 | 5,22% | – |
 | Residencial Alfa | R$ 5.238 | 7 | – | – | – | – |
@@ -7628,9 +7628,9 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Rodoviário | R$ 6.972 | 15 | – | – | – | – |
 | São Francisco | R$ 6.181 | 20 | – | – | – | – |
 | Serrinha | R$ 9.750 | 95 | R$ 47,6 | 39 | 5,86% | – |
-| Setor Aeroporto | R$ 7.935 | 64 | R$ 27,6 | 17 | 4,17% | – |
+| Setor Aeroporto | R$ 7.935 | 64 | R$ 28,7 | 22 | 4,34% | – |
 | Setor Bela Vista | R$ 6.397 | 89 | R$ 34,0 | 41 | 6,38% | – |
-| Setor Bueno | R$ 10.000 | 636 | R$ 50,4 | 227 | 6,05% | – |
+| Setor Bueno | R$ 10.000 | 636 | R$ 50,4 | 230 | 6,05% | – |
 | Setor Campinas | R$ 4.430 | 17 | – | – | – | – |
 | Setor Cândida de Morais | R$ 5.088 | 14 | R$ 27,5 | 7 | 6,49% | – |
 | Setor Castelo Branco | R$ 10.979 | 7 | – | – | – | – |
@@ -7647,8 +7647,8 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Setor Marechal Rondon | R$ 7.118 | 9 | – | – | – | – |
 | Setor Marista | R$ 12.222 | 416 | R$ 65,8 | 118 | 6,46% | – |
 | Setor Morada do Sol | R$ 4.583 | 12 | – | – | – | – |
-| Setor Negrão de Lima | R$ 6.389 | 45 | R$ 33,1 | 25 | 6,22% | – |
-| Setor Norte Ferroviário | R$ 7.580 | 15 | – | – | – | – |
+| Setor Negrão de Lima | R$ 6.389 | 45 | R$ 33,7 | 26 | 6,33% | – |
+| Setor Norte Ferroviário | R$ 7.580 | 15 | R$ 47,4 | 5 | 7,50% | – |
 | Setor Nova Suíça | R$ 7.062 | 94 | R$ 35,1 | 22 | 5,96% | – |
 | Setor Oeste | R$ 8.642 | 314 | R$ 40,0 | 122 | 5,55% | – |
 | Setor Parque Tremendão | R$ 6.049 | 9 | – | – | – | – |
@@ -7656,7 +7656,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Setor Perim | R$ 5.577 | 8 | – | – | – | – |
 | Setor Progresso | – | – | R$ 26,7 | 10 | – | – |
 | Setor Sudoeste | R$ 6.416 | 50 | R$ 38,7 | 13 | 7,24% | – |
-| Setor Sul | R$ 4.667 | 27 | R$ 24,1 | 9 | 6,20% | – |
+| Setor Sul | R$ 4.667 | 27 | R$ 25,6 | 12 | 6,58% | – |
 | Setor Universitario | R$ 8.326 | 8 | – | – | – | – |
 | Setor Urias Magalhães | R$ 4.177 | 9 | – | – | – | – |
 | Vila Alpes | R$ 6.546 | 49 | R$ 42,4 | 7 | 7,77% | – |
@@ -7665,25 +7665,25 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Vila Bela | R$ 7.031 | 5 | – | – | – | – |
 | Vila Jaraguá | R$ 6.509 | 18 | – | – | – | – |
 | Vila Luciana | R$ 6.400 | 11 | – | – | – | – |
-| Vila Lucy | R$ 7.348 | 10 | – | – | – | – |
+| Vila Lucy | R$ 7.348 | 10 | R$ 35,4 | 6 | 5,78% | – |
 | Vila Maria José | R$ 8.571 | 27 | R$ 43,5 | 8 | 6,09% | – |
 | Vila Monticelli | R$ 7.391 | 7 | – | – | – | – |
 | Vila Mooca | – | – | R$ 31,7 | 9 | – | – |
 | Vila Mutirão I | R$ 4.835 | 7 | – | – | – | – |
 | Vila Redenção | – | – | R$ 22,5 | 7 | – | – |
-| Vila Rosa | R$ 7.260 | 73 | R$ 38,2 | 24 | 6,31% | – |
+| Vila Rosa | R$ 7.260 | 73 | R$ 37,8 | 29 | 6,25% | – |
 | Vila São João | R$ 8.824 | 17 | – | – | – | – |
 | Vila São Luiz | R$ 4.873 | 11 | – | – | – | – |
-| Village Veneza | R$ 7.111 | 38 | R$ 34,9 | 8 | 5,89% | – |
+| Village Veneza | R$ 7.111 | 38 | R$ 34,6 | 9 | 5,84% | – |
 
-### Casas, cidade toda: venda R$ 4.500/m² (n=4831); aluguel R$ 23,6/m²/mês (n=359); rendimento bruto do aluguel 6,29% a.a.
+### Casas, cidade toda: venda R$ 4.500/m² (n=4832); aluguel R$ 23,7/m²/mês (n=380); rendimento bruto do aluguel 6,32% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
 | Aeroviário | R$ 3.055 | 6 | – | – | – | – |
 | Água Branca | R$ 2.917 | 7 | – | – | – | – |
-| Alphaville Araguaia | R$ 12.020 | 46 | R$ 75,4 | 5 | 7,53% | – |
-| Alphaville Flamboyant | R$ 13.211 | 105 | R$ 45,2 | 8 | 4,11% | – |
+| Alphaville Araguaia | R$ 12.020 | 46 | R$ 74,3 | 8 | 7,42% | – |
+| Alphaville Flamboyant | R$ 13.211 | 105 | R$ 41,4 | 10 | 3,76% | – |
 | Alphaville Goiás | R$ 14.465 | 6 | – | – | – | – |
 | Anhangüera | R$ 4.990 | 20 | – | – | – | – |
 | Capuava | R$ 3.897 | 17 | – | – | – | – |
@@ -7757,7 +7757,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Loteamento Tropical Ville | R$ 3.471 | 8 | – | – | – | – |
 | Moinho dos Ventos | R$ 4.062 | 54 | – | – | – | – |
 | Parque Acalanto | R$ 3.807 | 9 | – | – | – | – |
-| Parque Amazônia | R$ 5.654 | 68 | R$ 24,9 | 12 | 5,28% | – |
+| Parque Amazônia | R$ 5.686 | 69 | R$ 24,9 | 12 | 5,25% | – |
 | Parque Anhangüera | R$ 4.996 | 42 | – | – | – | – |
 | Parque Anhangüera II | R$ 4.803 | 6 | – | – | – | – |
 | Parque Atheneu | R$ 3.808 | 17 | – | – | – | – |
@@ -7869,7 +7869,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Setor Leste Universitário | R$ 3.415 | 13 | R$ 21,2 | 6 | 7,45% | – |
 | Setor Leste Vila Nova | R$ 3.411 | 20 | – | – | – | – |
 | Setor Marechal Rondon | R$ 3.194 | 14 | – | – | – | – |
-| Setor Marista | R$ 10.127 | 15 | R$ 39,3 | 6 | 4,66% | – |
+| Setor Marista | R$ 10.127 | 15 | R$ 38,0 | 7 | 4,50% | – |
 | Setor Maysa Extensão | R$ 3.636 | 13 | – | – | – | – |
 | Setor Morada do Sol | R$ 4.023 | 12 | – | – | – | – |
 | Setor Morais | R$ 2.584 | 8 | – | – | – | – |
@@ -7886,7 +7886,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Setor São José | R$ 2.394 | 12 | – | – | – | – |
 | Setor Sol Nascente | R$ 3.273 | 7 | – | – | – | – |
 | Setor Sudoeste | R$ 4.045 | 36 | – | – | – | – |
-| Setor Sul | R$ 5.598 | 36 | R$ 22,1 | 10 | 4,74% | – |
+| Setor Sul | R$ 5.598 | 36 | R$ 23,7 | 12 | 5,08% | – |
 | Setor Três Marias | R$ 5.702 | 68 | – | – | – | – |
 | Setor União | R$ 2.516 | 5 | – | – | – | – |
 | Setor Urias Magalhães | R$ 2.400 | 13 | – | – | – | – |
@@ -7979,7 +7979,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Vila Jardim Vitória | R$ 3.101 | 27 | – | – | – | – |
 | Vila Rosa | R$ 1.602 | 9 | – | – | – | – |
 
-### Salas comerciais, cidade toda: venda R$ 13.916/m² (n=177); aluguel R$ 51,6/m²/mês (n=373); rendimento bruto do aluguel 4,45% a.a.
+### Salas comerciais, cidade toda: venda R$ 13.916/m² (n=177); aluguel R$ 51,6/m²/mês (n=374); rendimento bruto do aluguel 4,45% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -7990,7 +7990,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Parque Amazônia | – | – | R$ 55,6 | 5 | – | – |
 | Setor Aeroporto | R$ 2.977 | 7 | – | – | – | – |
 | Setor Bela Vista | – | – | R$ 48,9 | 5 | – | – |
-| Setor Bueno | R$ 14.870 | 30 | R$ 78,4 | 33 | 6,33% | – |
+| Setor Bueno | R$ 14.870 | 30 | R$ 73,0 | 34 | 5,89% | – |
 | Setor Campinas | – | – | R$ 53,3 | 11 | – | – |
 | Setor Central | R$ 2.358 | 17 | R$ 21,7 | 32 | 11,04% | – |
 | Setor Coimbra | – | – | R$ 38,3 | 9 | – | – |
