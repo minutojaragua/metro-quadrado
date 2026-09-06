@@ -1,20 +1,34 @@
 cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
 Balneário Piçarras,Armação,apartamento,venda,11205.4,10304.3,12104.5,6,,setembro/2026
 Balneário Piçarras,Bairro Itacolomi,apartamento,venda,14502.0,13746.0,16339.7,10,,setembro/2026
-Balneário Piçarras,Centro,apartamento,venda,14024.4,11120.0,17555.1,301,4.99,setembro/2026
-Balneário Piçarras,Centro,apartamento,aluguel,58.3,43.8,60.5,5,4.99,setembro/2026
-Balneário Piçarras,Itacolomi,apartamento,venda,13133.2,9338.2,17187.4,300,5.12,setembro/2026
-Balneário Piçarras,Itacolomi,apartamento,aluguel,56.0,46.5,67.3,10,5.12,setembro/2026
+Balneário Piçarras,Centro,apartamento,venda,13837.7,10956.1,17695.4,336,3.65,setembro/2026
+Balneário Piçarras,Centro,apartamento,aluguel,42.1,36.1,50.0,45,3.65,setembro/2026
+Balneário Piçarras,Itacolomi,apartamento,venda,13120.4,9254.3,17442.8,344,3.86,setembro/2026
+Balneário Piçarras,Itacolomi,apartamento,aluguel,42.2,36.3,52.3,74,3.86,setembro/2026
 Balneário Piçarras,Itajubá,apartamento,venda,9899.7,9141.7,11749.4,12,,setembro/2026
-Balneário Piçarras,Nossa Senhora da Paz,apartamento,venda,8030.6,7758.6,8575.6,9,,setembro/2026
-Balneário Piçarras,Santo Antônio,apartamento,venda,9240.8,7376.4,9986.5,8,,setembro/2026
+Balneário Piçarras,Nossa Senhora da Paz,apartamento,venda,8108.1,7774.6,8887.8,11,5.92,setembro/2026
+Balneário Piçarras,Nossa Senhora da Paz,apartamento,aluguel,40.0,28.9,42.9,5,5.92,setembro/2026
+Balneário Piçarras,Santo Antônio,apartamento,venda,9307.1,8143.1,10095.6,11,,setembro/2026
 Balneário Piçarras,Tabuleiro,apartamento,venda,15975.0,11852.9,16569.3,5,,setembro/2026
-Balneário Piçarras,Centro,casa,venda,9242.6,7383.8,11704.3,41,,setembro/2026
-Balneário Piçarras,Itacolomi,casa,venda,6567.8,5829.6,7852.7,96,,setembro/2026
-Balneário Piçarras,Itajubá,casa,venda,7083.3,6875.0,10612.5,17,,setembro/2026
-Balneário Piçarras,Nossa Senhora da Paz,casa,venda,6156.4,5263.2,8000.0,13,,setembro/2026
-Balneário Piçarras,Santo Antônio,casa,venda,5991.7,5119.0,14718.6,5,,setembro/2026
-Balneário Piçarras,Centro,terreno,venda,1892.9,1387.0,5236.8,6,,setembro/2026
+Balneário Piçarras,Bela Vista,casa,venda,6507.4,4167.2,6970.9,7,,setembro/2026
+Balneário Piçarras,Centro,casa,venda,7441.2,5635.7,9765.8,212,5.16,setembro/2026
+Balneário Piçarras,Centro,casa,aluguel,32.0,28.4,41.6,18,5.16,setembro/2026
+Balneário Piçarras,Itacolomi,casa,venda,6330.7,4842.0,7938.4,416,6.26,setembro/2026
+Balneário Piçarras,Itacolomi,casa,aluguel,33.0,21.5,38.9,29,6.26,setembro/2026
+Balneário Piçarras,Itajubá,casa,venda,7083.3,6770.8,9426.6,19,,setembro/2026
+Balneário Piçarras,Nossa Senhora da Conceição,casa,venda,4521.7,3405.2,6889.6,11,,setembro/2026
+Balneário Piçarras,Nossa Senhora da Paz,casa,venda,6155.1,4668.5,6933.3,54,6.71,setembro/2026
+Balneário Piçarras,Nossa Senhora da Paz,casa,aluguel,34.4,32.6,36.2,7,6.71,setembro/2026
+Balneário Piçarras,Santo Antônio,casa,venda,5800.0,3436.2,6945.7,23,,setembro/2026
+Balneário Piçarras,Bela Vista,terreno,venda,789.7,552.0,1109.8,6,,setembro/2026
+Balneário Piçarras,Centro,terreno,venda,2290.1,1666.7,5959.5,35,,setembro/2026
 Balneário Piçarras,Itacalomi,terreno,venda,583.3,509.3,844.6,7,,setembro/2026
-Balneário Piçarras,Itacolomi,terreno,venda,1549.4,1134.5,2005.3,24,,setembro/2026
-Balneário Piçarras,Nossa Senhora da Paz,terreno,venda,1246.7,1066.7,1270.8,9,,setembro/2026
+Balneário Piçarras,Itacolomi,terreno,venda,1366.7,940.5,2008.7,113,,setembro/2026
+Balneário Piçarras,Itajubá,terreno,venda,1000.0,942.8,1426.7,5,,setembro/2026
+Balneário Piçarras,Nossa Senhora da Conceição,terreno,venda,836.2,770.2,950.0,28,,setembro/2026
+Balneário Piçarras,Nossa Senhora da Paz,terreno,venda,1247.9,1066.7,1451.6,33,,setembro/2026
+Balneário Piçarras,Santo Antônio,terreno,venda,1091.9,926.0,1390.7,18,,setembro/2026
+Balneário Piçarras,Centro,sala,venda,11537.2,6666.7,15735.3,9,7.73,setembro/2026
+Balneário Piçarras,Centro,sala,aluguel,74.3,52.8,87.1,26,7.73,setembro/2026
+Balneário Piçarras,Itacolomi,sala,venda,14138.5,13097.6,18266.2,22,7.29,setembro/2026
+Balneário Piçarras,Itacolomi,sala,aluguel,85.9,76.3,106.9,7,7.29,setembro/2026
