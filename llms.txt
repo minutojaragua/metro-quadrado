@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 55 cidades de Santa Catarina, São Paulo e mais 24 estados, Brasil, bairro por bairro, a partir de 365.485 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 55 cidades de Santa Catarina, São Paulo e mais 24 estados, Brasil, bairro por bairro, a partir de 366.869 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 ## Cidades (dados por bairro)
 
@@ -28,17 +28,17 @@
 - [Piracicaba](https://acorridadosbairros.com.br/sp/piracicaba/): mediana apartamentos R$ 4.710/m² (venda)
 - [Campinas](https://acorridadosbairros.com.br/sp/campinas/): mediana apartamentos R$ 7.141/m² (venda)
 - [Palmas](https://acorridadosbairros.com.br/to/palmas/): mediana apartamentos R$ 8.523/m² (venda)
-- [Porto Velho](https://acorridadosbairros.com.br/ro/porto-velho/): mediana apartamentos R$ 5.714/m² (venda)
+- [Porto Velho](https://acorridadosbairros.com.br/ro/porto-velho/): mediana apartamentos R$ 5.639/m² (venda)
 - [Vitória](https://acorridadosbairros.com.br/es/vitoria/): mediana apartamentos R$ 13.559/m² (venda)
 - [Balneário Camboriú](https://acorridadosbairros.com.br/balneario-camboriu/): mediana apartamentos R$ 17.167/m² (venda)
 - [Macapá](https://acorridadosbairros.com.br/ap/macapa/): mediana apartamentos R$ 7.500/m² (venda)
-- [Itapema](https://acorridadosbairros.com.br/itapema/): mediana apartamentos R$ 15.807/m² (venda)
-- [Porto Belo](https://acorridadosbairros.com.br/porto-belo/): mediana apartamentos R$ 15.832/m² (venda)
+- [Itapema](https://acorridadosbairros.com.br/itapema/): mediana apartamentos R$ 15.801/m² (venda)
+- [Porto Belo](https://acorridadosbairros.com.br/porto-belo/): mediana apartamentos R$ 15.838/m² (venda)
 - [Itapoá](https://acorridadosbairros.com.br/itapoa/): mediana apartamentos R$ 9.541/m² (venda)
 - [Boa Vista](https://acorridadosbairros.com.br/rr/boa-vista/): mediana apartamentos R$ 5.462/m² (venda)
 - [Aracaju](https://acorridadosbairros.com.br/se/aracaju/): mediana apartamentos R$ 5.263/m² (venda)
 - [Natal](https://acorridadosbairros.com.br/rn/natal/): mediana apartamentos R$ 6.214/m² (venda)
-- [João Pessoa](https://acorridadosbairros.com.br/pb/joao-pessoa/): mediana apartamentos R$ 9.224/m² (venda)
+- [João Pessoa](https://acorridadosbairros.com.br/pb/joao-pessoa/): mediana apartamentos R$ 9.150/m² (venda)
 - [Cuiabá](https://acorridadosbairros.com.br/mt/cuiaba/): mediana apartamentos R$ 6.667/m² (venda)
 - [São Paulo](https://acorridadosbairros.com.br/sp/sao-paulo/): mediana apartamentos R$ 9.680/m² (venda)
 - [Balneário Piçarras](https://acorridadosbairros.com.br/balneario-picarras/): mediana apartamentos R$ 12.706/m² (venda)
@@ -56,7 +56,7 @@
 - [Goiânia](https://acorridadosbairros.com.br/go/goiania/): mediana apartamentos R$ 7.920/m² (venda)
 - [Manaus](https://acorridadosbairros.com.br/am/manaus/): mediana apartamentos R$ 6.455/m² (venda)
 - [Rio de Janeiro](https://acorridadosbairros.com.br/rj/rio-de-janeiro/): mediana apartamentos R$ 5.615/m² (venda)
-- [Porto Alegre](https://acorridadosbairros.com.br/rs/porto-alegre/): mediana apartamentos R$ 6.412/m² (venda)
+- [Porto Alegre](https://acorridadosbairros.com.br/rs/porto-alegre/): mediana apartamentos R$ 6.422/m² (venda)
 - [Belo Horizonte](https://acorridadosbairros.com.br/mg/belo-horizonte/): mediana apartamentos R$ 7.614/m² (venda)
 - [Salvador](https://acorridadosbairros.com.br/ba/salvador/): mediana apartamentos R$ 7.073/m² (venda)
 
