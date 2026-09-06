@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 44 cidades de Santa Catarina, São Paulo, Tocantins, Rondônia, Espírito Santo, Amapá, Roraima, Sergipe, Rio Grande do Norte, Paraíba, Mato Grosso, Piauí, Paraná, Mato Grosso do Sul e Alagoas, Brasil, bairro por bairro, a partir de 218.274 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 45 cidades de Santa Catarina, São Paulo, Tocantins, Rondônia, Espírito Santo, Amapá, Roraima, Sergipe, Rio Grande do Norte, Paraíba, Mato Grosso, Piauí, Paraná, Mato Grosso do Sul, Alagoas e Maranhão, Brasil, bairro por bairro, a partir de 219.054 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -1828,7 +1828,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 
 ## Santos (setembro/2026): https://acorridadosbairros.com.br/sp/santos/
 
-### Apartamentos, cidade toda: venda R$ 8.614/m² (n=2349); aluguel R$ 62,2/m²/mês (n=623); rendimento bruto do aluguel 8,67% a.a.
+### Apartamentos, cidade toda: venda R$ 8.611/m² (n=2350); aluguel R$ 62,2/m²/mês (n=623); rendimento bruto do aluguel 8,67% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -1849,7 +1849,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Vila Matias | R$ 6.000 | 63 | R$ 52,1 | 16 | 10,42% | – |
 | Vila Rica | R$ 11.152 | 23 | – | – | – | – |
 
-### Casas, cidade toda: venda R$ 6.993/m² (n=643); aluguel R$ 44,6/m²/mês (n=211); rendimento bruto do aluguel 7,65% a.a.
+### Casas, cidade toda: venda R$ 6.985/m² (n=644); aluguel R$ 44,6/m²/mês (n=211); rendimento bruto do aluguel 7,66% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -6719,6 +6719,62 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Gruta de Lourdes | – | – | R$ 106,1 | 15 | – | – |
 | Jatiúca | – | – | R$ 53,3 | 5 | – | – |
 | Pinheiro | – | – | R$ 66,5 | 6 | – | – |
+
+
+## São Luís (setembro/2026): https://acorridadosbairros.com.br/ma/sao-luis/
+
+### Apartamentos, cidade toda: venda R$ 7.596/m² (n=283); aluguel R$ 54,5/m²/mês (n=247); rendimento bruto do aluguel 8,61% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Alto do Calhau | R$ 9.756 | 6 | R$ 54,2 | 5 | 6,67% | – |
+| Angelim | R$ 5.019 | 8 | R$ 42,0 | 6 | 10,04% | – |
+| Bequimão | R$ 5.814 | 5 | – | – | – | – |
+| Calhau | R$ 8.514 | 23 | R$ 61,9 | 16 | 8,72% | – |
+| Cohab Anil IV | R$ 2.263 | 6 | – | – | – | – |
+| Cohafuma | R$ 5.614 | 5 | – | – | – | – |
+| Cohajap | R$ 5.446 | 5 | – | – | – | – |
+| Cohama | R$ 8.290 | 10 | R$ 43,8 | 10 | 6,34% | – |
+| Jaracaty | R$ 8.750 | 5 | – | – | – | – |
+| Jardim Eldorado | – | – | R$ 36,4 | 10 | – | – |
+| Jardim Renascença | R$ 9.882 | 9 | R$ 60,3 | 49 | 7,32% | – |
+| Jardim São Francisco | R$ 8.686 | 5 | – | – | – | – |
+| Olho d'Água | – | – | R$ 59,8 | 6 | – | – |
+| Ponta Dareia | R$ 14.033 | 18 | R$ 85,6 | 34 | 7,32% | – |
+| Ponta do Farol | R$ 12.654 | 14 | R$ 73,0 | 14 | 6,92% | – |
+| Quitandinha | – | – | R$ 58,9 | 5 | – | – |
+| Recanto dos Vinhais | R$ 6.210 | 6 | – | – | – | – |
+| Renascença | R$ 8.161 | 22 | R$ 44,6 | 6 | 6,56% | – |
+| São Francisco | R$ 4.941 | 9 | – | – | – | – |
+| São Marcos | R$ 13.750 | 9 | – | – | – | – |
+| Turu | R$ 6.322 | 13 | R$ 38,2 | 36 | 7,25% | – |
+| Vila Vicente Fialho | R$ 8.448 | 7 | – | – | – | – |
+| Vinhais | R$ 4.833 | 5 | – | – | – | – |
+
+### Casas, cidade toda: venda R$ 2.857/m² (n=156); aluguel R$ 24,7/m²/mês (n=44); rendimento bruto do aluguel 10,37% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Araçagi | R$ 4.400 | 5 | – | – | – | – |
+| Chácara Brasil | R$ 2.478 | 6 | – | – | – | – |
+| Cidade Operária | R$ 1.438 | 5 | – | – | – | – |
+| Cohama | R$ 7.000 | 5 | – | – | – | – |
+| Cohatrac III | R$ 2.050 | 5 | – | – | – | – |
+| Jardim Eldorado | R$ 6.125 | 6 | – | – | – | – |
+| Olho d'Água | R$ 3.843 | 6 | – | – | – | – |
+| Quintas do Calhau | R$ 6.667 | 5 | – | – | – | – |
+| Turu | R$ 2.857 | 5 | R$ 26,8 | 13 | 11,26% | – |
+
+### Terrenos, cidade toda: venda R$ 635/m² (n=20)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+
+### Salas comerciais, cidade toda: venda R$ 8.842/m² (n=8); aluguel R$ 77,9/m²/mês (n=20); rendimento bruto do aluguel 10,57% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Jardim Renascença | – | – | R$ 83,3 | 5 | – | – |
 
 
 Metodologia: https://acorridadosbairros.com.br/metodologia/ · Dados abertos CC BY 4.0: https://acorridadosbairros.com.br/dados.csv · Imprensa: https://acorridadosbairros.com.br/imprensa/

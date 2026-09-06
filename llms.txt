@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 44 cidades de Santa Catarina, São Paulo, Tocantins, Rondônia, Espírito Santo, Amapá, Roraima, Sergipe, Rio Grande do Norte, Paraíba, Mato Grosso, Piauí, Paraná, Mato Grosso do Sul e Alagoas, Brasil, bairro por bairro, a partir de 218.274 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 45 cidades de Santa Catarina, São Paulo, Tocantins, Rondônia, Espírito Santo, Amapá, Roraima, Sergipe, Rio Grande do Norte, Paraíba, Mato Grosso, Piauí, Paraná, Mato Grosso do Sul, Alagoas e Maranhão, Brasil, bairro por bairro, a partir de 219.054 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 ## Cidades (dados por bairro)
 
@@ -23,7 +23,7 @@
 - [Lages](https://acorridadosbairros.com.br/lages/): mediana apartamentos R$ 6.504/m² (venda)
 - [Itajaí](https://acorridadosbairros.com.br/itajai/): mediana apartamentos R$ 11.593/m² (venda)
 - [Navegantes](https://acorridadosbairros.com.br/navegantes/): mediana apartamentos R$ 9.244/m² (venda)
-- [Santos](https://acorridadosbairros.com.br/sp/santos/): mediana apartamentos R$ 8.614/m² (venda)
+- [Santos](https://acorridadosbairros.com.br/sp/santos/): mediana apartamentos R$ 8.611/m² (venda)
 - [Limeira](https://acorridadosbairros.com.br/sp/limeira/): mediana apartamentos R$ 5.161/m² (venda)
 - [Piracicaba](https://acorridadosbairros.com.br/sp/piracicaba/): mediana apartamentos R$ 4.700/m² (venda)
 - [Campinas](https://acorridadosbairros.com.br/sp/campinas/): mediana apartamentos R$ 7.143/m² (venda)
@@ -48,6 +48,7 @@
 - [Curitiba](https://acorridadosbairros.com.br/pr/curitiba/): mediana apartamentos R$ 9.735/m² (venda)
 - [Campo Grande](https://acorridadosbairros.com.br/ms/campo-grande/): mediana apartamentos R$ 5.929/m² (venda)
 - [Maceió](https://acorridadosbairros.com.br/al/maceio/): mediana apartamentos R$ 8.953/m² (venda)
+- [São Luís](https://acorridadosbairros.com.br/ma/sao-luis/): mediana apartamentos R$ 7.596/m² (venda)
 
 ## Ferramentas e dados
 

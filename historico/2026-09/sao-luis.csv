@@ -1,0 +1,44 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+São Luís,Alto do Calhau,apartamento,venda,9755.6,7944.9,11580.4,6,6.67,setembro/2026
+São Luís,Alto do Calhau,apartamento,aluguel,54.2,49.2,60.8,5,6.67,setembro/2026
+São Luís,Angelim,apartamento,venda,5018.6,3464.0,5898.7,8,10.04,setembro/2026
+São Luís,Angelim,apartamento,aluguel,42.0,40.3,46.8,6,10.04,setembro/2026
+São Luís,Bequimão,apartamento,venda,5813.7,3272.7,6488.7,5,,setembro/2026
+São Luís,Calhau,apartamento,venda,8513.5,7778.0,9938.0,23,8.72,setembro/2026
+São Luís,Calhau,apartamento,aluguel,61.9,52.6,70.6,16,8.72,setembro/2026
+São Luís,Cohab Anil IV,apartamento,venda,2262.6,1964.2,5106.0,6,,setembro/2026
+São Luís,Cohafuma,apartamento,venda,5614.0,4933.3,7236.8,5,,setembro/2026
+São Luís,Cohajap,apartamento,venda,5445.5,4750.0,5909.1,5,,setembro/2026
+São Luís,Cohama,apartamento,venda,8289.9,7168.7,9923.1,10,6.34,setembro/2026
+São Luís,Cohama,apartamento,aluguel,43.8,32.9,53.4,10,6.34,setembro/2026
+São Luís,Jaracaty,apartamento,venda,8750.0,7692.3,9473.7,5,,setembro/2026
+São Luís,Jardim Eldorado,apartamento,aluguel,36.4,33.4,42.5,10,,setembro/2026
+São Luís,Jardim Renascença,apartamento,venda,9882.4,8297.9,11363.6,9,7.32,setembro/2026
+São Luís,Jardim Renascença,apartamento,aluguel,60.3,50.0,78.1,49,7.32,setembro/2026
+São Luís,Jardim São Francisco,apartamento,venda,8686.2,8315.8,9638.8,5,,setembro/2026
+São Luís,Olho d'Água,apartamento,aluguel,59.8,40.7,78.8,6,,setembro/2026
+São Luís,Ponta Dareia,apartamento,venda,14032.8,11462.3,16787.0,18,7.32,setembro/2026
+São Luís,Ponta Dareia,apartamento,aluguel,85.6,71.4,94.0,34,7.32,setembro/2026
+São Luís,Ponta do Farol,apartamento,venda,12654.2,10441.2,14659.1,14,6.92,setembro/2026
+São Luís,Ponta do Farol,apartamento,aluguel,73.0,66.0,89.7,14,6.92,setembro/2026
+São Luís,Quitandinha,apartamento,aluguel,58.9,56.2,64.3,5,,setembro/2026
+São Luís,Recanto dos Vinhais,apartamento,venda,6210.3,4072.6,8148.3,6,,setembro/2026
+São Luís,Renascença,apartamento,venda,8160.6,5979.9,8902.3,22,6.56,setembro/2026
+São Luís,Renascença,apartamento,aluguel,44.6,41.5,47.8,6,6.56,setembro/2026
+São Luís,São Francisco,apartamento,venda,4941.2,3333.3,8631.1,9,,setembro/2026
+São Luís,São Marcos,apartamento,venda,13750.0,13000.0,14189.2,9,,setembro/2026
+São Luís,Turu,apartamento,venda,6321.8,3725.5,7857.1,13,7.25,setembro/2026
+São Luís,Turu,apartamento,aluguel,38.2,30.4,53.6,36,7.25,setembro/2026
+São Luís,Vila Vicente Fialho,apartamento,venda,8448.3,7683.8,8825.2,7,,setembro/2026
+São Luís,Vinhais,apartamento,venda,4833.3,4800.0,6046.3,5,,setembro/2026
+São Luís,Araçagi,casa,venda,4400.0,2708.3,4500.0,5,,setembro/2026
+São Luís,Chácara Brasil,casa,venda,2477.5,1674.1,3561.7,6,,setembro/2026
+São Luís,Cidade Operária,casa,venda,1437.5,1222.2,2714.3,5,,setembro/2026
+São Luís,Cohama,casa,venda,7000.0,7000.0,7118.6,5,,setembro/2026
+São Luís,Cohatrac III,casa,venda,2050.0,1750.0,2500.0,5,,setembro/2026
+São Luís,Jardim Eldorado,casa,venda,6125.0,4291.7,8580.6,6,,setembro/2026
+São Luís,Olho d'Água,casa,venda,3842.6,2425.0,8796.3,6,,setembro/2026
+São Luís,Quintas do Calhau,casa,venda,6666.7,6482.1,7727.3,5,,setembro/2026
+São Luís,Turu,casa,venda,2857.1,2698.4,4055.6,5,11.26,setembro/2026
+São Luís,Turu,casa,aluguel,26.8,20.0,38.0,13,11.26,setembro/2026
+São Luís,Jardim Renascença,sala,aluguel,83.3,75.8,106.1,5,,setembro/2026
