@@ -66,10 +66,10 @@ function localizar(){return new Promise(function(res,rej){if(!navigator.geolocat
    ev('geo_ok',best.nome+' '+(best.km<30?'ate 30km':best.km<150?'30 a 150km':'mais de 150km'),cam);guardar(best.slug,best.nome,'geo');res(best);}).catch(function(){rej('sem_lista');});},
   function(e){ev('geo_negado',String(e&&e.code),cam);rej('negado');},{timeout:9000,maximumAge:600000});});}
 function ufNome(uf){return UFN[uf]||('em '+uf);}
-document.addEventListener('DOMContentLoaded',function(){cidades().then(function(){var a=atual(),c=a&&acha(a);if(c)guardar(c.slug,c.nome,'nav');monta();}).catch(function(){});});
+document.addEventListener('DOMContentLoaded',function(){cidades().then(function(){var antes=ler(),a=atual(),c=a&&acha(a);monta(antes);if(c)guardar(c.slug,c.nome,'nav');}).catch(function(){});});
 document.addEventListener('change',function(e){var s=e.target;if(!s||s.tagName!=='SELECT'||(s.id!=='cid'&&s.id!=='alvo'))return;var v=s.value;if(!v||v.indexOf('__')===0)return;
  var c=acha(v);guardar(v,c?c.nome:s.options[s.selectedIndex].text.replace(/^Morar em /,''),'sel');},true);
-function monta(){var box=document.getElementById('porta-geo');if(!box)return;var a=atual(),lem=ler(),sug=null,via='';
+function monta(lem){var box=document.getElementById('porta-geo');if(!box)return;var a=atual(),sug=null,via='';
  if(lem&&lem.slug!==a&&acha(lem.slug)){sug=acha(lem.slug);via=lem.via==='geo'?'geo_lembrada':'lembrada';}
  else if(!lem){var f=fuso();if(f&&f!==a&&acha(f)){sug=acha(f);via='fuso';}}
  if(sug){ev('sugestao_cidade',sug.nome,via);
