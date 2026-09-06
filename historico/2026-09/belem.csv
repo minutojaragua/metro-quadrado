@@ -1,0 +1,40 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Belém,Batista Campos,apartamento,venda,11666.7,8397.4,14513.9,27,8.83,setembro/2026
+Belém,Batista Campos,apartamento,aluguel,85.8,68.0,95.5,5,8.83,setembro/2026
+Belém,Campina,apartamento,aluguel,36.6,32.6,40.9,6,,setembro/2026
+Belém,Coqueiro,apartamento,aluguel,36.1,31.0,38.9,8,,setembro/2026
+Belém,Cremação,apartamento,venda,9322.9,8488.9,12810.8,7,,setembro/2026
+Belém,Fátima,apartamento,venda,11254.6,10178.6,12698.7,6,8.2,setembro/2026
+Belém,Fátima,apartamento,aluguel,76.9,59.0,93.6,11,8.2,setembro/2026
+Belém,Jurunas,apartamento,venda,12000.0,10909.1,13333.3,9,5.06,setembro/2026
+Belém,Jurunas,apartamento,aluguel,50.6,42.5,55.0,6,5.06,setembro/2026
+Belém,Mangueirão,apartamento,venda,6744.8,6231.9,7357.9,6,,setembro/2026
+Belém,Marambaia,apartamento,venda,8397.7,5375.0,9000.0,5,6.13,setembro/2026
+Belém,Marambaia,apartamento,aluguel,42.9,24.0,55.7,7,6.13,setembro/2026
+Belém,Marco,apartamento,venda,9010.7,6514.0,9973.3,10,7.66,setembro/2026
+Belém,Marco,apartamento,aluguel,57.5,53.7,90.2,17,7.66,setembro/2026
+Belém,Nazaré,apartamento,venda,11942.9,8907.4,13761.5,24,7.97,setembro/2026
+Belém,Nazaré,apartamento,aluguel,79.3,64.7,92.1,11,7.97,setembro/2026
+Belém,Parque Verde,apartamento,venda,7242.0,6993.1,7904.3,6,7.59,setembro/2026
+Belém,Parque Verde,apartamento,aluguel,45.8,37.7,54.2,10,7.59,setembro/2026
+Belém,Pedreira,apartamento,venda,8693.1,7088.4,9762.8,8,8.85,setembro/2026
+Belém,Pedreira,apartamento,aluguel,64.1,53.1,75.4,20,8.85,setembro/2026
+Belém,Reduto,apartamento,venda,8750.0,6304.3,12532.3,9,,setembro/2026
+Belém,São Brás,apartamento,venda,8072.9,7331.7,12226.0,8,6.7,setembro/2026
+Belém,São Brás,apartamento,aluguel,45.1,38.2,54.2,10,6.7,setembro/2026
+Belém,Umarizal,apartamento,venda,12766.0,11534.0,13893.2,45,7.13,setembro/2026
+Belém,Umarizal,apartamento,aluguel,75.8,65.9,92.0,17,7.13,setembro/2026
+Belém,Curió-Utinga,casa,venda,11129.0,3584.7,11500.0,5,,setembro/2026
+Belém,Marambaia,casa,venda,2900.0,2350.4,2951.4,5,,setembro/2026
+Belém,Parque Guajará (Icoaraci),casa,venda,5202.1,5043.1,5761.1,6,,setembro/2026
+Belém,Parque Verde,casa,venda,6408.3,4296.7,7880.3,8,6.74,setembro/2026
+Belém,Parque Verde,casa,aluguel,36.0,31.1,50.0,9,6.74,setembro/2026
+Belém,Souza,casa,venda,3836.2,2578.6,5287.6,6,,setembro/2026
+Belém,Tapanã (Icoaraci),casa,venda,4285.7,1506.3,6547.8,7,,setembro/2026
+Belém,Tenoné,casa,venda,4214.7,4044.1,4433.3,5,,setembro/2026
+Belém,Campina de Icoaraci (Icoaraci),terreno,venda,812.5,508.5,1000.0,9,,setembro/2026
+Belém,Maracacuera (Icoaraci),terreno,venda,522.2,359.4,681.2,22,,setembro/2026
+Belém,Campina,sala,aluguel,25.0,21.9,45.2,5,,setembro/2026
+Belém,Nazaré,sala,venda,14771.0,11884.6,16835.4,9,,setembro/2026
+Belém,Umarizal,sala,venda,13910.3,13032.6,16136.2,8,8.99,setembro/2026
+Belém,Umarizal,sala,aluguel,104.2,58.3,129.3,5,8.99,setembro/2026

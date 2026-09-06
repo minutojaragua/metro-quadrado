@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 45 cidades de Santa Catarina, São Paulo, Tocantins, Rondônia, Espírito Santo, Amapá, Roraima, Sergipe, Rio Grande do Norte, Paraíba, Mato Grosso, Piauí, Paraná, Mato Grosso do Sul, Alagoas e Maranhão, Brasil, bairro por bairro, a partir de 219.054 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 46 cidades de Santa Catarina, São Paulo, Tocantins, Rondônia, Espírito Santo, Amapá, Roraima, Sergipe, Rio Grande do Norte, Paraíba, Mato Grosso, Piauí, Paraná, Mato Grosso do Sul, Alagoas, Maranhão e Pará, Brasil, bairro por bairro, a partir de 219.719 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -6775,6 +6775,56 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
 | Jardim Renascença | – | – | R$ 83,3 | 5 | – | – |
+
+
+## Belém (setembro/2026): https://acorridadosbairros.com.br/pa/belem/
+
+### Apartamentos, cidade toda: venda R$ 9.706/m² (n=228); aluguel R$ 55,3/m²/mês (n=166); rendimento bruto do aluguel 6,84% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Batista Campos | R$ 11.667 | 27 | R$ 85,8 | 5 | 8,83% | – |
+| Campina | – | – | R$ 36,6 | 6 | – | – |
+| Coqueiro | – | – | R$ 36,1 | 8 | – | – |
+| Cremação | R$ 9.323 | 7 | – | – | – | – |
+| Fátima | R$ 11.255 | 6 | R$ 76,9 | 11 | 8,20% | – |
+| Jurunas | R$ 12.000 | 9 | R$ 50,6 | 6 | 5,06% | – |
+| Mangueirão | R$ 6.745 | 6 | – | – | – | – |
+| Marambaia | R$ 8.398 | 5 | R$ 42,9 | 7 | 6,13% | – |
+| Marco | R$ 9.011 | 10 | R$ 57,5 | 17 | 7,66% | – |
+| Nazaré | R$ 11.943 | 24 | R$ 79,3 | 11 | 7,97% | – |
+| Parque Verde | R$ 7.242 | 6 | R$ 45,8 | 10 | 7,59% | – |
+| Pedreira | R$ 8.693 | 8 | R$ 64,1 | 20 | 8,85% | – |
+| Reduto | R$ 8.750 | 9 | – | – | – | – |
+| São Brás | R$ 8.073 | 8 | R$ 45,1 | 10 | 6,70% | – |
+| Umarizal | R$ 12.766 | 45 | R$ 75,8 | 17 | 7,13% | – |
+
+### Casas, cidade toda: venda R$ 3.384/m² (n=119); aluguel R$ 27,8/m²/mês (n=41); rendimento bruto do aluguel 9,86% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Curió-Utinga | R$ 11.129 | 5 | – | – | – | – |
+| Marambaia | R$ 2.900 | 5 | – | – | – | – |
+| Parque Guajará (Icoaraci) | R$ 5.202 | 6 | – | – | – | – |
+| Parque Verde | R$ 6.408 | 8 | R$ 36,0 | 9 | 6,74% | – |
+| Souza | R$ 3.836 | 6 | – | – | – | – |
+| Tapanã (Icoaraci) | R$ 4.286 | 7 | – | – | – | – |
+| Tenoné | R$ 4.215 | 5 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 654/m² (n=56)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Campina de Icoaraci (Icoaraci) | R$ 812 | 9 | – | – | – | – |
+| Maracacuera (Icoaraci) | R$ 522 | 22 | – | – | – | – |
+
+### Salas comerciais, cidade toda: venda R$ 13.391/m² (n=20); aluguel R$ 69,6/m²/mês (n=26); rendimento bruto do aluguel 6,24% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Campina | – | – | R$ 25,0 | 5 | – | – |
+| Nazaré | R$ 14.771 | 9 | – | – | – | – |
+| Umarizal | R$ 13.910 | 8 | R$ 104,2 | 5 | 8,99% | – |
 
 
 Metodologia: https://acorridadosbairros.com.br/metodologia/ · Dados abertos CC BY 4.0: https://acorridadosbairros.com.br/dados.csv · Imprensa: https://acorridadosbairros.com.br/imprensa/
