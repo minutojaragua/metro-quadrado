@@ -80,7 +80,7 @@ Palmas,Alphaville 1,casa,venda,14754.1,13348.4,15479.9,5,,setembro/2026
 Palmas,Alphaville 2,casa,venda,12537.3,11907.0,14045.7,7,,setembro/2026
 Palmas,Bertavile,casa,venda,3675.4,3447.9,4319.5,6,,setembro/2026
 Palmas,Bertaville,casa,venda,3754.2,3344.6,4187.1,38,,setembro/2026
-Palmas,Caribe Residence e Resort,casa,venda,10289.3,9815.9,11702.7,7,,setembro/2026
+Palmas,Caribe Residence e Resort,casa,venda,10144.6,9553.1,11304.0,8,,setembro/2026
 Palmas,Graciosa - Orla 14,casa,venda,7204.4,5382.9,8486.8,20,,setembro/2026
 Palmas,Jardim Aureny III,casa,venda,3303.6,2765.0,3709.9,33,,setembro/2026
 Palmas,Jardim Janaína (Taquaralto),casa,venda,3432.8,3228.3,3513.8,7,,setembro/2026
@@ -91,8 +91,8 @@ Palmas,Loteamento Residencial Polinésia,casa,venda,9006.8,8071.0,10091.6,14,,se
 Palmas,Morada do Sol,casa,venda,3601.6,3420.1,3716.4,12,,setembro/2026
 Palmas,Plano Diretor Norte (quadra não informada),casa,venda,4831.4,3715.3,6575.4,86,8.27,setembro/2026
 Palmas,Plano Diretor Norte (quadra não informada),casa,aluguel,33.3,32.0,34.5,5,8.27,setembro/2026
-Palmas,Plano Diretor Sul (quadra não informada),casa,venda,5580.7,4196.9,7443.2,439,6.19,setembro/2026
-Palmas,Plano Diretor Sul (quadra não informada),casa,aluguel,28.8,25.0,36.1,13,6.19,setembro/2026
+Palmas,Plano Diretor Sul (quadra não informada),casa,venda,5636.3,4229.4,7386.4,453,6.13,setembro/2026
+Palmas,Plano Diretor Sul (quadra não informada),casa,aluguel,28.8,25.0,36.1,13,6.13,setembro/2026
 Palmas,Residencial Mirante do Lago,casa,venda,11761.6,10919.0,12854.2,12,,setembro/2026
 Palmas,Setor Santa Fé 2 (Taquaralto),casa,venda,3557.4,3326.0,3919.8,16,,setembro/2026
 Palmas,105 Norte,apartamento,venda,8800.0,8026.3,10416.7,25,7.31,setembro/2026
@@ -145,13 +145,13 @@ Palmas,804 Sul,apartamento,venda,7583.3,7344.6,7751.9,5,,setembro/2026
 Palmas,806 Sul,apartamento,venda,5362.3,4563.2,5909.1,13,8.93,setembro/2026
 Palmas,806 Sul,apartamento,aluguel,39.9,36.8,46.4,6,8.93,setembro/2026
 Palmas,902 Sul,apartamento,venda,5801.1,5140.8,7381.5,6,,setembro/2026
-Palmas,Graciosa - Orla 14,apartamento,venda,12666.7,10562.7,14993.4,183,5.88,setembro/2026
-Palmas,Graciosa - Orla 14,apartamento,aluguel,62.1,52.2,79.9,50,5.88,setembro/2026
+Palmas,Graciosa - Orla 14,apartamento,venda,12621.4,10542.5,14972.5,184,5.9,setembro/2026
+Palmas,Graciosa - Orla 14,apartamento,aluguel,62.1,52.2,79.9,50,5.9,setembro/2026
 Palmas,Loteamento Lago Sul (Taquaralto),apartamento,venda,2857.1,2386.4,3250.0,9,,setembro/2026
-Palmas,Plano Diretor Norte (quadra não informada),apartamento,venda,6641.2,5090.2,8837.4,56,8.73,setembro/2026
-Palmas,Plano Diretor Norte (quadra não informada),apartamento,aluguel,48.3,44.5,60.8,19,8.73,setembro/2026
-Palmas,Plano Diretor Sul (quadra não informada),apartamento,venda,8877.9,7338.2,11451.3,131,5.87,setembro/2026
-Palmas,Plano Diretor Sul (quadra não informada),apartamento,aluguel,43.4,37.0,54.0,38,5.87,setembro/2026
+Palmas,Plano Diretor Norte (quadra não informada),apartamento,venda,6730.8,5160.0,8929.4,59,8.61,setembro/2026
+Palmas,Plano Diretor Norte (quadra não informada),apartamento,aluguel,48.3,44.5,60.8,19,8.61,setembro/2026
+Palmas,Plano Diretor Sul (quadra não informada),apartamento,venda,8853.8,7550.2,11443.1,140,5.88,setembro/2026
+Palmas,Plano Diretor Sul (quadra não informada),apartamento,aluguel,43.4,37.0,54.0,38,5.88,setembro/2026
 Palmas,109 Sul,terreno,venda,2077.6,2038.6,2102.9,5,,setembro/2026
 Palmas,1503 Sul,terreno,venda,777.8,699.7,819.7,7,,setembro/2026
 Palmas,1506 Sul,terreno,venda,540.0,434.7,654.5,6,,setembro/2026
@@ -167,7 +167,7 @@ Palmas,Loteamento Caribe,terreno,venda,888.9,760.9,985.2,13,,setembro/2026
 Palmas,Loteamento Residencial Polinésia,terreno,venda,630.5,602.1,663.9,7,,setembro/2026
 Palmas,Morada do Sol,terreno,venda,220.0,138.4,260.8,7,,setembro/2026
 Palmas,Plano Diretor Norte (quadra não informada),terreno,venda,780.8,195.0,1000.0,21,,setembro/2026
-Palmas,Plano Diretor Sul (quadra não informada),terreno,venda,1000.0,792.9,1464.6,66,,setembro/2026
+Palmas,Plano Diretor Sul (quadra não informada),terreno,venda,1000.0,795.3,1460.4,68,,setembro/2026
 Palmas,103 Norte,sala,aluguel,70.0,37.5,83.3,9,,setembro/2026
 Palmas,104 Norte,sala,aluguel,41.7,36.9,61.0,11,,setembro/2026
 Palmas,104 Sul,sala,aluguel,50.0,32.6,62.0,16,,setembro/2026
