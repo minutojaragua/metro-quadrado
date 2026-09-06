@@ -26,12 +26,12 @@ São Paulo,Barro Branco (Zona Norte),casa,venda,5294.6,4358.3,5928.6,6,,setembro
 São Paulo,Bela Aliança,casa,venda,7832.9,7608.7,8258.0,6,,setembro/2026
 São Paulo,Bela Vista,casa,venda,7410.4,6307.9,9715.7,24,6.75,setembro/2026
 São Paulo,Bela Vista,casa,aluguel,41.7,38.2,56.7,9,6.75,setembro/2026
-São Paulo,Belém,casa,venda,6047.6,5226.7,7357.1,6,,setembro/2026
+São Paulo,Belém,casa,venda,5373.3,4256.0,6738.1,8,,setembro/2026
 São Paulo,Belenzinho,casa,venda,5598.3,5275.0,6839.9,10,,setembro/2026
 São Paulo,Boaçava,casa,venda,12597.4,11250.0,14888.3,9,,setembro/2026
 São Paulo,Bortolândia,casa,venda,4411.8,3409.1,5735.3,13,,setembro/2026
-São Paulo,Bosque da Saúde,casa,venda,6647.5,5335.1,7986.1,84,5.9,setembro/2026
-São Paulo,Bosque da Saúde,casa,aluguel,32.7,26.3,39.9,16,5.9,setembro/2026
+São Paulo,Bosque da Saúde,casa,venda,6647.5,5335.1,7986.1,84,5.92,setembro/2026
+São Paulo,Bosque da Saúde,casa,aluguel,32.8,26.3,40.0,17,5.92,setembro/2026
 São Paulo,Brasilândia,casa,venda,2661.6,2636.1,4365.1,5,9.65,setembro/2026
 São Paulo,Brasilândia,casa,aluguel,21.4,15.5,25.6,11,9.65,setembro/2026
 São Paulo,Brooklin,casa,venda,8863.6,7028.3,12142.9,53,5.27,setembro/2026
@@ -44,8 +44,8 @@ São Paulo,Burgo Paulista,casa,venda,6204.4,5588.2,7402.6,9,,setembro/2026
 São Paulo,Butantã,casa,venda,5157.8,3940.9,6423.7,158,8.72,setembro/2026
 São Paulo,Butantã,casa,aluguel,37.5,28.0,41.4,17,8.72,setembro/2026
 São Paulo,Cachoeirinha,casa,venda,3075.0,2984.7,3573.3,7,,setembro/2026
-São Paulo,Cambuci,casa,venda,5944.4,4553.5,7758.2,59,6.3,setembro/2026
-São Paulo,Cambuci,casa,aluguel,31.2,25.6,47.8,9,6.3,setembro/2026
+São Paulo,Cambuci,casa,venda,5926.8,4527.9,7389.6,58,6.32,setembro/2026
+São Paulo,Cambuci,casa,aluguel,31.2,25.6,47.8,9,6.32,setembro/2026
 São Paulo,Campo Belo,casa,venda,7984.4,6316.9,10740.0,164,6.43,setembro/2026
 São Paulo,Campo Belo,casa,aluguel,42.8,33.8,54.2,51,6.43,setembro/2026
 São Paulo,Campo Grande,casa,venda,4869.1,4313.1,5829.4,12,,setembro/2026
@@ -56,15 +56,16 @@ São Paulo,Capão do Embira,casa,venda,3640.9,2536.6,4136.4,10,,setembro/2026
 São Paulo,Capão Redondo,casa,venda,4181.8,3200.0,4333.3,5,,setembro/2026
 São Paulo,Capela do Socorro,casa,venda,6739.6,5601.5,7087.5,5,,setembro/2026
 São Paulo,Carandiru,casa,venda,5692.3,5418.9,6470.2,7,,setembro/2026
+São Paulo,Carrão,casa,venda,5798.4,4666.7,8387.9,8,,setembro/2026
 São Paulo,Casa Verde,casa,venda,5307.7,3625.0,6358.4,17,,setembro/2026
 São Paulo,Casa Verde Alta,casa,venda,4343.2,3941.4,4900.3,6,7.85,setembro/2026
 São Paulo,Casa Verde Alta,casa,aluguel,28.4,26.2,33.4,6,7.85,setembro/2026
 São Paulo,Casa Verde Média,casa,venda,5500.6,4954.7,6416.7,8,6.81,setembro/2026
 São Paulo,Casa Verde Média,casa,aluguel,31.2,30.0,33.3,5,6.81,setembro/2026
 São Paulo,Caxingui,casa,venda,7627.1,5005.6,8800.0,5,,setembro/2026
-São Paulo,Cerqueira César,casa,venda,16583.1,11639.7,22144.4,6,,setembro/2026
-São Paulo,Chácara Belenzinho,casa,venda,4800.0,3835.3,6906.2,66,5.55,setembro/2026
-São Paulo,Chácara Belenzinho,casa,aluguel,22.2,21.4,30.7,11,5.55,setembro/2026
+São Paulo,Cerqueira César,casa,venda,14416.1,11720.8,21012.9,7,,setembro/2026
+São Paulo,Chácara Belenzinho,casa,venda,4800.0,3844.7,6812.5,67,5.53,setembro/2026
+São Paulo,Chácara Belenzinho,casa,aluguel,22.1,20.7,29.3,12,5.53,setembro/2026
 São Paulo,Chácara Bosque do Sol,casa,venda,2000.0,1969.7,3400.0,5,,setembro/2026
 São Paulo,Chácara Califórnia,casa,venda,5731.0,4892.6,7657.1,19,,setembro/2026
 São Paulo,Chácara Cocaia,casa,venda,2750.0,2000.0,3921.6,5,,setembro/2026
@@ -119,6 +120,7 @@ São Paulo,Conjunto Habitacional Barreira Grande,casa,venda,2981.7,2878.8,3200.0
 São Paulo,Conjunto Habitacional Brigadeiro Faria Lima,casa,venda,3312.5,3060.0,5071.4,7,,setembro/2026
 São Paulo,Conjunto Habitacional Jardim São Bento,casa,venda,3180.0,2800.0,3307.7,5,,setembro/2026
 São Paulo,Conjunto Habitacional Marechal Mascarenhas de Morais,casa,venda,3199.6,3028.2,3367.1,7,,setembro/2026
+São Paulo,Conjunto Habitacional Padre José de Anchieta,casa,venda,4153.8,3571.4,4461.5,5,,setembro/2026
 São Paulo,Conjunto Habitacional Recanto dos Humildes,casa,venda,4000.0,3906.2,9000.0,5,,setembro/2026
 São Paulo,Conjunto Habitacional Turística,casa,venda,3631.2,3225.8,4942.5,5,,setembro/2026
 São Paulo,Conjunto Residencial Alpes do Jaraguá,casa,venda,3625.2,2310.5,4052.1,6,,setembro/2026
@@ -153,13 +155,13 @@ São Paulo,Horto Florestal,casa,aluguel,34.0,29.7,46.9,9,6.94,setembro/2026
 São Paulo,Imirim,casa,venda,5025.1,4372.5,5793.6,35,,setembro/2026
 São Paulo,Indianópolis,casa,venda,7607.7,6144.8,9011.2,38,6.12,setembro/2026
 São Paulo,Indianópolis,casa,aluguel,38.8,33.2,47.5,10,6.12,setembro/2026
-São Paulo,Instituto de Previdência,casa,venda,5240.9,4250.0,7804.7,14,,setembro/2026
+São Paulo,Instituto de Previdência,casa,venda,5681.8,4333.3,8038.0,15,,setembro/2026
 São Paulo,Interlagos,casa,venda,5185.1,4380.9,7435.1,14,,setembro/2026
-São Paulo,Ipiranga,casa,venda,5792.9,4450.7,7237.4,182,7.48,setembro/2026
-São Paulo,Ipiranga,casa,aluguel,36.1,27.2,42.6,38,7.48,setembro/2026
+São Paulo,Ipiranga,casa,venda,5803.6,4456.9,7304.0,183,7.46,setembro/2026
+São Paulo,Ipiranga,casa,aluguel,36.1,27.2,42.6,38,7.46,setembro/2026
 São Paulo,Itaim Paulista,casa,venda,4160.2,3046.3,5524.7,6,,setembro/2026
-São Paulo,Itaquera,casa,venda,4797.4,3541.3,5772.1,30,5.05,setembro/2026
-São Paulo,Itaquera,casa,aluguel,20.2,18.8,21.3,10,5.05,setembro/2026
+São Paulo,Itaquera,casa,venda,4700.0,3434.3,5710.8,31,5.16,setembro/2026
+São Paulo,Itaquera,casa,aluguel,20.2,18.8,21.3,10,5.16,setembro/2026
 São Paulo,Itu,casa,venda,5183.6,3125.0,7250.0,25,,setembro/2026
 São Paulo,Jabaquara,casa,venda,5133.3,4000.0,6352.0,83,7.25,setembro/2026
 São Paulo,Jabaquara,casa,aluguel,31.0,25.0,44.0,14,7.25,setembro/2026
@@ -215,7 +217,7 @@ São Paulo,Jardim Brasil (Zona Norte),casa,venda,4419.1,3522.7,5867.6,75,,setemb
 São Paulo,Jardim Brasil (Zona Sul),casa,venda,5600.0,4888.9,7246.4,29,,setembro/2026
 São Paulo,Jardim Brasília,casa,venda,3662.8,3072.0,5346.2,13,6.75,setembro/2026
 São Paulo,Jardim Brasília,casa,aluguel,20.6,16.6,23.9,8,6.75,setembro/2026
-São Paulo,Jardim Brasília (Zona Leste),casa,venda,4629.6,4580.3,5227.3,5,,setembro/2026
+São Paulo,Jardim Brasília (Zona Leste),casa,venda,4605.0,4057.9,5077.9,6,,setembro/2026
 São Paulo,Jardim Brasília (Zona Norte),casa,venda,4235.3,3316.7,5000.0,5,,setembro/2026
 São Paulo,Jardim Britânia,casa,venda,4800.0,3982.3,4848.5,5,,setembro/2026
 São Paulo,Jardim Cabuçu,casa,venda,3008.1,2296.2,3707.7,8,,setembro/2026
@@ -644,15 +646,15 @@ São Paulo,Lauzane Paulista,casa,aluguel,28.8,25.0,31.8,7,7.41,setembro/2026
 São Paulo,Liberdade,casa,venda,5483.9,4117.6,8437.5,5,,setembro/2026
 São Paulo,Limão,casa,venda,4173.9,3105.3,6372.5,13,,setembro/2026
 São Paulo,Limoeiro,casa,venda,3800.0,3461.5,4500.0,13,,setembro/2026
-São Paulo,Mandaqui,casa,venda,5400.7,4348.3,6814.4,84,7.91,setembro/2026
-São Paulo,Mandaqui,casa,aluguel,35.6,30.0,41.2,5,7.91,setembro/2026
+São Paulo,Mandaqui,casa,venda,5440.0,4363.6,6810.8,85,7.85,setembro/2026
+São Paulo,Mandaqui,casa,aluguel,35.6,30.0,41.2,5,7.85,setembro/2026
 São Paulo,Mirandópolis,casa,venda,7577.2,6448.2,9419.6,130,6.29,setembro/2026
 São Paulo,Mirandópolis,casa,aluguel,39.7,29.7,45.5,27,6.29,setembro/2026
 São Paulo,Moema,casa,venda,10520.2,8227.4,12648.8,30,6.65,setembro/2026
 São Paulo,Moema,casa,aluguel,58.3,47.9,67.9,11,6.65,setembro/2026
 São Paulo,Moinho Velho,casa,venda,5000.0,4622.6,5133.1,9,,setembro/2026
-São Paulo,Mooca,casa,venda,5844.2,4495.9,7471.4,63,6.24,setembro/2026
-São Paulo,Mooca,casa,aluguel,30.4,25.8,40.3,9,6.24,setembro/2026
+São Paulo,Mooca,casa,venda,5780.4,4472.9,7427.8,114,6.66,setembro/2026
+São Paulo,Mooca,casa,aluguel,32.1,26.4,48.4,14,6.66,setembro/2026
 São Paulo,Morro do Índio,casa,venda,2590.4,2037.0,3005.5,5,,setembro/2026
 São Paulo,Morro dos Ingleses,casa,venda,7261.4,6734.7,10747.7,5,,setembro/2026
 São Paulo,Morro Grande,casa,venda,4306.2,3194.4,4792.6,5,,setembro/2026
@@ -683,8 +685,8 @@ São Paulo,Parque Continental,casa,venda,5814.0,5108.0,6500.0,5,7.31,setembro/20
 São Paulo,Parque Continental,casa,aluguel,35.4,22.3,43.6,6,7.31,setembro/2026
 São Paulo,Parque Cruzeiro do Sul,casa,venda,5259.3,4023.2,6099.8,10,,setembro/2026
 São Paulo,Parque da Lapa,casa,venda,6312.1,5301.7,10066.4,7,,setembro/2026
-São Paulo,Parque da Mooca,casa,venda,7142.9,6451.6,9259.3,9,6.85,setembro/2026
-São Paulo,Parque da Mooca,casa,aluguel,40.8,34.3,49.8,11,6.85,setembro/2026
+São Paulo,Parque da Mooca,casa,venda,6840.7,5898.6,9148.1,10,7.16,setembro/2026
+São Paulo,Parque da Mooca,casa,aluguel,40.8,34.3,49.8,11,7.16,setembro/2026
 São Paulo,Parque da Vila Prudente,casa,venda,5555.6,4583.3,6307.4,13,,setembro/2026
 São Paulo,Parque das Árvores,casa,venda,3795.6,2991.2,5240.0,8,,setembro/2026
 São Paulo,Parque do Carmo,casa,venda,6030.0,5380.8,6723.6,10,4.16,setembro/2026
@@ -739,11 +741,11 @@ São Paulo,Parque Tomas Saraiva,casa,venda,4282.7,3891.0,5286.4,8,,setembro/2026
 São Paulo,Parque Vitória,casa,venda,5646.3,4788.7,6551.5,14,6.91,setembro/2026
 São Paulo,Parque Vitória,casa,aluguel,32.5,28.0,37.5,5,6.91,setembro/2026
 São Paulo,Patriarca,casa,venda,5000.0,4407.8,5277.2,7,,setembro/2026
-São Paulo,Penha,casa,venda,5933.3,4821.8,6545.5,21,,setembro/2026
+São Paulo,Penha,casa,venda,5976.2,4909.5,6543.7,22,,setembro/2026
 São Paulo,Penha de França,casa,venda,5200.0,4392.5,6333.3,81,8.01,setembro/2026
 São Paulo,Penha de França,casa,aluguel,34.7,25.1,43.8,7,8.01,setembro/2026
-São Paulo,Perdizes,casa,venda,8695.7,6882.6,12409.7,19,5.22,setembro/2026
-São Paulo,Perdizes,casa,aluguel,37.8,32.4,40.0,5,5.22,setembro/2026
+São Paulo,Perdizes,casa,venda,8768.9,7032.2,12225.7,20,5.17,setembro/2026
+São Paulo,Perdizes,casa,aluguel,37.8,32.4,40.0,5,5.17,setembro/2026
 São Paulo,Pinheiros,casa,venda,13058.4,10000.0,16650.8,33,4.82,setembro/2026
 São Paulo,Pinheiros,casa,aluguel,52.5,40.0,70.8,17,4.82,setembro/2026
 São Paulo,Piqueri,casa,venda,4634.8,3811.1,5598.3,6,,setembro/2026
@@ -770,21 +772,21 @@ São Paulo,São João Clímaco,casa,venda,4798.4,3791.5,5277.8,9,,setembro/2026
 São Paulo,São Mateus,casa,venda,3262.2,2553.8,4711.0,6,,setembro/2026
 São Paulo,São Miguel,casa,venda,6166.7,5584.4,6360.0,5,,setembro/2026
 São Paulo,São Miguel Paulista,casa,venda,4237.5,3276.0,6278.4,64,,setembro/2026
-São Paulo,Sapopemba,casa,venda,4747.8,4351.2,6155.5,6,5.84,setembro/2026
-São Paulo,Sapopemba,casa,aluguel,23.1,21.3,24.7,8,5.84,setembro/2026
+São Paulo,Sapopemba,casa,venda,4404.8,3182.3,5800.7,7,6.29,setembro/2026
+São Paulo,Sapopemba,casa,aluguel,23.1,21.3,24.7,8,6.29,setembro/2026
 São Paulo,Saúde,casa,venda,6000.0,4902.0,8000.0,97,4.62,setembro/2026
 São Paulo,Saúde,casa,aluguel,23.1,19.8,29.2,12,4.62,setembro/2026
 São Paulo,Sítio da Figueira,casa,venda,4408.3,4108.0,5007.8,10,,setembro/2026
 São Paulo,Sumaré,casa,venda,10792.3,9192.8,11755.9,15,,setembro/2026
 São Paulo,Sumarezinho,casa,venda,11653.7,10626.8,11993.5,6,,setembro/2026
-São Paulo,Tatuapé,casa,venda,6363.6,5000.0,8447.1,157,7.96,setembro/2026
-São Paulo,Tatuapé,casa,aluguel,42.2,31.2,50.7,48,7.96,setembro/2026
+São Paulo,Tatuapé,casa,venda,6333.3,5000.0,8447.1,161,8.0,setembro/2026
+São Paulo,Tatuapé,casa,aluguel,42.2,31.2,50.7,48,8.0,setembro/2026
 São Paulo,Tremembé,casa,venda,5320.7,4389.1,6855.4,96,,setembro/2026
 São Paulo,Tucuruvi,casa,venda,6159.9,4781.2,7629.7,64,,setembro/2026
 São Paulo,Vila Água Funda,casa,venda,3923.1,3625.0,5271.7,5,,setembro/2026
 São Paulo,Vila Albertina,casa,venda,6737.7,4726.7,7535.4,18,,setembro/2026
 São Paulo,Vila Alexandria,casa,venda,4483.3,4075.0,6558.8,6,,setembro/2026
-São Paulo,Vila Alpina,casa,venda,5100.0,3815.8,6017.5,55,,setembro/2026
+São Paulo,Vila Alpina,casa,venda,5152.7,3840.3,6121.7,56,,setembro/2026
 São Paulo,Vila Amália,casa,venda,5005.9,3235.3,5200.0,5,,setembro/2026
 São Paulo,Vila Amélia,casa,venda,4292.7,3669.7,7500.0,5,,setembro/2026
 São Paulo,Vila Andrade,casa,venda,7037.0,5411.3,7156.3,5,,setembro/2026
@@ -804,14 +806,14 @@ São Paulo,Vila Brasilina,casa,venda,3716.0,3023.0,4832.0,12,,setembro/2026
 São Paulo,Vila Brasílio Machado,casa,venda,6409.0,5138.9,7639.5,26,,setembro/2026
 São Paulo,Vila Buenos Aires,casa,venda,3389.7,2687.5,4055.5,8,,setembro/2026
 São Paulo,Vila Butantã,casa,venda,4424.8,4095.7,4871.9,7,,setembro/2026
-São Paulo,Vila Califórnia,casa,venda,5166.7,3275.0,6180.5,19,,setembro/2026
+São Paulo,Vila Califórnia,casa,venda,5307.5,3284.8,6131.2,20,,setembro/2026
 São Paulo,Vila Campestre,casa,venda,4591.8,3160.0,5086.2,45,,setembro/2026
 São Paulo,Vila Carioca,casa,venda,4250.0,3795.6,4734.0,5,,setembro/2026
 São Paulo,Vila Carmosina,casa,venda,3623.6,3228.7,5050.0,8,,setembro/2026
 São Paulo,Vila Carrão,casa,venda,6094.2,4666.7,7541.1,252,6.99,setembro/2026
 São Paulo,Vila Carrão,casa,aluguel,35.5,26.6,45.4,14,6.99,setembro/2026
-São Paulo,Vila Clementino,casa,venda,8328.4,6683.7,11310.7,138,6.9,setembro/2026
-São Paulo,Vila Clementino,casa,aluguel,47.9,40.4,60.0,45,6.9,setembro/2026
+São Paulo,Vila Clementino,casa,venda,8323.5,6666.7,11244.2,139,6.91,setembro/2026
+São Paulo,Vila Clementino,casa,aluguel,47.9,40.4,60.0,45,6.91,setembro/2026
 São Paulo,Vila Congonhas,casa,venda,7909.1,6523.7,10600.0,9,,setembro/2026
 São Paulo,Vila Constança,casa,venda,4976.8,4543.9,5602.1,14,,setembro/2026
 São Paulo,Vila Cordeiro,casa,venda,7400.0,6333.3,9333.3,37,7.22,setembro/2026
@@ -830,14 +832,14 @@ São Paulo,Vila do Encontro,casa,venda,4304.3,2704.3,5360.1,15,,setembro/2026
 São Paulo,Vila Dom Pedro I,casa,venda,6827.6,5671.3,8238.5,18,,setembro/2026
 São Paulo,Vila Dom Pedro II,casa,venda,6125.0,5310.8,7173.0,19,,setembro/2026
 São Paulo,Vila dos Remédios,casa,venda,5000.0,4125.0,5076.9,5,,setembro/2026
-São Paulo,Vila Ema,casa,venda,4728.3,3768.7,6179.9,88,,setembro/2026
+São Paulo,Vila Ema,casa,venda,4633.3,3724.2,6075.0,90,,setembro/2026
 São Paulo,Vila Esperança,casa,venda,5093.8,4296.0,6061.8,22,,setembro/2026
 São Paulo,Vila Ester,casa,venda,5840.1,5405.0,7541.7,10,,setembro/2026
 São Paulo,Vila Fachini,casa,venda,3963.4,3396.6,5215.0,62,,setembro/2026
 São Paulo,Vila Fernandes,casa,venda,4940.7,3348.7,5272.5,7,,setembro/2026
 São Paulo,Vila Firmiano Pinto,casa,venda,6450.0,5019.4,8250.0,23,,setembro/2026
-São Paulo,Vila Formosa,casa,venda,5350.6,3955.6,6767.0,220,5.85,setembro/2026
-São Paulo,Vila Formosa,casa,aluguel,26.1,20.2,33.6,24,5.85,setembro/2026
+São Paulo,Vila Formosa,casa,venda,5329.6,3952.9,6708.3,223,5.88,setembro/2026
+São Paulo,Vila Formosa,casa,aluguel,26.1,20.2,33.6,24,5.88,setembro/2026
 São Paulo,Vila Gomes,casa,venda,5583.3,5332.3,7074.7,11,,setembro/2026
 São Paulo,Vila Gomes Cardim,casa,venda,7282.4,5889.7,9010.4,52,6.79,setembro/2026
 São Paulo,Vila Gomes Cardim,casa,aluguel,41.2,28.4,53.2,21,6.79,setembro/2026
@@ -847,7 +849,7 @@ São Paulo,Vila Guarani,casa,venda,5731.5,4656.2,6114.0,9,,setembro/2026
 São Paulo,Vila Guarani (Zona Sul),casa,venda,5333.3,4247.6,6596.1,59,8.51,setembro/2026
 São Paulo,Vila Guarani (Zona Sul),casa,aluguel,37.8,33.6,39.0,5,8.51,setembro/2026
 São Paulo,Vila Guilherme,casa,venda,6802.4,4769.5,7656.0,20,,setembro/2026
-São Paulo,Vila Guilhermina,casa,venda,6134.5,5588.2,7310.9,17,,setembro/2026
+São Paulo,Vila Guilhermina,casa,venda,6081.4,5441.7,7240.0,18,,setembro/2026
 São Paulo,Vila Gumercindo,casa,venda,5722.2,4818.4,7998.9,74,6.48,setembro/2026
 São Paulo,Vila Gumercindo,casa,aluguel,30.9,25.2,56.0,8,6.48,setembro/2026
 São Paulo,Vila Gustavo,casa,venda,5582.4,4478.0,6553.3,12,,setembro/2026
@@ -865,39 +867,39 @@ São Paulo,Vila Jacuí,casa,venda,6050.0,3825.4,6208.5,7,,setembro/2026
 São Paulo,Vila Jaguara,casa,venda,2752.3,2697.3,5642.9,5,,setembro/2026
 São Paulo,Vila Libanesa,casa,venda,4711.2,3314.7,7461.4,6,,setembro/2026
 São Paulo,Vila Lúcia,casa,venda,4475.0,3842.5,5997.8,7,,setembro/2026
-São Paulo,Vila Madalena,casa,venda,10568.1,7968.2,13500.2,62,4.51,setembro/2026
-São Paulo,Vila Madalena,casa,aluguel,39.7,39.0,51.7,6,4.51,setembro/2026
+São Paulo,Vila Madalena,casa,venda,10421.8,7765.0,13429.1,63,4.57,setembro/2026
+São Paulo,Vila Madalena,casa,aluguel,39.7,39.0,51.7,6,4.57,setembro/2026
 São Paulo,Vila Mafra,casa,venda,5749.8,4050.0,6832.0,18,,setembro/2026
 São Paulo,Vila Marari,casa,venda,4739.1,3644.4,6068.2,16,,setembro/2026
 São Paulo,Vila Margarida,casa,venda,4494.4,2820.5,5927.4,5,,setembro/2026
 São Paulo,Vila Maria Alta,casa,venda,6251.1,4541.1,6875.4,10,,setembro/2026
-São Paulo,Vila Mariana,casa,venda,8653.6,6663.0,11048.1,322,5.87,setembro/2026
+São Paulo,Vila Mariana,casa,venda,8653.6,6649.9,11058.0,324,5.87,setembro/2026
 São Paulo,Vila Mariana,casa,aluguel,42.3,35.4,53.3,110,5.87,setembro/2026
 São Paulo,Vila Marieta,casa,venda,3625.0,3250.0,4805.4,7,,setembro/2026
 São Paulo,Vila Mascote,casa,venda,5530.1,4489.6,7567.6,12,8.14,setembro/2026
 São Paulo,Vila Mascote,casa,aluguel,37.5,32.9,43.3,5,8.14,setembro/2026
-São Paulo,Vila Matilde,casa,venda,4850.3,3973.9,5886.1,54,,setembro/2026
+São Paulo,Vila Matilde,casa,venda,4850.3,3977.8,5957.6,56,,setembro/2026
 São Paulo,Vila Mazzei,casa,venda,4940.7,4012.3,6100.0,81,,setembro/2026
 São Paulo,Vila Medeiros,casa,venda,4510.5,3590.1,5630.0,18,,setembro/2026
 São Paulo,Vila Mirante,casa,venda,5436.9,5399.6,6085.7,5,,setembro/2026
 São Paulo,Vila Moinho Velho,casa,venda,5575.2,4502.8,6398.0,34,,setembro/2026
 São Paulo,Vila Monte Alegre,casa,venda,5750.0,4866.7,7487.4,9,,setembro/2026
-São Paulo,Vila Monumento,casa,venda,5000.0,4176.7,6590.5,67,7.46,setembro/2026
+São Paulo,Vila Monumento,casa,venda,5000.0,4152.8,6581.6,68,7.46,setembro/2026
 São Paulo,Vila Monumento,casa,aluguel,31.1,25.9,42.7,10,7.46,setembro/2026
 São Paulo,Vila Moraes,casa,venda,4690.3,3526.4,5849.6,54,,setembro/2026
 São Paulo,Vila Moreira,casa,venda,6790.0,5500.0,6875.0,5,,setembro/2026
 São Paulo,Vila Morumbi,casa,venda,11500.0,9938.3,12214.8,7,,setembro/2026
 São Paulo,Vila Nair,casa,venda,5436.2,4427.1,6719.4,17,,setembro/2026
-São Paulo,Vila Nhocune,casa,venda,4666.7,3933.3,6255.8,13,,setembro/2026
+São Paulo,Vila Nhocune,casa,venda,4533.3,3927.3,6191.6,14,,setembro/2026
 São Paulo,Vila Nivi,casa,venda,8500.0,5888.9,8750.0,9,,setembro/2026
 São Paulo,Vila Nova,casa,venda,3508.8,3500.0,5357.1,5,,setembro/2026
 São Paulo,Vila Nova Caledônia,casa,venda,6956.5,5967.4,7866.3,5,,setembro/2026
-São Paulo,Vila Nova Conceição,casa,venda,18994.4,15600.0,21875.0,21,,setembro/2026
+São Paulo,Vila Nova Conceição,casa,venda,18769.9,15150.0,21725.4,22,,setembro/2026
 São Paulo,Vila Nova Jaraguá,casa,venda,2960.0,2580.0,3200.0,5,,setembro/2026
 São Paulo,Vila Nova Manchester,casa,venda,4240.8,3133.3,5000.0,13,,setembro/2026
 São Paulo,Vila Nova Mazzei,casa,venda,4957.3,4195.2,5785.7,31,,setembro/2026
 São Paulo,Vila Olímpia,casa,venda,11017.2,8517.9,15887.4,24,,setembro/2026
-São Paulo,Vila Olinda,casa,venda,5392.3,4419.9,5881.8,10,,setembro/2026
+São Paulo,Vila Olinda,casa,venda,5102.7,4313.0,5854.5,11,,setembro/2026
 São Paulo,Vila Oratório,casa,venda,4858.8,3464.8,5257.2,6,,setembro/2026
 São Paulo,Vila Paranaguá,casa,venda,4487.8,3839.3,6351.7,14,,setembro/2026
 São Paulo,Vila Parque Jabaquara,casa,venda,3864.7,3689.9,5131.0,11,,setembro/2026
@@ -910,11 +912,11 @@ São Paulo,Vila Pompeia,casa,venda,6666.7,5646.3,7418.5,7,,setembro/2026
 São Paulo,Vila Primavera,casa,venda,4192.0,3276.3,5120.1,15,,setembro/2026
 São Paulo,Vila Princesa Isabel,casa,aluguel,18.1,15.0,19.0,5,,setembro/2026
 São Paulo,Vila Progresso (Zona Norte),casa,venda,4978.6,2736.1,6526.7,14,,setembro/2026
-São Paulo,Vila Prudente,casa,venda,6614.8,6426.9,9122.6,7,,setembro/2026
+São Paulo,Vila Prudente,casa,venda,7257.3,6395.2,8988.6,14,,setembro/2026
 São Paulo,Vila Prudente (Zona Leste),casa,venda,5630.7,4486.1,6630.4,52,,setembro/2026
 São Paulo,Vila Ré,casa,venda,5616.4,4578.8,6365.8,35,,setembro/2026
-São Paulo,Vila Regente Feijó,casa,venda,5888.9,4885.1,7509.8,51,6.72,setembro/2026
-São Paulo,Vila Regente Feijó,casa,aluguel,33.0,22.8,38.5,18,6.72,setembro/2026
+São Paulo,Vila Regente Feijó,casa,venda,5888.9,4885.1,7509.8,51,7.23,setembro/2026
+São Paulo,Vila Regente Feijó,casa,aluguel,35.5,23.1,38.2,19,7.23,setembro/2026
 São Paulo,Vila Rica,casa,venda,2693.9,2333.3,3708.8,7,,setembro/2026
 São Paulo,Vila Romero,casa,venda,6344.1,4280.4,7392.6,11,,setembro/2026
 São Paulo,Vila Rosa,casa,venda,4524.5,3652.3,5565.3,6,,setembro/2026
@@ -945,8 +947,8 @@ São Paulo,Água Branca,apartamento,venda,12387.4,9569.5,15902.8,50,5.65,setembr
 São Paulo,Água Branca,apartamento,aluguel,58.3,51.7,88.4,19,5.65,setembro/2026
 São Paulo,Água Fria,apartamento,venda,8578.2,7038.8,10015.4,80,8.63,setembro/2026
 São Paulo,Água Fria,apartamento,aluguel,61.7,50.3,62.2,6,8.63,setembro/2026
-São Paulo,Água Rasa,apartamento,venda,9615.4,8338.4,11091.5,15,5.25,setembro/2026
-São Paulo,Água Rasa,apartamento,aluguel,42.1,34.1,63.6,10,5.25,setembro/2026
+São Paulo,Água Rasa,apartamento,venda,9646.4,8351.0,11008.7,16,5.24,setembro/2026
+São Paulo,Água Rasa,apartamento,aluguel,42.1,34.1,63.6,10,5.24,setembro/2026
 São Paulo,Alto da Boa Vista,apartamento,venda,11416.0,8759.2,13038.6,28,4.89,setembro/2026
 São Paulo,Alto da Boa Vista,apartamento,aluguel,46.5,24.0,82.2,17,4.89,setembro/2026
 São Paulo,Alto da Lapa,apartamento,venda,12628.6,9646.2,15233.7,38,5.82,setembro/2026
@@ -956,31 +958,31 @@ São Paulo,Alto da Mooca,apartamento,aluguel,64.7,46.7,80.8,11,7.25,setembro/202
 São Paulo,Alto de Pinheiros,apartamento,venda,14736.8,10878.4,21138.4,51,5.26,setembro/2026
 São Paulo,Alto de Pinheiros,apartamento,aluguel,64.6,39.8,95.6,12,5.26,setembro/2026
 São Paulo,Alto de Santana,apartamento,venda,7700.0,6818.2,8520.8,12,,setembro/2026
-São Paulo,Alto do Ipiranga,apartamento,venda,12720.0,10918.7,13627.9,31,5.75,setembro/2026
-São Paulo,Alto do Ipiranga,apartamento,aluguel,61.0,49.9,76.2,12,5.75,setembro/2026
+São Paulo,Alto do Ipiranga,apartamento,venda,12664.3,10803.1,13614.0,32,5.78,setembro/2026
+São Paulo,Alto do Ipiranga,apartamento,aluguel,61.0,49.9,76.2,12,5.78,setembro/2026
 São Paulo,Alto do Pari,apartamento,venda,8653.8,7307.7,9500.0,13,,setembro/2026
 São Paulo,Americanópolis,apartamento,venda,6722.0,6022.7,7027.0,5,,setembro/2026
-São Paulo,Anália Franco,apartamento,venda,11586.3,9017.9,15344.7,98,8.03,setembro/2026
-São Paulo,Anália Franco,apartamento,aluguel,77.5,64.7,96.6,16,8.03,setembro/2026
-São Paulo,Aricanduva,apartamento,venda,6888.9,5914.9,8285.7,21,,setembro/2026
+São Paulo,Anália Franco,apartamento,venda,11521.7,8919.0,15322.4,99,8.07,setembro/2026
+São Paulo,Anália Franco,apartamento,aluguel,77.5,64.7,96.6,16,8.07,setembro/2026
+São Paulo,Aricanduva,apartamento,venda,6944.4,6036.2,8279.7,22,,setembro/2026
 São Paulo,Artur Alvim,apartamento,venda,6048.8,4866.7,6498.9,17,7.26,setembro/2026
 São Paulo,Artur Alvim,apartamento,aluguel,36.6,25.5,48.6,8,7.26,setembro/2026
-São Paulo,Barra Funda,apartamento,venda,11585.6,9324.4,12664.1,52,7.29,setembro/2026
-São Paulo,Barra Funda,apartamento,aluguel,70.4,63.1,82.9,13,7.29,setembro/2026
+São Paulo,Barra Funda,apartamento,venda,11632.7,9344.3,12878.8,53,7.61,setembro/2026
+São Paulo,Barra Funda,apartamento,aluguel,73.8,63.3,84.6,14,7.61,setembro/2026
 São Paulo,Barro Branco (Zona Norte),apartamento,aluguel,46.5,34.2,47.1,5,,setembro/2026
 São Paulo,Bela Aliança,apartamento,venda,10639.2,9262.7,14065.9,11,5.96,setembro/2026
 São Paulo,Bela Aliança,apartamento,aluguel,52.8,44.8,55.9,10,5.96,setembro/2026
-São Paulo,Bela Vista,apartamento,venda,9493.7,7500.0,12830.2,581,7.95,setembro/2026
-São Paulo,Bela Vista,apartamento,aluguel,62.9,43.2,83.3,105,7.95,setembro/2026
-São Paulo,Belém,apartamento,venda,10407.9,9143.7,12793.9,34,6.92,setembro/2026
-São Paulo,Belém,apartamento,aluguel,60.0,52.6,70.3,15,6.92,setembro/2026
-São Paulo,Belenzinho,apartamento,venda,9750.0,7936.5,12614.7,41,9.23,setembro/2026
-São Paulo,Belenzinho,apartamento,aluguel,75.0,57.0,91.8,11,9.23,setembro/2026
+São Paulo,Bela Vista,apartamento,venda,9496.8,7500.0,12860.7,580,8.04,setembro/2026
+São Paulo,Bela Vista,apartamento,aluguel,63.6,43.4,83.8,107,8.04,setembro/2026
+São Paulo,Belém,apartamento,venda,10394.7,9126.8,12640.4,35,6.93,setembro/2026
+São Paulo,Belém,apartamento,aluguel,60.0,52.6,70.3,15,6.93,setembro/2026
+São Paulo,Belenzinho,apartamento,venda,9750.0,7949.7,12250.0,47,9.23,setembro/2026
+São Paulo,Belenzinho,apartamento,aluguel,75.0,57.9,88.0,13,9.23,setembro/2026
 São Paulo,Bom Retiro,apartamento,venda,5740.4,4098.8,6581.4,12,,setembro/2026
 São Paulo,Bosque da Saúde,apartamento,venda,9191.2,7857.1,10862.5,89,5.73,setembro/2026
 São Paulo,Bosque da Saúde,apartamento,aluguel,43.9,38.0,54.2,15,5.73,setembro/2026
-São Paulo,Brás,apartamento,venda,8055.6,6428.6,9807.0,57,8.79,setembro/2026
-São Paulo,Brás,apartamento,aluguel,59.0,45.4,67.1,12,8.79,setembro/2026
+São Paulo,Brás,apartamento,venda,8300.0,6516.2,10083.3,60,8.53,setembro/2026
+São Paulo,Brás,apartamento,aluguel,59.0,45.4,67.1,12,8.53,setembro/2026
 São Paulo,Brasilândia,apartamento,venda,7161.6,5126.4,8291.9,6,,setembro/2026
 São Paulo,Bresser,apartamento,venda,8560.7,6509.5,9149.7,7,,setembro/2026
 São Paulo,Brooklin,apartamento,venda,14582.8,11234.3,18235.8,183,7.68,setembro/2026
@@ -992,12 +994,12 @@ São Paulo,Brooklin Paulista,apartamento,aluguel,81.7,66.3,106.3,54,7.07,setembr
 São Paulo,Burgo Paulista,apartamento,aluguel,40.4,40.0,41.9,6,,setembro/2026
 São Paulo,Butantã,apartamento,venda,8914.7,6979.9,11799.9,240,9.48,setembro/2026
 São Paulo,Butantã,apartamento,aluguel,70.4,43.3,103.4,64,9.48,setembro/2026
-São Paulo,Cambuci,apartamento,venda,7983.9,6701.9,9726.0,203,7.29,setembro/2026
-São Paulo,Cambuci,apartamento,aluguel,48.5,43.8,56.0,15,7.29,setembro/2026
+São Paulo,Cambuci,apartamento,venda,7991.9,6704.6,9731.0,204,7.28,setembro/2026
+São Paulo,Cambuci,apartamento,aluguel,48.5,43.8,56.0,15,7.28,setembro/2026
 São Paulo,Campininha,apartamento,venda,8965.5,7954.5,10937.5,5,7.87,setembro/2026
 São Paulo,Campininha,apartamento,aluguel,58.8,54.2,67.3,6,7.87,setembro/2026
-São Paulo,Campo Belo,apartamento,venda,12412.6,9671.4,16788.4,376,6.68,setembro/2026
-São Paulo,Campo Belo,apartamento,aluguel,69.1,49.2,90.5,78,6.68,setembro/2026
+São Paulo,Campo Belo,apartamento,venda,12425.3,9680.0,16787.2,377,6.67,setembro/2026
+São Paulo,Campo Belo,apartamento,aluguel,69.1,49.2,90.5,78,6.67,setembro/2026
 São Paulo,Campo Grande,apartamento,venda,9592.6,7274.0,10674.3,6,6.22,setembro/2026
 São Paulo,Campo Grande,apartamento,aluguel,49.7,44.8,65.1,10,6.22,setembro/2026
 São Paulo,Campo Limpo,apartamento,venda,6734.2,5689.7,7058.8,5,6.34,setembro/2026
@@ -1009,17 +1011,17 @@ São Paulo,Cangaíba,apartamento,aluguel,30.3,28.0,32.6,7,6.0,setembro/2026
 São Paulo,Canindé,apartamento,venda,7111.1,6388.9,7545.2,7,,setembro/2026
 São Paulo,Carandiru,apartamento,venda,9500.0,8469.9,10800.8,8,6.33,setembro/2026
 São Paulo,Carandiru,apartamento,aluguel,50.1,42.5,64.3,8,6.33,setembro/2026
-São Paulo,Carrão,apartamento,venda,9895.0,8946.4,11829.9,8,,setembro/2026
+São Paulo,Carrão,apartamento,venda,9895.0,9180.4,11453.7,10,,setembro/2026
 São Paulo,Casa Verde,apartamento,venda,10054.5,7878.0,12361.1,35,4.86,setembro/2026
 São Paulo,Casa Verde,apartamento,aluguel,40.7,39.5,70.0,5,4.86,setembro/2026
 São Paulo,Casa Verde Alta,apartamento,venda,6000.0,5493.3,6490.7,7,,setembro/2026
 São Paulo,Casa Verde Baixa,apartamento,venda,8112.5,7138.8,8588.2,7,,setembro/2026
 São Paulo,Caxingui,apartamento,venda,10869.6,9471.3,11817.9,7,,setembro/2026
-São Paulo,Centro,apartamento,venda,8666.7,5791.7,11939.7,35,9.91,setembro/2026
-São Paulo,Centro,apartamento,aluguel,71.6,52.8,81.7,11,9.91,setembro/2026
+São Paulo,Centro,apartamento,venda,8666.7,5833.3,12500.0,37,9.58,setembro/2026
+São Paulo,Centro,apartamento,aluguel,69.2,52.0,78.4,12,9.58,setembro/2026
 São Paulo,Centro Histórico,apartamento,venda,11000.0,8056.7,12144.1,11,,setembro/2026
-São Paulo,Cerqueira César,apartamento,venda,15812.0,11393.9,22269.9,127,5.75,setembro/2026
-São Paulo,Cerqueira César,apartamento,aluguel,75.8,53.2,105.6,45,5.75,setembro/2026
+São Paulo,Cerqueira César,apartamento,venda,15834.2,11424.2,22495.1,128,5.74,setembro/2026
+São Paulo,Cerqueira César,apartamento,aluguel,75.8,53.2,105.6,45,5.74,setembro/2026
 São Paulo,Chácara Belenzinho,apartamento,venda,7058.8,6282.7,8716.8,23,7.65,setembro/2026
 São Paulo,Chácara Belenzinho,apartamento,aluguel,45.0,36.8,48.3,9,7.65,setembro/2026
 São Paulo,Chácara Califórnia,apartamento,venda,9107.1,7535.7,11681.5,79,7.1,setembro/2026
@@ -1104,8 +1106,8 @@ São Paulo,Conjunto Residencial José Bonifácio,apartamento,venda,4092.3,3872.2
 São Paulo,Conjunto Residencial José Bonifácio,apartamento,aluguel,27.1,23.4,45.1,11,7.95,setembro/2026
 São Paulo,Conjunto Residencial Morumbi,apartamento,venda,4936.9,4693.9,6341.5,5,7.41,setembro/2026
 São Paulo,Conjunto Residencial Morumbi,apartamento,aluguel,30.5,23.1,42.8,14,7.41,setembro/2026
-São Paulo,Consolação,apartamento,venda,13250.0,9311.8,16000.0,151,7.1,setembro/2026
-São Paulo,Consolação,apartamento,aluguel,78.4,64.8,92.6,40,7.1,setembro/2026
+São Paulo,Consolação,apartamento,venda,13250.0,9311.8,16000.0,151,7.25,setembro/2026
+São Paulo,Consolação,apartamento,aluguel,80.0,65.5,93.8,41,7.25,setembro/2026
 São Paulo,Cupecê,apartamento,aluguel,55.4,52.1,58.8,8,,setembro/2026
 São Paulo,Cursino,apartamento,venda,10319.1,8055.6,12176.2,15,6.78,setembro/2026
 São Paulo,Cursino,apartamento,aluguel,58.3,39.8,86.3,17,6.78,setembro/2026
@@ -1131,26 +1133,26 @@ São Paulo,Guaiaúna,apartamento,venda,9701.5,7462.7,9722.2,5,,setembro/2026
 São Paulo,Guapira,apartamento,venda,5239.7,3553.7,6180.1,10,,setembro/2026
 São Paulo,Guarapiranga,apartamento,venda,8340.4,7963.0,8507.5,5,,setembro/2026
 São Paulo,Guarujá,apartamento,venda,6166.7,4657.4,6798.2,6,,setembro/2026
-São Paulo,Higienópolis,apartamento,venda,12389.4,10057.5,14857.1,153,6.39,setembro/2026
-São Paulo,Higienópolis,apartamento,aluguel,66.0,40.0,83.0,31,6.39,setembro/2026
+São Paulo,Higienópolis,apartamento,venda,12408.3,10074.3,14859.1,154,6.38,setembro/2026
+São Paulo,Higienópolis,apartamento,aluguel,66.0,40.0,83.0,31,6.38,setembro/2026
 São Paulo,Horto do Ipê,apartamento,venda,6063.8,5897.4,7000.0,5,,setembro/2026
 São Paulo,Horto Florestal,apartamento,venda,9000.0,7846.2,9761.9,13,,setembro/2026
 São Paulo,Ibirapuera,apartamento,venda,20085.8,16249.5,23610.9,15,5.11,setembro/2026
 São Paulo,Ibirapuera,apartamento,aluguel,85.5,70.3,109.6,13,5.11,setembro/2026
 São Paulo,Imirim,apartamento,venda,7834.6,6974.1,9848.3,32,,setembro/2026
-São Paulo,Indianópolis,apartamento,venda,14444.4,12000.0,19623.2,141,6.78,setembro/2026
-São Paulo,Indianópolis,apartamento,aluguel,81.6,68.4,92.7,24,6.78,setembro/2026
+São Paulo,Indianópolis,apartamento,venda,14333.3,12000.0,19417.9,143,6.83,setembro/2026
+São Paulo,Indianópolis,apartamento,aluguel,81.6,68.4,92.7,24,6.83,setembro/2026
 São Paulo,Instituto de Previdência,apartamento,venda,10145.2,9434.9,11271.4,5,,setembro/2026
 São Paulo,Interlagos,apartamento,venda,9000.0,8253.8,10224.7,10,6.08,setembro/2026
 São Paulo,Interlagos,apartamento,aluguel,45.6,38.5,65.6,5,6.08,setembro/2026
-São Paulo,Ipiranga,apartamento,venda,10400.0,7727.3,12690.5,405,6.51,setembro/2026
-São Paulo,Ipiranga,apartamento,aluguel,56.4,37.5,70.4,60,6.51,setembro/2026
+São Paulo,Ipiranga,apartamento,venda,10388.0,7739.9,12682.8,406,6.52,setembro/2026
+São Paulo,Ipiranga,apartamento,aluguel,56.4,37.5,70.4,60,6.52,setembro/2026
 São Paulo,Itaim,apartamento,venda,16589.3,13938.4,20919.6,6,,setembro/2026
 São Paulo,Itaim Bibi,apartamento,venda,16602.6,13375.0,21812.8,186,6.29,setembro/2026
 São Paulo,Itaim Bibi,apartamento,aluguel,87.0,64.3,115.0,71,6.29,setembro/2026
 São Paulo,Itaim Paulista,apartamento,venda,4604.7,3336.9,4823.8,8,7.61,setembro/2026
 São Paulo,Itaim Paulista,apartamento,aluguel,29.2,25.3,33.0,7,7.61,setembro/2026
-São Paulo,Itaquera,apartamento,venda,6000.0,4766.2,7125.0,41,6.16,setembro/2026
+São Paulo,Itaquera,apartamento,venda,6000.0,4824.6,7114.2,42,6.16,setembro/2026
 São Paulo,Itaquera,apartamento,aluguel,30.8,23.5,39.3,8,6.16,setembro/2026
 São Paulo,Jabaquara,apartamento,venda,7087.1,6064.0,8478.3,120,8.69,setembro/2026
 São Paulo,Jabaquara,apartamento,aluguel,51.3,39.4,55.4,27,8.69,setembro/2026
@@ -1189,8 +1191,8 @@ São Paulo,Jardim Arize,apartamento,aluguel,45.8,41.0,46.2,5,8.31,setembro/2026
 São Paulo,Jardim Arpoador,apartamento,venda,8410.0,7086.5,10042.6,7,,setembro/2026
 São Paulo,Jardim Aurélia,apartamento,venda,15190.2,14103.9,17701.4,10,8.18,setembro/2026
 São Paulo,Jardim Aurélia,apartamento,aluguel,103.6,89.3,108.7,5,8.18,setembro/2026
-São Paulo,Jardim Avelino,apartamento,venda,8115.9,6051.9,12094.9,26,8.5,setembro/2026
-São Paulo,Jardim Avelino,apartamento,aluguel,57.5,51.7,61.3,8,8.5,setembro/2026
+São Paulo,Jardim Avelino,apartamento,venda,7971.0,6188.5,12047.0,27,8.66,setembro/2026
+São Paulo,Jardim Avelino,apartamento,aluguel,57.5,51.7,61.3,8,8.66,setembro/2026
 São Paulo,Jardim Beatriz,apartamento,aluguel,38.0,36.5,39.0,5,,setembro/2026
 São Paulo,Jardim Bela Vista (Zona Norte),apartamento,venda,7242.4,6308.8,10509.6,11,,setembro/2026
 São Paulo,Jardim Belaura,apartamento,venda,8730.2,7983.3,8888.9,5,,setembro/2026
@@ -1237,8 +1239,8 @@ São Paulo,Jardim da Saúde,apartamento,venda,7073.7,5312.5,9345.8,57,6.28,setem
 São Paulo,Jardim da Saúde,apartamento,aluguel,37.0,28.6,52.5,9,6.28,setembro/2026
 São Paulo,Jardim Dabril,apartamento,aluguel,37.1,36.0,38.7,7,,setembro/2026
 São Paulo,Jardim Danfer,apartamento,aluguel,34.5,32.6,36.0,5,,setembro/2026
-São Paulo,Jardim das Acácias,apartamento,venda,18000.0,15192.3,21255.1,113,7.24,setembro/2026
-São Paulo,Jardim das Acácias,apartamento,aluguel,108.6,95.7,126.9,14,7.24,setembro/2026
+São Paulo,Jardim das Acácias,apartamento,venda,17892.9,15173.1,21243.3,114,7.28,setembro/2026
+São Paulo,Jardim das Acácias,apartamento,aluguel,108.6,95.7,126.9,14,7.28,setembro/2026
 São Paulo,Jardim das Bandeiras,apartamento,venda,15875.0,15176.0,18657.6,7,,setembro/2026
 São Paulo,Jardim das Graças,apartamento,venda,7587.0,6410.3,8111.1,9,,setembro/2026
 São Paulo,Jardim das Perdizes,apartamento,venda,18513.2,15994.3,18951.1,8,5.23,setembro/2026
@@ -1270,7 +1272,7 @@ São Paulo,Jardim Germania,apartamento,aluguel,52.6,46.0,58.3,5,8.92,setembro/20
 São Paulo,Jardim Gilda Maria,apartamento,venda,4344.8,2639.5,5826.9,6,10.52,setembro/2026
 São Paulo,Jardim Gilda Maria,apartamento,aluguel,38.1,37.2,38.9,6,10.52,setembro/2026
 São Paulo,Jardim Glória,apartamento,venda,12561.3,7964.6,13653.9,8,,setembro/2026
-São Paulo,Jardim Guairaca,apartamento,venda,5465.0,5075.0,6056.9,8,,setembro/2026
+São Paulo,Jardim Guairaca,apartamento,venda,5545.5,5100.0,6060.6,9,,setembro/2026
 São Paulo,Jardim Guedala,apartamento,venda,15540.5,11608.3,17790.5,7,4.73,setembro/2026
 São Paulo,Jardim Guedala,apartamento,aluguel,61.2,55.0,110.0,5,4.73,setembro/2026
 São Paulo,Jardim Helena,apartamento,venda,6923.1,6000.0,7000.0,5,,setembro/2026
@@ -1283,7 +1285,7 @@ São Paulo,Jardim Imperador,apartamento,venda,5666.7,5600.0,5769.2,5,7.09,setemb
 São Paulo,Jardim Imperador,apartamento,aluguel,33.5,31.1,37.4,10,7.09,setembro/2026
 São Paulo,Jardim Imperador (Zona Leste),apartamento,venda,5322.6,5166.7,5427.9,5,,setembro/2026
 São Paulo,Jardim Imperador (Zona Sul),apartamento,venda,8091.3,5357.7,8438.3,6,,setembro/2026
-São Paulo,Jardim Independência,apartamento,venda,10156.2,8443.5,11622.7,23,,setembro/2026
+São Paulo,Jardim Independência,apartamento,venda,10234.4,8458.6,11532.5,24,,setembro/2026
 São Paulo,Jardim Independência (São Paulo),apartamento,venda,10491.8,9721.6,10871.7,6,,setembro/2026
 São Paulo,Jardim Íris,apartamento,venda,8065.2,7627.2,8367.9,11,7.11,setembro/2026
 São Paulo,Jardim Íris,apartamento,aluguel,47.8,38.0,52.3,17,7.11,setembro/2026
@@ -1361,8 +1363,8 @@ São Paulo,Jardim Parque Morumbi,apartamento,aluguel,48.3,38.3,56.3,11,9.48,sete
 São Paulo,Jardim Patente,apartamento,venda,4336.7,3678.2,4525.0,5,7.36,setembro/2026
 São Paulo,Jardim Patente,apartamento,aluguel,26.6,26.2,28.8,5,7.36,setembro/2026
 São Paulo,Jardim Patente Novo,apartamento,venda,5123.0,4671.9,5463.6,8,,setembro/2026
-São Paulo,Jardim Paulista,apartamento,venda,13800.0,11421.9,17280.9,402,5.7,setembro/2026
-São Paulo,Jardim Paulista,apartamento,aluguel,65.5,49.2,90.7,102,5.7,setembro/2026
+São Paulo,Jardim Paulista,apartamento,venda,13818.6,11465.7,17296.7,404,5.69,setembro/2026
+São Paulo,Jardim Paulista,apartamento,aluguel,65.5,49.2,90.7,102,5.69,setembro/2026
 São Paulo,Jardim Paulistano,apartamento,venda,18875.0,14504.2,26288.2,18,7.2,setembro/2026
 São Paulo,Jardim Paulistano,apartamento,aluguel,113.3,98.8,120.3,6,7.2,setembro/2026
 São Paulo,Jardim Paulo VI,apartamento,venda,19416.6,6551.7,20983.6,5,,setembro/2026
@@ -1402,7 +1404,7 @@ São Paulo,Jardim Santa Mônica,apartamento,aluguel,33.7,28.7,38.3,6,,setembro/2
 São Paulo,Jardim Santa Teresinha,apartamento,venda,7346.2,7021.3,8173.1,9,,setembro/2026
 São Paulo,Jardim Santa Terezinha,apartamento,venda,5562.5,5064.9,6487.9,22,6.86,setembro/2026
 São Paulo,Jardim Santa Terezinha,apartamento,aluguel,31.8,28.2,34.0,13,6.86,setembro/2026
-São Paulo,Jardim Santa Terezinha (Zona Leste),apartamento,venda,5312.5,5200.0,6607.0,5,,setembro/2026
+São Paulo,Jardim Santa Terezinha (Zona Leste),apartamento,venda,5200.0,4352.8,5959.7,7,,setembro/2026
 São Paulo,Jardim Santo Amaro,apartamento,venda,10000.0,6285.7,11530.4,17,4.24,setembro/2026
 São Paulo,Jardim Santo Amaro,apartamento,aluguel,35.3,23.0,72.7,10,4.24,setembro/2026
 São Paulo,Jardim Santo Antonio,apartamento,venda,6346.2,5089.6,7905.1,7,5.16,setembro/2026
@@ -1453,8 +1455,8 @@ São Paulo,Jardim Vilas Boas,apartamento,venda,4414.1,4098.2,5010.4,8,,setembro/
 São Paulo,Jardim Vista Linda,apartamento,aluguel,44.8,34.6,49.7,14,,setembro/2026
 São Paulo,Jardim Vitoria Regia,apartamento,venda,8617.9,8252.5,11480.6,6,6.31,setembro/2026
 São Paulo,Jardim Vitoria Regia,apartamento,aluguel,45.3,40.5,57.5,16,6.31,setembro/2026
-São Paulo,Jardins,apartamento,venda,15000.0,11777.8,18933.3,61,6.95,setembro/2026
-São Paulo,Jardins,apartamento,aluguel,86.9,73.4,121.0,15,6.95,setembro/2026
+São Paulo,Jardins,apartamento,venda,15030.1,11882.1,19967.7,62,6.94,setembro/2026
+São Paulo,Jardins,apartamento,aluguel,86.9,73.4,121.0,15,6.94,setembro/2026
 São Paulo,Jardins Recanto das Rosas,apartamento,venda,4634.1,4387.8,4878.0,5,,setembro/2026
 São Paulo,José Bonifácio,apartamento,venda,5595.2,5511.4,6250.0,9,6.24,setembro/2026
 São Paulo,José Bonifácio,apartamento,aluguel,29.1,22.3,34.2,15,6.24,setembro/2026
@@ -1469,7 +1471,7 @@ São Paulo,Lar,apartamento,venda,7957.5,7555.9,9099.2,6,7.28,setembro/2026
 São Paulo,Lar,apartamento,aluguel,48.3,43.2,51.5,15,7.28,setembro/2026
 São Paulo,Lauzane Paulista,apartamento,venda,9267.2,6500.0,10528.2,77,6.12,setembro/2026
 São Paulo,Lauzane Paulista,apartamento,aluguel,47.3,31.1,55.5,11,6.12,setembro/2026
-São Paulo,Liberdade,apartamento,venda,8214.3,7142.9,10105.9,65,8.63,setembro/2026
+São Paulo,Liberdade,apartamento,venda,8219.9,7166.4,10276.5,66,8.63,setembro/2026
 São Paulo,Liberdade,apartamento,aluguel,59.1,48.6,73.2,19,8.63,setembro/2026
 São Paulo,Limão,apartamento,venda,8160.0,7008.3,9292.9,15,,setembro/2026
 São Paulo,Limoeiro,apartamento,venda,5238.1,2935.9,5500.0,5,,setembro/2026
@@ -1487,8 +1489,8 @@ São Paulo,Moema,apartamento,aluguel,72.5,61.3,102.1,92,6.13,setembro/2026
 São Paulo,Moema Índios,apartamento,venda,12662.3,10535.7,15000.0,17,,setembro/2026
 São Paulo,Moema Pássaros,apartamento,venda,14133.3,11816.7,21035.6,17,,setembro/2026
 São Paulo,Moinho Velho,apartamento,venda,7041.2,6456.0,7788.1,10,,setembro/2026
-São Paulo,Mooca,apartamento,venda,9205.7,7059.7,11444.4,174,6.67,setembro/2026
-São Paulo,Mooca,apartamento,aluguel,51.2,40.3,69.2,23,6.67,setembro/2026
+São Paulo,Mooca,apartamento,venda,9751.9,7253.4,11922.0,250,6.3,setembro/2026
+São Paulo,Mooca,apartamento,aluguel,51.2,47.8,64.6,31,6.3,setembro/2026
 São Paulo,Morro dos Ingleses,apartamento,venda,9335.9,7595.2,13489.1,21,5.46,setembro/2026
 São Paulo,Morro dos Ingleses,apartamento,aluguel,42.5,22.6,60.4,19,5.46,setembro/2026
 São Paulo,Morumbi,apartamento,venda,7619.4,5282.9,9252.4,84,7.7,setembro/2026
@@ -1524,8 +1526,8 @@ São Paulo,Parque Colonial,apartamento,venda,14551.1,10739.1,15393.5,7,7.83,sete
 São Paulo,Parque Colonial,apartamento,aluguel,95.0,68.6,100.6,5,7.83,setembro/2026
 São Paulo,Parque da Mooca,apartamento,venda,8909.3,7702.9,12901.8,38,7.14,setembro/2026
 São Paulo,Parque da Mooca,apartamento,aluguel,53.0,48.2,56.4,13,7.14,setembro/2026
-São Paulo,Parque da Vila Prudente,apartamento,venda,10407.0,7209.3,11256.3,9,5.73,setembro/2026
-São Paulo,Parque da Vila Prudente,apartamento,aluguel,49.7,46.8,50.9,6,5.73,setembro/2026
+São Paulo,Parque da Vila Prudente,apartamento,venda,10407.0,7209.3,11256.3,9,5.77,setembro/2026
+São Paulo,Parque da Vila Prudente,apartamento,aluguel,50.0,47.7,50.6,7,5.77,setembro/2026
 São Paulo,Parque das Paineiras,apartamento,venda,5904.4,5461.8,6056.9,10,,setembro/2026
 São Paulo,Parque do Carmo,apartamento,aluguel,26.9,25.6,32.5,9,,setembro/2026
 São Paulo,Parque do Morumbi,apartamento,venda,11748.3,10705.6,12650.0,7,7.74,setembro/2026
@@ -1564,24 +1566,24 @@ São Paulo,Parque Residencial Julia,apartamento,aluguel,44.6,41.7,50.4,9,6.15,se
 São Paulo,Parque Santa Cecília,apartamento,venda,9200.0,7423.8,12379.0,19,7.7,setembro/2026
 São Paulo,Parque Santa Cecília,apartamento,aluguel,59.0,42.1,84.1,11,7.7,setembro/2026
 São Paulo,Parque Santa Rita,apartamento,aluguel,32.9,28.0,36.2,12,,setembro/2026
-São Paulo,Parque São Domingos,apartamento,venda,8820.2,8339.5,9458.1,6,,setembro/2026
+São Paulo,Parque São Domingos,apartamento,venda,9032.3,8429.1,10036.8,7,,setembro/2026
 São Paulo,Parque São Jorge,apartamento,venda,11602.6,9852.5,13272.1,68,7.3,setembro/2026
 São Paulo,Parque São Jorge,apartamento,aluguel,70.6,61.1,83.3,12,7.3,setembro/2026
 São Paulo,Parque São Lourenço,apartamento,venda,5207.8,4528.0,5555.6,14,,setembro/2026
-São Paulo,Parque São Lucas,apartamento,venda,7133.6,6404.1,8181.1,44,7.3,setembro/2026
-São Paulo,Parque São Lucas,apartamento,aluguel,43.4,40.6,46.9,9,7.3,setembro/2026
+São Paulo,Parque São Lucas,apartamento,venda,7162.2,6405.5,8108.1,45,7.27,setembro/2026
+São Paulo,Parque São Lucas,apartamento,aluguel,43.4,40.6,46.9,9,7.27,setembro/2026
 São Paulo,Parque São Luís,apartamento,aluguel,32.7,28.3,33.7,7,,setembro/2026
 São Paulo,Parque Tomas Saraiva,apartamento,venda,5294.1,4315.1,6198.3,5,,setembro/2026
 São Paulo,Parque Vitória,apartamento,aluguel,58.1,51.6,59.5,11,,setembro/2026
 São Paulo,Patriarca,apartamento,venda,7900.0,7007.2,8493.4,14,,setembro/2026
 São Paulo,Pedreira,apartamento,aluguel,36.0,23.2,47.9,7,,setembro/2026
-São Paulo,Penha,apartamento,venda,6101.7,5576.9,7880.0,9,8.24,setembro/2026
-São Paulo,Penha,apartamento,aluguel,41.9,37.7,44.0,6,8.24,setembro/2026
+São Paulo,Penha,apartamento,venda,6465.5,5752.3,7630.4,12,7.78,setembro/2026
+São Paulo,Penha,apartamento,aluguel,41.9,37.7,44.0,6,7.78,setembro/2026
 São Paulo,Penha de França,apartamento,venda,7072.6,6333.3,8015.2,61,6.91,setembro/2026
 São Paulo,Penha de França,apartamento,aluguel,40.7,35.2,51.8,18,6.91,setembro/2026
-São Paulo,Perdizes,apartamento,venda,13333.3,9780.3,17927.2,203,6.24,setembro/2026
-São Paulo,Perdizes,apartamento,aluguel,69.3,44.0,105.8,42,6.24,setembro/2026
-São Paulo,Pinheiros,apartamento,venda,15000.0,11293.1,19970.2,259,6.85,setembro/2026
+São Paulo,Perdizes,apartamento,venda,13250.0,9795.9,17926.8,205,6.28,setembro/2026
+São Paulo,Perdizes,apartamento,aluguel,69.3,44.0,105.8,42,6.28,setembro/2026
+São Paulo,Pinheiros,apartamento,venda,15000.0,11328.5,20000.0,261,6.85,setembro/2026
 São Paulo,Pinheiros,apartamento,aluguel,85.6,62.3,118.2,89,6.85,setembro/2026
 São Paulo,Piqueri,apartamento,venda,6253.5,4826.9,6695.7,6,6.77,setembro/2026
 São Paulo,Piqueri,apartamento,aluguel,35.3,26.6,41.7,7,6.77,setembro/2026
@@ -1600,16 +1602,16 @@ São Paulo,Quarta Parada,apartamento,aluguel,58.8,46.7,84.0,5,5.37,setembro/2026
 São Paulo,Quinta da Paineira,apartamento,venda,7514.3,6231.4,8909.3,8,,setembro/2026
 São Paulo,Real Parque,apartamento,venda,7663.0,6234.9,12388.3,42,7.47,setembro/2026
 São Paulo,Real Parque,apartamento,aluguel,47.7,28.4,61.0,6,7.47,setembro/2026
-São Paulo,República,apartamento,venda,8421.1,6342.9,11533.3,35,8.22,setembro/2026
-São Paulo,República,apartamento,aluguel,57.7,47.9,72.8,8,8.22,setembro/2026
-São Paulo,Sacomã,apartamento,venda,7378.4,6122.4,9238.8,65,6.93,setembro/2026
-São Paulo,Sacomã,apartamento,aluguel,42.6,37.5,49.2,18,6.93,setembro/2026
+São Paulo,República,apartamento,venda,8421.1,6342.9,11533.3,35,8.86,setembro/2026
+São Paulo,República,apartamento,aluguel,62.2,50.0,84.5,9,8.86,setembro/2026
+São Paulo,Sacomã,apartamento,venda,7309.9,6093.1,9179.1,66,6.99,setembro/2026
+São Paulo,Sacomã,apartamento,aluguel,42.6,37.5,49.2,18,6.99,setembro/2026
 São Paulo,Santa Cecília,apartamento,venda,10524.6,8444.0,12682.7,82,5.13,setembro/2026
 São Paulo,Santa Cecília,apartamento,aluguel,45.0,42.2,68.6,13,5.13,setembro/2026
 São Paulo,Santa Efigênia,apartamento,venda,8139.6,5642.1,11149.9,8,,setembro/2026
 São Paulo,Santa Teresinha,apartamento,venda,11044.8,8306.7,14808.2,99,,setembro/2026
-São Paulo,Santana,apartamento,venda,10226.3,7594.1,13325.7,362,7.83,setembro/2026
-São Paulo,Santana,apartamento,aluguel,66.7,40.5,74.9,51,7.83,setembro/2026
+São Paulo,Santana,apartamento,venda,10294.1,7599.0,13318.0,363,7.78,setembro/2026
+São Paulo,Santana,apartamento,aluguel,66.7,40.5,74.9,51,7.78,setembro/2026
 São Paulo,Santo Amaro,apartamento,venda,10834.6,7817.6,13049.1,168,8.14,setembro/2026
 São Paulo,Santo Amaro,apartamento,aluguel,73.5,54.0,90.6,44,8.14,setembro/2026
 São Paulo,São João Clímaco,apartamento,venda,5414.0,5163.1,5722.3,7,,setembro/2026
@@ -1619,9 +1621,10 @@ São Paulo,São Lucas,apartamento,venda,6090.9,5079.4,6465.5,9,,setembro/2026
 São Paulo,São Mateus,apartamento,venda,5780.6,5394.0,6181.8,6,,setembro/2026
 São Paulo,São Miguel Paulista,apartamento,venda,5617.2,4172.5,6808.4,26,6.28,setembro/2026
 São Paulo,São Miguel Paulista,apartamento,aluguel,29.4,27.8,34.9,5,6.28,setembro/2026
-São Paulo,Sapopemba,apartamento,aluguel,43.9,41.9,48.2,9,,setembro/2026
-São Paulo,Saúde,apartamento,venda,9847.9,7559.5,12268.2,252,6.79,setembro/2026
-São Paulo,Saúde,apartamento,aluguel,55.7,43.5,78.1,29,6.79,setembro/2026
+São Paulo,Sapopemba,apartamento,venda,5892.9,5623.2,7142.9,5,8.94,setembro/2026
+São Paulo,Sapopemba,apartamento,aluguel,43.9,41.9,48.2,9,8.94,setembro/2026
+São Paulo,Saúde,apartamento,venda,9857.1,7571.4,12262.3,253,6.78,setembro/2026
+São Paulo,Saúde,apartamento,aluguel,55.7,43.5,78.1,29,6.78,setembro/2026
 São Paulo,Sé,apartamento,venda,7203.7,6199.1,7496.8,8,,setembro/2026
 São Paulo,Sítio da Figueira,apartamento,venda,8617.0,6730.8,9259.3,9,,setembro/2026
 São Paulo,Sítio do Mandaqui,apartamento,venda,6140.4,5961.5,6666.7,5,,setembro/2026
@@ -1632,8 +1635,8 @@ São Paulo,Sumaré,apartamento,venda,12188.4,10417.7,16169.4,32,4.94,setembro/20
 São Paulo,Sumaré,apartamento,aluguel,50.2,44.7,83.9,7,4.94,setembro/2026
 São Paulo,Sumarezinho,apartamento,venda,13636.8,11159.6,18399.2,24,8.8,setembro/2026
 São Paulo,Sumarezinho,apartamento,aluguel,100.0,96.2,127.3,9,8.8,setembro/2026
-São Paulo,Tatuapé,apartamento,venda,10890.8,8500.9,13616.4,772,7.02,setembro/2026
-São Paulo,Tatuapé,apartamento,aluguel,63.7,50.4,77.4,158,7.02,setembro/2026
+São Paulo,Tatuapé,apartamento,venda,10877.1,8480.3,13587.4,776,7.04,setembro/2026
+São Paulo,Tatuapé,apartamento,aluguel,63.8,50.9,77.8,159,7.04,setembro/2026
 São Paulo,Tremembé,apartamento,venda,7357.3,6117.3,9668.8,18,,setembro/2026
 São Paulo,Tucuruvi,apartamento,venda,9512.2,7473.7,11457.1,105,7.23,setembro/2026
 São Paulo,Tucuruvi,apartamento,aluguel,57.3,45.8,87.6,15,7.23,setembro/2026
@@ -1659,7 +1662,7 @@ São Paulo,Vila Aricanduva,apartamento,venda,7148.2,6500.0,7545.2,14,,setembro/2
 São Paulo,Vila Aurora (Zona Norte),apartamento,venda,7183.1,6396.1,8214.3,11,,setembro/2026
 São Paulo,Vila Azevedo,apartamento,venda,9571.4,8099.2,10593.1,19,,setembro/2026
 São Paulo,Vila Baruel,apartamento,venda,15681.9,15681.9,16897.4,5,,setembro/2026
-São Paulo,Vila Bela,apartamento,venda,7538.5,7200.0,7826.1,17,,setembro/2026
+São Paulo,Vila Bela,apartamento,venda,7569.2,7222.1,7814.0,18,,setembro/2026
 São Paulo,Vila Bela Vista (Zona Norte),apartamento,venda,6020.4,5775.1,6383.0,5,,setembro/2026
 São Paulo,Vila Bertioga,apartamento,venda,10500.0,8873.1,11368.6,15,,setembro/2026
 São Paulo,Vila Brasilina,apartamento,venda,7142.9,6415.1,9233.7,7,,setembro/2026
@@ -1704,16 +1707,16 @@ São Paulo,Vila Dom Pedro I,apartamento,venda,10272.7,8212.3,11904.4,55,6.67,set
 São Paulo,Vila Dom Pedro I,apartamento,aluguel,57.1,42.9,67.3,7,6.67,setembro/2026
 São Paulo,Vila Dom Pedro II,apartamento,venda,8616.1,8072.4,9493.2,22,7.41,setembro/2026
 São Paulo,Vila Dom Pedro II,apartamento,aluguel,53.2,47.9,57.9,9,7.41,setembro/2026
-São Paulo,Vila Ema,apartamento,venda,6927.6,6097.5,8514.4,90,7.71,setembro/2026
-São Paulo,Vila Ema,apartamento,aluguel,44.5,37.1,50.0,27,7.71,setembro/2026
+São Paulo,Vila Ema,apartamento,venda,7001.6,6131.4,8622.9,94,7.63,setembro/2026
+São Paulo,Vila Ema,apartamento,aluguel,44.5,37.1,50.0,27,7.63,setembro/2026
 São Paulo,Vila Esperança,apartamento,venda,8142.9,7184.2,9444.4,29,7.0,setembro/2026
 São Paulo,Vila Esperança,apartamento,aluguel,47.5,44.9,54.2,8,7.0,setembro/2026
 São Paulo,Vila Ester (Zona Norte),apartamento,venda,14574.7,11513.9,17563.8,6,,setembro/2026
 São Paulo,Vila Fachini,apartamento,venda,5279.2,4748.0,6420.5,18,,setembro/2026
 São Paulo,Vila Firmiano Pinto,apartamento,venda,10386.4,8729.8,12527.5,71,7.68,setembro/2026
 São Paulo,Vila Firmiano Pinto,apartamento,aluguel,66.5,37.7,81.8,10,7.68,setembro/2026
-São Paulo,Vila Formosa,apartamento,venda,8693.2,6945.9,10645.4,192,6.07,setembro/2026
-São Paulo,Vila Formosa,apartamento,aluguel,44.0,32.0,64.3,33,6.07,setembro/2026
+São Paulo,Vila Formosa,apartamento,venda,8636.4,6946.4,10622.4,193,6.11,setembro/2026
+São Paulo,Vila Formosa,apartamento,aluguel,44.0,32.0,64.3,33,6.11,setembro/2026
 São Paulo,Vila Gertrudes,apartamento,venda,17000.0,15472.5,18343.8,24,8.24,setembro/2026
 São Paulo,Vila Gertrudes,apartamento,aluguel,116.7,89.9,129.0,9,8.24,setembro/2026
 São Paulo,Vila Gomes,apartamento,venda,9022.4,8473.0,10230.9,10,,setembro/2026
@@ -1727,13 +1730,13 @@ São Paulo,Vila Guarani (Zona Sul),apartamento,venda,9907.4,8134.7,11973.1,127,6
 São Paulo,Vila Guarani (Zona Sul),apartamento,aluguel,51.9,44.4,58.8,28,6.29,setembro/2026
 São Paulo,Vila Guilherme,apartamento,venda,8561.0,7459.1,10153.8,59,6.34,setembro/2026
 São Paulo,Vila Guilherme,apartamento,aluguel,45.2,38.6,51.2,22,6.34,setembro/2026
-São Paulo,Vila Guilhermina,apartamento,venda,7343.8,6341.5,8242.4,29,8.4,setembro/2026
-São Paulo,Vila Guilhermina,apartamento,aluguel,51.4,43.0,57.7,9,8.4,setembro/2026
+São Paulo,Vila Guilhermina,apartamento,venda,7387.8,6363.2,8237.4,30,8.35,setembro/2026
+São Paulo,Vila Guilhermina,apartamento,aluguel,51.4,43.0,57.7,9,8.35,setembro/2026
 São Paulo,Vila Gumercindo,apartamento,venda,9529.3,7969.0,11346.2,184,6.47,setembro/2026
 São Paulo,Vila Gumercindo,apartamento,aluguel,51.4,46.7,60.0,17,6.47,setembro/2026
 São Paulo,Vila Gustavo,apartamento,venda,8806.0,7156.8,10053.9,27,6.66,setembro/2026
 São Paulo,Vila Gustavo,apartamento,aluguel,48.9,46.5,58.1,5,6.66,setembro/2026
-São Paulo,Vila Independência,apartamento,venda,8818.2,7943.4,9564.8,15,,setembro/2026
+São Paulo,Vila Independência,apartamento,venda,8898.9,7999.5,9924.8,16,,setembro/2026
 São Paulo,Vila Indiana,apartamento,venda,9154.9,7666.7,9833.3,9,,setembro/2026
 São Paulo,Vila Industrial,apartamento,venda,6260.6,5547.0,7028.9,24,7.84,setembro/2026
 São Paulo,Vila Industrial,apartamento,aluguel,40.9,36.7,44.4,5,7.84,setembro/2026
@@ -1753,14 +1756,14 @@ São Paulo,Vila Jaraguá,apartamento,venda,5629.3,5065.6,6243.6,6,,setembro/2026
 São Paulo,Vila Leopoldina,apartamento,venda,13500.0,11126.6,15217.4,37,6.08,setembro/2026
 São Paulo,Vila Leopoldina,apartamento,aluguel,68.4,51.9,82.0,17,6.08,setembro/2026
 São Paulo,Vila Liviero,apartamento,venda,6833.3,6696.4,6851.9,5,,setembro/2026
-São Paulo,Vila Madalena,apartamento,venda,16741.9,13280.6,20084.0,80,6.41,setembro/2026
-São Paulo,Vila Madalena,apartamento,aluguel,89.4,69.6,100.1,27,6.41,setembro/2026
+São Paulo,Vila Madalena,apartamento,venda,16837.1,13302.8,20370.4,81,6.37,setembro/2026
+São Paulo,Vila Madalena,apartamento,aluguel,89.4,69.6,100.1,27,6.37,setembro/2026
 São Paulo,Vila Mangalot,apartamento,aluguel,35.4,31.8,38.1,8,,setembro/2026
 São Paulo,Vila Maria,apartamento,venda,9875.0,8200.0,12973.0,21,4.56,setembro/2026
 São Paulo,Vila Maria,apartamento,aluguel,37.5,26.4,45.0,13,4.56,setembro/2026
 São Paulo,Vila Maria Alta,apartamento,venda,8258.9,7250.0,10017.4,19,,setembro/2026
-São Paulo,Vila Mariana,apartamento,venda,12174.6,9515.1,16555.9,944,6.82,setembro/2026
-São Paulo,Vila Mariana,apartamento,aluguel,69.2,52.3,88.7,130,6.82,setembro/2026
+São Paulo,Vila Mariana,apartamento,venda,12187.5,9518.3,16568.4,947,6.81,setembro/2026
+São Paulo,Vila Mariana,apartamento,aluguel,69.2,52.3,88.7,130,6.81,setembro/2026
 São Paulo,Vila Marieta,apartamento,venda,5889.1,5450.8,6911.6,6,,setembro/2026
 São Paulo,Vila Mascote,apartamento,venda,9000.0,7130.3,10296.8,55,6.88,setembro/2026
 São Paulo,Vila Mascote,apartamento,aluguel,51.6,42.6,62.1,12,6.88,setembro/2026
@@ -1787,8 +1790,8 @@ São Paulo,Vila Nova Conceição,apartamento,aluguel,105.0,81.3,123.9,43,6.56,se
 São Paulo,Vila Nova Manchester,apartamento,venda,7205.9,6798.7,7780.2,8,,setembro/2026
 São Paulo,Vila Nova Mazzei,apartamento,venda,7616.3,6534.1,9341.2,14,,setembro/2026
 São Paulo,Vila Nova Savoia,apartamento,venda,7250.0,6578.9,7312.5,5,,setembro/2026
-São Paulo,Vila Olímpia,apartamento,venda,15441.2,12068.3,21285.7,165,7.89,setembro/2026
-São Paulo,Vila Olímpia,apartamento,aluguel,101.5,78.8,125.4,59,7.89,setembro/2026
+São Paulo,Vila Olímpia,apartamento,venda,15595.6,12072.1,21212.9,166,7.81,setembro/2026
+São Paulo,Vila Olímpia,apartamento,aluguel,101.5,78.8,125.4,59,7.81,setembro/2026
 São Paulo,Vila Oratório,apartamento,venda,7500.0,6677.6,8393.9,7,,setembro/2026
 São Paulo,Vila Paiva,apartamento,venda,8625.8,7639.4,10392.9,11,,setembro/2026
 São Paulo,Vila Palmeiras,apartamento,venda,8181.8,7462.7,9069.8,5,,setembro/2026
@@ -1806,15 +1809,15 @@ São Paulo,Vila Prel,apartamento,venda,7312.5,6708.5,8478.6,7,,setembro/2026
 São Paulo,Vila Princesa Isabel,apartamento,aluguel,27.5,26.5,33.3,7,,setembro/2026
 São Paulo,Vila Progredior,apartamento,venda,15250.0,10695.8,18427.8,15,,setembro/2026
 São Paulo,Vila Progresso,apartamento,aluguel,36.9,36.2,42.1,7,,setembro/2026
-São Paulo,Vila Prudente,apartamento,venda,8921.9,8006.1,10000.0,32,6.27,setembro/2026
-São Paulo,Vila Prudente,apartamento,aluguel,46.6,38.6,58.9,20,6.27,setembro/2026
+São Paulo,Vila Prudente,apartamento,venda,8921.9,7586.2,10811.8,46,6.43,setembro/2026
+São Paulo,Vila Prudente,apartamento,aluguel,47.8,40.6,59.2,24,6.43,setembro/2026
 São Paulo,Vila Prudente (Zona Leste),apartamento,venda,8846.2,7280.3,10708.1,119,7.33,setembro/2026
 São Paulo,Vila Prudente (Zona Leste),apartamento,aluguel,54.0,51.1,74.7,8,7.33,setembro/2026
 São Paulo,Vila Raquel,apartamento,venda,5238.1,4930.6,5760.6,10,,setembro/2026
 São Paulo,Vila Ré,apartamento,venda,7285.7,6611.1,8272.3,23,6.19,setembro/2026
 São Paulo,Vila Ré,apartamento,aluguel,37.6,32.4,47.1,8,6.19,setembro/2026
-São Paulo,Vila Regente Feijó,apartamento,venda,10662.9,8534.8,13609.0,236,5.96,setembro/2026
-São Paulo,Vila Regente Feijó,apartamento,aluguel,53.0,46.9,75.0,37,5.96,setembro/2026
+São Paulo,Vila Regente Feijó,apartamento,venda,10649.4,8552.4,13587.0,237,5.97,setembro/2026
+São Paulo,Vila Regente Feijó,apartamento,aluguel,53.0,46.9,75.0,37,5.97,setembro/2026
 São Paulo,Vila Romana,apartamento,venda,12912.9,9141.3,15034.1,32,7.35,setembro/2026
 São Paulo,Vila Romana,apartamento,aluguel,79.1,72.1,89.3,9,7.35,setembro/2026
 São Paulo,Vila Sabrina,apartamento,aluguel,37.3,30.0,46.9,5,,setembro/2026
@@ -1837,13 +1840,14 @@ São Paulo,Vila Suzana,apartamento,venda,6622.6,5399.6,7922.3,58,8.64,setembro/2
 São Paulo,Vila Suzana,apartamento,aluguel,47.7,38.9,56.2,16,8.64,setembro/2026
 São Paulo,Vila Talarico,apartamento,venda,6395.3,6347.8,6551.7,5,,setembro/2026
 São Paulo,Vila Tolstoi,apartamento,venda,8955.3,7971.0,9458.3,14,,setembro/2026
-São Paulo,Vila Uberabinha,apartamento,venda,20018.0,15767.6,23112.4,16,,setembro/2026
+São Paulo,Vila Uberabinha,apartamento,venda,19914.1,15745.3,22402.1,17,,setembro/2026
 São Paulo,Vila Vera,apartamento,venda,7500.0,6928.6,8134.3,21,,setembro/2026
 São Paulo,Vila Zelina,apartamento,venda,6568.4,6183.7,8035.7,17,,setembro/2026
 São Paulo,Vila Zilda,apartamento,venda,11994.8,9281.5,14163.3,6,,setembro/2026
 São Paulo,Vila Zilda (Tatuapé),apartamento,venda,11282.1,10310.1,12477.1,29,,setembro/2026
-São Paulo,Anália Franco,terreno,venda,4930.2,4893.4,5528.1,7,,setembro/2026
-São Paulo,Bosque da Saúde,terreno,venda,3666.7,3333.3,4504.5,9,,setembro/2026
+São Paulo,Anália Franco,terreno,venda,4916.1,4456.4,5417.1,8,,setembro/2026
+São Paulo,Bela Vista,terreno,venda,6730.2,6703.9,12412.2,5,,setembro/2026
+São Paulo,Bosque da Saúde,terreno,venda,3952.0,3376.7,4876.1,10,,setembro/2026
 São Paulo,Butantã,terreno,venda,3324.1,2148.0,3982.3,21,,setembro/2026
 São Paulo,Campo Belo,terreno,venda,6571.4,5789.5,6666.7,5,,setembro/2026
 São Paulo,Chácara Belenzinho,terreno,venda,2622.4,2245.8,3126.0,11,,setembro/2026
@@ -1865,7 +1869,7 @@ São Paulo,Jardim Jaçanã,terreno,venda,1409.4,1195.7,1520.0,5,,setembro/2026
 São Paulo,Jardim Regina,terreno,venda,3300.0,3300.0,3830.6,5,,setembro/2026
 São Paulo,Jardim Vila Formosa,terreno,venda,3015.1,2500.0,3670.0,7,,setembro/2026
 São Paulo,Mandaqui,terreno,venda,2475.0,2162.9,4138.4,6,,setembro/2026
-São Paulo,Mooca,terreno,venda,4444.4,3859.1,5175.7,11,,setembro/2026
+São Paulo,Mooca,terreno,venda,4762.5,3636.4,5321.4,13,,setembro/2026
 São Paulo,Morumbi,terreno,venda,4161.1,2955.4,6535.1,6,,setembro/2026
 São Paulo,Parque Boturussu,terreno,venda,1984.0,1898.0,3085.2,6,,setembro/2026
 São Paulo,Parque São Lucas,terreno,venda,2493.0,2082.9,3000.0,12,,setembro/2026
@@ -1878,13 +1882,14 @@ São Paulo,Saúde,terreno,venda,4923.1,3684.1,6178.0,19,,setembro/2026
 São Paulo,Tatuapé,terreno,venda,5989.6,3775.4,7988.4,43,,setembro/2026
 São Paulo,Tremembé,terreno,venda,1586.0,787.8,2466.4,13,,setembro/2026
 São Paulo,Tucuruvi,terreno,venda,5012.3,3571.4,5517.2,13,,setembro/2026
-São Paulo,Vila Alpina,terreno,venda,2102.2,2000.0,2232.3,8,,setembro/2026
+São Paulo,Vila Alpina,terreno,venda,2041.1,2000.0,2222.2,9,,setembro/2026
+São Paulo,Vila Bela,terreno,venda,3000.0,2750.0,3040.2,5,,setembro/2026
 São Paulo,Vila Brasílio Machado,terreno,venda,2752.3,2661.6,3095.2,5,,setembro/2026
 São Paulo,Vila Carrão,terreno,venda,3880.4,3057.2,5420.5,35,,setembro/2026
 São Paulo,Vila Clementino,terreno,venda,7848.3,6637.8,9529.2,14,,setembro/2026
 São Paulo,Vila Cordeiro,terreno,venda,5535.7,5000.0,8000.0,5,,setembro/2026
 São Paulo,Vila da Saúde,terreno,venda,2525.0,2250.0,3061.2,5,,setembro/2026
-São Paulo,Vila Ema,terreno,venda,3462.1,3033.1,4404.3,8,,setembro/2026
+São Paulo,Vila Ema,terreno,venda,3333.3,3030.3,4372.4,9,,setembro/2026
 São Paulo,Vila Esperança,terreno,venda,3785.7,1400.0,5205.9,5,,setembro/2026
 São Paulo,Vila Fachini,terreno,venda,2500.0,2012.7,3110.5,7,,setembro/2026
 São Paulo,Vila Formosa,terreno,venda,3593.2,2713.2,5707.8,69,,setembro/2026
@@ -1907,8 +1912,8 @@ São Paulo,Aclimação,sala,aluguel,73.4,63.9,86.6,6,7.55,setembro/2026
 São Paulo,Balneário São Francisco,sala,aluguel,30.2,25.0,32.0,5,,setembro/2026
 São Paulo,Barra Funda,sala,venda,8803.7,8128.0,9026.6,6,6.82,setembro/2026
 São Paulo,Barra Funda,sala,aluguel,50.0,50.0,55.0,5,6.82,setembro/2026
-São Paulo,Bela Vista,sala,venda,6468.3,5000.0,8688.8,16,10.07,setembro/2026
-São Paulo,Bela Vista,sala,aluguel,54.3,45.2,85.9,11,10.07,setembro/2026
+São Paulo,Bela Vista,sala,venda,6668.9,5222.6,11512.7,18,9.77,setembro/2026
+São Paulo,Bela Vista,sala,aluguel,54.3,45.2,85.9,11,9.77,setembro/2026
 São Paulo,Belenzinho,sala,aluguel,60.0,45.0,67.9,5,,setembro/2026
 São Paulo,Bosque da Saúde,sala,venda,7321.4,6155.2,7692.3,5,,setembro/2026
 São Paulo,Brasilândia,sala,aluguel,40.0,30.0,47.1,5,,setembro/2026
@@ -1979,7 +1984,8 @@ São Paulo,Liberdade,sala,aluguel,47.0,36.4,50.4,10,7.36,setembro/2026
 São Paulo,Mirandópolis,sala,aluguel,54.2,53.3,63.8,5,,setembro/2026
 São Paulo,Moema,sala,venda,10596.0,9805.6,12105.8,7,8.49,setembro/2026
 São Paulo,Moema,sala,aluguel,75.0,70.4,123.2,5,8.49,setembro/2026
-São Paulo,Mooca,sala,aluguel,61.1,47.0,64.6,7,,setembro/2026
+São Paulo,Mooca,sala,venda,10333.3,7435.9,11549.3,9,7.5,setembro/2026
+São Paulo,Mooca,sala,aluguel,64.6,41.8,73.7,12,7.5,setembro/2026
 São Paulo,Nossa Senhora do Ó,sala,aluguel,44.4,35.5,47.5,6,,setembro/2026
 São Paulo,Paraíso,sala,aluguel,61.7,52.1,81.2,13,,setembro/2026
 São Paulo,Parelheiros,sala,aluguel,58.5,27.3,86.4,8,,setembro/2026
@@ -1998,8 +2004,8 @@ São Paulo,Perdizes,sala,venda,10531.2,8738.4,13382.0,12,9.92,setembro/2026
 São Paulo,Perdizes,sala,aluguel,87.1,75.0,106.1,6,9.92,setembro/2026
 São Paulo,Pinheiros,sala,venda,14102.6,8918.9,15000.0,13,8.27,setembro/2026
 São Paulo,Pinheiros,sala,aluguel,97.2,82.5,110.7,10,8.27,setembro/2026
-São Paulo,República,sala,venda,3892.9,2994.0,4890.0,6,51.39,setembro/2026
-São Paulo,República,sala,aluguel,166.7,162.5,166.7,5,51.39,setembro/2026
+São Paulo,República,sala,venda,4560.0,3071.2,5208.3,7,43.32,setembro/2026
+São Paulo,República,sala,aluguel,164.6,74.0,166.7,6,43.32,setembro/2026
 São Paulo,Santana,sala,venda,10489.5,8694.6,12250.0,43,5.47,setembro/2026
 São Paulo,Santana,sala,aluguel,47.8,36.6,55.0,25,5.47,setembro/2026
 São Paulo,Santo Amaro,sala,venda,8929.9,7033.3,10609.4,12,8.06,setembro/2026
@@ -2029,7 +2035,7 @@ São Paulo,Anhangüera,galpao,aluguel,24.5,22.1,31.2,6,,setembro/2026
 São Paulo,Aricanduva,galpao,venda,6937.5,5438.8,7519.2,6,6.57,setembro/2026
 São Paulo,Aricanduva,galpao,aluguel,38.0,36.8,47.3,11,6.57,setembro/2026
 São Paulo,Bosque da Saúde,galpao,venda,6250.0,5795.6,6729.4,7,,setembro/2026
-São Paulo,Brás,galpao,venda,5794.3,4870.4,7007.2,6,,setembro/2026
+São Paulo,Brás,galpao,venda,5434.8,4571.9,6684.3,7,,setembro/2026
 São Paulo,Butantã,galpao,aluguel,46.8,37.4,48.1,11,,setembro/2026
 São Paulo,Cambuci,galpao,venda,5423.3,4257.8,6907.8,12,8.19,setembro/2026
 São Paulo,Cambuci,galpao,aluguel,37.0,28.3,37.5,5,8.19,setembro/2026
@@ -2044,7 +2050,7 @@ São Paulo,Colônia,galpao,aluguel,35.0,34.0,35.0,13,,setembro/2026
 São Paulo,Colônia (Zona Leste),galpao,aluguel,34.3,15.1,34.9,7,,setembro/2026
 São Paulo,Ermelino Matarazzo,galpao,aluguel,33.9,29.5,40.0,7,,setembro/2026
 São Paulo,Guaiaúna,galpao,aluguel,32.5,27.2,37.1,6,,setembro/2026
-São Paulo,Ipiranga,galpao,venda,4988.1,4465.4,5713.0,14,7.22,setembro/2026
+São Paulo,Ipiranga,galpao,venda,4987.7,4465.4,5713.0,14,7.22,setembro/2026
 São Paulo,Ipiranga,galpao,aluguel,30.0,29.5,34.9,9,7.22,setembro/2026
 São Paulo,Jaçanã,galpao,aluguel,19.3,15.6,27.8,6,,setembro/2026
 São Paulo,Jardim Arpoador,galpao,aluguel,29.8,25.0,33.3,9,,setembro/2026
@@ -2069,6 +2075,7 @@ São Paulo,Jardim São Sebastião,galpao,aluguel,31.2,19.0,32.0,5,,setembro/2026
 São Paulo,Lapa,galpao,aluguel,43.3,42.0,43.9,5,,setembro/2026
 São Paulo,Lapa de Baixo,galpao,aluguel,38.6,28.7,40.6,9,,setembro/2026
 São Paulo,Limoeiro,galpao,aluguel,28.3,27.5,33.3,5,,setembro/2026
+São Paulo,Mooca,galpao,aluguel,44.4,31.7,55.7,6,,setembro/2026
 São Paulo,Parque Anhangüera,galpao,aluguel,32.5,17.9,34.9,7,,setembro/2026
 São Paulo,Parque Ipê,galpao,aluguel,35.1,26.6,39.6,6,,setembro/2026
 São Paulo,Parque Novo Mundo,galpao,aluguel,45.0,28.3,47.7,13,,setembro/2026
