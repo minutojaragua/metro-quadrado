@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 41 cidades de Santa Catarina, São Paulo, Tocantins, Rondônia, Espírito Santo, Amapá, Roraima, Sergipe, Rio Grande do Norte, Paraíba, Mato Grosso e Piauí, Brasil, bairro por bairro, a partir de 200.742 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 41 cidades de Santa Catarina, São Paulo, Tocantins, Rondônia, Espírito Santo, Amapá, Roraima, Sergipe, Rio Grande do Norte, Paraíba, Mato Grosso e Piauí, Brasil, bairro por bairro, a partir de 200.766 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -4215,7 +4215,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 
 ## São Paulo (setembro/2026): https://acorridadosbairros.com.br/sp/sao-paulo/
 
-### Apartamentos, cidade toda: venda R$ 9.677/m² (n=20756); aluguel R$ 51,3/m²/mês (n=5864); rendimento bruto do aluguel 6,36% a.a.
+### Apartamentos, cidade toda: venda R$ 9.677/m² (n=20757); aluguel R$ 51,3/m²/mês (n=5864); rendimento bruto do aluguel 6,36% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -4698,7 +4698,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Sítio Pinheirinho | R$ 6.154 | 5 | – | – | – | – |
 | Socorro | R$ 10.635 | 5 | R$ 52,9 | 13 | 5,97% | – |
 | Sumaré | R$ 12.188 | 32 | R$ 50,2 | 7 | 4,94% | – |
-| Sumarezinho | R$ 13.274 | 23 | R$ 100,0 | 9 | 9,04% | – |
+| Sumarezinho | R$ 13.637 | 24 | R$ 100,0 | 9 | 8,80% | – |
 | Tatuapé | R$ 10.891 | 772 | R$ 63,7 | 158 | 7,02% | – |
 | Tremembé | R$ 7.357 | 18 | – | – | – | – |
 | Tucuruvi | R$ 9.512 | 105 | R$ 57,3 | 15 | 7,23% | – |
@@ -5813,39 +5813,40 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 
 ## Balneário Piçarras (setembro/2026): https://acorridadosbairros.com.br/balneario-picarras/
 
-### Apartamentos, cidade toda: venda R$ 13.265/m² (n=771); aluguel R$ 42,0/m²/mês (n=126); rendimento bruto do aluguel 3,80% a.a.
+### Apartamentos, cidade toda: venda R$ 13.256/m² (n=791); aluguel R$ 42,0/m²/mês (n=126); rendimento bruto do aluguel 3,80% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
 | Armação | R$ 11.205 | 6 | – | – | – | – |
 | Bairro Itacolomi | R$ 14.502 | 10 | – | – | – | – |
-| Centro | R$ 13.838 | 336 | R$ 42,1 | 45 | 3,65% | – |
-| Itacolomi | R$ 13.120 | 344 | R$ 42,2 | 74 | 3,86% | – |
+| Balneário Piçarras | R$ 8.129 | 5 | – | – | – | – |
+| Centro | R$ 13.829 | 339 | R$ 42,1 | 45 | 3,65% | – |
+| Itacolomi | R$ 13.120 | 360 | R$ 42,2 | 74 | 3,86% | – |
 | Itajubá | R$ 9.900 | 12 | – | – | – | – |
 | Nossa Senhora da Paz | R$ 8.108 | 11 | R$ 40,0 | 5 | 5,92% | – |
 | Santo Antônio | R$ 9.307 | 11 | – | – | – | – |
 | Tabuleiro | R$ 15.975 | 5 | – | – | – | – |
 
-### Casas, cidade toda: venda R$ 6.560/m² (n=755); aluguel R$ 33,3/m²/mês (n=55); rendimento bruto do aluguel 6,09% a.a.
+### Casas, cidade toda: venda R$ 6.548/m² (n=757); aluguel R$ 33,3/m²/mês (n=55); rendimento bruto do aluguel 6,10% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
 | Bela Vista | R$ 6.507 | 7 | – | – | – | – |
-| Centro | R$ 7.441 | 212 | R$ 32,0 | 18 | 5,16% | – |
-| Itacolomi | R$ 6.331 | 416 | R$ 33,0 | 29 | 6,26% | – |
+| Centro | R$ 7.450 | 214 | R$ 32,0 | 18 | 5,15% | – |
+| Itacolomi | R$ 6.326 | 415 | R$ 33,0 | 29 | 6,26% | – |
 | Itajubá | R$ 7.083 | 19 | – | – | – | – |
 | Nossa Senhora da Conceição | R$ 4.522 | 11 | – | – | – | – |
 | Nossa Senhora da Paz | R$ 6.155 | 54 | R$ 34,4 | 7 | 6,71% | – |
 | Santo Antônio | R$ 5.800 | 23 | – | – | – | – |
 
-### Terrenos, cidade toda: venda R$ 1.208/m² (n=259)
+### Terrenos, cidade toda: venda R$ 1.209/m² (n=258)
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
 | Bela Vista | R$ 790 | 6 | – | – | – | – |
 | Centro | R$ 2.290 | 35 | – | – | – | – |
 | Itacalomi | R$ 583 | 7 | – | – | – | – |
-| Itacolomi | R$ 1.367 | 113 | – | – | – | – |
+| Itacolomi | R$ 1.381 | 112 | – | – | – | – |
 | Itajubá | R$ 1.000 | 5 | – | – | – | – |
 | Nossa Senhora da Conceição | R$ 836 | 28 | – | – | – | – |
 | Nossa Senhora da Paz | R$ 1.248 | 33 | – | – | – | – |
@@ -5861,7 +5862,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 
 ## Barra Velha (setembro/2026): https://acorridadosbairros.com.br/barra-velha/
 
-### Apartamentos, cidade toda: venda R$ 9.992/m² (n=566); aluguel R$ 38,4/m²/mês (n=24); rendimento bruto do aluguel 4,61% a.a.
+### Apartamentos, cidade toda: venda R$ 9.984/m² (n=567); aluguel R$ 38,4/m²/mês (n=24); rendimento bruto do aluguel 4,62% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -5910,7 +5911,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 
 ## Penha (setembro/2026): https://acorridadosbairros.com.br/penha/
 
-### Apartamentos, cidade toda: venda R$ 11.938/m² (n=372); aluguel R$ 47,0/m²/mês (n=20); rendimento bruto do aluguel 4,72% a.a.
+### Apartamentos, cidade toda: venda R$ 11.935/m² (n=373); aluguel R$ 47,0/m²/mês (n=20); rendimento bruto do aluguel 4,73% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
