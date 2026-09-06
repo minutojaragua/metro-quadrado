@@ -74,12 +74,12 @@ function monta(){var box=document.getElementById('porta-geo');if(!box)return;var
  else if(!lem){var f=fuso();if(f&&f!==a&&acha(f)){sug=acha(f);via='fuso';}}
  if(sug){ev('sugestao_cidade',sug.nome,via);
   var pre=via==='fuso'?'Você está '+ufNome(sug.uf)+'? ':via==='geo_lembrada'?'Mais perto de você: ':'Você viu '+sug.nome+' por último. ';
-  box.innerHTML='<span class="pg-txt">'+pre+'</span><a class="pg-link" href="'+sug.url+'" onclick="try{mqGeo.aceita(''+sug.nome.replace(/'/g,'')+'',''+via+'')}catch(e){}">Ver '+sug.nome+' →</a> <button type="button" class="pg-btn pg-min" onclick="mqGeo.toque(this)">📍 perto de mim</button>';}
+  box.innerHTML='<span class="pg-txt">'+pre+'</span><a class="pg-link" href="'+sug.url+'" onclick="try{mqGeo.aceita(\''+sug.nome.replace(/'/g,'')+'\',\''+via+'\')}catch(e){}">Ver '+sug.nome+' →</a> <button type="button" class="pg-btn pg-min" onclick="mqGeo.toque(this)">📍 perto de mim</button>';}
  else{box.innerHTML='<button type="button" class="pg-btn" onclick="mqGeo.toque(this)">📍 Ver a cidade mais perto de mim</button>';}}
 function aceita(nome,via){ev('sugestao_cidade_aceita',nome,via);}
 function toque(btn){var box=document.getElementById('porta-geo');if(!box)return;var a=atual();btn.disabled=true;btn.textContent='📍 localizando…';
  localizar().then(function(b){if(b.slug===a){box.innerHTML='<span class="pg-txt">Você já está na cidade mais perto de você'+(b.km>150?' (a '+b.km+' km; ainda não medimos a sua)':'')+'.</span>';return;}
-  box.innerHTML='<span class="pg-txt">Mais perto de você: <b>'+b.nome+'</b>'+(b.km>150?' (a '+b.km+' km; ainda não medimos a sua cidade)':'')+'. </span><a class="pg-link" href="'+b.url+'" onclick="try{mqGeo.aceita(''+b.nome.replace(/'/g,'')+'','geo')}catch(e){}">Ver '+b.nome+' →</a>';})
+  box.innerHTML='<span class="pg-txt">Mais perto de você: <b>'+b.nome+'</b>'+(b.km>150?' (a '+b.km+' km; ainda não medimos a sua cidade)':'')+'. </span><a class="pg-link" href="'+b.url+'" onclick="try{mqGeo.aceita(\''+b.nome.replace(/'/g,'')+'\',\'geo\')}catch(e){}">Ver '+b.nome+' →</a>';})
  .catch(function(m){box.innerHTML='<span class="pg-txt">'+(m==='negado'?'Sem permissão de localização; tudo bem, escolha a cidade na lista abaixo.':'Não deu para localizar agora; escolha a cidade na lista abaixo.')+'</span>';});}
 function preSel(id,q){try{var s=document.getElementById(id);if(!s||(q&&q.get(id)))return false;var v=ler();if(!v)return false;
  for(var i=0;i<s.options.length;i++)if(s.options[i].value===v.slug){s.value=v.slug;ev('cidade_lembrada',v.nome,v.via);return true;}}catch(e){}return false;}
