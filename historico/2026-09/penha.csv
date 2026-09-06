@@ -1,6 +1,6 @@
 cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
 Penha,Armação do Itapocorói,casa,venda,6637.6,5384.6,7615.4,21,,setembro/2026
-Penha,Centro,casa,venda,6535.9,5430.8,8523.4,96,4.61,setembro/2026
+Penha,Centro,casa,venda,6533.3,5434.8,8500.0,97,4.61,setembro/2026
 Penha,Centro,casa,aluguel,25.1,23.6,28.5,6,4.61,setembro/2026
 Penha,Gravatá,casa,venda,4793.6,2999.8,6914.3,16,,setembro/2026
 Penha,Nossa Senhora de Fátima,casa,venda,5529.0,3596.5,6760.5,54,,setembro/2026
@@ -17,14 +17,14 @@ Penha,Centro,apartamento,venda,11363.6,8739.2,14864.9,417,5.14,setembro/2026
 Penha,Centro,apartamento,aluguel,48.7,36.7,54.3,17,5.14,setembro/2026
 Penha,Gravatá,apartamento,venda,6902.8,6747.9,7052.5,6,,setembro/2026
 Penha,Itapocorói,apartamento,venda,12812.5,10994.9,14563.5,23,,setembro/2026
-Penha,Nossa Senhora de Fátima,apartamento,venda,6383.0,5204.1,9238.1,57,,setembro/2026
+Penha,Nossa Senhora de Fátima,apartamento,venda,6327.1,5210.4,9129.6,58,,setembro/2026
 Penha,Praia Alegre,apartamento,venda,10205.5,8650.7,12378.1,31,,setembro/2026
 Penha,Praia da Armação,apartamento,venda,19654.5,19006.0,21866.3,9,,setembro/2026
 Penha,Praia de Armação do Itapocorói,apartamento,venda,11550.6,8588.7,15423.2,478,4.98,setembro/2026
 Penha,Praia de Armação do Itapocorói,apartamento,aluguel,47.9,41.2,52.9,21,4.98,setembro/2026
 Penha,Praia do Quilombo,apartamento,venda,14318.4,11398.7,19376.5,15,,setembro/2026
 Penha,Praia Grande,apartamento,venda,9800.0,7225.2,11788.9,7,,setembro/2026
-Penha,Centro,terreno,venda,1851.9,1286.1,2424.7,33,,setembro/2026
+Penha,Centro,terreno,venda,1851.9,1384.5,2426.7,35,,setembro/2026
 Penha,Gravatá,terreno,venda,1074.4,446.5,1231.1,5,,setembro/2026
 Penha,Nossa Senhora de Fátima,terreno,venda,1033.3,812.8,1243.5,32,,setembro/2026
 Penha,Praia de Armação do Itapocorói,terreno,venda,2564.9,1860.5,3943.5,19,,setembro/2026
