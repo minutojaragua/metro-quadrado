@@ -5,8 +5,6 @@ Limeira,Centro,apartamento,aluguel,20.1,14.1,29.9,47,6.68,setembro/2026
 Limeira,Chácara Boa Vista da Graminha,apartamento,venda,7633.3,7222.2,8364.3,13,,setembro/2026
 Limeira,Chácaras Antonieta,apartamento,venda,6000.0,5203.4,6805.3,59,6.66,setembro/2026
 Limeira,Chácaras Antonieta,apartamento,aluguel,33.3,29.0,39.8,24,6.66,setembro/2026
-Limeira,Cidade Jardim,apartamento,venda,3482.6,2932.9,3843.1,11,5.58,setembro/2026
-Limeira,Cidade Jardim,apartamento,aluguel,16.2,13.8,17.5,5,5.58,setembro/2026
 Limeira,Desmembramento Oscar Antonio Breda,apartamento,venda,8239.4,7037.1,8793.1,7,5.58,setembro/2026
 Limeira,Desmembramento Oscar Antonio Breda,apartamento,aluguel,38.3,33.4,45.1,6,5.58,setembro/2026
 Limeira,Fazenda Duas Barras,apartamento,venda,4907.4,2770.6,5307.8,16,6.92,setembro/2026
@@ -74,7 +72,8 @@ Limeira,Terras de São Bento II,apartamento,venda,9375.0,9133.5,14886.4,5,,setem
 Limeira,Vale das Esmeraldas,apartamento,venda,6681.5,6096.5,7147.1,20,,setembro/2026
 Limeira,Vila Camargo,apartamento,venda,5270.5,4489.7,6171.3,32,4.76,setembro/2026
 Limeira,Vila Camargo,apartamento,aluguel,20.9,18.0,36.4,5,4.76,setembro/2026
-Limeira,Vila Cidade Jardim,apartamento,venda,3766.9,3455.0,4495.1,22,,setembro/2026
+Limeira,Vila Cidade Jardim,apartamento,venda,3732.1,3328.1,4350.0,26,4.82,setembro/2026
+Limeira,Vila Cidade Jardim,apartamento,aluguel,15.0,13.1,16.9,7,4.82,setembro/2026
 Limeira,Vila Claudia,apartamento,venda,3623.2,3167.3,4098.4,5,,setembro/2026
 Limeira,Vila Conceição,apartamento,venda,3953.5,3764.0,4268.3,9,,setembro/2026
 Limeira,Vila Cristóvam,apartamento,venda,8760.0,8097.4,9236.0,14,,setembro/2026
@@ -96,8 +95,6 @@ Limeira,Boa Vista,casa,aluguel,16.1,12.6,18.2,6,6.65,setembro/2026
 Limeira,Centro,casa,venda,3418.8,2626.6,4355.2,72,7.27,setembro/2026
 Limeira,Centro,casa,aluguel,20.7,15.9,29.3,40,7.27,setembro/2026
 Limeira,Chácaras Antonieta,casa,venda,3736.2,2922.8,5852.9,7,,setembro/2026
-Limeira,Cidade Jardim,casa,venda,2316.1,2134.1,4188.6,12,11.24,setembro/2026
-Limeira,Cidade Jardim,casa,aluguel,21.7,14.8,27.0,7,11.24,setembro/2026
 Limeira,Conjunto Habitacional Victor d'Andrea,casa,venda,2201.8,2144.7,2668.7,9,,setembro/2026
 Limeira,Conjunto Residencial Victor d'Andrea,casa,venda,2019.5,1953.3,2324.8,6,,setembro/2026
 Limeira,Graminha,casa,venda,3300.0,3133.5,4002.8,7,,setembro/2026
@@ -242,7 +239,8 @@ Limeira,Vila Anita,casa,venda,3612.1,2763.7,4338.4,10,,setembro/2026
 Limeira,Vila Camargo,casa,venda,3320.4,2370.2,3825.4,24,5.78,setembro/2026
 Limeira,Vila Camargo,casa,aluguel,16.0,13.1,20.1,6,5.78,setembro/2026
 Limeira,Vila Castelar,casa,venda,3166.8,2889.1,3542.3,12,,setembro/2026
-Limeira,Vila Cidade Jardim,casa,venda,3720.0,2884.8,4101.3,7,,setembro/2026
+Limeira,Vila Cidade Jardim,casa,venda,3365.4,2165.1,4189.6,19,7.74,setembro/2026
+Limeira,Vila Cidade Jardim,casa,aluguel,21.7,14.8,27.0,7,7.74,setembro/2026
 Limeira,Vila Claudia,casa,venda,3323.4,2829.7,4257.4,42,10.36,setembro/2026
 Limeira,Vila Claudia,casa,aluguel,28.7,20.1,34.0,23,10.36,setembro/2026
 Limeira,Vila Cristóvam,casa,venda,3199.3,2585.6,4211.2,39,7.28,setembro/2026
@@ -325,7 +323,7 @@ Limeira,Parque Pompeo,sala,aluguel,28.0,24.5,32.9,8,,setembro/2026
 Limeira,Parque Residencial Abílio Pedro,sala,aluguel,28.6,18.2,35.6,7,,setembro/2026
 Limeira,Parque Residencial Belinha Ometto,sala,aluguel,33.3,30.1,36.0,7,,setembro/2026
 Limeira,Parque Residencial Santa Eulália,sala,aluguel,30.6,24.4,36.2,13,,setembro/2026
-Limeira,Vila Cidade Jardim,sala,aluguel,46.0,33.1,55.8,16,,setembro/2026
+Limeira,Vila Cidade Jardim,sala,aluguel,45.8,34.1,55.5,17,,setembro/2026
 Limeira,Vila Claudia,sala,aluguel,75.0,30.1,105.4,15,,setembro/2026
 Limeira,Vila Cristóvam,sala,aluguel,41.3,28.6,53.1,12,,setembro/2026
 Limeira,Vila Esteves,sala,aluguel,65.2,43.5,69.0,7,,setembro/2026

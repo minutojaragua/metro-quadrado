@@ -1,5 +1,6 @@
 cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
-Campinas,Alphaville,apartamento,venda,13097.3,9162.3,15909.1,5,,setembro/2026
+Campinas,Alphaville,apartamento,venda,10547.4,8859.9,13072.8,14,5.34,setembro/2026
+Campinas,Alphaville,apartamento,aluguel,46.9,40.1,57.5,9,5.34,setembro/2026
 Campinas,Bairro das Palmeiras,apartamento,venda,12671.2,11181.9,15873.2,12,,setembro/2026
 Campinas,Barão Geraldo,apartamento,aluguel,46.1,34.6,50.0,9,,setembro/2026
 Campinas,Bonfim,apartamento,venda,7439.8,5626.2,9268.1,46,8.23,setembro/2026
@@ -123,8 +124,6 @@ Campinas,Jardim São José,apartamento,venda,4766.0,4375.9,4924.6,7,,setembro/20
 Campinas,Jardim São Vicente,apartamento,venda,6932.3,4431.8,8973.9,12,8.05,setembro/2026
 Campinas,Jardim São Vicente,apartamento,aluguel,46.5,40.1,51.4,16,8.05,setembro/2026
 Campinas,Jardim Uruguai,apartamento,venda,5102.0,4224.5,5338.2,6,,setembro/2026
-Campinas,Loteamento Alphaville,apartamento,venda,10875.9,9087.6,13136.8,11,5.17,setembro/2026
-Campinas,Loteamento Alphaville,apartamento,aluguel,46.9,40.1,57.5,9,5.17,setembro/2026
 Campinas,Loteamento Chácara Prado,apartamento,venda,8533.3,7971.7,9073.0,7,7.31,setembro/2026
 Campinas,Loteamento Chácara Prado,apartamento,aluguel,52.0,45.5,60.9,5,7.31,setembro/2026
 Campinas,Loteamento Country Ville,apartamento,venda,3671.9,3574.4,3898.8,8,,setembro/2026
@@ -233,7 +232,8 @@ Campinas,Vila São Bento,apartamento,aluguel,50.7,47.4,68.8,6,8.22,setembro/2026
 Campinas,Vila Satúrnia,apartamento,venda,7872.3,6923.1,8833.3,17,8.19,setembro/2026
 Campinas,Vila Satúrnia,apartamento,aluguel,53.7,44.0,58.5,9,8.19,setembro/2026
 Campinas,Vila Trinta e Um de Março,apartamento,venda,11542.4,10126.8,11728.4,9,,setembro/2026
-Campinas,Alphaville,casa,venda,9514.8,8367.8,11680.6,34,,setembro/2026
+Campinas,Alphaville,casa,venda,9375.0,8164.0,10757.2,115,5.49,setembro/2026
+Campinas,Alphaville,casa,aluguel,42.9,34.6,50.0,51,5.49,setembro/2026
 Campinas,Alphaville D. Pedro 1,casa,venda,10891.0,10228.1,12836.1,8,,setembro/2026
 Campinas,Alphaville Dom Pedro,casa,venda,11168.5,10352.4,12422.5,31,5.24,setembro/2026
 Campinas,Alphaville Dom Pedro,casa,aluguel,48.8,35.7,63.1,14,5.24,setembro/2026
@@ -381,8 +381,6 @@ Campinas,Jardim São Rafael,casa,aluguel,26.3,25.2,27.3,5,,setembro/2026
 Campinas,Jardim Tupi,casa,venda,4294.9,3583.3,4757.0,7,,setembro/2026
 Campinas,Jardim Uruguai,casa,venda,2559.8,1871.4,2980.6,7,,setembro/2026
 Campinas,Joaquim Egídio,casa,venda,9142.1,6515.7,9930.4,6,,setembro/2026
-Campinas,Loteamento Alphaville,casa,venda,9303.6,8146.1,10612.3,83,5.87,setembro/2026
-Campinas,Loteamento Alphaville,casa,aluguel,45.5,35.3,50.0,49,5.87,setembro/2026
 Campinas,Loteamento Arboreto dos Jequitibás (Sousas),casa,venda,7550.8,6533.5,8032.2,6,,setembro/2026
 Campinas,Loteamento Artesano,casa,venda,12437.5,12060.3,12838.7,5,,setembro/2026
 Campinas,Loteamento Caminhos de San Conrado (Sousas),casa,venda,7860.5,6250.0,11086.7,13,,setembro/2026
@@ -509,7 +507,7 @@ Campinas,Vila Proost de Souza,casa,venda,4213.9,3500.0,4980.0,8,,setembro/2026
 Campinas,Vila Rica,casa,venda,3500.0,3218.8,3632.4,6,,setembro/2026
 Campinas,Vila Santa Isabel,casa,venda,5391.3,2991.5,6877.1,11,,setembro/2026
 Campinas,Ville Sainte Hélène,casa,venda,11493.3,10220.6,12528.5,18,,setembro/2026
-Campinas,Alphaville,terreno,venda,1598.9,1564.2,2304.5,11,,setembro/2026
+Campinas,Alphaville,terreno,venda,1666.7,1477.8,2472.5,29,,setembro/2026
 Campinas,Alphaville Dom Pedro,terreno,venda,2500.0,2154.7,2717.4,11,,setembro/2026
 Campinas,Alphaville Dom Pedro 3,terreno,venda,2441.4,2205.3,2536.9,7,,setembro/2026
 Campinas,Alphaville Dom Pedro Zero,terreno,venda,2430.1,2400.0,2588.9,9,,setembro/2026
@@ -541,7 +539,6 @@ Campinas,Jardim Santana,terreno,venda,833.3,582.0,1101.3,6,,setembro/2026
 Campinas,Jardim São Judas Tadeu,terreno,venda,588.2,537.8,633.3,7,,setembro/2026
 Campinas,Jatibela,terreno,venda,2152.1,2097.2,2248.6,8,,setembro/2026
 Campinas,Joaquim Egídio,terreno,venda,318.7,251.0,408.6,11,,setembro/2026
-Campinas,Loteamento Alphaville,terreno,venda,1707.7,1467.0,2570.4,18,,setembro/2026
 Campinas,Loteamento Artesano,terreno,venda,2195.6,1970.3,2276.2,11,,setembro/2026
 Campinas,Loteamento Artesano Galleria,terreno,venda,2076.7,1969.8,2136.7,6,,setembro/2026
 Campinas,Loteamento Caminhos de San Conrado (Sousas),terreno,venda,908.5,766.2,986.5,10,,setembro/2026
@@ -574,6 +571,7 @@ Campinas,Taquaral,terreno,venda,2461.5,1864.7,2758.3,7,,setembro/2026
 Campinas,Vila Industrial,terreno,venda,1164.2,1125.0,1228.1,5,,setembro/2026
 Campinas,Vila Modesto Fernandes,terreno,venda,1313.5,1085.4,1450.0,7,,setembro/2026
 Campinas,Vila Sônia (Sousas),terreno,venda,1987.5,1955.6,2058.3,9,,setembro/2026
+Campinas,Alphaville,sala,aluguel,79.4,60.1,89.8,15,,setembro/2026
 Campinas,Barão Geraldo,sala,aluguel,36.8,33.3,38.3,5,,setembro/2026
 Campinas,Bosque,sala,venda,5588.2,3694.9,9189.2,9,,setembro/2026
 Campinas,Botafogo,sala,venda,5453.5,4006.1,11949.6,16,9.9,setembro/2026
@@ -588,7 +586,6 @@ Campinas,Jardim Chapadão,sala,aluguel,27.7,20.1,51.3,11,3.92,setembro/2026
 Campinas,Jardim Guanabara,sala,venda,6500.0,4672.2,7975.0,9,8.58,setembro/2026
 Campinas,Jardim Guanabara,sala,aluguel,46.5,38.8,55.6,14,8.58,setembro/2026
 Campinas,Jardim Leonor,sala,aluguel,71.0,59.8,76.1,7,,setembro/2026
-Campinas,Loteamento Alphaville,sala,aluguel,85.5,62.4,90.7,13,,setembro/2026
 Campinas,Parque dos Resedás,sala,aluguel,75.0,75.0,75.0,5,,setembro/2026
 Campinas,Swiss Park,sala,aluguel,64.6,54.7,70.4,8,,setembro/2026
 Campinas,Taquaral,sala,aluguel,47.7,41.7,51.3,13,,setembro/2026
