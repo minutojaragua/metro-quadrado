@@ -1,8 +1,8 @@
 cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
 São José,Araçagy,apartamento,venda,9042.6,5964.9,11224.5,17,4.05,setembro/2026
 São José,Araçagy,apartamento,aluguel,30.5,25.0,40.0,5,4.05,setembro/2026
-São José,Areias,apartamento,venda,6879.3,5535.7,8181.8,145,6.54,setembro/2026
-São José,Areias,apartamento,aluguel,37.5,31.9,43.7,78,6.54,setembro/2026
+São José,Areias,apartamento,venda,6848.7,5503.6,8167.6,146,6.57,setembro/2026
+São José,Areias,apartamento,aluguel,37.5,31.9,43.7,78,6.57,setembro/2026
 São José,Barreiros,apartamento,venda,8612.5,6885.2,10260.4,252,5.96,setembro/2026
 São José,Barreiros,apartamento,aluguel,42.8,34.8,52.4,147,5.96,setembro/2026
 São José,Bela Vista,apartamento,venda,7368.4,6320.4,8218.2,27,6.29,setembro/2026
@@ -90,7 +90,7 @@ São José,Barreiros,terreno,venda,1791.7,1512.9,2357.3,54,,setembro/2026
 São José,Bela Vista,terreno,venda,2028.8,1465.3,2447.9,8,,setembro/2026
 São José,Bosque das Mansões,terreno,venda,2200.0,1331.7,2404.4,9,,setembro/2026
 São José,Campinas,terreno,venda,5443.5,2837.2,8475.4,12,,setembro/2026
-São José,Centro,terreno,venda,1281.9,1169.3,1923.6,18,,setembro/2026
+São José,Centro,terreno,venda,1250.0,1132.5,1763.9,19,,setembro/2026
 São José,Colônia Santana,terreno,venda,710.4,541.3,953.8,8,,setembro/2026
 São José,Fazenda Santo Antônio,terreno,venda,1027.8,842.6,1339.7,9,,setembro/2026
 São José,Forquilhas,terreno,venda,910.0,775.1,1072.0,115,,setembro/2026
