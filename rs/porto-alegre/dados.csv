@@ -1,6 +1,6 @@
 cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
-Porto Alegre,Aberta dos Morros,casa,venda,4160.7,3245.1,5235.9,130,7.33,setembro/2026
-Porto Alegre,Aberta dos Morros,casa,aluguel,25.4,15.8,30.3,28,7.33,setembro/2026
+Porto Alegre,Aberta dos Morros,casa,venda,4166.7,3254.8,5233.7,131,7.32,setembro/2026
+Porto Alegre,Aberta dos Morros,casa,aluguel,25.4,15.8,30.3,28,7.32,setembro/2026
 Porto Alegre,Agronomia,casa,venda,4722.4,3458.9,6190.5,21,,setembro/2026
 Porto Alegre,Alphaville,casa,venda,8461.6,7619.0,9487.9,10,,setembro/2026
 Porto Alegre,Anchieta,casa,venda,4416.7,2229.9,5806.4,8,,setembro/2026
@@ -20,12 +20,12 @@ Porto Alegre,Boa Vista,casa,aluguel,33.3,22.8,50.0,13,6.58,setembro/2026
 Porto Alegre,Boa Vista do Sul,casa,venda,2532.9,2007.2,2812.5,5,,setembro/2026
 Porto Alegre,Bom Fim,casa,venda,4905.9,4083.3,10250.0,9,,setembro/2026
 Porto Alegre,Bom Jesus,casa,venda,3260.1,2760.6,4431.3,14,,setembro/2026
-Porto Alegre,Camaquã,casa,venda,3895.7,3296.8,4654.0,52,7.98,setembro/2026
-Porto Alegre,Camaquã,casa,aluguel,25.9,19.5,31.7,21,7.98,setembro/2026
+Porto Alegre,Camaquã,casa,venda,3888.9,3303.3,4642.9,53,7.99,setembro/2026
+Porto Alegre,Camaquã,casa,aluguel,25.9,19.5,31.7,21,7.99,setembro/2026
 Porto Alegre,Campo Novo,casa,venda,4800.0,3231.5,5400.0,41,6.12,setembro/2026
 Porto Alegre,Campo Novo,casa,aluguel,24.5,20.1,28.4,22,6.12,setembro/2026
 Porto Alegre,Cascata,casa,venda,2545.5,1738.5,3454.5,33,,setembro/2026
-Porto Alegre,Cavalhada,casa,venda,3950.0,3185.9,5026.3,79,7.41,setembro/2026
+Porto Alegre,Cavalhada,casa,venda,3949.2,3130.1,5013.2,80,7.41,setembro/2026
 Porto Alegre,Cavalhada,casa,aluguel,24.4,18.2,40.4,16,7.41,setembro/2026
 Porto Alegre,Centro,casa,venda,4348.7,3964.5,5605.7,8,,setembro/2026
 Porto Alegre,Centro Histórico,casa,venda,5067.2,3863.6,6433.3,17,9.33,setembro/2026
@@ -38,14 +38,14 @@ Porto Alegre,Cidade Baixa,casa,aluguel,27.7,24.8,39.9,6,6.3,setembro/2026
 Porto Alegre,Coronel Aparício Borges,casa,venda,3437.5,2698.5,4299.2,24,6.7,setembro/2026
 Porto Alegre,Coronel Aparício Borges,casa,aluguel,19.2,16.7,20.9,6,6.7,setembro/2026
 Porto Alegre,Costa e Silva,casa,venda,2798.7,2081.4,4152.9,32,,setembro/2026
-Porto Alegre,Cristal,casa,venda,4362.4,3330.0,5560.3,55,6.9,setembro/2026
-Porto Alegre,Cristal,casa,aluguel,25.1,22.1,34.0,9,6.9,setembro/2026
+Porto Alegre,Cristal,casa,venda,4356.2,3331.7,5538.8,56,6.67,setembro/2026
+Porto Alegre,Cristal,casa,aluguel,24.2,22.2,33.8,10,6.67,setembro/2026
 Porto Alegre,Cristo Redentor,casa,venda,3807.7,2900.5,4480.2,23,8.64,setembro/2026
 Porto Alegre,Cristo Redentor,casa,aluguel,27.4,19.8,40.2,7,8.64,setembro/2026
 Porto Alegre,Ecoville,casa,venda,6153.8,5736.8,7603.7,45,8.4,setembro/2026
 Porto Alegre,Ecoville,casa,aluguel,43.1,32.1,47.7,9,8.4,setembro/2026
-Porto Alegre,Espírito Santo,casa,venda,3772.7,3083.8,4500.0,77,8.08,setembro/2026
-Porto Alegre,Espírito Santo,casa,aluguel,25.4,15.2,32.8,32,8.08,setembro/2026
+Porto Alegre,Espírito Santo,casa,venda,3776.1,3101.6,4493.4,78,8.07,setembro/2026
+Porto Alegre,Espírito Santo,casa,aluguel,25.4,15.2,32.8,32,8.07,setembro/2026
 Porto Alegre,Farrapos,casa,venda,2829.9,1785.7,3437.5,17,7.76,setembro/2026
 Porto Alegre,Farrapos,casa,aluguel,18.3,14.4,21.2,6,7.76,setembro/2026
 Porto Alegre,Farroupilha,casa,venda,4726.7,4404.3,6041.1,8,,setembro/2026
@@ -53,12 +53,12 @@ Porto Alegre,Floresta,casa,venda,3697.2,2555.6,5948.0,33,7.85,setembro/2026
 Porto Alegre,Floresta,casa,aluguel,24.2,18.7,29.2,13,7.85,setembro/2026
 Porto Alegre,Glória,casa,venda,3180.0,2197.8,4466.7,53,9.06,setembro/2026
 Porto Alegre,Glória,casa,aluguel,24.0,20.8,28.6,9,9.06,setembro/2026
-Porto Alegre,Guarujá,casa,venda,3321.5,2944.4,4088.2,81,7.23,setembro/2026
-Porto Alegre,Guarujá,casa,aluguel,20.0,16.9,27.7,19,7.23,setembro/2026
+Porto Alegre,Guarujá,casa,venda,3361.7,2980.2,4181.6,84,7.14,setembro/2026
+Porto Alegre,Guarujá,casa,aluguel,20.0,16.9,27.7,19,7.14,setembro/2026
 Porto Alegre,Higienópolis,casa,venda,4860.6,4262.5,6559.7,20,9.06,setembro/2026
 Porto Alegre,Higienópolis,casa,aluguel,36.7,34.1,42.1,6,9.06,setembro/2026
-Porto Alegre,Hípica,casa,venda,4642.9,3646.3,5594.6,251,7.91,setembro/2026
-Porto Alegre,Hípica,casa,aluguel,30.6,27.0,36.6,47,7.91,setembro/2026
+Porto Alegre,Hípica,casa,venda,4620.7,3644.9,5560.0,257,8.0,setembro/2026
+Porto Alegre,Hípica,casa,aluguel,30.8,26.8,37.0,46,8.0,setembro/2026
 Porto Alegre,Humaitá,casa,venda,3939.7,3021.4,4869.5,20,10.14,setembro/2026
 Porto Alegre,Humaitá,casa,aluguel,33.3,20.0,33.8,5,10.14,setembro/2026
 Porto Alegre,Independência,casa,venda,6181.3,5691.2,7269.4,6,,setembro/2026
@@ -87,13 +87,13 @@ Porto Alegre,Jardim Sabará,casa,venda,3737.5,2789.5,5490.2,45,8.89,setembro/202
 Porto Alegre,Jardim Sabará,casa,aluguel,27.7,22.5,32.0,11,8.89,setembro/2026
 Porto Alegre,Jardim São Pedro,casa,venda,3266.7,2258.5,3805.9,17,10.54,setembro/2026
 Porto Alegre,Jardim São Pedro,casa,aluguel,28.7,25.6,36.3,6,10.54,setembro/2026
-Porto Alegre,Lageado,casa,venda,2784.2,1654.2,3166.7,11,,setembro/2026
+Porto Alegre,Lageado,casa,venda,2692.1,1788.7,3083.3,12,,setembro/2026
 Porto Alegre,Lami,casa,venda,1082.0,950.0,1694.7,6,,setembro/2026
 Porto Alegre,Lomba Pínheiro,casa,venda,4739.7,2959.8,6328.6,46,7.37,setembro/2026
 Porto Alegre,Lomba Pínheiro,casa,aluguel,29.1,21.0,32.8,15,7.37,setembro/2026
 Porto Alegre,Mário Quintana,casa,venda,3813.6,2409.4,5266.7,45,,setembro/2026
-Porto Alegre,Medianeira,casa,venda,3112.1,2555.8,4483.5,58,7.21,setembro/2026
-Porto Alegre,Medianeira,casa,aluguel,18.7,16.7,20.7,8,7.21,setembro/2026
+Porto Alegre,Medianeira,casa,venda,3118.1,2562.7,4472.1,59,7.2,setembro/2026
+Porto Alegre,Medianeira,casa,aluguel,18.7,16.7,20.7,8,7.2,setembro/2026
 Porto Alegre,Menino Deus,casa,venda,4795.1,4058.4,6154.3,42,7.41,setembro/2026
 Porto Alegre,Menino Deus,casa,aluguel,29.6,23.4,42.7,23,7.41,setembro/2026
 Porto Alegre,Moinhos de Vento,casa,venda,9297.5,5782.6,12285.7,13,5.6,setembro/2026
@@ -120,8 +120,8 @@ Porto Alegre,Petrópolis,casa,aluguel,26.5,21.7,30.6,31,6.6,setembro/2026
 Porto Alegre,Ponta Grossa,casa,venda,3520.8,2104.9,4869.3,30,7.46,setembro/2026
 Porto Alegre,Ponta Grossa,casa,aluguel,21.9,12.2,23.4,11,7.46,setembro/2026
 Porto Alegre,Protásio Alves,casa,venda,3672.5,3210.2,4535.2,18,,setembro/2026
-Porto Alegre,Restinga,casa,venda,2717.1,2198.2,4790.0,51,14.0,setembro/2026
-Porto Alegre,Restinga,casa,aluguel,31.7,18.6,39.0,5,14.0,setembro/2026
+Porto Alegre,Restinga,casa,venda,2687.5,2148.8,4788.3,53,14.15,setembro/2026
+Porto Alegre,Restinga,casa,aluguel,31.7,18.6,39.0,5,14.15,setembro/2026
 Porto Alegre,Rio Branco,casa,venda,6603.8,5479.8,8541.7,27,5.91,setembro/2026
 Porto Alegre,Rio Branco,casa,aluguel,32.5,25.7,43.9,11,5.91,setembro/2026
 Porto Alegre,Rubem Berta,casa,venda,2642.4,2067.8,3232.8,45,8.13,setembro/2026
@@ -142,8 +142,8 @@ Porto Alegre,São João,casa,venda,5400.0,3541.7,6250.0,13,8.16,setembro/2026
 Porto Alegre,São João,casa,aluguel,36.7,34.8,41.3,5,8.16,setembro/2026
 Porto Alegre,São Sebastião,casa,venda,5089.8,3852.3,6472.2,18,7.95,setembro/2026
 Porto Alegre,São Sebastião,casa,aluguel,33.7,33.3,35.7,6,7.95,setembro/2026
-Porto Alegre,Sarandi,casa,venda,4500.0,2986.7,6153.8,101,5.95,setembro/2026
-Porto Alegre,Sarandi,casa,aluguel,22.3,16.4,31.2,26,5.95,setembro/2026
+Porto Alegre,Sarandi,casa,venda,4472.2,2944.9,6146.4,102,6.01,setembro/2026
+Porto Alegre,Sarandi,casa,aluguel,22.4,16.8,32.3,27,6.01,setembro/2026
 Porto Alegre,Serraria,casa,venda,2983.3,2106.2,4346.1,24,8.85,setembro/2026
 Porto Alegre,Serraria,casa,aluguel,22.0,19.8,23.4,6,8.85,setembro/2026
 Porto Alegre,Sétimo Céu,casa,venda,4358.5,3773.2,5926.1,10,,setembro/2026
@@ -162,16 +162,16 @@ Porto Alegre,Vila Ipiranga,casa,aluguel,31.5,29.2,44.0,8,9.07,setembro/2026
 Porto Alegre,Vila Jardim,casa,venda,4394.8,3154.0,5427.7,36,8.66,setembro/2026
 Porto Alegre,Vila Jardim,casa,aluguel,31.7,25.0,44.5,12,8.66,setembro/2026
 Porto Alegre,Vila João Pessoa,casa,venda,2857.5,2122.6,3823.6,16,,setembro/2026
-Porto Alegre,Vila Nova,casa,venda,3806.2,2802.9,5846.9,92,7.76,setembro/2026
-Porto Alegre,Vila Nova,casa,aluguel,24.6,20.6,30.6,22,7.76,setembro/2026
+Porto Alegre,Vila Nova,casa,venda,3800.0,2820.5,5781.2,93,7.77,setembro/2026
+Porto Alegre,Vila Nova,casa,aluguel,24.6,20.6,30.6,22,7.77,setembro/2026
 Porto Alegre,Vila Operária,casa,venda,3055.6,2677.4,4708.4,15,,setembro/2026
 Porto Alegre,Vila São José,casa,venda,2563.3,1916.1,2950.4,24,,setembro/2026
 Porto Alegre,Aberta dos Morros,apartamento,venda,3353.7,3202.7,3924.2,13,11.81,setembro/2026
 Porto Alegre,Aberta dos Morros,apartamento,aluguel,33.0,25.3,40.7,12,11.81,setembro/2026
 Porto Alegre,Agronomia,apartamento,venda,4598.6,3529.9,5048.0,16,6.21,setembro/2026
 Porto Alegre,Agronomia,apartamento,aluguel,23.8,23.0,33.9,7,6.21,setembro/2026
-Porto Alegre,Auxiliadora,apartamento,venda,12021.4,7028.9,16009.5,306,6.78,setembro/2026
-Porto Alegre,Auxiliadora,apartamento,aluguel,67.9,44.3,82.1,44,6.78,setembro/2026
+Porto Alegre,Auxiliadora,apartamento,venda,11995.5,7007.5,15983.8,307,6.79,setembro/2026
+Porto Alegre,Auxiliadora,apartamento,aluguel,67.9,44.3,82.1,44,6.79,setembro/2026
 Porto Alegre,Azenha,apartamento,venda,5035.1,4000.0,7666.7,97,8.44,setembro/2026
 Porto Alegre,Azenha,apartamento,aluguel,35.4,31.0,49.2,41,8.44,setembro/2026
 Porto Alegre,Bela Vista,apartamento,venda,11732.5,8220.6,16871.0,384,5.96,setembro/2026
@@ -183,8 +183,8 @@ Porto Alegre,Bom Fim,apartamento,venda,7529.1,5538.2,10977.2,148,7.33,setembro/2
 Porto Alegre,Bom Fim,apartamento,aluguel,46.0,34.4,56.8,66,7.33,setembro/2026
 Porto Alegre,Bom Jesus,apartamento,venda,4655.2,3708.6,6495.2,59,10.93,setembro/2026
 Porto Alegre,Bom Jesus,apartamento,aluguel,42.4,38.0,50.2,41,10.93,setembro/2026
-Porto Alegre,Camaquã,apartamento,venda,4270.8,3532.0,5824.2,79,7.7,setembro/2026
-Porto Alegre,Camaquã,apartamento,aluguel,27.4,20.4,34.1,26,7.7,setembro/2026
+Porto Alegre,Camaquã,apartamento,venda,4355.2,3558.4,5824.2,79,7.55,setembro/2026
+Porto Alegre,Camaquã,apartamento,aluguel,27.4,20.4,34.1,26,7.55,setembro/2026
 Porto Alegre,Campo Novo,apartamento,venda,3817.8,3139.1,4746.7,34,7.67,setembro/2026
 Porto Alegre,Campo Novo,apartamento,aluguel,24.4,19.5,27.8,23,7.67,setembro/2026
 Porto Alegre,Cascata,apartamento,venda,5792.7,4478.3,6537.0,5,,setembro/2026
@@ -194,29 +194,29 @@ Porto Alegre,Central Parque,apartamento,venda,10734.0,9308.7,13269.4,54,6.34,set
 Porto Alegre,Central Parque,apartamento,aluguel,56.7,43.7,71.4,30,6.34,setembro/2026
 Porto Alegre,Centro,apartamento,venda,5198.7,4194.9,6831.7,112,8.73,setembro/2026
 Porto Alegre,Centro,apartamento,aluguel,37.8,27.7,50.6,38,8.73,setembro/2026
-Porto Alegre,Centro Histórico,apartamento,venda,4972.8,3945.4,6519.3,336,8.3,setembro/2026
+Porto Alegre,Centro Histórico,apartamento,venda,4975.0,3948.7,6514.3,333,8.3,setembro/2026
 Porto Alegre,Centro Histórico,apartamento,aluguel,34.4,27.5,45.7,77,8.3,setembro/2026
-Porto Alegre,Chácara das Pedras,apartamento,venda,8000.0,5611.7,12414.4,91,6.51,setembro/2026
-Porto Alegre,Chácara das Pedras,apartamento,aluguel,43.4,35.2,61.0,32,6.51,setembro/2026
-Porto Alegre,Chapéu do Sol,apartamento,venda,2487.8,2121.3,2892.8,22,8.39,setembro/2026
-Porto Alegre,Chapéu do Sol,apartamento,aluguel,17.4,14.1,19.5,15,8.39,setembro/2026
-Porto Alegre,Cidade Baixa,apartamento,venda,6153.8,4689.5,9875.0,209,8.81,setembro/2026
-Porto Alegre,Cidade Baixa,apartamento,aluguel,45.2,35.8,64.2,87,8.81,setembro/2026
+Porto Alegre,Chácara das Pedras,apartamento,venda,7931.5,5597.0,12457.2,90,6.57,setembro/2026
+Porto Alegre,Chácara das Pedras,apartamento,aluguel,43.4,35.2,61.0,32,6.57,setembro/2026
+Porto Alegre,Chapéu do Sol,apartamento,venda,2500.0,2144.6,2961.2,23,8.35,setembro/2026
+Porto Alegre,Chapéu do Sol,apartamento,aluguel,17.4,14.1,19.5,15,8.35,setembro/2026
+Porto Alegre,Cidade Baixa,apartamento,venda,6158.3,4687.8,9902.7,208,8.75,setembro/2026
+Porto Alegre,Cidade Baixa,apartamento,aluguel,44.9,35.9,63.5,88,8.75,setembro/2026
 Porto Alegre,Coronel Aparício Borges,apartamento,venda,4230.8,3608.1,5004.6,11,,setembro/2026
 Porto Alegre,Costa e Silva,apartamento,venda,4000.0,3375.0,4980.0,29,9.0,setembro/2026
 Porto Alegre,Costa e Silva,apartamento,aluguel,30.0,26.3,37.3,16,9.0,setembro/2026
 Porto Alegre,Cristal,apartamento,venda,5483.9,3936.1,8366.7,159,6.19,setembro/2026
 Porto Alegre,Cristal,apartamento,aluguel,28.3,21.6,43.8,42,6.19,setembro/2026
-Porto Alegre,Cristo Redentor,apartamento,venda,6203.2,4421.8,8307.5,178,7.62,setembro/2026
-Porto Alegre,Cristo Redentor,apartamento,aluguel,39.4,28.1,54.0,47,7.62,setembro/2026
+Porto Alegre,Cristo Redentor,apartamento,venda,6203.2,4421.8,8307.5,178,7.68,setembro/2026
+Porto Alegre,Cristo Redentor,apartamento,aluguel,39.7,28.3,54.9,48,7.68,setembro/2026
 Porto Alegre,Ecoville,apartamento,venda,5724.6,3850.5,6915.5,11,,setembro/2026
 Porto Alegre,Espírito Santo,apartamento,venda,3559.3,2571.4,3686.6,5,,setembro/2026
 Porto Alegre,Farrapos,apartamento,venda,3947.4,3288.7,6245.1,23,10.79,setembro/2026
 Porto Alegre,Farrapos,apartamento,aluguel,35.5,26.0,41.5,17,10.79,setembro/2026
-Porto Alegre,Farroupilha,apartamento,venda,5465.1,4444.4,7558.7,65,9.77,setembro/2026
-Porto Alegre,Farroupilha,apartamento,aluguel,44.5,29.1,71.8,38,9.77,setembro/2026
-Porto Alegre,Floresta,apartamento,venda,5308.3,4157.1,8191.9,147,9.34,setembro/2026
-Porto Alegre,Floresta,apartamento,aluguel,41.3,29.5,45.8,24,9.34,setembro/2026
+Porto Alegre,Farroupilha,apartamento,venda,5411.1,4430.3,7649.0,64,9.87,setembro/2026
+Porto Alegre,Farroupilha,apartamento,aluguel,44.5,29.1,71.8,38,9.87,setembro/2026
+Porto Alegre,Floresta,apartamento,venda,5322.9,4173.1,8011.6,148,9.31,setembro/2026
+Porto Alegre,Floresta,apartamento,aluguel,41.3,29.5,45.8,24,9.31,setembro/2026
 Porto Alegre,Glória,apartamento,venda,4614.7,3809.5,5881.3,86,8.37,setembro/2026
 Porto Alegre,Glória,apartamento,aluguel,32.2,21.3,37.1,26,8.37,setembro/2026
 Porto Alegre,Golden Lake,apartamento,venda,23622.0,21711.4,24431.8,13,,setembro/2026
@@ -224,14 +224,14 @@ Porto Alegre,Guarujá,apartamento,venda,3486.8,2747.3,4514.5,17,9.64,setembro/20
 Porto Alegre,Guarujá,apartamento,aluguel,28.0,26.2,30.0,13,9.64,setembro/2026
 Porto Alegre,Higienópolis,apartamento,venda,8715.6,5930.2,12641.5,181,5.91,setembro/2026
 Porto Alegre,Higienópolis,apartamento,aluguel,42.9,31.8,48.4,24,5.91,setembro/2026
-Porto Alegre,Hípica,apartamento,venda,4117.6,3422.1,4711.5,33,8.6,setembro/2026
-Porto Alegre,Hípica,apartamento,aluguel,29.5,24.4,33.8,9,8.6,setembro/2026
+Porto Alegre,Hípica,apartamento,venda,4152.6,3438.0,4708.7,34,8.52,setembro/2026
+Porto Alegre,Hípica,apartamento,aluguel,29.5,24.4,33.8,9,8.52,setembro/2026
 Porto Alegre,Humaitá,apartamento,venda,4166.7,3320.0,5000.0,57,8.24,setembro/2026
 Porto Alegre,Humaitá,apartamento,aluguel,28.6,23.0,38.1,29,8.24,setembro/2026
 Porto Alegre,Independência,apartamento,venda,6791.3,4758.6,9003.5,132,8.32,setembro/2026
 Porto Alegre,Independência,apartamento,aluguel,47.1,32.4,61.9,37,8.32,setembro/2026
-Porto Alegre,Ipanema,apartamento,venda,5245.9,4314.5,5932.5,43,5.08,setembro/2026
-Porto Alegre,Ipanema,apartamento,aluguel,22.2,18.5,27.7,11,5.08,setembro/2026
+Porto Alegre,Ipanema,apartamento,venda,5293.4,4334.7,6043.2,44,5.03,setembro/2026
+Porto Alegre,Ipanema,apartamento,aluguel,22.2,18.5,27.7,11,5.03,setembro/2026
 Porto Alegre,Jardim Botânico,apartamento,venda,8189.2,5841.5,10611.6,184,5.71,setembro/2026
 Porto Alegre,Jardim Botânico,apartamento,aluguel,39.0,31.7,55.7,48,5.71,setembro/2026
 Porto Alegre,Jardim Carvalho,apartamento,venda,5951.6,4982.8,7040.0,65,6.57,setembro/2026
@@ -263,7 +263,7 @@ Porto Alegre,Mário Quintana,apartamento,venda,3498.0,2595.4,4329.6,35,7.51,sete
 Porto Alegre,Mário Quintana,apartamento,aluguel,21.9,19.2,24.0,15,7.51,setembro/2026
 Porto Alegre,Medianeira,apartamento,venda,4051.7,3389.8,4677.4,65,7.23,setembro/2026
 Porto Alegre,Medianeira,apartamento,aluguel,24.4,21.9,29.6,22,7.23,setembro/2026
-Porto Alegre,Menino Deus,apartamento,venda,8305.9,5509.7,11802.6,382,5.88,setembro/2026
+Porto Alegre,Menino Deus,apartamento,venda,8305.9,5514.7,11866.5,384,5.88,setembro/2026
 Porto Alegre,Menino Deus,apartamento,aluguel,40.7,32.7,53.5,62,5.88,setembro/2026
 Porto Alegre,Moinhos de Vento,apartamento,venda,13149.4,7852.5,19786.2,254,5.47,setembro/2026
 Porto Alegre,Moinhos de Vento,apartamento,aluguel,59.9,36.5,93.2,56,5.47,setembro/2026
@@ -273,27 +273,27 @@ Porto Alegre,Morro Santana,apartamento,venda,4742.2,4044.4,5692.1,80,6.6,setembr
 Porto Alegre,Morro Santana,apartamento,aluguel,26.1,23.3,33.6,39,6.6,setembro/2026
 Porto Alegre,Navegantes,apartamento,venda,4347.1,3203.3,7346.9,28,12.28,setembro/2026
 Porto Alegre,Navegantes,apartamento,aluguel,44.5,34.8,59.9,12,12.28,setembro/2026
-Porto Alegre,Nonoai,apartamento,venda,4189.2,3274.0,4874.2,50,7.16,setembro/2026
-Porto Alegre,Nonoai,apartamento,aluguel,25.0,23.3,29.7,25,7.16,setembro/2026
+Porto Alegre,Nonoai,apartamento,venda,4203.1,3274.6,4943.9,51,7.14,setembro/2026
+Porto Alegre,Nonoai,apartamento,aluguel,25.0,23.3,29.7,25,7.14,setembro/2026
 Porto Alegre,Parque dos Maias,apartamento,venda,2561.0,2290.8,2891.6,32,,setembro/2026
 Porto Alegre,Parque Santa Fé,apartamento,venda,3963.3,3248.6,4919.3,66,7.3,setembro/2026
 Porto Alegre,Parque Santa Fé,apartamento,aluguel,24.1,19.8,28.8,19,7.3,setembro/2026
-Porto Alegre,Partenon,apartamento,venda,5302.9,4020.8,7380.0,145,9.03,setembro/2026
-Porto Alegre,Partenon,apartamento,aluguel,39.9,32.2,55.0,40,9.03,setembro/2026
-Porto Alegre,Passo da Areia,apartamento,venda,8210.5,5238.1,10783.8,277,6.59,setembro/2026
-Porto Alegre,Passo da Areia,apartamento,aluguel,45.1,32.7,60.2,52,6.59,setembro/2026
+Porto Alegre,Partenon,apartamento,venda,5389.5,4022.6,7359.3,146,8.88,setembro/2026
+Porto Alegre,Partenon,apartamento,aluguel,39.9,32.2,55.0,40,8.88,setembro/2026
+Porto Alegre,Passo da Areia,apartamento,venda,8210.5,5238.1,10783.8,277,6.72,setembro/2026
+Porto Alegre,Passo da Areia,apartamento,aluguel,46.0,33.1,60.7,53,6.72,setembro/2026
 Porto Alegre,Passo das Pedras,apartamento,venda,4791.7,3657.2,5362.3,27,8.56,setembro/2026
 Porto Alegre,Passo das Pedras,apartamento,aluguel,34.2,31.4,41.5,6,8.56,setembro/2026
 Porto Alegre,Pedra Redonda,apartamento,venda,4464.4,3110.8,9400.6,16,,setembro/2026
-Porto Alegre,Petrópolis,apartamento,venda,9682.0,5911.8,14087.2,754,5.32,setembro/2026
-Porto Alegre,Petrópolis,apartamento,aluguel,42.9,31.2,59.5,129,5.32,setembro/2026
+Porto Alegre,Petrópolis,apartamento,venda,9664.9,5901.0,14084.6,755,5.33,setembro/2026
+Porto Alegre,Petrópolis,apartamento,aluguel,42.9,31.2,59.5,129,5.33,setembro/2026
 Porto Alegre,Praia de Belas,apartamento,venda,7434.2,4828.5,14812.9,90,6.94,setembro/2026
 Porto Alegre,Praia de Belas,apartamento,aluguel,43.0,31.8,77.1,44,6.94,setembro/2026
 Porto Alegre,Protásio Alves,apartamento,venda,4127.1,3196.8,4712.0,40,6.98,setembro/2026
 Porto Alegre,Protásio Alves,apartamento,aluguel,24.0,23.0,27.0,6,6.98,setembro/2026
 Porto Alegre,Restinga,apartamento,venda,3565.2,2916.0,4217.1,58,7.27,setembro/2026
 Porto Alegre,Restinga,apartamento,aluguel,21.6,18.6,26.9,28,7.27,setembro/2026
-Porto Alegre,Rio Branco,apartamento,venda,11121.6,6124.8,15540.2,370,4.56,setembro/2026
+Porto Alegre,Rio Branco,apartamento,venda,11132.1,6146.2,15541.3,369,4.56,setembro/2026
 Porto Alegre,Rio Branco,apartamento,aluguel,42.3,32.2,63.3,58,4.56,setembro/2026
 Porto Alegre,Rubem Berta,apartamento,venda,2968.3,2374.8,3978.6,92,10.19,setembro/2026
 Porto Alegre,Rubem Berta,apartamento,aluguel,25.2,22.5,28.7,32,10.19,setembro/2026
@@ -303,26 +303,26 @@ Porto Alegre,Santa Maria Goretti,apartamento,venda,4232.0,3557.3,6831.0,35,8.9,s
 Porto Alegre,Santa Maria Goretti,apartamento,aluguel,31.4,23.0,37.9,10,8.9,setembro/2026
 Porto Alegre,Santa Rosa de Lima,apartamento,venda,2938.8,2206.6,4342.6,27,9.47,setembro/2026
 Porto Alegre,Santa Rosa de Lima,apartamento,aluguel,23.2,19.2,27.6,6,9.47,setembro/2026
-Porto Alegre,Santa Tereza,apartamento,venda,4526.1,3436.3,6491.7,80,7.13,setembro/2026
-Porto Alegre,Santa Tereza,apartamento,aluguel,26.9,21.0,32.1,34,7.13,setembro/2026
+Porto Alegre,Santa Tereza,apartamento,venda,4610.4,3415.9,6520.8,79,7.0,setembro/2026
+Porto Alegre,Santa Tereza,apartamento,aluguel,26.9,21.0,32.1,34,7.0,setembro/2026
 Porto Alegre,Santana,apartamento,venda,5279.0,4269.7,7385.6,161,8.02,setembro/2026
 Porto Alegre,Santana,apartamento,aluguel,35.3,27.6,49.5,58,8.02,setembro/2026
 Porto Alegre,Santo Antônio,apartamento,venda,5000.0,4000.0,5888.9,77,7.78,setembro/2026
 Porto Alegre,Santo Antônio,apartamento,aluguel,32.4,26.0,38.3,39,7.78,setembro/2026
 Porto Alegre,São Geraldo,apartamento,venda,4387.2,3643.0,6056.9,62,7.25,setembro/2026
 Porto Alegre,São Geraldo,apartamento,aluguel,26.5,21.5,33.8,25,7.25,setembro/2026
-Porto Alegre,São João,apartamento,venda,6235.4,4526.1,9009.7,148,6.56,setembro/2026
-Porto Alegre,São João,apartamento,aluguel,34.1,25.7,52.4,30,6.56,setembro/2026
+Porto Alegre,São João,apartamento,venda,6296.3,4519.8,9011.1,147,6.5,setembro/2026
+Porto Alegre,São João,apartamento,aluguel,34.1,25.7,52.4,30,6.5,setembro/2026
 Porto Alegre,São Sebastião,apartamento,venda,4611.1,3677.4,6582.0,83,8.02,setembro/2026
 Porto Alegre,São Sebastião,apartamento,aluguel,30.8,22.3,40.1,30,8.02,setembro/2026
 Porto Alegre,Sarandi,apartamento,venda,4810.1,3921.6,6239.4,137,6.24,setembro/2026
 Porto Alegre,Sarandi,apartamento,aluguel,25.0,22.2,31.0,21,6.24,setembro/2026
-Porto Alegre,Teresópolis,apartamento,venda,4868.5,3759.8,6512.6,108,10.35,setembro/2026
-Porto Alegre,Teresópolis,apartamento,aluguel,42.0,28.8,68.6,33,10.35,setembro/2026
-Porto Alegre,Três Figueiras,apartamento,venda,15111.1,11347.6,17950.5,139,5.13,setembro/2026
-Porto Alegre,Três Figueiras,apartamento,aluguel,64.6,48.0,90.8,25,5.13,setembro/2026
-Porto Alegre,Tristeza,apartamento,venda,7711.0,5365.1,9363.8,195,7.27,setembro/2026
-Porto Alegre,Tristeza,apartamento,aluguel,46.7,34.1,54.2,30,7.27,setembro/2026
+Porto Alegre,Teresópolis,apartamento,venda,4857.1,3734.7,6509.6,109,10.38,setembro/2026
+Porto Alegre,Teresópolis,apartamento,aluguel,42.0,28.8,68.6,33,10.38,setembro/2026
+Porto Alegre,Três Figueiras,apartamento,venda,15050.7,11394.9,17947.9,140,5.15,setembro/2026
+Porto Alegre,Três Figueiras,apartamento,aluguel,64.6,48.0,90.8,25,5.15,setembro/2026
+Porto Alegre,Tristeza,apartamento,venda,7701.1,5306.5,9303.4,198,7.28,setembro/2026
+Porto Alegre,Tristeza,apartamento,aluguel,46.7,34.1,54.2,30,7.28,setembro/2026
 Porto Alegre,Vila Assunção,apartamento,venda,7342.1,4912.5,10081.3,23,7.71,setembro/2026
 Porto Alegre,Vila Assunção,apartamento,aluguel,47.2,31.2,59.7,27,7.71,setembro/2026
 Porto Alegre,Vila Conceição,apartamento,venda,4593.2,3451.4,9940.7,11,,setembro/2026
@@ -331,8 +331,8 @@ Porto Alegre,Vila Ipiranga,apartamento,aluguel,41.9,33.0,52.9,70,9.12,setembro/2
 Porto Alegre,Vila Jardim,apartamento,venda,4879.1,4002.6,7692.2,38,7.75,setembro/2026
 Porto Alegre,Vila Jardim,apartamento,aluguel,31.5,25.9,37.3,31,7.75,setembro/2026
 Porto Alegre,Vila João Pessoa,apartamento,venda,4044.3,3158.1,4612.0,22,,setembro/2026
-Porto Alegre,Vila Nova,apartamento,venda,3976.3,3235.6,4882.7,90,6.76,setembro/2026
-Porto Alegre,Vila Nova,apartamento,aluguel,22.4,19.5,28.2,32,6.76,setembro/2026
+Porto Alegre,Vila Nova,apartamento,venda,4000.0,3256.6,4951.1,87,6.72,setembro/2026
+Porto Alegre,Vila Nova,apartamento,aluguel,22.4,19.5,28.2,32,6.72,setembro/2026
 Porto Alegre,Vila Operária,apartamento,venda,4802.8,4253.1,5328.6,16,5.72,setembro/2026
 Porto Alegre,Vila Operária,apartamento,aluguel,22.9,20.5,28.9,19,5.72,setembro/2026
 Porto Alegre,Vila São José,apartamento,venda,3747.4,3362.3,4301.4,40,8.97,setembro/2026
@@ -358,10 +358,10 @@ Porto Alegre,Cristo Redentor,terreno,venda,1731.3,1147.5,2125.0,9,,setembro/2026
 Porto Alegre,Espírito Santo,terreno,venda,925.0,768.3,1232.8,16,,setembro/2026
 Porto Alegre,Floresta,terreno,venda,2160.2,1770.8,2249.9,10,,setembro/2026
 Porto Alegre,Glória,terreno,venda,1191.5,914.9,1727.9,13,,setembro/2026
-Porto Alegre,Guarujá,terreno,venda,775.0,666.7,890.0,13,,setembro/2026
+Porto Alegre,Guarujá,terreno,venda,776.1,673.0,873.8,14,,setembro/2026
 Porto Alegre,Hípica,terreno,venda,979.4,718.8,1170.3,33,,setembro/2026
 Porto Alegre,Independência,terreno,venda,3605.7,2287.9,5368.4,6,,setembro/2026
-Porto Alegre,Ipanema,terreno,venda,1070.3,702.0,1835.7,34,,setembro/2026
+Porto Alegre,Ipanema,terreno,venda,1054.3,647.7,1824.4,35,,setembro/2026
 Porto Alegre,Jardim Botânico,terreno,venda,2259.8,1792.7,2625.5,16,,setembro/2026
 Porto Alegre,Jardim Isabel,terreno,venda,898.9,791.4,1100.6,5,,setembro/2026
 Porto Alegre,Jardim Itu,terreno,venda,1408.5,1198.3,1567.5,14,,setembro/2026
@@ -372,7 +372,7 @@ Porto Alegre,Lami,terreno,venda,128.7,58.6,144.4,6,,setembro/2026
 Porto Alegre,Lomba Pínheiro,terreno,venda,711.1,260.3,967.2,16,,setembro/2026
 Porto Alegre,Mário Quintana,terreno,venda,626.7,572.4,799.5,11,,setembro/2026
 Porto Alegre,Medianeira,terreno,venda,1214.2,1000.0,1545.5,9,,setembro/2026
-Porto Alegre,Menino Deus,terreno,venda,1605.7,931.7,2723.1,10,,setembro/2026
+Porto Alegre,Menino Deus,terreno,venda,1714.0,1072.5,2521.3,11,,setembro/2026
 Porto Alegre,Morro Santana,terreno,venda,1052.1,816.6,1084.0,5,,setembro/2026
 Porto Alegre,Navegantes,terreno,venda,1763.7,1253.0,2036.1,7,,setembro/2026
 Porto Alegre,Nonoai,terreno,venda,659.8,378.8,783.7,21,,setembro/2026
@@ -386,7 +386,7 @@ Porto Alegre,Restinga,terreno,venda,830.5,383.5,876.7,11,,setembro/2026
 Porto Alegre,Rio Branco,terreno,venda,3646.5,3199.8,6290.0,6,,setembro/2026
 Porto Alegre,Rubem Berta,terreno,venda,824.4,594.6,1421.9,8,,setembro/2026
 Porto Alegre,Santa Maria Goretti,terreno,venda,1605.4,1306.3,1900.7,6,,setembro/2026
-Porto Alegre,Santa Tereza,terreno,venda,725.2,537.2,1247.7,5,,setembro/2026
+Porto Alegre,Santa Tereza,terreno,venda,788.2,584.2,1148.6,6,,setembro/2026
 Porto Alegre,Santana,terreno,venda,2362.9,1817.5,3363.0,12,,setembro/2026
 Porto Alegre,Santo Antônio,terreno,venda,1214.6,1066.8,1569.0,7,,setembro/2026
 Porto Alegre,São Geraldo,terreno,venda,2258.0,1921.9,4083.8,6,,setembro/2026
@@ -399,8 +399,8 @@ Porto Alegre,Vila Assunção,terreno,venda,2131.8,1293.1,2312.9,5,,setembro/2026
 Porto Alegre,Vila Conceição,terreno,venda,679.9,585.2,1002.5,6,,setembro/2026
 Porto Alegre,Vila Ipiranga,terreno,venda,1522.7,1323.0,2183.2,20,,setembro/2026
 Porto Alegre,Vila Jardim,terreno,venda,1115.5,910.4,2202.0,15,,setembro/2026
-Porto Alegre,Vila João Pessoa,terreno,venda,1111.7,1111.1,1152.8,5,,setembro/2026
-Porto Alegre,Vila Nova,terreno,venda,571.9,322.0,837.4,39,,setembro/2026
+Porto Alegre,Vila João Pessoa,terreno,venda,1111.4,1033.3,1142.5,6,,setembro/2026
+Porto Alegre,Vila Nova,terreno,venda,577.4,330.8,831.1,40,,setembro/2026
 Porto Alegre,Aberta dos Morros,sala,aluguel,38.9,32.9,45.8,8,,setembro/2026
 Porto Alegre,Auxiliadora,sala,venda,7254.5,4819.2,11578.9,62,7.61,setembro/2026
 Porto Alegre,Auxiliadora,sala,aluguel,46.0,29.3,65.4,55,7.61,setembro/2026
@@ -418,8 +418,8 @@ Porto Alegre,Cavalhada,sala,aluguel,34.7,26.9,47.1,18,,setembro/2026
 Porto Alegre,Central Parque,sala,aluguel,47.9,45.8,50.4,8,,setembro/2026
 Porto Alegre,Centro,sala,venda,3068.4,2195.7,3706.2,38,7.51,setembro/2026
 Porto Alegre,Centro,sala,aluguel,19.2,14.2,25.0,57,7.51,setembro/2026
-Porto Alegre,Centro Histórico,sala,venda,2774.2,2158.1,3913.4,166,8.69,setembro/2026
-Porto Alegre,Centro Histórico,sala,aluguel,20.1,14.5,28.8,108,8.69,setembro/2026
+Porto Alegre,Centro Histórico,sala,venda,2796.5,2149.7,3960.5,164,8.63,setembro/2026
+Porto Alegre,Centro Histórico,sala,aluguel,20.1,14.5,28.8,108,8.63,setembro/2026
 Porto Alegre,Chácara das Pedras,sala,venda,16292.9,14017.2,22225.8,9,4.42,setembro/2026
 Porto Alegre,Chácara das Pedras,sala,aluguel,60.0,40.7,60.0,5,4.42,setembro/2026
 Porto Alegre,Cidade Baixa,sala,venda,6818.2,4672.9,9499.9,27,5.39,setembro/2026
@@ -430,27 +430,27 @@ Porto Alegre,Cristo Redentor,sala,venda,8526.1,6109.6,9583.9,28,6.18,setembro/20
 Porto Alegre,Cristo Redentor,sala,aluguel,43.9,32.9,53.2,11,6.18,setembro/2026
 Porto Alegre,Espírito Santo,sala,aluguel,32.7,30.8,36.0,7,,setembro/2026
 Porto Alegre,Farroupilha,sala,aluguel,28.6,23.0,55.7,11,,setembro/2026
-Porto Alegre,Floresta,sala,venda,4419.2,3155.0,6540.2,64,9.07,setembro/2026
-Porto Alegre,Floresta,sala,aluguel,33.4,21.5,68.6,30,9.07,setembro/2026
+Porto Alegre,Floresta,sala,venda,4393.9,3151.0,6553.1,63,9.12,setembro/2026
+Porto Alegre,Floresta,sala,aluguel,33.4,21.5,68.6,30,9.12,setembro/2026
 Porto Alegre,Glória,sala,aluguel,43.0,31.5,55.0,19,,setembro/2026
-Porto Alegre,Higienópolis,sala,venda,6235.4,5045.6,8802.3,22,12.57,setembro/2026
-Porto Alegre,Higienópolis,sala,aluguel,65.3,30.0,80.0,17,12.57,setembro/2026
+Porto Alegre,Higienópolis,sala,venda,6202.9,5065.1,8767.4,23,12.63,setembro/2026
+Porto Alegre,Higienópolis,sala,aluguel,65.3,30.0,80.0,17,12.63,setembro/2026
 Porto Alegre,Independência,sala,venda,9375.0,4687.5,10377.9,25,5.25,setembro/2026
 Porto Alegre,Independência,sala,aluguel,41.0,23.6,60.4,20,5.25,setembro/2026
 Porto Alegre,Ipanema,sala,aluguel,34.5,30.0,37.5,9,,setembro/2026
 Porto Alegre,Jardim Lindóia,sala,venda,8040.0,6897.9,9632.2,19,,setembro/2026
-Porto Alegre,Menino Deus,sala,venda,7501.6,5943.5,9270.3,52,8.59,setembro/2026
-Porto Alegre,Menino Deus,sala,aluguel,53.7,33.3,54.3,35,8.59,setembro/2026
-Porto Alegre,Moinhos de Vento,sala,venda,7692.3,5135.1,10561.4,61,6.24,setembro/2026
+Porto Alegre,Menino Deus,sala,venda,7427.5,5911.6,9320.3,51,8.68,setembro/2026
+Porto Alegre,Menino Deus,sala,aluguel,53.7,33.3,54.3,35,8.68,setembro/2026
+Porto Alegre,Moinhos de Vento,sala,venda,7692.9,5195.9,10717.3,62,6.24,setembro/2026
 Porto Alegre,Moinhos de Vento,sala,aluguel,40.0,30.1,54.3,46,6.24,setembro/2026
 Porto Alegre,Mont Serrat,sala,venda,9640.3,4044.1,16711.4,14,5.28,setembro/2026
 Porto Alegre,Mont Serrat,sala,aluguel,42.4,33.9,76.4,10,5.28,setembro/2026
 Porto Alegre,Navegantes,sala,aluguel,29.0,27.0,30.9,6,,setembro/2026
 Porto Alegre,Partenon,sala,aluguel,32.1,20.0,44.0,5,,setembro/2026
-Porto Alegre,Passo da Areia,sala,venda,3423.1,2946.4,4700.6,54,6.35,setembro/2026
-Porto Alegre,Passo da Areia,sala,aluguel,18.1,14.6,22.9,23,6.35,setembro/2026
-Porto Alegre,Petrópolis,sala,venda,5387.5,3872.6,7337.8,66,8.91,setembro/2026
-Porto Alegre,Petrópolis,sala,aluguel,40.0,27.5,51.6,26,8.91,setembro/2026
+Porto Alegre,Passo da Areia,sala,venda,3435.5,2955.7,4739.7,53,6.32,setembro/2026
+Porto Alegre,Passo da Areia,sala,aluguel,18.1,14.6,22.9,23,6.32,setembro/2026
+Porto Alegre,Petrópolis,sala,venda,5375.0,3888.0,7333.5,67,8.93,setembro/2026
+Porto Alegre,Petrópolis,sala,aluguel,40.0,27.5,51.6,26,8.93,setembro/2026
 Porto Alegre,Praia de Belas,sala,venda,9975.0,8235.3,12848.5,41,8.01,setembro/2026
 Porto Alegre,Praia de Belas,sala,aluguel,66.6,43.6,81.8,49,8.01,setembro/2026
 Porto Alegre,Restinga,sala,aluguel,35.1,30.8,42.4,9,,setembro/2026
@@ -470,12 +470,12 @@ Porto Alegre,São Sebastião,sala,venda,10000.0,7830.3,10738.1,7,3.76,setembro/2
 Porto Alegre,São Sebastião,sala,aluguel,31.3,27.6,52.1,9,3.76,setembro/2026
 Porto Alegre,Sarandi,sala,venda,5428.6,4564.1,10256.4,5,5.04,setembro/2026
 Porto Alegre,Sarandi,sala,aluguel,22.8,18.6,46.4,10,5.04,setembro/2026
-Porto Alegre,Teresópolis,sala,venda,8695.7,4347.8,11530.9,9,5.74,setembro/2026
-Porto Alegre,Teresópolis,sala,aluguel,41.6,30.6,55.5,8,5.74,setembro/2026
+Porto Alegre,Teresópolis,sala,venda,8657.9,4198.2,11187.5,11,5.77,setembro/2026
+Porto Alegre,Teresópolis,sala,aluguel,41.6,30.6,55.5,8,5.77,setembro/2026
 Porto Alegre,Três Figueiras,sala,venda,7705.4,6556.0,9503.4,10,5.22,setembro/2026
 Porto Alegre,Três Figueiras,sala,aluguel,33.5,25.4,75.7,10,5.22,setembro/2026
-Porto Alegre,Tristeza,sala,venda,10145.2,9375.0,11322.2,13,5.46,setembro/2026
-Porto Alegre,Tristeza,sala,aluguel,46.2,30.6,69.2,41,5.46,setembro/2026
+Porto Alegre,Tristeza,sala,venda,9934.8,7999.2,11318.9,14,5.58,setembro/2026
+Porto Alegre,Tristeza,sala,aluguel,46.2,30.6,69.2,41,5.58,setembro/2026
 Porto Alegre,Vila Nova,sala,aluguel,28.3,24.3,29.1,5,,setembro/2026
 Porto Alegre,Anchieta,galpao,venda,2060.6,1491.4,3219.8,14,8.44,setembro/2026
 Porto Alegre,Anchieta,galpao,aluguel,14.5,11.1,17.6,30,8.44,setembro/2026

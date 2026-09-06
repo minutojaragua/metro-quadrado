@@ -1,6 +1,6 @@
 cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
-Porto Belo,Alto Perequê,apartamento,venda,13257.6,11582.3,17109.4,21,,setembro/2026
-Porto Belo,Balneário Perequê,apartamento,venda,15619.5,12573.1,19804.8,452,4.05,setembro/2026
+Porto Belo,Alto Perequê,apartamento,venda,12998.7,11085.0,16994.5,22,,setembro/2026
+Porto Belo,Balneário Perequê,apartamento,venda,15614.0,12575.8,19800.0,453,4.05,setembro/2026
 Porto Belo,Balneário Perequê,apartamento,aluguel,52.7,45.9,58.7,32,4.05,setembro/2026
 Porto Belo,Centro,apartamento,venda,15940.5,12323.9,18847.8,91,1.11,setembro/2026
 Porto Belo,Centro,apartamento,aluguel,14.8,6.2,17.5,5,1.11,setembro/2026
@@ -23,7 +23,7 @@ Porto Belo,Balneário Perequê,terreno,venda,5376.9,3676.2,8118.9,30,,setembro/2
 Porto Belo,Centro,terreno,venda,3333.3,1604.6,5621.3,37,,setembro/2026
 Porto Belo,Jardim Dourado,terreno,venda,3617.2,3185.3,3872.2,24,,setembro/2026
 Porto Belo,Santa Luzia,terreno,venda,7036.7,1626.8,10004.9,24,,setembro/2026
-Porto Belo,Sertão de Santa Luzia,terreno,venda,9370.0,7692.8,10093.4,20,,setembro/2026
+Porto Belo,Sertão de Santa Luzia,terreno,venda,9302.4,5983.8,10091.6,23,,setembro/2026
 Porto Belo,Vila Nova,terreno,venda,2242.0,1915.1,4796.8,10,,setembro/2026
 Porto Belo,Balneário Perequê,sala,venda,15000.0,12963.0,18820.2,21,5.6,setembro/2026
 Porto Belo,Balneário Perequê,sala,aluguel,70.0,63.7,112.6,13,5.6,setembro/2026
