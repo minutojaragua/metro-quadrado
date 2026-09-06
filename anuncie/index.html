@@ -66,7 +66,9 @@ function localizar(){return new Promise(function(res,rej){if(!navigator.geolocat
    ev('geo_ok',best.nome+' '+(best.km<30?'ate 30km':best.km<150?'30 a 150km':'mais de 150km'),cam);guardar(best.slug,best.nome,'geo');res(best);}).catch(function(){rej('sem_lista');});},
   function(e){ev('geo_negado',String(e&&e.code),cam);rej('negado');},{timeout:9000,maximumAge:600000});});}
 function ufNome(uf){return UFN[uf]||('em '+uf);}
-document.addEventListener('DOMContentLoaded',function(){cidades().then(function(){var antes=ler(),a=atual(),c=a&&acha(a);monta(antes);if(c)guardar(c.slug,c.nome,'nav');}).catch(function(){});});
+function inicia(rest){cidades().then(function(){var antes=ler(),a=atual(),c=a&&acha(a);monta(antes);if(c&&!rest)guardar(c.slug,c.nome,'nav');}).catch(function(){});}
+document.addEventListener('DOMContentLoaded',function(){inicia(false);});
+window.addEventListener('pageshow',function(e){if(e&&e.persisted)inicia(true);});
 document.addEventListener('change',function(e){var s=e.target;if(!s||s.tagName!=='SELECT'||(s.id!=='cid'&&s.id!=='alvo'))return;var v=s.value;if(!v||v.indexOf('__')===0)return;
  var c=acha(v);guardar(v,c?c.nome:s.options[s.selectedIndex].text.replace(/^Morar em /,''),'sel');},true);
 function monta(lem){var box=document.getElementById('porta-geo');if(!box)return;var a=atual(),sug=null,via='';
@@ -216,6 +218,8 @@ table.serie td,table.serie th{white-space:nowrap}
 .cidades.claro details.mais[open] summary{border-color:var(--ink);color:var(--ink)}
 .cidades.claro details.mais .lista a{border-color:#cfccbe;color:#5f5f5f}
 .cidades .navsel{display:inline-flex;gap:6px;flex-wrap:wrap;align-items:center}
+.cidades a.volta{border-style:dashed;border-color:var(--amar);color:var(--amar)}
+@media (pointer:coarse){.cidades details.mais .lista a,.cidades select,.cidades a{padding-top:10px;padding-bottom:10px}}
 .cidades select{background:transparent;border:1px solid #555;color:#bbb;border-radius:99px;padding:6px 12px;font:inherit;font-size:.82rem;font-weight:600;max-width:46vw;cursor:pointer}
 .cidades select:disabled{opacity:.45;cursor:default}
 .cidades select option{color:#111;background:#fff}
@@ -368,7 +372,7 @@ td a{display:inline-block;padding:4px 0}}
 <p class="sub">A <b>Corrida dos Bairros</b> é a única medição de preço do m² <b>bairro por bairro</b> de 54 cidades de Santa Catarina, São Paulo e mais 23 estados: 318.950 anúncios validados por mês, <a href="../metodologia/">metodologia aberta</a> e auditada, atualizada todo dia 01. Para o corretor isso vira ferramenta de trabalho: <b>precificar com base neutra</b>, <b>defender a proposta diante do proprietário</b> ("não sou eu quem diz, é a mediana do bairro") e <b>ganhar a captação</b> com um relatório que o concorrente não tem.</p>
 <p class="sub" style="margin-top:8px;padding:10px 12px;border:1px dashed var(--borda);border-radius:10px">⏳ <b>Estamos abrindo a empresa.</b> Até lá, a sua vaga fica reservada sem cobrança e o preço fica garantido; a cobrança começa com a primeira nota fiscal.</p></section>
 <section><h2>O que a gente pode provar</h2>
-<p class="sub">Nos 7 dias até 06/09/2026, <b>130 pessoas do Brasil</b> usaram o índice, 74% delas passaram do primeiro toque e 33 comparações de bairro foram feitas (Google Analytics, sem robôs e sem a redação; o número se atualiza a cada publicação). É público pequeno e novo, e nós dizemos isso. Por isso <b>não vendemos contatos nem prometemos leads</b>: vendemos a ferramenta, e todo mês entregamos ao parceiro o número de visitas das páginas dele, sem maquiagem.</p></section>
+<p class="sub">Nos 7 dias até 06/09/2026, <b>130 pessoas do Brasil</b> usaram o índice, 78% delas passaram do primeiro toque e 33 comparações de bairro foram feitas (Google Analytics, sem robôs e sem a redação; o número se atualiza a cada publicação). É público pequeno e novo, e nós dizemos isso. Por isso <b>não vendemos contatos nem prometemos leads</b>: vendemos a ferramenta, e todo mês entregamos ao parceiro o número de visitas das páginas dele, sem maquiagem.</p></section>
 <section><h2>Como participar</h2>
 <div class="cards">
 <div class="card"><h3>🆓 Use o índice de graça</h3><p>Todo número da Corrida dos Bairros é público e pode ir na sua proposta, no seu post e na sua reunião, com o crédito <b>"Fonte: A Corrida dos Bairros, edição de setembro/2026"</b>. Baixe o CSV, use a <a href="../calculadora/">calculadora</a>, mande a página do bairro ao proprietário. Não precisa pedir. Imobiliária que quer ser fonte citada no site: <a href="https://wa.me/5547997424339?text=Represento%20uma%20imobili%C3%A1ria%20e%20quero%20ser%20fonte%20citada%20na%20Corrida%20dos%20Bairros." rel="nofollow noopener">fale com a gente</a>.</p></div>
