@@ -1,5 +1,5 @@
 cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
-Porto Velho,Aeroclube,casa,venda,5234.4,3015.7,6670.4,59,,setembro/2026
+Porto Velho,Aeroclube,casa,venda,5268.7,3103.6,6624.7,60,,setembro/2026
 Porto Velho,Agenor de Carvalho,casa,venda,2517.3,1918.8,3414.9,32,7.96,setembro/2026
 Porto Velho,Agenor de Carvalho,casa,aluguel,16.7,14.0,20.0,5,7.96,setembro/2026
 Porto Velho,Agenor M. de Carvalho,casa,venda,2453.7,2089.7,2697.6,16,,setembro/2026
@@ -8,6 +8,7 @@ Porto Velho,Aponiã,casa,venda,3611.1,2172.4,6881.7,109,,setembro/2026
 Porto Velho,Areal,casa,venda,1684.8,1266.7,2854.7,12,,setembro/2026
 Porto Velho,Bairro Industrial,casa,venda,5845.2,5032.1,6701.9,10,,setembro/2026
 Porto Velho,Bairro Novo,casa,venda,4500.0,3577.8,5638.5,27,,setembro/2026
+Porto Velho,Baixa União,casa,venda,3409.1,2500.0,3696.5,5,,setembro/2026
 Porto Velho,Caiari,casa,venda,2867.9,2097.4,4312.5,7,,setembro/2026
 Porto Velho,Caladinho,casa,venda,1788.6,1324.0,2387.5,8,,setembro/2026
 Porto Velho,Castanheira,casa,venda,1979.0,1642.9,3230.0,20,,setembro/2026
@@ -102,12 +103,13 @@ Porto Velho,Eldorado,terreno,venda,460.2,388.9,564.6,9,,setembro/2026
 Porto Velho,Embratel,terreno,venda,1104.8,1054.2,1650.0,10,,setembro/2026
 Porto Velho,Flodoaldo Pontes Pinto,terreno,venda,858.6,666.7,1053.9,9,,setembro/2026
 Porto Velho,Floresta,terreno,venda,300.0,279.8,323.3,5,,setembro/2026
+Porto Velho,Greenville,terreno,venda,347.8,333.3,400.0,5,,setembro/2026
 Porto Velho,Igarapé,terreno,venda,786.9,564.1,1083.3,9,,setembro/2026
 Porto Velho,Lagoa,terreno,venda,525.0,437.5,1090.9,12,,setembro/2026
 Porto Velho,Lagoinha,terreno,venda,520.7,311.8,554.5,10,,setembro/2026
 Porto Velho,Nossa Senhora das Graças,terreno,venda,1250.0,1189.4,2045.5,7,,setembro/2026
 Porto Velho,Nova,terreno,venda,746.7,674.7,1057.1,5,,setembro/2026
-Porto Velho,Nova Esperança,terreno,venda,374.3,201.9,658.0,19,,setembro/2026
+Porto Velho,Nova Esperança,terreno,venda,365.9,202.8,629.0,20,,setembro/2026
 Porto Velho,Novo Horizonte,terreno,venda,170.0,120.0,361.3,5,,setembro/2026
 Porto Velho,Olaria,terreno,venda,1483.3,1216.7,1600.0,14,,setembro/2026
 Porto Velho,Pedrinhas,terreno,venda,764.4,678.2,855.2,11,,setembro/2026

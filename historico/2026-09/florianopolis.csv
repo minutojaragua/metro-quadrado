@@ -3,10 +3,8 @@ Florianópolis,Abraão,apartamento,venda,10750.0,8333.3,13281.2,85,4.79,setembro
 Florianópolis,Abraão,apartamento,aluguel,42.9,34.6,52.2,32,4.79,setembro/2026
 Florianópolis,Agronômica,apartamento,venda,14103.4,11055.4,19127.0,251,6.04,setembro/2026
 Florianópolis,Agronômica,apartamento,aluguel,71.0,52.3,87.4,74,6.04,setembro/2026
-Florianópolis,Balneário,apartamento,venda,10562.5,7521.3,13548.7,103,4.96,setembro/2026
-Florianópolis,Balneário,apartamento,aluguel,43.7,33.7,55.3,24,4.96,setembro/2026
-Florianópolis,Balneario do Estreito,apartamento,venda,7715.1,7120.6,11227.1,5,,setembro/2026
-Florianópolis,Balneário Estreito,apartamento,venda,12945.9,12240.8,13665.0,8,,setembro/2026
+Florianópolis,Balneário,apartamento,venda,10740.8,7688.0,13543.0,108,4.88,setembro/2026
+Florianópolis,Balneário,apartamento,aluguel,43.7,33.7,55.3,24,4.88,setembro/2026
 Florianópolis,Barra da Lagoa,apartamento,venda,13333.3,11961.5,17831.7,31,4.7,setembro/2026
 Florianópolis,Barra da Lagoa,apartamento,aluguel,52.2,48.9,62.9,7,4.7,setembro/2026
 Florianópolis,Bom Abrigo,apartamento,venda,9729.2,8152.3,11706.5,48,7.52,setembro/2026
@@ -35,11 +33,10 @@ Florianópolis,Coqueiros,apartamento,aluguel,48.4,38.2,65.2,50,5.1,setembro/2026
 Florianópolis,Córrego Grande,apartamento,venda,11700.1,8856.4,15618.2,108,5.39,setembro/2026
 Florianópolis,Córrego Grande,apartamento,aluguel,52.6,44.1,65.7,49,5.39,setembro/2026
 Florianópolis,Costeira do Pirajubaé,apartamento,venda,9789.7,8667.6,11110.5,6,,setembro/2026
-Florianópolis,Estreito,apartamento,venda,10783.8,8086.0,13861.4,237,5.22,setembro/2026
+Florianópolis,Estreito,apartamento,venda,10779.2,8103.5,13849.9,239,5.22,setembro/2026
 Florianópolis,Estreito,apartamento,aluguel,46.9,37.3,56.9,62,5.22,setembro/2026
-Florianópolis,Ingleses,apartamento,venda,8000.0,5888.9,11152.6,541,6.32,setembro/2026
-Florianópolis,Ingleses,apartamento,aluguel,42.1,33.3,53.1,224,6.32,setembro/2026
-Florianópolis,Ingleses Norte,apartamento,venda,10539.9,9575.6,11847.3,12,,setembro/2026
+Florianópolis,Ingleses,apartamento,venda,8042.5,5890.3,11152.6,549,6.28,setembro/2026
+Florianópolis,Ingleses,apartamento,aluguel,42.1,33.3,53.1,224,6.28,setembro/2026
 Florianópolis,Itacorubi,apartamento,venda,11126.7,8888.5,13830.4,250,5.83,setembro/2026
 Florianópolis,Itacorubi,apartamento,aluguel,54.1,45.1,62.5,148,5.83,setembro/2026
 Florianópolis,Itaguaçu,apartamento,venda,7856.8,6577.3,9475.6,10,,setembro/2026
@@ -85,9 +82,8 @@ Florianópolis,Abraão,casa,aluguel,47.0,40.8,49.0,5,7.1,setembro/2026
 Florianópolis,Agronômica,casa,venda,7073.2,5136.0,9009.8,71,7.96,setembro/2026
 Florianópolis,Agronômica,casa,aluguel,46.9,39.7,54.5,17,7.96,setembro/2026
 Florianópolis,Armação,casa,venda,10344.8,6493.5,13706.9,53,,setembro/2026
-Florianópolis,Balneário,casa,venda,7768.2,4974.9,11101.1,51,7.94,setembro/2026
-Florianópolis,Balneário,casa,aluguel,51.4,43.5,53.7,9,7.94,setembro/2026
-Florianópolis,Balneario do Estreito,casa,venda,8475.6,6470.8,11223.6,7,,setembro/2026
+Florianópolis,Balneário,casa,venda,7577.3,5163.3,11252.6,58,8.14,setembro/2026
+Florianópolis,Balneário,casa,aluguel,51.4,43.5,53.7,9,8.14,setembro/2026
 Florianópolis,Barra da Lagoa,casa,venda,6369.0,3479.6,11345.9,34,9.76,setembro/2026
 Florianópolis,Barra da Lagoa,casa,aluguel,51.8,43.8,64.6,10,9.76,setembro/2026
 Florianópolis,Bom Abrigo,casa,venda,10223.6,6616.2,11552.8,23,,setembro/2026
@@ -112,7 +108,7 @@ Florianópolis,Córrego Grande,casa,venda,8474.6,6214.3,10562.5,89,4.46,setembro
 Florianópolis,Córrego Grande,casa,aluguel,31.5,28.6,39.8,7,4.46,setembro/2026
 Florianópolis,Costeira do Pirajubaé,casa,venda,5453.7,3734.2,8471.0,8,,setembro/2026
 Florianópolis,Daniela,casa,venda,9296.5,6814.6,10783.0,27,,setembro/2026
-Florianópolis,Estreito,casa,venda,6410.3,5172.4,8477.0,65,6.85,setembro/2026
+Florianópolis,Estreito,casa,venda,6414.6,5180.2,8405.0,66,6.85,setembro/2026
 Florianópolis,Estreito,casa,aluguel,36.6,32.6,42.6,5,6.85,setembro/2026
 Florianópolis,Ingleses,casa,venda,5882.4,4072.9,7674.5,423,7.77,setembro/2026
 Florianópolis,Ingleses,casa,aluguel,38.1,31.8,41.2,41,7.77,setembro/2026
@@ -163,8 +159,8 @@ Florianópolis,Vargem Grande,casa,venda,6944.4,5069.0,8767.2,51,,setembro/2026
 Florianópolis,Vargem Pequena,casa,venda,8148.1,6329.2,8954.2,43,,setembro/2026
 Florianópolis,Agronômica,terreno,venda,1872.7,1209.4,2458.2,15,,setembro/2026
 Florianópolis,Armação,terreno,venda,2173.9,1078.5,3674.6,8,,setembro/2026
-Florianópolis,Balneário,terreno,venda,4262.7,4242.4,4961.8,9,,setembro/2026
-Florianópolis,Cachoeira do Bom Jesus,terreno,venda,2222.2,1933.6,3229.1,21,,setembro/2026
+Florianópolis,Balneário,terreno,venda,4262.7,4236.6,4980.9,11,,setembro/2026
+Florianópolis,Cachoeira do Bom Jesus,terreno,venda,2188.0,1918.2,3228.2,22,,setembro/2026
 Florianópolis,Cacupé,terreno,venda,3294.3,1787.9,4500.7,19,,setembro/2026
 Florianópolis,Campeche,terreno,venda,2837.2,2144.6,3942.6,92,,setembro/2026
 Florianópolis,Canasvieiras,terreno,venda,1761.1,1370.6,2956.4,20,,setembro/2026
@@ -177,7 +173,7 @@ Florianópolis,Coqueiros,terreno,venda,2222.2,1307.9,3436.1,15,,setembro/2026
 Florianópolis,Córrego Grande,terreno,venda,1513.5,1077.6,2037.2,18,,setembro/2026
 Florianópolis,Daniela,terreno,venda,2776.4,2392.0,3263.9,6,,setembro/2026
 Florianópolis,Estreito,terreno,venda,3017.2,2088.5,4359.0,33,,setembro/2026
-Florianópolis,Ingleses,terreno,venda,1348.0,1112.4,2058.4,99,,setembro/2026
+Florianópolis,Ingleses,terreno,venda,1350.1,1117.1,2068.4,100,,setembro/2026
 Florianópolis,Itacorubi,terreno,venda,2384.4,2114.6,2919.4,70,,setembro/2026
 Florianópolis,Jardim Atlântico,terreno,venda,2777.8,1495.3,3816.8,13,,setembro/2026
 Florianópolis,João Paulo,terreno,venda,2291.7,1444.6,3161.6,37,,setembro/2026
@@ -203,8 +199,8 @@ Florianópolis,Vargem do Bom Jesus,terreno,venda,1157.9,886.3,1280.0,11,,setembr
 Florianópolis,Vargem Grande,terreno,venda,996.2,726.5,1270.3,28,,setembro/2026
 Florianópolis,Vargem Pequena,terreno,venda,881.4,675.0,1464.5,11,,setembro/2026
 Florianópolis,Agronômica,sala,venda,13636.4,10714.3,15068.5,9,,setembro/2026
-Florianópolis,Balneário,sala,venda,10975.6,9085.4,14482.8,9,7.52,setembro/2026
-Florianópolis,Balneário,sala,aluguel,68.8,41.4,76.8,9,7.52,setembro/2026
+Florianópolis,Balneário,sala,venda,12715.1,9375.0,15287.4,10,6.49,setembro/2026
+Florianópolis,Balneário,sala,aluguel,68.8,41.4,76.8,9,6.49,setembro/2026
 Florianópolis,Campeche,sala,venda,17879.8,17407.4,19024.4,9,6.21,setembro/2026
 Florianópolis,Campeche,sala,aluguel,92.5,88.4,109.7,5,6.21,setembro/2026
 Florianópolis,Canto,sala,venda,9664.5,8307.2,11344.3,5,9.96,setembro/2026
@@ -217,8 +213,8 @@ Florianópolis,Centro,sala,aluguel,42.4,28.8,75.0,125,6.91,setembro/2026
 Florianópolis,Córrego Grande,sala,venda,13515.8,9675.1,17357.3,6,,setembro/2026
 Florianópolis,Estreito,sala,venda,9061.6,7436.0,13460.5,34,7.85,setembro/2026
 Florianópolis,Estreito,sala,aluguel,59.3,50.0,79.4,29,7.85,setembro/2026
-Florianópolis,Ingleses,sala,venda,12180.9,9133.6,13655.0,8,6.37,setembro/2026
-Florianópolis,Ingleses,sala,aluguel,64.7,55.4,69.6,14,6.37,setembro/2026
+Florianópolis,Ingleses,sala,venda,12066.7,8947.4,12941.2,9,6.43,setembro/2026
+Florianópolis,Ingleses,sala,aluguel,64.7,55.4,69.6,14,6.43,setembro/2026
 Florianópolis,Itacorubi,sala,venda,8878.7,6940.8,10487.4,20,7.12,setembro/2026
 Florianópolis,Itacorubi,sala,aluguel,52.7,51.7,61.2,11,7.12,setembro/2026
 Florianópolis,João Paulo,sala,venda,10179.6,8800.0,12252.1,5,9.43,setembro/2026

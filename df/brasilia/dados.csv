@@ -1,7 +1,7 @@
 cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
 Brasília,Areal (Águas Claras),casa,venda,2833.3,2183.3,5414.8,11,,setembro/2026
 Brasília,Arniqueira (Águas Claras),casa,venda,3142.9,2243.0,4509.8,25,,setembro/2026
-Brasília,Arniqueiras,casa,venda,3083.3,2258.3,4643.4,15,,setembro/2026
+Brasília,Arniqueiras,casa,venda,3241.7,2420.8,5051.7,16,,setembro/2026
 Brasília,Asa Sul,casa,venda,6443.5,5240.7,9687.2,16,5.31,setembro/2026
 Brasília,Asa Sul,casa,aluguel,28.5,21.4,43.9,6,5.31,setembro/2026
 Brasília,Candangolândia,casa,venda,3991.7,2808.0,4378.2,7,,setembro/2026
@@ -68,8 +68,8 @@ Brasília,Guará II,apartamento,venda,9870.8,4177.6,11157.6,46,3.84,setembro/202
 Brasília,Guará II,apartamento,aluguel,31.6,22.7,45.1,12,3.84,setembro/2026
 Brasília,Lago Norte,apartamento,venda,12481.9,10567.1,14325.0,23,6.16,setembro/2026
 Brasília,Lago Norte,apartamento,aluguel,64.1,55.8,81.6,39,6.16,setembro/2026
-Brasília,Noroeste,apartamento,venda,17132.6,15445.1,18841.7,92,6.28,setembro/2026
-Brasília,Noroeste,apartamento,aluguel,89.7,78.5,107.1,90,6.28,setembro/2026
+Brasília,Noroeste,apartamento,venda,17507.5,15520.2,19374.6,111,6.03,setembro/2026
+Brasília,Noroeste,apartamento,aluguel,88.0,77.9,103.0,90,6.03,setembro/2026
 Brasília,Norte (Águas Claras),apartamento,venda,9628.2,8201.6,11055.3,78,6.43,setembro/2026
 Brasília,Norte (Águas Claras),apartamento,aluguel,51.6,50.0,55.2,9,6.43,setembro/2026
 Brasília,Park Sul,apartamento,venda,17005.6,15120.5,18029.8,72,6.08,setembro/2026
@@ -89,13 +89,9 @@ Brasília,Setor Habitacional Jardins Mangueiral,apartamento,aluguel,56.8,51.0,65
 Brasília,Setor Habitacional Vicente Pires,apartamento,aluguel,32.4,31.9,33.3,5,,setembro/2026
 Brasília,Setor Industrial (Gama),apartamento,venda,5833.3,5414.5,6938.0,11,,setembro/2026
 Brasília,Setor Industrial (Taguatinga),apartamento,venda,6400.0,5142.6,7485.3,10,,setembro/2026
-Brasília,Setor Noroeste,apartamento,venda,17750.0,15757.6,19655.2,33,5.71,setembro/2026
-Brasília,Setor Noroeste,apartamento,aluguel,84.5,67.6,115.6,8,5.71,setembro/2026
-Brasília,Setor Sudoeste,apartamento,venda,14807.9,9682.1,17456.4,15,6.78,setembro/2026
-Brasília,Setor Sudoeste,apartamento,aluguel,83.7,60.5,94.9,14,6.78,setembro/2026
 Brasília,Sobradinho,apartamento,venda,5787.7,4677.5,7691.0,8,,setembro/2026
-Brasília,Sudoeste,apartamento,venda,15791.7,13679.2,19000.0,85,5.02,setembro/2026
-Brasília,Sudoeste,apartamento,aluguel,66.0,57.1,85.4,91,5.02,setembro/2026
+Brasília,Sudoeste,apartamento,venda,15421.7,13587.4,18874.2,95,5.12,setembro/2026
+Brasília,Sudoeste,apartamento,aluguel,65.8,56.2,86.2,92,5.12,setembro/2026
 Brasília,Sul (Águas Claras),apartamento,venda,9300.0,7803.0,12118.6,55,6.77,setembro/2026
 Brasília,Sul (Águas Claras),apartamento,aluguel,52.5,51.8,64.7,5,6.77,setembro/2026
 Brasília,Taguatinga,apartamento,venda,4206.3,3701.2,6594.6,15,11.75,setembro/2026
@@ -111,7 +107,7 @@ Brasília,Jardim Botânico,terreno,venda,476.8,383.4,621.4,10,,setembro/2026
 Brasília,Jardim Botânico (Lago Sul),terreno,venda,826.1,452.9,885.0,5,,setembro/2026
 Brasília,Lago Norte,terreno,venda,925.7,338.0,1301.7,8,,setembro/2026
 Brasília,Lago Sul,terreno,venda,1336.3,1113.3,2100.0,23,,setembro/2026
-Brasília,Paranoá,terreno,venda,343.3,212.5,1371.9,5,,setembro/2026
+Brasília,Paranoá,terreno,venda,857.6,245.2,1438.3,6,,setembro/2026
 Brasília,Park Way,terreno,venda,575.0,440.0,940.0,13,,setembro/2026
 Brasília,Setor Habitacional Jardim Botânico,terreno,venda,551.5,395.2,952.7,32,,setembro/2026
 Brasília,Setor Habitacional Tororo,terreno,venda,701.3,425.6,944.7,32,,setembro/2026
@@ -125,6 +121,7 @@ Brasília,Guará I,sala,aluguel,70.0,58.4,87.3,8,,setembro/2026
 Brasília,Norte (Águas Claras),sala,venda,8500.0,6666.7,9291.5,17,10.45,setembro/2026
 Brasília,Norte (Águas Claras),sala,aluguel,74.0,56.2,114.1,8,10.45,setembro/2026
 Brasília,Samambaia Sul,sala,aluguel,25.5,21.4,27.4,6,,setembro/2026
+Brasília,Sudoeste,sala,venda,9750.0,9362.5,10533.3,5,,setembro/2026
 Brasília,Sul (Águas Claras),sala,venda,10058.0,6146.1,11908.3,6,,setembro/2026
 Brasília,Taguatinga (Norte),sala,venda,6729.7,5253.7,7947.5,8,6.38,setembro/2026
 Brasília,Taguatinga (Norte),sala,aluguel,35.8,30.1,47.5,7,6.38,setembro/2026

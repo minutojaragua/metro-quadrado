@@ -1,6 +1,6 @@
 cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
 Porto Belo,Alto Perequê,apartamento,venda,13296.1,11416.5,17229.8,20,,setembro/2026
-Porto Belo,Balneário Perequê,apartamento,venda,15783.6,13466.6,19293.5,176,3.84,setembro/2026
+Porto Belo,Balneário Perequê,apartamento,venda,15789.5,13493.2,19306.8,177,3.84,setembro/2026
 Porto Belo,Balneário Perequê,apartamento,aluguel,50.5,43.2,56.6,22,3.84,setembro/2026
 Porto Belo,Centro,apartamento,venda,16153.8,12323.9,19055.4,87,1.1,setembro/2026
 Porto Belo,Centro,apartamento,aluguel,14.8,6.2,17.5,5,1.1,setembro/2026
@@ -12,8 +12,8 @@ Porto Belo,Vila Nova,apartamento,venda,13085.3,11228.8,15736.5,40,,setembro/2026
 Porto Belo,Vivapark,apartamento,venda,18245.7,16596.4,19894.7,37,,setembro/2026
 Porto Belo,Alto Perequê,casa,venda,7792.5,5057.7,9405.6,22,,setembro/2026
 Porto Belo,Araçá,casa,venda,18235.3,14444.4,18285.7,5,,setembro/2026
-Porto Belo,Balneário Perequê,casa,venda,8771.9,6745.3,12366.7,57,4.24,setembro/2026
-Porto Belo,Balneário Perequê,casa,aluguel,31.0,15.0,54.3,10,4.24,setembro/2026
+Porto Belo,Balneário Perequê,casa,venda,8790.7,6746.9,12466.7,58,4.23,setembro/2026
+Porto Belo,Balneário Perequê,casa,aluguel,31.0,15.0,54.3,10,4.23,setembro/2026
 Porto Belo,Centro,casa,venda,10168.0,7089.2,17251.6,42,1.18,setembro/2026
 Porto Belo,Centro,casa,aluguel,10.0,8.0,11.5,10,1.18,setembro/2026
 Porto Belo,Jardim Dourado,casa,venda,14857.1,8112.4,17837.0,43,,setembro/2026
@@ -24,10 +24,10 @@ Porto Belo,Alto Perequê,terreno,venda,1837.8,1495.4,3125.0,17,,setembro/2026
 Porto Belo,Araçá,terreno,venda,1639.8,996.4,3803.6,5,,setembro/2026
 Porto Belo,Balneário Perequê,terreno,venda,5020.3,3594.1,7026.2,26,,setembro/2026
 Porto Belo,Centro,terreno,venda,3333.3,1604.6,5621.3,37,,setembro/2026
-Porto Belo,Jardim Dourado,terreno,venda,3533.3,3179.1,3856.4,23,,setembro/2026
+Porto Belo,Jardim Dourado,terreno,venda,3617.2,3185.3,3872.2,24,,setembro/2026
 Porto Belo,Pereque,terreno,venda,8000.0,3717.9,9135.8,5,,setembro/2026
 Porto Belo,Santa Luzia,terreno,venda,7036.7,1626.8,10004.9,24,,setembro/2026
-Porto Belo,Sertão de Santa Luzia,terreno,venda,9900.7,6479.7,10096.0,15,,setembro/2026
+Porto Belo,Sertão de Santa Luzia,terreno,venda,9641.2,7036.9,10094.2,17,,setembro/2026
 Porto Belo,Vila Nova,terreno,venda,2242.0,1915.1,4796.8,10,,setembro/2026
 Porto Belo,Balneário Perequê,sala,venda,13712.2,12963.0,17933.3,17,6.68,setembro/2026
 Porto Belo,Balneário Perequê,sala,aluguel,76.3,63.3,115.0,12,6.68,setembro/2026

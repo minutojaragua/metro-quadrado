@@ -8,8 +8,7 @@ Criciúma,Centro,apartamento,aluguel,29.7,21.7,36.5,46,4.76,setembro/2026
 Criciúma,Comerciário,apartamento,venda,6232.0,4744.5,8295.1,92,6.39,setembro/2026
 Criciúma,Comerciário,apartamento,aluguel,33.2,27.7,36.3,10,6.39,setembro/2026
 Criciúma,Cruzeiro do Sul,apartamento,venda,6756.6,5291.3,10388.3,22,,setembro/2026
-Criciúma,Dos Imigrantes,apartamento,venda,5245.9,5200.0,5573.8,5,,setembro/2026
-Criciúma,Imigrantes,apartamento,venda,6126.4,5637.6,6595.5,5,,setembro/2026
+Criciúma,Imigrantes,apartamento,venda,5605.7,5234.4,6243.7,8,,setembro/2026
 Criciúma,Linha Batista,apartamento,venda,4122.7,3830.7,4600.0,5,,setembro/2026
 Criciúma,Michel,apartamento,venda,7004.9,5781.6,9336.9,48,,setembro/2026
 Criciúma,Mina do Mato,apartamento,venda,5304.1,4653.5,6250.0,6,,setembro/2026
@@ -54,6 +53,7 @@ Criciúma,Cristo Redentor,casa,venda,2400.0,1606.1,2825.0,5,,setembro/2026
 Criciúma,Cruzeiro do Sul,casa,venda,3514.8,2727.7,5448.7,16,,setembro/2026
 Criciúma,Demboski,casa,venda,3120.0,2960.0,3359.8,5,,setembro/2026
 Criciúma,Fábio Silva,casa,venda,3027.2,1881.4,5045.6,11,,setembro/2026
+Criciúma,Imigrantes,casa,venda,3630.1,3500.0,3835.6,5,,setembro/2026
 Criciúma,Jardim Angélica,casa,venda,3746.3,3095.2,5694.9,22,,setembro/2026
 Criciúma,Jardim Maristela,casa,venda,3984.3,3234.1,5339.3,20,,setembro/2026
 Criciúma,Jardim Montevidéu,casa,venda,2848.1,2388.9,5904.2,5,,setembro/2026
@@ -84,7 +84,7 @@ Criciúma,Santa Luzia,casa,venda,3193.4,1766.7,3750.0,17,,setembro/2026
 Criciúma,Santo Antônio,casa,venda,3527.5,2486.1,5414.0,24,,setembro/2026
 Criciúma,São Cristóvão,casa,venda,4881.0,3516.5,6055.3,8,,setembro/2026
 Criciúma,São Defende,casa,venda,3888.9,3125.0,5185.2,17,,setembro/2026
-Criciúma,São Luiz,casa,venda,3353.2,2822.7,4082.7,16,,setembro/2026
+Criciúma,São Luiz,casa,venda,3428.6,2930.2,4664.2,17,,setembro/2026
 Criciúma,São Sebastião,casa,venda,2578.8,2256.5,4758.6,16,,setembro/2026
 Criciúma,São Simão,casa,venda,6711.9,3176.6,9828.9,6,,setembro/2026
 Criciúma,Universitário,casa,venda,4222.2,1683.3,6351.6,8,,setembro/2026
@@ -135,7 +135,7 @@ Criciúma,São Sebastião,terreno,venda,357.7,238.2,392.2,6,,setembro/2026
 Criciúma,São Simão,terreno,venda,700.6,397.8,1136.6,29,,setembro/2026
 Criciúma,Universitário,terreno,venda,605.1,463.6,919.8,5,,setembro/2026
 Criciúma,Verdinho,terreno,venda,81.8,49.5,230.2,5,,setembro/2026
-Criciúma,Vila Floresta II,terreno,venda,375.7,331.6,422.0,8,,setembro/2026
+Criciúma,Vila Floresta II,terreno,venda,377.7,355.4,411.5,10,,setembro/2026
 Criciúma,Vila Nova Esperança,terreno,venda,280.0,253.1,360.0,15,,setembro/2026
 Criciúma,Centro,sala,venda,7913.2,5793.7,11224.5,60,6.08,setembro/2026
 Criciúma,Centro,sala,aluguel,40.1,29.3,58.4,55,6.08,setembro/2026
