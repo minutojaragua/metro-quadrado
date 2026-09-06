@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 43 cidades de Santa Catarina, São Paulo, Tocantins, Rondônia, Espírito Santo, Amapá, Roraima, Sergipe, Rio Grande do Norte, Paraíba, Mato Grosso, Piauí, Paraná e Mato Grosso do Sul, Brasil, bairro por bairro, a partir de 215.614 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 44 cidades de Santa Catarina, São Paulo, Tocantins, Rondônia, Espírito Santo, Amapá, Roraima, Sergipe, Rio Grande do Norte, Paraíba, Mato Grosso, Piauí, Paraná, Mato Grosso do Sul e Alagoas, Brasil, bairro por bairro, a partir de 218.274 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -1828,7 +1828,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 
 ## Santos (setembro/2026): https://acorridadosbairros.com.br/sp/santos/
 
-### Apartamentos, cidade toda: venda R$ 8.615/m² (n=2347); aluguel R$ 62,2/m²/mês (n=623); rendimento bruto do aluguel 8,66% a.a.
+### Apartamentos, cidade toda: venda R$ 8.614/m² (n=2349); aluguel R$ 62,2/m²/mês (n=623); rendimento bruto do aluguel 8,67% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -6621,6 +6621,104 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Jardim dos Estados | – | – | R$ 41,0 | 5 | – | – |
 | Monte Castelo | – | – | R$ 70,0 | 5 | – | – |
 | Santa Fé | – | – | R$ 67,9 | 6 | – | – |
+
+
+## Maceió (setembro/2026): https://acorridadosbairros.com.br/al/maceio/
+
+### Apartamentos, cidade toda: venda R$ 8.953/m² (n=1167); aluguel R$ 51,7/m²/mês (n=491); rendimento bruto do aluguel 6,93% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Antares | R$ 5.188 | 31 | R$ 37,0 | 26 | 8,56% | – |
+| Barro Duro | R$ 7.922 | 30 | – | – | – | – |
+| Benedito Bentes | R$ 3.229 | 29 | R$ 27,8 | 10 | 10,33% | – |
+| Centro | R$ 6.463 | 10 | – | – | – | – |
+| Cidade Universitária | R$ 4.889 | 15 | R$ 32,7 | 17 | 8,03% | – |
+| Cruz das Almas | R$ 13.402 | 91 | R$ 64,1 | 53 | 5,74% | – |
+| Farol | R$ 7.201 | 62 | R$ 48,7 | 18 | 8,12% | – |
+| Feitosa | R$ 3.552 | 14 | – | – | – | – |
+| Gruta de Lourdes | R$ 6.441 | 26 | – | – | – | – |
+| Guaxuma | R$ 10.559 | 44 | R$ 63,1 | 9 | 7,17% | – |
+| Ipioca | R$ 14.152 | 14 | – | – | – | – |
+| Jacarecica | R$ 12.755 | 62 | R$ 70,0 | 9 | 6,59% | – |
+| Jatiúca | R$ 11.836 | 170 | R$ 62,2 | 119 | 6,31% | – |
+| Mangabeiras | R$ 8.623 | 59 | R$ 46,5 | 17 | 6,47% | – |
+| Pajuçara | R$ 14.973 | 51 | R$ 61,1 | 21 | 4,90% | – |
+| Pescaria | R$ 7.190 | 14 | – | – | – | – |
+| Petrópolis | R$ 3.708 | 20 | R$ 30,5 | 8 | 9,87% | – |
+| Pinheiro | – | – | R$ 47,3 | 6 | – | – |
+| Poço | R$ 7.085 | 20 | R$ 48,6 | 14 | 8,23% | – |
+| Ponta da Terra | R$ 8.035 | 6 | – | – | – | – |
+| Ponta Verde | R$ 11.986 | 211 | R$ 57,8 | 98 | 5,79% | – |
+| Prado | R$ 4.340 | 7 | – | – | – | – |
+| Santa Amélia | R$ 3.800 | 23 | – | – | – | – |
+| Santa Lúcia | R$ 4.167 | 5 | – | – | – | – |
+| Santos Dumont | R$ 3.208 | 7 | – | – | – | – |
+| São Jorge | R$ 6.176 | 27 | R$ 46,1 | 6 | 8,96% | – |
+| Serraria | R$ 5.717 | 42 | R$ 31,8 | 20 | 6,67% | – |
+| Tabuleiro do Martins | R$ 4.726 | 43 | R$ 31,8 | 21 | 8,07% | – |
+
+### Casas, cidade toda: venda R$ 3.333/m² (n=658); aluguel R$ 25,0/m²/mês (n=71); rendimento bruto do aluguel 9,00% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Antares | R$ 4.814 | 56 | R$ 30,9 | 10 | 7,70% | – |
+| Barro Duro | R$ 3.535 | 20 | R$ 20,6 | 5 | 6,99% | – |
+| Benedito Bentes | R$ 2.100 | 21 | – | – | – | – |
+| Canaã | R$ 4.111 | 6 | – | – | – | – |
+| Centro | R$ 3.631 | 12 | – | – | – | – |
+| Cidade Universitária | R$ 2.294 | 52 | R$ 22,6 | 9 | 11,82% | – |
+| Clima Bom | R$ 1.597 | 14 | – | – | – | – |
+| Cruz das Almas | R$ 4.727 | 6 | – | – | – | – |
+| Farol | R$ 2.924 | 14 | R$ 19,3 | 6 | 7,92% | – |
+| Feitosa | R$ 3.056 | 21 | – | – | – | – |
+| Garça Torta | R$ 9.938 | 29 | – | – | – | – |
+| Gruta de Lourdes | R$ 3.469 | 36 | – | – | – | – |
+| Guaxuma | R$ 7.558 | 15 | – | – | – | – |
+| Ipioca | R$ 3.688 | 30 | – | – | – | – |
+| Jacarecica | R$ 6.250 | 9 | – | – | – | – |
+| Jacintinho | R$ 2.436 | 6 | – | – | – | – |
+| Jardim Petrópolis | R$ 4.400 | 61 | R$ 30,8 | 10 | 8,40% | – |
+| Jatiúca | – | – | R$ 30,0 | 8 | – | – |
+| Mangabeiras | R$ 6.190 | 7 | – | – | – | – |
+| Petrópolis | R$ 2.308 | 5 | – | – | – | – |
+| Pitanguinha | R$ 2.718 | 6 | – | – | – | – |
+| Poço | R$ 3.873 | 21 | – | – | – | – |
+| Ponta Grossa | R$ 1.964 | 15 | – | – | – | – |
+| Pontal da Barra | R$ 2.742 | 5 | – | – | – | – |
+| Prado | R$ 2.385 | 22 | – | – | – | – |
+| Santa Amélia | R$ 4.500 | 13 | – | – | – | – |
+| Santa Lúcia | R$ 1.897 | 16 | – | – | – | – |
+| Santos Dumont | R$ 1.816 | 26 | – | – | – | – |
+| São Jorge | R$ 6.000 | 5 | – | – | – | – |
+| Serraria | R$ 5.004 | 44 | – | – | – | – |
+| Tabuleiro do Martins | R$ 2.087 | 20 | – | – | – | – |
+| Trapiche da Barra | R$ 1.962 | 12 | – | – | – | – |
+| Vergel do Lago | R$ 1.769 | 9 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 1.006/m² (n=109)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Antares | R$ 1.265 | 9 | – | – | – | – |
+| Cidade Universitária | R$ 1.265 | 6 | – | – | – | – |
+| Farol | R$ 1.390 | 6 | – | – | – | – |
+| Garça Torta | R$ 1.770 | 9 | – | – | – | – |
+| Guaxuma | R$ 1.070 | 16 | – | – | – | – |
+| Ipioca | R$ 636 | 7 | – | – | – | – |
+| Jardim Petrópolis | R$ 1.056 | 7 | – | – | – | – |
+| Serraria | R$ 1.175 | 12 | – | – | – | – |
+
+### Salas comerciais, cidade toda: venda R$ 11.397/m² (n=32); aluguel R$ 61,5/m²/mês (n=79); rendimento bruto do aluguel 6,48% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Centro | – | – | R$ 41,9 | 9 | – | – |
+| Cruz das Almas | R$ 12.235 | 6 | – | – | – | – |
+| Farol | – | – | R$ 60,0 | 11 | – | – |
+| Gruta de Lourdes | – | – | R$ 106,1 | 15 | – | – |
+| Jatiúca | – | – | R$ 53,3 | 5 | – | – |
+| Pinheiro | – | – | R$ 66,5 | 6 | – | – |
 
 
 Metodologia: https://acorridadosbairros.com.br/metodologia/ · Dados abertos CC BY 4.0: https://acorridadosbairros.com.br/dados.csv · Imprensa: https://acorridadosbairros.com.br/imprensa/
