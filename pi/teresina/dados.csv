@@ -1,25 +1,25 @@
 cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
-Teresina,Acarape,casa,venda,2096.8,2000.0,2333.3,9,,setembro/2026
-Teresina,Aeroporto,casa,venda,3448.3,2861.1,5555.6,15,,setembro/2026
-Teresina,Angelim,casa,venda,2450.0,1854.2,2871.2,14,,setembro/2026
+Teresina,Acarape,casa,venda,2190.3,2014.2,3250.0,11,,setembro/2026
+Teresina,Aeroporto,casa,venda,3583.6,2875.0,5333.3,16,,setembro/2026
+Teresina,Angelim,casa,venda,2500.0,1875.0,2942.3,15,,setembro/2026
 Teresina,Aroeiras,casa,venda,2701.6,1687.5,3850.8,6,,setembro/2026
 Teresina,Bela Vista,casa,venda,2010.7,1652.2,3076.9,21,,setembro/2026
-Teresina,Cabral,casa,venda,2500.0,2433.1,3163.8,5,,setembro/2026
-Teresina,Campestre,casa,venda,3617.0,3147.6,4145.0,7,,setembro/2026
+Teresina,Cabral,casa,venda,2831.9,2449.9,4273.1,6,,setembro/2026
+Teresina,Campestre,casa,venda,3408.5,2979.3,3890.7,8,,setembro/2026
 Teresina,Centro,casa,venda,2877.0,2074.8,4430.0,62,5.13,setembro/2026
 Teresina,Centro,casa,aluguel,12.3,8.7,20.0,29,5.13,setembro/2026
 Teresina,Cidade Nova,casa,venda,1818.2,1647.1,2246.4,9,,setembro/2026
 Teresina,Colorado,casa,venda,2378.6,1516.7,2964.3,6,,setembro/2026
 Teresina,Cristo Rei,casa,venda,3996.8,2441.7,5500.0,18,,setembro/2026
 Teresina,Esplanada,casa,venda,2060.6,1826.4,2650.7,14,,setembro/2026
-Teresina,Fátima,casa,venda,5053.2,3096.3,7324.9,39,10.4,setembro/2026
-Teresina,Fátima,casa,aluguel,43.8,31.1,56.2,9,10.4,setembro/2026
-Teresina,Gurupi,casa,venda,5318.7,3561.9,7042.4,40,,setembro/2026
-Teresina,Horto,casa,venda,4240.1,3744.0,7475.6,24,7.33,setembro/2026
-Teresina,Horto,casa,aluguel,25.9,21.8,30.0,5,7.33,setembro/2026
-Teresina,Ininga,casa,venda,3973.7,3181.9,5358.3,92,8.82,setembro/2026
-Teresina,Ininga,casa,aluguel,29.2,16.5,37.0,14,8.82,setembro/2026
-Teresina,Itararé,casa,venda,2008.2,1594.6,2500.0,15,,setembro/2026
+Teresina,Fátima,casa,venda,5205.2,3426.0,7351.0,42,10.1,setembro/2026
+Teresina,Fátima,casa,aluguel,43.8,31.1,56.2,9,10.1,setembro/2026
+Teresina,Gurupi,casa,venda,5444.4,3625.7,6915.8,43,,setembro/2026
+Teresina,Horto,casa,venda,4058.8,3747.9,7359.9,26,7.66,setembro/2026
+Teresina,Horto,casa,aluguel,25.9,21.8,30.0,5,7.66,setembro/2026
+Teresina,Ininga,casa,venda,4000.0,3175.4,5367.0,95,8.76,setembro/2026
+Teresina,Ininga,casa,aluguel,29.2,16.5,37.0,14,8.76,setembro/2026
+Teresina,Itararé,casa,venda,2027.0,1739.1,2727.3,17,,setembro/2026
 Teresina,Jóquei,casa,venda,4880.4,4008.0,11364.3,20,15.37,setembro/2026
 Teresina,Jóquei,casa,aluguel,62.5,49.3,74.3,7,15.37,setembro/2026
 Teresina,Lourival Parente,casa,venda,2958.3,2156.2,3510.4,24,,setembro/2026
@@ -28,47 +28,48 @@ Teresina,Matadouro,casa,venda,3125.0,2166.7,3570.4,5,,setembro/2026
 Teresina,Matinha,casa,venda,2564.1,2333.3,3157.9,9,,setembro/2026
 Teresina,Mocambinho,casa,venda,2708.3,1500.0,3428.6,21,,setembro/2026
 Teresina,Monte Castelo,casa,venda,2637.4,1764.7,3333.3,13,,setembro/2026
-Teresina,Morada do Sol,casa,venda,3715.0,2905.3,4671.3,40,,setembro/2026
-Teresina,Morros,casa,venda,5307.3,4098.4,6295.1,57,4.88,setembro/2026
+Teresina,Morada do Sol,casa,venda,3636.4,2774.8,4637.6,43,,setembro/2026
+Teresina,Morros,casa,venda,5307.3,4074.5,6199.5,59,4.88,setembro/2026
 Teresina,Morros,casa,aluguel,21.6,14.8,28.4,19,4.88,setembro/2026
 Teresina,Nossa Senhora das Graças,casa,venda,2219.3,1694.3,3653.6,8,,setembro/2026
 Teresina,Novo Horizonte,casa,venda,2307.7,1800.0,3636.4,17,,setembro/2026
-Teresina,Novo Uruguai,casa,venda,8857.3,7501.4,9959.7,48,,setembro/2026
+Teresina,Novo Uruguai,casa,venda,8913.1,7608.7,10000.0,49,,setembro/2026
 Teresina,Parque Ideal,casa,venda,1400.0,1250.0,3000.0,9,,setembro/2026
 Teresina,Parque Piauí,casa,venda,2643.8,2467.3,2936.5,14,4.22,setembro/2026
 Teresina,Parque Piauí,casa,aluguel,9.3,8.6,20.0,5,4.22,setembro/2026
 Teresina,Parque Sul,casa,venda,2014.8,1611.5,2785.3,12,,setembro/2026
-Teresina,Pedra Mole,casa,venda,5607.1,4733.2,6817.1,18,,setembro/2026
+Teresina,Pedra Mole,casa,venda,5714.3,4804.2,6743.0,19,,setembro/2026
 Teresina,Piçarreira,casa,venda,4668.2,3058.4,5157.3,12,,setembro/2026
-Teresina,Planalto,casa,venda,4594.2,3241.4,6490.4,20,,setembro/2026
+Teresina,Pirajá,casa,venda,2539.7,2214.3,3537.9,5,,setembro/2026
+Teresina,Planalto,casa,venda,4629.6,3250.0,6153.8,21,,setembro/2026
 Teresina,Porto do Centro,casa,venda,3610.4,2177.9,4056.7,22,,setembro/2026
 Teresina,Primavera,casa,venda,2795.8,2196.8,3900.2,14,,setembro/2026
-Teresina,Recanto das Palmeiras,casa,venda,3547.7,3083.3,3611.1,5,,setembro/2026
+Teresina,Recanto das Palmeiras,casa,venda,3315.5,2920.5,3595.3,6,,setembro/2026
 Teresina,Renascença,casa,venda,2173.9,1500.0,3000.0,5,,setembro/2026
 Teresina,Saci,casa,venda,2763.9,2179.4,5203.0,32,,setembro/2026
-Teresina,Santa Isabel,casa,venda,3541.7,2823.6,4968.2,47,,setembro/2026
+Teresina,Santa Isabel,casa,venda,3485.1,2828.5,4952.2,48,,setembro/2026
 Teresina,Santa Maria,casa,venda,3282.2,2889.3,3540.3,10,6.0,setembro/2026
 Teresina,Santa Maria,casa,aluguel,16.4,11.9,19.7,7,6.0,setembro/2026
-Teresina,Santa Maria da Codipe,casa,venda,3000.0,1880.3,3500.0,9,,setembro/2026
+Teresina,Santa Maria da Codipe,casa,venda,2916.7,1577.7,3405.5,10,,setembro/2026
 Teresina,Santo Antônio,casa,venda,2884.6,1631.0,3788.0,15,,setembro/2026
-Teresina,São Cristóvão,casa,venda,4132.7,2865.1,5941.3,36,6.16,setembro/2026
-Teresina,São Cristóvão,casa,aluguel,21.2,18.6,38.8,11,6.16,setembro/2026
-Teresina,São João,casa,venda,2953.5,2000.0,4400.0,17,,setembro/2026
+Teresina,São Cristóvão,casa,venda,3846.2,2848.8,5747.0,38,6.61,setembro/2026
+Teresina,São Cristóvão,casa,aluguel,21.2,18.6,38.8,11,6.61,setembro/2026
+Teresina,São João,casa,venda,2783.6,2053.0,4242.5,18,,setembro/2026
 Teresina,São Pedro,casa,venda,3000.0,2328.3,3184.8,11,,setembro/2026
 Teresina,São Sebastião,casa,venda,3333.3,2614.3,3426.4,7,,setembro/2026
 Teresina,Satélite,casa,venda,3013.7,2531.0,3915.6,14,,setembro/2026
-Teresina,Socopo,casa,venda,6417.9,5006.8,7368.2,23,5.31,setembro/2026
-Teresina,Socopo,casa,aluguel,28.4,25.5,38.1,7,5.31,setembro/2026
+Teresina,Socopo,casa,venda,6569.8,5060.2,7342.6,24,5.19,setembro/2026
+Teresina,Socopo,casa,aluguel,28.4,25.5,38.1,7,5.19,setembro/2026
 Teresina,Tabajaras,casa,venda,7500.0,6764.5,8777.2,27,,setembro/2026
 Teresina,Tabuleta,casa,venda,2177.1,1631.6,3035.1,6,,setembro/2026
 Teresina,Terras Alphaville,casa,venda,9310.3,8840.0,9625.0,11,,setembro/2026
-Teresina,Uruguai,casa,venda,6811.6,5382.6,8598.7,65,,setembro/2026
-Teresina,Vale do Gavião,casa,venda,3821.8,2392.9,4661.6,14,,setembro/2026
-Teresina,Vale Quem Tem,casa,venda,3536.6,2170.5,5316.5,49,,setembro/2026
+Teresina,Uruguai,casa,venda,6836.8,5390.8,8599.7,66,,setembro/2026
+Teresina,Vale do Gavião,casa,venda,3709.2,1887.3,4591.1,15,,setembro/2026
+Teresina,Vale Quem Tem,casa,venda,3536.6,2272.8,5381.9,51,,setembro/2026
 Teresina,Verde Lar,casa,venda,4600.7,3695.7,6533.5,21,,setembro/2026
-Teresina,Verdecap,casa,venda,3352.0,3051.0,3625.0,6,,setembro/2026
-Teresina,Vermelha,casa,venda,2571.3,1984.2,3083.2,24,5.97,setembro/2026
-Teresina,Vermelha,casa,aluguel,12.8,10.3,16.2,6,5.97,setembro/2026
+Teresina,Verdecap,casa,venda,3204.1,2896.6,3583.3,7,,setembro/2026
+Teresina,Vermelha,casa,venda,2642.5,2011.5,3012.0,25,5.81,setembro/2026
+Teresina,Vermelha,casa,aluguel,12.8,10.3,16.2,6,5.81,setembro/2026
 Teresina,Zoobotânico,casa,venda,6110.0,3820.8,8272.6,11,,setembro/2026
 Teresina,Aeroporto,apartamento,venda,3433.2,2810.8,6790.4,10,,setembro/2026
 Teresina,Angelim,apartamento,venda,2741.9,2154.9,3323.4,11,,setembro/2026
@@ -79,30 +80,30 @@ Teresina,Cabral,apartamento,venda,6266.3,3218.0,7322.3,15,11.16,setembro/2026
 Teresina,Cabral,apartamento,aluguel,58.3,43.4,76.3,7,11.16,setembro/2026
 Teresina,Campestre,apartamento,venda,3545.5,2908.3,4233.4,27,6.63,setembro/2026
 Teresina,Campestre,apartamento,aluguel,19.6,17.0,22.9,16,6.63,setembro/2026
-Teresina,Centro,apartamento,venda,2877.7,2369.7,4719.4,35,10.47,setembro/2026
-Teresina,Centro,apartamento,aluguel,25.1,19.1,33.9,40,10.47,setembro/2026
+Teresina,Centro,apartamento,venda,2831.3,2326.9,4559.7,36,10.64,setembro/2026
+Teresina,Centro,apartamento,aluguel,25.1,19.1,33.9,40,10.64,setembro/2026
 Teresina,Cidade Jardim,apartamento,venda,4062.5,3802.1,4446.5,6,6.08,setembro/2026
 Teresina,Cidade Jardim,apartamento,aluguel,20.6,19.4,24.7,7,6.08,setembro/2026
 Teresina,Cidade Nova,apartamento,venda,3633.6,3347.2,4108.5,20,,setembro/2026
 Teresina,Colorado,apartamento,venda,3032.0,2827.3,3378.0,14,,setembro/2026
 Teresina,Cristo Rei,apartamento,venda,5142.9,3541.7,6976.7,69,7.23,setembro/2026
 Teresina,Cristo Rei,apartamento,aluguel,31.0,20.2,36.8,18,7.23,setembro/2026
-Teresina,Fátima,apartamento,venda,7790.9,6494.0,10481.4,88,4.67,setembro/2026
-Teresina,Fátima,apartamento,aluguel,30.3,24.6,49.4,22,4.67,setembro/2026
-Teresina,Frei Serafim,apartamento,venda,5416.7,4304.3,6757.9,27,6.16,setembro/2026
-Teresina,Frei Serafim,apartamento,aluguel,27.8,25.0,30.3,9,6.16,setembro/2026
+Teresina,Fátima,apartamento,venda,7647.1,6476.2,10410.6,89,4.75,setembro/2026
+Teresina,Fátima,apartamento,aluguel,30.3,24.6,49.4,22,4.75,setembro/2026
+Teresina,Frei Serafim,apartamento,venda,5371.1,4205.0,6531.1,28,6.21,setembro/2026
+Teresina,Frei Serafim,apartamento,aluguel,27.8,25.0,30.3,9,6.21,setembro/2026
 Teresina,Gurupi,apartamento,venda,4653.8,3512.2,5740.3,43,7.01,setembro/2026
 Teresina,Gurupi,apartamento,aluguel,27.2,18.8,35.0,20,7.01,setembro/2026
-Teresina,Horto,apartamento,venda,7352.9,5741.9,8730.2,69,5.55,setembro/2026
-Teresina,Horto,apartamento,aluguel,34.0,23.8,38.0,12,5.55,setembro/2026
+Teresina,Horto,apartamento,venda,7375.0,5741.9,8730.2,69,5.53,setembro/2026
+Teresina,Horto,apartamento,aluguel,34.0,23.8,38.0,12,5.53,setembro/2026
 Teresina,Ilhotas,apartamento,venda,6575.3,4196.4,7428.6,49,3.65,setembro/2026
 Teresina,Ilhotas,apartamento,aluguel,20.0,15.8,22.5,13,3.65,setembro/2026
-Teresina,Ininga,apartamento,venda,6582.3,3863.0,7686.4,55,6.56,setembro/2026
-Teresina,Ininga,apartamento,aluguel,36.0,28.4,43.0,12,6.56,setembro/2026
+Teresina,Ininga,apartamento,venda,6625.0,3913.0,7647.1,57,6.52,setembro/2026
+Teresina,Ininga,apartamento,aluguel,36.0,28.4,43.0,12,6.52,setembro/2026
 Teresina,Itararé,apartamento,venda,4517.9,3690.3,4819.6,14,6.14,setembro/2026
 Teresina,Itararé,apartamento,aluguel,23.1,17.6,26.0,6,6.14,setembro/2026
-Teresina,Jóquei,apartamento,venda,9200.0,7179.5,11739.1,165,4.27,setembro/2026
-Teresina,Jóquei,apartamento,aluguel,32.7,24.5,46.6,42,4.27,setembro/2026
+Teresina,Jóquei,apartamento,venda,9166.7,7161.2,11638.8,167,4.28,setembro/2026
+Teresina,Jóquei,apartamento,aluguel,32.7,24.5,46.6,42,4.28,setembro/2026
 Teresina,Lourival Parente,apartamento,venda,3829.8,3368.2,4516.5,11,,setembro/2026
 Teresina,Macaúba,apartamento,venda,2653.8,2199.9,3004.4,12,,setembro/2026
 Teresina,Monte Castelo,apartamento,venda,5102.0,3285.7,8297.9,21,8.98,setembro/2026
@@ -112,38 +113,38 @@ Teresina,Morada do Sol,apartamento,aluguel,29.7,17.2,46.5,26,8.41,setembro/2026
 Teresina,Morada Nova,apartamento,venda,2567.6,2143.7,2957.2,11,,setembro/2026
 Teresina,Morros,apartamento,venda,5651.3,4800.6,6078.8,22,5.37,setembro/2026
 Teresina,Morros,apartamento,aluguel,25.3,22.9,30.1,16,5.37,setembro/2026
-Teresina,Noivos,apartamento,venda,7238.1,4722.7,9123.5,54,2.74,setembro/2026
-Teresina,Noivos,apartamento,aluguel,16.5,15.2,20.1,8,2.74,setembro/2026
+Teresina,Noivos,apartamento,venda,7142.9,4603.2,9158.6,57,2.77,setembro/2026
+Teresina,Noivos,apartamento,aluguel,16.5,15.2,20.1,8,2.77,setembro/2026
 Teresina,Novo Horizonte,apartamento,venda,4677.4,4067.8,4867.9,13,6.21,setembro/2026
 Teresina,Novo Horizonte,apartamento,aluguel,24.2,17.7,28.3,5,6.21,setembro/2026
 Teresina,Parque Ideal,apartamento,venda,3620.7,3317.1,3884.1,11,,setembro/2026
-Teresina,Parque São João,apartamento,venda,2528.1,2421.1,2931.0,5,,setembro/2026
+Teresina,Parque São João,apartamento,venda,2579.8,2447.8,2856.2,6,,setembro/2026
 Teresina,Pedra Mole,apartamento,venda,4601.2,3801.1,5158.8,14,5.09,setembro/2026
 Teresina,Pedra Mole,apartamento,aluguel,19.5,18.7,25.3,6,5.09,setembro/2026
 Teresina,Piçarra,apartamento,venda,3285.7,2771.5,3639.6,11,9.24,setembro/2026
 Teresina,Piçarra,apartamento,aluguel,25.3,19.2,45.8,7,9.24,setembro/2026
 Teresina,Piçarreira,apartamento,venda,4956.4,4307.7,5490.2,21,6.05,setembro/2026
 Teresina,Piçarreira,apartamento,aluguel,25.0,21.7,27.5,6,6.05,setembro/2026
-Teresina,Planalto,apartamento,venda,7754.2,5447.8,9232.3,20,5.94,setembro/2026
+Teresina,Planalto,apartamento,venda,7754.2,5530.7,9232.3,20,5.94,setembro/2026
 Teresina,Planalto,apartamento,aluguel,38.4,29.8,49.3,7,5.94,setembro/2026
 Teresina,Porenquanto,apartamento,venda,4558.5,3750.0,14605.7,16,,setembro/2026
 Teresina,Porto do Centro,apartamento,venda,4817.7,2533.1,6555.1,6,,setembro/2026
 Teresina,Primavera,apartamento,venda,4832.2,3761.2,6721.8,26,6.16,setembro/2026
 Teresina,Primavera,apartamento,aluguel,24.8,21.8,28.1,10,6.16,setembro/2026
-Teresina,Recanto das Palmeiras,apartamento,venda,6326.1,4774.5,7245.8,23,7.32,setembro/2026
-Teresina,Recanto das Palmeiras,apartamento,aluguel,38.6,28.6,46.9,17,7.32,setembro/2026
-Teresina,Santa Isabel,apartamento,venda,4000.0,3539.3,5300.0,53,6.69,setembro/2026
-Teresina,Santa Isabel,apartamento,aluguel,22.3,20.2,28.6,18,6.69,setembro/2026
-Teresina,Santa Lia,apartamento,venda,3623.2,3511.7,4285.7,13,,setembro/2026
+Teresina,Recanto das Palmeiras,apartamento,venda,6256.3,4824.2,7224.6,24,7.4,setembro/2026
+Teresina,Recanto das Palmeiras,apartamento,aluguel,38.6,28.6,46.9,17,7.4,setembro/2026
+Teresina,Santa Isabel,apartamento,venda,4039.5,3540.9,5342.9,54,6.62,setembro/2026
+Teresina,Santa Isabel,apartamento,aluguel,22.3,20.2,28.6,18,6.62,setembro/2026
+Teresina,Santa Lia,apartamento,venda,3700.5,3514.1,4269.8,14,,setembro/2026
 Teresina,Santa Luzia,apartamento,venda,2900.7,2807.2,3151.8,10,6.21,setembro/2026
 Teresina,Santa Luzia,apartamento,aluguel,15.0,11.1,16.0,5,6.21,setembro/2026
 Teresina,Santa Maria,apartamento,venda,3166.7,2932.0,3491.4,14,6.59,setembro/2026
 Teresina,Santa Maria,apartamento,aluguel,17.4,15.3,18.8,11,6.59,setembro/2026
-Teresina,Santa Maria da Codipe,apartamento,venda,3496.5,3115.0,3831.6,12,6.73,setembro/2026
-Teresina,Santa Maria da Codipe,apartamento,aluguel,19.6,16.7,19.8,5,6.73,setembro/2026
+Teresina,Santa Maria da Codipe,apartamento,venda,3523.9,3115.0,3831.6,12,6.67,setembro/2026
+Teresina,Santa Maria da Codipe,apartamento,aluguel,19.6,16.7,19.8,5,6.67,setembro/2026
 Teresina,Santo Antônio,apartamento,venda,3281.1,2790.9,3647.1,8,,setembro/2026
-Teresina,São Cristóvão,apartamento,venda,7843.1,4456.8,10596.6,91,6.29,setembro/2026
-Teresina,São Cristóvão,apartamento,aluguel,41.1,25.8,54.9,27,6.29,setembro/2026
+Teresina,São Cristóvão,apartamento,venda,7662.4,4046.2,10559.1,94,6.44,setembro/2026
+Teresina,São Cristóvão,apartamento,aluguel,41.1,25.8,54.9,27,6.44,setembro/2026
 Teresina,São João,apartamento,venda,6101.7,4962.7,6708.7,23,5.62,setembro/2026
 Teresina,São João,apartamento,aluguel,28.6,19.1,44.5,8,5.62,setembro/2026
 Teresina,Tabajaras,apartamento,venda,2829.4,2643.5,3026.0,8,,setembro/2026
@@ -172,7 +173,7 @@ Teresina,Ininga,terreno,venda,773.5,493.2,1006.4,40,,setembro/2026
 Teresina,Jóquei,terreno,venda,1851.9,1279.2,3289.5,9,,setembro/2026
 Teresina,Marquês de Paranaguá,terreno,venda,814.8,750.0,1000.0,5,,setembro/2026
 Teresina,Morada do Sol,terreno,venda,863.1,663.9,998.2,10,,setembro/2026
-Teresina,Morros,terreno,venda,280.0,193.8,326.7,15,,setembro/2026
+Teresina,Morros,terreno,venda,291.5,196.9,334.4,16,,setembro/2026
 Teresina,Novo Uruguai,terreno,venda,1251.1,689.6,1450.0,49,,setembro/2026
 Teresina,Núcleo Urbano Fazenda Real,terreno,venda,426.7,393.3,440.0,5,,setembro/2026
 Teresina,Pedra Mole,terreno,venda,477.3,243.2,850.6,6,,setembro/2026
@@ -189,8 +190,8 @@ Teresina,Verde Lar,terreno,venda,629.5,615.5,659.4,8,,setembro/2026
 Teresina,Beira Rio,sala,aluguel,19.5,17.0,23.3,8,,setembro/2026
 Teresina,Cabral,sala,venda,14868.4,14266.9,15696.2,6,5.76,setembro/2026
 Teresina,Cabral,sala,aluguel,71.4,41.5,104.4,8,5.76,setembro/2026
-Teresina,Centro,sala,venda,4795.5,2954.2,6875.0,25,6.83,setembro/2026
-Teresina,Centro,sala,aluguel,27.3,18.8,40.0,143,6.83,setembro/2026
+Teresina,Centro,sala,venda,4918.0,3143.8,7100.8,27,6.66,setembro/2026
+Teresina,Centro,sala,aluguel,27.3,18.8,40.0,143,6.66,setembro/2026
 Teresina,Centro Sul,sala,aluguel,28.6,20.0,36.9,10,,setembro/2026
 Teresina,Centro/N,sala,aluguel,29.2,22.9,50.0,17,,setembro/2026
 Teresina,Centro/S,sala,aluguel,28.1,21.7,50.0,9,,setembro/2026
