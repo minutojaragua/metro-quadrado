@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 55 cidades de Santa Catarina, São Paulo e mais 24 estados, Brasil, bairro por bairro, a partir de 344.236 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 55 cidades de Santa Catarina, São Paulo e mais 24 estados, Brasil, bairro por bairro, a partir de 344.647 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -6648,7 +6648,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 
 ## Maceió (setembro/2026): https://acorridadosbairros.com.br/al/maceio/
 
-### Apartamentos, cidade toda: venda R$ 8.953/m² (n=1167); aluguel R$ 51,7/m²/mês (n=491); rendimento bruto do aluguel 6,93% a.a.
+### Apartamentos, cidade toda: venda R$ 8.933/m² (n=1174); aluguel R$ 51,7/m²/mês (n=491); rendimento bruto do aluguel 6,94% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -7470,12 +7470,13 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 
 ## Goiânia (setembro/2026): https://acorridadosbairros.com.br/go/goiania/
 
-### Apartamentos, cidade toda: venda R$ 8.203/m² (n=2487); aluguel R$ 40,6/m²/mês (n=1173); rendimento bruto do aluguel 5,94% a.a.
+### Apartamentos, cidade toda: venda R$ 8.126/m² (n=2681); aluguel R$ 40,5/m²/mês (n=1120); rendimento bruto do aluguel 5,98% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
 | Aeroviário | R$ 8.193 | 13 | – | – | – | – |
-| Alto da Glória | R$ 7.615 | 49 | R$ 40,7 | 41 | 6,41% | – |
+| Alto da Glória | R$ 7.615 | 49 | R$ 41,4 | 40 | 6,52% | – |
+| Chácaras Alto da Glória | R$ 7.216 | 8 | – | – | – | – |
 | Chácaras Dona Gê | R$ 7.551 | 5 | – | – | – | – |
 | Chácaras Santa Rita | R$ 5.227 | 9 | – | – | – | – |
 | Cidade Jardim | R$ 5.179 | 5 | – | – | – | – |
@@ -7483,21 +7484,23 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Fazenda Dourados | R$ 2.483 | 5 | – | – | – | – |
 | Fazenda Santa Rita | R$ 2.466 | 6 | – | – | – | – |
 | Goiânia 2 | R$ 6.595 | 8 | – | – | – | – |
-| Jardim América | R$ 8.384 | 101 | R$ 37,0 | 32 | 5,30% | – |
-| Jardim Atlântico | R$ 7.826 | 21 | R$ 40,5 | 37 | 6,21% | – |
+| Jardim América | R$ 8.359 | 102 | R$ 36,9 | 31 | 5,30% | – |
+| Jardim Atlântico | R$ 7.663 | 22 | R$ 40,5 | 37 | 6,34% | – |
+| Jardim das Esmeraldas | R$ 8.036 | 7 | – | – | – | – |
 | Jardim Europa | R$ 7.021 | 14 | – | – | – | – |
-| Jardim Goiás | R$ 10.000 | 146 | R$ 50,0 | 91 | 6,00% | – |
+| Jardim Goiás | R$ 10.145 | 194 | R$ 50,0 | 87 | 5,91% | – |
 | Jardim Guanabara | – | – | R$ 31,5 | 5 | – | – |
 | Jardim Ipê | R$ 7.441 | 6 | – | – | – | – |
 | Jardim Novo Mundo | R$ 6.177 | 8 | – | – | – | – |
 | Loteamento Grande Retiro | R$ 5.147 | 6 | – | – | – | – |
-| Moinho dos Ventos | R$ 4.781 | 10 | – | – | – | – |
+| Moinho dos Ventos | R$ 4.478 | 16 | – | – | – | – |
 | Nova Suiça | R$ 6.757 | 29 | R$ 37,1 | 7 | 6,59% | – |
-| Park Lozandes | R$ 10.768 | 26 | R$ 58,6 | 11 | 6,53% | – |
-| Parque Amazônia | R$ 7.851 | 106 | R$ 35,7 | 47 | 5,46% | – |
+| Park Lozandes | R$ 10.768 | 26 | R$ 58,9 | 10 | 6,56% | – |
+| Parque Amazônia | R$ 7.851 | 106 | R$ 35,0 | 46 | 5,35% | – |
 | Parque Industrial Paulista | R$ 4.419 | 7 | – | – | – | – |
-| Parque Oeste Industrial | R$ 6.081 | 20 | R$ 25,2 | 9 | 4,97% | – |
+| Parque Oeste Industrial | R$ 6.081 | 20 | R$ 24,4 | 8 | 4,81% | – |
 | Residencial Alfa | R$ 5.238 | 7 | – | – | – | – |
+| Residencial Aquários | R$ 4.688 | 5 | – | – | – | – |
 | Residencial Barcelona | R$ 4.345 | 6 | – | – | – | – |
 | Residencial Bethel | R$ 6.190 | 7 | – | – | – | – |
 | Residencial Eldorado | R$ 6.220 | 25 | R$ 29,8 | 18 | 5,75% | – |
@@ -7510,108 +7513,118 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Residencial Porto Dourado | R$ 3.762 | 6 | – | – | – | – |
 | Rodoviário | R$ 6.857 | 7 | – | – | – | – |
 | São Francisco | R$ 6.625 | 7 | – | – | – | – |
-| Serrinha | R$ 9.432 | 50 | R$ 41,4 | 38 | 5,27% | – |
-| Setor Aeroporto | R$ 8.275 | 24 | R$ 27,6 | 15 | 4,00% | – |
-| Setor Bela Vista | R$ 5.914 | 51 | R$ 36,5 | 35 | 7,41% | – |
-| Setor Bueno | R$ 9.895 | 463 | R$ 52,2 | 197 | 6,33% | – |
+| Serrinha | R$ 9.432 | 50 | R$ 41,4 | 36 | 5,27% | – |
+| Setor Aeroporto | R$ 8.275 | 24 | R$ 27,3 | 14 | 3,96% | – |
+| Setor Bela Vista | R$ 5.842 | 50 | R$ 36,2 | 34 | 7,44% | – |
+| Setor Bueno | R$ 9.879 | 467 | R$ 52,5 | 177 | 6,38% | – |
 | Setor Campinas | R$ 3.418 | 8 | – | – | – | – |
 | Setor Cândida de Morais | R$ 5.040 | 6 | – | – | – | – |
-| Setor Central | R$ 6.242 | 61 | R$ 25,0 | 37 | 4,81% | – |
+| Setor Central | R$ 6.679 | 86 | R$ 24,9 | 36 | 4,47% | – |
 | Setor Coimbra | R$ 8.098 | 18 | R$ 39,7 | 7 | 5,88% | – |
 | Setor Criméia Oeste | R$ 6.709 | 6 | – | – | – | – |
-| Setor Faiçalville | R$ 6.821 | 20 | R$ 31,6 | 8 | 5,56% | – |
+| Setor Faiçalville | R$ 6.454 | 35 | R$ 31,6 | 8 | 5,87% | – |
 | Setor Gentil Meireles | – | – | R$ 41,4 | 12 | – | – |
 | Setor Goiânia 2 | R$ 6.238 | 14 | R$ 31,5 | 5 | 6,06% | – |
 | Setor Grajaú | R$ 4.723 | 6 | – | – | – | – |
-| Setor Leste Universitário | R$ 9.063 | 42 | R$ 40,3 | 29 | 5,34% | – |
-| Setor Leste Vila Nova | R$ 6.104 | 5 | R$ 27,5 | 10 | 5,41% | – |
+| Setor Leste Universitário | R$ 9.000 | 41 | R$ 40,3 | 29 | 5,37% | – |
+| Setor Leste Vila Nova | R$ 6.104 | 5 | R$ 26,7 | 9 | 5,25% | – |
 | Setor Marechal Rondon | R$ 7.118 | 5 | – | – | – | – |
-| Setor Marista | R$ 12.035 | 302 | R$ 63,9 | 96 | 6,37% | – |
+| Setor Marista | R$ 12.026 | 296 | R$ 63,8 | 94 | 6,37% | – |
 | Setor Negrão de Lima | R$ 6.645 | 19 | R$ 34,3 | 21 | 6,19% | – |
 | Setor Norte Ferroviário | R$ 7.677 | 7 | – | – | – | – |
-| Setor Nova Suiça | R$ 9.113 | 35 | R$ 28,7 | 14 | 3,78% | – |
-| Setor Oeste | R$ 9.114 | 188 | R$ 45,3 | 79 | 5,96% | – |
+| Setor Nova Suiça | R$ 9.168 | 36 | R$ 37,0 | 12 | 4,84% | – |
+| Setor Oeste | R$ 8.182 | 234 | R$ 46,9 | 75 | 6,88% | – |
 | Setor Parque Tremendão | R$ 6.049 | 7 | – | – | – | – |
-| Setor Pedro Ludovico | R$ 8.414 | 93 | R$ 44,3 | 45 | 6,32% | – |
+| Setor Pedro Ludovico | R$ 8.505 | 112 | R$ 45,1 | 44 | 6,36% | – |
 | Setor Progresso | – | – | R$ 26,7 | 10 | – | – |
 | Setor Sudoeste | R$ 6.300 | 22 | R$ 38,1 | 12 | 7,26% | – |
 | Setor Sul | R$ 3.922 | 11 | – | – | – | – |
 | Vila Alpes | R$ 6.757 | 20 | R$ 42,1 | 6 | 7,48% | – |
+| Vila Alto da Glória | R$ 9.304 | 9 | – | – | – | – |
 | Vila dos Alpes | R$ 6.228 | 8 | – | – | – | – |
 | Vila Jaraguá | R$ 6.761 | 5 | – | – | – | – |
 | Vila Luciana | R$ 6.100 | 6 | – | – | – | – |
-| Vila Maria José | R$ 8.190 | 11 | R$ 42,9 | 7 | 6,29% | – |
+| Vila Maria José | R$ 8.190 | 11 | R$ 43,5 | 6 | 6,37% | – |
 | Vila Monticelli | R$ 7.515 | 6 | – | – | – | – |
 | Vila Mooca | – | – | R$ 31,7 | 9 | – | – |
 | Vila Redenção | – | – | R$ 22,5 | 7 | – | – |
-| Vila Rosa | R$ 7.170 | 44 | R$ 38,6 | 19 | 6,46% | – |
+| Vila Rosa | R$ 7.115 | 45 | R$ 38,6 | 19 | 6,51% | – |
 | Vila São João | R$ 8.962 | 7 | – | – | – | – |
 | Village Veneza | R$ 7.308 | 13 | R$ 34,6 | 7 | 5,68% | – |
 
-### Casas, cidade toda: venda R$ 4.000/m² (n=1889); aluguel R$ 24,3/m²/mês (n=274); rendimento bruto do aluguel 7,29% a.a.
+### Casas, cidade toda: venda R$ 4.072/m² (n=2118); aluguel R$ 24,5/m²/mês (n=267); rendimento bruto do aluguel 7,22% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
 | Alphaville Flamboyant Residencial Araguaia | R$ 14.091 | 5 | R$ 75,4 | 5 | 6,42% | – |
 | Anhangüera | R$ 5.909 | 6 | – | – | – | – |
 | Carolina Parque | R$ 2.575 | 6 | – | – | – | – |
+| Chácaras Alto da Glória | R$ 6.353 | 13 | – | – | – | – |
 | Chácaras Anhangüera | R$ 3.375 | 5 | – | – | – | – |
-| Chácaras Maringá | R$ 11.655 | 5 | – | – | – | – |
+| Chácaras Maringá | R$ 11.111 | 11 | – | – | – | – |
 | Cidade Jardim | R$ 3.509 | 5 | – | – | – | – |
 | Fazenda Vau das Pombas | R$ 9.759 | 8 | – | – | – | – |
-| Feliz | R$ 3.134 | 7 | – | – | – | – |
+| Feliz | R$ 3.064 | 8 | – | – | – | – |
 | Goiá 2 | R$ 2.750 | 5 | – | – | – | – |
-| Jardim Alphaville | R$ 2.778 | 5 | – | – | – | – |
-| Jardim América | R$ 4.887 | 52 | R$ 19,5 | 13 | 4,79% | – |
-| Jardim Atlântico | R$ 5.733 | 57 | R$ 23,1 | 11 | 4,83% | – |
+| Jardim Alphaville | R$ 3.282 | 8 | – | – | – | – |
+| Jardim América | R$ 4.843 | 53 | R$ 19,5 | 13 | 4,83% | – |
+| Jardim Atlântico | R$ 5.663 | 58 | R$ 24,5 | 10 | 5,19% | – |
 | Jardim Balneário Meia Ponte | R$ 2.710 | 8 | – | – | – | – |
 | Jardim Brasil | R$ 4.688 | 5 | – | – | – | – |
 | Jardim Colorado | R$ 3.193 | 7 | – | – | – | – |
-| Jardim Curitiba | R$ 2.688 | 7 | – | – | – | – |
+| Jardim Curitiba | R$ 2.669 | 6 | – | – | – | – |
+| Jardim das Esmeraldas | R$ 2.274 | 5 | – | – | – | – |
 | Jardim Europa | R$ 4.859 | 14 | – | – | – | – |
-| Jardim Fonte Nova | R$ 2.944 | 7 | – | – | – | – |
+| Jardim Fonte Nova | R$ 3.333 | 11 | – | – | – | – |
 | Jardim Gardênia | R$ 3.571 | 14 | – | – | – | – |
 | Jardim Gramado | R$ 3.667 | 9 | – | – | – | – |
-| Jardim Guanabara | R$ 2.398 | 8 | – | – | – | – |
+| Jardim Guanabara | R$ 3.101 | 16 | – | – | – | – |
 | Jardim Guanabara II | R$ 4.650 | 7 | – | – | – | – |
 | Jardim Guanabara III | R$ 1.606 | 5 | – | – | – | – |
+| Jardim Guanabara IV | R$ 4.143 | 5 | – | – | – | – |
 | Jardim Ipanema | R$ 2.950 | 5 | – | – | – | – |
 | Jardim Itaipu | R$ 3.489 | 12 | – | – | – | – |
 | Jardim Mariliza | R$ 3.663 | 10 | – | – | – | – |
-| Jardim Marques de Abreu | R$ 2.488 | 7 | – | – | – | – |
-| Jardim Novo Mundo | R$ 4.222 | 19 | R$ 28,2 | 8 | 8,01% | – |
+| Jardim Marques de Abreu | R$ 2.417 | 6 | – | – | – | – |
+| Jardim Novo Mundo | R$ 4.021 | 20 | R$ 28,2 | 8 | 8,42% | – |
 | Jardim Planalto | R$ 4.046 | 12 | – | – | – | – |
 | Jardim Presidente | R$ 4.604 | 16 | – | – | – | – |
+| Jardim Santo Antônio | R$ 3.363 | 9 | – | – | – | – |
 | Jardim São José | R$ 2.707 | 9 | – | – | – | – |
 | Jardim Vila Boa | R$ 5.307 | 12 | – | – | – | – |
 | Jardins Atenas | R$ 9.581 | 11 | – | – | – | – |
 | Jardins Itália | R$ 15.022 | 12 | – | – | – | – |
-| Jardins Lisboa | R$ 10.250 | 7 | – | – | – | – |
+| Jardins Lisboa | R$ 9.610 | 8 | – | – | – | – |
 | Jardins Madri | R$ 9.143 | 19 | – | – | – | – |
 | Jardins Munique | R$ 17.708 | 9 | – | – | – | – |
-| Jardins Valência | R$ 10.406 | 6 | R$ 49,1 | 7 | 5,66% | – |
-| Jardins Verona | R$ 11.364 | 11 | – | – | – | – |
-| Loteamento Portal do Sol I | R$ 6.760 | 11 | – | – | – | – |
-| Loteamento Portal do Sol II | R$ 7.341 | 7 | – | – | – | – |
-| Moinho dos Ventos | R$ 4.768 | 19 | – | – | – | – |
-| Parque Amazônia | R$ 5.415 | 36 | R$ 29,7 | 7 | 6,58% | – |
+| Jardins Valência | R$ 10.714 | 7 | R$ 49,1 | 7 | 5,50% | – |
+| Jardins Verona | R$ 11.220 | 12 | – | – | – | – |
+| Loteamento Portal do Sol I | R$ 6.760 | 9 | – | – | – | – |
+| Loteamento Portal do Sol II | R$ 7.293 | 6 | – | – | – | – |
+| Loteamento Tropical Ville | R$ 3.471 | 8 | – | – | – | – |
+| Moinho dos Ventos | R$ 4.086 | 51 | – | – | – | – |
+| Parque Amazônia | R$ 5.435 | 37 | R$ 29,7 | 7 | 6,56% | – |
 | Parque Anhangüera | R$ 4.503 | 12 | – | – | – | – |
 | Parque Atheneu | R$ 4.000 | 9 | – | – | – | – |
-| Parque das Amendoeiras | R$ 5.667 | 5 | – | – | – | – |
+| Parque das Amendoeiras | R$ 5.667 | 7 | – | – | – | – |
 | Parque das Flores | R$ 2.867 | 7 | – | – | – | – |
 | Parque das Laranjeiras | R$ 5.467 | 11 | – | – | – | – |
 | Parque Eldorado Oeste | R$ 2.988 | 8 | – | – | – | – |
+| Parque Industrial João Bras 2 | R$ 2.850 | 5 | – | – | – | – |
 | Parque Industrial João Braz | R$ 3.589 | 14 | – | – | – | – |
 | Parque João Braz - Cidade Industrial | R$ 4.546 | 5 | – | – | – | – |
 | Portal do Sol Garden | R$ 11.131 | 5 | – | – | – | – |
 | Portal do Sol Green | R$ 9.038 | 13 | – | – | – | – |
 | Residencial Aldeia do Vale | R$ 12.747 | 11 | – | – | – | – |
 | Residencial Alice Barbosa | R$ 4.080 | 6 | – | – | – | – |
+| Residencial Alphaville | R$ 11.452 | 8 | – | – | – | – |
 | Residencial Alphaville Flamboyant | R$ 13.857 | 12 | R$ 45,2 | 8 | 3,91% | – |
 | Residencial Ana Clara | R$ 2.614 | 7 | – | – | – | – |
+| Residencial Aquários | R$ 3.462 | 5 | – | – | – | – |
 | Residencial Barravento | R$ 3.566 | 8 | – | – | – | – |
 | Residencial Beatriz Nascimento | R$ 2.750 | 5 | – | – | – | – |
 | Residencial Brisas da Mata | R$ 3.738 | 14 | – | – | – | – |
+| Residencial Buena Vista II | R$ 3.000 | 5 | – | – | – | – |
 | Residencial Buena Vista III | R$ 2.720 | 7 | – | – | – | – |
 | Residencial Buena Vista IV | R$ 3.412 | 6 | – | – | – | – |
 | Residencial Campos Dourados | R$ 2.297 | 6 | – | – | – | – |
@@ -7621,23 +7634,24 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Residencial das Acácias | R$ 4.076 | 5 | – | – | – | – |
 | Residencial Della Penna | R$ 3.296 | 7 | – | – | – | – |
 | Residencial Fidelis | R$ 2.838 | 9 | – | – | – | – |
-| Residencial Goiânia Golfe Clube | R$ 10.798 | 34 | R$ 54,4 | 16 | 6,05% | – |
-| Residencial Granville | R$ 9.182 | 8 | – | – | – | – |
+| Residencial Goiânia Golfe Clube | R$ 9.815 | 75 | R$ 54,4 | 16 | 6,65% | – |
+| Residencial Granville | R$ 9.639 | 7 | – | – | – | – |
 | Residencial Havaí | R$ 3.552 | 6 | – | – | – | – |
 | Residencial Hugo de Moraes | R$ 3.496 | 5 | – | – | – | – |
 | Residencial Humaitá | R$ 3.833 | 8 | – | – | – | – |
 | Residencial Itaipu | R$ 3.444 | 11 | R$ 17,8 | 6 | 6,20% | – |
 | Residencial Kátia | R$ 3.062 | 6 | – | – | – | – |
 | Residencial Monte Pascoal | R$ 2.373 | 6 | – | – | – | – |
-| Residencial Morumbi | R$ 5.227 | 6 | – | – | – | – |
+| Residencial Morumbi | R$ 4.940 | 18 | – | – | – | – |
 | Residencial Orlando Morais | R$ 2.600 | 5 | – | – | – | – |
 | Residencial Paraíso | R$ 2.950 | 5 | – | – | – | – |
-| Residencial Park Solar | R$ 2.796 | 5 | – | – | – | – |
+| Residencial Park Solar | R$ 2.826 | 6 | – | – | – | – |
+| Residencial Porto Seguro | R$ 4.959 | 14 | – | – | – | – |
 | Residencial Recanto das Emas | R$ 2.895 | 5 | – | – | – | – |
 | Residencial Recanto do Bosque | R$ 3.762 | 14 | R$ 15,6 | 5 | 4,98% | – |
 | Residencial Santa Fé | R$ 2.947 | 10 | – | – | – | – |
 | Residencial Santa Fé I | R$ 3.697 | 24 | – | – | – | – |
-| Residencial São Leopoldo | R$ 3.516 | 6 | – | – | – | – |
+| Residencial São Leopoldo | R$ 4.069 | 7 | – | – | – | – |
 | Residencial Solar Bougainville | R$ 2.810 | 10 | – | – | – | – |
 | Residencial Solar Ville | R$ 2.365 | 6 | – | – | – | – |
 | Residencial Sonho Verde | R$ 2.756 | 7 | – | – | – | – |
@@ -7646,34 +7660,36 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Residencial Vereda dos Buritis | R$ 5.000 | 15 | – | – | – | – |
 | Santa Genoveva | R$ 4.566 | 10 | – | – | – | – |
 | Setor Andréia | R$ 2.500 | 5 | – | – | – | – |
-| Setor Bueno | R$ 6.328 | 8 | R$ 30,8 | 5 | 5,84% | – |
+| Setor Barra da Tijuca | R$ 3.145 | 6 | – | – | – | – |
+| Setor Bueno | R$ 6.608 | 9 | – | – | – | – |
 | Setor Campinas | R$ 3.202 | 8 | – | – | – | – |
-| Setor Central | R$ 2.760 | 5 | – | – | – | – |
+| Setor Central | R$ 3.093 | 10 | – | – | – | – |
 | Setor Coimbra | R$ 2.820 | 7 | R$ 25,0 | 5 | 10,64% | – |
-| Setor Criméia Oeste | R$ 2.393 | 5 | – | – | – | – |
+| Setor Criméia Oeste | R$ 2.560 | 6 | – | – | – | – |
 | Setor dos Funcionários | R$ 4.140 | 7 | – | – | – | – |
-| Setor Estrela Dalva | R$ 4.523 | 14 | – | – | – | – |
-| Setor Faiçalville | R$ 4.884 | 36 | – | – | – | – |
+| Setor Estrela Dalva | R$ 4.491 | 15 | – | – | – | – |
+| Setor Faiçalville | R$ 4.700 | 65 | – | – | – | – |
 | Setor Garavelo | R$ 3.690 | 8 | – | – | – | – |
 | Setor Gentil Meireles | R$ 5.128 | 5 | – | – | – | – |
 | Setor Goiânia 2 | R$ 5.000 | 11 | – | – | – | – |
 | Setor Grajaú | R$ 3.306 | 6 | – | – | – | – |
-| Setor Jaó | R$ 5.000 | 21 | – | – | – | – |
-| Setor Leste Universitário | R$ 3.929 | 5 | R$ 17,4 | 5 | 5,31% | – |
+| Setor Jaó | R$ 5.064 | 20 | – | – | – | – |
+| Setor Leste Universitário | R$ 3.415 | 5 | R$ 17,4 | 5 | 6,11% | – |
 | Setor Leste Vila Nova | R$ 3.500 | 7 | – | – | – | – |
 | Setor Marista | R$ 9.667 | 11 | – | – | – | – |
 | Setor Maysa Extensão | R$ 3.093 | 8 | – | – | – | – |
 | Setor Morada do Sol | R$ 4.070 | 5 | – | – | – | – |
 | Setor Orientville | R$ 3.730 | 10 | – | – | – | – |
-| Setor Pedro Ludovico | R$ 3.915 | 8 | – | – | – | – |
+| Setor Pedro Ludovico | R$ 4.710 | 14 | – | – | – | – |
 | Setor Recanto das Minas Gerais | R$ 2.990 | 6 | – | – | – | – |
 | Setor Santos Dumont | R$ 3.805 | 9 | – | – | – | – |
 | Setor Sudoeste | R$ 2.031 | 6 | – | – | – | – |
 | Setor Sul | R$ 5.859 | 12 | R$ 19,3 | 8 | 3,95% | – |
 | Setor Três Marias | R$ 5.619 | 20 | – | – | – | – |
 | Sítio de Recreio Ipê | R$ 5.031 | 8 | – | – | – | – |
-| Vila Finsocial | R$ 3.267 | 7 | – | – | – | – |
-| Vila Itatiaia | R$ 2.367 | 6 | – | – | – | – |
+| Vila Alto da Glória | R$ 4.999 | 7 | – | – | – | – |
+| Vila Finsocial | R$ 3.393 | 11 | – | – | – | – |
+| Vila Itatiaia | R$ 2.633 | 7 | – | – | – | – |
 | Vila Jardim Vitória | R$ 6.806 | 6 | – | – | – | – |
 | Vila João Vaz | R$ 4.989 | 5 | – | – | – | – |
 | Vila Lucy | R$ 3.127 | 6 | – | – | – | – |
@@ -7681,39 +7697,42 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Vila Rezende | R$ 3.770 | 8 | – | – | – | – |
 | Vila Rosa | R$ 4.452 | 9 | – | – | – | – |
 
-### Terrenos, cidade toda: venda R$ 1.072/m² (n=560)
+### Terrenos, cidade toda: venda R$ 1.084/m² (n=602)
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
 | Jardim América | R$ 1.295 | 18 | – | – | – | – |
 | Jardim Atlântico | R$ 1.157 | 5 | – | – | – | – |
+| Jardim das Esmeraldas | R$ 1.189 | 5 | – | – | – | – |
 | Jardim Novo Mundo | R$ 1.000 | 11 | – | – | – | – |
 | Jardim Petrópolis | R$ 545 | 5 | – | – | – | – |
 | Jardins Amsterdã | R$ 2.149 | 9 | – | – | – | – |
 | Jardins França | R$ 2.504 | 11 | – | – | – | – |
 | Jardins Zurique | R$ 3.507 | 5 | – | – | – | – |
 | Loteamento Aruanã Park | R$ 500 | 5 | – | – | – | – |
-| Parque Amazônia | R$ 1.280 | 9 | – | – | – | – |
+| Moinho dos Ventos | R$ 1.097 | 6 | – | – | – | – |
+| Parque Amazônia | R$ 1.241 | 10 | – | – | – | – |
 | Parque Cidade | R$ 2.510 | 16 | – | – | – | – |
 | Parque Industrial | R$ 1.183 | 6 | – | – | – | – |
 | Portal do Sol Green | R$ 1.888 | 10 | – | – | – | – |
 | Residencial Aldeia do Vale | R$ 1.104 | 10 | – | – | – | – |
-| Residencial Alphaville Flamboyant | R$ 2.551 | 7 | – | – | – | – |
-| Residencial Goiânia Golfe Clube | R$ 1.735 | 18 | – | – | – | – |
+| Residencial Alphaville Flamboyant | R$ 2.613 | 8 | – | – | – | – |
+| Residencial Goiânia Golfe Clube | R$ 1.718 | 28 | – | – | – | – |
 | Residencial Jardins Londres | R$ 3.100 | 5 | – | – | – | – |
+| Residencial Morumbi | R$ 799 | 5 | – | – | – | – |
 | Residencial Recanto do Bosque | R$ 650 | 5 | – | – | – | – |
 | Santa Genoveva | R$ 794 | 11 | – | – | – | – |
-| Setor Faiçalville | R$ 993 | 6 | – | – | – | – |
+| Setor Faiçalville | R$ 1.018 | 10 | – | – | – | – |
 | Setor Leste Universitário | R$ 2.947 | 5 | – | – | – | – |
 | Setor Marista | R$ 6.452 | 5 | – | – | – | – |
-| Setor Pedro Ludovico | R$ 1.759 | 14 | – | – | – | – |
+| Setor Pedro Ludovico | R$ 1.676 | 16 | – | – | – | – |
 
-### Salas comerciais, cidade toda: venda R$ 14.861/m² (n=140); aluguel R$ 56,0/m²/mês (n=295); rendimento bruto do aluguel 4,52% a.a.
+### Salas comerciais, cidade toda: venda R$ 14.861/m² (n=140); aluguel R$ 56,0/m²/mês (n=294); rendimento bruto do aluguel 4,52% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
 | Jardim América | – | – | R$ 71,1 | 19 | – | – |
-| Jardim Goiás | R$ 13.871 | 21 | R$ 100,0 | 29 | 8,65% | – |
+| Jardim Goiás | R$ 13.871 | 21 | R$ 101,7 | 28 | 8,80% | – |
 | Jardim Planalto | – | – | R$ 36,7 | 5 | – | – |
 | Park Lozandes | R$ 14.928 | 14 | – | – | – | – |
 | Setor Aeroporto | R$ 2.729 | 6 | – | – | – | – |
