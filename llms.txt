@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 50 cidades de Santa Catarina, São Paulo, Tocantins, Rondônia, Espírito Santo, Amapá, Roraima, Sergipe, Rio Grande do Norte, Paraíba, Mato Grosso, Piauí, Paraná, Mato Grosso do Sul, Alagoas, Maranhão, Pará, Pernambuco, Ceará, Distrito Federal e Goiás, Brasil, bairro por bairro, a partir de 238.364 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 51 cidades de Santa Catarina, São Paulo, Tocantins, Rondônia, Espírito Santo, Amapá, Roraima, Sergipe, Rio Grande do Norte, Paraíba, Mato Grosso, Piauí, Paraná, Mato Grosso do Sul, Alagoas, Maranhão, Pará, Pernambuco, Ceará, Distrito Federal, Goiás e Amazonas, Brasil, bairro por bairro, a partir de 239.256 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 ## Cidades (dados por bairro)
 
@@ -54,6 +54,7 @@
 - [Fortaleza](https://acorridadosbairros.com.br/ce/fortaleza/): mediana apartamentos R$ 7.883/m² (venda)
 - [Brasília](https://acorridadosbairros.com.br/df/brasilia/): mediana apartamentos R$ 11.075/m² (venda)
 - [Goiânia](https://acorridadosbairros.com.br/go/goiania/): mediana apartamentos R$ 8.091/m² (venda)
+- [Manaus](https://acorridadosbairros.com.br/am/manaus/): mediana apartamentos R$ 7.292/m² (venda)
 
 ## Ferramentas e dados
 
