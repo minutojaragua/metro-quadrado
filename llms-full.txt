@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 48 cidades de Santa Catarina, São Paulo, Tocantins, Rondônia, Espírito Santo, Amapá, Roraima, Sergipe, Rio Grande do Norte, Paraíba, Mato Grosso, Piauí, Paraná, Mato Grosso do Sul, Alagoas, Maranhão, Pará, Pernambuco e Ceará, Brasil, bairro por bairro, a partir de 228.915 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 49 cidades de Santa Catarina, São Paulo, Tocantins, Rondônia, Espírito Santo, Amapá, Roraima, Sergipe, Rio Grande do Norte, Paraíba, Mato Grosso, Piauí, Paraná, Mato Grosso do Sul, Alagoas, Maranhão, Pará, Pernambuco, Ceará e Distrito Federal, Brasil, bairro por bairro, a partir de 232.275 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -7129,6 +7129,128 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Montese | – | – | R$ 31,4 | 5 | – | – |
 | Parque Manibura | – | – | R$ 41,2 | 6 | – | – |
 | Parquelândia | – | – | R$ 33,3 | 7 | – | – |
+
+
+## Brasília (setembro/2026): https://acorridadosbairros.com.br/df/brasilia/
+
+### Apartamentos, cidade toda: venda R$ 11.075/m² (n=963); aluguel R$ 63,6/m²/mês (n=622); rendimento bruto do aluguel 6,89% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Águas Claras | R$ 9.219 | 16 | R$ 51,7 | 35 | 6,73% | – |
+| Areal | R$ 6.696 | 5 | – | – | – | – |
+| Areal (Águas Claras) | R$ 7.761 | 9 | – | – | – | – |
+| Asa Norte | R$ 13.971 | 93 | R$ 71,0 | 66 | 6,10% | – |
+| Asa Sul | R$ 14.016 | 65 | R$ 62,1 | 59 | 5,32% | – |
+| Ceilândia | R$ 5.445 | 10 | R$ 25,9 | 14 | 5,71% | – |
+| Ceilândia Norte | R$ 6.286 | 5 | – | – | – | – |
+| Ceilândia Norte (Ceilândia) | R$ 4.627 | 9 | – | – | – | – |
+| Guará I | R$ 5.429 | 11 | R$ 47,7 | 10 | 10,54% | – |
+| Guará II | R$ 10.000 | 45 | R$ 31,6 | 12 | 3,79% | – |
+| Lago Norte | R$ 12.482 | 23 | R$ 64,1 | 39 | 6,16% | – |
+| Noroeste | R$ 17.133 | 92 | R$ 89,7 | 90 | 6,28% | – |
+| Norte (Águas Claras) | R$ 9.630 | 75 | R$ 51,7 | 9 | 6,44% | – |
+| Park Sul | R$ 17.006 | 72 | R$ 86,2 | 40 | 6,08% | – |
+| Riacho Fundo I | R$ 4.131 | 12 | – | – | – | – |
+| Riacho Fundo II | R$ 4.206 | 14 | R$ 25,6 | 6 | 7,30% | – |
+| Samambaia Norte | R$ 5.355 | 6 | – | – | – | – |
+| Samambaia Norte (Samambaia) | R$ 6.109 | 6 | – | – | – | – |
+| Samambaia Sul | R$ 6.782 | 12 | R$ 35,7 | 9 | 6,32% | – |
+| Samambaia Sul (Samambaia) | R$ 4.945 | 8 | R$ 36,2 | 13 | 8,78% | – |
+| Setor Central (Gama) | R$ 5.853 | 8 | – | – | – | – |
+| Setor Habitacional Jardins Mangueiral | – | – | R$ 56,8 | 8 | – | – |
+| Setor Habitacional Vicente Pires | – | – | R$ 32,4 | 5 | – | – |
+| Setor Industrial (Gama) | R$ 5.833 | 11 | – | – | – | – |
+| Setor Industrial (Taguatinga) | R$ 6.400 | 10 | – | – | – | – |
+| Setor Noroeste | R$ 16.956 | 19 | R$ 90,7 | 6 | 6,42% | – |
+| Setor Sudoeste | R$ 14.423 | 12 | R$ 88,3 | 11 | 7,35% | – |
+| Sobradinho | R$ 5.788 | 8 | – | – | – | – |
+| Sudoeste | R$ 15.821 | 82 | R$ 66,7 | 91 | 5,06% | – |
+| Sul (Águas Claras) | R$ 9.343 | 54 | R$ 52,5 | 5 | 6,74% | – |
+| Taguatinga | R$ 4.206 | 15 | R$ 41,2 | 20 | 11,75% | – |
+| Taguatinga (Norte) | R$ 5.667 | 29 | – | – | – | – |
+| Taguatinga Norte (Taguatinga) | R$ 5.778 | 5 | – | – | – | – |
+| Taguatinga Sul (Taguatinga) | R$ 5.762 | 8 | – | – | – | – |
+| Vicente Pires | R$ 4.667 | 17 | R$ 38,9 | 10 | 10,00% | – |
+| Vila Planalto | R$ 7.000 | 7 | – | – | – | – |
+
+### Casas, cidade toda: venda R$ 3.806/m² (n=1044); aluguel R$ 30,3/m²/mês (n=269); rendimento bruto do aluguel 9,55% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Areal (Águas Claras) | R$ 2.833 | 11 | – | – | – | – |
+| Arniqueira (Águas Claras) | R$ 3.143 | 25 | – | – | – | – |
+| Arniqueiras | R$ 3.083 | 15 | – | – | – | – |
+| Asa Sul | R$ 6.444 | 16 | R$ 28,5 | 6 | 5,31% | – |
+| Candangolândia | R$ 3.992 | 7 | – | – | – | – |
+| Ceilândia | R$ 2.647 | 11 | – | – | – | – |
+| Ceilândia Norte | R$ 2.674 | 13 | – | – | – | – |
+| Ceilândia Norte (Ceilândia) | R$ 2.131 | 32 | – | – | – | – |
+| Ceilândia Sul | R$ 3.146 | 12 | – | – | – | – |
+| Ceilândia Sul (Ceilândia) | R$ 2.484 | 30 | – | – | – | – |
+| Granja do Torto | R$ 3.573 | 14 | – | – | – | – |
+| Guará I | R$ 4.062 | 13 | – | – | – | – |
+| Guará II | R$ 5.355 | 60 | – | – | – | – |
+| Jardim Botânico | R$ 5.064 | 36 | – | – | – | – |
+| Jardim Botânico (Lago Sul) | R$ 3.865 | 5 | – | – | – | – |
+| Lago Norte | R$ 6.412 | 58 | R$ 24,9 | 21 | 4,66% | – |
+| Lago Sul | R$ 9.646 | 55 | R$ 43,8 | 64 | 5,45% | – |
+| Núcleo Bandeirante | R$ 3.864 | 5 | – | – | – | – |
+| Paranoá | R$ 1.416 | 6 | – | – | – | – |
+| Park Way | R$ 5.289 | 71 | R$ 26,0 | 31 | 5,90% | – |
+| Recanto das Emas | R$ 2.300 | 16 | – | – | – | – |
+| Riacho Fundo I | R$ 2.729 | 18 | – | – | – | – |
+| Riacho Fundo II | R$ 2.572 | 10 | – | – | – | – |
+| Samambaia Norte | R$ 2.714 | 19 | – | – | – | – |
+| Samambaia Norte (Samambaia) | R$ 2.571 | 11 | – | – | – | – |
+| Samambaia Sul | R$ 2.800 | 19 | – | – | – | – |
+| Samambaia Sul (Samambaia) | R$ 2.743 | 11 | – | – | – | – |
+| Santa Maria | R$ 1.400 | 7 | – | – | – | – |
+| Setor de Mansões de Sobradinho | R$ 3.054 | 8 | – | – | – | – |
+| Setor Habitacional Arniqueira (Águas Claras) | R$ 1.700 | 7 | – | – | – | – |
+| Setor Habitacional Contagem (Sobradinho) | R$ 3.002 | 8 | – | – | – | – |
+| Setor Habitacional Jardim Botânico | R$ 5.317 | 53 | R$ 29,1 | 77 | 6,57% | – |
+| Setor Habitacional Jardins Mangueiral | – | – | R$ 52,9 | 6 | – | – |
+| Setor Habitacional Tororo | R$ 5.158 | 38 | R$ 20,8 | 10 | 4,84% | – |
+| Setor Leste (Gama) | R$ 2.509 | 12 | – | – | – | – |
+| Setor Oeste (Gama) | R$ 3.000 | 5 | – | – | – | – |
+| Setor Oeste (Sobradinho II) | R$ 2.289 | 14 | – | – | – | – |
+| Sobradinho | R$ 3.619 | 8 | – | – | – | – |
+| Taguatinga (Norte) | R$ 3.127 | 55 | – | – | – | – |
+| Taguatinga (Sul) | R$ 3.219 | 19 | – | – | – | – |
+| Taguatinga Norte (Taguatinga) | R$ 3.214 | 7 | – | – | – | – |
+| Taguatinga Sul (Taguatinga) | R$ 2.621 | 5 | – | – | – | – |
+| Vicente Pires | R$ 3.456 | 77 | – | – | – | – |
+| Vila Planalto | R$ 5.333 | 27 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 900/m² (n=208)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Granja do Torto | R$ 523 | 5 | – | – | – | – |
+| Jardim Botânico | R$ 418 | 9 | – | – | – | – |
+| Jardim Botânico (Lago Sul) | R$ 826 | 5 | – | – | – | – |
+| Lago Norte | R$ 926 | 8 | – | – | – | – |
+| Lago Sul | R$ 1.336 | 23 | – | – | – | – |
+| Paranoá | R$ 343 | 5 | – | – | – | – |
+| Park Way | R$ 575 | 13 | – | – | – | – |
+| Setor Habitacional Jardim Botânico | R$ 552 | 32 | – | – | – | – |
+| Setor Habitacional Tororo | R$ 701 | 32 | – | – | – | – |
+| Setor Habitacional Tororó (Santa Maria) | R$ 901 | 9 | – | – | – | – |
+
+### Salas comerciais, cidade toda: venda R$ 6.936/m² (n=113); aluguel R$ 55,5/m²/mês (n=96); rendimento bruto do aluguel 9,60% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Areal (Águas Claras) | R$ 7.500 | 10 | – | – | – | – |
+| Asa Norte | R$ 10.128 | 11 | R$ 50,3 | 12 | 5,96% | – |
+| Asa Sul | R$ 6.936 | 21 | R$ 80,0 | 19 | 13,84% | – |
+| Guará I | – | – | R$ 70,0 | 8 | – | – |
+| Norte (Águas Claras) | R$ 8.500 | 17 | R$ 74,0 | 8 | 10,45% | – |
+| Samambaia Sul | – | – | R$ 25,5 | 6 | – | – |
+| Sul (Águas Claras) | R$ 10.058 | 6 | – | – | – | – |
+| Taguatinga (Norte) | R$ 6.730 | 8 | R$ 35,8 | 7 | 6,38% | – |
+| Taguatinga Norte (Taguatinga) | – | – | R$ 40,0 | 5 | – | – |
 
 
 Metodologia: https://acorridadosbairros.com.br/metodologia/ · Dados abertos CC BY 4.0: https://acorridadosbairros.com.br/dados.csv · Imprensa: https://acorridadosbairros.com.br/imprensa/

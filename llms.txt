@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 48 cidades de Santa Catarina, São Paulo, Tocantins, Rondônia, Espírito Santo, Amapá, Roraima, Sergipe, Rio Grande do Norte, Paraíba, Mato Grosso, Piauí, Paraná, Mato Grosso do Sul, Alagoas, Maranhão, Pará, Pernambuco e Ceará, Brasil, bairro por bairro, a partir de 228.915 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 49 cidades de Santa Catarina, São Paulo, Tocantins, Rondônia, Espírito Santo, Amapá, Roraima, Sergipe, Rio Grande do Norte, Paraíba, Mato Grosso, Piauí, Paraná, Mato Grosso do Sul, Alagoas, Maranhão, Pará, Pernambuco, Ceará e Distrito Federal, Brasil, bairro por bairro, a partir de 232.275 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 ## Cidades (dados por bairro)
 
@@ -52,6 +52,7 @@
 - [Belém](https://acorridadosbairros.com.br/pa/belem/): mediana apartamentos R$ 9.706/m² (venda)
 - [Recife](https://acorridadosbairros.com.br/pe/recife/): mediana apartamentos R$ 8.048/m² (venda)
 - [Fortaleza](https://acorridadosbairros.com.br/ce/fortaleza/): mediana apartamentos R$ 7.883/m² (venda)
+- [Brasília](https://acorridadosbairros.com.br/df/brasilia/): mediana apartamentos R$ 11.075/m² (venda)
 
 ## Ferramentas e dados
 
