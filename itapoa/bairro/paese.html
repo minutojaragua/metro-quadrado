@@ -103,10 +103,12 @@ try{var j=JSON.parse(sessionStorage.getItem('mq_jornada')||'[]');
  sessionStorage.setItem('mq_jornada',JSON.stringify(j));
  ev('passo_jornada',(j.length>=3?'passo 3+':'passo '+j.length)+' | veio de '+de,cam);}catch(e){}
 document.addEventListener('click',function(e){
- var a=e.target&&e.target.closest?e.target.closest('a,button'):null;if(!a)return;
+ var a=e.target&&e.target.closest?e.target.closest('a,button,summary'):null;if(!a)return;
  var h=a.getAttribute('href')||'',txt=(a.textContent||'').trim().slice(0,60);
  var cm=(a.tagName==='A'&&a.pathname)?a.pathname:h;
- if(cm.indexOf('/bairro/')>=0){ev('ver_bairro',txt,cam);}
+ if(a.tagName==='SUMMARY'){var dt=a.parentElement;ev(dt&&dt.open?'fechar_dobra':'abrir_dobra',txt,cam);}
+ else if(a.closest('.pg-btn')||(a.getAttribute('onclick')||'').indexOf('mqGeo')>=0){}
+ else if(cm.indexOf('/bairro/')>=0){ev('ver_bairro',txt,cam);}
  else if(a.closest('.cidades'))ev('trocar_cidade',txt,cam);
  else if(a.closest('.tipos'))ev('trocar_tipo',txt,cam);
  else if(a.closest('.toggle'))ev('alternar_operacao',txt,cam);
@@ -118,7 +120,16 @@ document.addEventListener('click',function(e){
  else if(/anuncie/.test(h))ev('clique_anuncie',txt,cam);
  else if(h.indexOf('.csv')>=0||h.indexOf('.json')>=0)ev('baixar_dados',h.split('/').pop(),cam);
  else if(a.closest('.ferr')||a.closest('.dl'))ev('clique_ferramenta',txt,cam);
- else if(/copiar link/i.test(txt))ev('compartilhar','copiar link',cam);},true);
+ else if(/copiar link/i.test(txt))ev('compartilhar','copiar link',cam);
+ else if(a.closest('.cta-bairro')||a.closest('.porta'))ev('abrir_ferramenta',txt,cam);
+ else if(/\/(casas|terrenos|salas|galpoes|apartamentos)\/?$/.test(cm))ev('trocar_tipo',txt+' (secao)',cam);
+ else if(/\/corredores\/?$/.test(cm))ev('abrir_ferramenta','Corredores '+txt.slice(0,30),cam);
+ else if(a.closest('table')&&a.tagName==='A'&&!/\.(pdf|csv)$/.test(cm))ev('trocar_cidade',txt+' (ranking)',cam);
+ else if(a.closest('.indice')||(h.charAt(0)==='#'&&h.length>1))ev('indice',txt||h,cam);
+ else if(/\.pdf$/.test(cm))ev('clique_ferramenta',txt||cm.split('/').pop(),cam);
+ else if(a.closest('.marca')||cm==='./'||cm==='/')ev('clique','marca',cam);
+ else if(a.tagName==='BUTTON'&&/topo/i.test(txt))ev('clique','topo',cam);
+ else ev('clique',(txt||cm).slice(0,60),cam);},true);
 function rol(){var d=document.documentElement,H=d.scrollHeight-d.clientHeight;if(H<=0)return;
  var p=Math.round(window.pageYOffset/H*100);
  [25,50,75,90].forEach(function(m){if(p>=m&&!prof[m]){prof[m]=1;ev('rolagem',m+'%',cam);}});}
