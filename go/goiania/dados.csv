@@ -22,8 +22,8 @@ Goiânia,Feliz,casa,venda,2995.4,2613.9,3919.0,11,,setembro/2026
 Goiânia,Goiá,casa,venda,4285.7,1530.6,4842.1,5,,setembro/2026
 Goiânia,Goiá 2,casa,venda,2750.0,2305.6,3434.1,7,,setembro/2026
 Goiânia,Jardim Alphaville,casa,venda,3155.3,2200.0,3516.5,9,,setembro/2026
-Goiânia,Jardim América,casa,venda,4644.7,3063.7,6019.7,80,4.96,setembro/2026
-Goiânia,Jardim América,casa,aluguel,19.2,12.9,25.0,18,4.96,setembro/2026
+Goiânia,Jardim América,casa,venda,4787.2,3276.7,6173.4,99,4.81,setembro/2026
+Goiânia,Jardim América,casa,aluguel,19.2,12.9,25.0,18,4.81,setembro/2026
 Goiânia,Jardim Ana Lúcia,casa,venda,2879.6,2391.9,3534.4,7,,setembro/2026
 Goiânia,Jardim Atlântico,casa,venda,5700.0,4497.7,7334.2,78,5.16,setembro/2026
 Goiânia,Jardim Atlântico,casa,aluguel,24.5,18.0,30.7,10,5.16,setembro/2026
@@ -41,14 +41,14 @@ Goiânia,Jardim Florença,casa,venda,8784.6,7179.1,9968.6,20,,setembro/2026
 Goiânia,Jardim Fonte Nova,casa,venda,3398.8,2670.4,4220.3,12,,setembro/2026
 Goiânia,Jardim Gardênia,casa,venda,3571.4,2735.6,4899.4,20,,setembro/2026
 Goiânia,Jardim Goiás,casa,venda,5426.6,4562.8,6235.6,6,,setembro/2026
-Goiânia,Jardim Gramado,casa,venda,3666.7,3133.3,5445.5,9,,setembro/2026
+Goiânia,Jardim Gramado,casa,venda,3666.7,3356.8,5320.2,11,,setembro/2026
 Goiânia,Jardim Guanabara,casa,venda,2980.1,2148.4,3611.1,17,,setembro/2026
 Goiânia,Jardim Guanabara II,casa,venda,5583.3,4650.0,6153.8,13,,setembro/2026
 Goiânia,Jardim Guanabara III,casa,venda,1605.5,1451.6,1826.1,5,,setembro/2026
 Goiânia,Jardim Guanabara IV,casa,venda,4142.9,3055.6,4583.3,5,,setembro/2026
 Goiânia,Jardim Ipanema,casa,venda,3225.0,2424.9,3831.2,10,,setembro/2026
 Goiânia,Jardim Ipê,casa,venda,4275.0,3255.6,5708.3,7,,setembro/2026
-Goiânia,Jardim Itaipu,casa,venda,3489.2,3100.2,4004.1,12,,setembro/2026
+Goiânia,Jardim Itaipu,casa,venda,3508.8,2620.8,3839.8,27,,setembro/2026
 Goiânia,Jardim Mariliza,casa,venda,4426.5,3149.8,5642.7,18,,setembro/2026
 Goiânia,Jardim Marques de Abreu,casa,venda,2611.9,2245.1,3547.0,10,,setembro/2026
 Goiânia,Jardim Novo Mundo,casa,venda,3777.0,2022.4,4465.9,35,8.96,setembro/2026
@@ -62,10 +62,10 @@ Goiânia,Jardim São José,casa,venda,3000.0,2581.2,3480.4,19,,setembro/2026
 Goiânia,Jardim Vila Boa,casa,venda,4880.0,3333.3,8743.2,13,,setembro/2026
 Goiânia,Jardim Vitória,casa,venda,4252.3,3560.5,5913.7,6,,setembro/2026
 Goiânia,Jardins Atenas,casa,venda,9580.8,8778.2,11128.8,13,,setembro/2026
-Goiânia,Jardins França,casa,venda,12953.9,12472.2,13473.1,5,,setembro/2026
-Goiânia,Jardins Itália,casa,venda,14878.0,14563.1,16818.2,13,,setembro/2026
+Goiânia,Jardins França,casa,venda,12852.1,11111.1,13779.5,29,,setembro/2026
+Goiânia,Jardins Itália,casa,venda,15085.2,14012.8,16288.9,43,,setembro/2026
 Goiânia,Jardins Lisboa,casa,venda,8970.1,7245.6,10904.7,11,,setembro/2026
-Goiânia,Jardins Madri,casa,venda,9176.7,7835.3,10679.2,28,,setembro/2026
+Goiânia,Jardins Madri,casa,venda,9371.3,7910.3,10724.4,64,,setembro/2026
 Goiânia,Jardins Milão,casa,venda,12793.4,10714.3,13745.7,25,,setembro/2026
 Goiânia,Jardins Munique,casa,venda,17187.5,14995.1,20054.5,10,,setembro/2026
 Goiânia,Jardins Paris,casa,venda,11250.0,9743.6,13069.3,5,,setembro/2026
@@ -73,7 +73,7 @@ Goiânia,Jardins Valência,casa,venda,10516.5,9044.9,11745.1,60,5.6,setembro/202
 Goiânia,Jardins Valência,casa,aluguel,49.1,42.1,61.8,7,5.6,setembro/2026
 Goiânia,Jardins Verona,casa,venda,10716.3,9535.8,11854.2,46,,setembro/2026
 Goiânia,Loteamento Portal do Sol I,casa,venda,6760.0,6363.6,7966.7,13,,setembro/2026
-Goiânia,Loteamento Portal do Sol II,casa,venda,7293.0,6500.0,7727.5,8,,setembro/2026
+Goiânia,Loteamento Portal do Sol II,casa,venda,7684.2,6687.9,8750.0,41,,setembro/2026
 Goiânia,Loteamento Tropical Verde,casa,venda,3000.0,1666.7,3409.1,5,,setembro/2026
 Goiânia,Loteamento Tropical Ville,casa,venda,3470.8,3156.5,4881.0,8,,setembro/2026
 Goiânia,Moinho dos Ventos,casa,venda,4061.8,3174.9,5180.7,54,,setembro/2026
@@ -82,10 +82,10 @@ Goiânia,Parque Amazônia,casa,venda,5654.5,4147.0,7229.7,68,5.28,setembro/2026
 Goiânia,Parque Amazônia,casa,aluguel,24.9,17.5,29.8,12,5.28,setembro/2026
 Goiânia,Parque Anhangüera,casa,venda,4996.4,4081.4,5822.6,42,,setembro/2026
 Goiânia,Parque Anhangüera II,casa,venda,4803.1,3994.9,6539.8,6,,setembro/2026
-Goiânia,Parque Atheneu,casa,venda,3875.0,2757.5,5101.0,10,,setembro/2026
+Goiânia,Parque Atheneu,casa,venda,3807.7,2656.2,5384.6,17,,setembro/2026
 Goiânia,Parque Cidade,casa,venda,13183.5,12425.0,14696.0,14,,setembro/2026
 Goiânia,Parque das Amendoeiras,casa,venda,5666.7,5156.2,5929.7,7,,setembro/2026
-Goiânia,Parque das Flores,casa,venda,2669.2,2083.6,2915.1,9,,setembro/2026
+Goiânia,Parque das Flores,casa,venda,3576.4,2610.7,5401.5,32,,setembro/2026
 Goiânia,Parque das Laranjeiras,casa,venda,5233.3,3599.2,6361.0,30,,setembro/2026
 Goiânia,"Parque das Paineiras (1,2,3 e 4 Etapa)",casa,venda,5788.4,3706.2,6456.9,7,,setembro/2026
 Goiânia,Parque Eldorado Oeste,casa,venda,2987.5,2397.6,3176.4,14,,setembro/2026
@@ -112,8 +112,9 @@ Goiânia,Residencial Campos Dourados,casa,venda,2825.0,2278.3,3540.6,14,,setembr
 Goiânia,Residencial Canadá,casa,venda,3472.2,2567.6,4185.2,15,,setembro/2026
 Goiânia,Residencial Center Ville,casa,venda,3510.6,2824.1,4485.4,42,,setembro/2026
 Goiânia,Residencial Cidade Verde,casa,venda,4527.8,3128.3,5367.6,10,,setembro/2026
-Goiânia,Residencial das Acácias,casa,venda,4097.7,3882.7,6143.5,6,,setembro/2026
+Goiânia,Residencial das Acácias,casa,venda,4181.8,3947.1,6013.3,11,,setembro/2026
 Goiânia,Residencial Della Penna,casa,venda,3295.5,2375.8,3723.1,7,,setembro/2026
+Goiânia,Residencial Dom Rafael,casa,venda,4583.3,3836.8,5079.2,7,,setembro/2026
 Goiânia,Residencial Eli Forte,casa,venda,3455.1,1845.8,4365.8,12,,setembro/2026
 Goiânia,Residencial Fidelis,casa,venda,3275.0,2750.0,4105.3,17,,setembro/2026
 Goiânia,Residencial Flamingo,casa,venda,3889.4,2796.9,5097.2,12,,setembro/2026
@@ -131,11 +132,12 @@ Goiânia,Residencial Itaipu,casa,venda,3305.6,2884.4,3827.0,12,6.46,setembro/202
 Goiânia,Residencial Itaipu,casa,aluguel,17.8,12.8,22.7,6,6.46,setembro/2026
 Goiânia,Residencial Jardim Leblon,casa,venda,2289.7,1766.7,4600.0,5,,setembro/2026
 Goiânia,Residencial Jardins do Cerrado 7,casa,venda,2518.2,2193.9,4000.6,5,,setembro/2026
-Goiânia,Residencial Kátia,casa,venda,3062.1,2764.4,3536.6,6,,setembro/2026
+Goiânia,Residencial Kátia,casa,venda,3520.0,2828.8,4562.2,11,,setembro/2026
+Goiânia,Residencial Licardino Ney,casa,venda,3258.4,2473.8,6063.9,7,,setembro/2026
 Goiânia,Residencial Monte Pascoal,casa,venda,2863.0,2283.3,3134.2,12,,setembro/2026
 Goiânia,Residencial Morumbi,casa,venda,4940.1,3788.2,5261.0,18,,setembro/2026
 Goiânia,Residencial Olinda,casa,venda,3985.5,3390.1,4358.0,6,,setembro/2026
-Goiânia,Residencial Orlando Morais,casa,venda,3237.5,2270.0,3702.4,10,,setembro/2026
+Goiânia,Residencial Orlando Morais,casa,venda,3666.7,2414.3,4165.0,15,,setembro/2026
 Goiânia,Residencial Paraíso,casa,venda,2875.0,2693.0,2987.5,6,,setembro/2026
 Goiânia,Residencial Park Solar,casa,venda,2826.3,2498.9,2998.5,6,,setembro/2026
 Goiânia,Residencial Parque Mendanha,casa,venda,9729.7,9264.7,10461.5,5,,setembro/2026
@@ -147,7 +149,7 @@ Goiânia,Residencial Recanto do Bosque,casa,venda,3533.3,2402.6,4090.9,29,5.3,se
 Goiânia,Residencial Recanto do Bosque,casa,aluguel,15.6,15.4,23.8,5,5.3,setembro/2026
 Goiânia,Residencial Recanto dos Buritis,casa,venda,3889.1,3359.4,4546.7,6,,setembro/2026
 Goiânia,Residencial Recreio Panorama,casa,venda,5393.9,3205.9,7409.7,8,,setembro/2026
-Goiânia,Residencial Santa Fé,casa,venda,2560.0,2052.6,3806.9,11,,setembro/2026
+Goiânia,Residencial Santa Fé,casa,venda,2799.8,2132.6,3797.9,23,,setembro/2026
 Goiânia,Residencial Santa Fé I,casa,venda,3710.0,3194.1,4197.7,46,,setembro/2026
 Goiânia,Residencial São Leopoldo,casa,venda,4240.2,3039.9,5066.7,10,,setembro/2026
 Goiânia,Residencial São Marcos,casa,venda,2489.8,2307.5,3589.0,7,,setembro/2026
@@ -162,6 +164,7 @@ Goiânia,Residencial Villagio Toscana,casa,venda,6666.7,6300.0,7168.5,5,,setembr
 Goiânia,Santa Genoveva,casa,venda,3722.2,3249.0,6640.9,15,,setembro/2026
 Goiânia,São Francisco,casa,venda,2420.4,2044.6,4281.0,8,,setembro/2026
 Goiânia,Setor Aeroporto,casa,venda,3125.0,2859.5,3449.1,13,,setembro/2026
+Goiânia,Setor Alto do Vale,casa,venda,2833.3,2525.2,2961.5,7,,setembro/2026
 Goiânia,Setor Andréia,casa,venda,3070.2,2333.3,3773.6,13,,setembro/2026
 Goiânia,Setor Barra da Tijuca,casa,venda,3144.9,2069.7,3493.8,6,,setembro/2026
 Goiânia,Setor Bueno,casa,venda,5229.1,4434.8,6731.3,22,7.07,setembro/2026
@@ -223,7 +226,7 @@ Goiânia,Vila Mutirão I,casa,venda,3120.0,1722.2,4216.9,7,,setembro/2026
 Goiânia,Vila Redenção,casa,venda,3750.0,2500.0,4277.8,5,,setembro/2026
 Goiânia,Vila Rezende,casa,venda,3577.2,3296.7,4240.0,9,,setembro/2026
 Goiânia,Vila Rizzo,casa,venda,2388.6,1997.5,2842.6,6,,setembro/2026
-Goiânia,Vila Rosa,casa,venda,5393.9,4336.5,6154.5,11,,setembro/2026
+Goiânia,Vila Rosa,casa,venda,5433.3,4379.8,6119.7,12,,setembro/2026
 Goiânia,Vila Santa Helena,casa,venda,3823.5,2388.9,4954.1,11,,setembro/2026
 Goiânia,Vila São Francisco,casa,venda,3705.6,3305.6,4576.9,5,,setembro/2026
 Goiânia,Vila União,casa,venda,2275.6,2243.6,3965.5,5,,setembro/2026
@@ -235,15 +238,16 @@ Goiânia,Chácaras Alto da Glória,apartamento,venda,7228.9,6714.3,7622.9,9,,set
 Goiânia,Chácaras Dona Gê,apartamento,venda,6801.2,5982.5,7652.0,14,,setembro/2026
 Goiânia,Chácaras Santa Rita,apartamento,venda,5000.0,4441.9,5486.0,11,,setembro/2026
 Goiânia,Cidade Jardim,apartamento,venda,5247.5,3854.7,5886.8,10,,setembro/2026
-Goiânia,Fazenda Criméia Caveiras,apartamento,venda,7591.3,6850.7,8089.8,8,,setembro/2026
+Goiânia,Fazenda Criméia Caveiras,apartamento,venda,7360.7,6470.6,8180.3,17,,setembro/2026
 Goiânia,Fazenda Dourados,apartamento,venda,2483.2,2061.2,2509.6,5,,setembro/2026
 Goiânia,Fazenda Santa Rita,apartamento,venda,3933.6,2334.2,4494.0,10,,setembro/2026
+Goiânia,Fazenda Santa Rita - Conjunto Residencial Alto Oriente,apartamento,venda,7643.4,6039.3,8050.9,9,,setembro/2026
 Goiânia,Fazenda São Domingos,apartamento,venda,2928.6,2371.1,2955.6,5,,setembro/2026
 Goiânia,Goiá,apartamento,venda,5238.1,4672.6,5996.8,6,,setembro/2026
 Goiânia,Goiânia 2,apartamento,venda,5614.0,4644.8,7740.3,10,,setembro/2026
 Goiânia,Ipiranga,apartamento,venda,4909.6,4491.5,6034.5,5,,setembro/2026
-Goiânia,Jardim América,apartamento,venda,8628.8,5949.8,10084.6,130,4.87,setembro/2026
-Goiânia,Jardim América,apartamento,aluguel,35.0,27.5,44.0,35,4.87,setembro/2026
+Goiânia,Jardim América,apartamento,venda,8474.8,5879.6,9946.0,152,4.96,setembro/2026
+Goiânia,Jardim América,apartamento,aluguel,35.0,27.5,44.0,35,4.96,setembro/2026
 Goiânia,Jardim Atlântico,apartamento,venda,8098.4,7139.6,9089.2,39,5.96,setembro/2026
 Goiânia,Jardim Atlântico,apartamento,aluguel,40.2,35.8,44.5,40,5.96,setembro/2026
 Goiânia,Jardim da Luz,apartamento,aluguel,31.4,30.0,44.5,5,,setembro/2026
@@ -256,7 +260,7 @@ Goiânia,Jardim Guanabara,apartamento,aluguel,31.5,20.0,34.8,5,,setembro/2026
 Goiânia,Jardim Ipê,apartamento,venda,7289.8,7084.5,7777.8,17,,setembro/2026
 Goiânia,Jardim Novo Mundo,apartamento,venda,6288.3,5141.3,7216.6,12,,setembro/2026
 Goiânia,Lorena Parque,apartamento,venda,4583.3,4381.3,4718.9,7,,setembro/2026
-Goiânia,Loteamento Grande Retiro,apartamento,venda,5147.3,4716.5,5714.3,6,,setembro/2026
+Goiânia,Loteamento Grande Retiro,apartamento,venda,5050.0,4642.9,5833.3,9,,setembro/2026
 Goiânia,Moinho dos Ventos,apartamento,venda,4304.3,3568.8,4874.7,19,,setembro/2026
 Goiânia,Nossa Senhora de Fátima,apartamento,venda,2537.3,2388.1,2806.0,5,,setembro/2026
 Goiânia,Nova Suiça,apartamento,venda,6842.1,5345.8,9475.4,39,6.37,setembro/2026
@@ -272,7 +276,7 @@ Goiânia,Parque Oeste Industrial,apartamento,aluguel,24.4,22.5,28.0,10,5.05,sete
 Goiânia,Residencial Alfa,apartamento,venda,5238.1,3074.1,5846.2,7,,setembro/2026
 Goiânia,Residencial Aquários,apartamento,venda,4687.5,4583.3,4900.0,5,,setembro/2026
 Goiânia,Residencial Barcelona,apartamento,venda,4345.2,3994.8,4702.4,6,,setembro/2026
-Goiânia,Residencial Bethel,apartamento,venda,6190.5,4815.9,6873.5,7,,setembro/2026
+Goiânia,Residencial Bethel,apartamento,venda,5465.1,4695.9,6409.2,11,,setembro/2026
 Goiânia,Residencial Eldorado,apartamento,venda,5942.0,5620.7,6885.2,29,5.9,setembro/2026
 Goiânia,Residencial Eldorado,apartamento,aluguel,29.2,26.9,37.2,19,5.9,setembro/2026
 Goiânia,Residencial Eldorado Expansão,apartamento,venda,7637.4,6792.9,8162.1,6,,setembro/2026
@@ -281,10 +285,11 @@ Goiânia,Residencial Flórida,apartamento,aluguel,22.7,20.5,27.9,5,6.46,setembro
 Goiânia,Residencial Goiânia Viva,apartamento,aluguel,27.5,26.9,29.0,5,,setembro/2026
 Goiânia,Residencial Granville,apartamento,venda,9105.7,8280.6,9282.0,11,,setembro/2026
 Goiânia,Residencial Itaipu,apartamento,aluguel,27.0,24.4,30.4,5,,setembro/2026
+Goiânia,Residencial Jardins do Cerrado 10,apartamento,venda,3118.9,2467.9,3553.8,8,,setembro/2026
 Goiânia,Residencial Jardins do Cerrado 6,apartamento,venda,2982.5,2438.9,3108.2,7,,setembro/2026
 Goiânia,Residencial Jardins do Cerrado 7,apartamento,venda,2439.8,2052.7,2977.5,12,,setembro/2026
 Goiânia,Residencial Parque Oeste,apartamento,aluguel,30.6,29.1,32.7,6,,setembro/2026
-Goiânia,Residencial Porto Dourado,apartamento,venda,3761.6,2998.9,3999.0,6,,setembro/2026
+Goiânia,Residencial Porto Dourado,apartamento,venda,4347.8,3761.6,4805.0,15,,setembro/2026
 Goiânia,Rodoviário,apartamento,venda,7200.7,6428.6,8088.2,9,,setembro/2026
 Goiânia,São Francisco,apartamento,venda,6180.8,5370.2,6898.2,20,,setembro/2026
 Goiânia,Serrinha,apartamento,venda,9750.0,8461.3,11022.2,91,5.48,setembro/2026
@@ -333,8 +338,8 @@ Goiânia,Setor Sudoeste,apartamento,aluguel,38.7,29.9,43.4,13,7.37,setembro/2026
 Goiânia,Setor Sul,apartamento,venda,4666.7,2850.7,5240.2,27,6.2,setembro/2026
 Goiânia,Setor Sul,apartamento,aluguel,24.1,19.5,35.0,7,6.2,setembro/2026
 Goiânia,Setor Universitario,apartamento,venda,8325.9,7748.7,9021.4,8,,setembro/2026
-Goiânia,Vila Alpes,apartamento,venda,6564.9,5618.1,8089.6,43,7.75,setembro/2026
-Goiânia,Vila Alpes,apartamento,aluguel,42.4,37.5,42.9,7,7.75,setembro/2026
+Goiânia,Vila Alpes,apartamento,venda,6545.7,5263.2,8064.5,49,7.77,setembro/2026
+Goiânia,Vila Alpes,apartamento,aluguel,42.4,37.5,42.9,7,7.77,setembro/2026
 Goiânia,Vila Alto da Glória,apartamento,venda,9303.8,8412.7,9396.8,9,,setembro/2026
 Goiânia,Vila Americano do Brasil,apartamento,venda,8073.2,7657.7,9566.0,9,,setembro/2026
 Goiânia,Vila Bela,apartamento,venda,7031.2,5733.3,8890.6,5,,setembro/2026
@@ -347,8 +352,8 @@ Goiânia,Vila Monticelli,apartamento,venda,7391.3,4489.6,7748.0,7,,setembro/2026
 Goiânia,Vila Mooca,apartamento,aluguel,31.7,25.0,34.4,9,,setembro/2026
 Goiânia,Vila Mutirão I,apartamento,venda,4834.6,4485.7,5178.6,7,,setembro/2026
 Goiânia,Vila Redenção,apartamento,aluguel,22.5,19.0,24.0,7,,setembro/2026
-Goiânia,Vila Rosa,apartamento,venda,7242.2,6430.3,8191.6,70,6.28,setembro/2026
-Goiânia,Vila Rosa,apartamento,aluguel,37.9,33.3,44.5,23,6.28,setembro/2026
+Goiânia,Vila Rosa,apartamento,venda,7260.3,6409.6,8170.0,73,6.26,setembro/2026
+Goiânia,Vila Rosa,apartamento,aluguel,37.9,33.3,44.5,23,6.26,setembro/2026
 Goiânia,Vila São João,apartamento,venda,8823.5,4468.8,9420.3,17,,setembro/2026
 Goiânia,Vila São Luiz,apartamento,venda,4872.9,4508.9,5428.6,11,,setembro/2026
 Goiânia,Village Veneza,apartamento,venda,7110.9,6599.1,7797.0,38,5.89,setembro/2026
@@ -360,19 +365,22 @@ Goiânia,Chácaras de Recreio São Joaquim,terreno,venda,436.0,170.8,600.0,5,,se
 Goiânia,Cidade Jardim,terreno,venda,1349.2,1160.7,1874.1,8,,setembro/2026
 Goiânia,Conjunto Vera Cruz,terreno,venda,721.2,622.8,767.9,7,,setembro/2026
 Goiânia,Fazenda Vau das Pombas,terreno,venda,2796.3,2434.0,2825.2,8,,setembro/2026
-Goiânia,Jardim América,terreno,venda,1354.1,1013.0,2159.5,26,,setembro/2026
+Goiânia,Jardim América,terreno,venda,1356.3,1022.5,2111.7,27,,setembro/2026
 Goiânia,Jardim Atlântico,terreno,venda,1131.9,991.1,1298.1,6,,setembro/2026
 Goiânia,Jardim das Esmeraldas,terreno,venda,1189.2,1168.8,1930.9,5,,setembro/2026
 Goiânia,Jardim Guanabara,terreno,venda,927.7,828.9,941.9,5,,setembro/2026
 Goiânia,Jardim Novo Mundo,terreno,venda,1025.3,813.7,1077.9,20,,setembro/2026
 Goiânia,Jardim Petrópolis,terreno,venda,558.3,424.6,592.8,15,,setembro/2026
 Goiânia,Jardins Amsterdã,terreno,venda,2131.8,2002.1,2255.4,10,,setembro/2026
-Goiânia,Jardins França,terreno,venda,2503.5,2373.4,2804.5,11,,setembro/2026
+Goiânia,Jardins França,terreno,venda,2505.1,2378.9,2708.3,27,,setembro/2026
+Goiânia,Jardins Itália,terreno,venda,3499.4,3251.9,3550.4,8,,setembro/2026
+Goiânia,Jardins Madri,terreno,venda,2702.7,2654.0,2851.4,5,,setembro/2026
 Goiânia,Jardins Verona,terreno,venda,3035.7,2978.7,3100.0,9,,setembro/2026
 Goiânia,Jardins Zurique,terreno,venda,3506.7,3333.3,3938.5,5,,setembro/2026
 Goiânia,Loteamento Aruanã Park,terreno,venda,500.0,500.0,600.0,5,,setembro/2026
 Goiânia,Moinho dos Ventos,terreno,venda,1096.6,825.3,1841.4,6,,setembro/2026
 Goiânia,Parque Amazônia,terreno,venda,1324.8,1145.2,1964.5,12,,setembro/2026
+Goiânia,Parque Atheneu,terreno,venda,2541.8,1575.0,2748.1,8,,setembro/2026
 Goiânia,Parque Cidade,terreno,venda,2552.1,2326.7,2757.8,48,,setembro/2026
 Goiânia,Parque Industrial,terreno,venda,1182.6,1015.8,1305.1,6,,setembro/2026
 Goiânia,Portal do Sol Green,terreno,venda,1882.1,1733.5,1972.9,11,,setembro/2026
@@ -393,7 +401,7 @@ Goiânia,Setor Norte Ferroviário,terreno,venda,2139.9,1839.1,2544.9,6,,setembro
 Goiânia,Setor Pedro Ludovico,terreno,venda,1832.5,1327.1,2644.6,19,,setembro/2026
 Goiânia,Setor Sudoeste,terreno,venda,1031.2,1006.4,1286.4,7,,setembro/2026
 Goiânia,Sítios de Recreio Mansões do Campus,terreno,venda,403.1,253.1,615.5,6,,setembro/2026
-Goiânia,Vila Rosa,terreno,venda,1400.2,890.0,1876.1,8,,setembro/2026
+Goiânia,Vila Rosa,terreno,venda,1602.1,913.0,1840.0,9,,setembro/2026
 Goiânia,Jardim América,sala,aluguel,64.8,32.3,83.0,26,,setembro/2026
 Goiânia,Jardim Goiás,sala,venda,13741.0,12206.7,16574.2,26,8.73,setembro/2026
 Goiânia,Jardim Goiás,sala,aluguel,100.0,78.4,125.0,29,8.73,setembro/2026

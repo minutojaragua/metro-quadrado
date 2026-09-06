@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 55 cidades de Santa Catarina, São Paulo e mais 24 estados, Brasil, bairro por bairro, a partir de 348.862 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 55 cidades de Santa Catarina, São Paulo e mais 24 estados, Brasil, bairro por bairro, a partir de 350.220 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -3060,13 +3060,13 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 
 ## Palmas (setembro/2026): https://acorridadosbairros.com.br/to/palmas/
 
-### Apartamentos, cidade toda: venda R$ 8.400/m² (n=357); aluguel R$ 48,3/m²/mês (n=116); rendimento bruto do aluguel 6,90% a.a.
+### Apartamentos, cidade toda: venda R$ 8.429/m² (n=380); aluguel R$ 48,3/m²/mês (n=116); rendimento bruto do aluguel 6,88% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| 105 Norte | R$ 8.478 | 11 | – | – | – | – |
-| 106 Norte | R$ 8.394 | 9 | – | – | – | – |
-| 106 Sul | R$ 6.966 | 6 | – | – | – | – |
+| 105 Norte | R$ 8.478 | 13 | – | – | – | – |
+| 106 Norte | R$ 8.152 | 11 | – | – | – | – |
+| 106 Sul | R$ 7.620 | 8 | – | – | – | – |
 | 110 Norte | R$ 8.989 | 5 | – | – | – | – |
 | 1504 Sul | – | – | R$ 45,5 | 6 | – | – |
 | 204 Sul | R$ 7.789 | 15 | R$ 48,2 | 5 | 7,43% | – |
@@ -3078,56 +3078,58 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | 308 Sul | R$ 7.083 | 9 | – | – | – | – |
 | 404 Sul | R$ 11.758 | 17 | – | – | – | – |
 | 603 Sul | R$ 8.894 | 6 | – | – | – | – |
-| 706 Sul | R$ 8.082 | 9 | – | – | – | – |
+| 706 Sul | R$ 7.945 | 10 | – | – | – | – |
 | 806 Sul | R$ 5.476 | 9 | – | – | – | – |
-| Graciosa - Orla 14 | R$ 13.189 | 70 | R$ 60,2 | 21 | 5,48% | – |
+| Graciosa - Orla 14 | R$ 12.569 | 75 | R$ 60,2 | 21 | 5,75% | – |
 | Plano Diretor Norte (quadra não informada) | R$ 8.250 | 19 | R$ 61,4 | 11 | 8,93% | – |
-| Plano Diretor Sul (quadra não informada) | R$ 9.028 | 59 | R$ 43,2 | 17 | 5,74% | – |
+| Plano Diretor Sul (quadra não informada) | R$ 8.878 | 63 | R$ 43,2 | 17 | 5,84% | – |
 
-### Casas, cidade toda: venda R$ 5.167/m² (n=905); aluguel R$ 34,6/m²/mês (n=54); rendimento bruto do aluguel 8,04% a.a.
+### Casas, cidade toda: venda R$ 5.188/m² (n=957); aluguel R$ 34,6/m²/mês (n=54); rendimento bruto do aluguel 8,00% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| 1003 Sul | R$ 4.987 | 20 | – | – | – | – |
+| 1003 Sul | R$ 5.046 | 21 | – | – | – | – |
 | 109 Sul | R$ 12.024 | 5 | – | – | – | – |
-| 110 Norte | R$ 4.944 | 7 | – | – | – | – |
+| 110 Norte | R$ 4.928 | 8 | – | – | – | – |
 | 110 Sul | R$ 6.693 | 8 | – | – | – | – |
-| 1103 Sul | R$ 5.242 | 20 | – | – | – | – |
+| 1103 Sul | R$ 5.282 | 23 | – | – | – | – |
 | 1104 Sul | R$ 5.351 | 5 | – | – | – | – |
 | 1204 Sul | R$ 3.063 | 8 | – | – | – | – |
 | 1205 Sul | R$ 5.766 | 10 | – | – | – | – |
 | 1305 Sul | R$ 4.857 | 7 | – | – | – | – |
 | 1404 Sul | R$ 5.002 | 14 | – | – | – | – |
 | 1406 Sul | R$ 4.662 | 12 | – | – | – | – |
-| 1503 Sul | R$ 4.952 | 44 | – | – | – | – |
+| 1503 Sul | R$ 4.952 | 48 | – | – | – | – |
 | 1504 Sul | R$ 4.740 | 12 | – | – | – | – |
-| 1506 Sul | R$ 5.013 | 23 | – | – | – | – |
+| 1506 Sul | R$ 5.007 | 24 | – | – | – | – |
 | 1601 Sul | R$ 3.710 | 8 | – | – | – | – |
 | 1603 Sul | R$ 4.565 | 15 | – | – | – | – |
 | 204 Sul | R$ 7.251 | 6 | – | – | – | – |
-| 209 Sul | R$ 13.246 | 6 | – | – | – | – |
-| 303 Sul | R$ 5.779 | 6 | – | – | – | – |
+| 207 Sul | R$ 6.959 | 5 | – | – | – | – |
+| 209 Sul | R$ 13.433 | 7 | – | – | – | – |
+| 303 Sul | R$ 5.912 | 8 | – | – | – | – |
 | 305 Sul | R$ 5.824 | 10 | – | – | – | – |
-| 307 Sul | R$ 4.217 | 10 | – | – | – | – |
-| 309 Sul | R$ 6.560 | 30 | – | – | – | – |
-| 403 Sul | R$ 5.302 | 6 | – | – | – | – |
+| 307 Sul | R$ 4.217 | 12 | – | – | – | – |
+| 309 Sul | R$ 6.354 | 30 | – | – | – | – |
+| 403 Sul | R$ 5.302 | 8 | – | – | – | – |
 | 404 Sul | R$ 6.796 | 10 | – | – | – | – |
 | 405 Sul | R$ 5.918 | 20 | R$ 43,6 | 6 | 8,84% | – |
-| 407 Sul | R$ 5.681 | 20 | – | – | – | – |
+| 407 Sul | R$ 5.556 | 21 | – | – | – | – |
 | 409 Sul | R$ 5.694 | 19 | – | – | – | – |
-| 505 Sul | R$ 6.575 | 46 | – | – | – | – |
-| 507 Sul | R$ 5.142 | 28 | – | – | – | – |
-| 509 Sul | R$ 6.222 | 10 | – | – | – | – |
-| 603 Sul | R$ 4.267 | 8 | – | – | – | – |
-| 604 Norte | R$ 5.000 | 13 | – | – | – | – |
-| 605 Sul | R$ 6.536 | 10 | – | – | – | – |
+| 505 Sul | R$ 6.620 | 52 | – | – | – | – |
+| 507 Sul | R$ 5.204 | 31 | – | – | – | – |
+| 509 Sul | R$ 6.253 | 10 | – | – | – | – |
+| 603 Sul | R$ 4.419 | 10 | – | – | – | – |
+| 604 Norte | R$ 5.000 | 15 | – | – | – | – |
+| 604 Sul | R$ 5.769 | 5 | – | – | – | – |
+| 605 Sul | R$ 6.613 | 11 | – | – | – | – |
 | 704 Norte | R$ 6.030 | 10 | – | – | – | – |
 | 704 Sul | R$ 3.865 | 7 | – | – | – | – |
 | 804 Norte | R$ 2.972 | 5 | – | – | – | – |
 | 806 Sul | R$ 6.346 | 8 | – | – | – | – |
 | 904 Sul | R$ 3.693 | 9 | – | – | – | – |
 | 906 Sul | R$ 4.795 | 10 | – | – | – | – |
-| Bertaville | R$ 4.024 | 17 | – | – | – | – |
+| Bertaville | R$ 4.012 | 18 | – | – | – | – |
 | Graciosa - Orla 14 | R$ 5.425 | 10 | – | – | – | – |
 | Jardim Aureny III | R$ 3.707 | 10 | – | – | – | – |
 | Loteamento Caribe | R$ 9.432 | 15 | – | – | – | – |
@@ -3135,7 +3137,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Plano Diretor Norte (quadra não informada) | R$ 4.000 | 25 | – | – | – | – |
 | Plano Diretor Sul (quadra não informada) | R$ 5.123 | 170 | R$ 32,5 | 5 | 7,61% | – |
 
-### Terrenos, cidade toda: venda R$ 820/m² (n=156)
+### Terrenos, cidade toda: venda R$ 833/m² (n=158)
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -5944,194 +5946,228 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 
 ## Teresina (setembro/2026): https://acorridadosbairros.com.br/pi/teresina/
 
-### Apartamentos, cidade toda: venda R$ 5.100/m² (n=1653); aluguel R$ 25,0/m²/mês (n=586); rendimento bruto do aluguel 5,88% a.a.
+### Apartamentos, cidade toda: venda R$ 5.101/m² (n=1873); aluguel R$ 25,7/m²/mês (n=636); rendimento bruto do aluguel 6,05% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Aeroporto | R$ 3.433 | 10 | – | – | – | – |
-| Angelim | R$ 2.742 | 11 | – | – | – | – |
-| Bela Vista | R$ 4.823 | 6 | R$ 24,5 | 5 | 6,10% | – |
-| Bom Princípio | R$ 3.125 | 7 | – | – | – | – |
-| Cabral | R$ 6.266 | 15 | R$ 58,3 | 7 | 11,16% | – |
+| Aeroporto | R$ 3.425 | 12 | – | – | – | – |
+| Angelim | R$ 2.800 | 12 | – | – | – | – |
+| Bela Vista | R$ 4.546 | 7 | R$ 24,5 | 5 | 6,47% | – |
+| Bom Princípio | R$ 3.324 | 8 | – | – | – | – |
+| Cabral | R$ 6.302 | 16 | R$ 57,6 | 8 | 10,97% | – |
 | Campestre | R$ 3.546 | 27 | R$ 19,6 | 16 | 6,63% | – |
-| Centro | R$ 2.831 | 36 | R$ 25,1 | 40 | 10,64% | – |
+| Centro | R$ 2.906 | 44 | R$ 24,3 | 43 | 10,03% | – |
 | Cidade Jardim | R$ 4.062 | 6 | R$ 20,6 | 7 | 6,08% | – |
-| Cidade Nova | R$ 3.634 | 20 | – | – | – | – |
-| Colorado | R$ 3.032 | 14 | – | – | – | – |
-| Cristo Rei | R$ 5.143 | 69 | R$ 31,0 | 18 | 7,23% | – |
-| Fátima | R$ 7.647 | 89 | R$ 30,3 | 22 | 4,75% | – |
-| Frei Serafim | R$ 5.371 | 28 | R$ 27,8 | 9 | 6,21% | – |
-| Gurupi | R$ 4.654 | 43 | R$ 27,2 | 20 | 7,01% | – |
-| Horto | R$ 7.375 | 69 | R$ 34,0 | 12 | 5,53% | – |
-| Ilhotas | R$ 6.575 | 49 | R$ 20,0 | 13 | 3,65% | – |
-| Ininga | R$ 6.625 | 57 | R$ 36,0 | 12 | 6,52% | – |
-| Itararé | R$ 4.518 | 14 | R$ 23,1 | 6 | 6,14% | – |
-| Jóquei | R$ 9.167 | 167 | R$ 32,7 | 42 | 4,28% | – |
-| Lourival Parente | R$ 3.830 | 11 | – | – | – | – |
-| Macaúba | R$ 2.654 | 12 | – | – | – | – |
-| Monte Castelo | R$ 5.102 | 21 | R$ 38,2 | 8 | 8,98% | – |
-| Morada do Sol | R$ 4.237 | 40 | R$ 29,7 | 26 | 8,41% | – |
-| Morada Nova | R$ 2.568 | 11 | – | – | – | – |
-| Morros | R$ 5.651 | 22 | R$ 25,3 | 16 | 5,37% | – |
-| Noivos | R$ 7.143 | 57 | R$ 16,5 | 8 | 2,77% | – |
-| Novo Horizonte | R$ 4.677 | 13 | R$ 24,2 | 5 | 6,21% | – |
-| Parque Ideal | R$ 3.621 | 11 | – | – | – | – |
+| Cidade Nova | R$ 3.698 | 21 | – | – | – | – |
+| Colorado | R$ 3.018 | 15 | – | – | – | – |
+| Cristo Rei | R$ 5.071 | 80 | R$ 31,0 | 18 | 7,34% | – |
+| Fátima | R$ 7.965 | 101 | R$ 31,1 | 24 | 4,69% | – |
+| Frei Serafim | R$ 5.417 | 29 | R$ 27,8 | 9 | 6,16% | – |
+| Gurupi | R$ 4.600 | 47 | R$ 28,6 | 22 | 7,46% | – |
+| Horto | R$ 7.388 | 71 | R$ 34,7 | 15 | 5,64% | – |
+| Ilhotas | R$ 6.458 | 55 | R$ 20,2 | 14 | 3,75% | – |
+| Ininga | R$ 6.572 | 64 | R$ 32,1 | 12 | 5,86% | – |
+| Itararé | R$ 4.258 | 16 | R$ 23,1 | 6 | 6,51% | – |
+| Jóquei | R$ 9.127 | 193 | R$ 31,6 | 45 | 4,15% | – |
+| Lourival Parente | R$ 3.685 | 12 | – | – | – | – |
+| Macaúba | R$ 2.654 | 14 | – | – | – | – |
+| Marquês | R$ 2.890 | 5 | – | – | – | – |
+| Monte Castelo | R$ 4.500 | 23 | R$ 38,2 | 8 | 10,19% | – |
+| Morada do Sol | R$ 4.167 | 49 | R$ 33,3 | 27 | 9,59% | – |
+| Morada Nova | R$ 2.456 | 12 | – | – | – | – |
+| Morros | R$ 5.714 | 21 | R$ 25,3 | 16 | 5,31% | – |
+| Noivos | R$ 7.333 | 63 | R$ 16,5 | 10 | 2,70% | – |
+| Novo Horizonte | R$ 4.589 | 14 | R$ 25,1 | 6 | 6,56% | – |
+| Parque Ideal | R$ 3.621 | 13 | – | – | – | – |
 | Parque São João | R$ 2.580 | 6 | – | – | – | – |
-| Pedra Mole | R$ 4.601 | 14 | R$ 19,5 | 6 | 5,09% | – |
-| Piçarra | R$ 3.286 | 11 | R$ 25,3 | 7 | 9,24% | – |
-| Piçarreira | R$ 4.956 | 21 | R$ 25,0 | 6 | 6,05% | – |
-| Planalto | R$ 7.754 | 20 | R$ 38,4 | 7 | 5,94% | – |
-| Porenquanto | R$ 4.558 | 16 | – | – | – | – |
-| Porto do Centro | R$ 4.818 | 6 | – | – | – | – |
-| Primavera | R$ 4.832 | 26 | R$ 24,8 | 10 | 6,16% | – |
-| Recanto das Palmeiras | R$ 6.256 | 24 | R$ 38,6 | 17 | 7,40% | – |
-| Santa Isabel | R$ 4.040 | 54 | R$ 22,3 | 18 | 6,62% | – |
-| Santa Lia | R$ 3.700 | 14 | – | – | – | – |
-| Santa Luzia | R$ 2.901 | 10 | R$ 15,0 | 5 | 6,21% | – |
-| Santa Maria | R$ 3.167 | 14 | R$ 17,4 | 11 | 6,59% | – |
+| Pedra Mole | R$ 4.286 | 15 | R$ 19,8 | 7 | 5,54% | – |
+| Piçarra | R$ 3.443 | 12 | R$ 25,3 | 7 | 8,82% | – |
+| Piçarreira | R$ 4.838 | 24 | R$ 25,0 | 6 | 6,20% | – |
+| Planalto | R$ 7.714 | 23 | R$ 38,4 | 7 | 5,97% | – |
+| Porenquanto | R$ 4.773 | 17 | – | – | – | – |
+| Porto do Centro | R$ 3.333 | 7 | – | – | – | – |
+| Primavera | R$ 4.799 | 29 | R$ 27,0 | 12 | 6,75% | – |
+| Recanto das Palmeiras | R$ 6.256 | 28 | R$ 38,6 | 17 | 7,40% | – |
+| Santa Cruz | R$ 2.452 | 6 | – | – | – | – |
+| Santa Isabel | R$ 4.064 | 56 | R$ 22,3 | 18 | 6,59% | – |
+| Santa Lia | R$ 3.778 | 15 | – | – | – | – |
+| Santa Luzia | R$ 2.901 | 10 | R$ 15,0 | 6 | 6,21% | – |
+| Santa Maria | R$ 3.111 | 15 | R$ 17,4 | 11 | 6,71% | – |
 | Santa Maria da Codipe | R$ 3.524 | 12 | R$ 19,6 | 5 | 6,67% | – |
-| Santo Antônio | R$ 3.281 | 8 | – | – | – | – |
-| São Cristóvão | R$ 7.662 | 94 | R$ 41,1 | 27 | 6,44% | – |
-| São João | R$ 6.102 | 23 | R$ 28,6 | 8 | 5,62% | – |
-| Tabajaras | R$ 2.829 | 8 | – | – | – | – |
-| Tancredo Neves | R$ 3.590 | 8 | – | – | – | – |
-| Todos Os Santos | R$ 3.979 | 20 | R$ 21,6 | 12 | 6,51% | – |
-| Uruguai | R$ 4.899 | 88 | R$ 35,1 | 28 | 8,60% | – |
-| Vale do Gavião | R$ 3.256 | 13 | R$ 16,3 | 7 | 6,01% | – |
-| Vale Quem Tem | R$ 4.558 | 22 | R$ 22,2 | 11 | 5,85% | – |
+| Santo Antônio | R$ 3.469 | 9 | – | – | – | – |
+| São Cristóvão | R$ 7.547 | 105 | R$ 41,1 | 31 | 6,54% | – |
+| São João | R$ 6.102 | 27 | R$ 29,5 | 9 | 5,80% | – |
+| São Sebastião | R$ 3.803 | 6 | – | – | – | – |
+| Tabajaras | R$ 2.835 | 11 | – | – | – | – |
+| Tancredo Neves | R$ 3.297 | 10 | – | – | – | – |
+| Todos Os Santos | R$ 3.963 | 22 | R$ 21,6 | 12 | 6,54% | – |
+| Uruguai | R$ 4.962 | 96 | R$ 34,9 | 30 | 8,44% | – |
+| Vale do Gavião | R$ 3.256 | 17 | R$ 16,3 | 7 | 6,01% | – |
+| Vale Quem Tem | R$ 4.558 | 24 | R$ 22,2 | 11 | 5,85% | – |
 | Verde Lar | R$ 3.993 | 6 | – | – | – | – |
+| Verdecap | R$ 4.000 | 5 | – | – | – | – |
 | Vermelha | – | – | R$ 24,5 | 7 | – | – |
-| Zoobotânico | R$ 4.912 | 16 | – | – | – | – |
+| Zoobotânico | R$ 4.828 | 17 | – | – | – | – |
 
-### Casas, cidade toda: venda R$ 3.732/m² (n=1445); aluguel R$ 17,6/m²/mês (n=218); rendimento bruto do aluguel 5,66% a.a.
+### Casas, cidade toda: venda R$ 3.751/m² (n=1808); aluguel R$ 19,2/m²/mês (n=257); rendimento bruto do aluguel 6,14% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Acarape | R$ 2.190 | 11 | – | – | – | – |
-| Aeroporto | R$ 3.584 | 16 | – | – | – | – |
-| Angelim | R$ 2.500 | 15 | – | – | – | – |
+| Acarape | R$ 2.144 | 12 | – | – | – | – |
+| Aeroporto | R$ 3.719 | 21 | – | – | – | – |
+| Aldebaran Leste | R$ 6.195 | 5 | – | – | – | – |
+| Angelim | R$ 2.400 | 21 | – | – | – | – |
 | Aroeiras | R$ 2.702 | 6 | – | – | – | – |
-| Bela Vista | R$ 2.011 | 21 | – | – | – | – |
-| Cabral | R$ 2.832 | 6 | – | – | – | – |
-| Campestre | R$ 3.408 | 8 | – | – | – | – |
-| Centro | R$ 2.877 | 62 | R$ 12,3 | 29 | 5,13% | – |
+| Bela Vista | R$ 2.111 | 25 | – | – | – | – |
+| Cabral | R$ 3.453 | 9 | – | – | – | – |
+| Campestre | R$ 3.636 | 13 | – | – | – | – |
+| Centro | R$ 3.030 | 85 | R$ 12,6 | 31 | 4,99% | – |
+| Centro Sul | R$ 3.750 | 7 | – | – | – | – |
 | Cidade Nova | R$ 1.818 | 9 | – | – | – | – |
-| Colorado | R$ 2.379 | 6 | – | – | – | – |
-| Cristo Rei | R$ 3.997 | 18 | – | – | – | – |
-| Esplanada | R$ 2.061 | 14 | – | – | – | – |
-| Fátima | R$ 5.205 | 42 | R$ 43,8 | 9 | 10,10% | – |
-| Gurupi | R$ 5.444 | 43 | – | – | – | – |
-| Horto | R$ 4.059 | 26 | R$ 25,9 | 5 | 7,66% | – |
-| Ininga | R$ 4.000 | 95 | R$ 29,2 | 14 | 8,76% | – |
-| Itararé | R$ 2.027 | 17 | – | – | – | – |
-| Jóquei | R$ 4.880 | 20 | R$ 62,5 | 7 | 15,37% | – |
-| Lourival Parente | R$ 2.958 | 24 | – | – | – | – |
-| Macaúba | R$ 2.988 | 15 | – | – | – | – |
-| Matadouro | R$ 3.125 | 5 | – | – | – | – |
+| Colorado | R$ 2.031 | 7 | – | – | – | – |
+| Cristo Rei | R$ 3.997 | 22 | – | – | – | – |
+| Esplanada | R$ 2.427 | 18 | – | – | – | – |
+| Fátima | R$ 5.053 | 45 | R$ 40,6 | 12 | 9,64% | – |
+| Gurupi | R$ 5.314 | 50 | – | – | – | – |
+| Horto | R$ 4.546 | 37 | R$ 27,8 | 7 | 7,34% | – |
+| Ilhotas | R$ 2.667 | 5 | – | – | – | – |
+| Ininga | R$ 3.968 | 120 | R$ 25,2 | 18 | 7,62% | – |
+| Itararé | R$ 2.097 | 20 | – | – | – | – |
+| Jóquei | R$ 5.198 | 26 | R$ 49,5 | 10 | 11,43% | – |
+| Lourival Parente | R$ 3.042 | 26 | – | – | – | – |
+| Macaúba | R$ 2.988 | 17 | – | – | – | – |
+| Mafuá | R$ 3.014 | 6 | – | – | – | – |
+| Marquês | R$ 2.326 | 5 | – | – | – | – |
+| Marquês de Paranaguá | R$ 4.365 | 7 | – | – | – | – |
+| Matadouro | R$ 2.167 | 7 | – | – | – | – |
 | Matinha | R$ 2.564 | 9 | – | – | – | – |
-| Mocambinho | R$ 2.708 | 21 | – | – | – | – |
-| Monte Castelo | R$ 2.637 | 13 | – | – | – | – |
-| Morada do Sol | R$ 3.636 | 43 | – | – | – | – |
-| Morros | R$ 5.307 | 59 | R$ 21,6 | 19 | 4,88% | – |
-| Nossa Senhora das Graças | R$ 2.219 | 8 | – | – | – | – |
-| Novo Horizonte | R$ 2.308 | 17 | – | – | – | – |
-| Novo Uruguai | R$ 8.913 | 49 | – | – | – | – |
-| Parque Ideal | R$ 1.400 | 9 | – | – | – | – |
-| Parque Piauí | R$ 2.644 | 14 | R$ 9,3 | 5 | 4,22% | – |
-| Parque Sul | R$ 2.015 | 12 | – | – | – | – |
-| Pedra Mole | R$ 5.714 | 19 | – | – | – | – |
-| Piçarreira | R$ 4.668 | 12 | – | – | – | – |
-| Pirajá | R$ 2.540 | 5 | – | – | – | – |
-| Planalto | R$ 4.630 | 21 | – | – | – | – |
-| Porto do Centro | R$ 3.610 | 22 | – | – | – | – |
-| Primavera | R$ 2.796 | 14 | – | – | – | – |
-| Recanto das Palmeiras | R$ 3.316 | 6 | – | – | – | – |
-| Renascença | R$ 2.174 | 5 | – | – | – | – |
-| Saci | R$ 2.764 | 32 | – | – | – | – |
-| Santa Isabel | R$ 3.485 | 48 | – | – | – | – |
+| Memorare | R$ 1.789 | 7 | – | – | – | – |
+| Mocambinho | R$ 2.729 | 26 | – | – | – | – |
+| Monte Castelo | R$ 2.690 | 14 | – | – | – | – |
+| Morada do Sol | R$ 3.715 | 56 | R$ 32,8 | 5 | 10,59% | – |
+| Morros | R$ 5.191 | 68 | R$ 22,6 | 21 | 5,22% | – |
+| Noivos | R$ 2.701 | 5 | – | – | – | – |
+| Nossa Senhora das Graças | R$ 2.333 | 9 | – | – | – | – |
+| Novo Horizonte | R$ 2.624 | 19 | – | – | – | – |
+| Novo Uruguai | R$ 8.802 | 61 | – | – | – | – |
+| Núcleo Urbano Fazenda Real | R$ 5.672 | 5 | – | – | – | – |
+| Parque Ideal | R$ 1.652 | 14 | – | – | – | – |
+| Parque Piauí | R$ 2.600 | 17 | R$ 14,6 | 6 | 6,74% | – |
+| Parque Sul | R$ 1.939 | 13 | – | – | – | – |
+| Pedra Mole | R$ 5.384 | 22 | – | – | – | – |
+| Petrópolis Residence | R$ 7.212 | 7 | – | – | – | – |
+| Piçarra | R$ 4.000 | 6 | – | – | – | – |
+| Piçarreira | R$ 4.615 | 15 | – | – | – | – |
+| Pirajá | R$ 2.603 | 6 | – | – | – | – |
+| Planalto | R$ 4.594 | 24 | R$ 21,2 | 6 | 5,54% | – |
+| Portal da Alegria | R$ 2.426 | 6 | – | – | – | – |
+| Porto do Centro | R$ 3.667 | 25 | – | – | – | – |
+| Primavera | R$ 3.141 | 16 | – | – | – | – |
+| Recanto das Palmeiras | R$ 2.975 | 10 | – | – | – | – |
+| Renascença | R$ 2.550 | 8 | – | – | – | – |
+| Saci | R$ 2.764 | 40 | R$ 12,2 | 5 | 5,30% | – |
+| Santa Isabel | R$ 3.664 | 57 | – | – | – | – |
+| Santa Lia | R$ 3.429 | 8 | – | – | – | – |
 | Santa Maria | R$ 3.282 | 10 | R$ 16,4 | 7 | 6,00% | – |
-| Santa Maria da Codipe | R$ 2.917 | 10 | – | – | – | – |
-| Santo Antônio | R$ 2.885 | 15 | – | – | – | – |
-| São Cristóvão | R$ 3.846 | 38 | R$ 21,2 | 11 | 6,61% | – |
-| São João | R$ 2.784 | 18 | – | – | – | – |
-| São Pedro | R$ 3.000 | 11 | – | – | – | – |
-| São Sebastião | R$ 3.333 | 7 | – | – | – | – |
+| Santa Maria da Codipe | R$ 2.833 | 11 | – | – | – | – |
+| Santo Antônio | R$ 2.885 | 19 | – | – | – | – |
+| São Cristóvão | R$ 4.305 | 48 | R$ 25,0 | 13 | 6,97% | – |
+| São João | R$ 3.119 | 23 | – | – | – | – |
+| São Pedro | R$ 3.006 | 12 | – | – | – | – |
+| São Sebastião | R$ 3.317 | 8 | – | – | – | – |
 | Satélite | R$ 3.014 | 14 | – | – | – | – |
-| Socopo | R$ 6.570 | 24 | R$ 28,4 | 7 | 5,19% | – |
-| Tabajaras | R$ 7.500 | 27 | – | – | – | – |
+| Socopo | R$ 6.914 | 28 | R$ 31,8 | 8 | 5,52% | – |
+| Tabajaras | R$ 7.417 | 34 | – | – | – | – |
 | Tabuleta | R$ 2.177 | 6 | – | – | – | – |
-| Terras Alphaville | R$ 9.310 | 11 | – | – | – | – |
-| Uruguai | R$ 6.837 | 66 | – | – | – | – |
-| Vale do Gavião | R$ 3.709 | 15 | – | – | – | – |
-| Vale Quem Tem | R$ 3.537 | 51 | – | – | – | – |
-| Verde Lar | R$ 4.601 | 21 | – | – | – | – |
-| Verdecap | R$ 3.204 | 7 | – | – | – | – |
-| Vermelha | R$ 2.642 | 25 | R$ 12,8 | 6 | 5,81% | – |
-| Zoobotânico | R$ 6.110 | 11 | – | – | – | – |
+| Terras Alphaville | R$ 8.955 | 15 | – | – | – | – |
+| Três Andares | R$ 2.742 | 5 | – | – | – | – |
+| Uruguai | R$ 6.893 | 78 | – | – | – | – |
+| Vale do Gavião | R$ 3.723 | 17 | – | – | – | – |
+| Vale Quem Tem | R$ 3.299 | 67 | – | – | – | – |
+| Verana | R$ 7.585 | 5 | – | – | – | – |
+| Verde Lar | R$ 4.873 | 28 | – | – | – | – |
+| Verdecap | R$ 3.333 | 9 | – | – | – | – |
+| Vermelha | R$ 2.500 | 29 | R$ 12,8 | 6 | 6,14% | – |
+| Zoobotânico | R$ 5.805 | 14 | – | – | – | – |
 
-### Terrenos, cidade toda: venda R$ 818/m² (n=573)
+### Terrenos, cidade toda: venda R$ 749/m² (n=729)
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Angelim | R$ 197 | 13 | – | – | – | – |
-| Aroeiras | R$ 392 | 6 | – | – | – | – |
+| Angelim | R$ 188 | 17 | – | – | – | – |
+| Aroeiras | R$ 350 | 9 | – | – | – | – |
 | Bela Vista | R$ 333 | 5 | – | – | – | – |
-| Cabral | R$ 1.633 | 6 | – | – | – | – |
-| Centro | R$ 1.768 | 29 | – | – | – | – |
+| Cabral | R$ 1.523 | 7 | – | – | – | – |
+| Centro | R$ 1.592 | 31 | – | – | – | – |
 | Cristo Rei | R$ 1.333 | 5 | – | – | – | – |
-| Fátima | R$ 2.500 | 13 | – | – | – | – |
-| Gurupi | R$ 480 | 39 | – | – | – | – |
-| Horto | R$ 1.160 | 8 | – | – | – | – |
-| Ininga | R$ 774 | 40 | – | – | – | – |
-| Jóquei | R$ 1.852 | 9 | – | – | – | – |
-| Marquês de Paranaguá | R$ 815 | 5 | – | – | – | – |
+| Fátima | R$ 2.812 | 14 | – | – | – | – |
+| Gurupi | R$ 472 | 49 | – | – | – | – |
+| Horto | R$ 1.111 | 11 | – | – | – | – |
+| Ininga | R$ 789 | 44 | – | – | – | – |
+| Jóquei | R$ 1.815 | 10 | – | – | – | – |
+| Lourival Parente | R$ 958 | 8 | – | – | – | – |
+| Marquês de Paranaguá | R$ 907 | 6 | – | – | – | – |
 | Morada do Sol | R$ 863 | 10 | – | – | – | – |
-| Morros | R$ 292 | 16 | – | – | – | – |
-| Novo Uruguai | R$ 1.251 | 49 | – | – | – | – |
+| Morros | R$ 303 | 25 | – | – | – | – |
+| Novo Uruguai | R$ 1.174 | 67 | – | – | – | – |
 | Núcleo Urbano Fazenda Real | R$ 427 | 5 | – | – | – | – |
 | Pedra Mole | R$ 477 | 6 | – | – | – | – |
-| Planalto | R$ 975 | 7 | – | – | – | – |
-| Recanto das Palmeiras | R$ 603 | 6 | – | – | – | – |
+| Petrópolis Residence | R$ 890 | 6 | – | – | – | – |
+| Planalto | R$ 975 | 9 | – | – | – | – |
+| Porto do Centro | R$ 263 | 5 | – | – | – | – |
+| Recanto das Palmeiras | R$ 542 | 8 | – | – | – | – |
+| Santa Isabel | R$ 846 | 7 | – | – | – | – |
+| Santo Antônio | R$ 285 | 6 | – | – | – | – |
 | São Cristóvão | R$ 1.011 | 12 | – | – | – | – |
 | São João | R$ 1.245 | 5 | – | – | – | – |
-| Socopo | R$ 871 | 27 | – | – | – | – |
-| Tabajaras | R$ 999 | 38 | – | – | – | – |
-| Uruguai | R$ 985 | 39 | – | – | – | – |
-| Vale do Gavião | R$ 277 | 7 | – | – | – | – |
-| Vale Quem Tem | R$ 587 | 18 | – | – | – | – |
-| Verde Lar | R$ 630 | 8 | – | – | – | – |
+| São Pedro | R$ 1.028 | 5 | – | – | – | – |
+| Satélite | R$ 400 | 5 | – | – | – | – |
+| Socopo | R$ 834 | 38 | – | – | – | – |
+| Tabajaras | R$ 1.000 | 39 | – | – | – | – |
+| Terras Alphaville II | R$ 1.213 | 5 | – | – | – | – |
+| Uruguai | R$ 591 | 53 | – | – | – | – |
+| Vale do Gavião | R$ 261 | 7 | – | – | – | – |
+| Vale Quem Tem | R$ 590 | 35 | – | – | – | – |
+| Verde Lar | R$ 630 | 12 | – | – | – | – |
+| Zoobotânico | R$ 617 | 5 | – | – | – | – |
 
-### Salas comerciais, cidade toda: venda R$ 5.694/m² (n=108); aluguel R$ 39,1/m²/mês (n=519); rendimento bruto do aluguel 8,24% a.a.
+### Salas comerciais, cidade toda: venda R$ 5.624/m² (n=131); aluguel R$ 39,0/m²/mês (n=574); rendimento bruto do aluguel 8,32% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
+| Aeroporto | R$ 4.000 | 5 | – | – | – | – |
 | Beira Rio | – | – | R$ 19,5 | 8 | – | – |
 | Cabral | R$ 14.868 | 6 | R$ 71,4 | 8 | 5,76% | – |
-| Centro | R$ 4.918 | 27 | R$ 27,3 | 143 | 6,66% | – |
-| Centro Sul | – | – | R$ 28,6 | 10 | – | – |
+| Centro | R$ 4.796 | 41 | R$ 27,8 | 168 | 6,96% | – |
+| Centro Sul | – | – | R$ 28,6 | 12 | – | – |
 | Centro/N | – | – | R$ 29,2 | 17 | – | – |
 | Centro/S | – | – | R$ 28,1 | 9 | – | – |
-| Fátima | R$ 13.636 | 9 | R$ 81,6 | 33 | 7,18% | – |
-| Horto | – | – | R$ 50,0 | 11 | – | – |
-| Ininga | – | – | R$ 83,3 | 23 | – | – |
+| Fátima | R$ 12.690 | 11 | R$ 79,8 | 36 | 7,55% | – |
+| Horto | – | – | R$ 50,7 | 12 | – | – |
+| Ininga | R$ 7.167 | 5 | R$ 80,0 | 27 | 13,39% | – |
 | Itararé | – | – | R$ 37,5 | 7 | – | – |
-| Jóquei | R$ 9.374 | 8 | R$ 65,0 | 28 | 8,32% | – |
-| Mafua | – | – | R$ 28,5 | 8 | – | – |
-| Marquês | – | – | R$ 33,3 | 9 | – | – |
-| Mocambinho | – | – | R$ 33,8 | 8 | – | – |
+| Jóquei | R$ 9.374 | 8 | R$ 65,4 | 31 | 8,37% | – |
+| Mafuá | – | – | R$ 28,5 | 8 | – | – |
+| Marquês | – | – | R$ 36,7 | 8 | – | – |
+| Mocambinho | – | – | R$ 27,7 | 9 | – | – |
+| Morada do Sol | – | – | R$ 73,2 | 6 | – | – |
+| Noivos | – | – | R$ 31,7 | 6 | – | – |
+| Parque Ideal | – | – | R$ 21,4 | 5 | – | – |
 | Parque Piauí | – | – | R$ 36,7 | 11 | – | – |
 | Piçarra | – | – | R$ 50,0 | 7 | – | – |
-| Piçarreira | – | – | R$ 55,6 | 19 | – | – |
+| Piçarreira | – | – | R$ 50,0 | 23 | – | – |
 | Planalto | – | – | R$ 90,9 | 5 | – | – |
+| Porenquanto | R$ 16.000 | 5 | – | – | – | – |
 | Primavera | – | – | R$ 64,6 | 8 | – | – |
 | Santa Isabel | – | – | R$ 72,7 | 7 | – | – |
+| Santa Lia | – | – | R$ 27,3 | 6 | – | – |
 | São Cristóvão | – | – | R$ 77,5 | 19 | – | – |
 | Vermelha | – | – | R$ 36,7 | 17 | – | – |
 
 
 ## Curitiba (setembro/2026): https://acorridadosbairros.com.br/pr/curitiba/
 
-### Apartamentos, cidade toda: venda R$ 9.735/m² (n=2428); aluguel R$ 46,0/m²/mês (n=2453); rendimento bruto do aluguel 5,67% a.a.
+### Apartamentos, cidade toda: venda R$ 9.741/m² (n=2429); aluguel R$ 46,0/m²/mês (n=2453); rendimento bruto do aluguel 5,67% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -6147,7 +6183,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Bacacheri | R$ 9.248 | 78 | R$ 36,6 | 21 | 4,75% | – |
 | Bairro Alto | R$ 7.991 | 22 | R$ 42,6 | 24 | 6,40% | – |
 | Barreirinha | – | – | R$ 30,0 | 7 | – | – |
-| Batel | R$ 11.893 | 46 | R$ 69,9 | 94 | 7,05% | – |
+| Batel | R$ 11.500 | 47 | R$ 69,9 | 94 | 7,29% | – |
 | Bigorrilho | R$ 9.969 | 66 | R$ 51,2 | 66 | 6,16% | – |
 | Boa Vista | R$ 9.588 | 68 | R$ 47,3 | 60 | 5,92% | – |
 | Bom Retiro | R$ 9.756 | 11 | R$ 58,5 | 14 | 7,20% | – |
@@ -7474,7 +7510,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 
 ## Goiânia (setembro/2026): https://acorridadosbairros.com.br/go/goiania/
 
-### Apartamentos, cidade toda: venda R$ 8.122/m² (n=3804); aluguel R$ 39,4/m²/mês (n=1293); rendimento bruto do aluguel 5,82% a.a.
+### Apartamentos, cidade toda: venda R$ 8.083/m² (n=3876); aluguel R$ 39,4/m²/mês (n=1293); rendimento bruto do aluguel 5,85% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -7484,14 +7520,15 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Chácaras Dona Gê | R$ 6.801 | 14 | – | – | – | – |
 | Chácaras Santa Rita | R$ 5.000 | 11 | – | – | – | – |
 | Cidade Jardim | R$ 5.248 | 10 | – | – | – | – |
-| Fazenda Criméia Caveiras | R$ 7.591 | 8 | – | – | – | – |
+| Fazenda Criméia Caveiras | R$ 7.361 | 17 | – | – | – | – |
 | Fazenda Dourados | R$ 2.483 | 5 | – | – | – | – |
 | Fazenda Santa Rita | R$ 3.934 | 10 | – | – | – | – |
+| Fazenda Santa Rita - Conjunto Residencial Alto Oriente | R$ 7.643 | 9 | – | – | – | – |
 | Fazenda São Domingos | R$ 2.929 | 5 | – | – | – | – |
 | Goiá | R$ 5.238 | 6 | – | – | – | – |
 | Goiânia 2 | R$ 5.614 | 10 | – | – | – | – |
 | Ipiranga | R$ 4.910 | 5 | – | – | – | – |
-| Jardim América | R$ 8.629 | 130 | R$ 35,0 | 35 | 4,87% | – |
+| Jardim América | R$ 8.475 | 152 | R$ 35,0 | 35 | 4,96% | – |
 | Jardim Atlântico | R$ 8.098 | 39 | R$ 40,2 | 40 | 5,96% | – |
 | Jardim da Luz | – | – | R$ 31,4 | 5 | – | – |
 | Jardim das Esmeraldas | R$ 7.832 | 8 | – | – | – | – |
@@ -7502,7 +7539,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Jardim Ipê | R$ 7.290 | 17 | – | – | – | – |
 | Jardim Novo Mundo | R$ 6.288 | 12 | – | – | – | – |
 | Lorena Parque | R$ 4.583 | 7 | – | – | – | – |
-| Loteamento Grande Retiro | R$ 5.147 | 6 | – | – | – | – |
+| Loteamento Grande Retiro | R$ 5.050 | 9 | – | – | – | – |
 | Moinho dos Ventos | R$ 4.304 | 19 | – | – | – | – |
 | Nossa Senhora de Fátima | R$ 2.537 | 5 | – | – | – | – |
 | Nova Suiça | R$ 6.842 | 39 | R$ 36,3 | 8 | 6,37% | – |
@@ -7514,17 +7551,18 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Residencial Alfa | R$ 5.238 | 7 | – | – | – | – |
 | Residencial Aquários | R$ 4.688 | 5 | – | – | – | – |
 | Residencial Barcelona | R$ 4.345 | 6 | – | – | – | – |
-| Residencial Bethel | R$ 6.190 | 7 | – | – | – | – |
+| Residencial Bethel | R$ 5.465 | 11 | – | – | – | – |
 | Residencial Eldorado | R$ 5.942 | 29 | R$ 29,2 | 19 | 5,90% | – |
 | Residencial Eldorado Expansão | R$ 7.637 | 6 | – | – | – | – |
 | Residencial Flórida | R$ 4.219 | 16 | R$ 22,7 | 5 | 6,46% | – |
 | Residencial Goiânia Viva | – | – | R$ 27,5 | 5 | – | – |
 | Residencial Granville | R$ 9.106 | 11 | – | – | – | – |
 | Residencial Itaipu | – | – | R$ 27,0 | 5 | – | – |
+| Residencial Jardins do Cerrado 10 | R$ 3.119 | 8 | – | – | – | – |
 | Residencial Jardins do Cerrado 6 | R$ 2.982 | 7 | – | – | – | – |
 | Residencial Jardins do Cerrado 7 | R$ 2.440 | 12 | – | – | – | – |
 | Residencial Parque Oeste | – | – | R$ 30,6 | 6 | – | – |
-| Residencial Porto Dourado | R$ 3.762 | 6 | – | – | – | – |
+| Residencial Porto Dourado | R$ 4.348 | 15 | – | – | – | – |
 | Rodoviário | R$ 7.201 | 9 | – | – | – | – |
 | São Francisco | R$ 6.181 | 20 | – | – | – | – |
 | Serrinha | R$ 9.750 | 91 | R$ 44,5 | 38 | 5,48% | – |
@@ -7555,7 +7593,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Setor Sudoeste | R$ 6.300 | 28 | R$ 38,7 | 13 | 7,37% | – |
 | Setor Sul | R$ 4.667 | 27 | R$ 24,1 | 7 | 6,20% | – |
 | Setor Universitario | R$ 8.326 | 8 | – | – | – | – |
-| Vila Alpes | R$ 6.565 | 43 | R$ 42,4 | 7 | 7,75% | – |
+| Vila Alpes | R$ 6.546 | 49 | R$ 42,4 | 7 | 7,77% | – |
 | Vila Alto da Glória | R$ 9.304 | 9 | – | – | – | – |
 | Vila Americano do Brasil | R$ 8.073 | 9 | – | – | – | – |
 | Vila Bela | R$ 7.031 | 5 | – | – | – | – |
@@ -7567,12 +7605,12 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Vila Mooca | – | – | R$ 31,7 | 9 | – | – |
 | Vila Mutirão I | R$ 4.835 | 7 | – | – | – | – |
 | Vila Redenção | – | – | R$ 22,5 | 7 | – | – |
-| Vila Rosa | R$ 7.242 | 70 | R$ 37,9 | 23 | 6,28% | – |
+| Vila Rosa | R$ 7.260 | 73 | R$ 37,9 | 23 | 6,26% | – |
 | Vila São João | R$ 8.824 | 17 | – | – | – | – |
 | Vila São Luiz | R$ 4.873 | 11 | – | – | – | – |
 | Village Veneza | R$ 7.111 | 38 | R$ 34,9 | 8 | 5,89% | – |
 
-### Casas, cidade toda: venda R$ 4.253/m² (n=3698); aluguel R$ 23,9/m²/mês (n=321); rendimento bruto do aluguel 6,74% a.a.
+### Casas, cidade toda: venda R$ 4.333/m² (n=3934); aluguel R$ 23,9/m²/mês (n=321); rendimento bruto do aluguel 6,62% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -7597,7 +7635,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Goiá | R$ 4.286 | 5 | – | – | – | – |
 | Goiá 2 | R$ 2.750 | 7 | – | – | – | – |
 | Jardim Alphaville | R$ 3.155 | 9 | – | – | – | – |
-| Jardim América | R$ 4.645 | 80 | R$ 19,2 | 18 | 4,96% | – |
+| Jardim América | R$ 4.787 | 99 | R$ 19,2 | 18 | 4,81% | – |
 | Jardim Ana Lúcia | R$ 2.880 | 7 | – | – | – | – |
 | Jardim Atlântico | R$ 5.700 | 78 | R$ 24,5 | 10 | 5,16% | – |
 | Jardim Balneário Meia Ponte | R$ 2.710 | 8 | – | – | – | – |
@@ -7614,14 +7652,14 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Jardim Fonte Nova | R$ 3.399 | 12 | – | – | – | – |
 | Jardim Gardênia | R$ 3.571 | 20 | – | – | – | – |
 | Jardim Goiás | R$ 5.427 | 6 | – | – | – | – |
-| Jardim Gramado | R$ 3.667 | 9 | – | – | – | – |
+| Jardim Gramado | R$ 3.667 | 11 | – | – | – | – |
 | Jardim Guanabara | R$ 2.980 | 17 | – | – | – | – |
 | Jardim Guanabara II | R$ 5.583 | 13 | – | – | – | – |
 | Jardim Guanabara III | R$ 1.606 | 5 | – | – | – | – |
 | Jardim Guanabara IV | R$ 4.143 | 5 | – | – | – | – |
 | Jardim Ipanema | R$ 3.225 | 10 | – | – | – | – |
 | Jardim Ipê | R$ 4.275 | 7 | – | – | – | – |
-| Jardim Itaipu | R$ 3.489 | 12 | – | – | – | – |
+| Jardim Itaipu | R$ 3.509 | 27 | – | – | – | – |
 | Jardim Mariliza | R$ 4.426 | 18 | – | – | – | – |
 | Jardim Marques de Abreu | R$ 2.612 | 10 | – | – | – | – |
 | Jardim Novo Mundo | R$ 3.777 | 35 | R$ 28,2 | 8 | 8,96% | – |
@@ -7634,17 +7672,17 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Jardim Vila Boa | R$ 4.880 | 13 | – | – | – | – |
 | Jardim Vitória | R$ 4.252 | 6 | – | – | – | – |
 | Jardins Atenas | R$ 9.581 | 13 | – | – | – | – |
-| Jardins França | R$ 12.954 | 5 | – | – | – | – |
-| Jardins Itália | R$ 14.878 | 13 | – | – | – | – |
+| Jardins França | R$ 12.852 | 29 | – | – | – | – |
+| Jardins Itália | R$ 15.085 | 43 | – | – | – | – |
 | Jardins Lisboa | R$ 8.970 | 11 | – | – | – | – |
-| Jardins Madri | R$ 9.177 | 28 | – | – | – | – |
+| Jardins Madri | R$ 9.371 | 64 | – | – | – | – |
 | Jardins Milão | R$ 12.793 | 25 | – | – | – | – |
 | Jardins Munique | R$ 17.188 | 10 | – | – | – | – |
 | Jardins Paris | R$ 11.250 | 5 | – | – | – | – |
 | Jardins Valência | R$ 10.516 | 60 | R$ 49,1 | 7 | 5,60% | – |
 | Jardins Verona | R$ 10.716 | 46 | – | – | – | – |
 | Loteamento Portal do Sol I | R$ 6.760 | 13 | – | – | – | – |
-| Loteamento Portal do Sol II | R$ 7.293 | 8 | – | – | – | – |
+| Loteamento Portal do Sol II | R$ 7.684 | 41 | – | – | – | – |
 | Loteamento Tropical Verde | R$ 3.000 | 5 | – | – | – | – |
 | Loteamento Tropical Ville | R$ 3.471 | 8 | – | – | – | – |
 | Moinho dos Ventos | R$ 4.062 | 54 | – | – | – | – |
@@ -7652,10 +7690,10 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Parque Amazônia | R$ 5.654 | 68 | R$ 24,9 | 12 | 5,28% | – |
 | Parque Anhangüera | R$ 4.996 | 42 | – | – | – | – |
 | Parque Anhangüera II | R$ 4.803 | 6 | – | – | – | – |
-| Parque Atheneu | R$ 3.875 | 10 | – | – | – | – |
+| Parque Atheneu | R$ 3.808 | 17 | – | – | – | – |
 | Parque Cidade | R$ 13.184 | 14 | – | – | – | – |
 | Parque das Amendoeiras | R$ 5.667 | 7 | – | – | – | – |
-| Parque das Flores | R$ 2.669 | 9 | – | – | – | – |
+| Parque das Flores | R$ 3.576 | 32 | – | – | – | – |
 | Parque das Laranjeiras | R$ 5.233 | 30 | – | – | – | – |
 | Parque das Paineiras (1,2,3 e 4 Etapa) | R$ 5.788 | 7 | – | – | – | – |
 | Parque Eldorado Oeste | R$ 2.988 | 14 | – | – | – | – |
@@ -7682,8 +7720,9 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Residencial Canadá | R$ 3.472 | 15 | – | – | – | – |
 | Residencial Center Ville | R$ 3.511 | 42 | – | – | – | – |
 | Residencial Cidade Verde | R$ 4.528 | 10 | – | – | – | – |
-| Residencial das Acácias | R$ 4.098 | 6 | – | – | – | – |
+| Residencial das Acácias | R$ 4.182 | 11 | – | – | – | – |
 | Residencial Della Penna | R$ 3.296 | 7 | – | – | – | – |
+| Residencial Dom Rafael | R$ 4.583 | 7 | – | – | – | – |
 | Residencial Eli Forte | R$ 3.455 | 12 | – | – | – | – |
 | Residencial Fidelis | R$ 3.275 | 17 | – | – | – | – |
 | Residencial Flamingo | R$ 3.889 | 12 | – | – | – | – |
@@ -7699,11 +7738,12 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Residencial Itaipu | R$ 3.306 | 12 | R$ 17,8 | 6 | 6,46% | – |
 | Residencial Jardim Leblon | R$ 2.290 | 5 | – | – | – | – |
 | Residencial Jardins do Cerrado 7 | R$ 2.518 | 5 | – | – | – | – |
-| Residencial Kátia | R$ 3.062 | 6 | – | – | – | – |
+| Residencial Kátia | R$ 3.520 | 11 | – | – | – | – |
+| Residencial Licardino Ney | R$ 3.258 | 7 | – | – | – | – |
 | Residencial Monte Pascoal | R$ 2.863 | 12 | – | – | – | – |
 | Residencial Morumbi | R$ 4.940 | 18 | – | – | – | – |
 | Residencial Olinda | R$ 3.986 | 6 | – | – | – | – |
-| Residencial Orlando Morais | R$ 3.238 | 10 | – | – | – | – |
+| Residencial Orlando Morais | R$ 3.667 | 15 | – | – | – | – |
 | Residencial Paraíso | R$ 2.875 | 6 | – | – | – | – |
 | Residencial Park Solar | R$ 2.826 | 6 | – | – | – | – |
 | Residencial Parque Mendanha | R$ 9.730 | 5 | – | – | – | – |
@@ -7714,7 +7754,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Residencial Recanto do Bosque | R$ 3.533 | 29 | R$ 15,6 | 5 | 5,30% | – |
 | Residencial Recanto dos Buritis | R$ 3.889 | 6 | – | – | – | – |
 | Residencial Recreio Panorama | R$ 5.394 | 8 | – | – | – | – |
-| Residencial Santa Fé | R$ 2.560 | 11 | – | – | – | – |
+| Residencial Santa Fé | R$ 2.800 | 23 | – | – | – | – |
 | Residencial Santa Fé I | R$ 3.710 | 46 | – | – | – | – |
 | Residencial São Leopoldo | R$ 4.240 | 10 | – | – | – | – |
 | Residencial São Marcos | R$ 2.490 | 7 | – | – | – | – |
@@ -7729,6 +7769,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Santa Genoveva | R$ 3.722 | 15 | – | – | – | – |
 | São Francisco | R$ 2.420 | 8 | – | – | – | – |
 | Setor Aeroporto | R$ 3.125 | 13 | – | – | – | – |
+| Setor Alto do Vale | R$ 2.833 | 7 | – | – | – | – |
 | Setor Andréia | R$ 3.070 | 13 | – | – | – | – |
 | Setor Barra da Tijuca | R$ 3.145 | 6 | – | – | – | – |
 | Setor Bueno | R$ 5.229 | 22 | R$ 30,8 | 5 | 7,07% | – |
@@ -7785,13 +7826,13 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Vila Redenção | R$ 3.750 | 5 | – | – | – | – |
 | Vila Rezende | R$ 3.577 | 9 | – | – | – | – |
 | Vila Rizzo | R$ 2.389 | 6 | – | – | – | – |
-| Vila Rosa | R$ 5.394 | 11 | – | – | – | – |
+| Vila Rosa | R$ 5.433 | 12 | – | – | – | – |
 | Vila Santa Helena | R$ 3.824 | 11 | – | – | – | – |
 | Vila São Francisco | R$ 3.706 | 5 | – | – | – | – |
 | Vila União | R$ 2.276 | 5 | – | – | – | – |
 | Village Veneza | R$ 5.174 | 6 | – | – | – | – |
 
-### Terrenos, cidade toda: venda R$ 1.169/m² (n=925)
+### Terrenos, cidade toda: venda R$ 1.200/m² (n=974)
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -7802,19 +7843,22 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Cidade Jardim | R$ 1.349 | 8 | – | – | – | – |
 | Conjunto Vera Cruz | R$ 721 | 7 | – | – | – | – |
 | Fazenda Vau das Pombas | R$ 2.796 | 8 | – | – | – | – |
-| Jardim América | R$ 1.354 | 26 | – | – | – | – |
+| Jardim América | R$ 1.356 | 27 | – | – | – | – |
 | Jardim Atlântico | R$ 1.132 | 6 | – | – | – | – |
 | Jardim das Esmeraldas | R$ 1.189 | 5 | – | – | – | – |
 | Jardim Guanabara | R$ 928 | 5 | – | – | – | – |
 | Jardim Novo Mundo | R$ 1.025 | 20 | – | – | – | – |
 | Jardim Petrópolis | R$ 558 | 15 | – | – | – | – |
 | Jardins Amsterdã | R$ 2.132 | 10 | – | – | – | – |
-| Jardins França | R$ 2.504 | 11 | – | – | – | – |
+| Jardins França | R$ 2.505 | 27 | – | – | – | – |
+| Jardins Itália | R$ 3.499 | 8 | – | – | – | – |
+| Jardins Madri | R$ 2.703 | 5 | – | – | – | – |
 | Jardins Verona | R$ 3.036 | 9 | – | – | – | – |
 | Jardins Zurique | R$ 3.507 | 5 | – | – | – | – |
 | Loteamento Aruanã Park | R$ 500 | 5 | – | – | – | – |
 | Moinho dos Ventos | R$ 1.097 | 6 | – | – | – | – |
 | Parque Amazônia | R$ 1.325 | 12 | – | – | – | – |
+| Parque Atheneu | R$ 2.542 | 8 | – | – | – | – |
 | Parque Cidade | R$ 2.552 | 48 | – | – | – | – |
 | Parque Industrial | R$ 1.183 | 6 | – | – | – | – |
 | Portal do Sol Green | R$ 1.882 | 11 | – | – | – | – |
@@ -7835,7 +7879,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Setor Pedro Ludovico | R$ 1.832 | 19 | – | – | – | – |
 | Setor Sudoeste | R$ 1.031 | 7 | – | – | – | – |
 | Sítios de Recreio Mansões do Campus | R$ 403 | 6 | – | – | – | – |
-| Vila Rosa | R$ 1.400 | 8 | – | – | – | – |
+| Vila Rosa | R$ 1.602 | 9 | – | – | – | – |
 
 ### Salas comerciais, cidade toda: venda R$ 13.916/m² (n=177); aluguel R$ 51,6/m²/mês (n=372); rendimento bruto do aluguel 4,45% a.a.
 
