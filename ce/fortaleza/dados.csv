@@ -1,0 +1,165 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Fortaleza,Água Fria,apartamento,venda,8164.2,8096.2,8340.2,6,,setembro/2026
+Fortaleza,Aldeota,apartamento,venda,14339.6,11525.4,17409.3,95,4.0,setembro/2026
+Fortaleza,Aldeota,apartamento,aluguel,47.8,23.3,79.6,15,4.0,setembro/2026
+Fortaleza,Antônio Diogo,apartamento,venda,7390.4,6005.7,8904.7,15,,setembro/2026
+Fortaleza,Barroso,apartamento,venda,4606.9,2745.3,5856.7,14,,setembro/2026
+Fortaleza,Benfica,apartamento,venda,9988.9,4483.3,11620.8,19,3.0,setembro/2026
+Fortaleza,Benfica,apartamento,aluguel,25.0,19.4,51.8,9,3.0,setembro/2026
+Fortaleza,Cajazeiras,apartamento,venda,4423.1,3952.9,5825.9,19,5.72,setembro/2026
+Fortaleza,Cajazeiras,apartamento,aluguel,21.1,17.3,23.4,12,5.72,setembro/2026
+Fortaleza,Cambeba,apartamento,venda,7633.1,6849.9,8695.9,24,,setembro/2026
+Fortaleza,Carlito Pamplona,apartamento,venda,5711.0,3724.2,5872.4,6,,setembro/2026
+Fortaleza,Centro,apartamento,venda,7886.8,6305.1,10913.4,15,5.14,setembro/2026
+Fortaleza,Centro,apartamento,aluguel,33.8,25.6,38.0,17,5.14,setembro/2026
+Fortaleza,Cidade 2000,apartamento,venda,7123.3,6548.2,8469.7,15,,setembro/2026
+Fortaleza,Cidade dos Funcionários,apartamento,venda,3281.2,2931.3,3545.7,10,,setembro/2026
+Fortaleza,Cocó,apartamento,venda,10649.4,7973.0,13409.3,57,4.83,setembro/2026
+Fortaleza,Cocó,apartamento,aluguel,42.9,29.2,54.2,17,4.83,setembro/2026
+Fortaleza,Conjunto Esperança,apartamento,venda,3214.3,2127.7,3809.5,5,,setembro/2026
+Fortaleza,Curió,apartamento,venda,3681.8,3609.1,3866.6,6,,setembro/2026
+Fortaleza,Damas,apartamento,venda,3888.9,3135.9,5938.1,6,,setembro/2026
+Fortaleza,De Lourdes,apartamento,venda,8688.5,7004.8,10347.4,7,,setembro/2026
+Fortaleza,Dionisio Torres,apartamento,venda,10202.5,5869.5,13086.7,39,,setembro/2026
+Fortaleza,Dunas,apartamento,venda,7771.8,7438.1,8308.1,8,,setembro/2026
+Fortaleza,Edson Queiroz,apartamento,venda,9913.9,8406.6,10983.1,12,,setembro/2026
+Fortaleza,Engenheiro Luciano Cavalcante,apartamento,venda,9673.2,8730.2,11320.5,37,6.03,setembro/2026
+Fortaleza,Engenheiro Luciano Cavalcante,apartamento,aluguel,48.6,35.8,61.1,9,6.03,setembro/2026
+Fortaleza,Fátima,apartamento,venda,10564.0,8352.0,12413.1,23,3.53,setembro/2026
+Fortaleza,Fátima,apartamento,aluguel,31.1,27.1,31.6,7,3.53,setembro/2026
+Fortaleza,Guararapes,apartamento,venda,11636.4,9413.7,13311.9,43,5.67,setembro/2026
+Fortaleza,Guararapes,apartamento,aluguel,55.0,46.5,64.6,12,5.67,setembro/2026
+Fortaleza,Itaperi,apartamento,venda,4042.6,3722.9,5773.7,7,8.19,setembro/2026
+Fortaleza,Itaperi,apartamento,aluguel,27.6,25.8,31.6,13,8.19,setembro/2026
+Fortaleza,Jacarecanga,apartamento,venda,5373.8,3354.4,5833.3,5,8.13,setembro/2026
+Fortaleza,Jacarecanga,apartamento,aluguel,36.4,23.3,38.0,5,8.13,setembro/2026
+Fortaleza,Jangurussu,apartamento,venda,3465.8,2999.1,4531.6,11,,setembro/2026
+Fortaleza,Jardim América,apartamento,venda,3998.9,3410.3,5222.9,6,,setembro/2026
+Fortaleza,Jardim Cearense,apartamento,aluguel,20.0,18.2,21.1,9,,setembro/2026
+Fortaleza,Joaquim Távora,apartamento,venda,11071.4,4838.7,11672.6,17,2.71,setembro/2026
+Fortaleza,Joaquim Távora,apartamento,aluguel,25.0,23.1,51.3,10,2.71,setembro/2026
+Fortaleza,Jóquei Clube,apartamento,venda,6537.4,4621.0,8122.7,12,4.72,setembro/2026
+Fortaleza,Jóquei Clube,apartamento,aluguel,25.7,21.0,26.6,6,4.72,setembro/2026
+Fortaleza,José Bonifácio,apartamento,venda,9277.6,5768.1,11351.2,14,,setembro/2026
+Fortaleza,José de Alencar,apartamento,venda,7400.0,7189.7,8159.4,7,,setembro/2026
+Fortaleza,Lagoa Redonda,apartamento,aluguel,19.8,18.5,26.3,5,,setembro/2026
+Fortaleza,Luciano Cavalcante,apartamento,venda,8106.1,7319.5,9374.1,10,,setembro/2026
+Fortaleza,Manoel Dias Branco,apartamento,venda,7230.4,5058.6,9739.3,11,,setembro/2026
+Fortaleza,Maraponga,apartamento,venda,4600.0,4038.0,4941.9,11,6.13,setembro/2026
+Fortaleza,Maraponga,apartamento,aluguel,23.5,18.3,27.6,11,6.13,setembro/2026
+Fortaleza,Meireles,apartamento,venda,15267.4,11983.4,17112.2,112,4.89,setembro/2026
+Fortaleza,Meireles,apartamento,aluguel,62.2,43.8,80.2,30,4.89,setembro/2026
+Fortaleza,Messejana,apartamento,venda,5058.4,3883.9,5967.6,36,5.27,setembro/2026
+Fortaleza,Messejana,apartamento,aluguel,22.2,18.8,30.0,16,5.27,setembro/2026
+Fortaleza,Mondubim,apartamento,venda,6191.4,4090.9,6920.4,21,4.65,setembro/2026
+Fortaleza,Mondubim,apartamento,aluguel,24.0,22.1,26.8,15,4.65,setembro/2026
+Fortaleza,Monte Castelo,apartamento,venda,6323.5,4673.0,8046.9,7,,setembro/2026
+Fortaleza,Mucuripe,apartamento,venda,13574.7,10029.8,16779.9,39,4.62,setembro/2026
+Fortaleza,Mucuripe,apartamento,aluguel,52.3,41.2,84.6,25,4.62,setembro/2026
+Fortaleza,Novo Mondubim,apartamento,venda,2639.6,1977.8,3121.9,6,,setembro/2026
+Fortaleza,Papicu,apartamento,venda,5051.2,3779.3,9515.3,34,6.03,setembro/2026
+Fortaleza,Papicu,apartamento,aluguel,25.4,23.6,28.5,8,6.03,setembro/2026
+Fortaleza,Parangaba,apartamento,venda,6406.7,4827.4,7065.6,12,4.01,setembro/2026
+Fortaleza,Parangaba,apartamento,aluguel,21.4,16.0,30.6,11,4.01,setembro/2026
+Fortaleza,Parque Del Sol,apartamento,venda,9478.3,8643.8,10526.3,9,,setembro/2026
+Fortaleza,Parque Dois Irmãos,apartamento,venda,5764.2,4799.8,6119.6,14,6.25,setembro/2026
+Fortaleza,Parque Dois Irmãos,apartamento,aluguel,30.0,28.6,30.8,5,6.25,setembro/2026
+Fortaleza,Parque Iracema,apartamento,venda,8047.6,6012.0,8670.5,33,4.85,setembro/2026
+Fortaleza,Parque Iracema,apartamento,aluguel,32.5,26.4,44.1,12,4.85,setembro/2026
+Fortaleza,Parquelândia,apartamento,venda,8197.4,4028.5,8775.2,10,,setembro/2026
+Fortaleza,Parreão,apartamento,venda,8025.8,5625.0,9071.6,6,,setembro/2026
+Fortaleza,Passaré,apartamento,venda,6341.7,5625.0,7157.3,27,5.26,setembro/2026
+Fortaleza,Passaré,apartamento,aluguel,27.8,21.0,36.6,11,5.26,setembro/2026
+Fortaleza,Paupina,apartamento,venda,4469.6,3968.8,4910.7,14,,setembro/2026
+Fortaleza,Porto das Dunas,apartamento,venda,13311.5,9700.3,18146.7,18,,setembro/2026
+Fortaleza,Praia de Iracema,apartamento,venda,12764.4,8571.4,14634.1,25,4.7,setembro/2026
+Fortaleza,Praia de Iracema,apartamento,aluguel,50.0,48.1,58.5,9,4.7,setembro/2026
+Fortaleza,Praia do Futuro,apartamento,venda,6708.6,4225.0,8857.1,28,9.5,setembro/2026
+Fortaleza,Praia do Futuro,apartamento,aluguel,53.1,26.0,57.3,6,9.5,setembro/2026
+Fortaleza,Praia do Futuro I,apartamento,venda,6916.2,3100.8,8032.2,13,,setembro/2026
+Fortaleza,Praia do Futuro II,apartamento,venda,8272.1,6450.3,9301.1,19,8.69,setembro/2026
+Fortaleza,Praia do Futuro II,apartamento,aluguel,59.9,52.9,72.1,9,8.69,setembro/2026
+Fortaleza,Presidente Kennedy,apartamento,venda,7792.2,4333.3,9132.4,21,7.08,setembro/2026
+Fortaleza,Presidente Kennedy,apartamento,aluguel,46.0,38.4,49.2,10,7.08,setembro/2026
+Fortaleza,São Gerardo,apartamento,venda,4861.1,3794.4,7207.4,15,5.68,setembro/2026
+Fortaleza,São Gerardo,apartamento,aluguel,23.0,20.1,32.8,6,5.68,setembro/2026
+Fortaleza,Sapiranga,apartamento,venda,5048.7,3662.4,6655.1,6,,setembro/2026
+Fortaleza,Serrinha,apartamento,venda,4363.6,3351.3,5585.0,11,,setembro/2026
+Fortaleza,Varjota,apartamento,venda,7023.4,5642.9,12608.7,21,7.06,setembro/2026
+Fortaleza,Varjota,apartamento,aluguel,41.3,26.4,71.1,10,7.06,setembro/2026
+Fortaleza,Vicente Pinzon,apartamento,venda,4228.6,2960.1,6382.9,16,,setembro/2026
+Fortaleza,Aerolândia,casa,venda,2727.3,2346.4,3114.6,11,,setembro/2026
+Fortaleza,Álvaro Weyne,casa,venda,2160.5,1904.8,2600.0,5,,setembro/2026
+Fortaleza,Antônio Diogo,casa,venda,8967.8,7098.3,9612.2,6,,setembro/2026
+Fortaleza,Benfica,casa,venda,3127.1,1746.8,3303.6,6,,setembro/2026
+Fortaleza,Cajazeiras,casa,venda,4023.5,2972.5,4587.3,11,,setembro/2026
+Fortaleza,Cambeba,casa,venda,4476.6,3547.2,4789.1,16,4.15,setembro/2026
+Fortaleza,Cambeba,casa,aluguel,15.5,10.9,23.0,5,4.15,setembro/2026
+Fortaleza,Centro,casa,aluguel,24.6,15.2,39.8,6,,setembro/2026
+Fortaleza,Cidade 2000,casa,venda,4597.4,3550.9,6067.2,10,,setembro/2026
+Fortaleza,Cidade dos Funcionários,casa,venda,4117.6,3025.6,5381.2,25,7.29,setembro/2026
+Fortaleza,Cidade dos Funcionários,casa,aluguel,25.0,16.4,27.3,5,7.29,setembro/2026
+Fortaleza,Coaçu,casa,venda,3170.7,2388.9,4941.2,9,,setembro/2026
+Fortaleza,Conjunto Ceará,casa,venda,2272.7,1986.9,2418.2,7,,setembro/2026
+Fortaleza,Conjunto Ceará II,casa,venda,1830.1,1735.5,2557.9,5,,setembro/2026
+Fortaleza,Curió,casa,venda,2300.0,2200.0,5080.2,5,,setembro/2026
+Fortaleza,De Lourdes,casa,venda,6875.0,6069.4,10564.6,19,,setembro/2026
+Fortaleza,Dunas,casa,venda,8814.1,7666.7,9829.1,13,,setembro/2026
+Fortaleza,Edson Queiroz,casa,venda,4866.1,4250.0,5520.3,17,,setembro/2026
+Fortaleza,Engenheiro Luciano Cavalcante,casa,venda,3582.5,3290.2,4145.1,6,,setembro/2026
+Fortaleza,Fátima,casa,venda,3245.0,2603.1,4326.1,7,,setembro/2026
+Fortaleza,Granja Portugal,casa,venda,1655.6,1313.1,1767.7,5,,setembro/2026
+Fortaleza,Henrique Jorge,casa,aluguel,22.7,21.2,24.0,5,,setembro/2026
+Fortaleza,Itaperi,casa,venda,2887.6,2494.3,3627.8,16,,setembro/2026
+Fortaleza,Jangurussu,casa,venda,2489.7,1552.2,3309.2,14,,setembro/2026
+Fortaleza,Jardim das Oliveiras,casa,venda,3825.1,2795.2,4207.9,19,,setembro/2026
+Fortaleza,Jóquei Clube,casa,venda,3901.5,2355.2,5347.2,6,,setembro/2026
+Fortaleza,José Bonifácio,casa,venda,2700.0,2386.4,2826.1,5,,setembro/2026
+Fortaleza,José de Alencar,casa,venda,4687.5,3704.2,6451.6,29,,setembro/2026
+Fortaleza,Lagoa Redonda,casa,venda,4639.0,3840.7,6273.1,34,4.81,setembro/2026
+Fortaleza,Lagoa Redonda,casa,aluguel,18.6,12.0,21.1,9,4.81,setembro/2026
+Fortaleza,Lagoa Sapiranga (Coité),casa,venda,4285.7,3617.8,5954.5,7,,setembro/2026
+Fortaleza,Maraponga,casa,venda,5701.2,3988.1,6860.6,16,,setembro/2026
+Fortaleza,Messejana,casa,venda,3414.6,2870.0,4246.4,15,6.54,setembro/2026
+Fortaleza,Messejana,casa,aluguel,18.6,9.8,24.5,6,6.54,setembro/2026
+Fortaleza,Mondubim,casa,venda,3468.1,2451.3,3795.9,12,,setembro/2026
+Fortaleza,Parangaba,casa,venda,2450.0,1912.5,3177.1,7,,setembro/2026
+Fortaleza,Parque Dois Irmãos,casa,venda,4412.2,3870.2,5647.3,8,,setembro/2026
+Fortaleza,Parque Manibura,casa,venda,3529.4,2904.6,4605.3,21,,setembro/2026
+Fortaleza,Parquelândia,casa,venda,3741.5,2613.7,4687.5,13,,setembro/2026
+Fortaleza,Passaré,casa,venda,3923.1,2300.6,4686.9,12,,setembro/2026
+Fortaleza,Planalto Ayrton Senna,casa,venda,3340.7,2688.5,3668.9,8,,setembro/2026
+Fortaleza,Praia do Futuro I,casa,venda,8974.4,8068.4,9411.1,5,,setembro/2026
+Fortaleza,Praia do Futuro II,casa,venda,8891.9,8526.1,9509.5,9,,setembro/2026
+Fortaleza,Prefeito José Walter,casa,venda,2500.0,2062.5,3579.5,5,,setembro/2026
+Fortaleza,Quintino Cunha,casa,venda,1897.8,1683.0,2316.4,7,,setembro/2026
+Fortaleza,Rodolfo Teófilo,casa,venda,3290.8,2656.8,4211.0,6,,setembro/2026
+Fortaleza,Sabiaguaba,casa,venda,5544.5,4890.2,6091.7,14,,setembro/2026
+Fortaleza,São Bento,casa,venda,3548.1,3154.0,4242.3,28,,setembro/2026
+Fortaleza,São Gerardo,casa,venda,2738.6,2127.4,3345.0,6,,setembro/2026
+Fortaleza,Sapiranga,casa,venda,4516.4,3737.2,5855.3,34,,setembro/2026
+Fortaleza,Siqueira,casa,venda,1375.0,1363.6,1941.2,5,,setembro/2026
+Fortaleza,Ancuri,terreno,venda,294.9,259.9,327.8,9,,setembro/2026
+Fortaleza,Cajazeiras,terreno,venda,657.7,645.7,1429.8,6,,setembro/2026
+Fortaleza,Coaçu,terreno,venda,748.3,595.3,823.9,8,,setembro/2026
+Fortaleza,Edson Queiroz,terreno,venda,637.7,392.9,829.9,6,,setembro/2026
+Fortaleza,Jangurussu,terreno,venda,398.9,386.7,533.6,5,,setembro/2026
+Fortaleza,Lagoa Redonda,terreno,venda,666.6,465.0,851.2,8,,setembro/2026
+Fortaleza,Messejana,terreno,venda,1720.0,1600.0,2307.9,5,,setembro/2026
+Fortaleza,Parangaba,terreno,venda,1165.5,1014.4,1315.8,5,,setembro/2026
+Fortaleza,Pedras,terreno,venda,350.0,270.8,410.1,6,,setembro/2026
+Fortaleza,Planalto Ayrton Senna,terreno,venda,520.8,448.8,681.9,6,,setembro/2026
+Fortaleza,Praia do Futuro I,terreno,venda,1029.4,750.0,2000.0,5,,setembro/2026
+Fortaleza,Sabiaguaba,terreno,venda,352.4,181.2,644.5,8,,setembro/2026
+Fortaleza,Vicente Pinzon,terreno,venda,1280.5,855.3,1357.2,10,,setembro/2026
+Fortaleza,Aldeota,sala,venda,5024.5,4340.2,5857.5,6,,setembro/2026
+Fortaleza,Cambeba,sala,aluguel,55.6,44.3,88.5,11,,setembro/2026
+Fortaleza,Centro,sala,aluguel,66.7,43.6,80.8,6,,setembro/2026
+Fortaleza,Cidade dos Funcionários,sala,aluguel,28.6,23.2,34.5,7,,setembro/2026
+Fortaleza,Cocó,sala,aluguel,115.9,105.2,117.5,6,,setembro/2026
+Fortaleza,Joaquim Távora,sala,aluguel,51.9,36.4,66.2,7,,setembro/2026
+Fortaleza,Meireles,sala,venda,6288.3,6020.8,10000.0,5,,setembro/2026
+Fortaleza,Montese,sala,aluguel,31.4,28.3,32.5,5,,setembro/2026
+Fortaleza,Parque Manibura,sala,aluguel,41.2,28.4,55.6,6,,setembro/2026
+Fortaleza,Parquelândia,sala,aluguel,33.3,32.1,46.0,7,,setembro/2026
+Fortaleza,Bom Jardim,galpao,aluguel,23.0,23.0,23.0,7,,setembro/2026
