@@ -1,8 +1,8 @@
 cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
 Curitiba,Abranches,casa,venda,5312.5,4497.4,6175.3,27,7.5,setembro/2026
 Curitiba,Abranches,casa,aluguel,33.2,28.0,36.4,5,7.5,setembro/2026
-Curitiba,Água Verde,casa,venda,6400.0,5679.2,7950.0,37,5.79,setembro/2026
-Curitiba,Água Verde,casa,aluguel,30.9,28.6,36.1,5,5.79,setembro/2026
+Curitiba,Água Verde,casa,venda,6394.3,5683.5,7818.7,38,5.8,setembro/2026
+Curitiba,Água Verde,casa,aluguel,30.9,28.6,36.1,5,5.8,setembro/2026
 Curitiba,Ahú,casa,venda,8202.8,6851.2,9807.7,17,5.15,setembro/2026
 Curitiba,Ahú,casa,aluguel,35.2,26.7,39.3,5,5.15,setembro/2026
 Curitiba,Alto Boqueirão,casa,venda,5540.5,5054.4,6344.0,30,7.21,setembro/2026
@@ -145,8 +145,8 @@ Curitiba,Bairro Alto,apartamento,aluguel,42.6,34.0,48.9,24,6.4,setembro/2026
 Curitiba,Barreirinha,apartamento,aluguel,30.0,28.6,32.3,7,,setembro/2026
 Curitiba,Batel,apartamento,venda,11892.9,8530.3,20052.8,46,7.05,setembro/2026
 Curitiba,Batel,apartamento,aluguel,69.9,46.0,90.9,94,7.05,setembro/2026
-Curitiba,Bigorrilho,apartamento,venda,10000.0,7789.0,13953.7,67,6.14,setembro/2026
-Curitiba,Bigorrilho,apartamento,aluguel,51.2,37.5,75.0,66,6.14,setembro/2026
+Curitiba,Bigorrilho,apartamento,venda,9968.6,7718.1,13896.0,66,6.16,setembro/2026
+Curitiba,Bigorrilho,apartamento,aluguel,51.2,37.5,75.0,66,6.16,setembro/2026
 Curitiba,Boa Vista,apartamento,venda,9588.4,8147.6,11376.9,68,5.92,setembro/2026
 Curitiba,Boa Vista,apartamento,aluguel,47.3,37.6,58.8,60,5.92,setembro/2026
 Curitiba,Bom Retiro,apartamento,venda,9755.7,7655.7,12323.3,11,7.2,setembro/2026
@@ -178,8 +178,8 @@ Curitiba,Cidade Industrial,apartamento,venda,7954.5,6881.8,12045.5,13,5.91,setem
 Curitiba,Cidade Industrial,apartamento,aluguel,39.2,32.1,50.0,49,5.91,setembro/2026
 Curitiba,Cristo Rei,apartamento,venda,11039.0,7771.7,13012.3,117,4.88,setembro/2026
 Curitiba,Cristo Rei,apartamento,aluguel,44.9,32.6,60.2,120,4.88,setembro/2026
-Curitiba,Ecoville,apartamento,venda,10751.6,8348.2,14447.9,54,7.05,setembro/2026
-Curitiba,Ecoville,apartamento,aluguel,63.2,48.4,80.8,99,7.05,setembro/2026
+Curitiba,Ecoville,apartamento,venda,10751.6,8348.2,14271.7,54,7.03,setembro/2026
+Curitiba,Ecoville,apartamento,aluguel,63.0,47.5,80.4,100,7.03,setembro/2026
 Curitiba,Fanny,apartamento,venda,5961.5,5066.7,7593.7,27,6.62,setembro/2026
 Curitiba,Fanny,apartamento,aluguel,32.9,28.5,37.2,11,6.62,setembro/2026
 Curitiba,Fazendinha,apartamento,venda,4739.6,4379.6,5634.9,13,10.28,setembro/2026
@@ -326,18 +326,18 @@ Curitiba,Umbará,terreno,venda,1358.9,578.5,1744.2,25,,setembro/2026
 Curitiba,Vila Izabel,terreno,venda,3307.7,2954.5,3785.1,9,,setembro/2026
 Curitiba,Vista Alegre,terreno,venda,1638.5,1199.6,2106.1,32,,setembro/2026
 Curitiba,Xaxim,terreno,venda,1683.5,1424.0,2389.6,30,,setembro/2026
-Curitiba,Água Verde,sala,venda,9210.1,8598.8,11218.7,6,5.5,setembro/2026
-Curitiba,Água Verde,sala,aluguel,42.2,30.4,57.4,19,5.5,setembro/2026
+Curitiba,Água Verde,sala,venda,9420.3,8732.5,12842.4,7,5.48,setembro/2026
+Curitiba,Água Verde,sala,aluguel,43.0,31.3,62.8,20,5.48,setembro/2026
 Curitiba,Ahú,sala,aluguel,44.2,27.8,72.7,9,,setembro/2026
 Curitiba,Alto da Glória,sala,venda,19116.0,13234.7,20966.8,11,5.52,setembro/2026
 Curitiba,Alto da Glória,sala,aluguel,87.9,57.0,123.6,21,5.52,setembro/2026
 Curitiba,Alto da Rua XV,sala,aluguel,38.8,35.3,44.9,7,,setembro/2026
-Curitiba,Bacacheri,sala,aluguel,50.0,36.4,71.4,25,,setembro/2026
+Curitiba,Bacacheri,sala,aluguel,50.0,36.2,69.3,26,,setembro/2026
 Curitiba,Bairro Alto,sala,aluguel,37.6,28.7,40.7,16,,setembro/2026
-Curitiba,Batel,sala,venda,9628.9,6000.0,12012.3,9,6.04,setembro/2026
-Curitiba,Batel,sala,aluguel,48.5,37.3,86.7,16,6.04,setembro/2026
-Curitiba,Bigorrilho,sala,venda,9509.7,7000.0,11885.4,10,6.37,setembro/2026
-Curitiba,Bigorrilho,sala,aluguel,50.5,35.9,77.6,20,6.37,setembro/2026
+Curitiba,Batel,sala,venda,10247.4,6274.2,11921.9,10,6.37,setembro/2026
+Curitiba,Batel,sala,aluguel,54.4,38.5,83.3,18,6.37,setembro/2026
+Curitiba,Bigorrilho,sala,venda,10658.3,7666.7,12337.7,12,5.69,setembro/2026
+Curitiba,Bigorrilho,sala,aluguel,50.5,35.9,77.6,20,5.69,setembro/2026
 Curitiba,Boa Vista,sala,venda,8846.5,5916.1,9651.1,8,6.14,setembro/2026
 Curitiba,Boa Vista,sala,aluguel,45.3,33.4,65.7,10,6.14,setembro/2026
 Curitiba,Bom Retiro,sala,aluguel,41.7,37.3,57.6,11,,setembro/2026
@@ -350,13 +350,13 @@ Curitiba,Campo Comprido,sala,aluguel,45.2,34.6,62.5,6,,setembro/2026
 Curitiba,Campo de Santana,sala,aluguel,50.4,50.3,50.7,9,,setembro/2026
 Curitiba,Capão da Imbuia,sala,aluguel,34.8,30.3,45.0,14,,setembro/2026
 Curitiba,Capão Raso,sala,aluguel,30.5,23.0,44.0,17,,setembro/2026
-Curitiba,Centro,sala,venda,5800.0,3949.2,8883.6,23,10.34,setembro/2026
-Curitiba,Centro,sala,aluguel,50.0,22.0,87.1,31,10.34,setembro/2026
-Curitiba,Centro Cívico,sala,venda,7055.1,6498.7,9308.8,8,7.65,setembro/2026
-Curitiba,Centro Cívico,sala,aluguel,45.0,34.0,67.7,21,7.65,setembro/2026
+Curitiba,Centro,sala,venda,5666.7,3940.7,9434.0,29,9.64,setembro/2026
+Curitiba,Centro,sala,aluguel,45.5,22.0,67.0,35,9.64,setembro/2026
+Curitiba,Centro Cívico,sala,venda,7532.4,6732.3,12279.4,10,7.17,setembro/2026
+Curitiba,Centro Cívico,sala,aluguel,45.0,34.0,67.7,21,7.17,setembro/2026
 Curitiba,Cidade Industrial,sala,aluguel,40.0,27.3,50.0,9,,setembro/2026
-Curitiba,Cristo Rei,sala,venda,6287.4,5625.0,6500.0,5,7.18,setembro/2026
-Curitiba,Cristo Rei,sala,aluguel,37.6,29.8,60.3,8,7.18,setembro/2026
+Curitiba,Cristo Rei,sala,venda,6500.0,5956.2,7046.3,7,6.94,setembro/2026
+Curitiba,Cristo Rei,sala,aluguel,37.6,29.8,60.3,8,6.94,setembro/2026
 Curitiba,Ecoville,sala,venda,13706.2,12012.7,16542.7,7,,setembro/2026
 Curitiba,Fanny,sala,aluguel,27.1,26.7,37.2,5,,setembro/2026
 Curitiba,Fazendinha,sala,aluguel,63.1,51.9,65.9,18,,setembro/2026

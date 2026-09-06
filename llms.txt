@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 53 cidades de Santa Catarina, São Paulo, Tocantins, Rondônia, Espírito Santo, Amapá, Roraima, Sergipe, Rio Grande do Norte, Paraíba, Mato Grosso, Piauí, Paraná, Mato Grosso do Sul, Alagoas, Maranhão, Pará, Pernambuco, Ceará, Distrito Federal, Goiás, Amazonas, Rio de Janeiro e Rio Grande do Sul, Brasil, bairro por bairro, a partir de 282.013 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 53 cidades de Santa Catarina, São Paulo, Tocantins, Rondônia, Espírito Santo, Amapá, Roraima, Sergipe, Rio Grande do Norte, Paraíba, Mato Grosso, Piauí, Paraná, Mato Grosso do Sul, Alagoas, Maranhão, Pará, Pernambuco, Ceará, Distrito Federal, Goiás, Amazonas, Rio de Janeiro e Rio Grande do Sul, Brasil, bairro por bairro, a partir de 282.975 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 ## Cidades (dados por bairro)
 
@@ -37,26 +37,26 @@
 - [Itapoá](https://acorridadosbairros.com.br/itapoa/): mediana apartamentos R$ 9.504/m² (venda)
 - [Boa Vista](https://acorridadosbairros.com.br/rr/boa-vista/): mediana apartamentos R$ 5.462/m² (venda)
 - [Aracaju](https://acorridadosbairros.com.br/se/aracaju/): mediana apartamentos R$ 5.179/m² (venda)
-- [Natal](https://acorridadosbairros.com.br/rn/natal/): mediana apartamentos R$ 6.158/m² (venda)
-- [João Pessoa](https://acorridadosbairros.com.br/pb/joao-pessoa/): mediana apartamentos R$ 9.500/m² (venda)
+- [Natal](https://acorridadosbairros.com.br/rn/natal/): mediana apartamentos R$ 6.204/m² (venda)
+- [João Pessoa](https://acorridadosbairros.com.br/pb/joao-pessoa/): mediana apartamentos R$ 9.893/m² (venda)
 - [Cuiabá](https://acorridadosbairros.com.br/mt/cuiaba/): mediana apartamentos R$ 6.750/m² (venda)
 - [São Paulo](https://acorridadosbairros.com.br/sp/sao-paulo/): mediana apartamentos R$ 9.677/m² (venda)
 - [Balneário Piçarras](https://acorridadosbairros.com.br/balneario-picarras/): mediana apartamentos R$ 12.892/m² (venda)
 - [Barra Velha](https://acorridadosbairros.com.br/barra-velha/): mediana apartamentos R$ 10.000/m² (venda)
 - [Penha](https://acorridadosbairros.com.br/penha/): mediana apartamentos R$ 11.368/m² (venda)
 - [Teresina](https://acorridadosbairros.com.br/pi/teresina/): mediana apartamentos R$ 5.106/m² (venda)
-- [Curitiba](https://acorridadosbairros.com.br/pr/curitiba/): mediana apartamentos R$ 9.735/m² (venda)
-- [Campo Grande](https://acorridadosbairros.com.br/ms/campo-grande/): mediana apartamentos R$ 5.929/m² (venda)
+- [Curitiba](https://acorridadosbairros.com.br/pr/curitiba/): mediana apartamentos R$ 9.728/m² (venda)
+- [Campo Grande](https://acorridadosbairros.com.br/ms/campo-grande/): mediana apartamentos R$ 5.816/m² (venda)
 - [Maceió](https://acorridadosbairros.com.br/al/maceio/): mediana apartamentos R$ 8.953/m² (venda)
 - [São Luís](https://acorridadosbairros.com.br/ma/sao-luis/): mediana apartamentos R$ 7.596/m² (venda)
 - [Belém](https://acorridadosbairros.com.br/pa/belem/): mediana apartamentos R$ 9.706/m² (venda)
 - [Recife](https://acorridadosbairros.com.br/pe/recife/): mediana apartamentos R$ 8.048/m² (venda)
 - [Fortaleza](https://acorridadosbairros.com.br/ce/fortaleza/): mediana apartamentos R$ 7.883/m² (venda)
 - [Brasília](https://acorridadosbairros.com.br/df/brasilia/): mediana apartamentos R$ 11.075/m² (venda)
-- [Goiânia](https://acorridadosbairros.com.br/go/goiania/): mediana apartamentos R$ 8.091/m² (venda)
-- [Manaus](https://acorridadosbairros.com.br/am/manaus/): mediana apartamentos R$ 6.429/m² (venda)
+- [Goiânia](https://acorridadosbairros.com.br/go/goiania/): mediana apartamentos R$ 8.064/m² (venda)
+- [Manaus](https://acorridadosbairros.com.br/am/manaus/): mediana apartamentos R$ 6.449/m² (venda)
 - [Rio de Janeiro](https://acorridadosbairros.com.br/rj/rio-de-janeiro/): mediana apartamentos R$ 5.620/m² (venda)
-- [Porto Alegre](https://acorridadosbairros.com.br/rs/porto-alegre/): mediana apartamentos R$ 6.250/m² (venda)
+- [Porto Alegre](https://acorridadosbairros.com.br/rs/porto-alegre/): mediana apartamentos R$ 6.509/m² (venda)
 
 ## Ferramentas e dados
 
