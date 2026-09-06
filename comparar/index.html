@@ -145,7 +145,7 @@ var _saiu=0;document.addEventListener('visibilitychange',function(){if(document.
 <link rel="manifest" href="https://acorridadosbairros.com.br/manifest.webmanifest">
 <meta name="theme-color" content="#1a1a1a">
 <link rel="canonical" href="https://acorridadosbairros.com.br/comparar/">
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Organization", "name": "A Corrida dos Bairros", "url": "https://acorridadosbairros.com.br/", "logo": "https://acorridadosbairros.com.br/og/jaragua.png", "parentOrganization": {"@type": "Organization", "name": "Minuto Jaraguá", "sameAs": ["https://www.instagram.com/minutojaragua/"]}, "description": "Plataforma aberta com o preço mediano do m² por bairro em 54 cidades de Santa Catarina, São Paulo, Tocantins, Rondônia, Espírito Santo, Amapá, Roraima, Sergipe, Rio Grande do Norte, Paraíba, Mato Grosso, Piauí, Paraná, Mato Grosso do Sul, Alagoas, Maranhão, Pará, Pernambuco, Ceará, Distrito Federal, Goiás, Amazonas, Rio de Janeiro, Rio Grande do Sul e Minas Gerais, atualizada mensalmente a partir de anúncios públicos."}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "A Corrida dos Bairros", "item": "https://acorridadosbairros.com.br/"}, {"@type": "ListItem", "position": 2, "name": "Comparar", "item": "https://acorridadosbairros.com.br/comparar/"}]}</script><style>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Organization", "name": "A Corrida dos Bairros", "url": "https://acorridadosbairros.com.br/", "logo": "https://acorridadosbairros.com.br/og/jaragua.png", "parentOrganization": {"@type": "Organization", "name": "Minuto Jaraguá", "sameAs": ["https://www.instagram.com/minutojaragua/"]}, "description": "Plataforma aberta com o preço mediano do m² por bairro em 54 cidades de Santa Catarina, São Paulo e mais 23 estados, atualizada mensalmente a partir de anúncios públicos."}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "A Corrida dos Bairros", "item": "https://acorridadosbairros.com.br/"}, {"@type": "ListItem", "position": 2, "name": "Comparar", "item": "https://acorridadosbairros.com.br/comparar/"}]}</script><style>
 :root{--amar:#FFD400;--ink:#1a1a1a;--cinza:#666;--fundo:#fafaf7;--card:#fff;--borda:#e8e6e0}
 .cb-av{display:inline-block;width:28px;height:28px;vertical-align:middle;margin-right:6px}.cb-av svg{width:100%;height:100%;display:block}.cb-h1{display:flex;align-items:center;gap:14px}.cb-h1 svg{width:96px;height:96px;flex:none;background:var(--fundo);border-radius:22px;padding:4px;box-sizing:border-box}.cb-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:12px;margin:14px 0}.cb-card{display:flex;flex-direction:column;align-items:center;gap:4px;background:var(--card);border:1px solid var(--borda);border-radius:12px;padding:12px 8px;text-decoration:none;color:inherit;text-align:center}.cb-card svg{width:96px;height:96px}.cb-card b{font-size:.95rem}.cb-card small{color:var(--cinza);font-size:.8rem}@media(max-width:520px){.cb-h1 svg{width:64px;height:64px}.cb-av{width:22px;height:22px;margin-right:4px}.cb-grid{grid-template-columns:repeat(auto-fill,minmax(120px,1fr))}.cb-card svg{width:72px;height:72px}}
 *{margin:0;padding:0;box-sizing:border-box}
@@ -215,6 +215,13 @@ table.serie td,table.serie th{white-space:nowrap}
 .cidades.claro details.mais summary{border-color:#cfccbe;color:#5f5f5f}
 .cidades.claro details.mais[open] summary{border-color:var(--ink);color:var(--ink)}
 .cidades.claro details.mais .lista a{border-color:#cfccbe;color:#5f5f5f}
+.cidades .navsel{display:inline-flex;gap:6px;flex-wrap:wrap;align-items:center}
+.cidades select{background:transparent;border:1px solid #555;color:#bbb;border-radius:99px;padding:6px 12px;font:inherit;font-size:.82rem;font-weight:600;max-width:46vw;cursor:pointer}
+.cidades select:disabled{opacity:.45;cursor:default}
+.cidades select option{color:#111;background:#fff}
+.cidades.claro select{border-color:#cfccbe;color:#5f5f5f}
+.cidades details.mais .lista .ufn{flex-basis:100%;margin-top:6px;font-size:.74rem;color:#9a9a9a;text-transform:uppercase;letter-spacing:.05em}
+.cidades.claro details.mais .lista .ufn{color:#7a7a7a}
 .cidades details.qmc .lista{display:block}
 .cidades details.qmc form{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
 .cidades details.qmc input{flex:1 1 190px;min-width:0;background:transparent;border:1px solid #555;color:inherit;border-radius:99px;padding:7px 14px;font:inherit;font-size:.85rem}
@@ -357,7 +364,7 @@ table{font-size:1rem}td,th{padding:11px 8px}
 .ferr{display:grid;grid-template-columns:1fr 1fr;gap:8px}
 .ferr a{padding:11px 10px;font-size:.86rem;text-align:center;display:flex;align-items:center;justify-content:center;min-height:46px}
 td a{display:inline-block;padding:4px 0}}
-</style></head><body><header><div class="wrap"><div class="marca"><a href="../">A Corrida dos Bairros</a></div><h1 class="tema leve">Comparar o preço do m² entre cidades e bairros de Santa Catarina, São Paulo, Tocantins, Rondônia, Espírito Santo, Amapá, Roraima, Sergipe, Rio Grande do Norte, Paraíba, Mato Grosso, Piauí, Paraná, Mato Grosso do Sul, Alagoas, Maranhão, Pará, Pernambuco, Ceará, Distrito Federal, Goiás, Amazonas, Rio de Janeiro, Rio Grande do Sul e Minas Gerais, lado a lado, na mesma categoria. Adicione quantas colunas quiser</h1></div></header>
+</style></head><body><header><div class="wrap"><div class="marca"><a href="../">A Corrida dos Bairros</a></div><h1 class="tema leve">Comparar o preço do m² entre cidades e bairros de Santa Catarina, São Paulo e mais 23 estados, lado a lado, na mesma categoria. Adicione quantas colunas quiser</h1></div></header>
 <main><div class="wrap">
 <section style="margin-top:22px">
 <div style="display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:14px">
