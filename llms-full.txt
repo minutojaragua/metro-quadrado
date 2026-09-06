@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 54 cidades de Santa Catarina, São Paulo e mais 23 estados, Brasil, bairro por bairro, a partir de 320.787 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 55 cidades de Santa Catarina, São Paulo e mais 24 estados, Brasil, bairro por bairro, a partir de 336.086 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -9081,6 +9081,327 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | União | R$ 8.504 | 22 | – | – | – | – |
 | Vale do Jatobá | – | – | R$ 43,3 | 5 | – | – |
 | Venda Nova | R$ 7.342 | 5 | – | – | – | – |
+
+
+## Salvador (setembro/2026): https://acorridadosbairros.com.br/ba/salvador/
+
+### Apartamentos, cidade toda: venda R$ 7.091/m² (n=8356); aluguel R$ 54,2/m²/mês (n=2598); rendimento bruto do aluguel 9,17% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Acupe | R$ 4.722 | 17 | – | – | – | – |
+| Acupe de Brotas | R$ 5.000 | 79 | – | – | – | – |
+| Águas Claras | R$ 3.039 | 17 | – | – | – | – |
+| Alphaville | R$ 10.980 | 5 | – | – | – | – |
+| Alphaville I | R$ 12.832 | 109 | R$ 71,1 | 68 | 6,65% | – |
+| Alphaville II | R$ 8.673 | 11 | – | – | – | – |
+| Alto do Coqueirinho | R$ 4.318 | 9 | – | – | – | – |
+| Amaralina | R$ 6.667 | 71 | R$ 70,1 | 35 | 12,62% | – |
+| Aquárius | R$ 9.990 | 75 | R$ 60,8 | 13 | 7,30% | – |
+| Areia Branca | R$ 3.228 | 48 | – | – | – | – |
+| Armação | R$ 8.737 | 230 | R$ 59,9 | 132 | 8,23% | – |
+| Arraial do Retiro | R$ 4.167 | 9 | – | – | – | – |
+| Barbalho | R$ 4.474 | 41 | – | – | – | – |
+| Barra | R$ 12.943 | 292 | R$ 78,9 | 155 | 7,31% | – |
+| Barreiras | R$ 2.760 | 6 | R$ 22,2 | 5 | 9,65% | – |
+| Barris | R$ 3.444 | 17 | – | – | – | – |
+| Boa Viagem | R$ 4.333 | 6 | – | – | – | – |
+| Boca da Mata | R$ 4.304 | 17 | – | – | – | – |
+| Boca do Rio | R$ 7.222 | 65 | R$ 41,6 | 22 | 6,91% | – |
+| Bonfim | R$ 3.374 | 38 | R$ 33,2 | 10 | 11,81% | – |
+| Brotas | R$ 5.128 | 139 | R$ 35,0 | 35 | 8,19% | – |
+| Cabula | R$ 6.853 | 77 | R$ 43,8 | 18 | 7,67% | – |
+| Cabula VI | R$ 3.021 | 19 | – | – | – | – |
+| Caixa Dágua | R$ 2.391 | 9 | – | – | – | – |
+| Cajazeiras | R$ 3.000 | 31 | – | – | – | – |
+| Cajazeiras XI | R$ 3.144 | 10 | – | – | – | – |
+| Caminho das Árvores | R$ 10.981 | 282 | R$ 71,7 | 164 | 7,84% | – |
+| Caminho de Areia | R$ 2.927 | 21 | – | – | – | – |
+| Campinas de Brotas | R$ 4.286 | 21 | – | – | – | – |
+| Campinas de Pirajá | R$ 6.486 | 9 | – | – | – | – |
+| Campo Grande | R$ 5.387 | 94 | R$ 46,7 | 6 | 10,40% | – |
+| Canabrava | R$ 2.878 | 50 | R$ 41,2 | 10 | 17,18% | – |
+| Candeal | R$ 7.353 | 147 | R$ 44,8 | 33 | 7,31% | – |
+| Canela | R$ 5.600 | 108 | R$ 42,9 | 21 | 9,19% | – |
+| Cassange | R$ 5.000 | 17 | – | – | – | – |
+| Castelo Branco | R$ 6.667 | 17 | – | – | – | – |
+| Centro | R$ 4.840 | 48 | R$ 31,6 | 16 | 7,84% | – |
+| Centro Administrativo da Bahia | R$ 11.477 | 6 | – | – | – | – |
+| Chame-Chame | R$ 5.321 | 64 | – | – | – | – |
+| Cidade Jardim | R$ 8.491 | 105 | R$ 49,8 | 14 | 7,04% | – |
+| Cidade Nova | R$ 2.538 | 5 | R$ 25,7 | 5 | 12,15% | – |
+| Comércio | R$ 14.546 | 15 | R$ 90,9 | 15 | 7,50% | – |
+| Corredor da Vitória | R$ 15.714 | 27 | – | – | – | – |
+| Cosme de Farias | R$ 4.200 | 13 | – | – | – | – |
+| Costa Azul | R$ 6.050 | 216 | R$ 40,8 | 58 | 8,09% | – |
+| Daniel Lisboa | R$ 4.865 | 31 | – | – | – | – |
+| Dois de Julho | R$ 4.745 | 72 | R$ 73,9 | 24 | 18,69% | – |
+| Dom Avelar | R$ 6.322 | 12 | – | – | – | – |
+| Doron | R$ 6.400 | 14 | – | – | – | – |
+| Engenho Velho da Federação | R$ 9.229 | 22 | – | – | – | – |
+| Engenho Velho de Brotas | R$ 3.375 | 35 | – | – | – | – |
+| Fazenda Grande do Retiro | R$ 4.095 | 10 | – | – | – | – |
+| Fazenda Grande I | R$ 2.609 | 5 | – | – | – | – |
+| Fazenda Grande II | R$ 1.633 | 5 | – | – | – | – |
+| Federação | R$ 7.973 | 113 | R$ 50,2 | 42 | 7,56% | – |
+| Garcia | R$ 5.147 | 82 | R$ 32,9 | 11 | 7,67% | – |
+| Garibaldi | R$ 10.800 | 6 | – | – | – | – |
+| Graça | R$ 7.625 | 279 | R$ 57,1 | 77 | 8,99% | – |
+| Granjas Rurais Presidente Vargas | R$ 4.250 | 17 | – | – | – | – |
+| Horto Bela Vista | R$ 8.278 | 42 | R$ 42,6 | 9 | 6,18% | – |
+| Horto Florestal | R$ 13.113 | 279 | R$ 80,0 | 73 | 7,32% | – |
+| Iapi | R$ 3.000 | 39 | R$ 33,3 | 5 | 13,32% | – |
+| Ilha Amarela | R$ 5.603 | 6 | – | – | – | – |
+| Imbuí | R$ 7.273 | 127 | R$ 55,1 | 63 | 9,09% | – |
+| Itaigara | R$ 8.287 | 142 | R$ 51,1 | 38 | 7,40% | – |
+| Itapuã | R$ 7.241 | 103 | R$ 45,5 | 61 | 7,54% | – |
+| Jaguaribe | R$ 13.816 | 111 | R$ 86,8 | 51 | 7,54% | – |
+| Jardim Apipema | R$ 6.090 | 149 | R$ 45,5 | 17 | 8,97% | – |
+| Jardim Armação | R$ 9.770 | 67 | R$ 69,5 | 30 | 8,54% | – |
+| Jardim Cajazeiras | R$ 6.179 | 9 | – | – | – | – |
+| Jardim das Margaridas | R$ 4.416 | 88 | R$ 30,2 | 50 | 8,21% | – |
+| Jardim de Alah | R$ 6.538 | 5 | – | – | – | – |
+| Jardim Nova Esperança | R$ 3.769 | 18 | – | – | – | – |
+| Jardim Placaford | R$ 5.806 | 24 | – | – | – | – |
+| Jardim Santo Inácio | R$ 2.941 | 13 | – | – | – | – |
+| Le Parc | R$ 15.592 | 16 | – | – | – | – |
+| Liberdade | R$ 2.615 | 15 | – | – | – | – |
+| Luís Anselmo | R$ 5.809 | 27 | R$ 56,3 | 6 | 11,63% | – |
+| Luiz Anselmo | R$ 6.786 | 71 | R$ 58,2 | 11 | 10,29% | – |
+| Machado | R$ 1.886 | 8 | – | – | – | – |
+| Mares | R$ 3.470 | 12 | – | – | – | – |
+| Massaranduba | R$ 2.151 | 19 | – | – | – | – |
+| Mata Escura | R$ 2.945 | 34 | – | – | – | – |
+| Matatu | R$ 4.667 | 55 | R$ 38,8 | 13 | 9,98% | – |
+| Monte Serrat | R$ 3.053 | 14 | – | – | – | – |
+| Morro do Gato | R$ 5.333 | 5 | – | – | – | – |
+| Morro Ipiranga | R$ 14.672 | 5 | – | – | – | – |
+| Mussurunga I | R$ 5.429 | 16 | – | – | – | – |
+| Mussurunga II | R$ 6.853 | 9 | – | – | – | – |
+| Narandiba | R$ 7.368 | 41 | R$ 54,3 | 15 | 8,84% | – |
+| Nazaré | R$ 3.273 | 76 | R$ 23,7 | 22 | 8,69% | – |
+| Nova Brasília | R$ 4.118 | 52 | R$ 32,9 | 14 | 9,59% | – |
+| Novo Horizonte | R$ 5.186 | 18 | – | – | – | – |
+| Novo Marotinho | R$ 4.291 | 6 | – | – | – | – |
+| Ondina | R$ 11.246 | 244 | R$ 64,6 | 82 | 6,89% | – |
+| Paralela | R$ 11.238 | 95 | R$ 67,0 | 37 | 7,15% | – |
+| Paripe | R$ 4.125 | 7 | – | – | – | – |
+| Parque Bela Vista | R$ 6.071 | 87 | R$ 55,4 | 36 | 10,95% | – |
+| Patamares | R$ 11.121 | 163 | R$ 68,2 | 93 | 7,36% | – |
+| Pau da Lima | R$ 2.193 | 10 | – | – | – | – |
+| Pernambués | R$ 4.529 | 80 | R$ 34,2 | 10 | 9,06% | – |
+| Piatã | R$ 8.110 | 133 | R$ 54,0 | 104 | 7,99% | – |
+| Pirajá | R$ 3.375 | 17 | – | – | – | – |
+| Pituaçu | R$ 11.111 | 93 | R$ 69,1 | 25 | 7,46% | – |
+| Pituba | R$ 7.506 | 455 | R$ 47,0 | 219 | 7,51% | – |
+| Plataforma | R$ 3.625 | 5 | – | – | – | – |
+| Politeama | R$ 3.962 | 22 | – | – | – | – |
+| Porto Seco Pirajá | R$ 6.941 | 8 | – | – | – | – |
+| Praia do Flamengo | R$ 9.885 | 59 | R$ 41,7 | 21 | 5,06% | – |
+| Resgate | R$ 5.480 | 29 | – | – | – | – |
+| Ribeira | R$ 2.982 | 44 | R$ 20,4 | 8 | 8,21% | – |
+| Rio Vermelho | R$ 8.435 | 223 | R$ 51,2 | 98 | 7,28% | – |
+| Roma | R$ 3.363 | 14 | R$ 23,1 | 7 | 8,24% | – |
+| Saboeiro | R$ 5.751 | 30 | R$ 46,7 | 15 | 9,74% | – |
+| Santa Cruz | R$ 6.198 | 8 | – | – | – | – |
+| Santa Mônica | R$ 2.232 | 7 | – | – | – | – |
+| Santa Teresa | R$ 7.951 | 73 | R$ 60,7 | 27 | 9,16% | – |
+| Santo Antônio | R$ 3.167 | 5 | – | – | – | – |
+| São Cristóvão | R$ 5.100 | 34 | R$ 24,1 | 6 | 5,67% | – |
+| São Marcos | R$ 3.694 | 54 | R$ 30,8 | 15 | 10,01% | – |
+| São Rafael | R$ 4.805 | 39 | R$ 32,5 | 7 | 8,12% | – |
+| Saúde | R$ 2.721 | 6 | – | – | – | – |
+| Sete de Abril | R$ 3.897 | 13 | – | – | – | – |
+| Stella Maris | R$ 8.706 | 89 | R$ 52,6 | 66 | 7,25% | – |
+| Stiep | R$ 7.312 | 104 | R$ 45,8 | 45 | 7,52% | – |
+| Sussuarana | R$ 4.355 | 49 | – | – | – | – |
+| Tancredo Neves | R$ 3.074 | 12 | – | – | – | – |
+| Tororó | R$ 2.923 | 11 | – | – | – | – |
+| Trobogy | R$ 6.269 | 59 | R$ 34,5 | 9 | 6,60% | – |
+| Uruguai | R$ 1.802 | 20 | – | – | – | – |
+| Vale dos Lagos | R$ 2.500 | 11 | – | – | – | – |
+| Valéria | R$ 4.643 | 7 | – | – | – | – |
+| Vila Canária | R$ 5.632 | 16 | – | – | – | – |
+| Vila Laura | R$ 4.889 | 98 | R$ 47,9 | 7 | 11,76% | – |
+| Vila Rui Barbosa | R$ 1.944 | 22 | – | – | – | – |
+| Vila Ruy Barbosa | R$ 1.964 | 28 | – | – | – | – |
+| Vitória | R$ 16.250 | 111 | R$ 94,7 | 52 | 6,99% | – |
+
+### Casas, cidade toda: venda R$ 3.897/m² (n=1847); aluguel R$ 28,3/m²/mês (n=381); rendimento bruto do aluguel 8,71% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Acupe de Brotas | R$ 3.672 | 8 | – | – | – | – |
+| Águas Claras | R$ 1.358 | 6 | – | – | – | – |
+| Alphaville I | R$ 8.524 | 60 | – | – | – | – |
+| Alphaville II | R$ 9.542 | 65 | – | – | – | – |
+| Alto do Coqueirinho | R$ 1.630 | 6 | – | – | – | – |
+| Amaralina | R$ 3.600 | 11 | – | – | – | – |
+| Armação | R$ 5.000 | 19 | – | – | – | – |
+| Barbalho | R$ 2.333 | 12 | – | – | – | – |
+| Barra | R$ 7.846 | 13 | – | – | – | – |
+| Barris | R$ 3.100 | 17 | – | – | – | – |
+| Boca do Rio | R$ 3.185 | 31 | R$ 15,5 | 7 | 5,84% | – |
+| Bonfim | R$ 3.218 | 20 | – | – | – | – |
+| Brotas | R$ 4.698 | 8 | R$ 26,1 | 12 | 6,67% | – |
+| Cabula | R$ 2.778 | 9 | – | – | – | – |
+| Cabula VI | R$ 1.333 | 5 | – | – | – | – |
+| Caixa Dágua | R$ 2.000 | 10 | – | – | – | – |
+| Cajazeiras | R$ 1.770 | 20 | – | – | – | – |
+| Caminho das Árvores | R$ 6.316 | 31 | R$ 55,4 | 9 | 10,53% | – |
+| Canabrava | R$ 2.000 | 5 | – | – | – | – |
+| Candeal | R$ 5.008 | 21 | – | – | – | – |
+| Canela | R$ 5.420 | 5 | – | – | – | – |
+| Castelo Branco | R$ 1.793 | 40 | – | – | – | – |
+| Centro | R$ 3.900 | 11 | – | – | – | – |
+| Cidade Nova | R$ 1.900 | 9 | – | – | – | – |
+| Cosme de Farias | R$ 2.000 | 5 | – | – | – | – |
+| Costa Azul | R$ 4.651 | 5 | – | – | – | – |
+| Daniel Lisboa | R$ 3.187 | 8 | – | – | – | – |
+| Dois de Julho | R$ 2.600 | 9 | – | – | – | – |
+| Engenho Velho de Brotas | R$ 2.406 | 12 | – | – | – | – |
+| Fazenda Grande do Retiro | R$ 1.894 | 13 | – | – | – | – |
+| Federação | R$ 3.291 | 10 | – | – | – | – |
+| Garcia | R$ 3.714 | 9 | – | – | – | – |
+| Graça | R$ 6.327 | 14 | – | – | – | – |
+| Horto Florestal | R$ 8.105 | 22 | – | – | – | – |
+| Iapi | R$ 2.406 | 16 | – | – | – | – |
+| Itaigara | R$ 5.487 | 46 | – | – | – | – |
+| Itapuã | R$ 4.056 | 108 | R$ 23,5 | 43 | 6,95% | – |
+| Jaguaribe | R$ 6.333 | 33 | R$ 26,9 | 5 | 5,10% | – |
+| Jardim Apipema | R$ 7.426 | 6 | – | – | – | – |
+| Jardim das Margaridas | R$ 2.123 | 15 | – | – | – | – |
+| Jardim Nova Esperança | R$ 3.354 | 5 | – | – | – | – |
+| Jardim Placaford | R$ 3.832 | 36 | – | – | – | – |
+| Liberdade | R$ 1.986 | 18 | – | – | – | – |
+| Luiz Anselmo | R$ 3.351 | 6 | – | – | – | – |
+| Massaranduba | R$ 2.046 | 13 | – | – | – | – |
+| Matatu | R$ 2.797 | 31 | – | – | – | – |
+| Monte Serrat | R$ 2.907 | 12 | – | – | – | – |
+| Mussurunga | R$ 2.347 | 7 | – | – | – | – |
+| Mussurunga I | R$ 2.307 | 18 | – | – | – | – |
+| Nazaré | R$ 2.991 | 19 | – | – | – | – |
+| Nova Brasília | R$ 3.258 | 5 | – | – | – | – |
+| Nova Brasília de Itapuã | R$ 2.312 | 9 | – | – | – | – |
+| Ondina | R$ 6.575 | 6 | – | – | – | – |
+| Paripe | R$ 2.424 | 20 | – | – | – | – |
+| Patamares | R$ 7.000 | 47 | R$ 44,4 | 5 | 7,61% | – |
+| Pau Miúdo | R$ 1.491 | 11 | – | – | – | – |
+| Periperi | R$ 1.972 | 12 | – | – | – | – |
+| Pernambués | R$ 1.982 | 28 | – | – | – | – |
+| Pero Vaz | R$ 1.597 | 8 | – | – | – | – |
+| Piatã | R$ 5.520 | 98 | R$ 33,6 | 26 | 7,30% | – |
+| Pirajá | R$ 1.677 | 9 | – | – | – | – |
+| Pituaçu | R$ 4.889 | 30 | R$ 31,7 | 10 | 7,78% | – |
+| Pituba | R$ 5.589 | 44 | R$ 36,6 | 21 | 7,86% | – |
+| Plataforma | R$ 2.198 | 7 | – | – | – | – |
+| Praia do Flamengo | R$ 5.700 | 73 | R$ 26,7 | 37 | 5,62% | – |
+| Praia Grande | R$ 2.174 | 8 | – | – | – | – |
+| Ribeira | R$ 2.657 | 21 | – | – | – | – |
+| Rio Vermelho | R$ 6.111 | 27 | R$ 36,3 | 10 | 7,13% | – |
+| Roma | R$ 2.250 | 11 | – | – | – | – |
+| Saboeiro | R$ 2.188 | 5 | – | – | – | – |
+| Santo Antônio | R$ 4.279 | 23 | – | – | – | – |
+| São Caetano | R$ 1.714 | 11 | – | – | – | – |
+| São Cristóvão | R$ 2.059 | 17 | R$ 17,6 | 8 | 10,26% | – |
+| São Marcos | R$ 1.562 | 9 | – | – | – | – |
+| Saúde | R$ 2.440 | 8 | – | – | – | – |
+| Stella Maris | R$ 5.267 | 134 | R$ 30,9 | 66 | 7,04% | – |
+| Stiep | R$ 4.229 | 9 | – | – | – | – |
+| Uruguai | R$ 1.850 | 9 | – | – | – | – |
+| Vila Laura | R$ 3.594 | 17 | – | – | – | – |
+| Vila Ruy Barbosa | R$ 1.986 | 7 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 1.756/m² (n=512)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Águas Claras | R$ 903 | 10 | – | – | – | – |
+| Alphaville I | R$ 2.489 | 41 | – | – | – | – |
+| Alphaville II | R$ 2.613 | 53 | – | – | – | – |
+| Amaralina | R$ 2.532 | 5 | – | – | – | – |
+| Armação | R$ 1.896 | 8 | – | – | – | – |
+| Barra | R$ 9.862 | 7 | – | – | – | – |
+| Boca do Rio | R$ 1.934 | 11 | – | – | – | – |
+| Brotas | R$ 2.854 | 8 | – | – | – | – |
+| Cabula | R$ 1.800 | 5 | – | – | – | – |
+| Caminho das Árvores | R$ 5.342 | 5 | – | – | – | – |
+| Cassange | R$ 204 | 20 | – | – | – | – |
+| Centro | R$ 2.203 | 5 | – | – | – | – |
+| Federação | R$ 2.769 | 11 | – | – | – | – |
+| Itaigara | R$ 2.344 | 5 | – | – | – | – |
+| Itapuã | R$ 1.429 | 17 | – | – | – | – |
+| Jardim das Margaridas | R$ 500 | 7 | – | – | – | – |
+| Jardim Placaford | R$ 764 | 7 | – | – | – | – |
+| Matatu | R$ 2.133 | 7 | – | – | – | – |
+| Mussurunga I | R$ 482 | 5 | – | – | – | – |
+| Parque Bela Vista | R$ 2.000 | 8 | – | – | – | – |
+| Patamares | R$ 1.871 | 12 | – | – | – | – |
+| Pernambués | R$ 618 | 8 | – | – | – | – |
+| Piatã | R$ 3.039 | 6 | – | – | – | – |
+| Pirajá | R$ 928 | 5 | – | – | – | – |
+| Pituaçu | R$ 2.531 | 15 | – | – | – | – |
+| Pituba | R$ 5.000 | 11 | – | – | – | – |
+| Praia do Flamengo | R$ 1.111 | 13 | – | – | – | – |
+| Ribeira | R$ 704 | 5 | – | – | – | – |
+| Rio Vermelho | R$ 3.486 | 8 | – | – | – | – |
+| São Cristóvão | R$ 563 | 11 | – | – | – | – |
+| Stella Maris | R$ 1.079 | 10 | – | – | – | – |
+| Trobogy | R$ 498 | 6 | – | – | – | – |
+| Valéria | R$ 600 | 13 | – | – | – | – |
+| Vila Laura | R$ 2.110 | 6 | – | – | – | – |
+
+### Salas comerciais, cidade toda: venda R$ 5.291/m² (n=534); aluguel R$ 53,8/m²/mês (n=848); rendimento bruto do aluguel 12,20% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Acupe de Brotas | R$ 7.143 | 9 | R$ 48,5 | 13 | 8,15% | – |
+| Amaralina | – | – | R$ 40,0 | 8 | – | – |
+| Barra | R$ 5.135 | 15 | R$ 74,5 | 20 | 17,41% | – |
+| Barris | – | – | R$ 62,5 | 5 | – | – |
+| Boca do Rio | – | – | R$ 50,0 | 14 | – | – |
+| Brotas | R$ 4.024 | 22 | R$ 56,8 | 24 | 16,94% | – |
+| Cajazeiras | – | – | R$ 39,6 | 6 | – | – |
+| Calçada | – | – | R$ 59,7 | 14 | – | – |
+| Caminho das Árvores | R$ 8.140 | 59 | R$ 83,1 | 74 | 12,25% | – |
+| Caminho de Areia | – | – | R$ 50,0 | 7 | – | – |
+| Candeal | R$ 6.410 | 5 | R$ 72,2 | 7 | 13,52% | – |
+| Canela | R$ 4.716 | 14 | – | – | – | – |
+| Centro | R$ 2.107 | 12 | R$ 43,3 | 15 | 24,66% | – |
+| Cidadela | R$ 3.704 | 7 | – | – | – | – |
+| Comércio | R$ 2.355 | 30 | R$ 29,9 | 52 | 15,24% | – |
+| Costa Azul | – | – | R$ 116,7 | 9 | – | – |
+| Dois de Julho | R$ 2.781 | 12 | R$ 48,4 | 12 | 20,88% | – |
+| Federação | R$ 6.378 | 20 | R$ 51,8 | 27 | 9,75% | – |
+| Garcia | – | – | R$ 31,3 | 10 | – | – |
+| Garibaldi | R$ 18.056 | 5 | R$ 73,0 | 5 | 4,85% | – |
+| Graça | R$ 5.649 | 14 | R$ 74,7 | 10 | 15,87% | – |
+| Horto Florestal | R$ 16.758 | 13 | R$ 76,5 | 16 | 5,48% | – |
+| Imbuí | R$ 4.833 | 6 | R$ 58,9 | 6 | 14,62% | – |
+| Itaigara | R$ 6.293 | 16 | R$ 52,0 | 24 | 9,92% | – |
+| Itapuã | – | – | R$ 75,0 | 41 | – | – |
+| Liberdade | – | – | R$ 18,4 | 9 | – | – |
+| Mares | – | – | R$ 32,2 | 12 | – | – |
+| Massaranduba | – | – | R$ 21,7 | 5 | – | – |
+| Matatu | – | – | R$ 45,0 | 6 | – | – |
+| Nazaré | R$ 2.872 | 5 | R$ 57,5 | 16 | 24,02% | – |
+| Ondina | R$ 7.121 | 9 | R$ 68,8 | 12 | 11,59% | – |
+| Paralela | R$ 10.460 | 14 | R$ 100,0 | 6 | 11,47% | – |
+| Paripe | – | – | R$ 42,7 | 8 | – | – |
+| Parque Bela Vista | R$ 4.551 | 28 | R$ 57,7 | 19 | 15,21% | – |
+| Pau da Lima | – | – | R$ 40,0 | 5 | – | – |
+| Pernambués | – | – | R$ 34,5 | 6 | – | – |
+| Pituaçu | – | – | R$ 62,7 | 8 | – | – |
+| Pituba | R$ 6.000 | 35 | R$ 69,0 | 67 | 13,80% | – |
+| Rio Vermelho | R$ 5.592 | 12 | R$ 56,7 | 42 | 12,17% | – |
+| Roma | – | – | R$ 40,2 | 10 | – | – |
+| São Caetano | – | – | R$ 40,5 | 8 | – | – |
+| São Cristóvão | R$ 7.241 | 21 | R$ 64,8 | 16 | 10,74% | – |
+| São Marcos | R$ 5.917 | 6 | R$ 100,0 | 9 | 20,28% | – |
+| Stella Maris | – | – | R$ 68,3 | 8 | – | – |
+| Stiep | R$ 7.381 | 7 | R$ 51,2 | 13 | 8,32% | – |
+| Uruguai | – | – | R$ 32,8 | 8 | – | – |
+| Vila Ruy Barbosa | R$ 5.625 | 9 | R$ 46,4 | 5 | 9,90% | – |
 
 
 Metodologia: https://acorridadosbairros.com.br/metodologia/ · Dados abertos CC BY 4.0: https://acorridadosbairros.com.br/dados.csv · Imprensa: https://acorridadosbairros.com.br/imprensa/

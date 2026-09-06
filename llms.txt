@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 54 cidades de Santa Catarina, São Paulo e mais 23 estados, Brasil, bairro por bairro, a partir de 320.787 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 55 cidades de Santa Catarina, São Paulo e mais 24 estados, Brasil, bairro por bairro, a partir de 336.086 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 ## Cidades (dados por bairro)
 
@@ -58,6 +58,7 @@
 - [Rio de Janeiro](https://acorridadosbairros.com.br/rj/rio-de-janeiro/): mediana apartamentos R$ 5.617/m² (venda)
 - [Porto Alegre](https://acorridadosbairros.com.br/rs/porto-alegre/): mediana apartamentos R$ 6.442/m² (venda)
 - [Belo Horizonte](https://acorridadosbairros.com.br/mg/belo-horizonte/): mediana apartamentos R$ 7.647/m² (venda)
+- [Salvador](https://acorridadosbairros.com.br/ba/salvador/): mediana apartamentos R$ 7.091/m² (venda)
 
 ## Ferramentas e dados
 
