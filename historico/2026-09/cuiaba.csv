@@ -1,6 +1,6 @@
 cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
 Cuiabá,Alphaville II,casa,venda,11625.3,10448.1,12552.7,6,,setembro/2026
-Cuiabá,Altos do Coxipó,casa,venda,3409.1,2701.1,3675.0,11,,setembro/2026
+Cuiabá,Altos do Coxipó,casa,venda,3200.6,2544.8,3623.2,12,,setembro/2026
 Cuiabá,Alvorada,casa,venda,4170.2,3004.4,5336.5,6,,setembro/2026
 Cuiabá,Araés,casa,venda,2722.2,2329.4,3486.1,10,,setembro/2026
 Cuiabá,Areão,casa,venda,2000.0,1879.5,4696.3,7,,setembro/2026
@@ -137,8 +137,8 @@ Cuiabá,Jardim das Palmeiras,apartamento,aluguel,45.0,42.2,51.7,11,9.36,setembro
 Cuiabá,Jardim Eldorado,apartamento,venda,7194.2,6871.9,7916.0,6,,setembro/2026
 Cuiabá,Jardim Florianópolis,apartamento,venda,7667.4,6744.2,9686.6,12,,setembro/2026
 Cuiabá,Jardim Guanabara,apartamento,aluguel,33.1,29.7,37.7,6,,setembro/2026
-Cuiabá,Jardim Imperial,apartamento,venda,5375.0,4591.4,6023.3,19,10.63,setembro/2026
-Cuiabá,Jardim Imperial,apartamento,aluguel,47.6,37.8,62.5,5,10.63,setembro/2026
+Cuiabá,Jardim Imperial,apartamento,venda,5465.3,4658.2,6097.4,20,10.45,setembro/2026
+Cuiabá,Jardim Imperial,apartamento,aluguel,47.6,37.8,62.5,5,10.45,setembro/2026
 Cuiabá,Jardim Kennedy,apartamento,venda,8696.8,7077.9,10741.2,8,,setembro/2026
 Cuiabá,Jardim Leblon,apartamento,venda,10792.6,8815.7,11813.1,18,6.24,setembro/2026
 Cuiabá,Jardim Leblon,apartamento,aluguel,56.1,50.8,59.1,11,6.24,setembro/2026
