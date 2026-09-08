@@ -27,9 +27,8 @@ Porto Alegre,Campo Novo,casa,aluguel,24.5,20.1,28.4,22,6.12,setembro/2026
 Porto Alegre,Cascata,casa,venda,2545.5,1738.5,3454.5,33,,setembro/2026
 Porto Alegre,Cavalhada,casa,venda,3866.0,2929.1,4916.8,103,7.45,setembro/2026
 Porto Alegre,Cavalhada,casa,aluguel,24.0,19.7,40.0,17,7.45,setembro/2026
-Porto Alegre,Centro,casa,venda,4348.7,3964.5,5605.7,8,,setembro/2026
-Porto Alegre,Centro Histórico,casa,venda,5260.9,3972.7,6275.0,18,8.94,setembro/2026
-Porto Alegre,Centro Histórico,casa,aluguel,39.2,21.5,49.2,10,8.94,setembro/2026
+Porto Alegre,Centro Histórico,casa,venda,4806.3,3943.2,6275.0,26,9.01,setembro/2026
+Porto Alegre,Centro Histórico,casa,aluguel,36.1,26.1,47.5,12,9.01,setembro/2026
 Porto Alegre,Chácara das Pedras,casa,venda,6000.0,4722.0,7729.3,95,8.84,setembro/2026
 Porto Alegre,Chácara das Pedras,casa,aluguel,44.2,30.4,59.3,22,8.84,setembro/2026
 Porto Alegre,Chapéu do Sol,casa,venda,6409.1,2825.5,7758.4,7,,setembro/2026
@@ -192,10 +191,8 @@ Porto Alegre,Cavalhada,apartamento,venda,4667.7,3803.9,5579.5,116,7.51,setembro/
 Porto Alegre,Cavalhada,apartamento,aluguel,29.2,22.7,34.6,45,7.51,setembro/2026
 Porto Alegre,Central Parque,apartamento,venda,10734.0,9308.7,13269.4,54,6.34,setembro/2026
 Porto Alegre,Central Parque,apartamento,aluguel,56.7,43.7,71.4,30,6.34,setembro/2026
-Porto Alegre,Centro,apartamento,venda,5157.4,4178.6,6810.0,113,8.8,setembro/2026
-Porto Alegre,Centro,apartamento,aluguel,37.8,27.7,50.6,38,8.8,setembro/2026
-Porto Alegre,Centro Histórico,apartamento,venda,5000.0,3948.7,6727.3,345,8.54,setembro/2026
-Porto Alegre,Centro Histórico,apartamento,aluguel,35.6,27.3,46.3,80,8.54,setembro/2026
+Porto Alegre,Centro Histórico,apartamento,venda,5079.4,3945.5,6772.1,406,8.6,setembro/2026
+Porto Alegre,Centro Histórico,apartamento,aluguel,36.4,27.6,48.5,111,8.6,setembro/2026
 Porto Alegre,Chácara das Pedras,apartamento,venda,8000.0,5611.7,12414.4,91,6.57,setembro/2026
 Porto Alegre,Chácara das Pedras,apartamento,aluguel,43.8,35.7,60.0,33,6.57,setembro/2026
 Porto Alegre,Chapéu do Sol,apartamento,venda,2500.0,2144.6,2961.2,23,8.02,setembro/2026
@@ -351,7 +348,7 @@ Porto Alegre,Camaquã,terreno,venda,1084.6,955.6,1344.5,22,,setembro/2026
 Porto Alegre,Campo Novo,terreno,venda,531.0,297.4,705.0,7,,setembro/2026
 Porto Alegre,Cascata,terreno,venda,425.0,218.9,594.7,7,,setembro/2026
 Porto Alegre,Cavalhada,terreno,venda,1075.3,700.0,2050.5,37,,setembro/2026
-Porto Alegre,Centro Histórico,terreno,venda,5544.0,3749.0,5781.5,8,,setembro/2026
+Porto Alegre,Centro Histórico,terreno,venda,5373.7,3245.0,5769.2,9,,setembro/2026
 Porto Alegre,Chácara das Pedras,terreno,venda,2008.7,1601.4,2281.0,10,,setembro/2026
 Porto Alegre,Costa e Silva,terreno,venda,766.7,700.0,853.4,9,,setembro/2026
 Porto Alegre,Cristal,terreno,venda,1136.4,750.0,1462.5,25,,setembro/2026
@@ -419,10 +416,8 @@ Porto Alegre,Bom Fim,sala,aluguel,23.1,18.8,30.5,16,5.15,setembro/2026
 Porto Alegre,Camaquã,sala,aluguel,73.2,27.0,82.3,8,,setembro/2026
 Porto Alegre,Cavalhada,sala,aluguel,35.6,27.4,48.9,23,,setembro/2026
 Porto Alegre,Central Parque,sala,aluguel,47.9,45.8,50.4,8,,setembro/2026
-Porto Alegre,Centro,sala,venda,3089.1,2225.7,3769.5,39,7.46,setembro/2026
-Porto Alegre,Centro,sala,aluguel,19.2,14.2,25.0,57,7.46,setembro/2026
-Porto Alegre,Centro Histórico,sala,venda,2951.8,2202.5,4130.8,180,8.25,setembro/2026
-Porto Alegre,Centro Histórico,sala,aluguel,20.3,15.0,31.9,124,8.25,setembro/2026
+Porto Alegre,Centro Histórico,sala,venda,2934.8,2154.1,4199.7,203,8.22,setembro/2026
+Porto Alegre,Centro Histórico,sala,aluguel,20.1,14.7,29.1,174,8.22,setembro/2026
 Porto Alegre,Chácara das Pedras,sala,venda,16292.9,14017.2,22225.8,9,5.34,setembro/2026
 Porto Alegre,Chácara das Pedras,sala,aluguel,72.5,55.2,88.8,8,5.34,setembro/2026
 Porto Alegre,Cidade Baixa,sala,venda,6470.6,4666.7,8999.7,29,5.67,setembro/2026

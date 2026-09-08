@@ -89,10 +89,6 @@ Palmas,Loteamento Caribe,casa,venda,9726.6,7481.9,10806.6,35,,setembro/2026
 Palmas,Loteamento Lago Sul (Taquaralto),casa,venda,3428.4,2970.5,3778.5,7,,setembro/2026
 Palmas,Loteamento Residencial Polinésia,casa,venda,9006.8,8071.0,10091.6,14,,setembro/2026
 Palmas,Morada do Sol,casa,venda,3601.6,3420.1,3716.4,12,,setembro/2026
-Palmas,Plano Diretor Norte (quadra não informada),casa,venda,4831.4,3715.3,6575.4,86,8.27,setembro/2026
-Palmas,Plano Diretor Norte (quadra não informada),casa,aluguel,33.3,32.0,34.5,5,8.27,setembro/2026
-Palmas,Plano Diretor Sul (quadra não informada),casa,venda,5636.3,4229.4,7386.4,453,6.13,setembro/2026
-Palmas,Plano Diretor Sul (quadra não informada),casa,aluguel,28.8,25.0,36.1,13,6.13,setembro/2026
 Palmas,Residencial Mirante do Lago,casa,venda,11761.6,10919.0,12854.2,12,,setembro/2026
 Palmas,Setor Santa Fé 2 (Taquaralto),casa,venda,3557.4,3326.0,3919.8,16,,setembro/2026
 Palmas,105 Norte,apartamento,venda,8800.0,8026.3,10416.7,25,7.31,setembro/2026
@@ -148,10 +144,6 @@ Palmas,902 Sul,apartamento,venda,5801.1,5140.8,7381.5,6,,setembro/2026
 Palmas,Graciosa - Orla 14,apartamento,venda,12621.4,10542.5,14972.5,184,5.9,setembro/2026
 Palmas,Graciosa - Orla 14,apartamento,aluguel,62.1,52.2,79.9,50,5.9,setembro/2026
 Palmas,Loteamento Lago Sul (Taquaralto),apartamento,venda,2857.1,2386.4,3250.0,9,,setembro/2026
-Palmas,Plano Diretor Norte (quadra não informada),apartamento,venda,6730.8,5160.0,8929.4,59,8.61,setembro/2026
-Palmas,Plano Diretor Norte (quadra não informada),apartamento,aluguel,48.3,44.5,60.8,19,8.61,setembro/2026
-Palmas,Plano Diretor Sul (quadra não informada),apartamento,venda,8853.8,7550.2,11443.1,140,5.88,setembro/2026
-Palmas,Plano Diretor Sul (quadra não informada),apartamento,aluguel,43.4,37.0,54.0,38,5.88,setembro/2026
 Palmas,109 Sul,terreno,venda,2077.6,2038.6,2102.9,5,,setembro/2026
 Palmas,1503 Sul,terreno,venda,777.8,699.7,819.7,7,,setembro/2026
 Palmas,1506 Sul,terreno,venda,540.0,434.7,654.5,6,,setembro/2026
@@ -166,8 +158,6 @@ Palmas,Jardim Paulista (Taquaralto),terreno,venda,340.3,313.4,358.5,11,,setembro
 Palmas,Loteamento Caribe,terreno,venda,888.9,760.9,985.2,13,,setembro/2026
 Palmas,Loteamento Residencial Polinésia,terreno,venda,630.5,602.1,663.9,7,,setembro/2026
 Palmas,Morada do Sol,terreno,venda,220.0,138.4,260.8,7,,setembro/2026
-Palmas,Plano Diretor Norte (quadra não informada),terreno,venda,780.8,195.0,1000.0,21,,setembro/2026
-Palmas,Plano Diretor Sul (quadra não informada),terreno,venda,1000.0,795.3,1460.4,68,,setembro/2026
 Palmas,103 Norte,sala,aluguel,70.0,37.5,83.3,9,,setembro/2026
 Palmas,104 Norte,sala,aluguel,41.7,36.9,61.0,11,,setembro/2026
 Palmas,104 Sul,sala,aluguel,50.0,32.6,62.0,16,,setembro/2026
@@ -175,15 +165,9 @@ Palmas,106 Norte,sala,venda,11250.0,8181.8,12800.3,6,,setembro/2026
 Palmas,201 Sul,sala,venda,11451.5,10094.8,14324.3,9,,setembro/2026
 Palmas,304 Norte,sala,aluguel,52.8,45.0,54.1,5,,setembro/2026
 Palmas,Graciosa - Orla 14,sala,venda,16883.5,14192.1,18174.4,7,,setembro/2026
-Palmas,Plano Diretor Norte (quadra não informada),sala,aluguel,58.7,40.5,71.1,10,,setembro/2026
-Palmas,Plano Diretor Sul (quadra não informada),sala,venda,10370.4,8536.6,11785.7,21,5.76,setembro/2026
-Palmas,Plano Diretor Sul (quadra não informada),sala,aluguel,49.8,35.7,59.4,24,5.76,setembro/2026
 Palmas,112 Sul,galpao,aluguel,16.0,14.0,17.0,5,,setembro/2026
 Palmas,812 Sul,galpao,aluguel,22.9,19.7,23.8,6,,setembro/2026
 Palmas,903 Sul,galpao,venda,2750.0,2594.5,3246.3,7,7.94,setembro/2026
 Palmas,903 Sul,galpao,aluguel,18.2,17.1,20.5,12,7.94,setembro/2026
 Palmas,912 Sul,galpao,venda,3364.4,2954.5,3750.0,7,5.1,setembro/2026
 Palmas,912 Sul,galpao,aluguel,14.3,11.2,18.3,5,5.1,setembro/2026
-Palmas,Plano Diretor Norte (quadra não informada),galpao,aluguel,19.4,17.9,22.0,5,,setembro/2026
-Palmas,Plano Diretor Sul (quadra não informada),galpao,venda,2857.1,2168.0,3499.0,15,8.9,setembro/2026
-Palmas,Plano Diretor Sul (quadra não informada),galpao,aluguel,21.2,15.0,25.0,33,8.9,setembro/2026

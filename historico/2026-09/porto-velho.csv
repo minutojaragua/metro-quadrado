@@ -38,10 +38,10 @@ Porto Velho,Lagoinha,casa,venda,2250.0,1605.6,2638.9,19,,setembro/2026
 Porto Velho,Liberdade,casa,venda,3166.1,2465.3,4610.3,16,,setembro/2026
 Porto Velho,Mariana,casa,venda,1600.0,1509.8,3078.0,6,,setembro/2026
 Porto Velho,Nossa Senhora das Graças,casa,venda,3057.7,2633.3,3832.8,21,,setembro/2026
-Porto Velho,Nova,casa,venda,3045.7,2000.0,5217.4,37,,setembro/2026
 Porto Velho,Nova Esperança,casa,venda,4387.8,3067.1,5706.5,157,7.03,setembro/2026
 Porto Velho,Nova Esperança,casa,aluguel,25.7,18.3,29.7,9,7.03,setembro/2026
 Porto Velho,Nova Floresta,casa,venda,2525.3,2029.4,3527.0,19,,setembro/2026
+Porto Velho,Nova Porto Velho,casa,venda,2590.5,2000.0,5028.1,35,,setembro/2026
 Porto Velho,Novo Horizonte,casa,venda,3363.6,2350.0,5571.4,41,,setembro/2026
 Porto Velho,Olaria,casa,venda,2692.3,2105.3,3360.0,17,,setembro/2026
 Porto Velho,Panair,casa,venda,3205.1,2000.0,5591.6,16,,setembro/2026
@@ -80,9 +80,9 @@ Porto Velho,Lagoinha,apartamento,venda,5151.5,3887.8,5455.8,10,,setembro/2026
 Porto Velho,Liberdade,apartamento,venda,5242.9,4288.2,5767.8,14,,setembro/2026
 Porto Velho,Nossa Senhora das Graças,apartamento,venda,6666.7,5038.5,8578.4,15,7.43,setembro/2026
 Porto Velho,Nossa Senhora das Graças,apartamento,aluguel,41.3,36.8,43.9,6,7.43,setembro/2026
-Porto Velho,Nova,apartamento,venda,6216.2,5254.7,7656.8,19,,setembro/2026
 Porto Velho,Nova Esperança,apartamento,venda,5156.2,4816.7,6165.1,19,8.7,setembro/2026
 Porto Velho,Nova Esperança,apartamento,aluguel,37.4,35.0,40.2,6,8.7,setembro/2026
+Porto Velho,Nova Porto Velho,apartamento,venda,6216.2,5254.7,7656.8,19,,setembro/2026
 Porto Velho,Olaria,apartamento,venda,6727.3,5020.8,8798.6,60,6.15,setembro/2026
 Porto Velho,Olaria,apartamento,aluguel,34.5,27.9,43.6,17,6.15,setembro/2026
 Porto Velho,Pedrinhas,apartamento,venda,5248.8,4324.1,6990.0,28,8.64,setembro/2026
@@ -119,8 +119,8 @@ Porto Velho,Lagoa,terreno,venda,500.0,370.8,1000.0,16,,setembro/2026
 Porto Velho,Lagoinha,terreno,venda,510.5,271.6,553.4,11,,setembro/2026
 Porto Velho,Liberdade,terreno,venda,942.5,788.8,960.0,5,,setembro/2026
 Porto Velho,Nossa Senhora das Graças,terreno,venda,1250.0,1189.4,2045.5,7,,setembro/2026
-Porto Velho,Nova,terreno,venda,840.0,710.7,1096.8,7,,setembro/2026
 Porto Velho,Nova Esperança,terreno,venda,365.9,202.8,720.3,24,,setembro/2026
+Porto Velho,Nova Porto Velho,terreno,venda,948.6,770.0,1116.6,6,,setembro/2026
 Porto Velho,Novo Horizonte,terreno,venda,170.0,120.0,361.3,5,,setembro/2026
 Porto Velho,Olaria,terreno,venda,1483.3,1164.9,1668.8,16,,setembro/2026
 Porto Velho,Panair,terreno,venda,574.7,525.0,1116.9,5,,setembro/2026
@@ -143,5 +143,5 @@ Porto Velho,São Cristóvão,sala,aluguel,51.5,40.0,63.5,11,8.18,setembro/2026
 Porto Velho,São João Bosco,sala,aluguel,66.7,44.4,73.3,5,,setembro/2026
 Porto Velho,Centro,galpao,aluguel,15.2,11.9,22.5,12,,setembro/2026
 Porto Velho,Eldorado,galpao,aluguel,14.0,13.3,14.2,5,,setembro/2026
-Porto Velho,Nova,galpao,aluguel,22.2,20.5,24.5,7,,setembro/2026
+Porto Velho,Nova Porto Velho,galpao,aluguel,22.5,20.2,24.8,6,,setembro/2026
 Porto Velho,São Cristóvão,galpao,aluguel,18.9,9.7,23.8,5,,setembro/2026
