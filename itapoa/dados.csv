@@ -2,17 +2,16 @@ cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
 Itapoá,Balneario Cambiju,casa,venda,6301.4,5405.9,6897.8,15,,setembro/2026
 Itapoá,Balneario Santa Clara,casa,venda,4902.0,2388.9,7580.0,5,,setembro/2026
 Itapoá,Bamerindus,casa,venda,4892.1,4159.6,6395.7,19,,setembro/2026
-Itapoá,Barra do Sai,casa,venda,5704.8,4612.3,7040.3,184,7.0,setembro/2026
-Itapoá,Barra do Sai,casa,aluguel,33.3,29.2,34.1,7,7.0,setembro/2026
+Itapoá,Barra do Sai,casa,venda,5704.8,4612.3,7040.3,184,7.05,setembro/2026
+Itapoá,Barra do Sai,casa,aluguel,33.5,32.1,34.3,6,7.05,setembro/2026
 Itapoá,Brandalize,casa,venda,4276.3,3048.2,5843.4,19,,setembro/2026
-Itapoá,Brasília,casa,venda,5557.7,3888.9,6800.0,29,,setembro/2026
+Itapoá,Brasilia,casa,venda,5557.7,3888.9,6800.0,29,,setembro/2026
 Itapoá,Cambiju,casa,venda,5134.6,4145.0,6374.2,54,,setembro/2026
-Itapoá,Centro,casa,venda,5895.7,5085.2,6529.5,48,4.09,setembro/2026
-Itapoá,Centro,casa,aluguel,20.1,16.6,24.3,5,4.09,setembro/2026
+Itapoá,Centro,casa,venda,5895.7,5085.2,6529.5,48,,setembro/2026
 Itapoá,Continental,casa,venda,5845.1,4433.7,7116.4,46,,setembro/2026
 Itapoá,Imperador,casa,venda,2708.3,2510.2,3439.5,5,,setembro/2026
-Itapoá,Itapema do Norte,casa,venda,5902.4,4315.2,6871.0,99,4.86,setembro/2026
-Itapoá,Itapema do Norte,casa,aluguel,23.9,10.9,30.9,10,4.86,setembro/2026
+Itapoá,Itapema do Norte,casa,venda,5902.4,4315.2,6871.0,99,5.39,setembro/2026
+Itapoá,Itapema do Norte,casa,aluguel,26.5,23.9,34.0,7,5.39,setembro/2026
 Itapoá,Itapema do Sai,casa,venda,4103.3,3152.8,5980.4,11,,setembro/2026
 Itapoá,Jardim da Barra,casa,venda,4773.5,3358.4,6066.5,14,,setembro/2026
 Itapoá,Jardim Perola do Atlântico,casa,venda,4613.3,3950.0,6080.0,15,,setembro/2026
@@ -38,8 +37,8 @@ Itapoá,Cambiju,apartamento,venda,7313.3,5007.8,9010.7,14,,setembro/2026
 Itapoá,Centro,apartamento,venda,9550.3,6688.4,10900.0,49,3.73,setembro/2026
 Itapoá,Centro,apartamento,aluguel,29.7,28.0,30.9,6,3.73,setembro/2026
 Itapoá,Continental,apartamento,venda,8613.6,7503.3,12934.3,25,,setembro/2026
-Itapoá,Itapema do Norte,apartamento,venda,9746.8,7100.0,12550.0,137,3.47,setembro/2026
-Itapoá,Itapema do Norte,apartamento,aluguel,28.2,25.9,33.8,12,3.47,setembro/2026
+Itapoá,Itapema do Norte,apartamento,venda,9746.8,7100.0,12550.0,137,3.66,setembro/2026
+Itapoá,Itapema do Norte,apartamento,aluguel,29.7,26.3,33.9,11,3.66,setembro/2026
 Itapoá,Jardim Perola do Atlântico,apartamento,venda,9076.6,6833.2,14507.8,25,,setembro/2026
 Itapoá,Maresia,apartamento,venda,9161.1,8212.0,11207.4,12,,setembro/2026
 Itapoá,Mariluz,apartamento,venda,8829.9,7996.6,10258.9,7,,setembro/2026
