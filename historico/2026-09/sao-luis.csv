@@ -2,7 +2,7 @@ cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
 São Luís,Alto do Calhau,apartamento,venda,8697.6,7421.1,11827.0,8,,setembro/2026
 São Luís,Angelim,apartamento,venda,5818.2,4059.4,6597.0,11,8.25,setembro/2026
 São Luís,Angelim,apartamento,aluguel,40.0,35.1,41.1,5,8.25,setembro/2026
-São Luís,Araçagi,apartamento,venda,9827.8,6400.0,16157.8,6,,setembro/2026
+São Luís,Araçagi,apartamento,venda,11388.9,8266.7,17747.4,5,,setembro/2026
 São Luís,Calhau,apartamento,venda,10000.0,7907.2,12044.9,58,7.02,setembro/2026
 São Luís,Calhau,apartamento,aluguel,58.5,52.1,72.0,36,7.02,setembro/2026
 São Luís,Centro,apartamento,venda,10650.1,9289.0,13913.9,6,,setembro/2026
@@ -32,8 +32,8 @@ São Luís,Quintas do Calhau,apartamento,venda,9108.0,5863.1,12369.3,10,,setembr
 São Luís,Quitandinha,apartamento,venda,7698.8,6999.0,8122.1,6,9.18,setembro/2026
 São Luís,Quitandinha,apartamento,aluguel,58.9,54.1,72.7,7,9.18,setembro/2026
 São Luís,Recanto dos Vinhais,apartamento,venda,6266.7,4766.4,8887.8,7,,setembro/2026
-São Luís,Renascença,apartamento,venda,8705.9,6637.2,10869.6,65,7.59,setembro/2026
-São Luís,Renascença,apartamento,aluguel,55.1,44.8,77.5,17,7.59,setembro/2026
+São Luís,Renascença,apartamento,venda,8764.7,6585.0,10884.0,64,7.54,setembro/2026
+São Luís,Renascença,apartamento,aluguel,55.1,44.8,77.5,17,7.54,setembro/2026
 São Luís,São Francisco,apartamento,venda,4848.6,3318.2,5949.9,16,,setembro/2026
 São Luís,São Marcos,apartamento,venda,14044.7,12332.9,14893.8,20,,setembro/2026
 São Luís,Turu,apartamento,venda,6720.4,4505.8,9217.7,62,7.57,setembro/2026
