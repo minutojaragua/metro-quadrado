@@ -1,10 +1,10 @@
 cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
 Goiânia,Aeroviário,casa,venda,3054.8,2183.8,3652.4,6,,setembro/2026
 Goiânia,Água Branca,casa,venda,2916.7,2248.7,3143.1,7,,setembro/2026
-Goiânia,Alphaville Araguaia,casa,venda,12020.0,10618.6,14075.0,46,7.42,setembro/2026
-Goiânia,Alphaville Araguaia,casa,aluguel,74.3,52.2,85.3,8,7.42,setembro/2026
-Goiânia,Alphaville Flamboyant,casa,venda,13210.7,10834.7,15717.5,105,3.74,setembro/2026
-Goiânia,Alphaville Flamboyant,casa,aluguel,41.2,27.8,49.3,11,3.74,setembro/2026
+Goiânia,Alphaville Araguaia,casa,venda,12020.0,10618.6,14075.0,46,7.53,setembro/2026
+Goiânia,Alphaville Araguaia,casa,aluguel,75.4,51.2,85.9,7,7.53,setembro/2026
+Goiânia,Alphaville Flamboyant,casa,venda,13210.7,10834.7,15717.5,105,3.36,setembro/2026
+Goiânia,Alphaville Flamboyant,casa,aluguel,37.0,27.3,47.0,10,3.36,setembro/2026
 Goiânia,Alphaville Goiás,casa,venda,14465.2,12405.2,15978.3,6,,setembro/2026
 Goiânia,Anhangüera,casa,venda,4990.2,4031.0,6291.1,20,,setembro/2026
 Goiânia,Capuava,casa,venda,3897.1,3450.0,5070.3,17,,setembro/2026
@@ -337,7 +337,7 @@ Goiânia,Setor Aeroporto,apartamento,aluguel,28.7,24.5,41.0,22,4.36,setembro/202
 Goiânia,Setor Bela Vista,apartamento,venda,6168.5,5066.6,8702.2,91,6.58,setembro/2026
 Goiânia,Setor Bela Vista,apartamento,aluguel,33.8,24.6,47.7,52,6.58,setembro/2026
 Goiânia,Setor Bueno,apartamento,venda,10048.8,7413.4,12443.0,667,6.09,setembro/2026
-Goiânia,Setor Bueno,apartamento,aluguel,51.0,34.9,67.8,272,6.09,setembro/2026
+Goiânia,Setor Bueno,apartamento,aluguel,51.0,34.8,67.5,271,6.09,setembro/2026
 Goiânia,Setor Campinas,apartamento,venda,4430.4,2990.0,6404.5,17,7.67,setembro/2026
 Goiânia,Setor Campinas,apartamento,aluguel,28.3,21.8,38.9,6,7.67,setembro/2026
 Goiânia,Setor Cândida de Morais,apartamento,venda,5088.1,4656.9,5635.6,14,6.39,setembro/2026
@@ -349,8 +349,8 @@ Goiânia,Setor Coimbra,apartamento,venda,8144.3,7560.5,8507.4,39,5.83,setembro/2
 Goiânia,Setor Coimbra,apartamento,aluguel,39.6,30.7,41.9,8,5.83,setembro/2026
 Goiânia,Setor Criméia Oeste,apartamento,venda,6691.2,5607.9,6986.2,25,,setembro/2026
 Goiânia,Setor dos Funcionários,apartamento,venda,5831.8,5448.4,6084.0,8,,setembro/2026
-Goiânia,Setor Faiçalville,apartamento,venda,6454.5,5683.0,7218.8,39,6.64,setembro/2026
-Goiânia,Setor Faiçalville,apartamento,aluguel,35.7,31.3,41.8,15,6.64,setembro/2026
+Goiânia,Setor Faiçalville,apartamento,venda,6441.6,5427.8,7216.0,40,6.65,setembro/2026
+Goiânia,Setor Faiçalville,apartamento,aluguel,35.7,31.3,41.8,15,6.65,setembro/2026
 Goiânia,Setor Gentil Meireles,apartamento,aluguel,41.4,30.1,48.8,12,,setembro/2026
 Goiânia,Setor Goiânia 2,apartamento,venda,6343.3,5466.5,7903.1,15,5.96,setembro/2026
 Goiânia,Setor Goiânia 2,apartamento,aluguel,31.5,25.0,36.6,5,5.96,setembro/2026
@@ -360,8 +360,8 @@ Goiânia,Setor Leste Universitário,apartamento,aluguel,35.2,27.8,45.3,43,4.91,s
 Goiânia,Setor Leste Vila Nova,apartamento,venda,5581.4,3968.0,6795.5,23,5.89,setembro/2026
 Goiânia,Setor Leste Vila Nova,apartamento,aluguel,27.4,23.1,34.2,15,5.89,setembro/2026
 Goiânia,Setor Marechal Rondon,apartamento,venda,7118.4,6434.2,8333.3,9,,setembro/2026
-Goiânia,Setor Marista,apartamento,venda,12241.1,10579.8,14244.6,449,6.33,setembro/2026
-Goiânia,Setor Marista,apartamento,aluguel,64.6,53.8,80.2,141,6.33,setembro/2026
+Goiânia,Setor Marista,apartamento,venda,12241.1,10579.8,14244.6,449,6.31,setembro/2026
+Goiânia,Setor Marista,apartamento,aluguel,64.4,53.7,80.1,140,6.31,setembro/2026
 Goiânia,Setor Morada do Sol,apartamento,venda,4582.8,4068.2,5139.3,12,,setembro/2026
 Goiânia,Setor Negrão de Lima,apartamento,venda,6388.9,5217.4,6766.7,45,6.44,setembro/2026
 Goiânia,Setor Negrão de Lima,apartamento,aluguel,34.3,29.9,39.7,29,6.44,setembro/2026
