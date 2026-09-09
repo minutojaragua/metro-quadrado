@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 55 cidades de Alagoas, Amapá e mais 24 estados, Brasil, bairro por bairro, a partir de 394.564 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 55 cidades de Alagoas, Amapá e mais 24 estados, Brasil, bairro por bairro, a partir de 394.629 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -149,11 +149,11 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 
 ## Manaus (setembro/2026): https://acorridadosbairros.com.br/am/manaus/
 
-### Apartamentos, cidade toda: venda R$ 6.452/m² (n=857); aluguel R$ 50,0/m²/mês (n=317); rendimento bruto do aluguel 9,30% a.a.
+### Apartamentos, cidade toda: venda R$ 6.496/m² (n=863); aluguel R$ 50,0/m²/mês (n=318); rendimento bruto do aluguel 9,24% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Adrianópolis | R$ 9.833 | 91 | R$ 65,1 | 24 | 7,94% | – |
+| Adrianópolis | R$ 9.889 | 95 | R$ 65,1 | 24 | 7,90% | – |
 | Aleixo | R$ 8.547 | 53 | R$ 58,1 | 12 | 8,16% | – |
 | Alvorada | R$ 6.087 | 10 | – | – | – | – |
 | Centro | R$ 4.286 | 25 | R$ 38,6 | 7 | 10,81% | – |
@@ -175,10 +175,10 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Morada do Sol | R$ 10.747 | 12 | – | – | – | – |
 | Nossa Senhora das Graças | R$ 6.742 | 53 | R$ 50,6 | 26 | 9,01% | – |
 | Nova Esperança | R$ 6.811 | 12 | – | – | – | – |
-| Novo Aleixo | R$ 6.188 | 12 | R$ 54,9 | 6 | 10,65% | – |
+| Novo Aleixo | R$ 6.188 | 12 | R$ 56,0 | 7 | 10,86% | – |
 | Parque 10 de Novembro | R$ 6.522 | 59 | R$ 50,0 | 31 | 9,20% | – |
 | Planalto | R$ 6.714 | 34 | R$ 50,0 | 7 | 8,94% | – |
-| Ponta Negra | R$ 8.427 | 91 | R$ 54,3 | 68 | 7,73% | – |
+| Ponta Negra | R$ 8.558 | 93 | R$ 54,3 | 68 | 7,61% | – |
 | Praça 14 de Janeiro | R$ 10.230 | 5 | – | – | – | – |
 | Santo Agostinho | – | – | R$ 50,5 | 6 | – | – |
 | São Francisco | R$ 8.333 | 6 | – | – | – | – |
@@ -188,15 +188,15 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Tarumã-Açu | R$ 2.857 | 23 | – | – | – | – |
 | Vieiralves | R$ 5.194 | 6 | – | – | – | – |
 
-### Casas, cidade toda: venda R$ 3.316/m² (n=969); aluguel R$ 32,0/m²/mês (n=84); rendimento bruto do aluguel 11,58% a.a.
+### Casas, cidade toda: venda R$ 3.400/m² (n=989); aluguel R$ 32,0/m²/mês (n=85); rendimento bruto do aluguel 11,29% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Adrianópolis | R$ 4.808 | 19 | – | – | – | – |
-| Aleixo | R$ 5.137 | 40 | – | – | – | – |
+| Adrianópolis | R$ 5.237 | 20 | – | – | – | – |
+| Aleixo | R$ 5.141 | 41 | – | – | – | – |
 | Alvorada | R$ 1.901 | 22 | – | – | – | – |
 | Cachoeirinha | R$ 2.292 | 10 | – | – | – | – |
-| Centro | R$ 2.500 | 13 | – | – | – | – |
+| Centro | R$ 2.636 | 15 | – | – | – | – |
 | Chapada | R$ 6.156 | 24 | – | – | – | – |
 | Cidade de Deus | R$ 2.000 | 5 | – | – | – | – |
 | Cidade Nova | R$ 1.879 | 57 | – | – | – | – |
@@ -207,7 +207,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Da Paz | R$ 1.833 | 9 | – | – | – | – |
 | Dom Pedro | R$ 3.938 | 24 | – | – | – | – |
 | Dom Pedro I | R$ 2.398 | 6 | – | – | – | – |
-| Flores | R$ 5.566 | 62 | R$ 34,5 | 25 | 7,44% | – |
+| Flores | R$ 5.517 | 63 | R$ 34,5 | 25 | 7,50% | – |
 | Japiim | R$ 2.214 | 26 | – | – | – | – |
 | Jorge Teixeira | R$ 1.068 | 12 | – | – | – | – |
 | Lírio do Vale | R$ 2.200 | 13 | – | – | – | – |
@@ -220,19 +220,19 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Parque das Laranjeiras | R$ 7.560 | 6 | – | – | – | – |
 | Petrópolis | R$ 1.830 | 15 | – | – | – | – |
 | Planalto | R$ 2.171 | 26 | – | – | – | – |
-| Ponta Negra | R$ 7.097 | 152 | R$ 45,0 | 18 | 7,61% | – |
+| Ponta Negra | R$ 7.000 | 163 | R$ 40,0 | 19 | 6,86% | – |
 | Praça 14 de Janeiro | R$ 3.377 | 11 | – | – | – | – |
 | Redenção | R$ 1.838 | 18 | – | – | – | – |
-| Santo Agostinho | R$ 3.229 | 14 | – | – | – | – |
+| Santo Agostinho | R$ 2.599 | 15 | – | – | – | – |
 | Santo Antônio | R$ 2.515 | 7 | – | – | – | – |
 | São Jorge | R$ 2.712 | 6 | – | – | – | – |
 | São José Operário | R$ 1.900 | 23 | – | – | – | – |
 | São Raimundo | R$ 2.071 | 7 | – | – | – | – |
 | Tancredo Neves | R$ 1.294 | 5 | – | – | – | – |
-| Tarumã | R$ 4.503 | 44 | R$ 26,0 | 9 | 6,93% | – |
+| Tarumã | R$ 4.603 | 46 | R$ 26,0 | 9 | 6,78% | – |
 | Tarumã-Açu | R$ 3.472 | 22 | – | – | – | – |
 
-### Terrenos, cidade toda: venda R$ 974/m² (n=194)
+### Terrenos, cidade toda: venda R$ 974/m² (n=200)
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -240,15 +240,16 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Centro | R$ 1.727 | 5 | – | – | – | – |
 | Colônia Terra Nova | R$ 1.124 | 9 | – | – | – | – |
 | Flores | R$ 1.298 | 12 | – | – | – | – |
+| Lago Azul | R$ 212 | 5 | – | – | – | – |
 | Nossa Senhora das Graças | R$ 3.166 | 9 | – | – | – | – |
 | Novo Aleixo | R$ 1.078 | 12 | – | – | – | – |
-| Parque 10 de Novembro | R$ 1.121 | 7 | – | – | – | – |
+| Parque 10 de Novembro | R$ 1.760 | 8 | – | – | – | – |
 | Ponta Negra | R$ 967 | 39 | – | – | – | – |
 | Santa Etelvina | R$ 278 | 5 | – | – | – | – |
 | Tarumã | R$ 554 | 25 | – | – | – | – |
 | Tarumã-Açu | R$ 320 | 7 | – | – | – | – |
 
-### Salas comerciais, cidade toda: venda R$ 11.033/m² (n=32); aluguel R$ 100,0/m²/mês (n=98); rendimento bruto do aluguel 10,88% a.a.
+### Salas comerciais, cidade toda: venda R$ 11.033/m² (n=32); aluguel R$ 100,0/m²/mês (n=99); rendimento bruto do aluguel 10,88% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
