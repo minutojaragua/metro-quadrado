@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 56 cidades de Alagoas, Amapá e mais 24 estados, Brasil, bairro por bairro, a partir de 417.863 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 57 cidades de Alagoas, Amapá e mais 24 estados, Brasil, bairro por bairro, a partir de 422.766 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -3482,6 +3482,90 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Umbará | – | – | R$ 46,2 | 5 | – | – |
 | Vila Izabel | R$ 7.385 | 7 | R$ 60,0 | 15 | 9,75% | – |
 | Xaxim | – | – | R$ 55,0 | 22 | – | – |
+
+
+## Ponta Grossa (setembro/2026): https://acorridadosbairros.com.br/pr/ponta-grossa/
+
+### Apartamentos, cidade toda: venda R$ 4.660/m² (n=1728); aluguel R$ 25,9/m²/mês (n=372); rendimento bruto do aluguel 6,67% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Boa Vista | R$ 5.650 | 7 | – | – | – | – |
+| Cará-Cará | R$ 3.592 | 10 | – | – | – | – |
+| Centro | R$ 4.700 | 510 | R$ 29,3 | 95 | 7,48% | – |
+| Chapada | R$ 4.166 | 34 | R$ 27,1 | 23 | 7,81% | – |
+| Colônia Dona Luíza | R$ 4.512 | 58 | R$ 27,5 | 10 | 7,31% | – |
+| Contorno | R$ 4.578 | 31 | R$ 29,2 | 9 | 7,65% | – |
+| Estrela | R$ 5.269 | 246 | R$ 25,6 | 33 | 5,83% | – |
+| Jardim Carvalho | R$ 4.286 | 174 | R$ 29,8 | 28 | 8,34% | – |
+| Neves | R$ 4.275 | 35 | R$ 25,0 | 11 | 7,02% | – |
+| Nova Rússia | R$ 4.221 | 53 | R$ 22,5 | 8 | 6,40% | – |
+| Oficinas | R$ 5.556 | 173 | R$ 27,8 | 34 | 6,00% | – |
+| Olarias | R$ 5.152 | 52 | R$ 26,2 | 25 | 6,10% | – |
+| Orfãs | R$ 4.689 | 133 | R$ 20,6 | 22 | 5,27% | – |
+| Ronda | R$ 4.091 | 17 | – | – | – | – |
+| Uvaranas | R$ 4.270 | 177 | R$ 23,0 | 68 | 6,46% | – |
+
+### Casas, cidade toda: venda R$ 4.250/m² (n=1611); aluguel R$ 22,9/m²/mês (n=388); rendimento bruto do aluguel 6,47% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Boa Vista | R$ 3.360 | 78 | R$ 20,7 | 25 | 7,39% | – |
+| Cará-Cará | R$ 4.086 | 165 | R$ 22,6 | 42 | 6,64% | – |
+| Centro | R$ 4.532 | 38 | R$ 24,3 | 20 | 6,43% | – |
+| Chapada | R$ 3.367 | 32 | R$ 18,9 | 14 | 6,74% | – |
+| Colônia Dona Luíza | R$ 5.361 | 77 | R$ 27,4 | 31 | 6,13% | – |
+| Contorno | R$ 3.898 | 168 | R$ 21,2 | 19 | 6,53% | – |
+| Estrela | R$ 5.118 | 107 | R$ 32,6 | 25 | 7,64% | – |
+| Jardim Carvalho | R$ 5.506 | 180 | R$ 29,4 | 32 | 6,41% | – |
+| Neves | R$ 3.683 | 73 | R$ 20,0 | 40 | 6,52% | – |
+| Nova Rússia | R$ 3.609 | 50 | R$ 25,3 | 5 | 8,41% | – |
+| Oficinas | R$ 4.578 | 136 | R$ 22,1 | 25 | 5,79% | – |
+| Olarias | R$ 3.889 | 35 | R$ 25,7 | 19 | 7,93% | – |
+| Orfãs | R$ 4.926 | 105 | R$ 22,5 | 29 | 5,48% | – |
+| Piriquitos | R$ 3.627 | 16 | R$ 20,5 | 10 | 6,78% | – |
+| Ronda | R$ 3.626 | 31 | R$ 25,0 | 11 | 8,27% | – |
+| Uvaranas | R$ 3.714 | 235 | R$ 22,2 | 37 | 7,17% | – |
+| Vila Marina | R$ 4.004 | 6 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 672/m² (n=340)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Boa Vista | R$ 676 | 7 | – | – | – | – |
+| Cará-Cará | R$ 456 | 15 | – | – | – | – |
+| Centro | R$ 1.723 | 9 | – | – | – | – |
+| Chapada | R$ 346 | 13 | – | – | – | – |
+| Colônia Dona Luíza | R$ 500 | 21 | – | – | – | – |
+| Contorno | R$ 649 | 31 | – | – | – | – |
+| Estrela | R$ 1.533 | 15 | – | – | – | – |
+| Jardim Carvalho | R$ 780 | 58 | – | – | – | – |
+| Neves | R$ 477 | 12 | – | – | – | – |
+| Nova Rússia | R$ 735 | 18 | – | – | – | – |
+| Oficinas | R$ 723 | 16 | – | – | – | – |
+| Olarias | R$ 848 | 6 | – | – | – | – |
+| Orfãs | R$ 801 | 15 | – | – | – | – |
+| Ronda | R$ 686 | 11 | – | – | – | – |
+| Uvaranas | R$ 597 | 70 | – | – | – | – |
+
+### Salas comerciais, cidade toda: venda R$ 5.500/m² (n=17); aluguel R$ 37,5/m²/mês (n=286); rendimento bruto do aluguel 8,18% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Boa Vista | – | – | R$ 38,1 | 21 | – | – |
+| Cará-Cará | – | – | R$ 55,5 | 12 | – | – |
+| Centro | R$ 5.500 | 11 | R$ 32,0 | 47 | 6,98% | – |
+| Chapada | – | – | R$ 29,1 | 8 | – | – |
+| Colônia Dona Luíza | – | – | R$ 34,0 | 13 | – | – |
+| Contorno | – | – | R$ 54,5 | 30 | – | – |
+| Estrela | – | – | R$ 53,4 | 10 | – | – |
+| Neves | – | – | R$ 31,9 | 14 | – | – |
+| Nova Rússia | – | – | R$ 41,1 | 52 | – | – |
+| Oficinas | – | – | R$ 46,3 | 22 | – | – |
+| Olarias | – | – | R$ 41,0 | 12 | – | – |
+| Orfãs | – | – | R$ 35,7 | 14 | – | – |
+| Ronda | – | – | R$ 25,0 | 5 | – | – |
+| Uvaranas | – | – | R$ 34,8 | 20 | – | – |
 
 
 ## Recife (setembro/2026): https://acorridadosbairros.com.br/pe/recife/

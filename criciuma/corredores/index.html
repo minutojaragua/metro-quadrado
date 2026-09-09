@@ -208,6 +208,12 @@ table.serie td,table.serie th{white-space:nowrap}
 .indice a{color:#d8d8d8;text-decoration:none;display:inline-block;padding:4px 0;border-bottom:1px solid #4a4a4a;padding-bottom:2px}
 .ferr a{font-weight:700;background:#fff;border:2px solid #1b6e1b;color:#1b6e1b;border-radius:20px;padding:12px 16px;text-decoration:none;font-size:.95rem}
 .ferr a.destaque{background:#0E4C92;border-color:#0E4C92;color:#fff}
+/* 09/09/2026 (auditoria UX de navegação): fileira compacta (3 mais usadas + "Todas as ferramentas")
+   na primeira tela de toda página; o bloco completo (.ferr-bloco, id=ferramentas) sai uma vez só,
+   depois do ranking ou do resultado. A pílula "Todas" é tracejada para se distinguir das ferramentas. */
+.ferr.ferr-c{margin-top:12px}
+.ferr a.ferr-todas{border-style:dashed}
+.ferr-bloco{margin-top:26px}
 .stat{background:#2a2a2a;border-radius:10px;padding:10px 16px;text-align:center}
 .stat b{display:block;font-size:1.25rem;color:var(--amar)}
 .stat small{color:#bbb;font-size:.75rem}
