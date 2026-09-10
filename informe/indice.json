@@ -5,109 +5,343 @@
    "jaragua",
    "Jaraguá do Sul",
    "informe/2026-09/corrida-dos-bairros-jaragua-2026-09.pdf",
-   366378
+   374573
+  ],
+  [
+   "balneario-camboriu",
+   "Balneário Camboriú",
+   "informe/2026-09/corrida-dos-bairros-balneario-camboriu-2026-09.pdf",
+   262310
+  ],
+  [
+   "balneario-picarras",
+   "Balneário Piçarras",
+   "informe/2026-09/corrida-dos-bairros-balneario-picarras-2026-09.pdf",
+   228618
+  ],
+  [
+   "barra-velha",
+   "Barra Velha",
+   "informe/2026-09/corrida-dos-bairros-barra-velha-2026-09.pdf",
+   239277
   ],
   [
    "blumenau",
    "Blumenau",
    "informe/2026-09/corrida-dos-bairros-blumenau-2026-09.pdf",
-   360022
+   361399
   ],
   [
    "brusque",
    "Brusque",
    "informe/2026-09/corrida-dos-bairros-brusque-2026-09.pdf",
-   335847
+   342697
   ],
   [
    "chapeco",
    "Chapecó",
    "informe/2026-09/corrida-dos-bairros-chapeco-2026-09.pdf",
-   360205
+   406735
   ],
   [
    "corupa",
    "Corupá",
    "informe/2026-09/corrida-dos-bairros-corupa-2026-09.pdf",
-   140016
+   144712
   ],
   [
    "criciuma",
    "Criciúma",
    "informe/2026-09/corrida-dos-bairros-criciuma-2026-09.pdf",
-   411834
+   418167
   ],
   [
    "florianopolis",
    "Florianópolis",
    "informe/2026-09/corrida-dos-bairros-florianopolis-2026-09.pdf",
-   453617
+   442180
   ],
   [
    "guaramirim",
    "Guaramirim",
    "informe/2026-09/corrida-dos-bairros-guaramirim-2026-09.pdf",
-   240125
+   241427
   ],
   [
    "itajai",
    "Itajaí",
    "informe/2026-09/corrida-dos-bairros-itajai-2026-09.pdf",
-   307642
+   297415
+  ],
+  [
+   "itapema",
+   "Itapema",
+   "informe/2026-09/corrida-dos-bairros-itapema-2026-09.pdf",
+   232677
+  ],
+  [
+   "itapoa",
+   "Itapoá",
+   "informe/2026-09/corrida-dos-bairros-itapoa-2026-09.pdf",
+   278763
   ],
   [
    "joinville",
    "Joinville",
    "informe/2026-09/corrida-dos-bairros-joinville-2026-09.pdf",
-   357254
+   379350
   ],
   [
    "lages",
    "Lages",
    "informe/2026-09/corrida-dos-bairros-lages-2026-09.pdf",
-   259081
+   281806
   ],
   [
    "massaranduba",
    "Massaranduba",
    "informe/2026-09/corrida-dos-bairros-massaranduba-2026-09.pdf",
-   134784
+   138671
   ],
   [
    "navegantes",
    "Navegantes",
    "informe/2026-09/corrida-dos-bairros-navegantes-2026-09.pdf",
-   204495
+   210894
   ],
   [
    "palhoca",
    "Palhoça",
    "informe/2026-09/corrida-dos-bairros-palhoca-2026-09.pdf",
-   342099
+   324015
+  ],
+  [
+   "penha",
+   "Penha",
+   "informe/2026-09/corrida-dos-bairros-penha-2026-09.pdf",
+   233090
+  ],
+  [
+   "pomerode",
+   "Pomerode",
+   "informe/2026-09/corrida-dos-bairros-pomerode-2026-09.pdf",
+   210551
+  ],
+  [
+   "porto-belo",
+   "Porto Belo",
+   "informe/2026-09/corrida-dos-bairros-porto-belo-2026-09.pdf",
+   209262
   ],
   [
    "sao-bento-do-sul",
    "São Bento do Sul",
    "informe/2026-09/corrida-dos-bairros-sao-bento-do-sul-2026-09.pdf",
-   240367
+   239433
   ],
   [
    "sao-francisco-do-sul",
    "São Francisco do Sul",
    "informe/2026-09/corrida-dos-bairros-sao-francisco-do-sul-2026-09.pdf",
-   272386
+   272320
   ],
   [
    "sao-jose",
    "São José",
    "informe/2026-09/corrida-dos-bairros-sao-jose-2026-09.pdf",
-   312299
+   320920
   ],
   [
    "schroeder",
    "Schroeder",
    "informe/2026-09/corrida-dos-bairros-schroeder-2026-09.pdf",
-   176293
+   175974
+  ],
+  [
+   "maceio",
+   "Maceió",
+   "informe/2026-09/corrida-dos-bairros-maceio-2026-09.pdf",
+   314577
+  ],
+  [
+   "manaus",
+   "Manaus",
+   "informe/2026-09/corrida-dos-bairros-manaus-2026-09.pdf",
+   345484
+  ],
+  [
+   "macapa",
+   "Macapá",
+   "informe/2026-09/corrida-dos-bairros-macapa-2026-09.pdf",
+   168764
+  ],
+  [
+   "salvador",
+   "Salvador",
+   "informe/2026-09/corrida-dos-bairros-salvador-2026-09.pdf",
+   737239
+  ],
+  [
+   "fortaleza",
+   "Fortaleza",
+   "informe/2026-09/corrida-dos-bairros-fortaleza-2026-09.pdf",
+   663331
+  ],
+  [
+   "brasilia",
+   "Brasília",
+   "informe/2026-09/corrida-dos-bairros-brasilia-2026-09.pdf",
+   394241
+  ],
+  [
+   "vitoria",
+   "Vitória",
+   "informe/2026-09/corrida-dos-bairros-vitoria-2026-09.pdf",
+   243788
+  ],
+  [
+   "goiania",
+   "Goiânia",
+   "informe/2026-09/corrida-dos-bairros-goiania-2026-09.pdf",
+   952156
+  ],
+  [
+   "sao-luis",
+   "São Luís",
+   "informe/2026-09/corrida-dos-bairros-sao-luis-2026-09.pdf",
+   305857
+  ],
+  [
+   "belo-horizonte",
+   "Belo Horizonte",
+   "informe/2026-09/corrida-dos-bairros-belo-horizonte-2026-09.pdf",
+   1423076
+  ],
+  [
+   "campo-grande",
+   "Campo Grande",
+   "informe/2026-09/corrida-dos-bairros-campo-grande-2026-09.pdf",
+   722432
+  ],
+  [
+   "cuiaba",
+   "Cuiabá",
+   "informe/2026-09/corrida-dos-bairros-cuiaba-2026-09.pdf",
+   776482
+  ],
+  [
+   "belem",
+   "Belém",
+   "informe/2026-09/corrida-dos-bairros-belem-2026-09.pdf",
+   284046
+  ],
+  [
+   "joao-pessoa",
+   "João Pessoa",
+   "informe/2026-09/corrida-dos-bairros-joao-pessoa-2026-09.pdf",
+   412346
+  ],
+  [
+   "recife",
+   "Recife",
+   "informe/2026-09/corrida-dos-bairros-recife-2026-09.pdf",
+   434087
+  ],
+  [
+   "teresina",
+   "Teresina",
+   "informe/2026-09/corrida-dos-bairros-teresina-2026-09.pdf",
+   584778
+  ],
+  [
+   "curitiba",
+   "Curitiba",
+   "informe/2026-09/corrida-dos-bairros-curitiba-2026-09.pdf",
+   604636
+  ],
+  [
+   "ponta-grossa",
+   "Ponta Grossa",
+   "informe/2026-09/corrida-dos-bairros-ponta-grossa-2026-09.pdf",
+   263775
+  ],
+  [
+   "rio-de-janeiro",
+   "Rio de Janeiro",
+   "informe/2026-09/corrida-dos-bairros-rio-de-janeiro-2026-09.pdf",
+   907582
+  ],
+  [
+   "natal",
+   "Natal",
+   "informe/2026-09/corrida-dos-bairros-natal-2026-09.pdf",
+   290188
+  ],
+  [
+   "porto-velho",
+   "Porto Velho",
+   "informe/2026-09/corrida-dos-bairros-porto-velho-2026-09.pdf",
+   401954
+  ],
+  [
+   "boa-vista",
+   "Boa Vista",
+   "informe/2026-09/corrida-dos-bairros-boa-vista-2026-09.pdf",
+   153939
+  ],
+  [
+   "porto-alegre",
+   "Porto Alegre",
+   "informe/2026-09/corrida-dos-bairros-porto-alegre-2026-09.pdf",
+   703105
+  ],
+  [
+   "aracaju",
+   "Aracaju",
+   "informe/2026-09/corrida-dos-bairros-aracaju-2026-09.pdf",
+   346996
+  ],
+  [
+   "campinas",
+   "Campinas",
+   "informe/2026-09/corrida-dos-bairros-campinas-2026-09.pdf",
+   1066620
+  ],
+  [
+   "limeira",
+   "Limeira",
+   "informe/2026-09/corrida-dos-bairros-limeira-2026-09.pdf",
+   674957
+  ],
+  [
+   "piracicaba",
+   "Piracicaba",
+   "informe/2026-09/corrida-dos-bairros-piracicaba-2026-09.pdf",
+   797515
+  ],
+  [
+   "santos",
+   "Santos",
+   "informe/2026-09/corrida-dos-bairros-santos-2026-09.pdf",
+   269549
+  ],
+  [
+   "sao-jose-dos-campos",
+   "São José dos Campos",
+   "informe/2026-09/corrida-dos-bairros-sao-jose-dos-campos-2026-09.pdf",
+   1072167
+  ],
+  [
+   "sao-paulo",
+   "São Paulo",
+   "informe/2026-09/corrida-dos-bairros-sao-paulo-2026-09.pdf",
+   3181190
+  ],
+  [
+   "palmas",
+   "Palmas",
+   "informe/2026-09/corrida-dos-bairros-palmas-2026-09.pdf",
+   443176
   ]
  ]
 }
