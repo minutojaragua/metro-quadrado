@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 63 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 481.528 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 64 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 488.375 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -11796,6 +11796,340 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Valongo | R$ 5.528 | 26 | R$ 58,4 | 20 | 12,68% | – |
 | Vila Matias | R$ 6.444 | 39 | R$ 54,0 | 56 | 10,06% | – |
 | Vila Nova | R$ 2.426 | 7 | – | – | – | – |
+
+
+## São José do Rio Preto (setembro/2026): https://acorridadosbairros.com.br/sp/sao-jose-do-rio-preto/
+
+### Apartamentos, cidade toda: venda R$ 5.010/m² (n=1310); aluguel R$ 31,6/m²/mês (n=1395); rendimento bruto do aluguel 7,57% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Alto Rio Preto | R$ 8.377 | 6 | – | – | – | – |
+| Boa Vista | R$ 4.571 | 56 | R$ 27,2 | 52 | 7,14% | – |
+| Bom Jardim | R$ 7.854 | 38 | R$ 35,7 | 41 | 5,45% | – |
+| Centro | R$ 3.738 | 135 | R$ 18,2 | 125 | 5,84% | – |
+| Cidade Nova | R$ 4.299 | 12 | R$ 21,0 | 18 | 5,86% | – |
+| Conjunto Habitacional São Deocleciano | R$ 4.667 | 5 | R$ 35,0 | 6 | 9,00% | – |
+| Eldorado | R$ 3.920 | 8 | R$ 20,4 | 8 | 6,24% | – |
+| Estância Matinha | – | – | R$ 43,4 | 11 | – | – |
+| Georgina Business Park | – | – | R$ 72,8 | 14 | – | – |
+| Higienópolis | R$ 5.429 | 47 | R$ 36,1 | 45 | 7,98% | – |
+| Iguatemi | R$ 12.792 | 12 | R$ 60,2 | 40 | 5,65% | – |
+| Jardim Alice | R$ 5.412 | 5 | – | – | – | – |
+| Jardim Alto Rio Preto | R$ 4.340 | 5 | R$ 43,9 | 8 | 12,14% | – |
+| Jardim Bela Vista | R$ 4.500 | 5 | – | – | – | – |
+| Jardim Bianco | R$ 6.138 | 8 | R$ 29,5 | 19 | 5,77% | – |
+| Jardim Bosque das Vivendas | R$ 7.132 | 17 | R$ 37,8 | 37 | 6,36% | – |
+| Jardim Caparroz | – | – | R$ 26,6 | 5 | – | – |
+| Jardim Conceição | R$ 2.782 | 8 | R$ 24,5 | 9 | 10,57% | – |
+| Jardim Congonhas | – | – | R$ 15,6 | 5 | – | – |
+| Jardim Itapema | R$ 3.954 | 6 | – | – | – | – |
+| Jardim Jandira | R$ 3.104 | 6 | – | – | – | – |
+| Jardim Maracanã | R$ 8.514 | 19 | R$ 40,3 | 30 | 5,68% | – |
+| Jardim Marajó | – | – | R$ 33,3 | 10 | – | – |
+| Jardim Moysés Miguel Haddad | – | – | R$ 51,4 | 5 | – | – |
+| Jardim Nazareth | R$ 3.833 | 5 | – | – | – | – |
+| Jardim Novo Mundo | R$ 8.329 | 6 | R$ 38,0 | 8 | 5,47% | – |
+| Jardim Nunes | – | – | R$ 20,9 | 6 | – | – |
+| Jardim Ouro Verde | R$ 7.162 | 10 | R$ 41,9 | 10 | 7,02% | – |
+| Jardim Panorama | R$ 4.783 | 27 | R$ 20,8 | 11 | 5,22% | – |
+| Jardim Paulista | R$ 12.096 | 5 | – | – | – | – |
+| Jardim Paulistano | R$ 13.125 | 31 | R$ 64,6 | 54 | 5,91% | – |
+| Jardim Planalto | R$ 4.600 | 15 | R$ 25,0 | 9 | 6,52% | – |
+| Jardim Redentor | R$ 6.538 | 5 | R$ 64,3 | 10 | 11,80% | – |
+| Jardim Residencial Vetorasso | R$ 3.115 | 8 | R$ 20,0 | 5 | 7,71% | – |
+| Jardim Santa Lúcia | R$ 3.343 | 11 | – | – | – | – |
+| Jardim São Marco | R$ 7.188 | 8 | R$ 35,7 | 6 | 5,96% | – |
+| Jardim Tarraf | R$ 9.565 | 5 | – | – | – | – |
+| Jardim Tarraf II | R$ 11.286 | 35 | R$ 46,7 | 62 | 4,97% | – |
+| Jardim Urano | R$ 8.468 | 13 | R$ 41,2 | 25 | 5,84% | – |
+| Jardim Vivendas | R$ 6.253 | 20 | R$ 42,6 | 17 | 8,18% | – |
+| Jardim Walkíria | R$ 6.637 | 27 | R$ 49,9 | 28 | 9,02% | – |
+| Jardim Yolanda | R$ 5.067 | 19 | R$ 26,5 | 20 | 6,28% | – |
+| Jardins Rio Preto | – | – | R$ 27,1 | 7 | – | – |
+| Loteamento Abílio Jorge Cury | – | – | R$ 30,0 | 12 | – | – |
+| Loteamento Clube V | R$ 4.300 | 7 | R$ 24,0 | 11 | 6,70% | – |
+| Nova Redentora | R$ 8.725 | 11 | R$ 31,7 | 16 | 4,36% | – |
+| Parque das Flores II | R$ 4.548 | 6 | – | – | – | – |
+| Parque Estoril | R$ 5.182 | 12 | R$ 25,5 | 13 | 5,90% | – |
+| Parque Industrial | R$ 3.964 | 20 | R$ 26,1 | 12 | 7,90% | – |
+| Parque Quinta das Paineiras | – | – | R$ 43,0 | 13 | – | – |
+| Parque Residencial Comendador Mancor Daud | R$ 7.078 | 5 | – | – | – | – |
+| Parque Residencial Lauriano Tebar | R$ 2.837 | 6 | R$ 21,4 | 6 | 9,05% | – |
+| Pinheiros | R$ 7.143 | 15 | R$ 34,7 | 29 | 5,83% | – |
+| Redentora | R$ 4.452 | 11 | – | – | – | – |
+| Reserva da Mata | R$ 11.123 | 8 | – | – | – | – |
+| Residencial Ana Célia | R$ 3.818 | 8 | R$ 22,0 | 7 | 6,91% | – |
+| Residencial Cidade Jardim | R$ 5.900 | 8 | R$ 24,0 | 5 | 4,88% | – |
+| Residencial Eco Village I | – | – | R$ 66,6 | 6 | – | – |
+| Residencial Macedo Teles I | R$ 3.400 | 7 | – | – | – | – |
+| Residencial Santa Filomena | – | – | R$ 27,5 | 5 | – | – |
+| Rios d'Italia | R$ 4.348 | 9 | – | – | – | – |
+| Rios de Spagna | R$ 4.250 | 5 | – | – | – | – |
+| Rios Di Itália | R$ 4.225 | 22 | R$ 25,9 | 28 | 7,36% | – |
+| Santos Dumont | R$ 5.385 | 7 | R$ 36,1 | 16 | 8,05% | – |
+| São Francisco | R$ 5.650 | 7 | R$ 36,1 | 6 | 7,67% | – |
+| Universitário | – | – | R$ 44,4 | 11 | – | – |
+| Vila Aeroporto | R$ 3.793 | 5 | – | – | – | – |
+| Vila Anchieta | R$ 3.250 | 7 | R$ 10,8 | 5 | 3,99% | – |
+| Vila Angélica | R$ 3.674 | 7 | R$ 24,6 | 6 | 8,03% | – |
+| Vila Aurora | – | – | R$ 59,6 | 5 | – | – |
+| Vila Boa Esperança | – | – | R$ 25,7 | 5 | – | – |
+| Vila Ercília | R$ 5.121 | 12 | R$ 24,6 | 5 | 5,76% | – |
+| Vila Ideal | R$ 3.415 | 10 | – | – | – | – |
+| Vila Imperial | R$ 4.254 | 58 | R$ 24,2 | 64 | 6,83% | – |
+| Vila Itália | R$ 3.667 | 17 | R$ 24,6 | 9 | 8,05% | – |
+| Vila Maceno | R$ 4.640 | 6 | R$ 18,1 | 10 | 4,68% | – |
+| Vila Nossa Senhora da Paz | – | – | R$ 28,8 | 5 | – | – |
+| Vila Nossa Senhora de Fátima | R$ 5.536 | 7 | R$ 19,3 | 10 | 4,18% | – |
+| Vila Nossa Senhora do Bonfim | R$ 9.037 | 22 | R$ 36,1 | 23 | 4,79% | – |
+| Vila Nosso Senhor do Bom Fim | R$ 8.935 | 6 | – | – | – | – |
+| Vila Redentora | R$ 5.836 | 48 | R$ 40,0 | 65 | 8,22% | – |
+| Vila Santa Cândida | – | – | R$ 20,0 | 5 | – | – |
+| Vila Santa Cruz | R$ 5.065 | 5 | – | – | – | – |
+| Vila São Judas Tadeu | – | – | R$ 28,0 | 7 | – | – |
+| Vila São Manoel | R$ 3.253 | 10 | R$ 14,7 | 7 | 5,42% | – |
+| Vila Sinibaldi | R$ 8.580 | 20 | R$ 43,7 | 36 | 6,11% | – |
+| Vila Toninho | R$ 3.444 | 5 | R$ 22,7 | 8 | 7,91% | – |
+
+### Casas, cidade toda: venda R$ 3.734/m² (n=2629); aluguel R$ 22,8/m²/mês (n=507); rendimento bruto do aluguel 7,33% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Bela Vista | R$ 4.021 | 6 | – | – | – | – |
+| Belvedere Terra Nova | R$ 4.597 | 12 | R$ 28,0 | 5 | 7,31% | – |
+| Boa Vista | R$ 2.948 | 52 | R$ 18,0 | 32 | 7,33% | – |
+| Buona Vita | R$ 7.483 | 5 | – | – | – | – |
+| Centro | R$ 3.860 | 18 | R$ 21,3 | 24 | 6,62% | – |
+| Conjunto Habitacional Costa do Sol | R$ 1.877 | 13 | – | – | – | – |
+| Conjunto Habitacional Cristo Rei | R$ 2.354 | 10 | – | – | – | – |
+| Conjunto Habitacional São Deocleciano | R$ 2.562 | 13 | – | – | – | – |
+| Damha I | R$ 8.197 | 8 | – | – | – | – |
+| Damha III | R$ 5.312 | 5 | – | – | – | – |
+| Damha VI | R$ 10.351 | 5 | – | – | – | – |
+| Egydio Zani | R$ 1.100 | 5 | – | – | – | – |
+| Eldorado | R$ 1.636 | 37 | – | – | – | – |
+| Eville Mais Parque Rio Preto | R$ 6.245 | 8 | – | – | – | – |
+| Gaivota II | R$ 8.221 | 14 | – | – | – | – |
+| Giardino | R$ 4.605 | 5 | – | – | – | – |
+| Green Valley Edge City | R$ 8.315 | 6 | – | – | – | – |
+| Higienópolis | R$ 4.682 | 12 | R$ 31,7 | 8 | 8,12% | – |
+| Ideal Life Ecolazer Residence | R$ 6.154 | 21 | – | – | – | – |
+| Jardim Aclimação | R$ 4.082 | 11 | R$ 20,6 | 7 | 6,06% | – |
+| Jardim Alice | R$ 2.105 | 5 | – | – | – | – |
+| Jardim Alto Alegre | R$ 2.636 | 5 | – | – | – | – |
+| Jardim Alto Rio Preto | R$ 3.734 | 10 | R$ 18,1 | 11 | 5,82% | – |
+| Jardim Alvorada | – | – | R$ 23,7 | 7 | – | – |
+| Jardim América | R$ 1.767 | 9 | – | – | – | – |
+| Jardim Antunes | R$ 1.525 | 8 | – | – | – | – |
+| Jardim Arroyo | R$ 1.500 | 15 | – | – | – | – |
+| Jardim Astúrias | R$ 3.000 | 11 | – | – | – | – |
+| Jardim Bianco | R$ 2.537 | 7 | – | – | – | – |
+| Jardim Bordon | – | – | R$ 13,6 | 6 | – | – |
+| Jardim Bosque das Vivendas | R$ 4.318 | 9 | – | – | – | – |
+| Jardim Caetano II | R$ 3.071 | 7 | – | – | – | – |
+| Jardim Canaã | R$ 2.942 | 5 | – | – | – | – |
+| Jardim Caparroz | R$ 2.586 | 9 | – | – | – | – |
+| Jardim Conceição | R$ 3.333 | 23 | R$ 19,2 | 5 | 6,91% | – |
+| Jardim das Oliveiras | R$ 2.640 | 9 | – | – | – | – |
+| Jardim do Cedro | R$ 6.681 | 6 | – | – | – | – |
+| Jardim dos Seixas | R$ 4.195 | 6 | R$ 18,6 | 5 | 5,32% | – |
+| Jardim Estrela | R$ 2.354 | 6 | – | – | – | – |
+| Jardim Europa | R$ 2.857 | 5 | – | – | – | – |
+| Jardim Francisco Fernandes | R$ 5.914 | 16 | R$ 34,9 | 16 | 7,08% | – |
+| Jardim João Paulo II | R$ 1.588 | 10 | – | – | – | – |
+| Jardim Maracanã | R$ 2.889 | 9 | – | – | – | – |
+| Jardim Marajó | R$ 3.375 | 5 | – | – | – | – |
+| Jardim Maria Lúcia | R$ 1.938 | 8 | – | – | – | – |
+| Jardim Morumbi | R$ 4.578 | 6 | – | – | – | – |
+| Jardim Moysés Miguel Haddad | R$ 8.888 | 21 | – | – | – | – |
+| Jardim Nazareth | R$ 2.366 | 30 | – | – | – | – |
+| Jardim Nunes | R$ 1.979 | 18 | – | – | – | – |
+| Jardim Ouro Verde | R$ 1.429 | 7 | – | – | – | – |
+| Jardim Paulista | R$ 2.440 | 6 | – | – | – | – |
+| Jardim Planalto | R$ 1.564 | 7 | – | – | – | – |
+| Jardim Primavera | R$ 2.755 | 8 | – | – | – | – |
+| Jardim Residencial Etemp | R$ 2.504 | 7 | – | – | – | – |
+| Jardim Residencial Vetorasso | R$ 2.546 | 9 | – | – | – | – |
+| Jardim Santa Catarina | R$ 2.612 | 12 | – | – | – | – |
+| Jardim São Marco | R$ 3.669 | 16 | – | – | – | – |
+| Jardim Schmitt | R$ 2.108 | 5 | – | – | – | – |
+| Jardim Seyon | R$ 3.296 | 6 | – | – | – | – |
+| Jardim Simões | R$ 2.025 | 9 | – | – | – | – |
+| Jardim Soraia | R$ 1.438 | 8 | – | – | – | – |
+| Jardim Tarraf | R$ 3.485 | 7 | – | – | – | – |
+| Jardim Tarraf II | R$ 4.738 | 35 | R$ 20,1 | 6 | 5,09% | – |
+| Jardim Urano | – | – | R$ 14,6 | 5 | – | – |
+| Jardim Vista Alegre | R$ 5.357 | 9 | – | – | – | – |
+| Jardim Vitória Régia | R$ 2.274 | 6 | – | – | – | – |
+| Jardim Vivendas | R$ 5.882 | 19 | – | – | – | – |
+| Jardim Yolanda | R$ 4.170 | 12 | R$ 22,2 | 6 | 6,39% | – |
+| Loteamento Recanto do Lago | R$ 6.327 | 14 | – | – | – | – |
+| Loteamento Residencial Luz da Esperança | R$ 2.160 | 7 | – | – | – | – |
+| Maisparque Rio Preto | R$ 3.950 | 6 | – | – | – | – |
+| Maria Júlia | R$ 7.927 | 7 | – | – | – | – |
+| Nova Redentora | – | – | R$ 26,9 | 8 | – | – |
+| Parque da Liberdade | R$ 5.091 | 9 | – | – | – | – |
+| Parque da Liberdade IV | R$ 3.556 | 5 | – | – | – | – |
+| Parque da Liberdade VI | R$ 4.067 | 6 | – | – | – | – |
+| Parque das Amoras | R$ 2.817 | 5 | – | – | – | – |
+| Parque das Amoras II | R$ 2.810 | 12 | – | – | – | – |
+| Parque das Aroeiras | R$ 1.775 | 16 | – | – | – | – |
+| Parque das Aroeiras II | R$ 2.050 | 11 | – | – | – | – |
+| Parque Estoril | R$ 2.164 | 10 | – | – | – | – |
+| Parque Industrial | R$ 2.314 | 37 | R$ 17,7 | 12 | 9,18% | – |
+| Parque Jaguaré | R$ 2.500 | 7 | – | – | – | – |
+| Parque Quinta das Paineiras | R$ 2.714 | 5 | – | – | – | – |
+| Parque Residencial Buona Vita | R$ 6.875 | 21 | – | – | – | – |
+| Parque Residencial Comendador Mancor Daud | R$ 3.044 | 20 | R$ 11,7 | 5 | 4,61% | – |
+| Parque Residencial da Fraternidade | R$ 1.825 | 7 | – | – | – | – |
+| Parque Residencial da Solidariedade | R$ 950 | 5 | – | – | – | – |
+| Parque Residencial Damha | R$ 7.298 | 50 | R$ 31,1 | 9 | 5,11% | – |
+| Parque Residencial Damha III | R$ 6.434 | 7 | – | – | – | – |
+| Parque Residencial Damha IV | R$ 6.667 | 19 | – | – | – | – |
+| Parque Residencial Damha V | R$ 8.252 | 16 | – | – | – | – |
+| Parque Residencial Damha VI | R$ 8.705 | 24 | – | – | – | – |
+| Parque Residencial Dom Lafaiete Libânio | R$ 2.500 | 7 | – | – | – | – |
+| Parque Residencial Dom Lafayete Libanio | R$ 1.658 | 7 | – | – | – | – |
+| Parque Residencial J. Macedo | R$ 3.175 | 21 | – | – | – | – |
+| Parque Residencial Nature I | R$ 5.045 | 13 | – | – | – | – |
+| Parque Residencial Universo | R$ 2.375 | 6 | – | – | – | – |
+| Parque São Miguel | R$ 4.364 | 11 | – | – | – | – |
+| Parque Vila Nobre | R$ 2.575 | 16 | – | – | – | – |
+| Quinta do Golfe Jardins | R$ 15.444 | 5 | – | – | – | – |
+| Quinta do Lago | R$ 7.950 | 21 | – | – | – | – |
+| Quinta do Lago II | R$ 8.323 | 6 | – | – | – | – |
+| Quinta do Lago II - Lac Leman | R$ 8.842 | 9 | – | – | – | – |
+| Quinta do Lago Residence | R$ 8.513 | 10 | – | – | – | – |
+| Recanto do Lago | R$ 6.616 | 12 | – | – | – | – |
+| Recanto Real | R$ 6.512 | 15 | R$ 25,3 | 10 | 4,66% | – |
+| Residencial Alta Vista | R$ 5.893 | 11 | – | – | – | – |
+| Residencial Alto das Andorinhas | R$ 2.150 | 13 | – | – | – | – |
+| Residencial Ana Célia | R$ 2.149 | 8 | – | – | – | – |
+| Residencial Ary Attab | R$ 4.094 | 5 | – | – | – | – |
+| Residencial Caetano | R$ 2.112 | 9 | – | – | – | – |
+| Residencial Cidade Jardim | R$ 2.370 | 6 | – | – | – | – |
+| Residencial das Américas | R$ 2.917 | 13 | – | – | – | – |
+| Residencial Doutor João Tajara | R$ 3.667 | 7 | – | – | – | – |
+| Residencial Eco Village I | R$ 9.546 | 5 | – | – | – | – |
+| Residencial Figueira II | R$ 6.765 | 9 | – | – | – | – |
+| Residencial Gabriela | R$ 2.289 | 7 | – | – | – | – |
+| Residencial Gaivota I | R$ 6.274 | 25 | R$ 28,2 | 11 | 5,39% | – |
+| Residencial Gaivota II | R$ 9.096 | 16 | – | – | – | – |
+| Residencial Jardim Antonieta | R$ 2.650 | 7 | – | – | – | – |
+| Residencial Jardim Vista Bela | R$ 1.900 | 5 | – | – | – | – |
+| Residencial Macedo Teles I | R$ 2.487 | 11 | – | – | – | – |
+| Residencial Machado I | R$ 3.071 | 5 | – | – | – | – |
+| Residencial Marcia | R$ 6.513 | 7 | – | – | – | – |
+| Residencial Maria Julia | R$ 7.254 | 44 | – | – | – | – |
+| Residencial Maza | R$ 5.420 | 8 | – | – | – | – |
+| Residencial Mirante | R$ 3.104 | 8 | – | – | – | – |
+| Residencial Morada do Sol | R$ 1.825 | 12 | – | – | – | – |
+| Residencial Nato Vetorasso | R$ 2.833 | 15 | – | – | – | – |
+| Residencial Palestra | R$ 2.863 | 22 | – | – | – | – |
+| Residencial Quinta do Golfe | R$ 15.111 | 24 | – | – | – | – |
+| Residencial Santa Ana | R$ 1.600 | 5 | – | – | – | – |
+| Residencial Santa Cruz | R$ 1.750 | 9 | – | – | – | – |
+| Residencial Santa Regina | R$ 2.600 | 13 | – | – | – | – |
+| Residencial São Thomaz | R$ 2.400 | 5 | – | – | – | – |
+| Residencial São Thomaz II | R$ 1.445 | 5 | – | – | – | – |
+| Residencial Setsul II | R$ 5.000 | 51 | – | – | – | – |
+| Residencial Vila Madalena | R$ 3.281 | 8 | – | – | – | – |
+| Residencial Village Damha Rio Preto II | R$ 6.316 | 13 | – | – | – | – |
+| Roseiral | R$ 3.124 | 9 | – | – | – | – |
+| Santos Dumont | R$ 4.571 | 13 | R$ 20,6 | 6 | 5,41% | – |
+| São Francisco | R$ 2.342 | 8 | – | – | – | – |
+| Setparque Avenida 2 | R$ 1.900 | 11 | – | – | – | – |
+| Setsul | R$ 3.900 | 31 | – | – | – | – |
+| Setsul II | R$ 5.550 | 6 | – | – | – | – |
+| Setvalley | R$ 2.222 | 13 | – | – | – | – |
+| Setvalley III | R$ 2.950 | 9 | – | – | – | – |
+| Solo Sagrado | R$ 1.700 | 13 | – | – | – | – |
+| Solo Sagrado I | R$ 1.512 | 10 | – | – | – | – |
+| Terra Nova Garden Village | R$ 3.436 | 6 | – | – | – | – |
+| Vila Anchieta | R$ 2.283 | 8 | R$ 14,4 | 8 | 7,57% | – |
+| Vila Angélica | R$ 2.162 | 6 | – | – | – | – |
+| Vila Boa Esperança | R$ 1.815 | 10 | – | – | – | – |
+| Vila Bom Jesus | R$ 3.325 | 11 | – | – | – | – |
+| Vila Curti | – | – | R$ 17,3 | 6 | – | – |
+| Vila Elvira | R$ 2.240 | 5 | – | – | – | – |
+| Vila Ercília | R$ 2.434 | 10 | – | – | – | – |
+| Vila Esplanada | R$ 2.799 | 8 | – | – | – | – |
+| Vila Imperial | R$ 4.000 | 13 | – | – | – | – |
+| Vila Ipiranga | R$ 2.487 | 7 | – | – | – | – |
+| Vila Maceno | R$ 2.765 | 13 | R$ 20,0 | 5 | 8,68% | – |
+| Vila Moreira | R$ 2.349 | 6 | – | – | – | – |
+| Vila Nossa Senhora Aparecida | R$ 2.783 | 7 | – | – | – | – |
+| Vila Nossa Senhora da Paz | R$ 4.095 | 10 | – | – | – | – |
+| Vila Redentora | R$ 5.000 | 17 | R$ 38,3 | 25 | 9,19% | – |
+| Vila Santa Cruz | R$ 2.662 | 22 | R$ 19,0 | 10 | 8,56% | – |
+| Vila Santo Antônio | R$ 3.228 | 8 | – | – | – | – |
+| Vila São Jorge | R$ 2.473 | 8 | – | – | – | – |
+| Vila São Judas Tadeu | R$ 2.239 | 6 | – | – | – | – |
+| Vila Toninho | R$ 1.667 | 9 | – | – | – | – |
+| Vila Zilda | R$ 3.000 | 5 | – | – | – | – |
+| Villa Cassini | R$ 3.286 | 7 | – | – | – | – |
+| Village Damha II | R$ 6.500 | 5 | – | – | – | – |
+| Village Damha Rio Preto III | R$ 7.696 | 13 | – | – | – | – |
+| Village Imperial Residence | R$ 5.614 | 6 | – | – | – | – |
+| Village Provence | R$ 8.415 | 19 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 1.004/m² (n=516)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Ascolo Martin | R$ 1.210 | 7 | – | – | – | – |
+| Boa Vista | R$ 1.153 | 16 | – | – | – | – |
+| Botanic Residence | R$ 1.366 | 10 | – | – | – | – |
+| Centro | R$ 2.465 | 6 | – | – | – | – |
+| Chácara Recreativa Residencial Cortina d'Ampezzo | R$ 196 | 9 | – | – | – | – |
+| Complexo Eplenum | R$ 1.364 | 5 | – | – | – | – |
+| Distrito Industrial | R$ 787 | 8 | – | – | – | – |
+| Distrito Industrial Doutor Carlos Arnaldo e Silva | R$ 450 | 5 | – | – | – | – |
+| Eldorado | R$ 566 | 5 | – | – | – | – |
+| Eparque Leste | R$ 471 | 5 | – | – | – | – |
+| Eplenum Tresor | R$ 1.420 | 12 | – | – | – | – |
+| Estância Jóckei Club | R$ 464 | 10 | – | – | – | – |
+| Jardim Moysés Miguel Haddad | R$ 1.000 | 5 | – | – | – | – |
+| Jardim Vitagliano | R$ 1.666 | 8 | – | – | – | – |
+| Jardim Vivendas | R$ 1.201 | 6 | – | – | – | – |
+| Maisparque Rio Preto | R$ 837 | 8 | – | – | – | – |
+| Parque Residencial Buona Vita | R$ 735 | 28 | – | – | – | – |
+| Parque Vila Nobre | R$ 410 | 5 | – | – | – | – |
+| Quinta do Lago II - Lac Leman | R$ 1.000 | 11 | – | – | – | – |
+| Quinta do Lago Lac Léman | R$ 956 | 8 | – | – | – | – |
+| Recanto do Lago | R$ 1.047 | 5 | – | – | – | – |
+| Residencial Maria Julia | R$ 909 | 7 | – | – | – | – |
+| Universitário | R$ 2.590 | 5 | – | – | – | – |
+| Vila Angélica | R$ 754 | 5 | – | – | – | – |
+| Vila Toninho | R$ 750 | 9 | – | – | – | – |
+| Village Provence | R$ 1.136 | 10 | – | – | – | – |
+
+### Salas comerciais, cidade toda: venda R$ 7.200/m² (n=82); aluguel R$ 60,0/m²/mês (n=309); rendimento bruto do aluguel 10,00% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Alto Rio Preto | – | – | R$ 137,1 | 5 | – | – |
+| Boa Vista | R$ 3.764 | 6 | R$ 56,7 | 8 | 18,08% | – |
+| Centro | R$ 4.750 | 23 | R$ 32,5 | 47 | 8,21% | – |
+| Georgina Business Park | – | – | R$ 109,1 | 15 | – | – |
+| Iguatemi | – | – | R$ 109,7 | 5 | – | – |
+| Jardim Aclimação | – | – | R$ 100,0 | 7 | – | – |
+| Jardim Urano | – | – | R$ 43,3 | 7 | – | – |
+| Jardim Vivendas | – | – | R$ 97,8 | 22 | – | – |
+| Jardim Walkíria | – | – | R$ 57,5 | 6 | – | – |
+| Nova Redentora | – | – | R$ 77,5 | 7 | – | – |
+| Parque Estoril | R$ 6.247 | 6 | – | – | – | – |
+| Parque Industrial | – | – | R$ 39,8 | 8 | – | – |
+| Parque Residencial Damha | – | – | R$ 101,1 | 5 | – | – |
+| Santos Dumont | – | – | R$ 89,7 | 15 | – | – |
+| Vila Ercília | – | – | R$ 35,1 | 5 | – | – |
+| Vila Imperial | R$ 5.909 | 7 | R$ 59,1 | 6 | 12,00% | – |
+| Vila Nossa Senhora Aparecida | – | – | R$ 50,0 | 5 | – | – |
+| Vila Redentora | – | – | R$ 41,7 | 9 | – | – |
+| Vila Santa Cruz | – | – | R$ 41,4 | 10 | – | – |
+| Vila São José | – | – | R$ 86,0 | 11 | – | – |
+| Vila Sinibaldi | – | – | R$ 53,6 | 8 | – | – |
 
 
 ## São José dos Campos (setembro/2026): https://acorridadosbairros.com.br/sp/sao-jose-dos-campos/
