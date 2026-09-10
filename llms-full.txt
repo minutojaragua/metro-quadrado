@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 62 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 480.949 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 63 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 481.528 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -5754,6 +5754,49 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Jurerê | – | – | R$ 97,2 | 5 | – | – |
 | Saco Grande | R$ 12.276 | 24 | R$ 68,8 | 15 | 6,73% | – |
 | Trindade | R$ 8.378 | 38 | R$ 60,0 | 23 | 8,59% | – |
+
+
+## Araquari (setembro/2026): https://acorridadosbairros.com.br/araquari/
+
+### Apartamentos, cidade toda: venda R$ 4.128/m² (n=12); aluguel R$ 23,2/m²/mês (n=21); rendimento bruto do aluguel 6,74% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Centro | – | – | R$ 20,8 | 5 | – | – |
+| Itinga | R$ 4.288 | 8 | R$ 31,3 | 6 | 8,76% | – |
+
+### Casas, cidade toda: venda R$ 4.174/m² (n=165); aluguel R$ 23,1/m²/mês (n=37); rendimento bruto do aluguel 6,64% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Areias Pequenas | R$ 2.479 | 13 | – | – | – | – |
+| Barra do Itapocú | R$ 4.000 | 17 | – | – | – | – |
+| Centro | R$ 5.000 | 15 | – | – | – | – |
+| Colégio Agrícola | R$ 2.689 | 8 | R$ 20,2 | 5 | 9,01% | – |
+| Itinga | R$ 4.429 | 85 | R$ 26,7 | 16 | 7,23% | – |
+| Porto Grande | R$ 4.174 | 12 | R$ 23,4 | 5 | 6,73% | – |
+| Volta Redonda | R$ 4.167 | 7 | R$ 19,4 | 5 | 5,59% | – |
+
+### Terrenos, cidade toda: venda R$ 600/m² (n=272)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Areias Pequenas | R$ 331 | 18 | – | – | – | – |
+| Barra do Itapocú | R$ 868 | 39 | – | – | – | – |
+| Centro | R$ 707 | 20 | – | – | – | – |
+| Colégio Agrícola | R$ 540 | 14 | – | – | – | – |
+| Corveta | R$ 259 | 12 | – | – | – | – |
+| Floresta | R$ 499 | 19 | – | – | – | – |
+| Itapocu | R$ 1.499 | 19 | – | – | – | – |
+| Itinga | R$ 718 | 56 | – | – | – | – |
+| Porto Grande | R$ 388 | 27 | – | – | – | – |
+| Volta Redonda | R$ 480 | 22 | – | – | – | – |
+
+### Salas comerciais, cidade toda: aluguel R$ 32,5/m²/mês (n=20)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Itinga | – | – | R$ 39,9 | 14 | – | – |
 
 
 ## Balneário Camboriú (setembro/2026): https://acorridadosbairros.com.br/balneario-camboriu/
