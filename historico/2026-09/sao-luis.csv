@@ -17,8 +17,8 @@ São Luís,Jaracaty,apartamento,venda,8221.2,7686.2,9292.8,6,8.45,setembro/2026
 São Luís,Jaracaty,apartamento,aluguel,57.9,48.6,70.0,5,8.45,setembro/2026
 São Luís,Jardim Eldorado,apartamento,venda,8064.5,7259.7,8312.4,11,5.3,setembro/2026
 São Luís,Jardim Eldorado,apartamento,aluguel,35.6,28.9,42.6,10,5.3,setembro/2026
-São Luís,Jardim Renascença,apartamento,venda,8941.9,6235.6,11650.0,114,7.7,setembro/2026
-São Luís,Jardim Renascença,apartamento,aluguel,57.4,46.1,68.6,62,7.7,setembro/2026
+São Luís,Jardim Renascença,apartamento,venda,8941.9,6235.6,11650.0,114,7.82,setembro/2026
+São Luís,Jardim Renascença,apartamento,aluguel,58.3,46.2,69.4,63,7.82,setembro/2026
 São Luís,Jardim São Francisco,apartamento,venda,8732.2,8315.8,9617.3,9,,setembro/2026
 São Luís,Olho d'Água,apartamento,venda,9921.3,7828.9,13128.1,31,10.08,setembro/2026
 São Luís,Olho d'Água,apartamento,aluguel,83.3,50.5,100.7,7,10.08,setembro/2026
@@ -59,25 +59,25 @@ São Luís,Jardim Renascença,casa,venda,3954.8,2909.7,4985.6,20,,setembro/2026
 São Luís,Jardim São Cristóvão,casa,venda,1617.2,1208.2,1633.3,5,,setembro/2026
 São Luís,Jardim São Francisco,casa,venda,2298.9,2158.5,3162.8,7,,setembro/2026
 São Luís,Maranhão Novo,casa,venda,2150.0,2058.8,3461.5,5,,setembro/2026
-São Luís,Olho d'Água,casa,venda,5577.7,3555.6,8000.0,63,8.07,setembro/2026
-São Luís,Olho d'Água,casa,aluguel,37.5,16.3,54.8,7,8.07,setembro/2026
+São Luís,Olho d'Água,casa,venda,5560.2,3527.8,8000.0,62,8.09,setembro/2026
+São Luís,Olho d'Água,casa,aluguel,37.5,16.3,54.8,7,8.09,setembro/2026
 São Luís,Parque Athenas,casa,venda,4690.0,3365.8,5756.2,6,,setembro/2026
 São Luís,Planalto Vinhais II,casa,venda,3720.7,3047.9,4395.8,6,,setembro/2026
 São Luís,Ponta d'Areia,casa,venda,5078.1,3260.9,8354.4,25,,setembro/2026
 São Luís,Ponta do Farol,casa,venda,3959.4,2886.7,5439.0,14,,setembro/2026
-São Luís,Quintas do Calhau,casa,venda,4540.5,4000.0,6947.8,26,,setembro/2026
+São Luís,Quintas do Calhau,casa,venda,4500.0,4000.0,6738.5,25,,setembro/2026
 São Luís,Recanto dos Vinhais,casa,venda,3740.0,2397.5,6402.1,10,,setembro/2026
 São Luís,Renascença,casa,venda,3750.0,2065.5,4166.7,9,,setembro/2026
 São Luís,São Francisco,casa,venda,2210.0,1452.2,3384.4,6,,setembro/2026
 São Luís,Turu,casa,venda,5597.6,3500.0,7125.0,49,6.28,setembro/2026
 São Luís,Turu,casa,aluguel,29.3,24.0,38.9,8,6.28,setembro/2026
 São Luís,Vinhais,casa,venda,3164.6,2254.6,3700.8,9,,setembro/2026
-São Luís,Calhau,terreno,venda,1577.7,1116.7,2209.2,6,,setembro/2026
-São Luís,Cohama,terreno,venda,880.0,545.0,925.0,6,,setembro/2026
+São Luís,Calhau,terreno,venda,1241.7,1075.0,1913.6,5,,setembro/2026
+São Luís,Cohama,terreno,venda,860.0,440.0,900.0,5,,setembro/2026
 São Luís,Jardim Renascença,terreno,venda,680.6,375.0,843.1,12,,setembro/2026
 São Luís,Olho d'Água,terreno,venda,683.3,504.7,1043.5,14,,setembro/2026
 São Luís,Ponta d'Areia,terreno,venda,1240.1,977.8,1386.9,6,,setembro/2026
-São Luís,Ponta do Farol,terreno,venda,1562.5,264.8,2793.4,7,,setembro/2026
+São Luís,Ponta do Farol,terreno,venda,279.6,250.0,1562.5,5,,setembro/2026
 São Luís,Quintas do Calhau,terreno,venda,1187.5,1050.0,1333.3,9,,setembro/2026
 São Luís,Turu,terreno,venda,561.8,273.5,1363.6,11,,setembro/2026
 São Luís,Calhau,sala,aluguel,100.0,62.9,125.0,7,,setembro/2026
@@ -85,7 +85,7 @@ São Luís,Jardim Renascença,sala,aluguel,75.8,66.2,87.1,11,,setembro/2026
 São Luís,Renascença,sala,aluguel,66.6,61.8,87.9,7,,setembro/2026
 São Luís,São Francisco,sala,aluguel,54.4,51.1,57.8,6,,setembro/2026
 São Luís,Calhau,galpao,aluguel,8.9,7.6,11.8,6,,setembro/2026
-São Luís,Jardim Renascença,galpao,aluguel,11.3,5.0,27.8,9,,setembro/2026
+São Luís,Jardim Renascença,galpao,aluguel,8.6,4.5,23.6,8,,setembro/2026
 São Luís,Jardim São Cristóvão,galpao,aluguel,14.4,8.7,26.0,8,,setembro/2026
 São Luís,Ponta d'Areia,galpao,aluguel,12.1,8.9,27.2,6,,setembro/2026
 São Luís,Tibiri,galpao,aluguel,25.0,10.0,26.3,5,,setembro/2026
