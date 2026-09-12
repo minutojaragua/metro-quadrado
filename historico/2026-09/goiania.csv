@@ -1,11 +1,8 @@
 cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
 Goiânia,Aeroviário,casa,venda,3054.8,2183.8,3652.4,6,,setembro/2026
 Goiânia,Água Branca,casa,venda,2916.7,2248.7,3143.1,7,,setembro/2026
-Goiânia,Alphaville Araguaia,casa,venda,12018.1,10616.4,14027.1,45,7.53,setembro/2026
-Goiânia,Alphaville Araguaia,casa,aluguel,75.4,51.2,85.9,7,7.53,setembro/2026
-Goiânia,Alphaville Flamboyant,casa,venda,12600.7,10401.1,14158.9,90,3.52,setembro/2026
-Goiânia,Alphaville Flamboyant,casa,aluguel,37.0,27.3,47.0,10,3.52,setembro/2026
-Goiânia,Alphaville Goiás,casa,venda,13930.3,11896.8,15000.0,5,,setembro/2026
+Goiânia,Alphaville Flamboyant,casa,venda,12291.7,10620.7,14149.4,143,4.76,setembro/2026
+Goiânia,Alphaville Flamboyant,casa,aluguel,48.8,32.8,72.0,17,4.76,setembro/2026
 Goiânia,Anhangüera,casa,venda,4990.2,4031.0,6291.1,20,,setembro/2026
 Goiânia,Capuava,casa,venda,3897.1,3100.0,5131.3,19,,setembro/2026
 Goiânia,Cardoso Continuacao Aparecida,casa,venda,5265.0,4457.8,5705.9,5,,setembro/2026
@@ -420,8 +417,7 @@ Goiânia,Vila São João,apartamento,venda,8823.5,4468.8,9420.3,17,,setembro/202
 Goiânia,Vila São Luiz,apartamento,venda,4872.9,4508.9,5428.6,11,,setembro/2026
 Goiânia,Village Veneza,apartamento,venda,7096.8,6549.2,7795.8,39,5.85,setembro/2026
 Goiânia,Village Veneza,apartamento,aluguel,34.6,32.5,37.5,9,5.85,setembro/2026
-Goiânia,Alphaville Araguaia,terreno,venda,3686.4,3085.5,4053.9,8,,setembro/2026
-Goiânia,Alphaville Flamboyant,terreno,venda,2636.1,2294.1,4000.0,25,,setembro/2026
+Goiânia,Alphaville Flamboyant,terreno,venda,3118.1,2325.6,4000.0,33,,setembro/2026
 Goiânia,Chácaras de Recreio São Joaquim,terreno,venda,333.4,185.8,559.0,6,,setembro/2026
 Goiânia,Chácaras Retiro,terreno,venda,878.1,834.4,1000.0,5,,setembro/2026
 Goiânia,Cidade Jardim,terreno,venda,1349.2,1160.7,1874.1,8,,setembro/2026
