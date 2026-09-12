@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 67 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 530.410 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 67 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 531.776 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -6416,126 +6416,134 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 
 ## Brusque (setembro/2026): https://acorridadosbairros.com.br/brusque/
 
-### Apartamentos, cidade toda: venda R$ 7.462/m² (n=1691); aluguel R$ 37,2/m²/mês (n=258); rendimento bruto do aluguel 5,98% a.a.
+### Apartamentos, cidade toda: venda R$ 7.446/m² (n=2023); aluguel R$ 36,1/m²/mês (n=310); rendimento bruto do aluguel 5,82% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Águas Claras | R$ 5.428 | 19 | – | – | – | – |
-| Azambuja | R$ 6.473 | 48 | – | – | – | – |
-| Cedrinho | R$ 5.152 | 11 | – | – | – | – |
-| Centro | R$ 9.328 | 172 | R$ 35,4 | 22 | 4,55% | – |
-| Centro I | R$ 8.409 | 342 | R$ 32,0 | 26 | 4,57% | – |
-| Centro II | R$ 8.713 | 55 | R$ 53,3 | 17 | 7,34% | – |
+| Águas Claras | R$ 5.670 | 29 | – | – | – | – |
+| Azambuja | R$ 6.533 | 62 | R$ 30,0 | 5 | 5,51% | – |
+| Bateas | R$ 5.197 | 5 | – | – | – | – |
+| Cedrinho | R$ 5.617 | 14 | R$ 32,1 | 5 | 6,86% | – |
+| Centro | R$ 9.117 | 205 | R$ 35,4 | 22 | 4,66% | – |
+| Centro 1 | R$ 8.564 | 21 | – | – | – | – |
+| Centro I | R$ 8.494 | 368 | R$ 32,0 | 32 | 4,52% | – |
+| Centro II | R$ 8.905 | 72 | R$ 46,0 | 19 | 6,20% | – |
 | Cerâmica Reis | R$ 4.918 | 5 | – | – | – | – |
-| Dom Joaquim | R$ 5.385 | 37 | – | – | – | – |
-| Guarani | R$ 7.385 | 103 | R$ 36,7 | 15 | 5,96% | – |
-| Jardim Maluche | R$ 5.500 | 31 | R$ 28,9 | 8 | 6,31% | – |
-| Limeira | R$ 5.439 | 5 | R$ 31,7 | 5 | 6,99% | – |
-| Limeira Baixa | R$ 5.439 | 27 | R$ 28,0 | 9 | 6,18% | – |
-| Limoeiro | R$ 6.956 | 24 | R$ 31,2 | 11 | 5,38% | – |
-| Nova Brasília | R$ 6.709 | 35 | R$ 54,3 | 13 | 9,71% | – |
-| Paquetá | R$ 5.558 | 18 | – | – | – | – |
-| Poço Fundo | R$ 4.848 | 9 | – | – | – | – |
-| Primeiro de Maio | R$ 6.377 | 15 | – | – | – | – |
-| Rio Branco | R$ 5.873 | 66 | R$ 36,6 | 5 | 7,48% | – |
-| Santa Rita | R$ 8.406 | 115 | R$ 33,8 | 25 | 4,83% | – |
-| Santa Terezinha | R$ 8.193 | 145 | R$ 55,0 | 44 | 8,06% | – |
-| São Luiz | R$ 8.810 | 191 | R$ 38,0 | 16 | 5,18% | – |
-| São Pedro | R$ 6.312 | 35 | – | – | – | – |
-| Souza Cruz | R$ 7.812 | 130 | R$ 31,0 | 16 | 4,76% | – |
-| Steffen | R$ 7.182 | 34 | – | – | – | – |
+| Dom Joaquim | R$ 5.429 | 45 | – | – | – | – |
+| Guarani | R$ 7.109 | 125 | R$ 35,5 | 20 | 5,99% | – |
+| Jardim Maluche | R$ 5.500 | 37 | R$ 34,4 | 10 | 7,51% | – |
+| Limeira | R$ 5.802 | 12 | R$ 33,0 | 6 | 6,83% | – |
+| Limeira Baixa | R$ 5.309 | 34 | R$ 28,2 | 14 | 6,37% | – |
+| Limoeiro | R$ 6.809 | 28 | R$ 31,2 | 11 | 5,50% | – |
+| Nova Brasília | R$ 6.746 | 39 | R$ 47,2 | 9 | 8,40% | – |
+| Paquetá | R$ 5.753 | 29 | R$ 29,3 | 5 | 6,11% | – |
+| Poço Fundo | R$ 5.079 | 11 | – | – | – | – |
+| Primeiro de Maio | R$ 6.377 | 17 | R$ 35,7 | 6 | 6,72% | – |
+| Rio Branco | R$ 5.935 | 76 | R$ 35,1 | 7 | 7,10% | – |
+| Santa Rita | R$ 8.340 | 130 | R$ 35,4 | 25 | 5,09% | – |
+| Santa Terezinha | R$ 8.394 | 166 | R$ 54,3 | 48 | 7,76% | – |
+| São João | R$ 5.118 | 5 | – | – | – | – |
+| São Luís | R$ 10.825 | 8 | – | – | – | – |
+| São Luiz | R$ 8.665 | 223 | R$ 38,6 | 21 | 5,35% | – |
+| São Pedro | R$ 6.583 | 46 | R$ 62,2 | 6 | 11,34% | – |
+| Souza Cruz | R$ 8.043 | 150 | R$ 30,9 | 20 | 4,61% | – |
+| Steffen | R$ 7.165 | 41 | – | – | – | – |
+| Tomaz Coelho | – | – | R$ 30,8 | 5 | – | – |
 
-### Casas, cidade toda: venda R$ 5.469/m² (n=1241); aluguel R$ 29,3/m²/mês (n=101); rendimento bruto do aluguel 6,43% a.a.
-
-| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
-|---|---|---|---|---|---|---|
-| Águas Claras | R$ 5.354 | 82 | R$ 31,6 | 8 | 7,08% | – |
-| Azambuja | R$ 5.588 | 59 | – | – | – | – |
-| Bateas | R$ 4.908 | 25 | – | – | – | – |
-| Cedrinho | R$ 4.800 | 51 | – | – | – | – |
-| Cedro Alto | R$ 5.385 | 13 | – | – | – | – |
-| Centro | R$ 6.799 | 17 | R$ 40,9 | 5 | 7,22% | – |
-| Centro I | R$ 9.028 | 8 | R$ 27,4 | 6 | 3,64% | – |
-| Centro II | R$ 5.026 | 8 | – | – | – | – |
-| Cerâmica Reis | R$ 5.470 | 11 | – | – | – | – |
-| Dom Joaquim | R$ 5.750 | 121 | R$ 30,6 | 6 | 6,39% | – |
-| Guarani | R$ 5.600 | 47 | – | – | – | – |
-| Jardim Maluche | R$ 6.273 | 43 | R$ 28,7 | 6 | 5,49% | – |
-| Limeira | R$ 5.348 | 25 | – | – | – | – |
-| Limeira Baixa | R$ 5.300 | 52 | R$ 32,3 | 12 | 7,31% | – |
-| Limoeiro | R$ 5.581 | 57 | – | – | – | – |
-| Nova Brasília | R$ 5.061 | 32 | – | – | – | – |
-| Paquetá | R$ 5.200 | 9 | – | – | – | – |
-| Planalto | R$ 4.571 | 19 | – | – | – | – |
-| Poço Fundo | R$ 4.608 | 20 | – | – | – | – |
-| Ponta Russa | R$ 5.270 | 10 | – | – | – | – |
-| Primeiro de Maio | R$ 5.670 | 80 | R$ 22,9 | 7 | 4,85% | – |
-| Rio Branco | R$ 5.770 | 56 | – | – | – | – |
-| Santa Luzia | R$ 5.400 | 9 | – | – | – | – |
-| Santa Rita | R$ 6.409 | 32 | R$ 30,0 | 5 | 5,62% | – |
-| Santa Terezinha | R$ 5.951 | 56 | – | – | – | – |
-| São João | R$ 5.267 | 35 | – | – | – | – |
-| São Luiz | R$ 5.738 | 22 | – | – | – | – |
-| São Pedro | R$ 4.986 | 72 | – | – | – | – |
-| Souza Cruz | R$ 5.926 | 97 | R$ 39,8 | 8 | 8,06% | – |
-| Steffen | R$ 4.920 | 12 | – | – | – | – |
-| Tomaz Coelho | R$ 4.821 | 20 | – | – | – | – |
-| Volta Grande | R$ 5.429 | 25 | – | – | – | – |
-| Zantão | R$ 4.570 | 11 | – | – | – | – |
-
-### Terrenos, cidade toda: venda R$ 809/m² (n=893)
+### Casas, cidade toda: venda R$ 5.485/m² (n=1790); aluguel R$ 28,9/m²/mês (n=136); rendimento bruto do aluguel 6,32% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Águas Claras | R$ 581 | 43 | – | – | – | – |
-| Azambuja | R$ 833 | 64 | – | – | – | – |
-| Bateas | R$ 800 | 62 | – | – | – | – |
-| Cedrinho | R$ 776 | 6 | – | – | – | – |
-| Cedro Alto | R$ 784 | 37 | – | – | – | – |
-| Centro | R$ 1.208 | 16 | – | – | – | – |
-| Centro I | R$ 1.292 | 12 | – | – | – | – |
-| Centro II | R$ 1.028 | 13 | – | – | – | – |
-| Dom Joaquim | R$ 850 | 129 | – | – | – | – |
-| Guarani | R$ 967 | 37 | – | – | – | – |
-| Jardim Maluche | R$ 1.240 | 18 | – | – | – | – |
-| Limeira | R$ 447 | 19 | – | – | – | – |
-| Limeira Alta | R$ 658 | 5 | – | – | – | – |
-| Limeira Baixa | R$ 504 | 37 | – | – | – | – |
-| Limoeiro | R$ 596 | 9 | – | – | – | – |
-| Nova Brasília | R$ 735 | 16 | – | – | – | – |
-| Paquetá | R$ 900 | 8 | – | – | – | – |
-| Planalto | R$ 808 | 9 | – | – | – | – |
-| Poço Fundo | R$ 486 | 7 | – | – | – | – |
-| Primeiro de Maio | R$ 856 | 62 | – | – | – | – |
-| Rio Branco | R$ 766 | 15 | – | – | – | – |
-| Santa Rita | R$ 1.551 | 26 | – | – | – | – |
-| Santa Terezinha | R$ 1.708 | 10 | – | – | – | – |
-| São João | R$ 830 | 20 | – | – | – | – |
-| São Luiz | R$ 2.422 | 6 | – | – | – | – |
-| São Pedro | R$ 813 | 70 | – | – | – | – |
-| Souza Cruz | R$ 816 | 71 | – | – | – | – |
-| Steffen | R$ 812 | 19 | – | – | – | – |
-| Tomaz Coelho | R$ 549 | 15 | – | – | – | – |
-| Volta Grande | R$ 586 | 13 | – | – | – | – |
-| Zantão | R$ 458 | 9 | – | – | – | – |
+| Águas Claras | R$ 5.333 | 118 | R$ 32,3 | 10 | 7,27% | – |
+| Azambuja | R$ 5.544 | 78 | R$ 24,2 | 8 | 5,24% | – |
+| Bateas | R$ 5.246 | 32 | – | – | – | – |
+| Cedrinho | R$ 4.907 | 71 | – | – | – | – |
+| Cedro Alto | R$ 5.369 | 24 | – | – | – | – |
+| Centro | R$ 6.753 | 23 | R$ 40,9 | 5 | 7,27% | – |
+| Centro I | R$ 8.000 | 21 | R$ 33,3 | 7 | 4,99% | – |
+| Centro II | R$ 6.446 | 12 | – | – | – | – |
+| Cerâmica Reis | R$ 5.172 | 17 | – | – | – | – |
+| Dom Joaquim | R$ 5.352 | 156 | R$ 26,7 | 9 | 5,99% | – |
+| Guarani | R$ 5.600 | 68 | – | – | – | – |
+| Jardim Maluche | R$ 6.934 | 66 | R$ 28,1 | 9 | 4,86% | – |
+| Limeira | R$ 5.375 | 45 | – | – | – | – |
+| Limeira Baixa | R$ 5.269 | 76 | R$ 33,3 | 14 | 7,58% | – |
+| Limoeiro | R$ 5.613 | 82 | R$ 24,9 | 7 | 5,32% | – |
+| Nova Brasília | R$ 5.243 | 50 | – | – | – | – |
+| Paquetá | R$ 4.954 | 15 | – | – | – | – |
+| Planalto | R$ 4.571 | 33 | – | – | – | – |
+| Poço Fundo | R$ 4.670 | 25 | – | – | – | – |
+| Ponta Russa | R$ 5.155 | 13 | – | – | – | – |
+| Primeiro de Maio | R$ 5.716 | 108 | R$ 22,9 | 9 | 4,81% | – |
+| Rio Branco | R$ 5.735 | 87 | – | – | – | – |
+| Santa Luzia | R$ 5.243 | 12 | – | – | – | – |
+| Santa Rita | R$ 5.444 | 40 | R$ 30,0 | 7 | 6,61% | – |
+| Santa Terezinha | R$ 6.111 | 75 | R$ 29,3 | 6 | 5,75% | – |
+| São João | R$ 5.307 | 46 | – | – | – | – |
+| São Luiz | R$ 6.056 | 34 | – | – | – | – |
+| São Pedro | R$ 5.224 | 102 | – | – | – | – |
+| Souza Cruz | R$ 5.875 | 124 | R$ 39,8 | 8 | 8,13% | – |
+| Steffen | R$ 4.583 | 19 | – | – | – | – |
+| Tomaz Coelho | R$ 5.260 | 40 | – | – | – | – |
+| Volta Grande | R$ 5.556 | 33 | – | – | – | – |
+| Zantão | R$ 4.609 | 19 | – | – | – | – |
 
-### Salas comerciais, cidade toda: venda R$ 8.804/m² (n=36); aluguel R$ 44,4/m²/mês (n=393); rendimento bruto do aluguel 6,05% a.a.
+### Terrenos, cidade toda: venda R$ 800/m² (n=1154)
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Azambuja | – | – | R$ 28,6 | 5 | – | – |
-| Centro | R$ 8.824 | 5 | R$ 35,3 | 48 | 4,80% | – |
-| Centro I | R$ 9.350 | 17 | R$ 45,5 | 127 | 5,84% | – |
-| Centro II | – | – | R$ 57,8 | 52 | – | – |
+| Águas Claras | R$ 586 | 57 | – | – | – | – |
+| Azambuja | R$ 808 | 75 | – | – | – | – |
+| Bateas | R$ 761 | 74 | – | – | – | – |
+| Cedrinho | R$ 775 | 6 | – | – | – | – |
+| Cedro Alto | R$ 764 | 48 | – | – | – | – |
+| Centro | R$ 1.167 | 19 | – | – | – | – |
+| Centro I | R$ 1.333 | 15 | – | – | – | – |
+| Centro II | R$ 972 | 17 | – | – | – | – |
+| Dom Joaquim | R$ 842 | 157 | – | – | – | – |
+| Guarani | R$ 1.040 | 47 | – | – | – | – |
+| Jardim Maluche | R$ 1.270 | 19 | – | – | – | – |
+| Limeira | R$ 448 | 25 | – | – | – | – |
+| Limeira Alta | R$ 446 | 7 | – | – | – | – |
+| Limeira Baixa | R$ 530 | 50 | – | – | – | – |
+| Limoeiro | R$ 705 | 11 | – | – | – | – |
+| Nova Brasília | R$ 735 | 20 | – | – | – | – |
+| Paquetá | R$ 800 | 13 | – | – | – | – |
+| Planalto | R$ 654 | 12 | – | – | – | – |
+| Poço Fundo | R$ 486 | 9 | – | – | – | – |
+| Primeiro de Maio | R$ 837 | 76 | – | – | – | – |
+| Rio Branco | R$ 766 | 23 | – | – | – | – |
+| Santa Luzia | R$ 792 | 6 | – | – | – | – |
+| Santa Rita | R$ 1.475 | 33 | – | – | – | – |
+| Santa Terezinha | R$ 1.670 | 16 | – | – | – | – |
+| São João | R$ 830 | 26 | – | – | – | – |
+| São Luiz | R$ 2.350 | 10 | – | – | – | – |
+| São Pedro | R$ 750 | 103 | – | – | – | – |
+| Souza Cruz | R$ 810 | 88 | – | – | – | – |
+| Steffen | R$ 804 | 28 | – | – | – | – |
+| Tomaz Coelho | R$ 566 | 20 | – | – | – | – |
+| Volta Grande | R$ 539 | 19 | – | – | – | – |
+| Zantão | R$ 452 | 11 | – | – | – | – |
+
+### Salas comerciais, cidade toda: venda R$ 8.784/m² (n=55); aluguel R$ 44,6/m²/mês (n=477); rendimento bruto do aluguel 6,09% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Azambuja | – | – | R$ 28,6 | 6 | – | – |
+| Centro | R$ 12.540 | 11 | R$ 37,1 | 62 | 3,55% | – |
+| Centro 1 | – | – | R$ 48,5 | 17 | – | – |
+| Centro I | R$ 9.312 | 20 | R$ 45,7 | 133 | 5,89% | – |
+| Centro II | R$ 6.429 | 5 | R$ 59,4 | 65 | 11,09% | – |
 | Dom Joaquim | – | – | R$ 32,7 | 6 | – | – |
-| Guarani | – | – | R$ 37,5 | 17 | – | – |
-| Jardim Maluche | – | – | R$ 40,6 | 32 | – | – |
-| Limeira Baixa | – | – | R$ 39,6 | 6 | – | – |
-| Primeiro de Maio | – | – | R$ 44,7 | 24 | – | – |
-| Santa Rita | – | – | R$ 53,2 | 12 | – | – |
-| Santa Terezinha | – | – | R$ 50,7 | 6 | – | – |
-| São Luiz | – | – | R$ 42,7 | 21 | – | – |
-| Souza Cruz | – | – | R$ 35,0 | 17 | – | – |
+| Guarani | – | – | R$ 36,3 | 22 | – | – |
+| Jardim Maluche | – | – | R$ 45,5 | 39 | – | – |
+| Limeira Baixa | – | – | R$ 39,6 | 8 | – | – |
+| Primeiro de Maio | – | – | R$ 42,9 | 27 | – | – |
+| Santa Rita | – | – | R$ 40,7 | 13 | – | – |
+| Santa Terezinha | – | – | R$ 56,8 | 8 | – | – |
+| São Luiz | – | – | R$ 42,0 | 23 | – | – |
+| São Pedro | – | – | R$ 38,5 | 7 | – | – |
+| Souza Cruz | – | – | R$ 35,0 | 18 | – | – |
 
 
 ## Chapecó (setembro/2026): https://acorridadosbairros.com.br/chapeco/
