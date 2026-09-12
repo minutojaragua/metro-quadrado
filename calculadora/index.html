@@ -490,9 +490,7 @@ async function calcula(){
   const onde=bai==="__geral__"?cnome:bai+" ("+cnome+")";
   if(!st){R.innerHTML='<div class="card"><p>Ainda não temos anúncios suficientes de '+(CATS[cat]||cat).toLowerCase()+' ('+op+') em '+onde+': o corte mínimo é 5 anúncios válidos. Tente "Cidade inteira" ou outra categoria.</p></div>';return;}
   const arr=op==="venda"?1000:10, suf=op==="aluguel"?"/mês":"";
-  const fa=((S.geral||{}).faixas_area||{})[op];
-  const banda=fa?fa.find(f=>area>=f.min&&area<f.max):null;
-  const mult=(banda&&Math.abs(banda.mult-1)>0.02)?banda.mult:1;
+  const FF=fatorFaixa(no,S,op,area,cat), mult=FF.mult;
   const med=Math.round(st.mediana*mult*area/arr)*arr, lo=Math.round(st.p25*mult*area/arr)*arr, hi=Math.round(st.p75*mult*area/arr)*arr;
   // 02/09/2026 (compliance): "vale" é vocabulário de avaliação (Lei 6.530/78, Res. COFECI 1.066/07). O aviso
   // fica DENTRO do cartão, porque é o print do cartão que a pessoa manda no WhatsApp.
@@ -502,19 +500,38 @@ async function calcula(){
   h+='<p style="font-size:1.25em;margin:10px 0">'+frase+'<b>R$ '+fmt(med)+suf+'</b></p>';
   h+='<p class="sub" style="margin:-4px 0 10px">Estimativa a partir de anúncios públicos do mês. Não é avaliação do seu imóvel.</p>';
   h+='<p>A metade central dos anúncios do mês sugere entre <b>R$ '+fmt(lo)+suf+'</b> e <b>R$ '+fmt(hi)+suf+'</b>. Base: R$ '+fmt(st.mediana,op==="aluguel"?1:0)+'/m² (mediana) · '+badge(st.n)+'</p>';
-  if(mult!==1){const pc=Math.round((mult-1)*100);
-    h+='<p style="color:#666">📐 Ajuste por tamanho: dentro do mesmo bairro, '+(CATS[cat]||cat).toLowerCase()+'s de '+rotFaixa(banda)+' pedem <b>'+(pc>0?'+':'')+pc+'%</b> por m² em relação à mediana do bairro; a estimativa acima já considera isso (n='+banda.n+' anúncios na cidade'+(banda.n<30?', amostra pequena':'')+').</p>';}
-  if(fa&&fa.length>=3){
-    h+='<details style="margin-top:10px"><summary style="cursor:pointer;color:#1b6e1b;font-weight:700">📏 R$/m² por tamanho em '+cnome+' ('+(CATS[cat]||cat).toLowerCase()+', '+op+')</summary>';
-    h+='<table style="margin-top:8px;font-size:0.92em"><thead><tr><th>tamanho</th><th>anúncios</th><th>R$/m² mediano</th><th>dentro do bairro</th></tr></thead><tbody>';
-    fa.forEach(f=>{const pc=Math.round((f.mult-1)*100), eu=banda&&f.min===banda.min;
-      h+='<tr'+(eu?' style="background:#eef7ee;font-weight:700"':'')+'><td>'+rotFaixa(f)+(eu?' ← o seu':'')+'</td><td>'+f.n+'</td><td>R$ '+fmt(f.ppm,op==="aluguel"?1:0)+'</td><td>'+(Math.abs(pc)<=2?'na média':(pc>0?'+':'')+pc+'%')+'</td></tr>';});
-    h+='</tbody></table><p class="sub" style="margin-top:6px">"Dentro do bairro" compara cada anúncio com a mediana do próprio bairro: é o efeito do tamanho sem misturar com a localização. O m² do imóvel pequeno custa mais (o mercado chama de efeito Manhattan) porque cozinha, banheiro e área comum pesam igual num imóvel de 35 ou de 90 m². No imóvel muito grande o m² também pode subir, por padrão de acabamento.</p></details>';
+  if(Math.abs(mult-1)>0.02){const pc=Math.round((mult-1)*100), sg=(pc>0?'+':'')+pc+'%';
+    const tipo=(CATS[cat]||cat).toLowerCase()+' de '+fmt(area)+' m²';
+    h+='<p style="color:#666">📐 Ajuste por tamanho: '
+      +(FF.fonte==="no"
+        ? (bai==="__geral__"?'em '+cnome+', um '+tipo+' pede <b>'+sg+'</b> por m² em relação à mediana da cidade'
+                            :'no '+bai+', um '+tipo+' pede <b>'+sg+'</b> por m² em relação à mediana do bairro')
+        : FF.fonte==="descartada"
+          ? 'os anúncios de '+FF.rot+' '+(bai==="__geral__"?'em '+cnome:'no '+bai)+' têm preço total típico <b>abaixo</b> do da faixa anterior, o que costuma indicar área cadastrada errada; por isso a estimativa segue a curva de '+cnome+' a partir da faixa '+FF.ultima+': <b>'+sg+'</b> por m²'
+        : FF.fonte==="extra"
+          ? (bai==="__geral__"?'em '+cnome:'no '+bai)+' não há anúncios desse tamanho, então a estimativa parte do imóvel medido mais próximo e usa o formato da curva de '+cnome+': <b>'+sg+'</b> por m²'
+          : (bai==="__geral__"
+             ? 'em '+cnome+', um '+tipo+' pede <b>'+sg+'</b> por m² em relação à mediana da cidade'
+             : 'o '+bai+' ainda não tem anúncios suficientes de '+FF.rot+', então usamos o efeito de tamanho medido em '+cnome+': <b>'+sg+'</b> por m²'))
+      +' ('+badge(FF.n)+'). A estimativa acima já considera isso.</p>';}
+  const TB=tabFaixas(no,op);
+  if(TB){
+    const ondeT=bai==="__geral__"?cnome:bai, ondeFr=bai==="__geral__"?("Em "+cnome):("No "+bai);
+    h+='<details style="margin-top:10px"><summary style="cursor:pointer;color:#1b6e1b;font-weight:700">📏 R$/m² por tamanho '+(bai==="__geral__"?"em ":"no ")+ondeT+' ('+(CATS[cat]||cat).toLowerCase()+', '+op+')</summary>';
+    // 12/09/2026 (banca de calculo): a faixa "acima de 150 m2" e ABERTA; em 16% dos bairros a area
+    // tipica dela passa de 250 m2, e o R$/m2 dela nao descreve um imovel de 200 m2. A tabela marcava
+    // essa linha como "o seu" e o texto acima dava outro numero (594 casos >10%, 64 com sinal oposto
+    // na mesma tela). Agora mostra a AREA TIPICA de cada faixa e uma linha para a area digitada.
+    const PP=curvaPPM(no,op)||[], DESC=(PP.descartadas||[]).map(q=>q[3]);
+    h+='<table style="margin-top:8px;font-size:0.92em"><thead><tr><th>tamanho</th><th>área típica</th><th>anúncios</th><th>R$/m² mediano</th><th>vs. mediana '+(bai==="__geral__"?"da cidade":"do bairro")+'</th></tr></thead><tbody>';
+    TB.linhas.forEach(x=>{const f=x[0],e=x[1],pc=Math.round((e.m2/TB.base-1)*100),at=e.valor?e.valor/e.m2:null,dd=DESC.indexOf(f[3])>=0;
+      h+='<tr'+(dd?' style="color:#999"':'')+'><td>'+f[3]+(dd?' ⚠':'')+'</td><td>'+(at?fmt(at)+' m²':'')+'</td><td>'+e.n+'</td><td>R$ '+fmt(e.m2,op==="aluguel"?1:0)+'</td><td>'+(Math.abs(pc)<=2?'na média':(pc>0?'+':'')+pc+'%')+'</td></tr>';});
+    if(FF.m2){const pcv=Math.round((FF.m2/TB.base-1)*100);
+      h+='<tr style="background:#eef7ee;font-weight:700"><td>o seu</td><td>'+fmt(area)+' m²</td><td>'+(FF.fonte==="no"?"na curva":"estimado")+'</td><td>R$ '+fmt(FF.m2,op==="aluguel"?1:0)+'</td><td>'+(Math.abs(pcv)<=2?'na média':(pcv>0?'+':'')+pcv+'%')+'</td></tr>';}
+    h+='</tbody></table><p class="sub" style="margin-top:6px">'+(bai==="__geral__"?curvaFraseCidade(S,op,ondeFr):curvaFrase(TB,ondeFr))+' As faixas são as mesmas da página '+(bai==="__geral__"?"da cidade":"do bairro")+'. A linha "o seu" é a curva lida na área digitada: entre duas faixas o valor fica entre as duas. A última faixa é aberta; repare na área típica dela.'+(DESC.length?' Faixa com ⚠ tem preço total típico abaixo do da faixa anterior (provável área cadastrada errada) e não entra na curva.':'')+'</p></details>';
   }
   if(op==="venda"&&no.aluguel){
-    const faA=((S.geral||{}).faixas_area||{}).aluguel;
-    const bA=faA?faA.find(f=>area>=f.min&&area<f.max):null;
-    const mA=(bA&&Math.abs(bA.mult-1)>0.02)?bA.mult:1;
+    const mA=fatorFaixa(no,S,"aluguel",area,cat).mult;
     const alu=Math.round(no.aluguel.mediana*mA*area/10)*10;
     h+='<p>Se alugado, este imóvel buscaria por volta de <b>R$ '+fmt(alu)+'/mês</b> pela mediana de aluguel'+(no.yield_anual_pct?' (rendimento bruto de '+fmt(no.yield_anual_pct,2)+'% ao ano)':'')+'.</p>';
   }
@@ -531,6 +548,128 @@ async function calcula(){
   h+='</div>';
   R.innerHTML=h;
   try{mqEv('calcular',cat+' '+fmt(area)+' m2 '+op,$("cid").value+(bai!=="__geral__"?' '+bai:''));}catch(e){}
+}
+// ===== curva de preco por area: compartilhada pela calculadora e pela regua de rendimento =====
+// 12/09/2026, tres rodadas da banca de calculo. Regras:
+//  (1) ancoras = (area tipica, R$/m2, preco total) de cada faixa medida no PROPRIO no (faixas_m2);
+//  (2) so entra a maior subsequencia de ancoras com preco TOTAL nao decrescente: faixa cujo ape
+//      tipico custa menos que o de uma faixa menor e area cadastrada errada, nao mercado
+//      (Copacabana/BH 415 m2 por R$ 530 mil; Dois de Julho/Salvador 57 m2 a R$ 13.941/m2);
+//  (3) entre ancoras interpola o PRECO TOTAL, nao o R$/m2: assim o preco total cresce com a area
+//      por construcao (interpolar R$/m2 nao garantia isso, 984 bairros ainda caiam);
+//  (4) fora das ancoras, ou com uma so: nivel do no, formato da cidade; e o formato da cidade e
+//      continuo (interpolado entre centros de faixa), nao degrau: o degrau de 20-40 p/ 40-55
+//      derrubava o preco total em 40 m2 em 8 de cada 10 bairros, e uma faixa unica virava salto
+//      de 84% (Vila Hulda/Guarulhos);
+//  (5) R$/m2 nunca sai dos limites do FILTROS oficial do segmento (Ipanema aluguel dava R$ 163/m2
+//      com teto 150, por dobrar o premio do pequeno na extrapolacao).
+const PPM_LIM={"apartamento": {"venda": [1000, 30000], "aluguel": [5, 150]}, "casa": {"venda": [800, 25000], "aluguel": [3, 90]}, "terreno": {"venda": [30, 15000]}, "sala": {"venda": [800, 30000], "aluguel": [4, 300]}, "galpao": {"venda": [300, 8000], "aluguel": [2, 60]}, "comercial": {"venda": [800, 30000], "aluguel": [4, 300]}};
+const FXM2=[["ate50",0,50,"até 50 m²"],["50a70",50,70,"50 a 70 m²"],["70a100",70,100,"70 a 100 m²"],
+            ["100a150",100,150,"100 a 150 m²"],["acima150",150,1e9,"acima de 150 m²"]];
+function fxFaixa(a){return FXM2.find(f=>a>=f[1]&&a<f[2])||null;}
+function multCidade(fa,area){
+  const L=(fa||[]).filter(z=>z&&typeof z.mult==="number");
+  if(!L.length) return 1;
+  const C=L.map(z=>[z.max>=1500?z.min+30:(z.min+z.max)/2,z.mult]).sort((u,w)=>u[0]-w[0]);
+  if(area<=C[0][0]) return C[0][1];
+  if(area>=C[C.length-1][0]) return C[C.length-1][1];
+  for(let i=1;i<C.length;i++){ if(area<=C[i][0]){const t=(area-C[i-1][0])/(C[i][0]-C[i-1][0]); return C[i-1][1]+t*(C[i][1]-C[i-1][1]);}}
+  return 1;
+}
+function curvaAncoras(fx,op){
+  const P=[];
+  FXM2.forEach(f=>{const e=(((fx||{})[f[0]]||{})[op])||null;
+    if(e&&e.m2&&e.valor){const a=e.valor/e.m2; if(a>0)P.push([a,e.m2,e.n||0,f[3],e.valor]);}});
+  P.sort((x,y)=>x[0]-y[0]);
+  if(!P.length) return null;
+  const n=P.length, L=new Array(n).fill(1), prev=new Array(n).fill(-1);
+  for(let i=0;i<n;i++) for(let j=0;j<i;j++) if(P[j][4]<=P[i][4]&&L[j]+1>L[i]){L[i]=L[j]+1;prev[i]=j;}
+  let best=0; for(let i=1;i<n;i++) if(L[i]>L[best]) best=i;
+  const keep=[]; for(let i=best;i>=0;i=prev[i]) keep.unshift(i);
+  const K0=keep.map(i=>P[i]), K=[];
+  // duas ancoras a menos de 10 m2 uma da outra viram uma so (media ponderada por n): o trecho entre
+  // elas virava salto de ate 28% num unico metro (Cabula VI/Salvador, 49 para 50 m2)
+  K0.forEach(q=>{const u=K[K.length-1];
+    if(u&&q[0]-u[0]<10){const w=(u[2]||1)+(q[2]||1), a=(u[0]*(u[2]||1)+q[0]*(q[2]||1))/w, v=(u[4]*(u[2]||1)+q[4]*(q[2]||1))/w;
+      K[K.length-1]=[a,v/a,w,u[3]+" e "+q[3],v];} else K.push(q.slice());});
+  K.descartadas=P.filter((_,i)=>keep.indexOf(i)<0);
+  return K;
+}
+function clampPPM(ppm,lim){ if(lim){ if(ppm<lim[0]) ppm=lim[0]; if(ppm>lim[1]) ppm=lim[1]; } return ppm; }
+// sem nenhuma faixa medida no no: nivel = mediana do no, formato = cidade, ancorado na area tipica
+// do no (ou 70 m2), com a mesma varredura de minimo/maximo para o preco total nunca cair
+function ppmSemAncora(base,fa,area,lim,at){
+  at=at||70; const T=x=>clampPPM(base*multCidade(fa,x),lim)*x;
+  let tot=area<at?Math.min(T(area),T(at)):Math.max(T(area),T(at));
+  if(area<at){ for(let x=Math.ceil(area);x<at;x++){const t=T(x); if(t<tot) tot=t;} }
+  else { for(let x=Math.floor(area);x>at;x--){const t=T(x); if(t>tot) tot=t;} }
+  return tot/area;
+}
+function ppmCurva(K,fa,area,lim){
+  const n=K.length; let ppm, extra=false;
+  if(n>=2&&area>=K[0][0]&&area<=K[n-1][0]){
+    for(let i=1;i<n;i++){ if(area<=K[i][0]){const t=(area-K[i-1][0])/(K[i][0]-K[i-1][0]);
+      ppm=(K[i-1][4]+t*(K[i][4]-K[i-1][4]))/area; break;}}
+  } else if(area<K[0][0]) {
+    // abaixo da 1a ancora: nivel do no, formato da cidade, e o preco total e o MINIMO do formato
+    // entre a area pedida e a ancora, para nunca cair quando a area cresce (varredura de 400 passos)
+    const a0=K[0][0], T=x=>clampPPM(K[0][1]*multCidade(fa,x)/multCidade(fa,a0),lim)*x;
+    let tot=Math.min(T(area),K[0][4]); for(let x=Math.ceil(area);x<a0;x++){const t=T(x); if(t<tot) tot=t;}
+    ppm=tot/area; extra=true;
+  } else {
+    // acima da ultima ancora: simetrico, MAXIMO do formato entre a ancora e a area pedida
+    const an=K[n-1][0], T=x=>clampPPM(K[n-1][1]*multCidade(fa,x)/multCidade(fa,an),lim)*x;
+    let tot=Math.max(T(area),K[n-1][4]); for(let x=Math.floor(area);x>an;x--){const t=T(x); if(t>tot) tot=t;}
+    ppm=tot/area; extra=true;
+  }
+  return {ppm:clampPPM(ppm,lim),extra:extra};
+}
+
+function cityMult(S,op,area){return multCidade(((S.geral||{}).faixas_area||{})[op]||[],area);}
+function curvaPPM(no,op){return curvaAncoras((no||{}).faixas_m2||{},op);}
+function fatorFaixa(no,S,op,area,cat){
+  const f=fxFaixa(area), base=((no||{})[op]||{}).mediana;
+  if(!base) return {mult:1,fonte:"nenhuma",n:0,rot:f?f[3]:"",m2:null};
+  const fa=((S.geral||{}).faixas_area||{})[op]||[], lim=((PPM_LIM[cat]||{})[op])||null;
+  const e=f?((((no||{}).faixas_m2||{})[f[0]]||{})[op])||null:null;
+  const K=curvaPPM(no,op);
+  if(K&&K.length){
+    const r=ppmCurva(K,fa,area,lim), dsc=(K.descartadas||[]).some(q=>f&&q[3]===f[3]);
+    return {mult:r.ppm/base,fonte:dsc?"descartada":(r.extra?"extra":"no"),n:(e&&e.n)||0,rot:f?f[3]:"",m2:r.ppm,ultima:K[K.length-1][3]};
+  }
+  const m=multCidade(fa,area), bd=fa.find(z=>area>=z.min&&area<z.max);
+  const ppm=ppmSemAncora(base,fa,area,lim,((((no||{}).tipico||{})[op])||{}).area_m2);
+  return {mult:ppm/base,fonte:(bd&&Math.abs(m-1)>0.02)?"cidade":"nenhuma",n:bd?bd.n:0,rot:bd?rotFaixa(bd):(f?f[3]:""),m2:ppm};
+}
+function tabFaixas(no,op){
+  const F=((no||{}).faixas_m2)||{}, base=((no||{})[op]||{}).mediana;
+  const L=FXM2.map(f=>[f,((F[f[0]]||{})[op])||null]).filter(x=>x[1]&&x[1].m2);
+  return (L.length>=2&&base)?{linhas:L,base:base}:null;
+}
+// A frase sobre o efeito do tamanho era FIXA ("o m2 do imovel pequeno custa mais"), afirmada como
+// lei geral dentro do cartao do bairro. Em 13% dos bairros o sinal e o contrario. Agora le a curva.
+// Na CIDADE inteira a curva bruta de faixas_m2 mistura bairros: as unidades grandes se concentram
+// nos bairros caros, entao a curva bruta parece subir mesmo onde o efeito do TAMANHO e o contrario.
+// Conferido: as duas medidas divergem de direcao em 37 das 59 cidades, Jaragua do Sul inclusive.
+// Para o no da cidade a frase usa faixas_area, que normaliza cada anuncio pela mediana do PROPRIO
+// bairro e por isso mede tamanho, nao composicao. Para um bairro, faixas_m2 ja e uma cidade so.
+function curvaFraseCidade(S,op,ondeFr){
+  const fa=((S.geral||{}).faixas_area||{})[op]||[];
+  if(fa.length<3) return ondeFr+' o m² varia pouco com o tamanho.';
+  const m=fa.map(f=>f.mult), mx=Math.max.apply(null,m), mn=Math.min.apply(null,m);
+  if(mx/mn<1.10) return ondeFr+' o m² varia pouco com o tamanho.';
+  const i=m.indexOf(mx);
+  if(i===0) return ondeFr+' o m² do imóvel pequeno custa mais: cozinha, banheiro e área comum pesam igual num imóvel de 35 ou de 90 m². É o efeito que o mercado chama de Manhattan.';
+  if(i===m.length-1) return ondeFr+' o m² mais alto está nas unidades grandes, e não nas compactas: é o contrário do padrão.';
+  return ondeFr+' o m² mais alto está nos tamanhos intermediários ('+rotFaixa(fa[i])+'), não nas pontas.';
+}
+function curvaFrase(TB,ondeFr){
+  const v=TB.linhas.map(x=>x[1].m2), mx=Math.max.apply(null,v), mn=Math.min.apply(null,v);
+  if(mx/mn<1.10) return ondeFr+' o m² varia pouco com o tamanho.';
+  const i=v.indexOf(mx), ult=v.length-1;
+  if(i===0) return ondeFr+' o m² do imóvel pequeno custa mais: cozinha, banheiro e área comum pesam igual num imóvel de 35 ou de 90 m². É o efeito que o mercado chama de Manhattan.';
+  if(i===ult) return ondeFr+' o m² mais alto está nas unidades grandes, e não nas compactas: é o contrário do padrão, sinal de estoque de padrão mais alto na ponta de cima.';
+  return ondeFr+' o m² mais alto está nos tamanhos intermediários ('+TB.linhas[i][0][3]+'), não nas pontas.';
 }
 function rotFaixa(f){return f.max>=1500?f.min+' m² ou mais':(f.min+' a '+f.max+' m²');}
 function slugify(s){return s.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"").replace(/['’´`]/g,"").replace(/\s+/g,"-").replace(/[^a-z0-9-]/g,"");}

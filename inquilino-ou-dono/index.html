@@ -501,10 +501,90 @@ function apeTipico(x){const a=areaTip(x);
 function conf(x){const n=Math.min(x.nv,x.na);
   const c=n>=20?"alta":(n>=10?"media":"baixa"), r=n>=20?"alta":(n>=10?"média":"baixa");
   return '<span class="bdg '+c+'">n='+n+' · '+r+'</span>';}
-function mult(fa,op,area){const L=(fa||{})[op];if(!L||!L.length)return 1;
-  const f=L.find(z=>area>=z.min&&area<z.max);return (f&&Math.abs(f.mult-1)>0.02)?f.mult:1;}
-function estValor(x,a){return x.vm2*mult(x.fa,"venda",a)*a;}
-function estAluguel(x,a){return x.am2*mult(x.fa,"aluguel",a)*a;}
+// ===== curva de preco por area: compartilhada pela calculadora e pela regua de rendimento =====
+// 12/09/2026, tres rodadas da banca de calculo. Regras:
+//  (1) ancoras = (area tipica, R$/m2, preco total) de cada faixa medida no PROPRIO no (faixas_m2);
+//  (2) so entra a maior subsequencia de ancoras com preco TOTAL nao decrescente: faixa cujo ape
+//      tipico custa menos que o de uma faixa menor e area cadastrada errada, nao mercado
+//      (Copacabana/BH 415 m2 por R$ 530 mil; Dois de Julho/Salvador 57 m2 a R$ 13.941/m2);
+//  (3) entre ancoras interpola o PRECO TOTAL, nao o R$/m2: assim o preco total cresce com a area
+//      por construcao (interpolar R$/m2 nao garantia isso, 984 bairros ainda caiam);
+//  (4) fora das ancoras, ou com uma so: nivel do no, formato da cidade; e o formato da cidade e
+//      continuo (interpolado entre centros de faixa), nao degrau: o degrau de 20-40 p/ 40-55
+//      derrubava o preco total em 40 m2 em 8 de cada 10 bairros, e uma faixa unica virava salto
+//      de 84% (Vila Hulda/Guarulhos);
+//  (5) R$/m2 nunca sai dos limites do FILTROS oficial do segmento (Ipanema aluguel dava R$ 163/m2
+//      com teto 150, por dobrar o premio do pequeno na extrapolacao).
+const PPM_LIM={"apartamento": {"venda": [1000, 30000], "aluguel": [5, 150]}, "casa": {"venda": [800, 25000], "aluguel": [3, 90]}, "terreno": {"venda": [30, 15000]}, "sala": {"venda": [800, 30000], "aluguel": [4, 300]}, "galpao": {"venda": [300, 8000], "aluguel": [2, 60]}, "comercial": {"venda": [800, 30000], "aluguel": [4, 300]}};
+const FXM2=[["ate50",0,50,"até 50 m²"],["50a70",50,70,"50 a 70 m²"],["70a100",70,100,"70 a 100 m²"],
+            ["100a150",100,150,"100 a 150 m²"],["acima150",150,1e9,"acima de 150 m²"]];
+function fxFaixa(a){return FXM2.find(f=>a>=f[1]&&a<f[2])||null;}
+function multCidade(fa,area){
+  const L=(fa||[]).filter(z=>z&&typeof z.mult==="number");
+  if(!L.length) return 1;
+  const C=L.map(z=>[z.max>=1500?z.min+30:(z.min+z.max)/2,z.mult]).sort((u,w)=>u[0]-w[0]);
+  if(area<=C[0][0]) return C[0][1];
+  if(area>=C[C.length-1][0]) return C[C.length-1][1];
+  for(let i=1;i<C.length;i++){ if(area<=C[i][0]){const t=(area-C[i-1][0])/(C[i][0]-C[i-1][0]); return C[i-1][1]+t*(C[i][1]-C[i-1][1]);}}
+  return 1;
+}
+function curvaAncoras(fx,op){
+  const P=[];
+  FXM2.forEach(f=>{const e=(((fx||{})[f[0]]||{})[op])||null;
+    if(e&&e.m2&&e.valor){const a=e.valor/e.m2; if(a>0)P.push([a,e.m2,e.n||0,f[3],e.valor]);}});
+  P.sort((x,y)=>x[0]-y[0]);
+  if(!P.length) return null;
+  const n=P.length, L=new Array(n).fill(1), prev=new Array(n).fill(-1);
+  for(let i=0;i<n;i++) for(let j=0;j<i;j++) if(P[j][4]<=P[i][4]&&L[j]+1>L[i]){L[i]=L[j]+1;prev[i]=j;}
+  let best=0; for(let i=1;i<n;i++) if(L[i]>L[best]) best=i;
+  const keep=[]; for(let i=best;i>=0;i=prev[i]) keep.unshift(i);
+  const K0=keep.map(i=>P[i]), K=[];
+  // duas ancoras a menos de 10 m2 uma da outra viram uma so (media ponderada por n): o trecho entre
+  // elas virava salto de ate 28% num unico metro (Cabula VI/Salvador, 49 para 50 m2)
+  K0.forEach(q=>{const u=K[K.length-1];
+    if(u&&q[0]-u[0]<10){const w=(u[2]||1)+(q[2]||1), a=(u[0]*(u[2]||1)+q[0]*(q[2]||1))/w, v=(u[4]*(u[2]||1)+q[4]*(q[2]||1))/w;
+      K[K.length-1]=[a,v/a,w,u[3]+" e "+q[3],v];} else K.push(q.slice());});
+  K.descartadas=P.filter((_,i)=>keep.indexOf(i)<0);
+  return K;
+}
+function clampPPM(ppm,lim){ if(lim){ if(ppm<lim[0]) ppm=lim[0]; if(ppm>lim[1]) ppm=lim[1]; } return ppm; }
+// sem nenhuma faixa medida no no: nivel = mediana do no, formato = cidade, ancorado na area tipica
+// do no (ou 70 m2), com a mesma varredura de minimo/maximo para o preco total nunca cair
+function ppmSemAncora(base,fa,area,lim,at){
+  at=at||70; const T=x=>clampPPM(base*multCidade(fa,x),lim)*x;
+  let tot=area<at?Math.min(T(area),T(at)):Math.max(T(area),T(at));
+  if(area<at){ for(let x=Math.ceil(area);x<at;x++){const t=T(x); if(t<tot) tot=t;} }
+  else { for(let x=Math.floor(area);x>at;x--){const t=T(x); if(t>tot) tot=t;} }
+  return tot/area;
+}
+function ppmCurva(K,fa,area,lim){
+  const n=K.length; let ppm, extra=false;
+  if(n>=2&&area>=K[0][0]&&area<=K[n-1][0]){
+    for(let i=1;i<n;i++){ if(area<=K[i][0]){const t=(area-K[i-1][0])/(K[i][0]-K[i-1][0]);
+      ppm=(K[i-1][4]+t*(K[i][4]-K[i-1][4]))/area; break;}}
+  } else if(area<K[0][0]) {
+    // abaixo da 1a ancora: nivel do no, formato da cidade, e o preco total e o MINIMO do formato
+    // entre a area pedida e a ancora, para nunca cair quando a area cresce (varredura de 400 passos)
+    const a0=K[0][0], T=x=>clampPPM(K[0][1]*multCidade(fa,x)/multCidade(fa,a0),lim)*x;
+    let tot=Math.min(T(area),K[0][4]); for(let x=Math.ceil(area);x<a0;x++){const t=T(x); if(t<tot) tot=t;}
+    ppm=tot/area; extra=true;
+  } else {
+    // acima da ultima ancora: simetrico, MAXIMO do formato entre a ancora e a area pedida
+    const an=K[n-1][0], T=x=>clampPPM(K[n-1][1]*multCidade(fa,x)/multCidade(fa,an),lim)*x;
+    let tot=Math.max(T(area),K[n-1][4]); for(let x=Math.floor(area);x>an;x--){const t=T(x); if(t>tot) tot=t;}
+    ppm=tot/area; extra=true;
+  }
+  return {ppm:clampPPM(ppm,lim),extra:extra};
+}
+
+function mult(x,op,area){
+  const base=op==="venda"?x.vm2:x.am2; if(!base) return 1;
+  const fa=((x.fa||{})[op])||[], lim=((PPM_LIM.apartamento||{})[op])||null;
+  const K=curvaAncoras(x.fx||{},op);
+  const ppm=(K&&K.length)?ppmCurva(K,fa,area,lim).ppm:ppmSemAncora(base,fa,area,lim,(((x.tip||{})[op])||{}).area_m2);
+  return ppm/base;}
+function estValor(x,a){return x.vm2*mult(x,"venda",a)*a;}
+function estAluguel(x,a){return x.am2*mult(x,"aluguel",a)*a;}
 function areaTip(x){return (((x.tip||{}).venda||{}).area_m2)||70;}
 async function carrega(){
   for(const c of CFG){let d;try{d=await dados(c);}catch(e){continue;}
@@ -514,7 +594,7 @@ async function carrega(){
       if((v.n||0)<10||(a.n||0)<10)continue;
       const anos=v.mediana/(a.mediana*12);
       LISTA.push({cid:c.slug,cidade:c.nome,b:b,anos:anos,y:100/anos,vm2:v.mediana,am2:a.mediana,
-                  nv:v.n,na:a.n,fa:fa,tip:B[b].tipico||{}});}}
+                  nv:v.n,na:a.n,fa:fa,fx:B[b].faixas_m2||{},tip:B[b].tipico||{}});}}
   LISTA.sort((p,q)=>p.anos-q.anos);
 }
 function mediana(v){const s=v.slice().sort((a,b)=>a-b),m=Math.floor(s.length/2);
