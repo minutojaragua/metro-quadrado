@@ -42,7 +42,15 @@ if(_mqApp)try{gtag('event','origem_app',{rotulo:_mqApp,categoria:location.pathna
 // marca de aparelho interno tambem como propriedade de usuario: assim o aparelho do Jales
 // (inclusive o celular) fica separavel no relatorio depois de registrar a dimensao de escopo
 // USUARIO chamada 'interno' no GA4. So o traffic_type nao basta, ele e inerte sem o filtro.
-if(_mqInt)try{gtag('set','user_properties',{interno:'1'});}catch(e){}</script>
+if(_mqInt)try{gtag('set','user_properties',{interno:'1'});}catch(e){}
+// 12/09/2026 (farol): o GitHub Pages nao da log de acesso ao dono, entao o GA4 conta o robo
+// mas nao diz QUAL robo e (o caso: 125 dos 421 acessos de 12/09 vindos da China). Uma batida
+// no nosso proprio Worker registra o user-agent bruto de quem executa este script, que e
+// exatamente a mesma populacao que o GA4 ve. Vai so o balde de rota, nunca a URL inteira;
+// nao ha cookie nem identificador, e quem desligou a medicao ou e da redacao nao dispara.
+try{if(!_mqInt&&localStorage.getItem('mq_optout')!=='1'){var _fj=JSON.stringify({r:(window.mqOrigem?mqOrigem():'')||'?'});
+if(navigator.sendBeacon)navigator.sendBeacon('https://mcp.metroquadrado.workers.dev/farol',_fj);
+else fetch('https://mcp.metroquadrado.workers.dev/farol',{method:'POST',body:_fj,keepalive:true,mode:'no-cors'});}}catch(e){}</script>
 <!-- 06/09/2026: cidade do leitor (banca: privacidade, engenharia, SEO). Regras: HTML igual para todos;
      nada de redirect; localizacao SO ao toque e calculada no aparelho (nenhuma coordenada sai dele);
      sem API de IP; lembra a ultima cidade no localStorage; eventos GA4 so com nome de cidade. -->
@@ -431,6 +439,14 @@ Não usamos anúncios, não fazemos remarketing e não há cookie de terceiros p
 <p><b>Sua cidade.</b> O botão "perto de mim" usa a localização do aparelho só quando você toca nele, e a cidade mais próxima
 é calculada no seu próprio navegador: nenhuma coordenada é enviada a nós nem a terceiros (não usamos serviço de localização por IP).
 A última cidade que você abriu fica guardada no seu navegador (localStorage) para pré-selecionar as ferramentas; apague os dados do site para esquecer.</p>
+<p><b>Identificação de robôs.</b> O site é hospedado num serviço que não nos entrega registro de acesso,
+e por isso não temos como saber qual programa está por trás de boa parte do tráfego automatizado que a medição conta.
+Para resolver isso, cada página avisa um servidor nosso com uma única informação: a <b>identificação do navegador</b>
+(o campo <i>user-agent</i>, que todo navegador e todo robô já envia a qualquer site que visita), mais o país e a operadora
+que a rede informa, e o tipo de página aberta. Guardamos isso <b>somado por dia</b>, e não por visita:
+uma linha diz "neste dia, tantos acessos deste programa neste tipo de página". Não guardamos endereço IP,
+não guardamos o horário de cada visita, não criamos identificador nem cookie, e não há como reconstituir a navegação de ninguém.
+Quem desliga a medição no fim desta página também não é contado aqui.</p>
 <p>O navegador guarda uma marca local (<code>localStorage</code>) para três coisas: excluir das estatísticas o acesso
 de quem trabalha na redação, lembrar por qual página você entrou e guardar a sua escolha de desligar a medição. Isso não sai do seu aparelho.</p>
 <h2 style="margin-top:22px">Com que base legal medimos audiência</h2>

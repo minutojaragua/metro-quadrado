@@ -42,7 +42,15 @@ if(_mqApp)try{gtag('event','origem_app',{rotulo:_mqApp,categoria:location.pathna
 // marca de aparelho interno tambem como propriedade de usuario: assim o aparelho do Jales
 // (inclusive o celular) fica separavel no relatorio depois de registrar a dimensao de escopo
 // USUARIO chamada 'interno' no GA4. So o traffic_type nao basta, ele e inerte sem o filtro.
-if(_mqInt)try{gtag('set','user_properties',{interno:'1'});}catch(e){}</script>
+if(_mqInt)try{gtag('set','user_properties',{interno:'1'});}catch(e){}
+// 12/09/2026 (farol): o GitHub Pages nao da log de acesso ao dono, entao o GA4 conta o robo
+// mas nao diz QUAL robo e (o caso: 125 dos 421 acessos de 12/09 vindos da China). Uma batida
+// no nosso proprio Worker registra o user-agent bruto de quem executa este script, que e
+// exatamente a mesma populacao que o GA4 ve. Vai so o balde de rota, nunca a URL inteira;
+// nao ha cookie nem identificador, e quem desligou a medicao ou e da redacao nao dispara.
+try{if(!_mqInt&&localStorage.getItem('mq_optout')!=='1'){var _fj=JSON.stringify({r:(window.mqOrigem?mqOrigem():'')||'?'});
+if(navigator.sendBeacon)navigator.sendBeacon('https://mcp.metroquadrado.workers.dev/farol',_fj);
+else fetch('https://mcp.metroquadrado.workers.dev/farol',{method:'POST',body:_fj,keepalive:true,mode:'no-cors'});}}catch(e){}</script>
 <!-- 06/09/2026: cidade do leitor (banca: privacidade, engenharia, SEO). Regras: HTML igual para todos;
      nada de redirect; localizacao SO ao toque e calculada no aparelho (nenhuma coordenada sai dele);
      sem API de IP; lembra a ultima cidade no localStorage; eventos GA4 so com nome de cidade. -->
