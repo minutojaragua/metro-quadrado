@@ -50,7 +50,41 @@ if(_mqInt)try{gtag('set','user_properties',{interno:'1'});}catch(e){}
 // nao ha cookie nem identificador, e quem desligou a medicao ou e da redacao nao dispara.
 try{if(!_mqInt&&localStorage.getItem('mq_optout')!=='1'){var _fj=JSON.stringify({r:(window.mqOrigem?mqOrigem():'')||'?'});
 if(navigator.sendBeacon)navigator.sendBeacon('https://mcp.metroquadrado.workers.dev/farol',_fj);
-else fetch('https://mcp.metroquadrado.workers.dev/farol',{method:'POST',body:_fj,keepalive:true,mode:'no-cors'});}}catch(e){}</script>
+else fetch('https://mcp.metroquadrado.workers.dev/farol',{method:'POST',body:_fj,keepalive:true,mode:'no-cors'});}}catch(e){}
+// 13/09/2026 (cronometro do anuncio): o GA4 contou 0 s de tempo engajado para 89 visitas pagas,
+// porque o navegador do Instagram fecha a pagina antes do evento de saida. So quando a visita vem
+// de anuncio (utm_medium=paid), a pagina bate no nosso Worker a cada 5 s enquanto esta NA TELA.
+// O codigo da visita fica so nesta aba (sessionStorage), entao segue do ranking para a calculadora.
+try{if(!_mqInt&&localStorage.getItem('mq_optout')!=='1'){var _ca=null;try{_ca=JSON.parse(sessionStorage.getItem('mq_anuncio')||'null');}catch(e){}
+ var _qs=location.search||'';
+ if(!_ca&&/[?&]utm_medium=paid(&|$)/i.test(_qs)){var _qc=/[?&]utm_campaign=([^&]*)/.exec(_qs),_qo=/[?&]utm_source=([^&]*)/.exec(_qs);
+  _ca={s:Math.random().toString(36).slice(2,12)+Date.now().toString(36),c:_qc?decodeURIComponent(_qc[1]).slice(0,40):'',o:_qo?decodeURIComponent(_qo[1]).slice(0,20):'',e:(window.mqOrigem?mqOrigem():'')||'?'};
+  try{sessionStorage.setItem('mq_anuncio',JSON.stringify(_ca));}catch(e){}}
+ if(_ca&&navigator.sendBeacon){var _cp=(window.mqOrigem?mqOrigem():'')||'?',_cv=0,_cu=Date.now(),_cn=0,_cvis=!document.hidden;
+  var _crol=0;window.addEventListener('scroll',function(){var d=document.documentElement,H=d.scrollHeight-d.clientHeight;if(H>0)_crol=Math.max(_crol,Math.round(window.pageYOffset/H*100));},{passive:true});
+  // 13/09/2026 (jornada do anuncio): pedido do Jales, saber tudo o que cada visita do anuncio faz.
+  // Uma batida por acao: abriu, tocou no campo, preencheu/digitou (valor dos campos), clicou, rolou, saiu, voltou, fechou.
+  if(!_ca.t){_ca.t=Date.now();try{sessionStorage.setItem('mq_anuncio',JSON.stringify(_ca));}catch(e){}}
+  var _jq=0;try{_jq=+sessionStorage.getItem('mq_jseq')||0;}catch(e){}
+  window.mqJornada=function(ac,dt){if(_jq>=400)return;_jq++;try{sessionStorage.setItem('mq_jseq',String(_jq));}catch(e){}
+   try{navigator.sendBeacon('https://mcp.metroquadrado.workers.dev/jornada',JSON.stringify({s:_ca.s,n:_jq,t:Math.round((Date.now()-_ca.t)/1000),p:_cp,u:location.pathname.slice(0,80),a:ac,d:String(dt==null?'':dt).slice(0,150)}));}catch(e){}};
+  var _jref='';try{var _jr=document.referrer?new URL(document.referrer):null;if(_jr&&_jr.host===location.host)_jref=' | veio de '+_jr.pathname;}catch(e){}
+  mqJornada('abriu',(document.title||'').slice(0,70)+_jref+' | tela '+window.innerWidth+'x'+window.innerHeight);
+  var _jnome=function(el){var l=el.id||el.name||'';if(!l&&el.labels&&el.labels[0])l=el.labels[0].textContent||'';return (l||el.tagName.toLowerCase()).trim().slice(0,30);};
+  var _jval=function(el){if(el.tagName==='SELECT'){var o=el.options[el.selectedIndex];return o?o.text:'';}if(el.type==='checkbox'||el.type==='radio')return el.checked?'marcado':'desmarcado';return el.value;};
+  var _jcampo=function(el){return el&&(el.tagName==='INPUT'||el.tagName==='SELECT'||el.tagName==='TEXTAREA');};
+  var _jfoco={},_jdig={},_jrol={};
+  document.addEventListener('focusin',function(e){var el=e.target;if(!_jcampo(el))return;var k=_jnome(el);if(_jfoco[k])return;_jfoco[k]=1;mqJornada('tocou no campo',k);},true);
+  document.addEventListener('change',function(e){var el=e.target;if(!_jcampo(el))return;mqJornada('preencheu',_jnome(el)+' = '+_jval(el));},true);
+  document.addEventListener('input',function(e){var el=e.target;if(!_jcampo(el)||el.tagName==='SELECT'||el.type==='checkbox'||el.type==='radio')return;var k=_jnome(el);clearTimeout(_jdig[k]);_jdig[k]=setTimeout(function(){mqJornada('digitou',k+' = '+el.value);},1200);},true);
+  document.addEventListener('click',function(e){var a=e.target&&e.target.closest?e.target.closest('a,button,summary,label,[role=button]'):null;if(!a)return;var h=a.getAttribute('href')||'';mqJornada('clicou',(a.textContent||a.getAttribute('aria-label')||'').trim().slice(0,60)+(h?' -> '+h.slice(0,80):''));},true);
+  window.addEventListener('scroll',function(){var d=document.documentElement,H=d.scrollHeight-d.clientHeight;if(H<=0)return;var p=Math.round(window.pageYOffset/H*100);[25,50,75,100].forEach(function(m){if(p>=m&&!_jrol[m]){_jrol[m]=1;mqJornada('rolou',m+'%');}});},{passive:true});
+  var _cmanda=function(f){var a=Date.now();if(_cvis)_cv+=a-_cu;_cu=a;
+   try{navigator.sendBeacon('https://mcp.metroquadrado.workers.dev/cronometro',JSON.stringify({s:_ca.s,c:_ca.c,o:_ca.o,e:_ca.e,p:_cp,v:Math.round(_cv/1000),r:window._mqResultado?1:0,f:f?1:0,a:Math.max(window._mqEtapa||0,window._mqResultado?5:0),l:_crol}));}catch(e){}};
+  setTimeout(function(){_cmanda(0);},1500);
+  setInterval(function(){if(_cvis&&_cn<360){_cn++;_cmanda(0);}},5000);
+  document.addEventListener('visibilitychange',function(){if(document.hidden){_cmanda(1);_cvis=false;mqJornada('saiu da tela',Math.round(_cv/1000)+' s na tela');}else{_cu=Date.now();_cvis=true;mqJornada('voltou','');}});
+  window.addEventListener('pagehide',function(){_cmanda(1);mqJornada('fechou a pagina',Math.round(_cv/1000)+' s na tela');});}}}catch(e){}</script>
 <!-- 06/09/2026: cidade do leitor (banca: privacidade, engenharia, SEO). Regras: HTML igual para todos;
      nada de redirect; localizacao SO ao toque e calculada no aparelho (nenhuma coordenada sai dele);
      sem API de IP; lembra a ultima cidade no localStorage; eventos GA4 so com nome de cidade. -->
@@ -424,7 +458,7 @@ html{scroll-padding-top:56px}
 <p class="sub">A <b>Corrida dos Bairros</b> é a única medição de preço do m² <b>bairro por bairro</b> de 67 cidades de Acre, Alagoas e mais 25 estados: 533.061 anúncios validados por mês, <a href="../metodologia/">metodologia aberta</a> e auditada, atualizada todo dia 01. Para o corretor isso vira ferramenta de trabalho: <b>precificar com base neutra</b>, <b>defender a proposta diante do proprietário</b> ("não sou eu quem diz, é a mediana do bairro") e <b>captar com dado</b> em propostas, captações e redes. É estatística de anúncios públicos; não é avaliação, laudo nem PTAM.</p>
 <p class="sub" style="margin-top:8px;padding:10px 12px;border:1px dashed var(--borda);border-radius:10px">⏳ <b>Estamos abrindo a empresa.</b> Reserva sem cobrança, preço garantido, cobrança com a primeira nota fiscal.</p></section>
 <section><h2>O que podemos provar</h2>
-<p class="sub">67 cidades, 533.061 anúncios validados por mês, mediana por bairro com mínimo de 5 anúncios, metodologia aberta, série mensal desde agosto de 2026 e licença CC BY 4.0. Nos 28 dias até 13/09/2026, <b>394 pessoas do Brasil</b> usaram o índice e 53% delas passaram do primeiro toque, com 51 comparações de bairro feitas (Google Analytics, sem robôs e sem a redação; o número se atualiza a cada publicação). É público pequeno e novo, e nós dizemos isso. Por isso <b>não vendemos contatos nem prometemos leads</b>: vendemos a ferramenta e, todo dia 01, entregamos ao patrocinador o número de visitas das páginas dele, sem maquiagem.</p></section>
+<p class="sub">67 cidades, 533.061 anúncios validados por mês, mediana por bairro com mínimo de 5 anúncios, metodologia aberta, série mensal desde agosto de 2026 e licença CC BY 4.0. Nos 28 dias até 13/09/2026, <b>403 pessoas do Brasil</b> usaram o índice e 52% delas passaram do primeiro toque, com 51 comparações de bairro feitas (Google Analytics, sem robôs e sem a redação; o número se atualiza a cada publicação). É público pequeno e novo, e nós dizemos isso. Por isso <b>não vendemos contatos nem prometemos leads</b>: vendemos a ferramenta e, todo dia 01, entregamos ao patrocinador o número de visitas das páginas dele, sem maquiagem.</p></section>
 <section><h2>Como participar</h2>
 <div class="cards">
 <div class="card"><h3>🆓 Use o índice de graça</h3><p>Todo número da Corrida dos Bairros é público e pode ir na sua proposta, no seu post e na sua reunião, com o crédito <b>"Fonte: A Corrida dos Bairros, edição de setembro/2026"</b>. Baixe o CSV, use a <a href="../calculadora/">calculadora</a>, mande a página do bairro ao proprietário. Não precisa pedir. Imobiliária que quer ser fonte citada no site: <a href="https://wa.me/5547997424339?text=Represento%20uma%20imobili%C3%A1ria%20e%20quero%20ser%20fonte%20citada%20na%20Corrida%20dos%20Bairros." rel="nofollow noopener" data-produto="fonte">fale com a gente</a>.</p></div>
