@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 67 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 531.776 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 67 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 533.061 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -6744,97 +6744,103 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 
 ## Criciúma (setembro/2026): https://acorridadosbairros.com.br/criciuma/
 
-### Apartamentos, cidade toda: venda R$ 6.300/m² (n=1040); aluguel R$ 28,9/m²/mês (n=176); rendimento bruto do aluguel 5,51% a.a.
+### Apartamentos, cidade toda: venda R$ 6.500/m² (n=1590); aluguel R$ 29,1/m²/mês (n=199); rendimento bruto do aluguel 5,37% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Ana Maria | R$ 4.891 | 24 | – | – | – | – |
-| Argentina | R$ 3.966 | 5 | – | – | – | – |
-| Bosque do Repouso | – | – | R$ 32,4 | 5 | – | – |
-| Ceará | R$ 5.809 | 16 | – | – | – | – |
-| Centro | R$ 7.494 | 345 | R$ 29,7 | 46 | 4,76% | – |
-| Comerciário | R$ 6.232 | 92 | R$ 33,2 | 10 | 6,39% | – |
-| Cruzeiro do Sul | R$ 10.286 | 30 | – | – | – | – |
-| Imigrantes | R$ 5.606 | 8 | – | – | – | – |
-| Linha Batista | R$ 4.669 | 12 | – | – | – | – |
-| Michel | R$ 7.046 | 49 | – | – | – | – |
-| Mina do Mato | R$ 5.304 | 6 | – | – | – | – |
-| Mina União | R$ 4.730 | 13 | – | – | – | – |
+| Ana Maria | R$ 4.722 | 34 | – | – | – | – |
+| Argentina | R$ 4.292 | 13 | – | – | – | – |
+| Bosque do Repouso | – | – | R$ 32,1 | 6 | – | – |
+| Brasília | R$ 6.780 | 9 | – | – | – | – |
+| Ceará | R$ 5.753 | 17 | – | – | – | – |
+| Centro | R$ 7.581 | 579 | R$ 29,8 | 50 | 4,72% | – |
+| Comerciário | R$ 5.892 | 144 | R$ 34,9 | 11 | 7,11% | – |
+| Cruzeiro do Sul | R$ 10.000 | 46 | – | – | – | – |
+| Dos Imigrantes | R$ 5.967 | 13 | – | – | – | – |
+| Linha Batista | R$ 4.629 | 13 | – | – | – | – |
+| Michel | R$ 7.160 | 97 | – | – | – | – |
+| Mina do Mato | R$ 4.981 | 9 | – | – | – | – |
+| Mina União | R$ 4.812 | 16 | – | – | – | – |
 | Monte Castelo | R$ 4.057 | 5 | – | – | – | – |
-| Operária Nova | R$ 3.804 | 7 | – | – | – | – |
-| Pinheirinho | R$ 5.417 | 19 | R$ 28,7 | 5 | 6,36% | – |
-| Pio Corrêa | R$ 7.617 | 40 | – | – | – | – |
-| Próspera | R$ 7.114 | 32 | R$ 33,1 | 7 | 5,58% | – |
-| Quarta Linha | R$ 3.777 | 7 | – | – | – | – |
-| Rio Maina | R$ 6.159 | 20 | – | – | – | – |
-| Santa Augusta | R$ 4.906 | 12 | R$ 38,0 | 5 | 9,30% | – |
-| Santa Bárbara | R$ 6.875 | 53 | R$ 26,6 | 5 | 4,64% | – |
-| Santa Catarina | R$ 6.185 | 16 | – | – | – | – |
-| Santa Luzia | – | – | R$ 26,9 | 5 | – | – |
-| Santo Antônio | R$ 5.370 | 20 | R$ 25,8 | 5 | 5,77% | – |
-| São Cristóvão | R$ 6.029 | 17 | – | – | – | – |
-| São Francisco | R$ 5.094 | 11 | R$ 28,7 | 8 | 6,76% | – |
-| São Luiz | R$ 5.714 | 25 | R$ 32,0 | 9 | 6,72% | – |
-| Universitário | R$ 5.019 | 12 | R$ 28,3 | 11 | 6,77% | – |
-| Vera Cruz | R$ 6.976 | 16 | – | – | – | – |
-| Vila Floresta II | R$ 5.219 | 9 | – | – | – | – |
+| Operária Nova | R$ 3.733 | 10 | – | – | – | – |
+| Pinheirinho | R$ 5.574 | 27 | R$ 28,7 | 7 | 6,18% | – |
+| Pio Corrêa | R$ 7.680 | 65 | – | – | – | – |
+| Próspera | R$ 6.842 | 45 | R$ 33,1 | 7 | 5,81% | – |
+| Quarta Linha | R$ 3.777 | 8 | – | – | – | – |
+| Rio Maina | R$ 6.301 | 27 | – | – | – | – |
+| Santa Augusta | R$ 4.895 | 14 | R$ 38,0 | 5 | 9,32% | – |
+| Santa Bárbara | R$ 6.909 | 73 | R$ 26,6 | 5 | 4,62% | – |
+| Santa Catarina | R$ 7.361 | 27 | – | – | – | – |
+| Santa Luzia | R$ 4.220 | 6 | R$ 26,9 | 5 | 7,65% | – |
+| Santo Antônio | R$ 5.334 | 25 | R$ 25,8 | 5 | 5,80% | – |
+| São Cristóvão | R$ 6.625 | 27 | – | – | – | – |
+| São Francisco | R$ 5.531 | 16 | R$ 28,7 | 8 | 6,23% | – |
+| São João | R$ 5.303 | 5 | – | – | – | – |
+| São Luiz | R$ 5.730 | 36 | R$ 32,0 | 9 | 6,70% | – |
+| São Sebastião | R$ 4.040 | 10 | – | – | – | – |
+| Universitário | R$ 5.033 | 15 | R$ 28,3 | 11 | 6,75% | – |
+| Vera Cruz | R$ 7.451 | 29 | – | – | – | – |
+| Vila Floresta II | R$ 5.190 | 8 | R$ 28,2 | 5 | 6,52% | – |
 
-### Casas, cidade toda: venda R$ 3.800/m² (n=852); aluguel R$ 25,1/m²/mês (n=56); rendimento bruto do aluguel 7,93% a.a.
+### Casas, cidade toda: venda R$ 4.087/m² (n=1188); aluguel R$ 25,0/m²/mês (n=63); rendimento bruto do aluguel 7,34% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Ana Maria | R$ 2.778 | 21 | – | – | – | – |
-| Archimedes Naspolini | R$ 5.082 | 5 | – | – | – | – |
-| Argentina | R$ 4.638 | 11 | – | – | – | – |
-| Bosque do Repouso | R$ 6.700 | 9 | – | – | – | – |
-| Ceará | R$ 3.051 | 10 | – | – | – | – |
-| Centro | R$ 5.019 | 23 | R$ 36,1 | 12 | 8,63% | – |
+| Ana Maria | R$ 2.766 | 32 | – | – | – | – |
+| Archimedes Naspolini | R$ 5.000 | 13 | – | – | – | – |
+| Argentina | R$ 3.887 | 16 | – | – | – | – |
+| Bosque do Repouso | R$ 6.700 | 19 | – | – | – | – |
+| Brasília | R$ 3.181 | 8 | – | – | – | – |
+| Ceará | R$ 3.903 | 14 | – | – | – | – |
+| Centro | R$ 5.019 | 37 | R$ 36,1 | 12 | 8,63% | – |
 | Cidade Mineira Nova | R$ 3.303 | 8 | – | – | – | – |
-| Cidade Mineira Velha | R$ 2.982 | 5 | – | – | – | – |
-| Comerciário | R$ 4.336 | 9 | – | – | – | – |
-| Cristo Redentor | R$ 2.400 | 5 | – | – | – | – |
-| Cruzeiro do Sul | R$ 3.667 | 17 | – | – | – | – |
-| Demboski | R$ 3.240 | 6 | – | – | – | – |
-| Fábio Silva | R$ 3.027 | 11 | – | – | – | – |
-| Imigrantes | R$ 3.630 | 5 | – | – | – | – |
-| Jardim Angélica | R$ 3.778 | 25 | – | – | – | – |
-| Jardim Maristela | R$ 4.441 | 22 | – | – | – | – |
-| Jardim Montevidéu | R$ 2.848 | 5 | – | – | – | – |
-| Laranjinha | R$ 3.794 | 17 | – | – | – | – |
-| Linha Batista | R$ 5.116 | 21 | – | – | – | – |
-| Maria Céu | R$ 2.906 | 8 | – | – | – | – |
-| Metropol | R$ 3.512 | 7 | – | – | – | – |
-| Michel | R$ 4.503 | 17 | – | – | – | – |
-| Milanese | R$ 2.548 | 6 | – | – | – | – |
-| Mina Brasil | R$ 4.075 | 26 | – | – | – | – |
-| Mina do Mato | R$ 3.200 | 19 | – | – | – | – |
-| Mina União | R$ 4.197 | 9 | – | – | – | – |
-| Monte Castelo | R$ 4.250 | 11 | – | – | – | – |
+| Cidade Mineira Velha | R$ 2.887 | 7 | – | – | – | – |
+| Comerciário | R$ 4.298 | 20 | – | – | – | – |
+| Cristo Redentor | R$ 2.825 | 7 | – | – | – | – |
+| Cruzeiro do Sul | R$ 4.112 | 24 | – | – | – | – |
+| Demboski | R$ 3.360 | 7 | – | – | – | – |
+| Dos Imigrantes | R$ 3.630 | 5 | – | – | – | – |
+| Fábio Silva | R$ 3.027 | 13 | – | – | – | – |
+| Jardim Angélica | R$ 3.788 | 31 | – | – | – | – |
+| Jardim Maristela | R$ 4.313 | 27 | – | – | – | – |
+| Jardim Montevidéu | R$ 2.833 | 8 | – | – | – | – |
+| Laranjinha | R$ 3.954 | 22 | – | – | – | – |
+| Linha Batista | R$ 5.022 | 24 | – | – | – | – |
+| Maria Céu | R$ 3.257 | 12 | – | – | – | – |
+| Metropol | R$ 3.523 | 10 | – | – | – | – |
+| Michel | R$ 4.555 | 30 | – | – | – | – |
+| Milanese | R$ 2.996 | 7 | – | – | – | – |
+| Mina Brasil | R$ 3.898 | 33 | – | – | – | – |
+| Mina do Mato | R$ 3.717 | 29 | – | – | – | – |
+| Mina União | R$ 3.958 | 11 | – | – | – | – |
+| Monte Castelo | R$ 3.925 | 12 | – | – | – | – |
 | Morro Estevão | R$ 2.532 | 5 | – | – | – | – |
-| Nossa Senhora da Salete | R$ 4.699 | 16 | – | – | – | – |
-| Operária Nova | R$ 4.616 | 13 | – | – | – | – |
-| Pinheirinho | R$ 3.406 | 28 | – | – | – | – |
-| Pio Corrêa | R$ 6.054 | 31 | – | – | – | – |
-| Primeira Linha | R$ 7.217 | 20 | – | – | – | – |
-| Próspera | R$ 3.895 | 37 | – | – | – | – |
-| Quarta Linha | R$ 3.637 | 12 | – | – | – | – |
-| Rio Maina | R$ 3.500 | 27 | – | – | – | – |
-| Sangão | R$ 4.051 | 6 | – | – | – | – |
-| Santa Augusta | R$ 3.299 | 10 | – | – | – | – |
-| Santa Bárbara | R$ 3.735 | 32 | – | – | – | – |
-| Santa Catarina | R$ 5.308 | 16 | – | – | – | – |
-| Santa Luzia | R$ 3.193 | 17 | – | – | – | – |
-| Santo Antônio | R$ 3.528 | 24 | – | – | – | – |
-| São Cristóvão | R$ 4.881 | 8 | – | – | – | – |
-| São Defende | R$ 3.778 | 18 | – | – | – | – |
-| São Luiz | R$ 3.429 | 17 | – | – | – | – |
-| São Sebastião | R$ 2.579 | 16 | – | – | – | – |
-| São Simão | R$ 9.655 | 12 | – | – | – | – |
-| Universitário | R$ 3.011 | 9 | – | – | – | – |
-| Vera Cruz | R$ 4.206 | 7 | – | – | – | – |
-| Vila Floresta | R$ 2.407 | 7 | – | – | – | – |
-| Vila Floresta II | R$ 4.122 | 6 | – | – | – | – |
-| Vila Isabel | R$ 5.028 | 8 | – | – | – | – |
+| Nossa Senhora da Salete | R$ 4.449 | 30 | – | – | – | – |
+| Operária Nova | R$ 4.119 | 18 | – | – | – | – |
+| Pedro Zanivan | R$ 3.087 | 7 | – | – | – | – |
+| Pinheirinho | R$ 3.693 | 40 | – | – | – | – |
+| Pio Corrêa | R$ 6.310 | 46 | – | – | – | – |
+| Primeira Linha | R$ 8.030 | 41 | – | – | – | – |
+| Próspera | R$ 3.879 | 54 | – | – | – | – |
+| Quarta Linha | R$ 3.637 | 14 | – | – | – | – |
+| Recanto Verde | R$ 5.562 | 5 | – | – | – | – |
+| Rio Maina | R$ 3.469 | 30 | – | – | – | – |
+| Sangão | R$ 4.036 | 6 | – | – | – | – |
+| Santa Augusta | R$ 3.692 | 19 | – | – | – | – |
+| Santa Bárbara | R$ 3.941 | 35 | – | – | – | – |
+| Santa Catarina | R$ 5.388 | 21 | – | – | – | – |
+| Santa Luzia | R$ 3.206 | 20 | – | – | – | – |
+| Santo Antônio | R$ 3.571 | 29 | – | – | – | – |
+| São Cristóvão | R$ 4.881 | 12 | – | – | – | – |
+| São Defende | R$ 3.889 | 21 | – | – | – | – |
+| São Luiz | R$ 3.722 | 24 | – | – | – | – |
+| São Sebastião | R$ 2.571 | 15 | – | – | – | – |
+| São Simão | R$ 8.886 | 26 | – | – | – | – |
+| Universitário | R$ 4.220 | 10 | – | – | – | – |
+| Vera Cruz | R$ 4.320 | 8 | – | – | – | – |
+| Vila Floresta | R$ 4.444 | 12 | – | – | – | – |
+| Vila Floresta II | R$ 4.622 | 9 | – | – | – | – |
+| Vila Isabel | R$ 3.896 | 12 | – | – | – | – |
 | Vila Macarini | R$ 2.966 | 5 | – | – | – | – |
 | Vila Manaus | R$ 1.946 | 8 | – | – | – | – |
 | Vila Nova Esperança | R$ 4.444 | 7 | – | – | – | – |
@@ -6842,58 +6848,70 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Vila Zuleima | R$ 2.125 | 7 | – | – | – | – |
 | Wosocris | R$ 2.980 | 7 | – | – | – | – |
 
-### Terrenos, cidade toda: venda R$ 449/m² (n=780)
+### Terrenos, cidade toda: venda R$ 457/m² (n=971)
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Ana Maria | R$ 522 | 12 | – | – | – | – |
-| Archimedes Naspolini | R$ 433 | 21 | – | – | – | – |
-| Argentina | R$ 592 | 29 | – | – | – | – |
+| Ana Maria | R$ 535 | 14 | – | – | – | – |
+| Archimedes Naspolini | R$ 433 | 27 | – | – | – | – |
+| Argentina | R$ 587 | 39 | – | – | – | – |
 | Arquimedes Naspolini | R$ 411 | 6 | – | – | – | – |
-| Bosque do Repouso | R$ 556 | 19 | – | – | – | – |
-| Brasília | R$ 457 | 10 | – | – | – | – |
-| Ceará | R$ 836 | 6 | – | – | – | – |
-| Centro | R$ 814 | 5 | – | – | – | – |
-| Coloninha Zilli | R$ 480 | 10 | – | – | – | – |
-| Comerciário | R$ 764 | 10 | – | – | – | – |
-| Cruzeiro do Sul | R$ 1.298 | 8 | – | – | – | – |
-| Jardim Angélica | R$ 542 | 19 | – | – | – | – |
-| Jardim Maristela | R$ 662 | 7 | – | – | – | – |
-| Laranjinha | R$ 338 | 21 | – | – | – | – |
-| Linha Anta | R$ 255 | 14 | – | – | – | – |
-| Linha Batista | R$ 317 | 21 | – | – | – | – |
-| Maria Céu | R$ 373 | 10 | – | – | – | – |
-| Mina Brasil | R$ 956 | 13 | – | – | – | – |
-| Mina do Mato | R$ 465 | 31 | – | – | – | – |
-| Naspolini | R$ 548 | 7 | – | – | – | – |
-| Operária Nova | R$ 775 | 9 | – | – | – | – |
-| Pinheirinho | R$ 449 | 14 | – | – | – | – |
-| Pio Corrêa | R$ 1.037 | 9 | – | – | – | – |
-| Primeira Linha | R$ 531 | 89 | – | – | – | – |
-| Primeira Linha Pontilhão | R$ 383 | 8 | – | – | – | – |
-| Próspera | R$ 914 | 22 | – | – | – | – |
-| Quarta Linha | R$ 323 | 24 | – | – | – | – |
-| Recanto Verde | R$ 369 | 5 | – | – | – | – |
-| Rio Maina | R$ 400 | 21 | – | – | – | – |
-| Sangão | R$ 299 | 17 | – | – | – | – |
-| Santa Luzia | R$ 379 | 15 | – | – | – | – |
-| Santo Antônio | R$ 513 | 17 | – | – | – | – |
-| São Defende | R$ 298 | 42 | – | – | – | – |
-| São Luiz | R$ 652 | 14 | – | – | – | – |
-| São Sebastião | R$ 358 | 6 | – | – | – | – |
-| São Simão | R$ 746 | 36 | – | – | – | – |
+| Bosque do Repouso | R$ 547 | 24 | – | – | – | – |
+| Brasília | R$ 457 | 12 | – | – | – | – |
+| Buenos Aires | R$ 319 | 5 | – | – | – | – |
+| Ceará | R$ 836 | 8 | – | – | – | – |
+| Centro | R$ 1.197 | 13 | – | – | – | – |
+| Coloninha Zilli | R$ 470 | 15 | – | – | – | – |
+| Comerciário | R$ 841 | 13 | – | – | – | – |
+| Cruzeiro do Sul | R$ 1.346 | 12 | – | – | – | – |
+| Dagostin | R$ 348 | 5 | – | – | – | – |
+| Fábio Silva | R$ 442 | 5 | – | – | – | – |
+| Jardim Angélica | R$ 527 | 22 | – | – | – | – |
+| Jardim das Paineiras | R$ 469 | 6 | – | – | – | – |
+| Jardim Maristela | R$ 705 | 8 | – | – | – | – |
+| Laranjinha | R$ 338 | 23 | – | – | – | – |
+| Linha Anta | R$ 264 | 15 | – | – | – | – |
+| Linha Batista | R$ 314 | 24 | – | – | – | – |
+| Maria Céu | R$ 377 | 11 | – | – | – | – |
+| Metropol | R$ 196 | 8 | – | – | – | – |
+| Michel | R$ 1.231 | 6 | – | – | – | – |
+| Mina Brasil | R$ 1.006 | 17 | – | – | – | – |
+| Mina do Mato | R$ 470 | 36 | – | – | – | – |
+| Morro Estevão | R$ 108 | 6 | – | – | – | – |
+| Naspolini | R$ 534 | 10 | – | – | – | – |
+| Nossa Senhora da Salete | R$ 762 | 6 | – | – | – | – |
+| Operária Nova | R$ 799 | 11 | – | – | – | – |
+| Pinheirinho | R$ 458 | 17 | – | – | – | – |
+| Pio Corrêa | R$ 1.019 | 10 | – | – | – | – |
+| Primeira Linha | R$ 535 | 100 | – | – | – | – |
+| Primeira Linha Pontilhão | R$ 394 | 11 | – | – | – | – |
+| Próspera | R$ 917 | 27 | – | – | – | – |
+| Quarta Linha | R$ 323 | 26 | – | – | – | – |
+| Recanto Verde | R$ 362 | 7 | – | – | – | – |
+| Rio Maina | R$ 409 | 26 | – | – | – | – |
+| Sangão | R$ 306 | 20 | – | – | – | – |
+| Santa Catarina | R$ 802 | 6 | – | – | – | – |
+| Santa Luzia | R$ 361 | 19 | – | – | – | – |
+| Santo Antônio | R$ 492 | 24 | – | – | – | – |
+| São Defende | R$ 298 | 44 | – | – | – | – |
+| São Luiz | R$ 655 | 15 | – | – | – | – |
+| São Sebastião | R$ 331 | 7 | – | – | – | – |
+| São Simão | R$ 823 | 55 | – | – | – | – |
 | Universitário | R$ 464 | 5 | – | – | – | – |
 | Verdinho | R$ 82 | 5 | – | – | – | – |
-| Vila Floresta II | R$ 378 | 10 | – | – | – | – |
-| Vila Nova Esperança | R$ 280 | 15 | – | – | – | – |
+| Vila Floresta | R$ 405 | 9 | – | – | – | – |
+| Vila Floresta II | R$ 381 | 12 | – | – | – | – |
+| Vila Macarini | R$ 386 | 6 | – | – | – | – |
+| Vila Nova Esperança | R$ 285 | 16 | – | – | – | – |
+| Vila Selinger | R$ 353 | 5 | – | – | – | – |
 
-### Salas comerciais, cidade toda: venda R$ 7.745/m² (n=93); aluguel R$ 37,6/m²/mês (n=96); rendimento bruto do aluguel 5,83% a.a.
+### Salas comerciais, cidade toda: venda R$ 7.913/m² (n=124); aluguel R$ 37,6/m²/mês (n=102); rendimento bruto do aluguel 5,70% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Centro | R$ 7.913 | 60 | R$ 40,1 | 55 | 6,08% | – |
-| Pio Corrêa | – | – | R$ 75,4 | 6 | – | – |
-| Próspera | R$ 8.120 | 5 | – | – | – | – |
+| Centro | R$ 8.132 | 80 | R$ 39,4 | 58 | 5,81% | – |
+| Pio Corrêa | R$ 6.950 | 5 | R$ 75,4 | 6 | 13,02% | – |
+| Próspera | R$ 8.091 | 8 | – | – | – | – |
 | Santa Bárbara | – | – | R$ 62,5 | 5 | – | – |
 
 
@@ -7492,80 +7510,88 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 
 ## Lages (setembro/2026): https://acorridadosbairros.com.br/lages/
 
-### Apartamentos, cidade toda: venda R$ 6.413/m² (n=280); aluguel R$ 25,9/m²/mês (n=7); rendimento bruto do aluguel 4,85% a.a.
+### Apartamentos, cidade toda: venda R$ 6.238/m² (n=330); aluguel R$ 23,1/m²/mês (n=8); rendimento bruto do aluguel 4,44% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Brusque | R$ 8.408 | 8 | – | – | – | – |
-| Centro | R$ 6.235 | 115 | – | – | – | – |
-| Conta Dinheiro | R$ 6.111 | 9 | – | – | – | – |
-| Coral | R$ 6.651 | 33 | – | – | – | – |
+| Brusque | R$ 6.697 | 9 | – | – | – | – |
+| Centenário | R$ 6.313 | 5 | – | – | – | – |
+| Centro | R$ 5.618 | 142 | – | – | – | – |
+| Conta Dinheiro | R$ 6.038 | 11 | – | – | – | – |
+| Coral | R$ 6.793 | 37 | – | – | – | – |
 | Frei Rogério | R$ 7.275 | 5 | – | – | – | – |
-| Petrópolis | R$ 8.215 | 7 | – | – | – | – |
+| Gethal | R$ 5.109 | 6 | – | – | – | – |
+| Petrópolis | R$ 6.726 | 10 | – | – | – | – |
 | Ponte Grande | R$ 5.777 | 5 | – | – | – | – |
 | Promorar | R$ 2.711 | 7 | – | – | – | – |
-| Sagrado Coração de Jesus | R$ 7.030 | 6 | – | – | – | – |
-| São Cristóvão | R$ 7.292 | 26 | – | – | – | – |
-| Universitário | R$ 6.522 | 15 | – | – | – | – |
+| Sagrado Coração de Jesus | R$ 6.791 | 7 | – | – | – | – |
+| São Cristóvão | R$ 7.130 | 30 | – | – | – | – |
+| Universitário | R$ 6.341 | 16 | – | – | – | – |
 | Vila Nova | R$ 6.316 | 5 | – | – | – | – |
 
-### Casas, cidade toda: venda R$ 3.867/m² (n=477); aluguel R$ 25,9/m²/mês (n=8); rendimento bruto do aluguel 8,04% a.a.
+### Casas, cidade toda: venda R$ 3.784/m² (n=498); aluguel R$ 25,9/m²/mês (n=8); rendimento bruto do aluguel 8,21% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Araucária | R$ 2.024 | 5 | – | – | – | – |
-| Beatriz | R$ 3.727 | 10 | – | – | – | – |
+| Araucária | R$ 1.844 | 6 | – | – | – | – |
+| Beatriz | R$ 3.520 | 11 | – | – | – | – |
 | Brusque | R$ 2.471 | 14 | – | – | – | – |
 | Caravágio | R$ 3.054 | 11 | – | – | – | – |
-| Centro | R$ 4.571 | 55 | – | – | – | – |
-| Chapada | R$ 4.773 | 17 | – | – | – | – |
+| Centro | R$ 4.602 | 58 | – | – | – | – |
+| Chapada | R$ 4.642 | 18 | – | – | – | – |
 | Conta Dinheiro | R$ 1.818 | 5 | – | – | – | – |
-| Copacabana | R$ 4.031 | 32 | – | – | – | – |
+| Copacabana | R$ 3.972 | 33 | – | – | – | – |
 | Coral | R$ 4.606 | 20 | – | – | – | – |
 | Frei Rogério | R$ 4.484 | 20 | – | – | – | – |
-| Gethal | R$ 3.503 | 6 | – | – | – | – |
+| Gethal | R$ 3.499 | 7 | – | – | – | – |
 | Guarujá | R$ 4.170 | 34 | – | – | – | – |
-| Jardim Panorâmico | R$ 3.818 | 15 | – | – | – | – |
+| Jardim Panorâmico | R$ 4.009 | 16 | – | – | – | – |
 | Maria Luiza | R$ 3.197 | 6 | – | – | – | – |
-| Penha | R$ 4.682 | 6 | – | – | – | – |
+| Penha | R$ 4.524 | 7 | – | – | – | – |
 | Petrópolis | R$ 2.954 | 15 | – | – | – | – |
-| Popular | R$ 3.036 | 10 | – | – | – | – |
-| Sagrado Coração de Jesus | R$ 4.394 | 38 | – | – | – | – |
+| Popular | R$ 3.101 | 11 | – | – | – | – |
+| Sagrado Coração de Jesus | R$ 4.242 | 39 | – | – | – | – |
 | Santa Cândida | R$ 3.689 | 5 | – | – | – | – |
-| Santa Catarina | R$ 3.571 | 7 | – | – | – | – |
-| Santa Helena | R$ 3.178 | 17 | – | – | – | – |
-| Santa Maria | R$ 2.353 | 5 | – | – | – | – |
+| Santa Catarina | R$ 3.504 | 8 | – | – | – | – |
+| Santa Helena | R$ 3.089 | 18 | – | – | – | – |
+| Santa Maria | R$ 1.876 | 6 | – | – | – | – |
 | São Cristóvão | R$ 4.441 | 22 | – | – | – | – |
 | São Miguel | R$ 4.180 | 8 | – | – | – | – |
-| Universitário | R$ 3.278 | 16 | – | – | – | – |
-| Vila Nova | R$ 2.985 | 17 | – | – | – | – |
+| Universitário | R$ 3.158 | 17 | – | – | – | – |
+| Vila Nova | R$ 2.833 | 19 | – | – | – | – |
 
-### Terrenos, cidade toda: venda R$ 498/m² (n=284)
+### Terrenos, cidade toda: venda R$ 505/m² (n=353)
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Boqueirão | R$ 583 | 5 | – | – | – | – |
-| Brusque | R$ 1.072 | 6 | – | – | – | – |
-| Caroba | R$ 153 | 9 | – | – | – | – |
-| Centro | R$ 1.532 | 16 | – | – | – | – |
-| Chapada | R$ 474 | 24 | – | – | – | – |
-| Conta Dinheiro | R$ 913 | 8 | – | – | – | – |
-| Copacabana | R$ 947 | 6 | – | – | – | – |
+| Bom Jesus | R$ 236 | 5 | – | – | – | – |
+| Boqueirão | R$ 584 | 8 | – | – | – | – |
+| Brusque | R$ 1.056 | 7 | – | – | – | – |
+| Caroba | R$ 150 | 10 | – | – | – | – |
+| Centro | R$ 1.506 | 21 | – | – | – | – |
+| Chapada | R$ 481 | 36 | – | – | – | – |
+| Conta Dinheiro | R$ 1.001 | 10 | – | – | – | – |
+| Copacabana | R$ 941 | 9 | – | – | – | – |
 | Coral | R$ 963 | 8 | – | – | – | – |
 | Cruz de Malta | R$ 133 | 6 | – | – | – | – |
-| Frei Rogério | R$ 745 | 13 | – | – | – | – |
-| Guarujá | R$ 472 | 17 | – | – | – | – |
-| Jardim das Camélias | R$ 283 | 5 | – | – | – | – |
-| Jardim Panorâmico | R$ 548 | 10 | – | – | – | – |
-| Morro do Posto | R$ 462 | 8 | – | – | – | – |
+| Frei Rogério | R$ 745 | 15 | – | – | – | – |
+| Guarujá | R$ 472 | 20 | – | – | – | – |
+| Jardim das Camélias | R$ 283 | 9 | – | – | – | – |
+| Jardim Panorâmico | R$ 540 | 11 | – | – | – | – |
+| Morro do Posto | R$ 466 | 9 | – | – | – | – |
 | Penha | R$ 441 | 12 | – | – | – | – |
-| Petrópolis | R$ 625 | 5 | – | – | – | – |
-| Sagrado Coração de Jesus | R$ 1.212 | 6 | – | – | – | – |
+| Petrópolis | R$ 638 | 6 | – | – | – | – |
+| Sagrado Coração de Jesus | R$ 1.212 | 10 | – | – | – | – |
+| Santa Catarina | R$ 336 | 5 | – | – | – | – |
 | Santa Clara | R$ 194 | 5 | – | – | – | – |
 | Santa Helena | R$ 472 | 5 | – | – | – | – |
-| Tributo | R$ 433 | 13 | – | – | – | – |
-| Vila Maria | R$ 282 | 18 | – | – | – | – |
-| Vila Nova | R$ 816 | 6 | – | – | – | – |
+| Santa Rita | R$ 908 | 6 | – | – | – | – |
+| São Luiz | R$ 351 | 5 | – | – | – | – |
+| Tributo | R$ 406 | 17 | – | – | – | – |
+| Universitário | R$ 1.250 | 5 | – | – | – | – |
+| Vila Maria | R$ 286 | 21 | – | – | – | – |
+| Vila Mariza | R$ 528 | 5 | – | – | – | – |
+| Vila Nova | R$ 743 | 7 | – | – | – | – |
 
 ### Salas comerciais, cidade toda: venda R$ 3.961/m² (n=24); aluguel R$ 40,0/m²/mês (n=57); rendimento bruto do aluguel 12,12% a.a.
 
