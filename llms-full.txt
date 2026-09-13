@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 67 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 533.061 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 68 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 533.938 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -2190,6 +2190,68 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Residencial Paiaguás | R$ 14.118 | 9 | R$ 90,9 | 10 | 7,73% | – |
 | Ribeirão da Ponte | – | – | R$ 70,2 | 5 | – | – |
 | Santa Rosa | – | – | R$ 89,6 | 10 | – | – |
+
+
+## Várzea Grande (setembro/2026): https://acorridadosbairros.com.br/mt/varzea-grande/
+
+### Apartamentos, cidade toda: venda R$ 4.624/m² (n=112); aluguel R$ 27,9/m²/mês (n=17); rendimento bruto do aluguel 7,24% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Alameda | R$ 4.808 | 5 | – | – | – | – |
+| Centro-Norte | R$ 5.333 | 7 | – | – | – | – |
+| Centro-Sul | R$ 5.125 | 20 | – | – | – | – |
+| Cristo Rei | R$ 4.189 | 5 | – | – | – | – |
+| Glória | R$ 5.115 | 8 | – | – | – | – |
+| Mapim | R$ 4.847 | 6 | – | – | – | – |
+| Ponte Nova | R$ 4.833 | 24 | – | – | – | – |
+
+### Casas, cidade toda: venda R$ 3.914/m² (n=442); aluguel R$ 19,8/m²/mês (n=27); rendimento bruto do aluguel 6,07% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| 23 de Setembro | R$ 6.032 | 26 | – | – | – | – |
+| Canelas | R$ 3.125 | 17 | – | – | – | – |
+| Centro-Norte | R$ 3.565 | 6 | – | – | – | – |
+| Centro-Sul | R$ 3.247 | 32 | – | – | – | – |
+| Chapéu do Sol | R$ 7.784 | 16 | – | – | – | – |
+| Costa Verde | R$ 2.780 | 13 | – | – | – | – |
+| Cristo Rei | R$ 2.400 | 33 | – | – | – | – |
+| Florais da Mata | R$ 11.161 | 20 | – | – | – | – |
+| Ikaray | R$ 1.970 | 10 | – | – | – | – |
+| Jardim Aeroporto | R$ 4.900 | 5 | – | – | – | – |
+| Jardim Costa Verde | R$ 4.083 | 16 | – | – | – | – |
+| Jardim dos Estados | R$ 2.769 | 13 | – | – | – | – |
+| Jardim Paula I | R$ 2.046 | 5 | – | – | – | – |
+| Mapim | R$ 1.950 | 5 | – | – | – | – |
+| Marajoara | R$ 1.806 | 9 | – | – | – | – |
+| Nova Várzea Grande | R$ 3.348 | 6 | – | – | – | – |
+| Novo Mundo | R$ 3.265 | 17 | – | – | – | – |
+| Paiaguás | R$ 2.333 | 5 | – | – | – | – |
+| Parque do Lago | R$ 1.958 | 6 | – | – | – | – |
+| Petrópolis | R$ 5.120 | 36 | – | – | – | – |
+| Ponte Nova | R$ 2.122 | 12 | – | – | – | – |
+| Santa Isabel | R$ 2.575 | 7 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 1.026/m² (n=231)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Centro-Norte | R$ 846 | 8 | – | – | – | – |
+| Centro-Sul | R$ 1.100 | 11 | – | – | – | – |
+| Chapéu do Sol | R$ 1.100 | 30 | – | – | – | – |
+| Florais da Mata | R$ 1.200 | 40 | – | – | – | – |
+| Jardim dos Estados | R$ 1.082 | 7 | – | – | – | – |
+| Novo Mundo | R$ 760 | 6 | – | – | – | – |
+| Parque das Águas | R$ 368 | 6 | – | – | – | – |
+| Passagem da Conceição | R$ 464 | 11 | – | – | – | – |
+| Petrópolis | R$ 667 | 14 | – | – | – | – |
+| Ponte Nova | R$ 497 | 7 | – | – | – | – |
+
+### Salas comerciais, cidade toda: venda R$ 3.884/m² (n=7); aluguel R$ 40,0/m²/mês (n=9); rendimento bruto do aluguel 12,36% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
 
 
 ## Campo Grande (setembro/2026): https://acorridadosbairros.com.br/ms/campo-grande/
