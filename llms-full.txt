@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 70 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 535.686 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 71 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 536.340 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -983,6 +983,61 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Passaré | – | – | R$ 61,8 | 5 | – | – |
 | Pici | R$ 5.602 | 10 | – | – | – | – |
 | São Gerardo | R$ 6.175 | 6 | R$ 42,9 | 5 | 8,34% | – |
+
+
+## Caucaia (setembro/2026): https://acorridadosbairros.com.br/ce/caucaia/
+
+### Apartamentos, cidade toda: venda R$ 4.342/m² (n=263); aluguel R$ 15,2/m²/mês (n=23); rendimento bruto do aluguel 4,20% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Centro | R$ 4.276 | 10 | – | – | – | – |
+| Cumbuco | R$ 9.600 | 61 | – | – | – | – |
+| Curicaca | R$ 4.368 | 6 | – | – | – | – |
+| Icaraí | R$ 3.310 | 34 | – | – | – | – |
+| Itambé | R$ 3.913 | 9 | – | – | – | – |
+| Jardim Icaraí | R$ 3.717 | 6 | – | – | – | – |
+| Mestre Antônio | R$ 4.200 | 7 | – | – | – | – |
+| Pacheco | R$ 3.662 | 5 | – | – | – | – |
+| Padre Julio Maria | R$ 4.884 | 5 | – | – | – | – |
+| Padre Romualdo | R$ 4.258 | 5 | – | – | – | – |
+| Palmirim | R$ 4.151 | 5 | – | – | – | – |
+| Parque Albano (Jurema) | R$ 4.201 | 7 | – | – | – | – |
+| Paumirim | R$ 3.028 | 5 | – | – | – | – |
+| Praia de Cumbuco | R$ 10.682 | 18 | – | – | – | – |
+| Tabapuá | R$ 3.000 | 17 | – | – | – | – |
+| Tabuba | R$ 4.148 | 12 | – | – | – | – |
+
+### Casas, cidade toda: venda R$ 3.632/m² (n=220); aluguel R$ 20,6/m²/mês (n=8); rendimento bruto do aluguel 6,81% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Alto do Garrote | R$ 6.716 | 8 | – | – | – | – |
+| Camurupim | R$ 3.706 | 7 | – | – | – | – |
+| Cumbuco | R$ 7.091 | 39 | – | – | – | – |
+| Curicaca | R$ 3.915 | 6 | – | – | – | – |
+| Garrote | R$ 2.667 | 5 | – | – | – | – |
+| Icaraí | R$ 3.298 | 24 | – | – | – | – |
+| Iparana | R$ 2.267 | 8 | – | – | – | – |
+| Jardim Icaraí | R$ 3.709 | 31 | – | – | – | – |
+| Lagoa do Banana | R$ 4.601 | 5 | – | – | – | – |
+| Mestre Antônio | R$ 3.293 | 8 | – | – | – | – |
+| Pacheco | R$ 3.452 | 21 | – | – | – | – |
+| Tabuba | R$ 3.345 | 10 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 367/m² (n=129)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Garrote | R$ 358 | 15 | – | – | – | – |
+| Icaraí | R$ 270 | 14 | – | – | – | – |
+| Itambé | R$ 858 | 24 | – | – | – | – |
+| Lagoa do Banana | R$ 265 | 24 | – | – | – | – |
+
+### Salas comerciais, cidade toda: aluguel R$ 31,5/m²/mês (n=6)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
 
 
 ## Brasília (setembro/2026): https://acorridadosbairros.com.br/df/brasilia/
