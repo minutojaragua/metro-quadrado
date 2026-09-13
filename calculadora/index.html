@@ -424,6 +424,7 @@ html{scroll-padding-top:56px}
 <main><div class="wrap">
 <section style="margin-top:22px">
 <div style="display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:14px">
+<select id="uf" aria-label="Estado" style="padding:8px 10px;font-size:1em;border-radius:8px"></select>
 <select id="cid" aria-label="Cidade" style="padding:8px 10px;font-size:1em;border-radius:8px"></select>
 <select id="cat" aria-label="Tipo de imóvel" style="padding:8px 10px;font-size:1em;border-radius:8px"></select>
 <select id="bai" aria-label="Bairro" style="padding:8px 10px;font-size:1em;border-radius:8px"></select>
@@ -471,13 +472,35 @@ function selPreenche(sel,pares,manter){
   pares.forEach(([val,rot])=>sel.add(new Option(rot,val)));
   if(v&&[...sel.options].some(o=>o.value===v))sel.value=v;
 }
+// 12/09/2026 (Jales): a calculadora abria com Jaragua do Sul ja escolhida, o que fazia o
+// leitor de fora achar que a ferramenta era so daqui. Agora sao DOIS seletores, estado e
+// cidade, e nenhum vem escolhido: quem chega decide os dois. O deep link ?cid= e a memoria
+// da cidade do leitor continuam valendo, e nesses casos o estado e preenchido junto.
+function ufDaCidade(slug){const c=CFG.find(x=>x.slug===slug);return c?(c.uf||"SC"):"";}
+function preencheUF(){
+  const ufs=ufsAtivas();
+  $("uf").innerHTML='<option value="">Estado</option>'
+    +ufs.map(u=>'<option value="'+u+'">'+(UF_NOME[u]||u)+'</option>').join("");
+}
+function preencheCidades(){
+  const u=$("uf").value, esc=t=>String(t).replace(/&/g,"&amp;").replace(/</g,"&lt;");
+  const L=u?CFG.filter(c=>(c.uf||"SC")===u):[];
+  $("cid").innerHTML='<option value="">'+(u?"Cidade":"Escolha o estado")+'</option>'
+    +L.map(c=>'<option value="'+c.slug+'">'+esc(c.nome)+'</option>').join("");
+  $("cid").disabled=!u;
+}
+function pedeCidade(){
+  $("res").innerHTML='<p class="sub">Escolha o estado e a cidade para come\u00e7ar.</p>';
+}
 async function atualizaCats(){
+  if(!$("cid").value){$("cat").innerHTML="";$("bai").innerHTML="";pedeCidade();return;}
   const d=await dados($("cid").value);
   const ok=Object.entries(d.segmentos).filter(([s,S])=>Object.keys(S.bairros).length||Object.keys(S.geral).length);
   selPreenche($("cat"),ok.map(([s])=>[s,CATS[s]||s]),true);
   await atualizaBairros();
 }
 async function atualizaBairros(){
+  if(!$("cid").value){pedeCidade();return;}
   const d=await dados($("cid").value);
   const S=d.segmentos[$("cat").value]||{bairros:{}};
   const bs=Object.keys(S.bairros).sort((a,b)=>a.localeCompare(b,"pt-BR"));
@@ -488,6 +511,7 @@ function badge(n){return n>=20?'<span class="bdg alta">n='+n+' · confiança alt
 async function calcula(){
   const area=parseFloat($("area").value);
   const R=$("res");
+  if(!$("cid").value){pedeCidade();return;}
   if(!area||area<=0){R.innerHTML='<p class="sub">Digite a área para ver a estimativa.</p>';return;}
   const d=await dados($("cid").value);
   const cat=$("cat").value,op=$("op").value,bai=$("bai").value;
@@ -682,17 +706,26 @@ function curvaFrase(TB,ondeFr){
 function rotFaixa(f){return f.max>=1500?f.min+' m² ou mais':(f.min+' a '+f.max+' m²');}
 function slugify(s){return s.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"").replace(/['’´`]/g,"").replace(/\s+/g,"-").replace(/[^a-z0-9-]/g,"");}
 async function init(){
-  $("cid").innerHTML=optCidades($("cid").value||null);
-  $("cid").onchange=atualizaCats;$("cat").onchange=atualizaBairros;
-  $("bai").onchange=calcula;$("op").onchange=calcula;$("area").oninput=calcula;
-  // 01/09/2026: deep link ?cid=joinville&cat=casa&bai=Iririú (CTA das páginas de bairro/cidade)
+  preencheUF();
+  // a lista completa fica no ar por um instante: e nela que o deep link e a memoria da cidade
+  // do leitor (mqGeo) escolhem. Logo depois o estado e sincronizado e a lista volta a ser filtrada.
+  $("cid").innerHTML='<option value="">Cidade</option>'+optCidades(null);
   const q=new URLSearchParams(location.search);
   if(q.get("cid")&&[...$("cid").options].some(o=>o.value===q.get("cid")))$("cid").value=q.get("cid");
-  // 09/09/2026: sem ?cid e sem cidade lembrada, o select abria em Maceió (1ª da lista por estado)
-  // enquanto o FAQ falava de Jaraguá do Sul. A raiz do site é Jaraguá: ela é a cidade inicial.
-  if(!q.get("cid")&&[...$("cid").options].some(o=>o.value==="jaragua"))$("cid").value="jaragua";
   try{mqGeo.preSel("cid",q);mqGeo.botao("cid");}catch(e){}
-  ferrCid();$("cid").addEventListener("change",ferrCid);
+  const escolhida=$("cid").value;
+  $("uf").value=escolhida?ufDaCidade(escolhida):"";
+  preencheCidades();
+  if(escolhida)$("cid").value=escolhida;
+  $("uf").onchange=async()=>{preencheCidades();await atualizaCats();ferrCid();};
+  // o botao "perto de mim" muda so a cidade: aqui o estado corre atras para nao ficar em branco
+  $("cid").onchange=async()=>{
+    const u=ufDaCidade($("cid").value);
+    if(u&&$("uf").value!==u){const v=$("cid").value;$("uf").value=u;preencheCidades();$("cid").value=v;}
+    await atualizaCats();ferrCid();};
+  $("cat").onchange=atualizaBairros;
+  $("bai").onchange=calcula;$("op").onchange=calcula;$("area").oninput=calcula;
+  ferrCid();
   await atualizaCats();
   if(q.get("cat")&&[...$("cat").options].some(o=>o.value===q.get("cat"))){$("cat").value=q.get("cat");await atualizaBairros();}
   if(q.get("bai")&&[...$("bai").options].some(o=>o.value===q.get("bai"))){$("bai").value=q.get("bai");calcula();}
