@@ -712,7 +712,10 @@ async function init(){
   $("cid").innerHTML='<option value="">Cidade</option>'+optCidades(null);
   const q=new URLSearchParams(location.search);
   if(q.get("cid")&&[...$("cid").options].some(o=>o.value===q.get("cid")))$("cid").value=q.get("cid");
-  try{mqGeo.preSel("cid",q);mqGeo.botao("cid");}catch(e){}
+  // 12/09/2026 (Jales, 2a passada): nada de pre-selecao aqui. O mqGeo.preSel repunha a cidade
+  // guardada no navegador, entao quem ja tinha visitado Jaragua continuava vendo Jaragua escolhida.
+  // O botao "perto de mim" fica: ele so age quando a pessoa toca.
+  try{mqGeo.botao("cid");}catch(e){}
   const escolhida=$("cid").value;
   $("uf").value=escolhida?ufDaCidade(escolhida):"";
   preencheCidades();
