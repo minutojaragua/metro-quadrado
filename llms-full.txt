@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 68 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 533.938 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 69 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 534.791 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -642,6 +642,70 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Stiep | R$ 7.381 | 7 | R$ 51,2 | 13 | 8,32% | – |
 | Uruguai | – | – | R$ 32,8 | 8 | – | – |
 | Vila Ruy Barbosa | R$ 5.625 | 9 | R$ 46,4 | 5 | 9,90% | – |
+
+
+## Camaçari (setembro/2026): https://acorridadosbairros.com.br/ba/camacari/
+
+### Apartamentos, cidade toda: venda R$ 8.970/m² (n=226); aluguel R$ 27,5/m²/mês (n=11); rendimento bruto do aluguel 3,68% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Abrantes | R$ 4.284 | 16 | – | – | – | – |
+| Alphaville (Abrantes) | R$ 5.000 | 9 | – | – | – | – |
+| Boa União (Abrantes) | R$ 3.889 | 9 | – | – | – | – |
+| Cajazeiras de Abrantes (Abrantes) | R$ 3.575 | 5 | – | – | – | – |
+| Catu de Abrantes (Abrantes) | R$ 7.854 | 13 | – | – | – | – |
+| Guarajuba | R$ 9.846 | 11 | – | – | – | – |
+| Guarajuba (Monte Gordo) | R$ 10.744 | 16 | – | – | – | – |
+| Itacimirim | R$ 10.833 | 33 | – | – | – | – |
+| Itacimirim (Monte Gordo) | R$ 11.072 | 60 | – | – | – | – |
+| Vila de Abrantes (Abrantes) | R$ 7.722 | 11 | – | – | – | – |
+
+### Casas, cidade toda: venda R$ 5.302/m² (n=435); aluguel R$ 35,6/m²/mês (n=55); rendimento bruto do aluguel 8,06% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Abrantes | R$ 5.677 | 23 | – | – | – | – |
+| Alphaville | R$ 6.348 | 6 | – | – | – | – |
+| Alphaville (Abrantes) | R$ 5.980 | 37 | R$ 45,9 | 28 | 9,21% | – |
+| Arembepe (Abrantes) | R$ 5.250 | 7 | – | – | – | – |
+| Barra do Jacuípe | R$ 3.445 | 28 | – | – | – | – |
+| Barra do Jacuípe (Monte Gordo) | R$ 2.975 | 15 | – | – | – | – |
+| Boa União (Abrantes) | R$ 3.875 | 11 | – | – | – | – |
+| Busca Vida | R$ 8.355 | 12 | – | – | – | – |
+| Busca Vida (Abrantes) | R$ 4.866 | 13 | – | – | – | – |
+| Catu de Abrantes | R$ 5.162 | 12 | – | – | – | – |
+| Catu de Abrantes (Abrantes) | R$ 5.897 | 27 | – | – | – | – |
+| Guarajuba | R$ 9.950 | 19 | – | – | – | – |
+| Guarajuba (Monte Gordo) | R$ 8.172 | 33 | – | – | – | – |
+| Interlagos (Abrantes) | R$ 8.333 | 7 | – | – | – | – |
+| Itacimirim | R$ 7.658 | 18 | – | – | – | – |
+| Itacimirim (Monte Gordo) | R$ 8.674 | 45 | – | – | – | – |
+| Jardim Limoeiro | R$ 4.266 | 10 | – | – | – | – |
+| Jauá | R$ 1.807 | 10 | – | – | – | – |
+| Jauá (Abrantes) | R$ 2.975 | 8 | – | – | – | – |
+| Malícia (Abrantes) | R$ 3.125 | 5 | – | – | – | – |
+| Monte Gordo | R$ 3.769 | 5 | – | – | – | – |
+| Nova Abrantes (Abrantes) | R$ 3.865 | 6 | – | – | – | – |
+| Vila de Abrantes (Abrantes) | R$ 5.131 | 25 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 867/m² (n=121)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Abrantes | R$ 585 | 8 | – | – | – | – |
+| Alphaville (Abrantes) | R$ 1.082 | 6 | – | – | – | – |
+| Alphaville Litoral Norte I | R$ 1.479 | 28 | – | – | – | – |
+| Arembepe (Abrantes) | R$ 220 | 5 | – | – | – | – |
+| Busca Vida | R$ 790 | 5 | – | – | – | – |
+| Guarajuba (Monte Gordo) | R$ 1.210 | 8 | – | – | – | – |
+| Itacimirim (Monte Gordo) | R$ 810 | 8 | – | – | – | – |
+| Vila de Abrantes (Abrantes) | R$ 1.100 | 5 | – | – | – | – |
+
+### Salas comerciais, cidade toda: 
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
 
 
 ## Fortaleza (setembro/2026): https://acorridadosbairros.com.br/ce/fortaleza/
