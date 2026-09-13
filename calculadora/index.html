@@ -426,8 +426,8 @@ html{scroll-padding-top:56px}
 <div style="display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:14px">
 <select id="uf" aria-label="Estado" style="padding:8px 10px;font-size:1em;border-radius:8px"></select>
 <select id="cid" aria-label="Cidade" style="padding:8px 10px;font-size:1em;border-radius:8px"></select>
-<select id="cat" aria-label="Tipo de imóvel" style="padding:8px 10px;font-size:1em;border-radius:8px"></select>
-<select id="bai" aria-label="Bairro" style="padding:8px 10px;font-size:1em;border-radius:8px"></select>
+<select id="cat" aria-label="Tipo de imóvel" disabled style="padding:8px 10px;font-size:1em;border-radius:8px"><option value="">Tipo</option></select>
+<select id="bai" aria-label="Bairro" disabled style="padding:8px 10px;font-size:1em;border-radius:8px"><option value="">Bairro</option></select>
 <select id="op" aria-label="Operação: vender ou alugar" style="padding:8px 10px;font-size:1em;border-radius:8px">
 <option value="venda">Para vender</option><option value="aluguel">Para alugar</option></select>
 <input id="area" type="number" min="10" max="50000" placeholder="área (m²)" aria-label="Área em metros quadrados" style="padding:8px 10px;font-size:1em;border-radius:8px;width:110px;border:1px solid #bbb">
@@ -493,7 +493,12 @@ function pedeCidade(){
   $("res").innerHTML='<p class="sub">Escolha o estado e a cidade para come\u00e7ar.</p>';
 }
 async function atualizaCats(){
-  if(!$("cid").value){$("cat").innerHTML="";$("bai").innerHTML="";pedeCidade();return;}
+  if(!$("cid").value){
+    // sem cidade os dois viravam caixinhas vazias de 20 px; com rotulo eles explicam a propria espera
+    $("cat").innerHTML='<option value="">Tipo</option>';$("cat").disabled=true;
+    $("bai").innerHTML='<option value="">Bairro</option>';$("bai").disabled=true;
+    pedeCidade();return;}
+  $("cat").disabled=false;$("bai").disabled=false;
   const d=await dados($("cid").value);
   const ok=Object.entries(d.segmentos).filter(([s,S])=>Object.keys(S.bairros).length||Object.keys(S.geral).length);
   selPreenche($("cat"),ok.map(([s])=>[s,CATS[s]||s]),true);
