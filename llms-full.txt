@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 77 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 585.440 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 78 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 587.008 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -5427,6 +5427,98 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Todos Os Santos | R$ 5.821 | 6 | – | – | – | – |
 | Vila da Penha | R$ 2.500 | 5 | – | – | – | – |
 | Vila Isabel | R$ 7.815 | 8 | – | – | – | – |
+
+
+## Duque de Caxias (setembro/2026): https://acorridadosbairros.com.br/rj/duque-de-caxias/
+
+### Apartamentos, cidade toda: venda R$ 4.546/m² (n=385); aluguel R$ 21,3/m²/mês (n=69); rendimento bruto do aluguel 5,62% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Barra da Tijuca | R$ 9.810 | 6 | – | – | – | – |
+| Barro Branco | R$ 2.788 | 7 | – | – | – | – |
+| Centro | R$ 3.694 | 30 | – | – | – | – |
+| Chácaras Rio-Petrópolis | R$ 3.778 | 11 | – | – | – | – |
+| Engenho do Porto | R$ 3.667 | 5 | R$ 11,0 | 6 | 3,60% | – |
+| Figueira | R$ 5.849 | 6 | – | – | – | – |
+| Jardim Anhangá | R$ 2.857 | 5 | – | – | – | – |
+| Jardim Gramacho | R$ 4.031 | 6 | R$ 26,1 | 6 | 7,77% | – |
+| Jardim Primavera | R$ 3.281 | 46 | – | – | – | – |
+| Jardim Vinte e Cinco de Agosto | R$ 5.800 | 129 | R$ 20,8 | 15 | 4,30% | – |
+| Parque Duque | R$ 5.454 | 11 | – | – | – | – |
+| Parque Paulicéia | R$ 5.667 | 19 | – | – | – | – |
+| Santa Cruz da Serra | R$ 2.913 | 8 | – | – | – | – |
+| Saracuruna | R$ 3.407 | 7 | – | – | – | – |
+| Vila Centenário | R$ 3.150 | 5 | – | – | – | – |
+| Vila São Luís | R$ 4.734 | 6 | – | – | – | – |
+| Xerém | R$ 4.856 | 6 | – | – | – | – |
+
+### Casas, cidade toda: venda R$ 2.530/m² (n=680); aluguel R$ 16,2/m²/mês (n=49); rendimento bruto do aluguel 7,68% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Amapá | R$ 1.999 | 6 | – | – | – | – |
+| Centro | R$ 2.818 | 23 | – | – | – | – |
+| Chácaras Arcampo | R$ 2.718 | 22 | – | – | – | – |
+| Chácaras Rio-Petrópolis | R$ 2.171 | 44 | R$ 14,6 | 6 | 8,07% | – |
+| Doutor Laureano | R$ 4.727 | 7 | – | – | – | – |
+| Engenho do Porto | R$ 2.067 | 11 | – | – | – | – |
+| Imbariê | R$ 1.319 | 5 | – | – | – | – |
+| Itatiaia | R$ 3.667 | 5 | – | – | – | – |
+| Jardim Barro Branco | R$ 2.750 | 5 | – | – | – | – |
+| Jardim Gramacho | R$ 2.225 | 8 | – | – | – | – |
+| Jardim Primavera | R$ 3.120 | 57 | – | – | – | – |
+| Jardim Rotsen | R$ 2.083 | 8 | – | – | – | – |
+| Jardim Vinte e Cinco de Agosto | R$ 4.333 | 59 | R$ 33,8 | 7 | 9,36% | – |
+| Mantiquira | R$ 1.893 | 7 | – | – | – | – |
+| Nova Campinas | R$ 1.759 | 6 | – | – | – | – |
+| Olavo Bilac | R$ 2.250 | 9 | – | – | – | – |
+| Parque A Equitativa | R$ 4.167 | 8 | – | – | – | – |
+| Parque Duque | R$ 4.114 | 8 | – | – | – | – |
+| Parque Equitativa | R$ 1.567 | 8 | – | – | – | – |
+| Parque Fluminense | R$ 1.955 | 14 | – | – | – | – |
+| Parque Lafaiete | R$ 3.200 | 19 | – | – | – | – |
+| Parque Muísa | R$ 1.150 | 5 | – | – | – | – |
+| Parque Paulicéia | R$ 4.857 | 17 | R$ 20,0 | 5 | 4,94% | – |
+| Parque Paulista | R$ 1.842 | 9 | – | – | – | – |
+| Parque Senhor do Bonfim | R$ 2.137 | 15 | – | – | – | – |
+| Parque Uruguaiana | R$ 2.222 | 5 | – | – | – | – |
+| Santa Cruz da Serra | R$ 1.489 | 6 | – | – | – | – |
+| São Bento | R$ 1.600 | 7 | – | – | – | – |
+| Saracuruna | R$ 2.417 | 23 | – | – | – | – |
+| Taquara | R$ 1.556 | 15 | – | – | – | – |
+| Vila Centenário | R$ 2.671 | 6 | – | – | – | – |
+| Vila Itamarati | R$ 4.443 | 6 | – | – | – | – |
+| Vila Leopoldina | R$ 2.094 | 15 | – | – | – | – |
+| Vila Maria Helena | R$ 2.747 | 12 | – | – | – | – |
+| Vila Santa Alice | R$ 4.219 | 8 | – | – | – | – |
+| Vila Santa Cruz | R$ 2.143 | 14 | – | – | – | – |
+| Vila São Luís | R$ 3.125 | 23 | – | – | – | – |
+| Vila São Sebastião | R$ 4.474 | 7 | – | – | – | – |
+| Xerém | R$ 2.870 | 10 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 333/m² (n=155)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Capivari | R$ 220 | 6 | – | – | – | – |
+| Chácaras Arcampo | R$ 500 | 5 | – | – | – | – |
+| Chácaras Rio-Petrópolis | R$ 163 | 47 | – | – | – | – |
+| Parque A Equitativa | R$ 750 | 5 | – | – | – | – |
+| Parque Fluminense | R$ 767 | 5 | – | – | – | – |
+| Parque Paulista | R$ 208 | 5 | – | – | – | – |
+| Vila Maria Helena | R$ 333 | 6 | – | – | – | – |
+| Vila Santa Cruz | R$ 619 | 8 | – | – | – | – |
+| Xerém | R$ 571 | 7 | – | – | – | – |
+
+### Salas comerciais, cidade toda: venda R$ 6.280/m² (n=44); aluguel R$ 34,1/m²/mês (n=67); rendimento bruto do aluguel 6,52% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Centro | R$ 6.250 | 9 | R$ 35,0 | 13 | 6,72% | – |
+| Chácaras Rio-Petrópolis | – | – | R$ 22,2 | 5 | – | – |
+| Jardim Vinte e Cinco de Agosto | R$ 6.905 | 20 | R$ 33,2 | 19 | 5,77% | – |
+| Santa Cruz da Serra | – | – | R$ 75,0 | 5 | – | – |
 
 
 ## Nova Iguaçu (setembro/2026): https://acorridadosbairros.com.br/rj/nova-iguacu/
