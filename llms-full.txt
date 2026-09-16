@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 73 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 543.511 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 74 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 545.903 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -6057,6 +6057,101 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Jardim Mauá | R$ 12.750 | 8 | R$ 65,0 | 16 | 6,12% | – |
 | Pátria Nova | – | – | R$ 31,8 | 9 | – | – |
 | Rio Branco | R$ 5.408 | 9 | R$ 22,2 | 36 | 4,93% | – |
+
+
+## Viamão (setembro/2026): https://acorridadosbairros.com.br/rs/viamao/
+
+### Apartamentos, cidade toda: venda R$ 4.255/m² (n=146); aluguel R$ 26,7/m²/mês (n=28); rendimento bruto do aluguel 7,53% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Cecília | R$ 4.339 | 14 | – | – | – | – |
+| Centro | R$ 4.989 | 54 | R$ 26,0 | 11 | 6,25% | – |
+| Jardim Krahe | R$ 4.811 | 6 | – | – | – | – |
+| Querência | R$ 4.423 | 9 | – | – | – | – |
+| Santa Cecília | R$ 3.592 | 10 | – | – | – | – |
+| Santa Isabel | R$ 4.295 | 7 | – | – | – | – |
+| Sitio São José | R$ 3.912 | 12 | – | – | – | – |
+| Tarumã | R$ 4.239 | 5 | – | – | – | – |
+
+### Casas, cidade toda: venda R$ 3.000/m² (n=1558); aluguel R$ 21,7/m²/mês (n=57); rendimento bruto do aluguel 8,68% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Águas Claras | R$ 2.469 | 58 | – | – | – | – |
+| Augusta | R$ 2.143 | 9 | – | – | – | – |
+| Buena Vista | R$ 6.773 | 9 | – | – | – | – |
+| Cecília | R$ 3.478 | 15 | – | – | – | – |
+| Centro | R$ 3.593 | 80 | R$ 24,0 | 10 | 8,02% | – |
+| Cocão | R$ 5.152 | 21 | – | – | – | – |
+| Condado de Castella | R$ 2.895 | 9 | – | – | – | – |
+| Dom Feliciano | R$ 2.767 | 6 | – | – | – | – |
+| Elsa | R$ 2.756 | 14 | – | – | – | – |
+| Esmeralda | R$ 3.832 | 6 | – | – | – | – |
+| Estalagem | R$ 2.748 | 13 | – | – | – | – |
+| Fiuza | R$ 2.507 | 16 | – | – | – | – |
+| Florescente | R$ 1.778 | 15 | – | – | – | – |
+| Itapuã | R$ 1.850 | 49 | – | – | – | – |
+| Jardim do Cocão | R$ 2.044 | 6 | – | – | – | – |
+| Jardim Fiúza | R$ 2.312 | 13 | – | – | – | – |
+| Jardim Itapema | R$ 3.321 | 9 | – | – | – | – |
+| Jardim Krahe | R$ 2.813 | 80 | R$ 14,4 | 5 | 6,14% | – |
+| Jardim Universitário | R$ 2.395 | 6 | – | – | – | – |
+| Jardim Viamar | R$ 2.600 | 16 | – | – | – | – |
+| Krahe | R$ 5.494 | 46 | – | – | – | – |
+| Lomba Tarumã | R$ 1.728 | 6 | – | – | – | – |
+| Martinica | R$ 1.637 | 8 | – | – | – | – |
+| Morro Grande | R$ 1.780 | 10 | – | – | – | – |
+| Nossa Senhora Aparecida | R$ 1.639 | 7 | – | – | – | – |
+| Parque Índio Jari | R$ 1.800 | 11 | – | – | – | – |
+| Passo do Vigário | R$ 2.559 | 16 | – | – | – | – |
+| Planalto | R$ 3.000 | 7 | – | – | – | – |
+| Querência | R$ 3.315 | 34 | – | – | – | – |
+| Santa Cecília | R$ 2.344 | 36 | – | – | – | – |
+| Santa Isabel | R$ 2.418 | 72 | – | – | – | – |
+| Santo Onofre | R$ 2.056 | 31 | – | – | – | – |
+| São Lucas | R$ 3.400 | 75 | – | – | – | – |
+| São Tomé | R$ 2.650 | 33 | – | – | – | – |
+| Sitio São José | R$ 2.050 | 25 | – | – | – | – |
+| Tarumã | R$ 3.276 | 139 | – | – | – | – |
+| Viamópolis | R$ 2.903 | 44 | – | – | – | – |
+| Vila Augusta | R$ 4.846 | 35 | – | – | – | – |
+| Vila Elsa | R$ 2.250 | 89 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 367/m² (n=560)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Águas Claras | R$ 129 | 39 | – | – | – | – |
+| Buena Vista | R$ 1.160 | 5 | – | – | – | – |
+| Cecília | R$ 504 | 6 | – | – | – | – |
+| Centro | R$ 628 | 52 | – | – | – | – |
+| Cocão | R$ 694 | 11 | – | – | – | – |
+| Fiuza | R$ 185 | 10 | – | – | – | – |
+| Itapuã | R$ 106 | 32 | – | – | – | – |
+| Jardim Krahe | R$ 375 | 21 | – | – | – | – |
+| Krahe | R$ 942 | 16 | – | – | – | – |
+| Mendanha | R$ 649 | 5 | – | – | – | – |
+| Morro Grande | R$ 159 | 6 | – | – | – | – |
+| Passo do Vigário | R$ 543 | 10 | – | – | – | – |
+| Querência | R$ 628 | 12 | – | – | – | – |
+| Santa Cecília | R$ 314 | 12 | – | – | – | – |
+| Santa Isabel | R$ 383 | 35 | – | – | – | – |
+| Santo Onofre | R$ 477 | 10 | – | – | – | – |
+| São Lucas | R$ 431 | 34 | – | – | – | – |
+| São Tomé | R$ 292 | 8 | – | – | – | – |
+| Sitio São José | R$ 153 | 13 | – | – | – | – |
+| Tarumã | R$ 338 | 64 | – | – | – | – |
+| Viamópolis | R$ 287 | 13 | – | – | – | – |
+| Vila Augusta | R$ 800 | 19 | – | – | – | – |
+| Vila Elsa | R$ 249 | 14 | – | – | – | – |
+
+### Salas comerciais, cidade toda: venda R$ 5.000/m² (n=8); aluguel R$ 33,3/m²/mês (n=35); rendimento bruto do aluguel 7,99% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Centro | R$ 5.500 | 6 | R$ 28,8 | 19 | 6,28% | – |
+| Viamópolis | – | – | R$ 60,0 | 7 | – | – |
 
 
 ## Porto Velho (setembro/2026): https://acorridadosbairros.com.br/ro/porto-velho/
