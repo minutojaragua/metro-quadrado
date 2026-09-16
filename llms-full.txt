@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 76 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 584.081 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 77 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 585.440 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -5427,6 +5427,74 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Todos Os Santos | R$ 5.821 | 6 | – | – | – | – |
 | Vila da Penha | R$ 2.500 | 5 | – | – | – | – |
 | Vila Isabel | R$ 7.815 | 8 | – | – | – | – |
+
+
+## Nova Iguaçu (setembro/2026): https://acorridadosbairros.com.br/rj/nova-iguacu/
+
+### Apartamentos, cidade toda: venda R$ 4.655/m² (n=452); aluguel R$ 24,9/m²/mês (n=79); rendimento bruto do aluguel 6,42% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Alvarez | R$ 6.364 | 7 | – | – | – | – |
+| Califórnia | R$ 5.911 | 12 | – | – | – | – |
+| Caonze | R$ 3.611 | 21 | – | – | – | – |
+| Centro | R$ 5.401 | 188 | R$ 23,9 | 19 | 5,31% | – |
+| Cerâmica | R$ 3.083 | 13 | – | – | – | – |
+| Cruzeiro do Sul | R$ 5.833 | 5 | – | – | – | – |
+| Jardim Alvorada | R$ 4.021 | 32 | R$ 26,9 | 7 | 8,03% | – |
+| Jardim da Posse | R$ 3.803 | 8 | – | – | – | – |
+| Jardim Guandu | R$ 2.500 | 6 | – | – | – | – |
+| Jardim Palmares | R$ 2.723 | 6 | – | – | – | – |
+| Jardim Tropical | R$ 5.417 | 11 | – | – | – | – |
+| Joana d'Arc | R$ 8.192 | 6 | – | – | – | – |
+| Luz | R$ 5.333 | 41 | R$ 42,0 | 8 | 9,45% | – |
+| Ouro Verde | R$ 5.801 | 6 | – | – | – | – |
+| Parque Rosário | R$ 5.000 | 5 | – | – | – | – |
+| Posse | R$ 3.469 | 5 | – | – | – | – |
+| Prata | R$ 4.444 | 11 | – | – | – | – |
+
+### Casas, cidade toda: venda R$ 3.500/m² (n=503); aluguel R$ 25,0/m²/mês (n=64); rendimento bruto do aluguel 8,57% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Andrade Araújo | R$ 2.500 | 5 | – | – | – | – |
+| Boa Esperança | R$ 2.477 | 6 | – | – | – | – |
+| Califórnia | R$ 3.991 | 15 | – | – | – | – |
+| Campo Alegre | R$ 2.027 | 8 | – | – | – | – |
+| Caonze | R$ 3.459 | 19 | – | – | – | – |
+| Centro | R$ 3.950 | 60 | R$ 30,6 | 22 | 9,30% | – |
+| Cerâmica | R$ 1.625 | 7 | – | – | – | – |
+| Chacrinha | R$ 4.116 | 6 | – | – | – | – |
+| Comendador Soares | R$ 3.090 | 9 | – | – | – | – |
+| Conjunto Residencial Redenção | R$ 10.125 | 8 | – | – | – | – |
+| Engenho Pequeno | R$ 2.588 | 5 | – | – | – | – |
+| Jardim Alvorada | R$ 3.608 | 17 | – | – | – | – |
+| Jardim Iguaçu | R$ 3.429 | 5 | – | – | – | – |
+| Jardim Tropical | R$ 4.200 | 9 | – | – | – | – |
+| Luz | R$ 4.468 | 67 | R$ 25,0 | 6 | 6,71% | – |
+| Moquetá | R$ 3.958 | 7 | – | – | – | – |
+| Palhada | R$ 3.317 | 9 | – | – | – | – |
+| Paraíso | R$ 2.523 | 6 | – | – | – | – |
+| Posse | R$ 3.133 | 17 | – | – | – | – |
+| Rancho Novo | R$ 3.143 | 8 | – | – | – | – |
+| Santa Eugênia | R$ 4.038 | 13 | – | – | – | – |
+| Tinguá | R$ 3.271 | 6 | – | – | – | – |
+| Valverde | R$ 2.609 | 6 | – | – | – | – |
+| Viga | R$ 3.083 | 5 | – | – | – | – |
+| Vila Nova | R$ 3.904 | 7 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 771/m² (n=107)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Centro | R$ 1.354 | 15 | – | – | – | – |
+| Comendador Soares | R$ 782 | 7 | – | – | – | – |
+
+### Salas comerciais, cidade toda: venda R$ 4.155/m² (n=33); aluguel R$ 50,0/m²/mês (n=67); rendimento bruto do aluguel 14,44% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Centro | R$ 4.153 | 30 | R$ 48,0 | 45 | 13,87% | – |
 
 
 ## Natal (setembro/2026): https://acorridadosbairros.com.br/rn/natal/
