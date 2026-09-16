@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 78 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 587.008 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 79 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 589.942 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -5587,6 +5587,145 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
 | Centro | R$ 4.153 | 30 | R$ 48,0 | 45 | 13,87% | – |
+
+
+## São Gonçalo (setembro/2026): https://acorridadosbairros.com.br/rj/sao-goncalo/
+
+### Apartamentos, cidade toda: venda R$ 3.523/m² (n=1197); aluguel R$ 17,2/m²/mês (n=67); rendimento bruto do aluguel 5,86% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Alcântara | R$ 3.854 | 79 | R$ 20,7 | 6 | 6,44% | – |
+| Amendoeira | R$ 3.490 | 8 | – | – | – | – |
+| Arsenal | R$ 2.619 | 19 | – | – | – | – |
+| Barro Vermelho | R$ 3.411 | 30 | – | – | – | – |
+| Boa Vista | R$ 4.210 | 9 | – | – | – | – |
+| Boaçu | R$ 3.433 | 24 | – | – | – | – |
+| Brasilândia | R$ 3.141 | 17 | – | – | – | – |
+| Centro | R$ 3.438 | 66 | – | – | – | – |
+| Coelho | R$ 2.663 | 14 | – | – | – | – |
+| Colubande | R$ 3.261 | 95 | R$ 15,9 | 7 | 5,85% | – |
+| Covanca | R$ 4.700 | 13 | – | – | – | – |
+| Estrela do Norte | R$ 3.923 | 14 | – | – | – | – |
+| Galo Branco | R$ 4.118 | 27 | – | – | – | – |
+| Itaúna | R$ 2.763 | 8 | – | – | – | – |
+| Jardim Alcântara | R$ 2.202 | 9 | – | – | – | – |
+| Jardim Catarina | R$ 2.767 | 10 | – | – | – | – |
+| Jardim Fluminense | R$ 3.793 | 7 | – | – | – | – |
+| Lagoinha | R$ 3.709 | 18 | – | – | – | – |
+| Laranjal | R$ 2.860 | 38 | – | – | – | – |
+| Mangueira | R$ 4.444 | 7 | – | – | – | – |
+| Marambaia | R$ 3.636 | 7 | – | – | – | – |
+| Maria Paula | R$ 4.332 | 84 | – | – | – | – |
+| Monjolo | R$ 3.010 | 10 | – | – | – | – |
+| Mutondo | R$ 3.273 | 61 | – | – | – | – |
+| Mutuá | R$ 2.985 | 19 | – | – | – | – |
+| Neves | R$ 4.444 | 25 | – | – | – | – |
+| Neves (Neves) | R$ 4.273 | 19 | – | – | – | – |
+| Nova Cidade | R$ 3.386 | 56 | R$ 19,2 | 6 | 6,80% | – |
+| Pacheco | R$ 3.500 | 21 | – | – | – | – |
+| Parada 40 | R$ 4.410 | 22 | – | – | – | – |
+| Patronato | R$ 3.182 | 5 | – | – | – | – |
+| Pita | R$ 3.499 | 14 | – | – | – | – |
+| Porto da Pedra | R$ 4.206 | 17 | R$ 18,9 | 5 | 5,39% | – |
+| Porto Novo | R$ 3.650 | 52 | – | – | – | – |
+| Porto Velho | R$ 4.549 | 8 | – | – | – | – |
+| Rio do Ouro | R$ 4.923 | 15 | R$ 34,5 | 7 | 8,41% | – |
+| Rocha | R$ 2.970 | 20 | – | – | – | – |
+| Santa Catarina | R$ 2.760 | 12 | – | – | – | – |
+| Santa Luzia | R$ 2.333 | 9 | – | – | – | – |
+| São Miguel | R$ 3.879 | 8 | – | – | – | – |
+| Tribobó | R$ 3.750 | 17 | – | – | – | – |
+| Trindade | R$ 3.456 | 38 | – | – | – | – |
+| Venda da Cruz | R$ 4.600 | 11 | – | – | – | – |
+| Vila Lage | R$ 4.484 | 32 | – | – | – | – |
+| Vista Alegre | R$ 3.272 | 44 | – | – | – | – |
+| Zé Garoto | R$ 3.083 | 10 | – | – | – | – |
+
+### Casas, cidade toda: venda R$ 2.727/m² (n=1326); aluguel R$ 15,6/m²/mês (n=48); rendimento bruto do aluguel 6,86% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Alcântara | R$ 3.230 | 24 | – | – | – | – |
+| Almerinda | R$ 1.381 | 7 | – | – | – | – |
+| Amendoeira | R$ 1.889 | 15 | – | – | – | – |
+| Antonina | R$ 2.381 | 15 | – | – | – | – |
+| Arsenal | R$ 2.732 | 51 | – | – | – | – |
+| Barro Vermelho | R$ 2.636 | 34 | – | – | – | – |
+| Boa Vista | R$ 2.447 | 19 | – | – | – | – |
+| Boaçu | R$ 2.299 | 12 | – | – | – | – |
+| Brasilândia | R$ 3.262 | 25 | – | – | – | – |
+| Camarão | R$ 3.039 | 22 | – | – | – | – |
+| Centro | R$ 2.516 | 21 | – | – | – | – |
+| Coelho | R$ 2.667 | 17 | – | – | – | – |
+| Colubande | R$ 2.740 | 64 | – | – | – | – |
+| Covanca | R$ 2.568 | 9 | – | – | – | – |
+| Engenho do Roçado | R$ 1.056 | 7 | – | – | – | – |
+| Engenho Pequeno | R$ 1.780 | 7 | – | – | – | – |
+| Estrela do Norte | R$ 2.679 | 13 | – | – | – | – |
+| Galo Branco | R$ 2.899 | 42 | – | – | – | – |
+| Gradim | R$ 2.125 | 6 | – | – | – | – |
+| Ipiiba | R$ 2.808 | 10 | – | – | – | – |
+| Jardim Catarina | R$ 2.023 | 36 | – | – | – | – |
+| Jóquei Clube | R$ 2.326 | 11 | – | – | – | – |
+| Lagoinha | R$ 3.500 | 7 | – | – | – | – |
+| Laranjal | R$ 3.329 | 62 | – | – | – | – |
+| Lindo Parque | R$ 1.383 | 10 | – | – | – | – |
+| Marambaia | R$ 2.857 | 19 | – | – | – | – |
+| Maria Paula | R$ 3.373 | 42 | – | – | – | – |
+| Monjolo | R$ 2.133 | 7 | – | – | – | – |
+| Mutondo | R$ 3.122 | 34 | – | – | – | – |
+| Mutuá | R$ 2.815 | 58 | – | – | – | – |
+| Mutuaguaçu | R$ 2.411 | 5 | – | – | – | – |
+| Neves | R$ 2.533 | 13 | – | – | – | – |
+| Nova Cidade | R$ 2.099 | 29 | – | – | – | – |
+| Pacheco | R$ 2.667 | 32 | – | – | – | – |
+| Parada 40 | R$ 3.889 | 9 | – | – | – | – |
+| Paraíso | R$ 3.077 | 23 | – | – | – | – |
+| Pita | R$ 1.907 | 18 | – | – | – | – |
+| Porto da Madama | R$ 3.014 | 8 | – | – | – | – |
+| Porto da Pedra | R$ 1.760 | 16 | – | – | – | – |
+| Porto do Rosa | R$ 1.333 | 8 | – | – | – | – |
+| Porto Novo | R$ 2.320 | 30 | – | – | – | – |
+| Porto Velho | R$ 2.933 | 17 | – | – | – | – |
+| Raul Veiga | R$ 2.664 | 32 | – | – | – | – |
+| Rio do Ouro | R$ 2.292 | 40 | – | – | – | – |
+| Rocha | R$ 3.095 | 30 | – | – | – | – |
+| Santa Catarina | R$ 2.187 | 16 | – | – | – | – |
+| Santa Isabel | R$ 2.484 | 13 | – | – | – | – |
+| Santa Izabel | R$ 2.800 | 5 | – | – | – | – |
+| Santa Luzia | R$ 2.818 | 5 | – | – | – | – |
+| São Miguel | R$ 2.886 | 10 | – | – | – | – |
+| Sete Pontes | R$ 2.532 | 7 | – | – | – | – |
+| Tribobó | R$ 2.599 | 18 | – | – | – | – |
+| Trindade | R$ 3.008 | 68 | – | – | – | – |
+| Várzea das Moças | R$ 4.455 | 18 | – | – | – | – |
+| Venda da Cruz | R$ 3.897 | 9 | – | – | – | – |
+| Vila Iara | R$ 2.400 | 9 | – | – | – | – |
+| Vista Alegre | R$ 2.742 | 38 | – | – | – | – |
+| Zé Garoto | R$ 2.422 | 26 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 406/m² (n=160)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Jardim Catarina | R$ 324 | 8 | – | – | – | – |
+| Maria Paula | R$ 298 | 10 | – | – | – | – |
+| Mutondo | R$ 600 | 7 | – | – | – | – |
+| Mutuá | R$ 792 | 6 | – | – | – | – |
+| Raul Veiga | R$ 802 | 6 | – | – | – | – |
+| Rio do Ouro | R$ 337 | 6 | – | – | – | – |
+| Trindade | R$ 417 | 5 | – | – | – | – |
+| Vista Alegre | R$ 606 | 7 | – | – | – | – |
+| Zé Garoto | R$ 900 | 5 | – | – | – | – |
+
+### Salas comerciais, cidade toda: venda R$ 4.827/m² (n=38); aluguel R$ 30,0/m²/mês (n=37); rendimento bruto do aluguel 7,46% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Alcântara | R$ 4.640 | 9 | R$ 27,5 | 10 | 7,11% | – |
+| Centro | R$ 5.300 | 10 | R$ 31,4 | 9 | 7,11% | – |
+| Raul Veiga | R$ 5.238 | 5 | – | – | – | – |
 
 
 ## Natal (setembro/2026): https://acorridadosbairros.com.br/rn/natal/
