@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 71 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 536.340 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 72 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 538.581 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -4719,6 +4719,53 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Torre | – | – | R$ 50,0 | 7 | – | – |
 
 
+## Jaboatão dos Guararapes (setembro/2026): https://acorridadosbairros.com.br/pe/jaboatao-dos-guararapes/
+
+### Apartamentos, cidade toda: venda R$ 5.723/m² (n=1174); aluguel R$ 48,1/m²/mês (n=192); rendimento bruto do aluguel 10,09% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Barra de Jangada | R$ 7.710 | 88 | R$ 65,0 | 18 | 10,12% | – |
+| Candeias | R$ 5.498 | 514 | R$ 47,2 | 90 | 10,30% | – |
+| Centro | R$ 9.020 | 16 | – | – | – | – |
+| Curado | R$ 4.444 | 6 | – | – | – | – |
+| Piedade | R$ 5.930 | 492 | R$ 46,0 | 84 | 9,31% | – |
+| Santana | R$ 3.833 | 12 | – | – | – | – |
+| Socorro | R$ 3.933 | 8 | – | – | – | – |
+| Sucupira | R$ 4.066 | 8 | – | – | – | – |
+| Vargem Fria | R$ 5.893 | 6 | – | – | – | – |
+
+### Casas, cidade toda: venda R$ 3.708/m² (n=210); aluguel R$ 17,8/m²/mês (n=36); rendimento bruto do aluguel 5,76% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Alphaville Brennand | R$ 7.583 | 10 | – | – | – | – |
+| Barra de Jangada | R$ 2.536 | 10 | – | – | – | – |
+| Candeias | R$ 3.068 | 72 | R$ 14,6 | 6 | 5,71% | – |
+| Manassu | R$ 7.885 | 20 | – | – | – | – |
+| Piedade | R$ 3.257 | 52 | R$ 22,6 | 22 | 8,33% | – |
+| Vargem Fria | R$ 6.869 | 18 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 556/m² (n=126)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Barra de Jangada | R$ 778 | 12 | – | – | – | – |
+| Candeias | R$ 1.173 | 16 | – | – | – | – |
+| Curado | R$ 536 | 6 | – | – | – | – |
+| Manassu | R$ 457 | 26 | – | – | – | – |
+| Muribeca | R$ 299 | 12 | – | – | – | – |
+| Piedade | R$ 784 | 22 | – | – | – | – |
+| Prazeres | R$ 752 | 8 | – | – | – | – |
+| Vargem Fria | R$ 596 | 14 | – | – | – | – |
+
+### Salas comerciais, cidade toda: venda R$ 4.035/m² (n=8); aluguel R$ 41,7/m²/mês (n=10); rendimento bruto do aluguel 12,40% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Candeias | – | – | R$ 55,3 | 6 | – | – |
+
+
 ## Teresina (setembro/2026): https://acorridadosbairros.com.br/pi/teresina/
 
 ### Apartamentos, cidade toda: venda R$ 5.036/m² (n=2563); aluguel R$ 26,0/m²/mês (n=797); rendimento bruto do aluguel 6,19% a.a.
@@ -6065,7 +6112,7 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 |---|---|---|---|---|---|---|
 | Caçari | R$ 8.732 | 7 | – | – | – | – |
 
-### Casas, cidade toda: venda R$ 4.955/m² (n=247); aluguel R$ 25,3/m²/mês (n=12); rendimento bruto do aluguel 6,13% a.a.
+### Casas, cidade toda: venda R$ 4.936/m² (n=248); aluguel R$ 25,3/m²/mês (n=12); rendimento bruto do aluguel 6,15% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
