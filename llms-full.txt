@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 72 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 538.581 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 73 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 543.511 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -5951,6 +5951,112 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Rio Branco | – | – | R$ 33,3 | 13 | – | – |
 | São José | – | – | R$ 24,5 | 13 | – | – |
 | São Luis | – | – | R$ 30,6 | 7 | – | – |
+
+
+## Novo Hamburgo (setembro/2026): https://acorridadosbairros.com.br/rs/novo-hamburgo/
+
+### Apartamentos, cidade toda: venda R$ 5.344/m² (n=1703); aluguel R$ 30,3/m²/mês (n=173); rendimento bruto do aluguel 6,80% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Bairro Industrial | R$ 4.386 | 5 | – | – | – | – |
+| Boa Vista | R$ 5.079 | 67 | R$ 41,7 | 5 | 9,85% | – |
+| Canudos | R$ 4.533 | 102 | R$ 22,0 | 9 | 5,82% | – |
+| Centro | R$ 6.272 | 395 | R$ 31,9 | 45 | 6,10% | – |
+| Guarani | R$ 6.305 | 50 | R$ 31,4 | 9 | 5,98% | – |
+| Hamburgo Velho | R$ 4.844 | 38 | R$ 24,0 | 9 | 5,95% | – |
+| Ideal | R$ 5.450 | 118 | R$ 26,4 | 10 | 5,81% | – |
+| Industrial | R$ 4.229 | 24 | – | – | – | – |
+| Jardim Mauá | R$ 6.644 | 49 | R$ 32,3 | 7 | 5,83% | – |
+| Liberdade | R$ 4.282 | 18 | – | – | – | – |
+| Mauá | R$ 11.276 | 17 | – | – | – | – |
+| Operário | R$ 5.405 | 75 | R$ 34,4 | 10 | 7,64% | – |
+| Ouro Branco | R$ 4.268 | 34 | – | – | – | – |
+| Pátria Nova | R$ 5.000 | 135 | R$ 35,1 | 22 | 8,42% | – |
+| Primavera | R$ 5.312 | 25 | – | – | – | – |
+| Rincão | R$ 5.284 | 23 | – | – | – | – |
+| Rio Branco | R$ 4.973 | 133 | – | – | – | – |
+| Rondônia | R$ 4.825 | 107 | R$ 28,7 | 9 | 7,14% | – |
+| Roselândia | R$ 3.050 | 6 | – | – | – | – |
+| Santo Afonso | R$ 4.475 | 28 | R$ 25,5 | 7 | 6,84% | – |
+| São Jorge | R$ 4.434 | 23 | – | – | – | – |
+| Vila Nova | R$ 5.817 | 79 | R$ 40,0 | 10 | 8,25% | – |
+| Vila Rosa | R$ 6.092 | 132 | R$ 29,4 | 6 | 5,79% | – |
+
+### Casas, cidade toda: venda R$ 4.118/m² (n=1588); aluguel R$ 21,5/m²/mês (n=98); rendimento bruto do aluguel 6,27% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Boa Saúde | R$ 3.557 | 52 | – | – | – | – |
+| Boa Vista | R$ 4.222 | 94 | R$ 20,4 | 10 | 5,80% | – |
+| Canudos | R$ 3.779 | 167 | R$ 19,1 | 12 | 6,07% | – |
+| Centro | R$ 5.000 | 37 | R$ 29,8 | 7 | 7,15% | – |
+| Guarani | R$ 3.814 | 80 | – | – | – | – |
+| Hamburgo Velho | R$ 4.347 | 80 | R$ 27,3 | 6 | 7,54% | – |
+| Ideal | R$ 3.700 | 158 | R$ 20,5 | 9 | 6,65% | – |
+| Industrial | R$ 4.548 | 10 | – | – | – | – |
+| Jardim Mauá | R$ 5.151 | 93 | – | – | – | – |
+| Liberdade | R$ 2.703 | 42 | – | – | – | – |
+| Lomba Grande | R$ 5.334 | 38 | – | – | – | – |
+| Mauá | R$ 5.608 | 25 | – | – | – | – |
+| Operário | R$ 4.933 | 54 | – | – | – | – |
+| Ouro Branco | R$ 3.766 | 58 | – | – | – | – |
+| Pátria Nova | R$ 5.652 | 23 | – | – | – | – |
+| Petrópolis | R$ 4.409 | 84 | – | – | – | – |
+| Primavera | R$ 3.690 | 87 | – | – | – | – |
+| Rincão | R$ 3.726 | 68 | R$ 17,1 | 5 | 5,51% | – |
+| Rio Branco | R$ 3.716 | 39 | – | – | – | – |
+| Rondônia | R$ 4.722 | 135 | – | – | – | – |
+| Santo Afonso | R$ 2.677 | 32 | – | – | – | – |
+| São Jorge | R$ 4.388 | 35 | R$ 28,8 | 5 | 7,88% | – |
+| São José | R$ 3.698 | 10 | – | – | – | – |
+| Vila Nova | R$ 4.774 | 45 | R$ 17,1 | 5 | 4,30% | – |
+| Vila Rosa | R$ 5.492 | 20 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 833/m² (n=1014)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Alpes do Vale | R$ 244 | 10 | – | – | – | – |
+| Boa Saúde | R$ 470 | 28 | – | – | – | – |
+| Boa Vista | R$ 966 | 52 | – | – | – | – |
+| Canudos | R$ 746 | 104 | – | – | – | – |
+| Centro | R$ 1.598 | 44 | – | – | – | – |
+| Guarani | R$ 874 | 64 | – | – | – | – |
+| Hamburgo Velho | R$ 928 | 35 | – | – | – | – |
+| Ideal | R$ 919 | 89 | – | – | – | – |
+| Industrial | R$ 775 | 11 | – | – | – | – |
+| Jardim Mauá | R$ 917 | 69 | – | – | – | – |
+| Liberdade | R$ 665 | 33 | – | – | – | – |
+| Lomba Grande | R$ 631 | 31 | – | – | – | – |
+| Mauá | R$ 806 | 10 | – | – | – | – |
+| Operário | R$ 1.113 | 20 | – | – | – | – |
+| Ouro Branco | R$ 844 | 35 | – | – | – | – |
+| Pátria Nova | R$ 1.436 | 30 | – | – | – | – |
+| Petrópolis | R$ 647 | 24 | – | – | – | – |
+| Primavera | R$ 837 | 63 | – | – | – | – |
+| Rincão | R$ 731 | 29 | – | – | – | – |
+| Rio Branco | R$ 1.142 | 34 | – | – | – | – |
+| Rondônia | R$ 625 | 89 | – | – | – | – |
+| Roselândia | R$ 378 | 11 | – | – | – | – |
+| Santo Afonso | R$ 433 | 11 | – | – | – | – |
+| São Jorge | R$ 531 | 20 | – | – | – | – |
+| São José | R$ 496 | 10 | – | – | – | – |
+| Vila Nova | R$ 866 | 34 | – | – | – | – |
+| Vila Rosa | R$ 1.310 | 14 | – | – | – | – |
+
+### Salas comerciais, cidade toda: venda R$ 4.135/m² (n=127); aluguel R$ 29,0/m²/mês (n=215); rendimento bruto do aluguel 8,42% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Canudos | – | – | R$ 27,4 | 10 | – | – |
+| Centro | R$ 3.692 | 85 | R$ 25,1 | 90 | 8,16% | – |
+| Hamburgo Velho | – | – | R$ 44,3 | 7 | – | – |
+| Ideal | – | – | R$ 34,6 | 16 | – | – |
+| Industrial | – | – | R$ 19,3 | 5 | – | – |
+| Jardim Mauá | R$ 12.750 | 8 | R$ 65,0 | 16 | 6,12% | – |
+| Pátria Nova | – | – | R$ 31,8 | 9 | – | – |
+| Rio Branco | R$ 5.408 | 9 | R$ 22,2 | 36 | 4,93% | – |
 
 
 ## Porto Velho (setembro/2026): https://acorridadosbairros.com.br/ro/porto-velho/
