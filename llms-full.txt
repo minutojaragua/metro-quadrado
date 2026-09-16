@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 74 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 545.903 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 75 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 557.962 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -5951,6 +5951,280 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Rio Branco | – | – | R$ 33,3 | 13 | – | – |
 | São José | – | – | R$ 24,5 | 13 | – | – |
 | São Luis | – | – | R$ 30,6 | 7 | – | – |
+
+
+## Gravataí (setembro/2026): https://acorridadosbairros.com.br/rs/gravatai/
+
+### Apartamentos, cidade toda: venda R$ 4.656/m² (n=1612); aluguel R$ 28,1/m²/mês (n=412); rendimento bruto do aluguel 7,24% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Alphaville | R$ 8.982 | 18 | – | – | – | – |
+| Barnabé | R$ 4.167 | 55 | R$ 25,5 | 24 | 7,34% | – |
+| Bom Princípio | R$ 3.889 | 15 | – | – | – | – |
+| Bom Sucesso | R$ 3.846 | 38 | R$ 30,0 | 9 | 9,36% | – |
+| Caça e Pesca | R$ 3.956 | 18 | – | – | – | – |
+| Central | R$ 3.998 | 9 | – | – | – | – |
+| Centro | R$ 5.838 | 256 | R$ 29,8 | 98 | 6,13% | – |
+| Cohab A | R$ 3.958 | 12 | – | – | – | – |
+| Cohab B | R$ 4.306 | 9 | – | – | – | – |
+| Cohab C | R$ 3.969 | 12 | – | – | – | – |
+| Cruzeiro | R$ 3.462 | 5 | – | – | – | – |
+| Dom Feliciano | R$ 7.431 | 93 | R$ 46,0 | 13 | 7,43% | – |
+| Dona Mercedes | R$ 3.947 | 15 | – | – | – | – |
+| Jansen | R$ 4.975 | 107 | R$ 25,5 | 34 | 6,15% | – |
+| Marrocos | R$ 3.810 | 5 | – | – | – | – |
+| Monte Belo | R$ 4.519 | 20 | – | – | – | – |
+| Morada do Vale I | R$ 3.810 | 20 | R$ 18,2 | 7 | 5,73% | – |
+| Morada do Vale II | R$ 4.417 | 5 | – | – | – | – |
+| Morada do Vale III | R$ 3.431 | 13 | – | – | – | – |
+| Morada Gaúcha | R$ 3.776 | 5 | – | – | – | – |
+| Moradas do Sobrado | R$ 4.786 | 24 | R$ 20,2 | 5 | 5,07% | – |
+| Natal | R$ 4.742 | 22 | R$ 29,7 | 6 | 7,52% | – |
+| Nossa Chácara | R$ 4.126 | 18 | – | – | – | – |
+| Novo Mundo | R$ 3.878 | 11 | – | – | – | – |
+| Oriço | R$ 5.194 | 65 | R$ 34,7 | 10 | 8,02% | – |
+| Parque dos Anjos | R$ 4.194 | 41 | R$ 23,9 | 26 | 6,84% | – |
+| Parque Florido | R$ 3.754 | 5 | – | – | – | – |
+| Parque Olinda | R$ 3.580 | 37 | R$ 25,1 | 6 | 8,41% | – |
+| Passo das Pedras | R$ 4.885 | 113 | R$ 32,8 | 23 | 8,06% | – |
+| Passos dos Ferreiros | R$ 4.340 | 25 | R$ 22,8 | 14 | 6,30% | – |
+| Renascença | R$ 5.753 | 42 | – | – | – | – |
+| Residencial Jaqueline | R$ 5.100 | 7 | – | – | – | – |
+| Salgado Filho | R$ 5.786 | 112 | R$ 39,5 | 29 | 8,19% | – |
+| Santa Cruz | R$ 4.182 | 49 | R$ 22,6 | 18 | 6,49% | – |
+| Santa Fé | R$ 3.841 | 67 | R$ 28,1 | 10 | 8,78% | – |
+| São Geraldo | R$ 4.186 | 5 | – | – | – | – |
+| São Jerônimo | R$ 3.887 | 36 | – | – | – | – |
+| São Judas Tadeu | R$ 2.796 | 8 | – | – | – | – |
+| São Luiz | R$ 4.286 | 31 | R$ 31,8 | 6 | 8,90% | – |
+| São Vicente | R$ 5.109 | 53 | R$ 30,8 | 5 | 7,23% | – |
+| São Vicente - Alphaville | R$ 5.336 | 5 | – | – | – | – |
+| Sítio Gaúcho | R$ 4.884 | 8 | – | – | – | – |
+| Vera Cruz | R$ 3.958 | 31 | R$ 21,4 | 12 | 6,49% | – |
+| Vila Morada Gaúcha | R$ 4.018 | 5 | – | – | – | – |
+
+### Casas, cidade toda: venda R$ 5.319/m² (n=6160); aluguel R$ 32,1/m²/mês (n=658); rendimento bruto do aluguel 7,24% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Águas Mortas | R$ 4.426 | 13 | – | – | – | – |
+| Alphaville | R$ 9.557 | 183 | R$ 64,8 | 66 | 8,14% | – |
+| Altaville | R$ 4.900 | 13 | – | – | – | – |
+| Auxiliadora | R$ 3.631 | 68 | – | – | – | – |
+| Barnabé | R$ 3.874 | 104 | R$ 27,8 | 11 | 8,61% | – |
+| Barro Vermelho | R$ 8.333 | 29 | – | – | – | – |
+| Bela Vista | R$ 5.162 | 117 | R$ 37,8 | 12 | 8,79% | – |
+| Bom Princípio | R$ 3.965 | 34 | – | – | – | – |
+| Bom Sucesso | R$ 3.867 | 121 | R$ 21,4 | 20 | 6,64% | – |
+| Bonsucesso | R$ 5.318 | 12 | – | – | – | – |
+| Bosques do Sul | R$ 6.327 | 12 | – | – | – | – |
+| Breno Garcia | R$ 3.587 | 10 | – | – | – | – |
+| Caça e Pesca | R$ 4.339 | 40 | – | – | – | – |
+| Cadiz | R$ 6.148 | 34 | – | – | – | – |
+| Castelo Branco | R$ 3.432 | 52 | – | – | – | – |
+| Central | R$ 3.592 | 24 | – | – | – | – |
+| Centro | R$ 7.033 | 436 | R$ 32,0 | 82 | 5,46% | – |
+| Cohab A | R$ 3.570 | 35 | – | – | – | – |
+| Cohab B | R$ 3.754 | 41 | R$ 17,9 | 5 | 5,72% | – |
+| Cohab C | R$ 2.650 | 32 | – | – | – | – |
+| Cruzeiro | R$ 3.611 | 25 | – | – | – | – |
+| Cyrela Landscape Seminario | R$ 9.016 | 85 | – | – | – | – |
+| Diva Lessa de Jesus | R$ 5.800 | 25 | R$ 32,9 | 8 | 6,81% | – |
+| Dom Feliciano | R$ 5.114 | 257 | R$ 27,6 | 50 | 6,48% | – |
+| Dona Mercedes | R$ 4.543 | 46 | – | – | – | – |
+| Garden Ville | R$ 6.156 | 36 | – | – | – | – |
+| Gardenville Bairro Planejado | R$ 6.124 | 8 | – | – | – | – |
+| Girassol | R$ 4.365 | 54 | R$ 20,7 | 9 | 5,69% | – |
+| Ibiza | R$ 4.305 | 28 | – | – | – | – |
+| Itacolomi I (Itacolomi) | R$ 4.946 | 6 | – | – | – | – |
+| Jansen | R$ 6.000 | 137 | R$ 33,5 | 21 | 6,70% | – |
+| Jardim do Cedro | R$ 3.261 | 44 | – | – | – | – |
+| Loteamento Jardim Timbaúva | R$ 5.935 | 175 | R$ 35,8 | 20 | 7,24% | – |
+| Loteamento Rural Palermo | R$ 3.556 | 7 | – | – | – | – |
+| Loteamento Vila Rica | R$ 3.562 | 14 | – | – | – | – |
+| Marrocos | R$ 2.939 | 24 | R$ 23,6 | 8 | 9,63% | – |
+| Mato Alto | R$ 4.077 | 32 | R$ 33,0 | 9 | 9,71% | – |
+| Mirá | R$ 7.145 | 12 | – | – | – | – |
+| Monte Belo | R$ 4.106 | 48 | R$ 32,8 | 8 | 9,59% | – |
+| Morada do Vale I | R$ 4.720 | 142 | R$ 23,3 | 5 | 5,92% | – |
+| Morada do Vale II | R$ 4.970 | 103 | R$ 27,5 | 5 | 6,64% | – |
+| Morada do Vale III | R$ 3.826 | 44 | – | – | – | – |
+| Morada Gaúcha | R$ 6.352 | 72 | – | – | – | – |
+| Moradas do Sobrado | R$ 4.688 | 95 | R$ 34,2 | 11 | 8,76% | – |
+| Morungava | R$ 2.632 | 7 | – | – | – | – |
+| Natal | R$ 4.125 | 58 | – | – | – | – |
+| Neópolis | R$ 4.682 | 149 | R$ 24,1 | 16 | 6,18% | – |
+| Nossa Chácara | R$ 3.809 | 61 | – | – | – | – |
+| Novo Mundo | R$ 3.442 | 15 | – | – | – | – |
+| Oriço | R$ 4.861 | 113 | R$ 33,2 | 6 | 8,20% | – |
+| Padre Réus | R$ 3.333 | 11 | – | – | – | – |
+| Palermo | R$ 6.541 | 6 | – | – | – | – |
+| Paradiso | R$ 4.707 | 50 | R$ 25,3 | 8 | 6,45% | – |
+| Paragem dos Verdes Campos | R$ 8.300 | 131 | R$ 32,5 | 14 | 4,70% | – |
+| Parque da Matriz | R$ 6.119 | 45 | – | – | – | – |
+| Parque do Itatiaia | R$ 4.069 | 14 | – | – | – | – |
+| Parque dos Anjos | R$ 3.900 | 179 | R$ 22,1 | 6 | 6,80% | – |
+| Parque dos Búzios | R$ 4.599 | 6 | – | – | – | – |
+| Parque dos Eucalíptos | R$ 3.786 | 45 | – | – | – | – |
+| Parque Florido | R$ 3.500 | 33 | – | – | – | – |
+| Parque Ipiranga | R$ 4.505 | 74 | – | – | – | – |
+| Parque Itacolomi | R$ 4.423 | 29 | – | – | – | – |
+| Parque Olinda | R$ 4.082 | 55 | R$ 32,1 | 7 | 9,44% | – |
+| Passo das Pedras | R$ 6.436 | 68 | R$ 28,3 | 19 | 5,28% | – |
+| Passos dos Ferreiros | R$ 3.869 | 50 | R$ 19,5 | 8 | 6,05% | – |
+| Prado | R$ 11.091 | 41 | – | – | – | – |
+| Prado Bairro Cidade | R$ 11.800 | 37 | – | – | – | – |
+| Prado Bairro-Cidade (Barro Vermelho) | R$ 11.111 | 12 | – | – | – | – |
+| Prado Los Alamos | R$ 12.382 | 27 | – | – | – | – |
+| Primavera | R$ 6.594 | 27 | – | – | – | – |
+| Recanto Corcunda | R$ 7.087 | 18 | – | – | – | – |
+| Renascença | R$ 5.604 | 64 | – | – | – | – |
+| Reserva Bela Vista | R$ 6.240 | 84 | – | – | – | – |
+| Reserva do Arvoredo | R$ 6.303 | 40 | – | – | – | – |
+| Reserva Dom Feliciano | R$ 6.152 | 38 | – | – | – | – |
+| Residence Park | R$ 4.182 | 8 | – | – | – | – |
+| Residencial Jaqueline | R$ 7.333 | 5 | – | – | – | – |
+| Residencial Terra Nova | R$ 6.066 | 14 | – | – | – | – |
+| Rincão da Madalena | R$ 4.144 | 33 | R$ 25,2 | 6 | 7,30% | – |
+| Rosa Maria | R$ 4.422 | 7 | – | – | – | – |
+| Sagrada Família | R$ 3.846 | 11 | – | – | – | – |
+| Salgado Filho | R$ 4.594 | 124 | R$ 26,2 | 27 | 6,84% | – |
+| Santa Cecilia | R$ 1.423 | 5 | – | – | – | – |
+| Santa Cruz | R$ 4.932 | 179 | R$ 24,5 | 19 | 5,96% | – |
+| Santa Fé | R$ 3.998 | 45 | – | – | – | – |
+| Santo Antônio | R$ 3.731 | 8 | – | – | – | – |
+| São Geraldo | R$ 3.497 | 13 | – | – | – | – |
+| São Jerônimo | R$ 3.766 | 66 | – | – | – | – |
+| São Judas Tadeu | R$ 2.997 | 17 | – | – | – | – |
+| São Luiz | R$ 4.753 | 48 | – | – | – | – |
+| São Vicente | R$ 7.487 | 248 | R$ 50,5 | 32 | 8,09% | – |
+| São Vicente - Alphaville | R$ 7.476 | 8 | – | – | – | – |
+| Sítio Gaúcho | R$ 3.909 | 26 | – | – | – | – |
+| Sítio Sobrado | R$ 5.324 | 10 | – | – | – | – |
+| Terranova | R$ 6.018 | 54 | – | – | – | – |
+| Terranova Bairro Planejado | R$ 6.350 | 6 | – | – | – | – |
+| Terras Alpha | R$ 8.038 | 47 | R$ 50,7 | 6 | 7,57% | – |
+| Vale Ville | R$ 6.994 | 114 | R$ 42,3 | 5 | 7,26% | – |
+| Vera Cruz | R$ 3.623 | 68 | R$ 26,5 | 11 | 8,78% | – |
+| Vila Branca | R$ 3.500 | 5 | – | – | – | – |
+| Vila Cledi | R$ 2.562 | 13 | – | – | – | – |
+| Vila Imperial | R$ 4.167 | 51 | R$ 29,2 | 5 | 8,41% | – |
+| Vila Morada Gaúcha | R$ 5.204 | 37 | – | – | – | – |
+| Villa Lucchesi | R$ 7.076 | 93 | R$ 52,4 | 7 | 8,89% | – |
+| Villagio Palermo | R$ 5.798 | 26 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 971/m² (n=2617)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Alphaville | R$ 2.306 | 22 | – | – | – | – |
+| Auxiliadora | R$ 680 | 17 | – | – | – | – |
+| Barnabé | R$ 720 | 97 | – | – | – | – |
+| Barro Vermelho | R$ 890 | 14 | – | – | – | – |
+| Bela Vista | R$ 872 | 12 | – | – | – | – |
+| Bom Princípio | R$ 1.388 | 16 | – | – | – | – |
+| Bom Sucesso | R$ 674 | 32 | – | – | – | – |
+| Bosques do Sul | R$ 122 | 7 | – | – | – | – |
+| Caça e Pesca | R$ 828 | 34 | – | – | – | – |
+| Cadiz | R$ 890 | 17 | – | – | – | – |
+| Castelo Branco | R$ 710 | 9 | – | – | – | – |
+| Central | R$ 427 | 5 | – | – | – | – |
+| Centro | R$ 1.427 | 232 | – | – | – | – |
+| Cohab A | R$ 1.894 | 14 | – | – | – | – |
+| Cohab C | R$ 1.336 | 12 | – | – | – | – |
+| Cruzeiro | R$ 567 | 5 | – | – | – | – |
+| Cyrela Landscape Seminario | R$ 1.462 | 25 | – | – | – | – |
+| Diva Lessa de Jesus | R$ 1.456 | 17 | – | – | – | – |
+| Dom Feliciano | R$ 973 | 70 | – | – | – | – |
+| Dona Mercedes | R$ 778 | 29 | – | – | – | – |
+| Garden Ville | R$ 873 | 24 | – | – | – | – |
+| Gardenville Bairro Planejado | R$ 862 | 8 | – | – | – | – |
+| Giardino | R$ 533 | 9 | – | – | – | – |
+| Girassol | R$ 928 | 18 | – | – | – | – |
+| Jansen | R$ 1.017 | 40 | – | – | – | – |
+| Jardim do Cedro | R$ 355 | 16 | – | – | – | – |
+| Loteamento Jardim Timbaúva | R$ 926 | 52 | – | – | – | – |
+| Loteamento Rural Palermo | R$ 143 | 9 | – | – | – | – |
+| Marrocos | R$ 648 | 11 | – | – | – | – |
+| Mato Alto | R$ 333 | 21 | – | – | – | – |
+| Mirá | R$ 1.525 | 11 | – | – | – | – |
+| Monet Residence | R$ 1.312 | 20 | – | – | – | – |
+| Monte Belo | R$ 769 | 16 | – | – | – | – |
+| Morada do Vale I | R$ 885 | 26 | – | – | – | – |
+| Morada do Vale II | R$ 996 | 16 | – | – | – | – |
+| Morada do Vale III | R$ 890 | 8 | – | – | – | – |
+| Morada Gaúcha | R$ 1.302 | 90 | – | – | – | – |
+| Moradas do Sobrado | R$ 559 | 24 | – | – | – | – |
+| Morungava | R$ 175 | 9 | – | – | – | – |
+| Natal | R$ 395 | 23 | – | – | – | – |
+| Neópolis | R$ 544 | 91 | – | – | – | – |
+| Nossa Chácara | R$ 535 | 15 | – | – | – | – |
+| Novo Mundo | R$ 330 | 5 | – | – | – | – |
+| Oriço | R$ 916 | 63 | – | – | – | – |
+| Paradiso | R$ 1.639 | 30 | – | – | – | – |
+| Paragem dos Verdes Campos | R$ 673 | 31 | – | – | – | – |
+| Parque da Matriz | R$ 1.197 | 5 | – | – | – | – |
+| Parque dos Anjos | R$ 823 | 91 | – | – | – | – |
+| Parque dos Eucalíptos | R$ 708 | 6 | – | – | – | – |
+| Parque Florido | R$ 833 | 5 | – | – | – | – |
+| Parque Ipiranga | R$ 851 | 15 | – | – | – | – |
+| Parque Itacolomi | R$ 357 | 15 | – | – | – | – |
+| Parque Olinda | R$ 633 | 16 | – | – | – | – |
+| Paseo | R$ 988 | 7 | – | – | – | – |
+| Passo das Pedras | R$ 1.240 | 71 | – | – | – | – |
+| Passos dos Ferreiros | R$ 894 | 23 | – | – | – | – |
+| Prado | R$ 1.500 | 29 | – | – | – | – |
+| Prado Bairro Cidade | R$ 1.489 | 57 | – | – | – | – |
+| Prado Los Alamos | R$ 1.242 | 11 | – | – | – | – |
+| Primavera | R$ 1.283 | 5 | – | – | – | – |
+| Recanto Corcunda | R$ 360 | 17 | – | – | – | – |
+| Renascença | R$ 777 | 24 | – | – | – | – |
+| Reserva Bela Vista | R$ 1.013 | 17 | – | – | – | – |
+| Reserva do Arvoredo | R$ 1.030 | 9 | – | – | – | – |
+| Reserva Dom Feliciano | R$ 891 | 11 | – | – | – | – |
+| Rincão da Madalena | R$ 708 | 8 | – | – | – | – |
+| Salgado Filho | R$ 1.023 | 53 | – | – | – | – |
+| Santa Cruz | R$ 1.309 | 182 | – | – | – | – |
+| Santa Fé | R$ 453 | 16 | – | – | – | – |
+| Santo Antônio | R$ 570 | 10 | – | – | – | – |
+| São Geraldo | R$ 769 | 11 | – | – | – | – |
+| São Jerônimo | R$ 978 | 16 | – | – | – | – |
+| São Judas Tadeu | R$ 400 | 7 | – | – | – | – |
+| São Luiz | R$ 395 | 13 | – | – | – | – |
+| São Vicente | R$ 1.291 | 105 | – | – | – | – |
+| Sítio Gaúcho | R$ 586 | 18 | – | – | – | – |
+| Terranova | R$ 932 | 10 | – | – | – | – |
+| Terras Alpha | R$ 1.363 | 24 | – | – | – | – |
+| Vale Ville | R$ 1.178 | 14 | – | – | – | – |
+| Vera Cruz | R$ 800 | 33 | – | – | – | – |
+| Vila Branca | R$ 727 | 7 | – | – | – | – |
+| Vila Cledi | R$ 429 | 6 | – | – | – | – |
+| Vila Imperial | R$ 262 | 18 | – | – | – | – |
+| Vila Morada Gaúcha | R$ 533 | 27 | – | – | – | – |
+| Villa Lucchesi | R$ 833 | 34 | – | – | – | – |
+| Villagio Palermo | R$ 814 | 30 | – | – | – | – |
+
+### Salas comerciais, cidade toda: venda R$ 6.154/m² (n=175); aluguel R$ 34,9/m²/mês (n=411); rendimento bruto do aluguel 6,81% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Alphaville | – | – | R$ 50,0 | 5 | – | – |
+| Barnabé | – | – | R$ 40,0 | 15 | – | – |
+| Bom Sucesso | – | – | R$ 53,9 | 8 | – | – |
+| Centro | R$ 6.113 | 135 | R$ 35,2 | 224 | 6,91% | – |
+| Cohab A | – | – | R$ 12,0 | 5 | – | – |
+| Cohab C | – | – | R$ 25,9 | 17 | – | – |
+| Jansen | – | – | R$ 40,0 | 7 | – | – |
+| Morada do Vale I | – | – | R$ 37,6 | 8 | – | – |
+| Neópolis | – | – | R$ 42,3 | 7 | – | – |
+| Parque dos Anjos | – | – | R$ 36,0 | 27 | – | – |
+| Passo das Pedras | R$ 6.733 | 11 | R$ 43,2 | 14 | 7,70% | – |
+| Salgado Filho | – | – | R$ 27,4 | 16 | – | – |
+| Santa Cruz | – | – | R$ 40,8 | 6 | – | – |
+| São Jerônimo | – | – | R$ 36,7 | 5 | – | – |
+| São Vicente | – | – | R$ 43,4 | 8 | – | – |
+| Vera Cruz | – | – | R$ 28,1 | 7 | – | – |
 
 
 ## Novo Hamburgo (setembro/2026): https://acorridadosbairros.com.br/rs/novo-hamburgo/
