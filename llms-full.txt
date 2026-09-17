@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 81 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 594.926 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 82 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 596.741 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -1035,6 +1035,83 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Lagoa do Banana | R$ 265 | 24 | – | – | – | – |
 
 ### Salas comerciais, cidade toda: aluguel R$ 31,5/m²/mês (n=6)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+
+
+## Eusébio (setembro/2026): https://acorridadosbairros.com.br/ce/eusebio/
+
+### Apartamentos, cidade toda: venda R$ 6.367/m² (n=124); aluguel R$ 26,1/m²/mês (n=23); rendimento bruto do aluguel 4,92% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Centro | R$ 5.814 | 31 | R$ 32,4 | 12 | 6,69% | – |
+| Coaçu | R$ 5.299 | 8 | – | – | – | – |
+| Coité | R$ 6.905 | 17 | – | – | – | – |
+| Eusébio | R$ 7.049 | 19 | – | – | – | – |
+| Guaribas | R$ 4.800 | 5 | – | – | – | – |
+| Pedra | R$ 8.119 | 8 | – | – | – | – |
+| Tamatanduba | R$ 7.129 | 20 | – | – | – | – |
+
+### Casas, cidade toda: venda R$ 5.943/m² (n=1201); aluguel R$ 28,7/m²/mês (n=26); rendimento bruto do aluguel 5,80% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Alphaville | R$ 9.872 | 15 | – | – | – | – |
+| Alphaville Ceará 1 | R$ 8.571 | 7 | – | – | – | – |
+| Alphaville Fortaleza | R$ 11.494 | 11 | – | – | – | – |
+| Amador | R$ 6.038 | 14 | – | – | – | – |
+| Autódromo | R$ 4.544 | 7 | – | – | – | – |
+| Bairro Cidade Alpha | R$ 7.924 | 17 | – | – | – | – |
+| Cararu | R$ 9.379 | 14 | – | – | – | – |
+| Centro | R$ 5.163 | 131 | – | – | – | – |
+| Cidade Alpha | R$ 7.771 | 214 | – | – | – | – |
+| Coaçu | R$ 6.875 | 43 | R$ 42,4 | 6 | 7,40% | – |
+| Coité | R$ 5.624 | 105 | – | – | – | – |
+| Encantada | R$ 4.296 | 31 | – | – | – | – |
+| Eusébio | R$ 6.389 | 106 | – | – | – | – |
+| Guaribas | R$ 4.907 | 39 | – | – | – | – |
+| Jacundá | R$ 5.607 | 10 | – | – | – | – |
+| Lagoinha | R$ 5.643 | 17 | – | – | – | – |
+| Mangabeira | R$ 4.650 | 44 | – | – | – | – |
+| Olho d'Água | R$ 4.804 | 8 | – | – | – | – |
+| Parque Havaí | R$ 5.278 | 12 | – | – | – | – |
+| Pedra | R$ 5.891 | 19 | – | – | – | – |
+| Pires Façanha | R$ 5.674 | 53 | – | – | – | – |
+| Porto das Dunas | R$ 10.500 | 5 | – | – | – | – |
+| Precabura | R$ 3.896 | 19 | – | – | – | – |
+| Santo Antonio | R$ 5.755 | 10 | – | – | – | – |
+| Tamatanduba | R$ 5.011 | 51 | – | – | – | – |
+| Terras Alphaville Residencial 2 | R$ 7.276 | 8 | – | – | – | – |
+| Timbu | R$ 4.658 | 39 | – | – | – | – |
+| Urucunema | R$ 4.803 | 82 | – | – | – | – |
+| Vereda Tropical | R$ 4.070 | 17 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 894/m² (n=399)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Alphaville | R$ 1.648 | 5 | – | – | – | – |
+| Cararu | R$ 491 | 6 | – | – | – | – |
+| Centro | R$ 889 | 37 | – | – | – | – |
+| Cidade Alpha | R$ 967 | 59 | – | – | – | – |
+| Coaçu | R$ 1.223 | 13 | – | – | – | – |
+| Coité | R$ 945 | 29 | – | – | – | – |
+| Eusébio | R$ 847 | 30 | – | – | – | – |
+| Guaribas | R$ 1.026 | 14 | – | – | – | – |
+| Jacundá | R$ 759 | 6 | – | – | – | – |
+| Mangabeira | R$ 647 | 68 | – | – | – | – |
+| Olho d'Água | R$ 1.300 | 8 | – | – | – | – |
+| Parque Havaí | R$ 1.100 | 7 | – | – | – | – |
+| Pedra | R$ 836 | 5 | – | – | – | – |
+| Pires Façanha | R$ 1.718 | 12 | – | – | – | – |
+| Precabura | R$ 309 | 23 | – | – | – | – |
+| Tamatanduba | R$ 749 | 14 | – | – | – | – |
+| Urucunema | R$ 746 | 22 | – | – | – | – |
+| Vereda Tropical | R$ 776 | 5 | – | – | – | – |
+
+### Salas comerciais, cidade toda: aluguel R$ 33,3/m²/mês (n=7)
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
