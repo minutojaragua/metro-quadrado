@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 91 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 606.507 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 92 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 607.304 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -6647,6 +6647,56 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Rio Branco | – | – | R$ 33,3 | 13 | – | – |
 | São José | – | – | R$ 24,5 | 13 | – | – |
 | São Luis | – | – | R$ 30,6 | 7 | – | – |
+
+
+## Estância Velha (setembro/2026): https://acorridadosbairros.com.br/rs/estancia-velha/
+
+### Apartamentos, cidade toda: venda R$ 6.502/m² (n=111)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Centro | R$ 6.874 | 70 | – | – | – | – |
+| Lira | R$ 4.257 | 6 | – | – | – | – |
+| Sol Nascente | R$ 4.912 | 5 | – | – | – | – |
+| União | R$ 4.474 | 10 | – | – | – | – |
+
+### Casas, cidade toda: venda R$ 5.086/m² (n=502)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Bela Vista | R$ 5.996 | 64 | – | – | – | – |
+| Campo Grande | R$ 4.808 | 32 | – | – | – | – |
+| Centro | R$ 5.310 | 31 | – | – | – | – |
+| Das Quintas | R$ 4.590 | 10 | – | – | – | – |
+| Das Rosas | R$ 4.396 | 9 | – | – | – | – |
+| Encosta do Sol | R$ 5.607 | 125 | – | – | – | – |
+| Floresta | R$ 3.811 | 23 | – | – | – | – |
+| Lago Azul | R$ 5.191 | 50 | – | – | – | – |
+| Lira | R$ 5.362 | 10 | – | – | – | – |
+| Rincão dos Ilhéus | R$ 4.314 | 14 | – | – | – | – |
+| Rincão Gaúcho | R$ 2.885 | 9 | – | – | – | – |
+| Sol Nascente | R$ 4.318 | 27 | – | – | – | – |
+| União | R$ 4.521 | 72 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 689/m² (n=184)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Bela Vista | R$ 591 | 14 | – | – | – | – |
+| Centro | R$ 1.342 | 7 | – | – | – | – |
+| Das Rosas | R$ 567 | 10 | – | – | – | – |
+| Encosta do Sol | R$ 1.768 | 54 | – | – | – | – |
+| Encosta do Sol Horizon | R$ 2.062 | 5 | – | – | – | – |
+| Floresta | R$ 583 | 12 | – | – | – | – |
+| Lago Azul | R$ 610 | 14 | – | – | – | – |
+| Rincão dos Ilhéus | R$ 552 | 8 | – | – | – | – |
+| Sol Nascente | R$ 547 | 7 | – | – | – | – |
+| União | R$ 957 | 18 | – | – | – | – |
+
+### Salas comerciais, cidade toda: 
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
 
 
 ## Gravataí (setembro/2026): https://acorridadosbairros.com.br/rs/gravatai/
