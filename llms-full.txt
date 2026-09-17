@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 80 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 593.285 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 81 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 594.926 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -4024,6 +4024,59 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Miramar | R$ 11.213 | 9 | R$ 109,0 | 13 | 11,67% | – |
 | Tambaú | R$ 8.158 | 9 | R$ 106,4 | 27 | 15,65% | – |
 | Torre | R$ 4.450 | 9 | R$ 40,0 | 19 | 10,79% | – |
+
+
+## Cabedelo (setembro/2026): https://acorridadosbairros.com.br/pb/cabedelo/
+
+### Apartamentos, cidade toda: venda R$ 10.769/m² (n=1359); aluguel R$ 68,0/m²/mês (n=45); rendimento bruto do aluguel 7,58% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Areia Dourada | R$ 13.973 | 51 | – | – | – | – |
+| Camboinha | R$ 10.650 | 198 | – | – | – | – |
+| Camboinha III | R$ 8.040 | 5 | – | – | – | – |
+| Formosa | R$ 13.433 | 89 | – | – | – | – |
+| Intermares | R$ 9.532 | 443 | R$ 54,3 | 23 | 6,84% | – |
+| Jardim Atlantica | R$ 10.515 | 6 | – | – | – | – |
+| Jardim Brasília | R$ 14.344 | 10 | – | – | – | – |
+| Jardim Camboinha | R$ 6.600 | 11 | – | – | – | – |
+| Jardim Jerico | R$ 7.926 | 6 | – | – | – | – |
+| Loteamento Bela Vista | R$ 8.616 | 20 | – | – | – | – |
+| Monte Castelo | R$ 11.415 | 10 | – | – | – | – |
+| P. Areia Dourada | R$ 12.500 | 7 | – | – | – | – |
+| Poço | R$ 9.927 | 131 | – | – | – | – |
+| Ponta de Campina | R$ 13.844 | 205 | R$ 77,8 | 8 | 6,74% | – |
+| Ponta de Matos | R$ 12.939 | 44 | – | – | – | – |
+| Praia do Poço | R$ 8.913 | 9 | – | – | – | – |
+| Praia Formosa | R$ 13.855 | 47 | – | – | – | – |
+| Santa Catarina | R$ 10.836 | 9 | – | – | – | – |
+| Vila São João | R$ 11.258 | 29 | – | – | – | – |
+
+### Casas, cidade toda: venda R$ 7.881/m² (n=153); aluguel R$ 53,2/m²/mês (n=8); rendimento bruto do aluguel 8,10% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Amazônia Park | R$ 9.541 | 10 | – | – | – | – |
+| Camboinha | R$ 6.498 | 10 | – | – | – | – |
+| Intermares | R$ 7.990 | 64 | – | – | – | – |
+| Jacaré | R$ 7.941 | 13 | – | – | – | – |
+| Poço | R$ 5.755 | 8 | – | – | – | – |
+| Ponta de Campina | R$ 9.228 | 17 | – | – | – | – |
+| Portal do Poço | R$ 7.697 | 8 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 2.318/m² (n=58)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Amazônia Park | R$ 2.083 | 6 | – | – | – | – |
+| Intermares | R$ 2.149 | 15 | – | – | – | – |
+| Morada Nova | R$ 2.385 | 7 | – | – | – | – |
+| Ponta de Campina | R$ 2.972 | 6 | – | – | – | – |
+
+### Salas comerciais, cidade toda: venda R$ 5.710/m² (n=7)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
 
 
 ## Curitiba (setembro/2026): https://acorridadosbairros.com.br/pr/curitiba/
