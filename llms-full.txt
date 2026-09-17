@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 88 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 604.116 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 89 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 604.941 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -6070,6 +6070,65 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Petrópolis | R$ 6.129 | 17 | R$ 60,2 | 32 | 11,79% | – |
 | Ponta Negra | – | – | R$ 60,4 | 18 | – | – |
 | Tirol | R$ 10.659 | 16 | R$ 66,9 | 33 | 7,53% | – |
+
+
+## Parnamirim (setembro/2026): https://acorridadosbairros.com.br/rn/parnamirim/
+
+### Apartamentos, cidade toda: venda R$ 6.038/m² (n=233); aluguel R$ 30,8/m²/mês (n=31); rendimento bruto do aluguel 6,12% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Cajupiranga | R$ 7.410 | 13 | – | – | – | – |
+| Cotovelo (Distrito Litoral) | R$ 9.205 | 21 | – | – | – | – |
+| Emaús | R$ 5.014 | 12 | – | – | – | – |
+| Nova Parnamirim | R$ 5.000 | 65 | R$ 28,2 | 13 | 6,77% | – |
+| Parque das Árvores | R$ 4.164 | 9 | – | – | – | – |
+| Parque das Nações | R$ 6.256 | 36 | – | – | – | – |
+| Parque do Jiqui | R$ 7.559 | 9 | – | – | – | – |
+| Pirangi do Norte | R$ 14.694 | 10 | – | – | – | – |
+| Pirangi do Norte (Distrito Litoral) | R$ 8.418 | 17 | – | – | – | – |
+| Pium (Distrito Litoral) | R$ 8.535 | 23 | R$ 40,4 | 7 | 5,68% | – |
+| Vida Nova | R$ 3.600 | 5 | – | – | – | – |
+
+### Casas, cidade toda: venda R$ 4.101/m² (n=360); aluguel R$ 25,0/m²/mês (n=17); rendimento bruto do aluguel 7,32% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Cajupiranga | R$ 4.319 | 43 | – | – | – | – |
+| Cotovelo (Distrito Litoral) | R$ 3.663 | 7 | – | – | – | – |
+| Emaús | R$ 3.257 | 24 | – | – | – | – |
+| Liberdade | R$ 3.200 | 7 | – | – | – | – |
+| Nova Esperança | R$ 3.262 | 11 | – | – | – | – |
+| Nova Parnamirim | R$ 2.984 | 76 | – | – | – | – |
+| Parque das Árvores | R$ 4.327 | 6 | – | – | – | – |
+| Parque das Nações | R$ 4.579 | 86 | – | – | – | – |
+| Parque do Jiqui | R$ 6.046 | 34 | – | – | – | – |
+| Passagem de Areia | R$ 4.471 | 5 | – | – | – | – |
+| Pirangi do Norte (Distrito Litoral) | R$ 4.333 | 9 | – | – | – | – |
+| Pium (Distrito Litoral) | R$ 6.645 | 18 | – | – | – | – |
+| Vale do Sol | R$ 2.590 | 5 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 700/m² (n=176)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Cajupiranga | R$ 685 | 21 | – | – | – | – |
+| Cotovelo (Distrito Litoral) | R$ 938 | 9 | – | – | – | – |
+| Emaús | R$ 682 | 10 | – | – | – | – |
+| Liberdade | R$ 452 | 5 | – | – | – | – |
+| Nova Esperança | R$ 458 | 5 | – | – | – | – |
+| Nova Parnamirim | R$ 725 | 32 | – | – | – | – |
+| Parque das Árvores | R$ 546 | 7 | – | – | – | – |
+| Parque das Nações | R$ 736 | 36 | – | – | – | – |
+| Parque do Jiqui | R$ 357 | 5 | – | – | – | – |
+| Pirangi do Norte (Distrito Litoral) | R$ 680 | 8 | – | – | – | – |
+| Pium (Distrito Litoral) | R$ 1.007 | 11 | – | – | – | – |
+| Vida Nova | R$ 720 | 5 | – | – | – | – |
+
+### Salas comerciais, cidade toda: 
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
 
 
 ## Porto Alegre (setembro/2026): https://acorridadosbairros.com.br/rs/porto-alegre/
