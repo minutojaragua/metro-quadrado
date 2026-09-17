@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 85 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 601.192 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 86 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 602.289 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -983,6 +983,66 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Passaré | – | – | R$ 61,8 | 5 | – | – |
 | Pici | R$ 5.602 | 10 | – | – | – | – |
 | São Gerardo | R$ 6.175 | 6 | R$ 42,9 | 5 | 8,34% | – |
+
+
+## Aquiraz (setembro/2026): https://acorridadosbairros.com.br/ce/aquiraz/
+
+### Apartamentos, cidade toda: venda R$ 10.603/m² (n=433); aluguel R$ 38,1/m²/mês (n=17); rendimento bruto do aluguel 4,31% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Aquiraz | R$ 11.354 | 24 | – | – | – | – |
+| Aquiraz Riviera | R$ 11.136 | 21 | – | – | – | – |
+| Centro | R$ 9.469 | 6 | – | – | – | – |
+| Japao | R$ 12.122 | 10 | – | – | – | – |
+| Loteamento Parque das Fontes | R$ 11.538 | 9 | – | – | – | – |
+| Porta das Dunas | R$ 11.138 | 12 | – | – | – | – |
+| Porto das Dunas | R$ 10.131 | 298 | R$ 50,8 | 11 | 6,02% | – |
+| Praia do Japão | R$ 11.231 | 5 | – | – | – | – |
+| Prainha | R$ 9.910 | 14 | – | – | – | – |
+| Tapera | R$ 10.478 | 16 | – | – | – | – |
+
+### Casas, cidade toda: venda R$ 4.231/m² (n=268); aluguel R$ 22,7/m²/mês (n=16); rendimento bruto do aluguel 6,44% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Aquiraz | R$ 3.562 | 15 | – | – | – | – |
+| Barro Preto | R$ 1.920 | 5 | – | – | – | – |
+| Camará | R$ 3.350 | 6 | – | – | – | – |
+| Centro | R$ 3.750 | 16 | – | – | – | – |
+| Chácara da Prainha | R$ 3.228 | 8 | – | – | – | – |
+| Jacunda | R$ 5.994 | 38 | – | – | – | – |
+| Loteamento Sol Nascente | R$ 3.289 | 10 | – | – | – | – |
+| Porto das Dunas | R$ 4.819 | 67 | R$ 27,3 | 5 | 6,80% | – |
+| Praia do Presídio | R$ 1.650 | 11 | – | – | – | – |
+| Prainha | R$ 3.477 | 8 | – | – | – | – |
+| Tapera | R$ 3.577 | 6 | – | – | – | – |
+| Vila Terra Brasilis | R$ 6.600 | 9 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 684/m² (n=363)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Aquiraz | R$ 530 | 24 | – | – | – | – |
+| Bairro Terra Brasilis | R$ 684 | 5 | – | – | – | – |
+| Bairro Vila Terra Brasílis | R$ 732 | 5 | – | – | – | – |
+| Camará | R$ 339 | 22 | – | – | – | – |
+| Centro | R$ 682 | 13 | – | – | – | – |
+| Jacunda | R$ 812 | 109 | – | – | – | – |
+| Loteamento Novo | R$ 695 | 10 | – | – | – | – |
+| Loteamento Rio Mar | R$ 1.116 | 5 | – | – | – | – |
+| Lt dos Bandeirantes | R$ 709 | 7 | – | – | – | – |
+| Lt Plan Novo | R$ 1.102 | 13 | – | – | – | – |
+| Patacas | R$ 262 | 8 | – | – | – | – |
+| Porto das Dunas | R$ 444 | 28 | – | – | – | – |
+| Tapera | R$ 229 | 5 | – | – | – | – |
+| Vila Terra Brasilis | R$ 724 | 38 | – | – | – | – |
+| Villa Terra Brasilis | R$ 690 | 9 | – | – | – | – |
+
+### Salas comerciais, cidade toda: 
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
 
 
 ## Caucaia (setembro/2026): https://acorridadosbairros.com.br/ce/caucaia/
