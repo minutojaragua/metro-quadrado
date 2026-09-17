@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 96 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 611.580 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 97 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 611.785 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -5664,6 +5664,43 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Todos Os Santos | R$ 5.821 | 6 | – | – | – | – |
 | Vila da Penha | R$ 2.500 | 5 | – | – | – | – |
 | Vila Isabel | R$ 7.815 | 8 | – | – | – | – |
+
+
+## Belford Roxo (setembro/2026): https://acorridadosbairros.com.br/rj/belford-roxo/
+
+### Apartamentos, cidade toda: venda R$ 3.477/m² (n=60); aluguel R$ 22,2/m²/mês (n=9); rendimento bruto do aluguel 7,66% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Belford Roxo | R$ 4.191 | 6 | – | – | – | – |
+| Bom Pastor | R$ 3.660 | 8 | – | – | – | – |
+| Centro | R$ 3.753 | 20 | – | – | – | – |
+| Das Graças | R$ 3.166 | 8 | – | – | – | – |
+| Santa Amélia | R$ 3.167 | 5 | – | – | – | – |
+
+### Casas, cidade toda: venda R$ 1.966/m² (n=116)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Andrade de Araújo | R$ 1.218 | 6 | – | – | – | – |
+| Areia Branca | R$ 1.500 | 9 | – | – | – | – |
+| Centro | R$ 2.000 | 13 | – | – | – | – |
+| Heliópolis | R$ 2.048 | 8 | – | – | – | – |
+| Nova Piam | R$ 2.875 | 9 | – | – | – | – |
+| Piam | R$ 1.630 | 8 | – | – | – | – |
+| Santo Antônio da Prata | R$ 1.938 | 5 | – | – | – | – |
+| São Bernardo | R$ 2.000 | 7 | – | – | – | – |
+| São Vicente | R$ 1.594 | 11 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 683/m² (n=12)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+
+### Salas comerciais, cidade toda: aluguel R$ 27,5/m²/mês (n=8)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
 
 
 ## Duque de Caxias (setembro/2026): https://acorridadosbairros.com.br/rj/duque-de-caxias/
