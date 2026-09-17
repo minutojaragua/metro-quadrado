@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 87 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 603.240 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 88 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 604.116 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -5709,6 +5709,68 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Chácaras Rio-Petrópolis | – | – | R$ 22,2 | 5 | – | – |
 | Jardim Vinte e Cinco de Agosto | R$ 6.905 | 20 | R$ 33,2 | 19 | 5,77% | – |
 | Santa Cruz da Serra | – | – | R$ 75,0 | 5 | – | – |
+
+
+## Niterói (setembro/2026): https://acorridadosbairros.com.br/rj/niteroi/
+
+### Apartamentos, cidade toda: venda R$ 7.217/m² (n=500); aluguel R$ 27,3/m²/mês (n=15); rendimento bruto do aluguel 4,54% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Badu | R$ 5.461 | 6 | – | – | – | – |
+| Barreto | R$ 5.069 | 14 | – | – | – | – |
+| Camboinhas | R$ 13.791 | 13 | – | – | – | – |
+| Centro | R$ 6.208 | 36 | – | – | – | – |
+| Charitas | R$ 11.111 | 15 | – | – | – | – |
+| Fonseca | R$ 3.768 | 46 | – | – | – | – |
+| Icaraí | R$ 8.679 | 170 | – | – | – | – |
+| Ingá | R$ 6.581 | 30 | – | – | – | – |
+| Itaipu | R$ 8.046 | 10 | – | – | – | – |
+| Jardim Icaraí | R$ 9.676 | 8 | – | – | – | – |
+| Maria Paula | R$ 3.881 | 9 | – | – | – | – |
+| Piratininga | R$ 11.340 | 24 | – | – | – | – |
+| Rio do Ouro | R$ 3.527 | 10 | – | – | – | – |
+| Santa Bárbara | R$ 3.216 | 6 | – | – | – | – |
+| Santa Rosa | R$ 6.703 | 42 | – | – | – | – |
+| São Francisco | R$ 10.513 | 18 | – | – | – | – |
+| São Lourenço | R$ 4.308 | 5 | – | – | – | – |
+
+### Casas, cidade toda: venda R$ 4.432/m² (n=263); aluguel R$ 25,2/m²/mês (n=13); rendimento bruto do aluguel 6,82% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Badu | R$ 4.551 | 12 | – | – | – | – |
+| Camboinhas | R$ 8.256 | 8 | – | – | – | – |
+| Centro | R$ 3.929 | 7 | – | – | – | – |
+| Engenho do Mato | R$ 5.217 | 13 | – | – | – | – |
+| Fonseca | R$ 2.800 | 15 | – | – | – | – |
+| Itaipu | R$ 5.494 | 45 | – | – | – | – |
+| Maravista | R$ 5.064 | 9 | – | – | – | – |
+| Maria Paula | R$ 3.584 | 17 | – | – | – | – |
+| Mata Paca | R$ 4.064 | 10 | – | – | – | – |
+| Pendotiba | R$ 4.019 | 10 | – | – | – | – |
+| Piratininga | R$ 5.314 | 25 | – | – | – | – |
+| Santa Rosa | R$ 5.197 | 5 | – | – | – | – |
+| São Francisco | R$ 5.775 | 24 | – | – | – | – |
+| Sapê | R$ 3.714 | 9 | – | – | – | – |
+| Serra Grande | R$ 4.138 | 7 | – | – | – | – |
+| Várzea das Moças | R$ 3.160 | 11 | – | – | – | – |
+| Vila Progresso | R$ 3.190 | 6 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 472/m² (n=42)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Pendotiba | R$ 267 | 5 | – | – | – | – |
+| Piratininga | R$ 630 | 11 | – | – | – | – |
+| Várzea das Moças | R$ 140 | 5 | – | – | – | – |
+
+### Salas comerciais, cidade toda: venda R$ 6.714/m² (n=24); aluguel R$ 42,3/m²/mês (n=12); rendimento bruto do aluguel 7,56% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Centro | R$ 5.270 | 14 | R$ 27,4 | 7 | 6,24% | – |
+| Icaraí | R$ 11.460 | 6 | – | – | – | – |
 
 
 ## Nova Iguaçu (setembro/2026): https://acorridadosbairros.com.br/rj/nova-iguacu/
