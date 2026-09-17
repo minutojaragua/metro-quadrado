@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 96 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 610.275 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 96 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 611.580 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 ## Cidades (dados por bairro)
 
@@ -35,7 +35,7 @@
 - [Ponta Grossa](https://acorridadosbairros.com.br/pr/ponta-grossa/): mediana apartamentos R$ 4.660/m² (venda)
 - [Recife](https://acorridadosbairros.com.br/pe/recife/): mediana apartamentos R$ 8.060/m² (venda)
 - [Jaboatão dos Guararapes](https://acorridadosbairros.com.br/pe/jaboatao-dos-guararapes/): mediana apartamentos R$ 5.723/m² (venda)
-- [Teresina](https://acorridadosbairros.com.br/pi/teresina/): mediana apartamentos R$ 5.036/m² (venda)
+- [Teresina](https://acorridadosbairros.com.br/pi/teresina/): mediana apartamentos R$ 5.014/m² (venda)
 - [Rio de Janeiro](https://acorridadosbairros.com.br/rj/rio-de-janeiro/): mediana apartamentos R$ 5.686/m² (venda)
 - [Duque de Caxias](https://acorridadosbairros.com.br/rj/duque-de-caxias/): mediana apartamentos R$ 4.546/m² (venda)
 - [Niterói](https://acorridadosbairros.com.br/rj/niteroi/): mediana apartamentos R$ 7.217/m² (venda)
@@ -43,14 +43,14 @@
 - [São Gonçalo](https://acorridadosbairros.com.br/rj/sao-goncalo/): mediana apartamentos R$ 3.523/m² (venda)
 - [Natal](https://acorridadosbairros.com.br/rn/natal/): mediana apartamentos R$ 6.406/m² (venda)
 - [Parnamirim](https://acorridadosbairros.com.br/rn/parnamirim/): mediana apartamentos R$ 6.038/m² (venda)
-- [Porto Alegre](https://acorridadosbairros.com.br/rs/porto-alegre/): mediana apartamentos R$ 6.328/m² (venda)
+- [Porto Alegre](https://acorridadosbairros.com.br/rs/porto-alegre/): mediana apartamentos R$ 6.302/m² (venda)
 - [Cachoeirinha](https://acorridadosbairros.com.br/rs/cachoeirinha/): mediana apartamentos R$ 4.176/m² (venda)
 - [Canoas](https://acorridadosbairros.com.br/rs/canoas/): mediana apartamentos R$ 5.138/m² (venda)
 - [Estância Velha](https://acorridadosbairros.com.br/rs/estancia-velha/): mediana apartamentos R$ 6.502/m² (venda)
 - [Gravataí](https://acorridadosbairros.com.br/rs/gravatai/): mediana apartamentos R$ 4.656/m² (venda)
 - [Novo Hamburgo](https://acorridadosbairros.com.br/rs/novo-hamburgo/): mediana apartamentos R$ 5.344/m² (venda)
 - [Viamão](https://acorridadosbairros.com.br/rs/viamao/): mediana apartamentos R$ 4.255/m² (venda)
-- [Porto Velho](https://acorridadosbairros.com.br/ro/porto-velho/): mediana apartamentos R$ 5.639/m² (venda)
+- [Porto Velho](https://acorridadosbairros.com.br/ro/porto-velho/): mediana apartamentos R$ 5.638/m² (venda)
 - [Boa Vista](https://acorridadosbairros.com.br/rr/boa-vista/): mediana apartamentos R$ 6.045/m² (venda)
 - [Florianópolis](https://acorridadosbairros.com.br/florianopolis/): mediana apartamentos R$ 11.872/m² (venda)
 - [Araquari](https://acorridadosbairros.com.br/araquari/): mediana apartamentos R$ 4.128/m² (venda)
@@ -67,8 +67,8 @@
 - [Itajaí](https://acorridadosbairros.com.br/itajai/): mediana apartamentos R$ 11.585/m² (venda)
 - [Itapema](https://acorridadosbairros.com.br/itapema/): mediana apartamentos R$ 15.720/m² (venda)
 - [Itapoá](https://acorridadosbairros.com.br/itapoa/): mediana apartamentos R$ 9.534/m² (venda)
-- [Jaraguá do Sul](https://acorridadosbairros.com.br/): mediana apartamentos R$ 6.057/m² (venda)
-- [Joinville](https://acorridadosbairros.com.br/joinville/): mediana apartamentos R$ 7.299/m² (venda)
+- [Jaraguá do Sul](https://acorridadosbairros.com.br/): mediana apartamentos R$ 6.048/m² (venda)
+- [Joinville](https://acorridadosbairros.com.br/joinville/): mediana apartamentos R$ 7.298/m² (venda)
 - [Lages](https://acorridadosbairros.com.br/lages/): mediana apartamentos R$ 6.238/m² (venda)
 - [Massaranduba](https://acorridadosbairros.com.br/massaranduba/)
 - [Navegantes](https://acorridadosbairros.com.br/navegantes/): mediana apartamentos R$ 9.250/m² (venda)
@@ -95,7 +95,7 @@
 - [São Bernardo do Campo](https://acorridadosbairros.com.br/sp/sao-bernardo-do-campo/): mediana apartamentos R$ 7.837/m² (venda)
 - [São Caetano do Sul](https://acorridadosbairros.com.br/sp/sao-caetano-do-sul/): mediana apartamentos R$ 9.667/m² (venda)
 - [São José do Rio Preto](https://acorridadosbairros.com.br/sp/sao-jose-do-rio-preto/): mediana apartamentos R$ 4.475/m² (venda)
-- [São José dos Campos](https://acorridadosbairros.com.br/sp/sao-jose-dos-campos/): mediana apartamentos R$ 8.195/m² (venda)
+- [São José dos Campos](https://acorridadosbairros.com.br/sp/sao-jose-dos-campos/): mediana apartamentos R$ 8.194/m² (venda)
 - [Ubatuba](https://acorridadosbairros.com.br/sp/ubatuba/): mediana apartamentos R$ 9.785/m² (venda)
 - [Aracaju](https://acorridadosbairros.com.br/se/aracaju/): mediana apartamentos R$ 5.130/m² (venda)
 - [Barra dos Coqueiros](https://acorridadosbairros.com.br/se/barra-dos-coqueiros/): mediana apartamentos R$ 4.467/m² (venda)
