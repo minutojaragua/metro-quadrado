@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 93 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 608.048 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 94 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 608.732 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -706,6 +706,51 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
+
+
+## Lauro de Freitas (setembro/2026): https://acorridadosbairros.com.br/ba/lauro-de-freitas/
+
+### Apartamentos, cidade toda: venda R$ 5.760/m² (n=250); aluguel R$ 39,8/m²/mês (n=23); rendimento bruto do aluguel 8,29% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Buraquinho | R$ 7.243 | 62 | R$ 45,5 | 6 | 7,54% | – |
+| Caixa d'Água | R$ 3.585 | 7 | – | – | – | – |
+| Caji | R$ 3.310 | 37 | – | – | – | – |
+| Centro | R$ 6.536 | 36 | R$ 29,1 | 5 | 5,34% | – |
+| Ipitanga | R$ 5.200 | 13 | – | – | – | – |
+| Itinga | R$ 3.930 | 5 | – | – | – | – |
+| Pitangueiras | R$ 6.141 | 31 | – | – | – | – |
+| Recreio Ipitanga | R$ 5.156 | 19 | – | – | – | – |
+| Vilas do Atlântico | R$ 9.844 | 24 | – | – | – | – |
+
+### Casas, cidade toda: venda R$ 4.800/m² (n=309); aluguel R$ 38,9/m²/mês (n=15); rendimento bruto do aluguel 9,72% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Buraquinho | R$ 5.259 | 98 | R$ 42,9 | 7 | 9,79% | – |
+| Caixa d'Água | R$ 3.028 | 6 | – | – | – | – |
+| Caji | R$ 4.400 | 7 | – | – | – | – |
+| Centro | R$ 4.430 | 22 | – | – | – | – |
+| Ipitanga | R$ 4.522 | 33 | – | – | – | – |
+| Pitangueiras | R$ 4.577 | 14 | – | – | – | – |
+| Portão | R$ 5.151 | 24 | – | – | – | – |
+| Recreio Ipitanga | R$ 4.775 | 17 | – | – | – | – |
+| Vilas do Atlântico | R$ 5.243 | 59 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 979/m² (n=44)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Caji | R$ 225 | 8 | – | – | – | – |
+| Centro | R$ 578 | 5 | – | – | – | – |
+| Pitangueiras | R$ 1.475 | 8 | – | – | – | – |
+
+### Salas comerciais, cidade toda: venda R$ 6.154/m² (n=21); aluguel R$ 68,8/m²/mês (n=8); rendimento bruto do aluguel 13,42% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Centro | R$ 6.826 | 9 | – | – | – | – |
 
 
 ## Fortaleza (setembro/2026): https://acorridadosbairros.com.br/ce/fortaleza/
