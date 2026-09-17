@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 95 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 609.457 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 96 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 610.187 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -15949,6 +15949,60 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Vila Adyana | R$ 6.884 | 7 | R$ 79,9 | 24 | 13,93% | – |
 | Vila Betânia | – | – | R$ 65,0 | 7 | – | – |
 | Vila Ema | R$ 8.333 | 9 | R$ 50,0 | 15 | 7,20% | – |
+
+
+## Ubatuba (setembro/2026): https://acorridadosbairros.com.br/sp/ubatuba/
+
+### Apartamentos, cidade toda: venda R$ 9.785/m² (n=446); aluguel R$ 43,5/m²/mês (n=36); rendimento bruto do aluguel 5,33% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Acarau | R$ 10.469 | 18 | – | – | – | – |
+| Barra da Lagoa | R$ 8.219 | 7 | – | – | – | – |
+| Centro | R$ 9.744 | 32 | R$ 58,1 | 6 | 7,16% | – |
+| Estufa I | R$ 7.333 | 5 | R$ 38,1 | 7 | 6,23% | – |
+| Itaguá | R$ 10.000 | 111 | R$ 29,6 | 5 | 3,55% | – |
+| Jardim Carolina | R$ 9.069 | 11 | – | – | – | – |
+| Maranduba | R$ 6.471 | 21 | – | – | – | – |
+| Perequê-Açu | R$ 9.153 | 18 | – | – | – | – |
+| Perequê-Mirim | R$ 7.618 | 6 | – | – | – | – |
+| Praia das Toninhas | R$ 13.680 | 6 | R$ 55,0 | 5 | 4,82% | – |
+| Praia de Itaguá | R$ 11.998 | 11 | – | – | – | – |
+| Praia do Sapê | R$ 7.482 | 13 | – | – | – | – |
+| Praia do Tenório | R$ 13.219 | 5 | – | – | – | – |
+| Praia Grande | R$ 11.053 | 63 | – | – | – | – |
+| Saco da Ribeira | R$ 6.602 | 12 | – | – | – | – |
+| Tenório | R$ 8.788 | 6 | – | – | – | – |
+| Toninhas | R$ 10.401 | 65 | R$ 51,6 | 7 | 5,95% | – |
+| Umuarama | R$ 8.222 | 5 | – | – | – | – |
+
+### Casas, cidade toda: venda R$ 7.029/m² (n=204); aluguel R$ 36,8/m²/mês (n=9); rendimento bruto do aluguel 6,28% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Centro | R$ 5.467 | 12 | – | – | – | – |
+| Horto Florestal | R$ 7.619 | 15 | – | – | – | – |
+| Itaguá | R$ 6.667 | 7 | – | – | – | – |
+| Lagoinha | R$ 8.000 | 13 | – | – | – | – |
+| Maranduba | R$ 5.333 | 9 | – | – | – | – |
+| Pedra Verde (Domingas Dias) | R$ 10.871 | 6 | – | – | – | – |
+| Perequê-Açu | R$ 6.488 | 15 | – | – | – | – |
+| Praia do Itamambuca | R$ 5.263 | 5 | – | – | – | – |
+| Praia do Sapê | R$ 5.500 | 5 | – | – | – | – |
+| Praia Dura | R$ 8.000 | 13 | – | – | – | – |
+| Toninhas | R$ 6.401 | 10 | – | – | – | – |
+| Ubatumirim | R$ 4.297 | 5 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 583/m² (n=25)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+
+### Salas comerciais, cidade toda: aluguel R$ 78,2/m²/mês (n=10)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Centro | – | – | R$ 70,0 | 9 | – | – |
 
 
 ## Aracaju (setembro/2026): https://acorridadosbairros.com.br/se/aracaju/
