@@ -187,7 +187,7 @@ var _saiu=0;document.addEventListener('visibilitychange',function(){if(document.
 })();</script>
 <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
 <script>window.OneSignalDeferred=window.OneSignalDeferred||[];OneSignalDeferred.push(async function(OneSignal){try{await OneSignal.init({appId:"7e9456d0-602c-48f8-bd6a-dfe74d340e22",serviceWorkerPath:"OneSignalSDKWorker.js",serviceWorkerParam:{scope:"/"},notifyButton:{enable:true,size:"small",position:"bottom-left",showCredit:false,text:{"tip.state.unsubscribed":"Receber o ranking do mês","tip.state.subscribed":"Você recebe o aviso do ranking do mês","tip.state.blocked":"Avisos bloqueados no navegador","message.prenotify":"Clique para receber o aviso do ranking do mês","message.action.subscribed":"Pronto! Você recebe o aviso quando o ranking sair","message.action.resubscribed":"Pronto! Você recebe o aviso do ranking do mês","message.action.unsubscribed":"Você não vai mais receber o aviso","dialog.main.title":"Avisos do ranking","dialog.main.button.subscribe":"Receber","dialog.main.button.unsubscribe":"Não receber","dialog.blocked.title":"Desbloqueie os avisos","dialog.blocked.message":"Siga as instruções para permitir os avisos:"}}});}catch(e){}});</script>
-<title>Política de Privacidade: A Corrida dos Bairros</title>
+<script>try{if(!_mqInt&&localStorage.getItem('mq_optout')!=='1'&&sessionStorage.getItem('mq_anuncio')){(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src='https://www.clarity.ms/tag/'+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,'clarity','script','yjjl18k10n');}}catch(e){}</script><title>Política de Privacidade: A Corrida dos Bairros</title>
 <meta name="description" content="O que a Corrida dos Bairros coleta no site e no conector de IA, para que usa, por quanto tempo guarda e como pedir exclusão. Contato do encarregado.">
 <meta property="og:title" content="Política de Privacidade: A Corrida dos Bairros">
 <meta property="og:description" content="O que a Corrida dos Bairros coleta no site e no conector de IA, para que usa, por quanto tempo guarda e como pedir exclusão. Contato do encarregado.">
@@ -482,6 +482,7 @@ uma linha diz "neste dia, tantos acessos deste programa neste tipo de página". 
 não guardamos o horário de cada visita, não criamos identificador nem cookie, e não há como reconstituir a navegação de ninguém.
 Quem desliga a medição no fim desta página também não é contado aqui.</p>
 <p><b>Tempo na página de quem chega por anúncio.</b> Quando a visita vem de um anúncio pago nosso (o endereço traz a marca <code>utm_medium=paid</code>), a página conta quantos segundos fica aberta na tela e avisa o mesmo servidor a cada 5 segundos, junto com o tipo de página, a campanha e se a calculadora chegou a mostrar um valor. Para juntar as páginas de uma mesma visita, o navegador sorteia um código que fica guardado só naquela aba (<code>sessionStorage</code>) e some quando ela é fechada. Não guardamos endereço IP, não usamos cookie, e esse código não se liga a nenhuma outra visita. Os registros são apagados depois de 90 dias. Nessas mesmas visitas registramos também o caminho dentro do site, na ordem: páginas abertas, cliques, quanto a página foi rolada, quando a pessoa sai e volta, e o que escolhe ou digita nos campos das ferramentas (estado, cidade, tipo de imóvel, bairro, área). Nenhum desses campos pede nome, telefone ou e-mail. Quem desliga a medição no fim desta página também não é contado.</p>
+<p><b>Gravação da visita de quem chega por anúncio.</b> Só nas visitas que vêm de um anúncio pago nosso (a mesma marca <code>utm_medium=paid</code>), a página carrega o Microsoft Clarity, que registra os movimentos na tela (rolagem, toques e cliques) para descobrirmos em que ponto a página atrapalha quem chega. Configuramos a ferramenta no modo mais restrito: <b>sem cookies</b>, com todo o texto da página mascarado e sem capturar o que é digitado nos campos. Ela não recebe nome, e-mail nem telefone, porque o site não pede nenhum deles. Quem chega por busca, por link ou direto <b>não é gravado</b>, e quem desliga a medição no fim desta página também não.</p>
 <p>O navegador guarda uma marca local (<code>localStorage</code>) para três coisas: excluir das estatísticas o acesso
 de quem trabalha na redação, lembrar por qual página você entrou e guardar a sua escolha de desligar a medição. Isso não sai do seu aparelho.</p>
 <h2 style="margin-top:22px">Com que base legal medimos audiência</h2>
@@ -499,13 +500,13 @@ que permita reconstruir quem perguntou. O uso desse registro é um só: saber qu
 para decidir o que apurar no mês seguinte e para publicar recortes agregados.</p>
 
 <h2 style="margin-top:22px">Com quem compartilhamos</h2>
-<p>Com ninguém, no nível individual. Os operadores que processam dados por nós são o Google Analytics (medição do site),
+<p>Com ninguém, no nível individual. Os operadores que processam dados por nós são o Google Analytics (medição do site), o Microsoft Clarity (gravação de tela, só em visita de anúncio),
 o GitHub Pages (hospedagem do site) e a Cloudflare (hospedagem do conector). Podemos publicar <b>números agregados</b>,
 por exemplo "o bairro mais consultado do mês", que por construção não identificam pessoa alguma.</p>
 <p>Botão "Falar com um corretor parceiro": o contato vai direto para o WhatsApp do corretor anunciante, por escolha sua. A partir daí ele é o responsável pelo que você enviar; nós não vemos a conversa e registramos apenas o clique, de forma agregada (parceiro e página), sem identificar você.</p>
 
 <h2 style="margin-top:22px">Por quanto tempo guardamos</h2>
-<p>As estatísticas do Google Analytics seguem a retenção padrão da ferramenta. Os registros do conector ficam
+<p>As estatísticas do Google Analytics seguem a retenção padrão da ferramenta. As gravações do Microsoft Clarity são apagadas pela ferramenta 30 dias depois de feitas. Os registros do conector ficam
 no serviço de logs da Cloudflare pelo prazo do plano e depois são descartados; o que preservamos é apenas a contagem agregada.</p>
 
 <h2 style="margin-top:22px">Seus direitos</h2>
