@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 100 cidades de Santa Catarina, São Paulo e mais 25 estados, Brasil, bairro por bairro, a partir de 613.132 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 101 cidades de Santa Catarina, São Paulo e mais 25 estados, Brasil, bairro por bairro, a partir de 613.687 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -11795,6 +11795,51 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Vila Progredior | R$ 10.400 | 5 | – | – | – | – |
 | Vila Prudente | R$ 11.004 | 6 | R$ 46,6 | 10 | 5,08% | – |
 | Vila Regente Feijó | – | – | R$ 69,4 | 6 | – | – |
+
+
+## Arujá (setembro/2026): https://acorridadosbairros.com.br/sp/aruja/
+
+### Apartamentos, cidade toda: venda R$ 9.729/m² (n=20)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Jordanópolis | R$ 9.763 | 9 | – | – | – | – |
+
+### Casas, cidade toda: venda R$ 8.070/m² (n=363); aluguel R$ 44,3/m²/mês (n=37); rendimento bruto do aluguel 6,59% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Aruja 5 | R$ 9.535 | 12 | – | – | – | – |
+| Arujá Country Club | R$ 5.494 | 5 | – | – | – | – |
+| Arujá Hills-3 | R$ 8.286 | 6 | – | – | – | – |
+| Arujázinho I, II e III | R$ 5.050 | 12 | – | – | – | – |
+| Caputera | R$ 6.391 | 37 | – | – | – | – |
+| Centro | R$ 5.538 | 28 | – | – | – | – |
+| Jardim das Cerejeiras | R$ 9.107 | 5 | – | – | – | – |
+| Jardim Fazenda Rincão | R$ 10.387 | 29 | – | – | – | – |
+| Jardim Fazenda Rincao - Aruja V | R$ 9.985 | 19 | – | – | – | – |
+| Jardim Imperial Hills III | R$ 7.699 | 26 | R$ 42,6 | 7 | 6,64% | – |
+| Parque Maringá | R$ 10.353 | 6 | – | – | – | – |
+| Perobal | R$ 5.000 | 9 | – | – | – | – |
+| Perová | R$ 9.480 | 18 | – | – | – | – |
+| Portão | R$ 4.370 | 8 | – | – | – | – |
+| Residencial Real Park | R$ 10.161 | 49 | R$ 62,0 | 5 | 7,32% | – |
+| São Bento | R$ 9.340 | 10 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 1.005/m² (n=82)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Caputera | R$ 1.148 | 6 | – | – | – | – |
+| Perobal | R$ 950 | 6 | – | – | – | – |
+| Perová | R$ 696 | 6 | – | – | – | – |
+| Portão | R$ 1.594 | 10 | – | – | – | – |
+| São Bento | R$ 531 | 7 | – | – | – | – |
+
+### Salas comerciais, cidade toda: venda R$ 17.262/m² (n=5)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
 
 
 ## Atibaia (setembro/2026): https://acorridadosbairros.com.br/sp/atibaia/
