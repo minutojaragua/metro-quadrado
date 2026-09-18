@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 102 cidades de Santa Catarina, São Paulo e mais 25 estados, Brasil, bairro por bairro, a partir de 614.208 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 103 cidades de Santa Catarina, São Paulo e mais 25 estados, Brasil, bairro por bairro, a partir de 614.648 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -8042,6 +8042,48 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 |---|---|---|---|---|---|---|
 | Centro | – | – | R$ 47,2 | 6 | – | – |
 | Itajuba | R$ 11.311 | 7 | R$ 56,8 | 19 | 6,03% | – |
+
+
+## Biguaçu (setembro/2026): https://acorridadosbairros.com.br/biguacu/
+
+### Apartamentos, cidade toda: venda R$ 7.009/m² (n=125); aluguel R$ 33,7/m²/mês (n=20); rendimento bruto do aluguel 5,77% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Bom Viver | R$ 6.758 | 5 | – | – | – | – |
+| Centro | R$ 9.165 | 35 | – | – | – | – |
+| Fundos | R$ 6.492 | 15 | R$ 35,6 | 7 | 6,58% | – |
+| Jardim Janaína | R$ 6.146 | 9 | – | – | – | – |
+| Praia João Rosa | R$ 8.419 | 17 | – | – | – | – |
+| Rio Caveiras | R$ 6.565 | 27 | – | – | – | – |
+| Vendaval | R$ 6.071 | 5 | – | – | – | – |
+
+### Casas, cidade toda: venda R$ 6.758/m² (n=184)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Beira Rio | R$ 7.222 | 61 | – | – | – | – |
+| Bom Viver | R$ 5.289 | 10 | – | – | – | – |
+| Centro | R$ 6.522 | 7 | – | – | – | – |
+| Deltaville | R$ 7.279 | 36 | – | – | – | – |
+| Fundos | R$ 6.162 | 14 | – | – | – | – |
+| Jardim Janaína | R$ 6.071 | 9 | – | – | – | – |
+| Praia João Rosa | R$ 2.850 | 6 | – | – | – | – |
+| Rio Caveiras | R$ 7.180 | 11 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 1.500/m² (n=111)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Beira Rio | R$ 1.600 | 39 | – | – | – | – |
+| Deltaville | R$ 1.670 | 20 | – | – | – | – |
+| Fundos | R$ 1.105 | 6 | – | – | – | – |
+| Jardim Janaína | R$ 742 | 10 | – | – | – | – |
+
+### Salas comerciais, cidade toda: 
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
 
 
 ## Blumenau (setembro/2026): https://acorridadosbairros.com.br/blumenau/
