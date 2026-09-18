@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 99 cidades de Santa Catarina, São Paulo e mais 25 estados, Brasil, bairro por bairro, a partir de 612.773 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 100 cidades de Santa Catarina, São Paulo e mais 25 estados, Brasil, bairro por bairro, a partir de 613.132 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -5047,6 +5047,39 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | São José | – | – | R$ 41,2 | 6 | – | – |
 | Tamarineira | R$ 9.231 | 7 | R$ 68,0 | 9 | 8,84% | – |
 | Torre | – | – | R$ 50,0 | 7 | – | – |
+
+
+## Ipojuca (setembro/2026): https://acorridadosbairros.com.br/pe/ipojuca/
+
+### Apartamentos, cidade toda: venda R$ 14.000/m² (n=225); aluguel R$ 85,7/m²/mês (n=41); rendimento bruto do aluguel 7,35% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Centro | R$ 16.116 | 14 | – | – | – | – |
+| Cupe | R$ 9.077 | 5 | – | – | – | – |
+| Merepe | R$ 11.250 | 5 | – | – | – | – |
+| Muro Alto | R$ 14.643 | 77 | R$ 77,1 | 27 | 6,32% | – |
+| Nossa Senhora do Ó | R$ 15.393 | 8 | – | – | – | – |
+| Porto de Galinhas | R$ 13.774 | 73 | R$ 106,9 | 10 | 9,31% | – |
+| Praia Muro Alto | R$ 10.857 | 15 | – | – | – | – |
+
+### Casas, cidade toda: venda R$ 12.667/m² (n=79); aluguel R$ 8,6/m²/mês (n=9); rendimento bruto do aluguel 0,81% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Enseada de Serrambi | R$ 9.900 | 6 | – | – | – | – |
+| Muro Alto | R$ 18.517 | 21 | R$ 10,2 | 8 | 0,66% | – |
+| Porto de Galinhas | R$ 7.600 | 17 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 3.704/m² (n=5)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+
+### Salas comerciais, cidade toda: 
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
 
 
 ## Jaboatão dos Guararapes (setembro/2026): https://acorridadosbairros.com.br/pe/jaboatao-dos-guararapes/
