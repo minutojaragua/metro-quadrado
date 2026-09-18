@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 104 cidades de Santa Catarina, São Paulo e mais 25 estados, Brasil, bairro por bairro, a partir de 615.003 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 105 cidades de Santa Catarina, São Paulo e mais 25 estados, Brasil, bairro por bairro, a partir de 615.227 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -7274,6 +7274,41 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | São Jerônimo | – | – | R$ 36,7 | 5 | – | – |
 | São Vicente | – | – | R$ 43,4 | 8 | – | – |
 | Vera Cruz | – | – | R$ 28,1 | 7 | – | – |
+
+
+## Nova Santa Rita (setembro/2026): https://acorridadosbairros.com.br/rs/nova-santa-rita/
+
+### Apartamentos, cidade toda: 
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+
+### Casas, cidade toda: venda R$ 7.004/m² (n=123)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Berto Círio | R$ 4.547 | 13 | – | – | – | – |
+| Cajú | R$ 3.000 | 5 | – | – | – | – |
+| Califórnia | R$ 3.211 | 10 | – | – | – | – |
+| Centro | R$ 6.177 | 28 | – | – | – | – |
+| Cidade | R$ 8.140 | 19 | – | – | – | – |
+| Legano Bairro Cidade | R$ 9.326 | 5 | – | – | – | – |
+| Sanga Funda | R$ 7.897 | 21 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 702/m² (n=101)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Berto Círio | R$ 456 | 25 | – | – | – | – |
+| Califórnia | R$ 463 | 10 | – | – | – | – |
+| Centro | R$ 712 | 23 | – | – | – | – |
+| Legano Reserva | R$ 1.060 | 5 | – | – | – | – |
+| Sanga Funda | R$ 762 | 14 | – | – | – | – |
+
+### Salas comerciais, cidade toda: 
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
 
 
 ## Novo Hamburgo (setembro/2026): https://acorridadosbairros.com.br/rs/novo-hamburgo/
