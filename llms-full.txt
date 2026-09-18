@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 103 cidades de Santa Catarina, São Paulo e mais 25 estados, Brasil, bairro por bairro, a partir de 614.648 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 104 cidades de Santa Catarina, São Paulo e mais 25 estados, Brasil, bairro por bairro, a partir de 615.003 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -155,6 +155,44 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Pajuçara | – | – | R$ 108,7 | 5 | – | – |
 | Pinheiro | – | – | R$ 66,5 | 6 | – | – |
 | Serraria | – | – | R$ 65,3 | 6 | – | – |
+
+
+## Marechal Deodoro (setembro/2026): https://acorridadosbairros.com.br/al/marechal-deodoro/
+
+### Apartamentos, cidade toda: venda R$ 9.309/m² (n=34); aluguel R$ 44,2/m²/mês (n=5); rendimento bruto do aluguel 5,70% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Francês | R$ 9.966 | 8 | – | – | – | – |
+| Praia do Francês | R$ 11.512 | 16 | – | – | – | – |
+
+### Casas, cidade toda: venda R$ 5.492/m² (n=197)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Barra Nova | R$ 6.742 | 51 | – | – | – | – |
+| Centro | R$ 5.443 | 14 | – | – | – | – |
+| Francês | R$ 5.139 | 17 | – | – | – | – |
+| Marechal Deodoro | R$ 5.357 | 21 | – | – | – | – |
+| Massagueira | R$ 5.235 | 16 | – | – | – | – |
+| Massagueira de Baixo | R$ 5.522 | 5 | – | – | – | – |
+| Povoado Barra Nova | R$ 4.601 | 9 | – | – | – | – |
+| Praia do Francês | R$ 5.715 | 16 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 1.024/m² (n=119)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Barra Nova | R$ 1.158 | 45 | – | – | – | – |
+| Centro | R$ 724 | 6 | – | – | – | – |
+| Marechal Deodoro | R$ 547 | 8 | – | – | – | – |
+| Massagueira | R$ 724 | 15 | – | – | – | – |
+| Praia do Francês | R$ 1.104 | 5 | – | – | – | – |
+
+### Salas comerciais, cidade toda: 
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
 
 
 ## Macapá (setembro/2026): https://acorridadosbairros.com.br/ap/macapa/
