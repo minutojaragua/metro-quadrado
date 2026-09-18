@@ -1,6 +1,6 @@
 # A Corrida dos Bairros
 
-**O preço do metro quadrado, bairro por bairro, em 67 cidades brasileiras.**
+**O preço do metro quadrado, bairro por bairro, em 103 cidades brasileiras.**
 Site: **https://acorridadosbairros.com.br**
 
 Projeto de jornalismo de dados do [Minuto Jaraguá](https://www.instagram.com/minutojaragua/).
@@ -21,6 +21,39 @@ até lá, para que ninguém encontre um valor diferente a cada visita.
 | Metodologia | como o número é apurado, com os filtros e os limites | [/metodologia/](https://acorridadosbairros.com.br/metodologia/) |
 
 Tipos cobertos: apartamento, casa, terreno, sala comercial e galpão, em venda e em aluguel.
+
+## Cidades cobertas
+
+103 cidades em 28 estados. Cada link abre a página da cidade, com o ranking dos bairros e a série mensal.
+
+- **AC**: [Rio Branco](https://acorridadosbairros.com.br/ac/rio-branco/)
+- **AL**: [Maceió](https://acorridadosbairros.com.br/al/maceio/)
+- **AM**: [Manaus](https://acorridadosbairros.com.br/am/manaus/)
+- **AP**: [Macapá](https://acorridadosbairros.com.br/ap/macapa/)
+- **BA**: [Camaçari](https://acorridadosbairros.com.br/ba/camacari/), [Lauro de Freitas](https://acorridadosbairros.com.br/ba/lauro-de-freitas/), [Salvador](https://acorridadosbairros.com.br/ba/salvador/)
+- **CE**: [Aquiraz](https://acorridadosbairros.com.br/ce/aquiraz/), [Caucaia](https://acorridadosbairros.com.br/ce/caucaia/), [Eusébio](https://acorridadosbairros.com.br/ce/eusebio/), [Fortaleza](https://acorridadosbairros.com.br/ce/fortaleza/)
+- **DF**: [Brasília](https://acorridadosbairros.com.br/df/brasilia/)
+- **ES**: [Serra](https://acorridadosbairros.com.br/es/serra/), [Vila Velha](https://acorridadosbairros.com.br/es/vila-velha/), [Vitória](https://acorridadosbairros.com.br/es/vitoria/)
+- **GO**: [Aparecida de Goiânia](https://acorridadosbairros.com.br/go/aparecida-de-goiania/), [Goiânia](https://acorridadosbairros.com.br/go/goiania/)
+- **MA**: [São Luís](https://acorridadosbairros.com.br/ma/sao-luis/)
+- **MG**: [Belo Horizonte](https://acorridadosbairros.com.br/mg/belo-horizonte/), [Uberaba](https://acorridadosbairros.com.br/mg/uberaba/)
+- **MS**: [Campo Grande](https://acorridadosbairros.com.br/ms/campo-grande/)
+- **MT**: [Cuiabá](https://acorridadosbairros.com.br/mt/cuiaba/), [Várzea Grande](https://acorridadosbairros.com.br/mt/varzea-grande/)
+- **PA**: [Belém](https://acorridadosbairros.com.br/pa/belem/)
+- **PB**: [Cabedelo](https://acorridadosbairros.com.br/pb/cabedelo/), [João Pessoa](https://acorridadosbairros.com.br/pb/joao-pessoa/)
+- **PE**: [Jaboatão dos Guararapes](https://acorridadosbairros.com.br/pe/jaboatao-dos-guararapes/), [Recife](https://acorridadosbairros.com.br/pe/recife/)
+- **PI**: [Teresina](https://acorridadosbairros.com.br/pi/teresina/)
+- **PR**: [Cascavel](https://acorridadosbairros.com.br/pr/cascavel/), [Curitiba](https://acorridadosbairros.com.br/pr/curitiba/), [Ponta Grossa](https://acorridadosbairros.com.br/pr/ponta-grossa/)
+- **RANKING**: [Capitais](https://acorridadosbairros.com.br/ranking/capitais/)
+- **RJ**: [Belford Roxo](https://acorridadosbairros.com.br/rj/belford-roxo/), [Duque de Caxias](https://acorridadosbairros.com.br/rj/duque-de-caxias/), [Niterói](https://acorridadosbairros.com.br/rj/niteroi/), [Nova Iguaçu](https://acorridadosbairros.com.br/rj/nova-iguacu/), [Rio de Janeiro](https://acorridadosbairros.com.br/rj/rio-de-janeiro/), [São Gonçalo](https://acorridadosbairros.com.br/rj/sao-goncalo/)
+- **RN**: [Natal](https://acorridadosbairros.com.br/rn/natal/), [Parnamirim](https://acorridadosbairros.com.br/rn/parnamirim/)
+- **RO**: [Porto Velho](https://acorridadosbairros.com.br/ro/porto-velho/)
+- **RR**: [Boa Vista](https://acorridadosbairros.com.br/rr/boa-vista/)
+- **RS**: [Cachoeirinha](https://acorridadosbairros.com.br/rs/cachoeirinha/), [Canoas](https://acorridadosbairros.com.br/rs/canoas/), [Estância Velha](https://acorridadosbairros.com.br/rs/estancia-velha/), [Gravataí](https://acorridadosbairros.com.br/rs/gravatai/), [Novo Hamburgo](https://acorridadosbairros.com.br/rs/novo-hamburgo/), [Porto Alegre](https://acorridadosbairros.com.br/rs/porto-alegre/), [Viamão](https://acorridadosbairros.com.br/rs/viamao/)
+- **SC**: [Araquari](https://acorridadosbairros.com.br/araquari/), [Balneário Camboriú](https://acorridadosbairros.com.br/balneario-camboriu/), [Balneário Piçarras](https://acorridadosbairros.com.br/balneario-picarras/), [Barra Velha](https://acorridadosbairros.com.br/barra-velha/), [Blumenau](https://acorridadosbairros.com.br/blumenau/), [Brusque](https://acorridadosbairros.com.br/brusque/), [Chapecó](https://acorridadosbairros.com.br/chapeco/), [Corupá](https://acorridadosbairros.com.br/corupa/), [Criciúma](https://acorridadosbairros.com.br/criciuma/), [Florianópolis](https://acorridadosbairros.com.br/florianopolis/), [Guabiruba](https://acorridadosbairros.com.br/guabiruba/), [Guaramirim](https://acorridadosbairros.com.br/guaramirim/), [Imprensa](https://acorridadosbairros.com.br/imprensa/), [Informe](https://acorridadosbairros.com.br/informe/), [Inquilino Ou Dono](https://acorridadosbairros.com.br/inquilino-ou-dono/), [Itajaí](https://acorridadosbairros.com.br/itajai/), [Itapema](https://acorridadosbairros.com.br/itapema/), [Itapoá](https://acorridadosbairros.com.br/itapoa/), [Joinville](https://acorridadosbairros.com.br/joinville/), [Lages](https://acorridadosbairros.com.br/lages/), [Massaranduba](https://acorridadosbairros.com.br/massaranduba/), [Minha Casa Minha Vida](https://acorridadosbairros.com.br/minha-casa-minha-vida/), [Navegantes](https://acorridadosbairros.com.br/navegantes/), [Palhoça](https://acorridadosbairros.com.br/palhoca/), [Penha](https://acorridadosbairros.com.br/penha/), [Pomerode](https://acorridadosbairros.com.br/pomerode/), [Porto Belo](https://acorridadosbairros.com.br/porto-belo/), [Privacidade](https://acorridadosbairros.com.br/privacidade/), [Quem Somos](https://acorridadosbairros.com.br/quem-somos/), [Schroeder](https://acorridadosbairros.com.br/schroeder/), [São Bento do Sul](https://acorridadosbairros.com.br/sao-bento-do-sul/), [São Francisco do Sul](https://acorridadosbairros.com.br/sao-francisco-do-sul/), [São José](https://acorridadosbairros.com.br/sao-jose/)
+- **SE**: [Aracaju](https://acorridadosbairros.com.br/se/aracaju/), [Barra dos Coqueiros](https://acorridadosbairros.com.br/se/barra-dos-coqueiros/)
+- **SP**: [Atibaia](https://acorridadosbairros.com.br/sp/atibaia/), [Campinas](https://acorridadosbairros.com.br/sp/campinas/), [Caçapava](https://acorridadosbairros.com.br/sp/cacapava/), [Guarulhos](https://acorridadosbairros.com.br/sp/guarulhos/), [Jacareí](https://acorridadosbairros.com.br/sp/jacarei/), [Jundiaí](https://acorridadosbairros.com.br/sp/jundiai/), [Limeira](https://acorridadosbairros.com.br/sp/limeira/), [Mirassol](https://acorridadosbairros.com.br/sp/mirassol/), [Piracicaba](https://acorridadosbairros.com.br/sp/piracicaba/), [Santo André](https://acorridadosbairros.com.br/sp/santo-andre/), [Santos](https://acorridadosbairros.com.br/sp/santos/), [São Bernardo do Campo](https://acorridadosbairros.com.br/sp/sao-bernardo-do-campo/), [São Caetano do Sul](https://acorridadosbairros.com.br/sp/sao-caetano-do-sul/), [São José do Rio Preto](https://acorridadosbairros.com.br/sp/sao-jose-do-rio-preto/), [São José dos Campos](https://acorridadosbairros.com.br/sp/sao-jose-dos-campos/), [São Paulo](https://acorridadosbairros.com.br/sp/sao-paulo/), [Ubatuba](https://acorridadosbairros.com.br/sp/ubatuba/)
+- **TO**: [Palmas](https://acorridadosbairros.com.br/to/palmas/)
 
 ## Para máquinas
 
