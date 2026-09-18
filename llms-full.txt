@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 107 cidades de Santa Catarina, São Paulo e mais 25 estados, Brasil, bairro por bairro, a partir de 615.693 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 108 cidades de Santa Catarina, São Paulo e mais 25 estados, Brasil, bairro por bairro, a partir de 616.004 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -6029,6 +6029,46 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Chácaras Rio-Petrópolis | – | – | R$ 22,2 | 5 | – | – |
 | Jardim Vinte e Cinco de Agosto | R$ 6.905 | 20 | R$ 33,2 | 19 | 5,77% | – |
 | Santa Cruz da Serra | – | – | R$ 75,0 | 5 | – | – |
+
+
+## Maricá (setembro/2026): https://acorridadosbairros.com.br/rj/marica/
+
+### Apartamentos, cidade toda: venda R$ 4.026/m² (n=12)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+
+### Casas, cidade toda: venda R$ 4.217/m² (n=202)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Barroco | R$ 4.241 | 6 | – | – | – | – |
+| Barroco (Itaipuaçu) | R$ 4.454 | 7 | – | – | – | – |
+| Chácaras de Inoã (Inoã) | R$ 4.114 | 6 | – | – | – | – |
+| Inoã | R$ 4.582 | 24 | – | – | – | – |
+| Inoã (Inoã) | R$ 4.425 | 8 | – | – | – | – |
+| Itaipuaçu | R$ 3.771 | 26 | – | – | – | – |
+| Itapeba | R$ 3.461 | 6 | – | – | – | – |
+| Jardim Atlântico | R$ 4.627 | 7 | – | – | – | – |
+| Jardim Atlântico Central (Itaipuaçu) | R$ 4.000 | 9 | – | – | – | – |
+| Jardim Atlântico Leste (Itaipuaçu) | R$ 5.079 | 10 | – | – | – | – |
+| Jardim Atlântico Oeste (Itaipuaçu) | R$ 4.605 | 6 | – | – | – | – |
+| São José do Imbassaí | R$ 4.467 | 18 | – | – | – | – |
+| Ubatiba | R$ 4.714 | 11 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 306/m² (n=97)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Itaipuaçu | R$ 365 | 19 | – | – | – | – |
+| Ponta Negra | R$ 333 | 7 | – | – | – | – |
+| São José do Imbassaí | R$ 264 | 10 | – | – | – | – |
+| Ubatiba | R$ 183 | 5 | – | – | – | – |
+
+### Salas comerciais, cidade toda: 
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
 
 
 ## Niterói (setembro/2026): https://acorridadosbairros.com.br/rj/niteroi/
