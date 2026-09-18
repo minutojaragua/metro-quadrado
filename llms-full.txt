@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 97 cidades de Acre, Alagoas e mais 25 estados, Brasil, bairro por bairro, a partir de 611.785 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 98 cidades de Santa Catarina, São Paulo e mais 25 estados, Brasil, bairro por bairro, a partir de 612.193 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -2554,6 +2554,44 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Residencial Paiaguás | R$ 14.118 | 9 | R$ 90,9 | 10 | 7,73% | – |
 | Ribeirão da Ponte | – | – | R$ 70,2 | 5 | – | – |
 | Santa Rosa | – | – | R$ 89,6 | 10 | – | – |
+
+
+## Chapada dos Guimarães (setembro/2026): https://acorridadosbairros.com.br/mt/chapada-dos-guimaraes/
+
+### Apartamentos, cidade toda: 
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+
+### Casas, cidade toda: venda R$ 5.072/m² (n=241)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Aldeia Velha | R$ 5.500 | 13 | – | – | – | – |
+| Bom Clima | R$ 5.303 | 59 | – | – | – | – |
+| Centro | R$ 4.390 | 50 | – | – | – | – |
+| Chapada dos Guimarães | R$ 6.500 | 29 | – | – | – | – |
+| Florada da Serra | R$ 2.812 | 10 | – | – | – | – |
+| Manso | R$ 4.494 | 7 | – | – | – | – |
+| Miraflores | R$ 5.012 | 11 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 561/m² (n=167)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Aldeia Velha | R$ 581 | 9 | – | – | – | – |
+| Bom Clima | R$ 800 | 15 | – | – | – | – |
+| Centro | R$ 600 | 35 | – | – | – | – |
+| Chapada dos Guimarães | R$ 553 | 23 | – | – | – | – |
+| Florada da Serra | R$ 333 | 6 | – | – | – | – |
+| Florais Chapada | R$ 1.510 | 15 | – | – | – | – |
+| Lago do Manso | R$ 384 | 9 | – | – | – | – |
+| Manso | R$ 150 | 11 | – | – | – | – |
+
+### Salas comerciais, cidade toda: 
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
 
 
 ## Várzea Grande (setembro/2026): https://acorridadosbairros.com.br/mt/varzea-grande/
