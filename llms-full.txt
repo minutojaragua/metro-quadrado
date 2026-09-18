@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 98 cidades de Santa Catarina, São Paulo e mais 25 estados, Brasil, bairro por bairro, a partir de 612.193 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 99 cidades de Santa Catarina, São Paulo e mais 25 estados, Brasil, bairro por bairro, a partir de 612.773 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -2116,6 +2116,61 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Vila Oliveira | R$ 599 | 13 | – | – | – | – |
 
 ### Salas comerciais, cidade toda: venda R$ 8.619/m² (n=5); aluguel R$ 42,4/m²/mês (n=9); rendimento bruto do aluguel 5,90% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+
+
+## Senador Canedo (setembro/2026): https://acorridadosbairros.com.br/go/senador-canedo/
+
+### Apartamentos, cidade toda: 
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+
+### Casas, cidade toda: venda R$ 6.554/m² (n=276); aluguel R$ 37,5/m²/mês (n=13); rendimento bruto do aluguel 6,87% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Jardim Veneza | R$ 6.667 | 9 | – | – | – | – |
+| Jardins Barcelona | R$ 7.890 | 22 | – | – | – | – |
+| Jardins Bolonha | R$ 7.353 | 30 | – | – | – | – |
+| Jardins Capri | R$ 7.569 | 27 | – | – | – | – |
+| Jardins Frankfurt | R$ 2.305 | 5 | – | – | – | – |
+| Jardins Nápoles | R$ 8.108 | 15 | – | – | – | – |
+| Jardins Parma | R$ 8.118 | 6 | – | – | – | – |
+| Jardins Porto | R$ 7.776 | 16 | – | – | – | – |
+| Residencial Condomínio Jardim Veneza | R$ 4.500 | 9 | – | – | – | – |
+| Residencial Marília | R$ 5.051 | 12 | – | – | – | – |
+| Residencial Morada do Bosque | R$ 8.889 | 5 | – | – | – | – |
+| Residencial Ravena | R$ 4.000 | 5 | – | – | – | – |
+| Residencial Vale Verde | R$ 6.500 | 5 | – | – | – | – |
+| Terras Alpha 1 | R$ 6.816 | 6 | – | – | – | – |
+| Terras Alpha Residencial 1 | R$ 5.816 | 8 | – | – | – | – |
+| Terras Alpha Residencial 2 | R$ 6.490 | 5 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 890/m² (n=282)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Estância Vargem Bonita | R$ 500 | 7 | – | – | – | – |
+| Jardins Barcelona | R$ 1.009 | 11 | – | – | – | – |
+| Jardins Bolonha | R$ 1.000 | 7 | – | – | – | – |
+| Jardins Capri | R$ 1.000 | 17 | – | – | – | – |
+| Jardins Nápoles | R$ 872 | 12 | – | – | – | – |
+| Jardins Parma | R$ 937 | 22 | – | – | – | – |
+| Jardins Porto | R$ 991 | 23 | – | – | – | – |
+| Jardins Roma | R$ 1.398 | 6 | – | – | – | – |
+| Jardins Turim | R$ 1.385 | 8 | – | – | – | – |
+| Residencial Marília | R$ 1.400 | 9 | – | – | – | – |
+| Solaris Laguna | R$ 1.139 | 5 | – | – | – | – |
+| Terras Alpha 1 | R$ 583 | 7 | – | – | – | – |
+| Terras Alpha 2 | R$ 628 | 18 | – | – | – | – |
+| Terras Alpha Residencial 1 | R$ 542 | 7 | – | – | – | – |
+| Terras Alpha Residencial 2 | R$ 562 | 10 | – | – | – | – |
+| Vinhas Flamboyant | R$ 1.483 | 10 | – | – | – | – |
+
+### Salas comerciais, cidade toda: 
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
