@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 106 cidades de Santa Catarina, São Paulo e mais 25 estados, Brasil, bairro por bairro, a partir de 615.415 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 107 cidades de Santa Catarina, São Paulo e mais 25 estados, Brasil, bairro por bairro, a partir de 615.693 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -4191,6 +4191,47 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Pedreira | R$ 10.747 | 11 | – | – | – | – |
 | São Brás | – | – | R$ 83,3 | 5 | – | – |
 | Umarizal | R$ 13.022 | 12 | R$ 95,0 | 25 | 8,75% | – |
+
+
+## Ananindeua (setembro/2026): https://acorridadosbairros.com.br/pa/ananindeua/
+
+### Apartamentos, cidade toda: venda R$ 5.060/m² (n=65); aluguel R$ 39,5/m²/mês (n=13); rendimento bruto do aluguel 9,37% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Atalaia | R$ 5.000 | 7 | – | – | – | – |
+| Centro | R$ 5.784 | 10 | – | – | – | – |
+| Coqueiro | R$ 4.926 | 14 | – | – | – | – |
+| Guanabara | R$ 5.696 | 9 | – | – | – | – |
+| Quarenta Horas (Coqueiro) | R$ 5.273 | 7 | – | – | – | – |
+
+### Casas, cidade toda: venda R$ 4.667/m² (n=126); aluguel R$ 28,8/m²/mês (n=10); rendimento bruto do aluguel 7,41% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Águas Brancas | R$ 3.375 | 6 | – | – | – | – |
+| Águas Lindas | R$ 3.167 | 9 | – | – | – | – |
+| Atalaia | R$ 7.000 | 10 | – | – | – | – |
+| Centro | R$ 5.920 | 22 | – | – | – | – |
+| Cidade Nova | R$ 3.100 | 7 | – | – | – | – |
+| Coqueiro | R$ 3.670 | 15 | – | – | – | – |
+| Guanabara | R$ 5.179 | 18 | – | – | – | – |
+| Levilândia | R$ 3.642 | 10 | – | – | – | – |
+| Maguari | R$ 6.139 | 7 | – | – | – | – |
+| Quarenta Horas (Coqueiro) | R$ 4.667 | 19 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 435/m² (n=32)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Águas Lindas | R$ 885 | 5 | – | – | – | – |
+| Coqueiro | R$ 449 | 8 | – | – | – | – |
+| Marituba | R$ 202 | 5 | – | – | – | – |
+
+### Salas comerciais, cidade toda: 
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
 
 
 ## João Pessoa (setembro/2026): https://acorridadosbairros.com.br/pb/joao-pessoa/
