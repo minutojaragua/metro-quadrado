@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 108 cidades de Santa Catarina, São Paulo e mais 25 estados, Brasil, bairro por bairro, a partir de 616.004 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 109 cidades de Santa Catarina, São Paulo e mais 25 estados, Brasil, bairro por bairro, a partir de 616.186 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -6069,6 +6069,44 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
+
+
+## Mesquita (setembro/2026): https://acorridadosbairros.com.br/rj/mesquita/
+
+### Apartamentos, cidade toda: venda R$ 2.987/m² (n=23); aluguel R$ 18,0/m²/mês (n=5); rendimento bruto do aluguel 7,23% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Centro | R$ 3.333 | 7 | – | – | – | – |
+| Cosmorama | R$ 2.472 | 5 | – | – | – | – |
+
+### Casas, cidade toda: venda R$ 2.595/m² (n=98); aluguel R$ 15,0/m²/mês (n=9); rendimento bruto do aluguel 6,94% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Bnh | R$ 2.550 | 10 | – | – | – | – |
+| Centro | R$ 2.572 | 16 | – | – | – | – |
+| Coréia | R$ 2.386 | 6 | – | – | – | – |
+| Cosmorama | R$ 3.848 | 8 | – | – | – | – |
+| Edson Passos | R$ 2.923 | 6 | – | – | – | – |
+| Juscelino | R$ 2.375 | 5 | – | – | – | – |
+| Rocha Sobrinho | R$ 3.001 | 5 | – | – | – | – |
+| Santa Terezinha | R$ 1.778 | 8 | – | – | – | – |
+| Santo Elias | R$ 3.667 | 5 | – | – | – | – |
+| Vila Emil | R$ 2.575 | 12 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 1.111/m² (n=26)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Centro | R$ 1.000 | 5 | – | – | – | – |
+| Edson Passos | R$ 1.111 | 5 | – | – | – | – |
+
+### Salas comerciais, cidade toda: aluguel R$ 38,8/m²/mês (n=10)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Centro | – | – | R$ 41,7 | 8 | – | – |
 
 
 ## Niterói (setembro/2026): https://acorridadosbairros.com.br/rj/niteroi/
