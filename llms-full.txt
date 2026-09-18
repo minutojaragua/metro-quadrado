@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 101 cidades de Santa Catarina, São Paulo e mais 25 estados, Brasil, bairro por bairro, a partir de 613.687 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
+> O preço do m² de 102 cidades de Santa Catarina, São Paulo e mais 25 estados, Brasil, bairro por bairro, a partir de 614.208 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (setembro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, setembro/2026. https://acorridadosbairros.com.br
 
@@ -6751,6 +6751,58 @@ Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúnc
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
 | Vila Santo Ângelo | – | – | R$ 36,9 | 5 | – | – |
+
+
+## Campo Bom (setembro/2026): https://acorridadosbairros.com.br/rs/campo-bom/
+
+### Apartamentos, cidade toda: venda R$ 5.850/m² (n=95)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| 25 de Julho | R$ 5.634 | 8 | – | – | – | – |
+| Blumenburg | R$ 5.500 | 5 | – | – | – | – |
+| Centro | R$ 6.547 | 59 | – | – | – | – |
+
+### Casas, cidade toda: venda R$ 5.544/m² (n=319)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Bela Vista | R$ 5.507 | 10 | – | – | – | – |
+| Benevento | R$ 6.636 | 9 | – | – | – | – |
+| Blumenburg | R$ 4.710 | 8 | – | – | – | – |
+| Celeste | R$ 4.022 | 6 | – | – | – | – |
+| Centro | R$ 6.385 | 37 | – | – | – | – |
+| Colina Deuner | R$ 7.118 | 13 | – | – | – | – |
+| Firenze | R$ 6.109 | 33 | – | – | – | – |
+| Genuíno Sampaio | R$ 6.340 | 9 | – | – | – | – |
+| Imigrante | R$ 4.217 | 24 | – | – | – | – |
+| Imigrante Norte | R$ 4.819 | 14 | – | – | – | – |
+| Imigrante Sul | R$ 5.376 | 10 | – | – | – | – |
+| Ipiranga | R$ 5.014 | 6 | – | – | – | – |
+| Jardim do Sol | R$ 5.594 | 20 | – | – | – | – |
+| Metzler | R$ 5.788 | 23 | – | – | – | – |
+| Paulista | R$ 5.667 | 7 | – | – | – | – |
+| Santa Lucia | R$ 5.215 | 13 | – | – | – | – |
+| Santo Antônio | R$ 4.476 | 8 | – | – | – | – |
+| Solar do Campo | R$ 5.583 | 28 | – | – | – | – |
+| Vila Velha | R$ 6.738 | 10 | – | – | – | – |
+
+### Terrenos, cidade toda: venda R$ 646/m² (n=107)
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Centro | R$ 1.163 | 10 | – | – | – | – |
+| Firenze | R$ 721 | 8 | – | – | – | – |
+| Imigrante | R$ 582 | 15 | – | – | – | – |
+| Imigrante Norte | R$ 507 | 10 | – | – | – | – |
+| Metzler | R$ 710 | 5 | – | – | – | – |
+| Quatro Colônias | R$ 695 | 17 | – | – | – | – |
+| Santa Lucia | R$ 540 | 5 | – | – | – | – |
+
+### Salas comerciais, cidade toda: 
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
 
 
 ## Canoas (setembro/2026): https://acorridadosbairros.com.br/rs/canoas/
