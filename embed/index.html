@@ -1,0 +1,22 @@
+<!DOCTYPE html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,follow"><title>Preço do m² por bairro: A Corrida dos Bairros</title><link rel="canonical" href="https://acorridadosbairros.com.br/widget/"><style>*{margin:0;box-sizing:border-box}body{font-family:-apple-system,Segoe UI,Roboto,sans-serif;color:#1a1a1a;background:#fff}#c{border:1px solid #e8e6e0;border-left:6px solid #FFD400;border-radius:10px;padding:12px 14px;min-height:150px}.t{font-size:13px;font-weight:600;color:#444}.n{font-size:30px;font-weight:700;letter-spacing:-.5px;margin:2px 0}.n small{font-size:15px;font-weight:500;color:#666}.s{font-size:12.5px;color:#444;line-height:1.45}.r{font-size:11px;color:#666;margin-top:8px}a{color:#1a1a1a}</style></head><body><div id="c">carregando…</div><script>
+(function(){
+var q=new URLSearchParams(location.search),p=(q.get('p')||'').replace(/[^a-z0-9\/\-\.]/g,''),B='https://acorridadosbairros.com.br/';
+var m=p.match(/^((?:[a-z]{2}\/)?[a-z0-9\-]+\/)?bairro\/([a-z0-9\-]+)\.html$/),el=document.getElementById('c');
+function sl(t){return t.normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase().replace(/ /g,'-').replace(/[^a-z0-9\-]/g,'');}
+function f(v,d){return Number(v).toLocaleString('pt-BR',{minimumFractionDigits:d||0,maximumFractionDigits:d||0});}
+function erro(){el.innerHTML='<a target="_blank" rel="noopener" href="'+B+'">Preço do m² por bairro: A Corrida dos Bairros</a>';}
+if(!m){erro();return;}
+fetch(B+(m[1]||'')+'dados.json').then(function(r){return r.json();}).then(function(d){
+ var ord=[['apartamento','apartamentos'],['casa','casas'],['terreno','terrenos']],ach=null,nome=null;
+ for(var i=0;i<ord.length&&!ach;i++){var bs=((d.segmentos||{})[ord[i][0]]||{}).bairros||{};
+  for(var k in bs){if(sl(k)===m[2]&&bs[k].venda&&bs[k].venda.n>=5){ach=[bs[k],ord[i][1]];nome=k;break;}}}
+ if(!ach){erro();return;}
+ var v=ach[0].venda,a=ach[0].aluguel,cid=(d.cidade||'').split('/')[0].trim(),h=B+p;
+ el.innerHTML='<div class="t">Preço do m² · '+nome+', '+cid+'</div>'
+  +'<div class="n">R$ '+f(v.mediana)+'<small>/m²</small></div>'
+  +'<div class="s">'+ach[1]+' à venda · faixa típica R$ '+f(v.p25)+' a R$ '+f(v.p75)+' · '+f(v.n)+' anúncios</div>'
+  +(a&&a.n>=5?'<div class="s">aluguel R$ '+f(a.mediana,1)+'/m² ao mês</div>':'')
+  +'<div class="r">'+d.coleta+' · mediana de anúncios públicos · <a target="_blank" rel="noopener" href="'+h+'">A Corrida dos Bairros</a></div>';
+}).catch(erro);
+})();
+</script></body></html>
