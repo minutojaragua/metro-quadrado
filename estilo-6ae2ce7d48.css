@@ -176,7 +176,7 @@ header p.lead{color:#e9e9e9;margin-top:10px;font-size:.98rem}header p.lead b{col
 .porta-lider em{display:block;font-style:normal;font-size:.7rem;letter-spacing:.07em;text-transform:uppercase;color:#cfcfcf}
 .porta-lider b{display:block;font-size:1.05rem;line-height:1.2}
 .porta-lider span{font-size:.9rem;color:#e9e9e9}
-.porta-btn{grid-column:1/-1;display:block;text-align:center;background:var(--amar);color:var(--ink);font-weight:800;border-radius:12px;padding:13px 16px;text-decoration:none;font-size:1.05rem}
+.porta-btn{grid-column:1/-1;display:block;text-align:center;background:var(--amar);color:var(--ink);font-weight:800;border-radius:12px;padding:13px 16px;text-decoration:none;font-size:1.05rem}.porta-mapa{grid-column:1/-1;display:block;text-align:center;margin-top:8px;font-weight:700;color:var(--amar);text-decoration:none}.porta-mapa:hover{text-decoration:underline}.mq-cid{font-weight:700;font-size:11px;padding:2px 5px}
 .porta-btn:hover{filter:brightness(.95)}
 .porta-q{margin-top:10px}.porta-q input{width:100%;box-sizing:border-box;font:inherit;font-size:1rem;padding:12px 14px;border-radius:12px;border:1px solid rgba(255,255,255,.28);background:rgba(255,255,255,.09);color:#fff}
 .porta-q input::placeholder{color:#c9c9c9}.pq-out{margin-top:6px;display:grid;gap:6px}
