@@ -245,7 +245,13 @@ function pinta(){
   fc.onchange=todos; todos();
   const sc=document.getElementById("s-cid");
   CFG.filter(c=>LISTA.some(x=>x.cid===c.slug)).forEach(c=>{const o=document.createElement("option");o.value=c.slug;o.textContent=c.nome;sc.appendChild(o);});
-  sc.onchange=bairros; bairros();
+  sc.onchange=bairros;
+  // 22/09/2026 (auditoria, item 3): a pagina de bairro manda ?cid=<slug>&bai=<nome>; o simulador ja abre no bairro do leitor.
+  const q=new URLSearchParams(location.search),qc=q.get("cid"),qb=q.get("bai");
+  if(qc&&[...sc.options].some(o=>o.value===qc)){sc.value=qc;fc.value=qc;todos();}
+  bairros();
+  if(qb){const sb=document.getElementById("s-bai");if([...sb.options].some(o=>o.value===qb)){sb.value=qb;preencheArea();
+    try{sb.closest("section,div").scrollIntoView({behavior:"smooth",block:"start"});}catch(e){}}}
 }
 function todos(){
   const f=document.getElementById("f-cid").value;
