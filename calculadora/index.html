@@ -239,8 +239,95 @@ function proximos(cat,op,bai,med){
   }
   if(bai!=="__geral__")L.push('<a href="'+URLBASE+'/comparar/?cat='+cat+'&s='+cid+':'+encodeURIComponent(bai)+','+cid+':__geral"'+ev("Comparar cidades e bairros")+'>⚖️ '+esc(bai)+' contra o resto de '+esc(cn)+'</a>');
   else L.push('<a href="'+URLBASE+'/comparar/?s='+cid+':__geral"'+ev("Comparar cidades e bairros")+'>⚖️ Comparar bairros de '+esc(cn)+' lado a lado</a>');
-  return '<p style="margin:12px 0 4px"><b>Próximo passo</b></p><div class="ferr" style="margin-top:6px">'+L.join("")+'</div>';
+  // 22/09/2026 (Jales: mapa discreto na calculadora): link para o mapa da propria cidade, no tipo
+  // escolhido, ja focado no bairro (#mapa=<slug> carrega, rola ate o mapa e abre o bairro).
+  const SEGP={casa:"casas/",terreno:"terrenos/",sala:"salas/",comercial:"salas/",galpao:"galpoes/"}[cat]||"";
+  const hm=bai!=="__geral__"?"#mapa="+slugify(bai):"#mapa-sec";
+  L.push('<a href="'+pref+SEGP+hm+'" onclick="try{mqEv(\'abrir_mapa\',\'calculadora '+esc(bai==="__geral__"?cn:bai).replace(/'/g,"")+'\',mqOrigem())}catch(e){}">🗺️ '+(bai!=="__geral__"?esc(bai)+' no mapa de preços de '+esc(cn):'Mapa de preços de '+esc(cn))+'</a>');
+  // 22/09/2026 (Jales: compartilhar facil): o link leva a calculadora ja aberta na mesma cidade, tipo e bairro.
+  const shu=URLBASE+"/calculadora/?cid="+encodeURIComponent(cid)+"&cat="+cat+"&op="+op+(bai!=="__geral__"?"&bai="+encodeURIComponent(bai):"");
+  const sht="Veja o preço do m² "+(bai!=="__geral__"?"no "+bai+", em ":"em ")+cn+", pela mediana dos anúncios:";
+  const SH='<p class="shmini" style="margin:12px 0 4px;font-size:.92rem"><a href="https://wa.me/?text='+encodeURIComponent(sht+" "+shu)+'" target="_blank" rel="noopener" data-u="'+esc(shu)+'" data-t="'+esc(sht)+'" onclick="if(navigator.share){event.preventDefault();navigator.share({title:document.title,text:this.dataset.t,url:this.dataset.u}).catch(function(){});}" style="display:inline-block;color:#0b2e13;background:#25D366;padding:9px 14px;border-radius:999px;text-decoration:none;font-weight:700">📲 Mandar para alguém</a> <button type="button" data-u="'+esc(shu)+'" onclick="navigator.clipboard.writeText(this.dataset.u);this.textContent=\'✅ link copiado\'" style="background:none;border:1px solid #8a8a8a;color:inherit;padding:9px 14px;border-radius:999px;cursor:pointer;font-size:1em">🔗 copiar link</button></p>';
+  return '<p style="margin:12px 0 4px"><b>Próximo passo</b></p><div class="ferr" style="margin-top:6px">'+L.join("")+'</div>'+SH+confereBox($("area").value);
 }
+// 22/09/2026 (Jales: "Conferir um anuncio"): a pessoa informa preco e area de um anuncio que viu e ve
+// onde ele cai entre os anuncios do mesmo bairro, tipo e operacao. Com "dist" (P5..P95, so bairros com
+// 20+ anuncios, a partir da rodada de 01/10/2026) sai a porcentagem exata e o grafico de quantidade de
+// anuncios por preco; sem "dist", a posicao pela faixa P25-mediana-P75. Evento GA4: conferir_anuncio.
+function confereBox(area){
+  return '<details class="confere" style="margin-top:14px;border:1px solid var(--borda,#ddd);border-radius:10px;padding:10px 12px">'
+   +'<summary style="cursor:pointer;font-weight:700">🔎 Conferir um anúncio: o preço está acima ou abaixo do bairro?</summary>'
+   +'<p class="sub" style="margin:8px 0">Digite o preço pedido e a área de um anúncio que você viu. Mostramos onde ele cai entre os anúncios do mesmo bairro, tipo e operação.</p>'
+   +'<div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center">'
+   +'<input id="cfPreco" type="text" inputmode="numeric" placeholder="preço do anúncio (R$)" aria-label="Preço pedido no anúncio" style="padding:8px 10px;font-size:1em;border-radius:8px;border:1px solid #bbb;width:190px">'
+   +'<input id="cfArea" type="number" min="10" value="'+(area||"")+'" placeholder="área (m²)" aria-label="Área do anúncio em metros quadrados" style="padding:8px 10px;font-size:1em;border-radius:8px;border:1px solid #bbb;width:110px">'
+   +'<button type="button" onclick="conferir()" style="padding:9px 16px;border-radius:8px;border:0;background:var(--amar,#ffd400);color:#111;font-weight:700;cursor:pointer">Conferir</button></div>'
+   +'<div id="cfRes" aria-live="polite" style="margin-top:10px"></div></details>';
+}
+function cfPct(v,D){ // porcentagem de anuncios MAIS BARATOS que v, pelos pontos P5..P95
+  if(v<=D[0])return {p:5,borda:"<"}; if(v>=D[18])return {p:95,borda:">"};
+  for(let k=0;k<18;k++){if(v<=D[k+1]){const w=D[k+1]-D[k];return {p:5*(k+1)+(w>0?5*(v-D[k])/w:0),borda:""};}}
+  return {p:95,borda:">"};
+}
+function cfGrafico(v,st,al){
+  const W=600,H=170,ML=10,MR=10,B=130,T=18;
+  const D=st.dist, un=al?"/m² mês":"/m²", dc=al?1:0;
+  let lo,hi; if(D){lo=Math.min(D[0],v);hi=Math.max(D[18],v);}else{lo=Math.min(st.p25*0.7,v);hi=Math.max(st.p75*1.3,v);}
+  const pad=(hi-lo)*0.04; lo-=pad; hi+=pad;
+  const X=x=>ML+(W-ML-MR)*(x-lo)/(hi-lo);
+  let g='<svg viewBox="0 0 '+W+' '+H+'" width="100%" role="img" aria-label="Posição do anúncio entre os anúncios do bairro" style="max-width:640px;display:block;font:12px sans-serif">';
+  if(D){
+    const hs=[];for(let k=0;k<18;k++){const w=Math.max(D[k+1]-D[k],(D[18]-D[0])/200);hs.push(5/w);}
+    const cap=[...hs].sort((a,b)=>a-b)[Math.floor(hs.length*0.9)]*1.15;
+    for(let k=0;k<18;k++){const h=Math.min(hs[k],cap)/cap*(B-T);const x0=X(D[k]),x1=X(D[k+1]);
+      const dentro=v>=D[k]&&v<=D[k+1];
+      g+='<rect x="'+x0.toFixed(1)+'" y="'+(B-h).toFixed(1)+'" width="'+Math.max(1,x1-x0-1).toFixed(1)+'" height="'+h.toFixed(1)+'" fill="'+(dentro?"#e0a800":"#9bb7d4")+'"><title>5% dos anúncios entre R$ '+fmt(D[k],dc)+' e R$ '+fmt(D[k+1],dc)+un+'</title></rect>';}
+    g+='<line x1="'+X(st.mediana)+'" x2="'+X(st.mediana)+'" y1="'+T+'" y2="'+B+'" stroke="#333" stroke-dasharray="4 3"/><text x="'+X(st.mediana)+'" y="'+(T-4)+'" text-anchor="middle" fill="#333">mediana</text>';
+  }else{
+    g+='<rect x="'+X(lo)+'" y="'+(B-26)+'" width="'+(X(hi)-X(lo))+'" height="18" fill="#e8eef5" rx="4"/>';
+    g+='<rect x="'+X(st.p25)+'" y="'+(B-26)+'" width="'+(X(st.p75)-X(st.p25))+'" height="18" fill="#9bb7d4" rx="4"/>';
+    g+='<text x="'+((X(st.p25)+X(st.p75))/2)+'" y="'+(B-32)+'" text-anchor="middle" fill="#345">metade dos anúncios</text>';
+    g+='<line x1="'+X(st.mediana)+'" x2="'+X(st.mediana)+'" y1="'+(B-30)+'" y2="'+(B-4)+'" stroke="#333" stroke-width="2"/>';
+  }
+  const xv=X(v);
+  g+='<line x1="'+xv+'" x2="'+xv+'" y1="'+(T+14)+'" y2="'+(B+2)+'" stroke="#c0392b" stroke-width="3"/><circle cx="'+xv+'" cy="'+(T+14)+'" r="5" fill="#c0392b"/>';
+  g+='<text x="'+Math.min(Math.max(xv,60),W-60)+'" y="'+(T+4)+'" text-anchor="middle" fill="#c0392b" font-weight="700">seu anúncio</text>';
+  g+='<line x1="'+ML+'" x2="'+(W-MR)+'" y1="'+B+'" y2="'+B+'" stroke="#999"/>';
+  g+='<text x="'+ML+'" y="'+(B+18)+'" fill="#555">R$ '+fmt(lo+pad,dc)+un+'</text><text x="'+(W-MR)+'" y="'+(B+18)+'" text-anchor="end" fill="#555">R$ '+fmt(hi-pad,dc)+un+'</text>';
+  g+='<text x="'+(W/2)+'" y="'+(B+34)+'" text-anchor="middle" fill="#777">mais barato ← preço pedido por m² → mais caro</text></svg>';
+  return g;
+}
+async function conferir(){
+  const out=$("cfRes"); if(!out)return;
+  const preco=parseFloat(String($("cfPreco").value).replace(/[^0-9,]/g,"").replace(",","."));
+  const area=parseFloat($("cfArea").value);
+  if(!preco||!area||area<=0){out.innerHTML='<p style="color:#a33">Digite o preço e a área do anúncio.</p>';return;}
+  const d=await dados($("cid").value), cat=$("cat").value, op=$("op").value, bai=$("bai").value||"__geral__";
+  const S=d.segmentos[cat]||{}, no=bai==="__geral__"?(S.geral||{}):((S.bairros||{})[bai]||{}), st=no[op];
+  const cn=nomeCidade(), onde=bai==="__geral__"?cn:bai+" ("+cn+")", al=op==="aluguel", dc=al?1:0, un=al?"/m² ao mês":"/m²";
+  if(!st||!st.mediana){out.innerHTML='<p>Ainda não há anúncios suficientes de '+(CATS[cat]||cat).toLowerCase()+' '+(al?"para alugar":"à venda")+' em '+esc0(onde)+' para comparar.</p>';return;}
+  const v=preco/area, dif=Math.round((v/st.mediana-1)*100);
+  let txt, rot;
+  if(st.dist){const P=cfPct(v,st.dist);const p=Math.round(P.p);
+    txt=P.borda==="<"?'<b>Mais barato que 95% dos anúncios</b> do bairro.':P.borda===">"?'<b>Mais caro que 95% dos anúncios</b> do bairro.':'<b>Mais caro que '+p+'% dos anúncios</b> do bairro e mais barato que '+(100-p)+'%.';
+    rot='percentil '+(P.borda||"")+p;
+  }else{
+    txt=v<st.p25?'Entre os <b>25% mais baratos</b> do bairro.':v<=st.mediana?'Na <b>metade mais barata</b>, dentro da faixa típica do bairro.':v<=st.p75?'Na <b>metade mais cara</b>, dentro da faixa típica do bairro.':'Entre os <b>25% mais caros</b> do bairro.';
+    rot=v<st.p25?'q1':v<=st.mediana?'q2':v<=st.p75?'q3':'q4';
+  }
+  let h='<p style="font-size:1.05rem;margin:4px 0">Este anúncio pede <b>R$ '+fmt(v,dc)+un+'</b>, '+(dif===0?'igual à':(Math.abs(dif)+'% '+(dif>0?'acima da':'abaixo da')))+' mediana de '+esc0(onde)+' (R$ '+fmt(st.mediana,dc)+un+', '+st.n+' anúncios). '+txt+'</p>';
+  h+=cfGrafico(v,st,al);
+  // mesmo tamanho: o m2 do imovel pequeno custa mais; compara com a faixa de area do proprio bairro
+  const FX=no.faixas_m2, fk=area<50?"ate50":area<70?"50a70":area<100?"70a100":area<150?"100a150":"acima150";
+  const FR={ate50:"até 50 m²","50a70":"50 a 70 m²","70a100":"70 a 100 m²","100a150":"100 a 150 m²",acima150:"acima de 150 m²"};
+  if(FX&&FX[fk]&&FX[fk][op]&&FX[fk][op].n>=5){const m=FX[fk][op].m2, d2=Math.round((v/m-1)*100);
+    h+='<p class="sub">Só entre imóveis de '+FR[fk]+': mediana de R$ '+fmt(m,dc)+un+' ('+FX[fk][op].n+' anúncios). Este anúncio fica '+(d2===0?'igual':Math.abs(d2)+'% '+(d2>0?'acima':'abaixo'))+'.</p>';}
+  h+='<p class="sub" style="color:#666">'+(st.dist?'Cada barra reúne 5% dos anúncios; quanto mais alta, mais anúncios naquela faixa de preço.':'A faixa azul reúne a metade central dos anúncios; o traço preto é a mediana. A porcentagem exata aparece a partir da edição de outubro para bairros com 20 anúncios ou mais.')+' Preço pedido não é preço de venda, e reforma, andar, vaga e estado do imóvel mudam o valor.</p>';
+  out.innerHTML=h;
+  try{mqEv("conferir_anuncio",cat+" "+op+" | "+rot,$("cid").value+(bai!=="__geral__"?" "+bai:""));}catch(e){}
+}
+function esc0(t){return String(t).replace(/</g,"&lt;");}
+
 // 13/09/2026 (banca UX): antes de digitar a área a pessoa já vê um número real da cidade ou do bairro
 // escolhido (mediana do R$/m² e o imóvel típico), em vez de "Digite a área" em texto seco.
 async function previa(){
