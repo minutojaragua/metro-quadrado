@@ -12,7 +12,8 @@ fetch(B+(m[1]||'')+'dados.json').then(function(r){return r.json();}).then(functi
   for(var k in bs){if(sl(k)===m[2]&&bs[k].venda&&bs[k].venda.n>=5){ach=[bs[k],ord[i][1]];nome=k;break;}}}
  if(!ach){erro();return;}
  var v=ach[0].venda,a=ach[0].aluguel,cid=(d.cidade||'').split('/')[0].trim(),h=B+p;
- el.innerHTML='<div class="t">Preço do m² · '+nome+', '+cid+'</div>'
+ var E=function(t){return String(t).replace(/[&<>"]/g,function(c){return '&#'+c.charCodeAt(0)+';'})};
+ el.innerHTML='<div class="t">Preço do m² · '+E(nome)+', '+E(cid)+'</div>'
   +'<div class="n">R$ '+f(v.mediana)+'<small>/m²</small></div>'
   +'<div class="s">'+ach[1]+' à venda · faixa típica R$ '+f(v.p25)+' a R$ '+f(v.p75)+' · '+f(v.n)+' anúncios</div>'
   +(a&&a.n>=5?'<div class="s">aluguel R$ '+f(a.mediana,1)+'/m² ao mês</div>':'')

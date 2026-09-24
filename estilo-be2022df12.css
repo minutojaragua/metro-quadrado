@@ -85,7 +85,7 @@ table.serie td,table.serie th{white-space:nowrap}
 .cidades select:disabled{opacity:.45;cursor:default}
 .cidades select option{color:#111;background:#fff}
 .cidades.claro select{border-color:#cfccbe;color:#5f5f5f}
-.cidades details.mais .lista .ufn{flex-basis:100%;margin-top:6px;font-size:.74rem;color:#9a9a9a;text-transform:uppercase;letter-spacing:.05em}
+.cidades details.mais .lista .ufn{flex-basis:100%;margin-top:6px;font-size:.8rem;color:#9a9a9a;text-transform:uppercase;letter-spacing:.05em}
 .cidades.claro details.mais .lista .ufn{color:#7a7a7a}
 small.uf{color:#6f6f6f;font-weight:600;font-size:.78em;letter-spacing:.02em}
 /* Os tres seletores (cidade, tipo de imovel e venda/aluguel) passaram a ficar
@@ -207,6 +207,12 @@ details.faq p{margin:8px 0 0}
    cidade. Achar "Centro" em Campinas custava rolar 13,3 telas, porque a tabela e ordenada por
    preco, nao por nome. O campo e injetado por JS acima de toda tabela grande com coluna Bairro. */
 .bporta{margin:10px 0 4px;font-size:1.02rem;line-height:1.5}
+.bcard{margin:14px 0 6px;padding:14px 16px;background:#fff;border:2px solid var(--amar);border-radius:14px;box-shadow:0 2px 0 rgba(0,0,0,.06)}
+.bcard-n b{font-size:2.4rem;line-height:1;font-variant-numeric:tabular-nums;letter-spacing:-1px;color:#1a1a1a}
+.bcard-n span{font-size:1.05rem;font-weight:700;margin-left:2px;color:#1a1a1a}
+.bcard small{display:block;margin-top:6px;color:#4a4a4a;font-size:.9rem;line-height:1.35}
+.bcard-alu{display:block;margin-top:4px;font-size:.95rem;color:#1a1a1a}
+.bcard-aviso{display:inline-block;margin-top:6px;padding:2px 8px;border-radius:999px;background:#fff4c2;color:#6b4e00;font-size:.82rem}
 .bporta b{font-size:1.18em}
 .tbq{display:flex;gap:8px;align-items:center;margin:12px 0 6px;flex-wrap:wrap}
 .tbq input{flex:1 1 240px;min-width:0;padding:11px 12px;border:1px solid var(--borda);border-radius:10px;font:inherit;background:var(--card);color:var(--ink)}
