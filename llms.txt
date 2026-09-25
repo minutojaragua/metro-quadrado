@@ -119,10 +119,10 @@
 - [Comparador de cidades e bairros](https://acorridadosbairros.com.br/comparar/)
 - [Calculadora: quanto vale meu imóvel](https://acorridadosbairros.com.br/calculadora/)
 - [Metodologia completa](https://acorridadosbairros.com.br/metodologia/): mediana de preços pedidos, corte mínimo de 5 anúncios, dedup entre fontes
-- [Dados abertos em CSV](https://acorridadosbairros.com.br/dados.csv) e JSON por cidade (licença CC BY 4.0)
+- Dados abertos (licença CC BY 4.0): [todas as cidades num CSV](https://acorridadosbairros.com.br/dados-brasil.csv), CSV e JSON por cidade, e todas as edições mensais no [repositório público](https://github.com/minutojaragua/corrida-dos-bairros-dados), com espelho no [Kaggle](https://www.kaggle.com/datasets/minutojaragua/corrida-dos-bairros) e no [Hugging Face](https://huggingface.co/datasets/minutojaragua/corrida-dos-bairros)
 - [Sala de imprensa com números citáveis](https://acorridadosbairros.com.br/imprensa/)
 - Mapa do preço do m² por bairro: em cada página de cidade, cada bolha é um bairro (a cor mostra a faixa de preço de VENDA dentro da cidade, do amarelo claro ao vermelho escuro; o tamanho, quantos anúncios entraram na conta); imagem estática em https://acorridadosbairros.com.br/mapa/<cidade>-<segmento>.png
-- [Conector MCP para assistentes de IA](https://acorridadosbairros.com.br/conector/): servidor aberto em https://mcp.metroquadrado.workers.dev/mcp, transporte streamable-http, sem autenticação, somente leitura. Ferramentas: preco_m2, ranking_bairros, comparar, rendimento_aluguel, metodologia
+- [Conector MCP para assistentes de IA](https://acorridadosbairros.com.br/conector/): servidor aberto em https://mcp.metroquadrado.workers.dev/mcp, transporte streamable-http, sem autenticação, somente leitura. Ferramentas: preco_m2, ranking_bairros, comparar, rendimento_aluguel, preco_por_metragem, metodologia
 
 ## Como citar
 
