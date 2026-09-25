@@ -207,6 +207,8 @@ details.faq p{margin:8px 0 0}
    cidade. Achar "Centro" em Campinas custava rolar 13,3 telas, porque a tabela e ordenada por
    preco, nao por nome. O campo e injetado por JS acima de toda tabela grande com coluna Bairro. */
 .bporta{margin:10px 0 4px;font-size:1.02rem;line-height:1.5}
+.parte{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin:10px 0;min-height:48px}
+.parte .tblwrap{flex-basis:100%}
 .bcard{margin:14px 0 6px;padding:14px 16px;background:#fff;border:2px solid var(--amar);border-radius:14px;box-shadow:0 2px 0 rgba(0,0,0,.06)}
 .bcard-n b{font-size:2.4rem;line-height:1;font-variant-numeric:tabular-nums;letter-spacing:-1px;color:#1a1a1a}
 .bcard-n span{font-size:1.05rem;font-weight:700;margin-left:2px;color:#1a1a1a}
