@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 109 cidades de Santa Catarina, São Paulo e mais 25 estados, Brasil, bairro por bairro, a partir de 776.550 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (outubro/2026).
+> O preço do m² de 109 cidades de Santa Catarina, São Paulo e mais 25 estados, Brasil, bairro por bairro, a partir de 776.480 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (outubro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, outubro/2026. https://acorridadosbairros.com.br
 
@@ -10204,7 +10204,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 
 Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de preço, tamanho = anúncios): https://acorridadosbairros.com.br/mapa/jaragua-apartamento.png · https://acorridadosbairros.com.br/mapa/jaragua-casa.png
 
-### Apartamentos, cidade toda: venda R$ 6.120/m² (n=2167); aluguel R$ 32,3/m²/mês (n=678); rendimento bruto do aluguel 6,33% a.a.
+### Apartamentos, cidade toda: venda R$ 6.111/m² (n=2155); aluguel R$ 32,3/m²/mês (n=678); rendimento bruto do aluguel 6,34% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -10220,7 +10220,6 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Czerniewicz | R$ 6.086 | 106 | R$ 32,9 | 33 | 6,49% | – |
 | Estrada Nova | R$ 5.091 | 25 | – | – | – | – |
 | Ilha da Figueira | R$ 5.804 | 61 | R$ 31,3 | 28 | 6,47% | – |
-| Itacolomi | R$ 14.444 | 12 | – | – | – | – |
 | Jaraguá 84 | R$ 4.302 | 8 | – | – | – | – |
 | Jaraguá 99 | R$ 5.306 | 35 | R$ 31,5 | 21 | 7,12% | R$ 300 |
 | Jaraguá Esquerdo | R$ 6.609 | 148 | R$ 34,4 | 52 | 6,25% | R$ 320 |
@@ -10241,13 +10240,12 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Vila Lenzi | R$ 5.820 | 68 | R$ 33,3 | 18 | 6,87% | – |
 | Vila Nova | R$ 7.905 | 205 | R$ 30,8 | 48 | 4,68% | R$ 365 |
 
-### Casas, cidade toda: venda R$ 5.500/m² (n=3051); aluguel R$ 31,3/m²/mês (n=296); rendimento bruto do aluguel 6,83% a.a.
+### Casas, cidade toda: venda R$ 5.500/m² (n=3031); aluguel R$ 31,3/m²/mês (n=296); rendimento bruto do aluguel 6,83% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
 | Água Verde | R$ 5.357 | 55 | R$ 24,3 | 6 | 5,44% | – |
 | Amizade | R$ 6.171 | 260 | R$ 31,1 | 14 | 6,05% | – |
-| Avai | R$ 6.938 | 5 | – | – | – | – |
 | Baependi | R$ 6.250 | 47 | R$ 34,6 | 9 | 6,64% | – |
 | Barra do Rio Cerro | R$ 5.900 | 171 | R$ 32,2 | 34 | 6,55% | – |
 | Barra do Rio Cerro I | R$ 6.000 | 5 | – | – | – | – |
@@ -10270,7 +10268,6 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Rio Cerro I | R$ 5.618 | 20 | – | – | – | – |
 | Rio Cerro II | R$ 5.486 | 5 | – | – | – | – |
 | Rio da Luz | R$ 5.250 | 33 | – | – | – | – |
-| Rio Hern | R$ 5.556 | 5 | – | – | – | – |
 | Santa Luzia | R$ 3.652 | 22 | – | – | – | – |
 | Santo Antônio | R$ 4.566 | 34 | – | – | – | – |
 | São Luís | R$ 5.045 | 112 | R$ 32,9 | 8 | 7,83% | – |
@@ -10283,7 +10280,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Vila Lenzi | R$ 5.314 | 134 | R$ 30,9 | 18 | 6,98% | – |
 | Vila Nova | R$ 7.080 | 67 | R$ 34,1 | 9 | 5,78% | – |
 
-### Terrenos, cidade toda: venda R$ 859/m² (n=1342)
+### Terrenos, cidade toda: venda R$ 844/m² (n=1304)
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -10297,7 +10294,6 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Centro | R$ 1.681 | 75 | – | – | – | – |
 | Chico de Paula | R$ 964 | 41 | – | – | – | – |
 | Czerniewicz | R$ 1.267 | 21 | – | – | – | – |
-| Estrada Bananal do Sul | R$ 1.102 | 28 | – | – | – | – |
 | Estrada Nova | R$ 482 | 13 | – | – | – | – |
 | Ilha da Figueira | R$ 732 | 60 | – | – | – | – |
 | Jaraguá 84 | R$ 643 | 13 | – | – | – | – |
@@ -10308,7 +10304,6 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Nova Brasília | R$ 1.314 | 18 | – | – | – | – |
 | Rau | R$ 965 | 60 | – | – | – | – |
 | Ribeirão Cavalo | R$ 564 | 9 | – | – | – | – |
-| Rio Branco | R$ 637 | 6 | – | – | – | – |
 | Rio Cerro I | R$ 683 | 40 | – | – | – | – |
 | Rio Cerro II | R$ 357 | 15 | – | – | – | – |
 | Rio da Luz | R$ 615 | 59 | – | – | – | – |
