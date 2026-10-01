@@ -63,6 +63,12 @@ table.serie td,table.serie th{white-space:nowrap}
 .tipos a{background:#2a2a2a;color:#ddd;text-decoration:none;font-weight:600;padding:9px 18px;border-radius:99px;font-size:.92rem}
 .tipos a.on{background:var(--amar);color:var(--ink)}
 .cidades{display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 0}
+/* 01/10/2026 (pesquisa UX 28/08, correcao 7): campo abaixo de 16 px faz o iPhone dar zoom ao tocar */
+@media (max-width:600px){input,select,textarea{font-size:16px!important}}
+/* 01/10/2026: no celular o seletor do topo e UMA linha (Estado | Cidade), como o Idealista; os chips de vizinhas
+   empurravam a busca de bairro para fora da primeira tela. Os links seguem no HTML e em '+ todas as cidades'. */
+@media (max-width:600px){.topo-cid .cidades>a:not(.volta),.topo-cid .cidades>.breve{display:none}.topo-cid .navsel{display:flex;width:100%;flex-wrap:nowrap}.topo-cid .navsel select{flex:1 1 0;min-width:0}}
+.cidades .volta[hidden]{display:none!important}
 .cidades a{background:transparent;border:1px solid #555;color:#bbb;text-decoration:none;font-weight:600;padding:6px 14px;border-radius:99px;font-size:.82rem}
 .cidades a.on{border-color:var(--amar);color:var(--amar)}
 .cidades .breve{border:1px dashed #4a4a4a;color:#949494;font-weight:600;padding:6px 14px;border-radius:99px;font-size:.82rem;cursor:default}
