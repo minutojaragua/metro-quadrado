@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 109 cidades de Santa Catarina, São Paulo e mais 25 estados, Brasil, bairro por bairro, a partir de 776.480 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (outubro/2026).
+> O preço do m² de 109 cidades de Santa Catarina, São Paulo e mais 25 estados, Brasil, bairro por bairro, a partir de 775.944 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (outubro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, outubro/2026. https://acorridadosbairros.com.br
 
@@ -811,7 +811,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 
 Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de preço, tamanho = anúncios): https://acorridadosbairros.com.br/mapa/ce-fortaleza-apartamento.png · https://acorridadosbairros.com.br/mapa/ce-fortaleza-casa.png
 
-### Apartamentos, cidade toda: venda R$ 7.240/m² (n=6476); aluguel R$ 28,6/m²/mês (n=1119); rendimento bruto do aluguel 4,74% a.a.
+### Apartamentos, cidade toda: venda R$ 7.195/m² (n=6431); aluguel R$ 28,6/m²/mês (n=1117); rendimento bruto do aluguel 4,77% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -870,7 +870,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Manoel Dias Branco | R$ 7.354 | 33 | – | – | – | – |
 | Manuel Sátiro | R$ 3.126 | 6 | – | – | – | – |
 | Maraponga | R$ 4.892 | 110 | R$ 24,4 | 29 | 5,98% | – |
-| Meireles | R$ 12.189 | 1017 | R$ 59,4 | 125 | 5,85% | – |
+| Meireles | R$ 12.188 | 1016 | R$ 59,4 | 125 | 5,85% | – |
 | Messejana | R$ 4.688 | 119 | R$ 24,9 | 30 | 6,37% | – |
 | Mondubim | R$ 4.750 | 85 | R$ 23,3 | 31 | 5,89% | – |
 | Monte Castelo | R$ 5.368 | 44 | R$ 24,2 | 8 | 5,41% | – |
@@ -891,7 +891,6 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Paupina | R$ 4.407 | 30 | R$ 25,0 | 5 | 6,81% | – |
 | Pici | R$ 7.352 | 9 | – | – | – | – |
 | Planalto Ayrton Senna | R$ 3.546 | 11 | R$ 22,8 | 10 | 7,72% | – |
-| Porto das Dunas | R$ 12.381 | 43 | – | – | – | – |
 | Praia de Iracema | R$ 12.238 | 105 | R$ 56,0 | 17 | 5,49% | – |
 | Praia do Futuro | R$ 6.028 | 97 | R$ 50,6 | 14 | 10,07% | – |
 | Praia do Futuro I | R$ 4.462 | 31 | R$ 28,3 | 6 | 7,61% | – |
@@ -914,7 +913,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Vila União | R$ 3.055 | 34 | R$ 18,3 | 8 | 7,19% | – |
 | Vila Velha | R$ 2.793 | 10 | – | – | – | – |
 
-### Casas, cidade toda: venda R$ 3.494/m² (n=3909); aluguel R$ 17,1/m²/mês (n=381); rendimento bruto do aluguel 5,87% a.a.
+### Casas, cidade toda: venda R$ 3.478/m² (n=3884); aluguel R$ 17,1/m²/mês (n=381); rendimento bruto do aluguel 5,90% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -956,7 +955,6 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Dunas | R$ 7.704 | 32 | – | – | – | – |
 | Edson Queiroz | R$ 3.956 | 168 | R$ 21,2 | 14 | 6,43% | – |
 | Engenheiro Luciano Cavalcante | R$ 3.868 | 88 | R$ 23,3 | 7 | 7,23% | – |
-| Eusébio | R$ 5.906 | 20 | – | – | – | – |
 | Farias Brito | R$ 1.842 | 6 | – | – | – | – |
 | Fátima | R$ 3.251 | 66 | R$ 17,1 | 7 | 6,31% | – |
 | Granja Lisboa | R$ 1.600 | 11 | – | – | – | – |
@@ -1008,7 +1006,6 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Paupina | R$ 2.364 | 5 | – | – | – | – |
 | Pici | R$ 2.381 | 15 | – | – | – | – |
 | Planalto Ayrton Senna | R$ 3.248 | 14 | – | – | – | – |
-| Porto das Dunas | R$ 8.542 | 5 | – | – | – | – |
 | Praia de Iracema | R$ 4.011 | 11 | – | – | – | – |
 | Praia do Futuro | R$ 8.628 | 7 | – | – | – | – |
 | Praia do Futuro I | R$ 8.563 | 8 | – | – | – | – |
@@ -1033,7 +1030,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Vila União | R$ 2.950 | 31 | – | – | – | – |
 | Vila Velha | R$ 2.541 | 20 | – | – | – | – |
 
-### Terrenos, cidade toda: venda R$ 1.152/m² (n=903)
+### Terrenos, cidade toda: venda R$ 1.153/m² (n=892)
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -1055,7 +1052,6 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Dunas | R$ 1.000 | 8 | – | – | – | – |
 | Edson Queiroz | R$ 803 | 30 | – | – | – | – |
 | Engenheiro Luciano Cavalcante | R$ 1.221 | 34 | – | – | – | – |
-| Eusébio | R$ 1.127 | 10 | – | – | – | – |
 | Farias Brito | R$ 3.256 | 6 | – | – | – | – |
 | Fátima | R$ 2.482 | 17 | – | – | – | – |
 | Itaperi | R$ 1.235 | 13 | – | – | – | – |
@@ -1255,7 +1251,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Tamatanduba | R$ 7.027 | 21 | – | – | – | – |
 | Urucunema | R$ 4.820 | 5 | – | – | – | – |
 
-### Casas, cidade toda: venda R$ 6.053/m² (n=1213); aluguel R$ 35,1/m²/mês (n=41); rendimento bruto do aluguel 6,96% a.a.
+### Casas, cidade toda: venda R$ 6.044/m² (n=1208); aluguel R$ 35,1/m²/mês (n=41); rendimento bruto do aluguel 6,97% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -1281,7 +1277,6 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Parque Havaí | R$ 5.000 | 11 | – | – | – | – |
 | Pedra | R$ 5.896 | 19 | – | – | – | – |
 | Pires Façanha | R$ 5.904 | 57 | – | – | – | – |
-| Porto das Dunas | R$ 10.500 | 5 | – | – | – | – |
 | Precabura | R$ 3.663 | 17 | – | – | – | – |
 | Santo Antonio | R$ 5.870 | 11 | – | – | – | – |
 | Tamatanduba | R$ 5.133 | 52 | – | – | – | – |
@@ -2532,7 +2527,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 
 Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de preço, tamanho = anúncios): https://acorridadosbairros.com.br/mapa/mt-cuiaba-apartamento.png · https://acorridadosbairros.com.br/mapa/mt-cuiaba-casa.png
 
-### Apartamentos, cidade toda: venda R$ 6.400/m² (n=3786); aluguel R$ 44,0/m²/mês (n=1058); rendimento bruto do aluguel 8,25% a.a.
+### Apartamentos, cidade toda: venda R$ 6.405/m² (n=3778); aluguel R$ 44,0/m²/mês (n=1058); rendimento bruto do aluguel 8,24% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -2608,7 +2603,6 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Parque Residencial das Nações Indígenas | R$ 4.220 | 24 | R$ 30,0 | 13 | 8,53% | – |
 | Pico do Amor | R$ 7.333 | 41 | – | – | – | – |
 | Poção | R$ 4.520 | 25 | R$ 33,6 | 6 | 8,92% | – |
-| Ponte Nova | R$ 4.333 | 7 | – | – | – | – |
 | Popular | R$ 5.102 | 71 | – | – | – | – |
 | Porto | R$ 5.389 | 64 | R$ 38,9 | 18 | 8,66% | – |
 | Praeirinho | R$ 6.316 | 5 | – | – | – | – |
@@ -2633,7 +2627,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Verdão | R$ 4.440 | 6 | – | – | – | – |
 | Vista Alegre | R$ 5.429 | 7 | – | – | – | – |
 
-### Casas, cidade toda: venda R$ 5.112/m² (n=4514); aluguel R$ 28,4/m²/mês (n=397); rendimento bruto do aluguel 6,67% a.a.
+### Casas, cidade toda: venda R$ 5.114/m² (n=4508); aluguel R$ 28,4/m²/mês (n=397); rendimento bruto do aluguel 6,66% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -2669,7 +2663,6 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Cpa II | R$ 2.347 | 21 | – | – | – | – |
 | Cpa III | R$ 2.314 | 14 | – | – | – | – |
 | Cpa IV | R$ 2.735 | 14 | – | – | – | – |
-| Cristo Rei | R$ 2.820 | 5 | – | – | – | – |
 | Despraiado | R$ 6.357 | 95 | – | – | – | – |
 | Distrito Industrial | R$ 2.800 | 56 | – | – | – | – |
 | Dom Aquino | R$ 2.890 | 40 | – | – | – | – |
@@ -2772,7 +2765,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Verdão | R$ 2.306 | 16 | – | – | – | – |
 | Village Flamboyant | R$ 2.940 | 15 | – | – | – | – |
 
-### Terrenos, cidade toda: venda R$ 1.278/m² (n=1259)
+### Terrenos, cidade toda: venda R$ 1.280/m² (n=1249)
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -2833,7 +2826,6 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | São Sebastião | R$ 1.233 | 18 | – | – | – | – |
 | Supremo Itália | R$ 2.917 | 5 | – | – | – | – |
 | Tijucal | R$ 1.064 | 14 | – | – | – | – |
-| Várzea Grande | R$ 748 | 8 | – | – | – | – |
 | Village Bordeaux | R$ 1.700 | 17 | – | – | – | – |
 
 ### Salas comerciais, cidade toda: venda R$ 8.394/m² (n=134); aluguel R$ 59,4/m²/mês (n=414); rendimento bruto do aluguel 8,49% a.a.
@@ -4576,7 +4568,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 
 Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de preço, tamanho = anúncios): https://acorridadosbairros.com.br/mapa/pb-joao-pessoa-apartamento.png · https://acorridadosbairros.com.br/mapa/pb-joao-pessoa-casa.png
 
-### Apartamentos, cidade toda: venda R$ 8.444/m² (n=6528); aluguel R$ 54,8/m²/mês (n=1065); rendimento bruto do aluguel 7,79% a.a.
+### Apartamentos, cidade toda: venda R$ 8.430/m² (n=6490); aluguel R$ 54,8/m²/mês (n=1063); rendimento bruto do aluguel 7,80% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -4592,7 +4584,6 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Bessa | R$ 9.721 | 688 | R$ 55,2 | 121 | 6,81% | – |
 | Brisamar | R$ 8.848 | 166 | R$ 56,6 | 22 | 7,68% | – |
 | Cabo Branco | R$ 13.771 | 620 | R$ 66,7 | 136 | 5,81% | – |
-| Camboinha | R$ 10.494 | 9 | – | – | – | – |
 | Castelo Branco | R$ 5.465 | 15 | – | – | – | – |
 | Centro | R$ 3.929 | 5 | – | – | – | – |
 | Cidade dos Colibris | R$ 4.642 | 67 | – | – | – | – |
@@ -4609,7 +4600,6 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Gramame - Novo Geisel | R$ 3.640 | 9 | – | – | – | – |
 | Gramame - Parque do Sol | R$ 2.700 | 5 | – | – | – | – |
 | Indústrias | R$ 3.126 | 10 | – | – | – | – |
-| Intermares | R$ 9.700 | 25 | – | – | – | – |
 | Ipês | R$ 4.436 | 11 | – | – | – | – |
 | Jaguaribe | R$ 4.372 | 29 | – | – | – | – |
 | Jardim Cidade Universitária | R$ 6.000 | 197 | R$ 28,2 | 18 | 5,64% | – |
@@ -4633,7 +4623,6 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Ponta de Campina | R$ 11.457 | 8 | – | – | – | – |
 | Ponta do Seixas | R$ 15.780 | 56 | R$ 66,4 | 10 | 5,05% | – |
 | Portal do Sol | R$ 6.298 | 95 | R$ 46,1 | 12 | 8,78% | – |
-| Praia Formosa | R$ 9.159 | 5 | – | – | – | – |
 | Tambaú | R$ 10.951 | 403 | R$ 61,2 | 138 | 6,71% | – |
 | Tambauzinho | R$ 8.051 | 103 | R$ 44,4 | 27 | 6,62% | – |
 | Tambiá | R$ 5.039 | 20 | – | – | – | – |
@@ -4642,14 +4631,13 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Valentina de Figueiredo | R$ 3.781 | 55 | – | – | – | – |
 | Varjão | R$ 4.276 | 10 | – | – | – | – |
 
-### Casas, cidade toda: venda R$ 4.163/m² (n=1458); aluguel R$ 31,0/m²/mês (n=146); rendimento bruto do aluguel 8,94% a.a.
+### Casas, cidade toda: venda R$ 4.097/m² (n=1439); aluguel R$ 31,0/m²/mês (n=146); rendimento bruto do aluguel 9,08% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
 | Água Fria | R$ 4.148 | 8 | – | – | – | – |
 | Altiplano | R$ 8.506 | 16 | – | – | – | – |
 | Altiplano Cabo Branco | R$ 7.616 | 46 | R$ 46,8 | 6 | 7,37% | – |
-| Amazônia Park | R$ 8.362 | 6 | – | – | – | – |
 | Anatólia | R$ 2.525 | 6 | – | – | – | – |
 | Bairro dos Estados | R$ 3.845 | 26 | R$ 24,2 | 12 | 7,55% | – |
 | Bancários | R$ 5.655 | 34 | R$ 33,3 | 5 | 7,07% | – |
@@ -4671,7 +4659,6 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Funcionários | R$ 2.107 | 15 | – | – | – | – |
 | Gramame | R$ 3.512 | 67 | – | – | – | – |
 | Indústrias | R$ 2.758 | 12 | – | – | – | – |
-| Intermares | R$ 9.220 | 13 | – | – | – | – |
 | Jaguaribe | R$ 2.300 | 36 | R$ 18,4 | 6 | 9,60% | – |
 | Jardim Cidade Universitária | R$ 4.523 | 60 | – | – | – | – |
 | Jardim Oceania | R$ 5.778 | 21 | R$ 45,5 | 13 | 9,45% | – |
@@ -4694,7 +4681,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Valentina de Figueiredo | R$ 2.650 | 43 | – | – | – | – |
 | Varjão | R$ 4.861 | 7 | – | – | – | – |
 
-### Terrenos, cidade toda: venda R$ 1.533/m² (n=357)
+### Terrenos, cidade toda: venda R$ 1.524/m² (n=356)
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -5914,7 +5901,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 
 Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de preço, tamanho = anúncios): https://acorridadosbairros.com.br/mapa/rj-rio-de-janeiro-apartamento.png · https://acorridadosbairros.com.br/mapa/rj-rio-de-janeiro-casa.png
 
-### Apartamentos, cidade toda: venda R$ 5.625/m² (n=14920); aluguel R$ 37,1/m²/mês (n=3352); rendimento bruto do aluguel 7,91% a.a.
+### Apartamentos, cidade toda: venda R$ 5.631/m² (n=14888); aluguel R$ 37,1/m²/mês (n=3352); rendimento bruto do aluguel 7,91% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -5951,14 +5938,13 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Cocotá | R$ 4.273 | 73 | – | – | – | – |
 | Coelho Neto | R$ 2.398 | 56 | – | – | – | – |
 | Colégio | R$ 3.550 | 38 | – | – | – | – |
-| Copacabana | R$ 11.667 | 549 | R$ 75,4 | 171 | 7,76% | – |
+| Copacabana | R$ 11.684 | 550 | R$ 75,4 | 171 | 7,74% | – |
 | Cordovil | R$ 2.989 | 84 | R$ 19,6 | 10 | 7,87% | – |
 | Cosme Velho | R$ 10.000 | 63 | – | – | – | – |
 | Cosmos | R$ 2.625 | 73 | R$ 15,9 | 54 | 7,27% | – |
 | Curicica | R$ 5.500 | 79 | R$ 26,2 | 39 | 5,72% | – |
 | Del Castilho | R$ 5.800 | 104 | R$ 39,3 | 22 | 8,13% | – |
 | Deodoro | – | – | R$ 25,8 | 5 | – | – |
-| Duque de Caxias | R$ 2.333 | 27 | – | – | – | – |
 | Encantado | R$ 3.992 | 78 | – | – | – | – |
 | Engenheiro Leal | R$ 2.394 | 26 | – | – | – | – |
 | Engenho da Rainha | R$ 3.529 | 34 | – | – | – | – |
@@ -5993,7 +5979,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Jardim Oceânico | R$ 11.578 | 112 | R$ 59,4 | 5 | 6,16% | – |
 | Jardim Sulacap | R$ 4.392 | 52 | R$ 27,5 | 5 | 7,51% | – |
 | Joá | R$ 12.952 | 14 | – | – | – | – |
-| Lagoa | R$ 15.558 | 232 | R$ 91,2 | 31 | 7,03% | – |
+| Lagoa | R$ 15.643 | 234 | R$ 91,2 | 31 | 7,00% | – |
 | Lapa | R$ 8.752 | 62 | – | – | – | – |
 | Laranjeiras | R$ 11.679 | 228 | R$ 50,0 | 27 | 5,14% | – |
 | Leblon | R$ 19.393 | 130 | R$ 112,1 | 55 | 6,94% | – |
@@ -6006,7 +5992,6 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Maria da Graça | R$ 3.636 | 41 | – | – | – | – |
 | Méier | R$ 4.633 | 136 | R$ 24,5 | 54 | 6,35% | – |
 | Moneró | R$ 5.125 | 74 | R$ 24,7 | 7 | 5,78% | – |
-| Nova Iguaçu | R$ 4.091 | 7 | – | – | – | – |
 | Olaria | R$ 3.869 | 83 | R$ 22,5 | 14 | 6,98% | – |
 | Oswaldo Cruz | R$ 3.333 | 69 | R$ 19,7 | 10 | 7,09% | – |
 | Paciência | R$ 2.000 | 91 | R$ 13,5 | 5 | 8,10% | – |
@@ -6071,13 +6056,13 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Vista Alegre | R$ 4.472 | 88 | R$ 31,8 | 7 | 8,53% | – |
 | Zumbi | R$ 6.133 | 31 | – | – | – | – |
 
-### Casas, cidade toda: venda R$ 3.571/m² (n=9480); aluguel R$ 22,5/m²/mês (n=447); rendimento bruto do aluguel 7,56% a.a.
+### Casas, cidade toda: venda R$ 3.571/m² (n=9439); aluguel R$ 22,5/m²/mês (n=447); rendimento bruto do aluguel 7,56% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
 | Abolição | R$ 3.034 | 58 | – | – | – | – |
 | Água Santa | R$ 2.760 | 16 | – | – | – | – |
-| Alto da Boa Vista | R$ 4.961 | 58 | – | – | – | – |
+| Alto da Boa Vista | R$ 4.997 | 59 | – | – | – | – |
 | Anchieta | R$ 1.857 | 35 | – | – | – | – |
 | Andaraí | R$ 4.135 | 83 | R$ 43,0 | 6 | 12,48% | – |
 | Anil | R$ 4.405 | 84 | R$ 22,7 | 9 | 6,18% | – |
@@ -6115,7 +6100,6 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Curicica | R$ 3.567 | 85 | R$ 20,2 | 14 | 6,80% | – |
 | Del Castilho | R$ 3.373 | 47 | – | – | – | – |
 | Deodoro | – | – | R$ 20,4 | 5 | – | – |
-| Duque de Caxias | R$ 2.194 | 21 | – | – | – | – |
 | Encantado | R$ 3.067 | 71 | R$ 15,7 | 5 | 6,14% | – |
 | Engenheiro Leal | R$ 2.346 | 14 | – | – | – | – |
 | Engenho da Rainha | R$ 2.597 | 8 | – | – | – | – |
@@ -6156,10 +6140,8 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Maracanã | R$ 5.310 | 65 | – | – | – | – |
 | Marechal Hermes | R$ 3.370 | 91 | – | – | – | – |
 | Maria da Graça | R$ 3.326 | 24 | – | – | – | – |
-| Méier | R$ 4.164 | 124 | – | – | – | – |
+| Méier | R$ 4.167 | 125 | – | – | – | – |
 | Moneró | R$ 4.540 | 40 | – | – | – | – |
-| Niterói | R$ 4.228 | 6 | – | – | – | – |
-| Nova Iguaçu | R$ 4.025 | 16 | – | – | – | – |
 | Olaria | R$ 3.304 | 86 | – | – | – | – |
 | Oswaldo Cruz | R$ 2.841 | 83 | – | – | – | – |
 | Paciência | R$ 1.763 | 49 | – | – | – | – |
@@ -6223,7 +6205,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Vista Alegre | R$ 3.805 | 76 | – | – | – | – |
 | Zumbi | R$ 5.972 | 12 | – | – | – | – |
 
-### Terrenos, cidade toda: venda R$ 994/m² (n=1655)
+### Terrenos, cidade toda: venda R$ 994/m² (n=1652)
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -6406,11 +6388,10 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 
 Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de preço, tamanho = anúncios): https://acorridadosbairros.com.br/mapa/rj-duque-de-caxias-apartamento.png · https://acorridadosbairros.com.br/mapa/rj-duque-de-caxias-casa.png
 
-### Apartamentos, cidade toda: venda R$ 4.548/m² (n=395); aluguel R$ 21,4/m²/mês (n=70); rendimento bruto do aluguel 5,65% a.a.
+### Apartamentos, cidade toda: venda R$ 4.500/m² (n=389); aluguel R$ 21,4/m²/mês (n=70); rendimento bruto do aluguel 5,71% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Barra da Tijuca | R$ 9.810 | 6 | – | – | – | – |
 | Barro Branco | R$ 2.788 | 7 | – | – | – | – |
 | Centro | R$ 3.694 | 30 | – | – | – | – |
 | Chácaras Rio-Petrópolis | R$ 3.777 | 12 | – | – | – | – |
@@ -6428,7 +6409,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Vila São Luís | R$ 4.642 | 7 | – | – | – | – |
 | Xerém | R$ 4.889 | 7 | – | – | – | – |
 
-### Casas, cidade toda: venda R$ 2.556/m² (n=699); aluguel R$ 16,2/m²/mês (n=49); rendimento bruto do aluguel 7,61% a.a.
+### Casas, cidade toda: venda R$ 2.544/m² (n=698); aluguel R$ 16,2/m²/mês (n=49); rendimento bruto do aluguel 7,64% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -6487,7 +6468,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Vila Santa Cruz | R$ 619 | 8 | – | – | – | – |
 | Xerém | R$ 489 | 8 | – | – | – | – |
 
-### Salas comerciais, cidade toda: venda R$ 6.310/m² (n=45); aluguel R$ 33,7/m²/mês (n=68); rendimento bruto do aluguel 6,41% a.a.
+### Salas comerciais, cidade toda: venda R$ 6.310/m² (n=43); aluguel R$ 33,7/m²/mês (n=68); rendimento bruto do aluguel 6,41% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -8662,7 +8643,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 
 Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de preço, tamanho = anúncios): https://acorridadosbairros.com.br/mapa/florianopolis-apartamento.png · https://acorridadosbairros.com.br/mapa/florianopolis-casa.png
 
-### Apartamentos, cidade toda: venda R$ 12.744/m² (n=5515); aluguel R$ 54,1/m²/mês (n=2823); rendimento bruto do aluguel 5,09% a.a.
+### Apartamentos, cidade toda: venda R$ 12.754/m² (n=5454); aluguel R$ 54,1/m²/mês (n=2823); rendimento bruto do aluguel 5,09% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -8671,12 +8652,10 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Armação | – | – | R$ 82,2 | 6 | – | – |
 | Balneário | R$ 11.083 | 108 | R$ 42,0 | 39 | 4,55% | – |
 | Barra da Lagoa | R$ 14.742 | 41 | R$ 84,0 | 8 | 6,84% | – |
-| Barreiros | R$ 9.234 | 12 | – | – | – | – |
 | Bom Abrigo | R$ 9.986 | 51 | R$ 46,6 | 11 | 5,60% | – |
 | Cachoeira do Bom Jesus | R$ 13.227 | 144 | R$ 49,5 | 40 | 4,49% | – |
 | Cacupé | R$ 17.151 | 110 | R$ 83,1 | 20 | 5,81% | – |
 | Campeche | R$ 17.951 | 317 | R$ 68,5 | 184 | 4,58% | – |
-| Campinas | R$ 13.398 | 38 | – | – | – | – |
 | Canasvieiras | R$ 12.250 | 235 | R$ 44,8 | 71 | 4,39% | – |
 | Canto | R$ 11.176 | 111 | R$ 40,6 | 36 | 4,36% | – |
 | Capoeiras | R$ 8.526 | 136 | R$ 41,3 | 63 | 5,81% | – |
@@ -8694,7 +8673,6 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Jardim Atlântico | R$ 12.682 | 154 | R$ 44,6 | 34 | 4,22% | – |
 | João Paulo | R$ 15.453 | 186 | R$ 59,7 | 73 | 4,64% | – |
 | Jurerê | R$ 20.994 | 386 | R$ 73,8 | 89 | 4,22% | – |
-| Kobrasol | R$ 8.012 | 11 | – | – | – | – |
 | Lagoa da Conceição | R$ 14.830 | 60 | R$ 62,9 | 61 | 5,09% | – |
 | Monte Cristo | – | – | R$ 41,1 | 5 | – | – |
 | Monte Verde | R$ 12.180 | 40 | R$ 62,4 | 20 | 6,15% | – |
@@ -8715,7 +8693,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Vargem do Bom Jesus | R$ 7.518 | 14 | – | – | – | – |
 | Vargem Grande | R$ 9.836 | 11 | R$ 40,2 | 7 | 4,90% | – |
 
-### Casas, cidade toda: venda R$ 8.307/m² (n=4105); aluguel R$ 48,0/m²/mês (n=704); rendimento bruto do aluguel 6,93% a.a.
+### Casas, cidade toda: venda R$ 8.307/m² (n=4103); aluguel R$ 48,0/m²/mês (n=704); rendimento bruto do aluguel 6,93% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -8822,14 +8800,13 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Vargem Grande | R$ 1.078 | 26 | – | – | – | – |
 | Vargem Pequena | R$ 1.424 | 12 | – | – | – | – |
 
-### Salas comerciais, cidade toda: venda R$ 9.547/m² (n=432); aluguel R$ 57,3/m²/mês (n=342); rendimento bruto do aluguel 7,20% a.a.
+### Salas comerciais, cidade toda: venda R$ 9.382/m² (n=422); aluguel R$ 57,3/m²/mês (n=342); rendimento bruto do aluguel 7,33% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
 | Agronômica | R$ 13.233 | 10 | – | – | – | – |
 | Balneário | R$ 14.609 | 11 | R$ 68,8 | 11 | 5,65% | – |
 | Campeche | R$ 17.765 | 10 | R$ 96,2 | 10 | 6,50% | – |
-| Campinas | R$ 20.566 | 9 | – | – | – | – |
 | Canto | R$ 13.814 | 6 | R$ 80,7 | 18 | 7,01% | – |
 | Capoeiras | R$ 9.563 | 8 | R$ 43,4 | 12 | 5,45% | – |
 | Carvoeira | R$ 13.942 | 5 | – | – | – | – |
@@ -8892,7 +8869,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 
 Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de preço, tamanho = anúncios): https://acorridadosbairros.com.br/mapa/balneario-camboriu-apartamento.png · https://acorridadosbairros.com.br/mapa/balneario-camboriu-casa.png
 
-### Apartamentos, cidade toda: venda R$ 19.775/m² (n=2324); aluguel R$ 64,0/m²/mês (n=1342); rendimento bruto do aluguel 3,88% a.a.
+### Apartamentos, cidade toda: venda R$ 19.808/m² (n=2316); aluguel R$ 63,9/m²/mês (n=1340); rendimento bruto do aluguel 3,87% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -8909,13 +8886,12 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Nações | R$ 14.401 | 72 | R$ 59,9 | 51 | 4,99% | – |
 | Nova Esperança | R$ 8.649 | 21 | R$ 48,0 | 11 | 6,66% | – |
 | Pioneiros | R$ 20.616 | 261 | R$ 73,0 | 177 | 4,25% | – |
-| Praia Brava | R$ 13.644 | 8 | – | – | – | – |
 | Praia do Estaleiro | R$ 22.577 | 11 | – | – | – | – |
 | Praia dos Amores | R$ 16.514 | 67 | R$ 72,0 | 43 | 5,23% | – |
 | São Judas Tadeu | R$ 9.549 | 10 | – | – | – | – |
 | Vila Real | R$ 10.265 | 45 | R$ 50,0 | 16 | 5,85% | – |
 
-### Casas, cidade toda: venda R$ 11.000/m² (n=895); aluguel R$ 58,3/m²/mês (n=42); rendimento bruto do aluguel 6,36% a.a.
+### Casas, cidade toda: venda R$ 10.988/m² (n=894); aluguel R$ 58,3/m²/mês (n=42); rendimento bruto do aluguel 6,37% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -8968,7 +8944,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 
 Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de preço, tamanho = anúncios): https://acorridadosbairros.com.br/mapa/balneario-picarras-apartamento.png · https://acorridadosbairros.com.br/mapa/balneario-picarras-casa.png
 
-### Apartamentos, cidade toda: venda R$ 12.740/m² (n=1519); aluguel R$ 41,9/m²/mês (n=215); rendimento bruto do aluguel 3,95% a.a.
+### Apartamentos, cidade toda: venda R$ 12.687/m² (n=1467); aluguel R$ 41,8/m²/mês (n=214); rendimento bruto do aluguel 3,95% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -8977,13 +8953,10 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Centro | R$ 13.439 | 622 | R$ 41,2 | 74 | 3,68% | – |
 | Gaivotas | R$ 9.442 | 10 | – | – | – | – |
 | Itacolomi | R$ 12.564 | 688 | R$ 43,2 | 122 | 4,13% | – |
-| Itajubá | R$ 10.561 | 25 | – | – | – | – |
-| Itajubá II | R$ 20.244 | 7 | – | – | – | – |
 | Nossa Senhora da Paz | R$ 8.064 | 41 | R$ 37,4 | 10 | 5,57% | – |
 | Santo Antônio | R$ 8.963 | 38 | R$ 35,5 | 7 | 4,75% | – |
-| Tabuleiro | R$ 16.037 | 20 | – | – | – | – |
 
-### Casas, cidade toda: venda R$ 6.735/m² (n=993); aluguel R$ 34,0/m²/mês (n=107); rendimento bruto do aluguel 6,06% a.a.
+### Casas, cidade toda: venda R$ 6.696/m² (n=973); aluguel R$ 34,0/m²/mês (n=107); rendimento bruto do aluguel 6,09% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -8991,12 +8964,11 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Centro | R$ 7.758 | 306 | R$ 34,0 | 37 | 5,26% | – |
 | Gaivotas | R$ 7.234 | 5 | – | – | – | – |
 | Itacolomi | R$ 6.500 | 463 | R$ 34,6 | 53 | 6,39% | – |
-| Itajubá | R$ 7.265 | 20 | – | – | – | – |
 | Nossa Senhora da Conceição | R$ 4.733 | 17 | – | – | – | – |
 | Nossa Senhora da Paz | R$ 6.250 | 104 | R$ 33,7 | 12 | 6,47% | – |
 | Santo Antônio | R$ 5.603 | 52 | – | – | – | – |
 
-### Terrenos, cidade toda: venda R$ 1.128/m² (n=436)
+### Terrenos, cidade toda: venda R$ 1.128/m² (n=432)
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -9012,7 +8984,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Ponta do Jacques | R$ 592 | 5 | – | – | – | – |
 | Santo Antônio | R$ 1.128 | 31 | – | – | – | – |
 
-### Salas comerciais, cidade toda: venda R$ 14.444/m² (n=47); aluguel R$ 75,0/m²/mês (n=56); rendimento bruto do aluguel 6,23% a.a.
+### Salas comerciais, cidade toda: venda R$ 14.722/m² (n=46); aluguel R$ 75,0/m²/mês (n=56); rendimento bruto do aluguel 6,11% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -9024,14 +8996,12 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 
 Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de preço, tamanho = anúncios): https://acorridadosbairros.com.br/mapa/barra-velha-apartamento.png · https://acorridadosbairros.com.br/mapa/barra-velha-casa.png
 
-### Apartamentos, cidade toda: venda R$ 10.068/m² (n=1039); aluguel R$ 39,2/m²/mês (n=110); rendimento bruto do aluguel 4,67% a.a.
+### Apartamentos, cidade toda: venda R$ 10.106/m² (n=1014); aluguel R$ 39,2/m²/mês (n=110); rendimento bruto do aluguel 4,65% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
 | Beira Mar | R$ 14.224 | 32 | – | – | – | – |
 | Centro | R$ 9.483 | 153 | R$ 39,8 | 8 | 5,04% | – |
-| Gravatá | R$ 7.018 | 6 | – | – | – | – |
-| Itacolomi | R$ 10.084 | 19 | – | – | – | – |
 | Itajubá | R$ 9.216 | 357 | R$ 39,4 | 81 | 5,13% | – |
 | Itajubá II | R$ 9.844 | 34 | – | – | – | – |
 | Itingá I | R$ 7.456 | 13 | – | – | – | – |
@@ -9045,13 +9015,12 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Tabuleiro | R$ 12.522 | 285 | R$ 41,2 | 8 | 3,95% | – |
 | Vila Nova | R$ 5.812 | 8 | – | – | – | – |
 
-### Casas, cidade toda: venda R$ 5.589/m² (n=1332); aluguel R$ 28,0/m²/mês (n=65); rendimento bruto do aluguel 6,01% a.a.
+### Casas, cidade toda: venda R$ 5.558/m² (n=1318); aluguel R$ 28,1/m²/mês (n=64); rendimento bruto do aluguel 6,07% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
 | Centro | R$ 5.844 | 169 | R$ 26,9 | 5 | 5,52% | – |
 | Icaraí | R$ 4.762 | 14 | – | – | – | – |
-| Itacolomi | R$ 5.994 | 14 | – | – | – | – |
 | Itajubá | R$ 5.696 | 513 | R$ 27,4 | 40 | 5,77% | – |
 | Itajubá II | R$ 6.412 | 15 | – | – | – | – |
 | Jardim Icaraí | R$ 6.495 | 32 | – | – | – | – |
@@ -11104,7 +11073,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 
 Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de preço, tamanho = anúncios): https://acorridadosbairros.com.br/mapa/sao-jose-apartamento.png · https://acorridadosbairros.com.br/mapa/sao-jose-casa.png
 
-### Apartamentos, cidade toda: venda R$ 7.810/m² (n=1944); aluguel R$ 38,5/m²/mês (n=1418); rendimento bruto do aluguel 5,92% a.a.
+### Apartamentos, cidade toda: venda R$ 7.845/m² (n=1913); aluguel R$ 38,5/m²/mês (n=1417); rendimento bruto do aluguel 5,89% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -11112,7 +11081,6 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Barreiros | R$ 8.765 | 230 | R$ 40,6 | 199 | 5,56% | – |
 | Bela Vista | R$ 7.141 | 34 | R$ 36,8 | 29 | 6,18% | – |
 | Campinas | R$ 8.994 | 371 | R$ 42,5 | 238 | 5,67% | – |
-| Capoeiras | R$ 7.143 | 5 | – | – | – | – |
 | Centro | R$ 9.172 | 53 | R$ 41,3 | 21 | 5,40% | – |
 | Distrito Industrial | R$ 8.931 | 6 | – | – | – | – |
 | Fazenda Santo Antônio | R$ 7.728 | 24 | R$ 37,3 | 32 | 5,79% | – |
@@ -11124,19 +11092,16 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Jardim Cidade de Florianópolis | R$ 7.511 | 31 | R$ 36,5 | 45 | 5,83% | – |
 | Kobrasol | R$ 9.716 | 255 | R$ 44,4 | 181 | 5,48% | – |
 | Nossa Senhora do Rosário | R$ 8.329 | 114 | R$ 35,4 | 75 | 5,10% | – |
-| Nova Palhoça | R$ 5.887 | 8 | – | – | – | – |
-| Pagani | R$ 6.432 | 6 | – | – | – | – |
 | Picadas do Sul | R$ 6.392 | 8 | R$ 29,4 | 14 | 5,52% | – |
 | Ponta de Baixo | R$ 5.714 | 11 | R$ 35,5 | 14 | 7,45% | – |
 | Potecas | R$ 5.536 | 24 | R$ 31,8 | 19 | 6,89% | – |
 | Praia Comprida | R$ 8.233 | 88 | R$ 34,8 | 60 | 5,07% | – |
 | Real Parque | R$ 5.224 | 17 | R$ 32,4 | 26 | 7,44% | – |
 | Roçado | R$ 7.949 | 62 | R$ 41,9 | 36 | 6,33% | – |
-| São Sebastião | R$ 4.825 | 6 | – | – | – | – |
 | Serraria | R$ 6.078 | 101 | R$ 34,6 | 103 | 6,83% | – |
 | Sertão do Maruim | R$ 6.146 | 53 | R$ 30,8 | 41 | 6,01% | – |
 
-### Casas, cidade toda: venda R$ 5.564/m² (n=2458); aluguel R$ 33,0/m²/mês (n=190); rendimento bruto do aluguel 7,12% a.a.
+### Casas, cidade toda: venda R$ 5.556/m² (n=2430); aluguel R$ 33,0/m²/mês (n=190); rendimento bruto do aluguel 7,13% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -11144,10 +11109,8 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Barreiros | R$ 5.588 | 173 | R$ 30,0 | 35 | 6,44% | – |
 | Bela Vista | R$ 5.646 | 49 | R$ 30,8 | 12 | 6,55% | – |
 | Bosque das Mansões | R$ 10.000 | 21 | – | – | – | – |
-| Caminho Novo | R$ 6.689 | 8 | – | – | – | – |
 | Campinas | R$ 6.726 | 24 | – | – | – | – |
 | Centro | R$ 6.333 | 69 | R$ 42,7 | 7 | 8,09% | – |
-| Cidade Universitária Pedra Branca | R$ 10.604 | 6 | – | – | – | – |
 | Fazenda Santo Antônio | R$ 4.979 | 33 | – | – | – | – |
 | Flor de Nápolis | R$ 3.678 | 18 | – | – | – | – |
 | Forquilhas | R$ 5.327 | 574 | R$ 36,1 | 31 | 8,13% | – |
@@ -11162,7 +11125,6 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Ponta de Baixo | R$ 6.000 | 45 | – | – | – | – |
 | Potecas | R$ 5.664 | 261 | R$ 36,4 | 8 | 7,71% | – |
 | Praia Comprida | R$ 5.800 | 29 | R$ 22,6 | 7 | 4,68% | – |
-| Praia de Fora | R$ 5.992 | 5 | – | – | – | – |
 | Real Parque | R$ 5.357 | 67 | – | – | – | – |
 | Roçado | R$ 4.167 | 37 | – | – | – | – |
 | San Marino | R$ 5.703 | 10 | – | – | – | – |
@@ -11170,7 +11132,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Serraria | R$ 5.333 | 154 | – | – | – | – |
 | Sertão do Maruim | R$ 5.665 | 244 | R$ 22,4 | 8 | 4,74% | – |
 
-### Terrenos, cidade toda: venda R$ 1.070/m² (n=628)
+### Terrenos, cidade toda: venda R$ 1.069/m² (n=625)
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -11197,7 +11159,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Serraria | R$ 1.000 | 28 | – | – | – | – |
 | Sertão do Maruim | R$ 974 | 104 | – | – | – | – |
 
-### Salas comerciais, cidade toda: venda R$ 9.333/m² (n=79); aluguel R$ 56,4/m²/mês (n=377); rendimento bruto do aluguel 7,25% a.a.
+### Salas comerciais, cidade toda: venda R$ 9.333/m² (n=77); aluguel R$ 56,4/m²/mês (n=377); rendimento bruto do aluguel 7,25% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -11266,7 +11228,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 
 Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de preço, tamanho = anúncios): https://acorridadosbairros.com.br/mapa/sp-sao-paulo-apartamento.png · https://acorridadosbairros.com.br/mapa/sp-sao-paulo-casa.png
 
-### Apartamentos, cidade toda: venda R$ 9.180/m² (n=40738); aluguel R$ 53,8/m²/mês (n=11147); rendimento bruto do aluguel 7,03% a.a.
+### Apartamentos, cidade toda: venda R$ 9.182/m² (n=40729); aluguel R$ 53,8/m²/mês (n=11147); rendimento bruto do aluguel 7,03% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -11857,7 +11819,6 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Ponte Rasa | R$ 6.822 | 6 | R$ 32,9 | 5 | 5,79% | – |
 | Portal do Morumbi | R$ 9.182 | 19 | – | – | – | – |
 | Praça da Árvore | R$ 13.505 | 16 | – | – | – | – |
-| Praia Grande | R$ 7.647 | 9 | – | – | – | – |
 | Quarta Parada | R$ 11.993 | 20 | R$ 60,0 | 10 | 6,00% | – |
 | Quinta da Paineira | R$ 7.203 | 52 | – | – | – | – |
 | Raposo Tavares | R$ 5.106 | 5 | – | – | – | – |
@@ -12088,7 +12049,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Vila Zelina | R$ 7.632 | 24 | – | – | – | – |
 | Vila Zilda (Tatuapé) | R$ 11.350 | 44 | R$ 68,8 | 7 | 7,27% | – |
 
-### Casas, cidade toda: venda R$ 5.000/m² (n=31425); aluguel R$ 30,2/m²/mês (n=4278); rendimento bruto do aluguel 7,25% a.a.
+### Casas, cidade toda: venda R$ 5.000/m² (n=31423); aluguel R$ 30,2/m²/mês (n=4278); rendimento bruto do aluguel 7,25% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
