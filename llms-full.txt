@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 109 cidades de Santa Catarina, São Paulo e mais 25 estados, Brasil, bairro por bairro, a partir de 883.729 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (outubro/2026).
+> O preço do m² de 109 cidades de Santa Catarina, São Paulo e mais 25 estados, Brasil, bairro por bairro, a partir de 884.658 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (outubro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, outubro/2026. https://acorridadosbairros.com.br
 
@@ -814,109 +814,111 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 
 Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de preço, tamanho = anúncios): https://acorridadosbairros.com.br/mapa/ce-fortaleza-apartamento.png · https://acorridadosbairros.com.br/mapa/ce-fortaleza-casa.png
 
-### Apartamentos, cidade toda: venda R$ 7.195/m² (n=6431); aluguel R$ 28,6/m²/mês (n=1117); rendimento bruto do aluguel 4,77% a.a.
+### Apartamentos, cidade toda: venda R$ 6.782/m² (n=7242); aluguel R$ 28,6/m²/mês (n=1118); rendimento bruto do aluguel 5,06% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
 | Água Fria | R$ 8.099 | 7 | – | – | – | – |
-| Aldeota | R$ 9.770 | 545 | R$ 48,5 | 63 | 5,96% | – |
+| Aldeota | R$ 9.717 | 547 | R$ 49,9 | 64 | 6,16% | – |
 | Álvaro Weyne | R$ 4.546 | 13 | R$ 19,6 | 6 | 5,17% | – |
 | Amadeu Furtado | R$ 3.106 | 10 | R$ 19,7 | 7 | 7,61% | – |
 | Antônio Bezerra | R$ 5.024 | 37 | R$ 21,2 | 16 | 5,06% | – |
 | Antônio Diogo | R$ 7.362 | 22 | – | – | – | – |
+| Aracapé | R$ 1.510 | 20 | – | – | – | – |
 | Bairro de Fatima | R$ 8.662 | 11 | – | – | – | – |
-| Barra do Ceará | R$ 4.900 | 23 | R$ 17,3 | 15 | 4,24% | – |
-| Barroso | R$ 4.402 | 29 | R$ 26,2 | 5 | 7,14% | – |
-| Bela Vista | R$ 4.373 | 12 | R$ 16,0 | 5 | 4,39% | – |
-| Benfica | R$ 5.958 | 97 | R$ 21,1 | 17 | 4,25% | – |
-| Cais do Porto | R$ 6.421 | 5 | – | – | – | – |
-| Cajazeiras | R$ 3.770 | 47 | R$ 21,2 | 18 | 6,75% | – |
-| Cambeba | R$ 7.329 | 89 | R$ 35,7 | 14 | 5,85% | – |
-| Carlito Pamplona | R$ 5.575 | 11 | R$ 18,8 | 8 | 4,05% | – |
+| Barra do Ceará | R$ 4.154 | 27 | R$ 17,3 | 15 | 5,00% | – |
+| Barroso | R$ 2.762 | 40 | R$ 26,2 | 5 | 11,38% | – |
+| Bela Vista | R$ 3.500 | 13 | R$ 16,0 | 5 | 5,49% | – |
+| Benfica | R$ 6.524 | 107 | R$ 21,1 | 17 | 3,88% | – |
+| Cais do Porto | R$ 6.625 | 6 | – | – | – | – |
+| Cajazeiras | R$ 2.711 | 66 | R$ 21,2 | 18 | 9,38% | – |
+| Cambeba | R$ 6.696 | 122 | R$ 35,7 | 14 | 6,40% | – |
+| Carlito Pamplona | R$ 5.626 | 12 | R$ 18,8 | 8 | 4,01% | – |
 | Castelão | R$ 4.323 | 5 | – | – | – | – |
-| Centro | R$ 7.963 | 87 | R$ 25,0 | 46 | 3,77% | – |
+| Centro | R$ 7.834 | 100 | R$ 25,0 | 46 | 3,83% | – |
 | Cid. dos Funcionari | R$ 10.509 | 5 | – | – | – | – |
-| Cidade 2000 | R$ 7.022 | 24 | R$ 43,7 | 6 | 7,47% | – |
-| Cidade dos Funcionários | R$ 4.261 | 64 | R$ 20,0 | 15 | 5,63% | – |
-| Coaçu | R$ 4.909 | 6 | – | – | – | – |
-| Cocó | R$ 9.841 | 306 | R$ 40,0 | 39 | 4,88% | – |
+| Cidade 2000 | R$ 7.042 | 26 | R$ 43,7 | 6 | 7,45% | – |
+| Cidade dos Funcionários | R$ 4.418 | 68 | R$ 20,0 | 15 | 5,43% | – |
+| Coaçu | R$ 3.959 | 11 | – | – | – | – |
+| Cocó | R$ 9.444 | 368 | R$ 40,0 | 39 | 5,08% | – |
 | Conjunto Esperança | R$ 2.128 | 9 | – | – | – | – |
-| Cristo Redentor | R$ 5.768 | 12 | – | – | – | – |
-| Curió | R$ 4.002 | 6 | – | – | – | – |
-| Damas | R$ 5.429 | 73 | – | – | – | – |
+| Cristo Redentor | R$ 5.870 | 13 | – | – | – | – |
+| Curió | R$ 3.913 | 7 | – | – | – | – |
+| Damas | R$ 5.452 | 74 | – | – | – | – |
 | De Lourdes | R$ 9.398 | 24 | – | – | – | – |
 | Demócrito Rocha | R$ 2.897 | 6 | – | – | – | – |
 | Dias Macedo | R$ 4.326 | 9 | – | – | – | – |
-| Dionisio Torres | R$ 7.131 | 174 | R$ 36,9 | 19 | 6,21% | – |
-| Dunas | R$ 9.245 | 43 | – | – | – | – |
-| Edson Queiroz | R$ 8.272 | 54 | R$ 60,2 | 6 | 8,73% | – |
+| Dionisio Torres | R$ 6.715 | 199 | R$ 36,9 | 19 | 6,59% | – |
+| Dunas | R$ 9.376 | 45 | – | – | – | – |
+| Edson Queiroz | R$ 8.169 | 62 | R$ 60,2 | 6 | 8,84% | – |
 | Eng. Luciano Cavalcante | R$ 9.269 | 5 | – | – | – | – |
-| Engenheiro Luciano Cavalcante | R$ 9.322 | 133 | R$ 48,8 | 20 | 6,28% | – |
-| Farias Brito | R$ 2.990 | 9 | R$ 19,5 | 6 | 7,83% | – |
-| Fátima | R$ 7.742 | 185 | R$ 36,1 | 15 | 5,60% | – |
-| Guararapes | R$ 10.229 | 217 | R$ 51,1 | 14 | 5,99% | – |
-| Henrique Jorge | R$ 3.977 | 13 | – | – | – | – |
-| Itaperi | R$ 4.043 | 45 | R$ 26,8 | 18 | 7,96% | – |
-| Jacarecanga | R$ 5.374 | 51 | R$ 29,8 | 8 | 6,65% | – |
-| Jangurussu | R$ 3.190 | 38 | R$ 20,2 | 8 | 7,60% | – |
+| Engenheiro Luciano Cavalcante | R$ 9.322 | 135 | R$ 48,8 | 20 | 6,28% | – |
+| Farias Brito | R$ 2.867 | 10 | R$ 19,5 | 6 | 8,16% | – |
+| Fátima | R$ 7.500 | 211 | R$ 36,1 | 15 | 5,78% | – |
+| Guararapes | R$ 10.095 | 242 | R$ 51,1 | 14 | 6,07% | – |
+| Henrique Jorge | R$ 3.904 | 14 | – | – | – | – |
+| Itaperi | R$ 3.920 | 50 | R$ 26,8 | 18 | 8,20% | – |
+| Jacarecanga | R$ 5.280 | 55 | R$ 29,8 | 8 | 6,77% | – |
+| Jangurussu | R$ 3.070 | 42 | R$ 20,2 | 8 | 7,90% | – |
 | Jardim América | R$ 3.883 | 15 | R$ 23,8 | 8 | 7,35% | – |
-| Jardim Cearense | R$ 4.976 | 14 | R$ 20,0 | 11 | 4,82% | – |
+| Jardim Cearense | R$ 5.542 | 20 | R$ 20,0 | 11 | 4,33% | – |
 | Jardim das Oliveiras | – | – | R$ 15,0 | 5 | – | – |
 | Jardim Iracema | – | – | R$ 17,3 | 12 | – | – |
-| Joaquim Távora | R$ 5.262 | 122 | R$ 30,0 | 22 | 6,84% | – |
+| Joaquim Távora | R$ 5.161 | 139 | R$ 30,0 | 22 | 6,97% | – |
 | Jóquei Clube | R$ 6.684 | 46 | R$ 23,3 | 7 | 4,18% | – |
-| José Bonifácio | R$ 8.396 | 51 | – | – | – | – |
-| José de Alencar | R$ 4.454 | 29 | – | – | – | – |
+| José Bonifácio | R$ 8.222 | 55 | – | – | – | – |
+| José de Alencar | R$ 4.549 | 30 | – | – | – | – |
 | Lagoa Redonda | R$ 4.795 | 21 | R$ 21,8 | 12 | 5,46% | – |
 | Lagoa Sapiranga (Coité) | R$ 8.176 | 5 | – | – | – | – |
 | Luciano Cavalcante | R$ 9.992 | 62 | – | – | – | – |
-| Manoel Dias Branco | R$ 7.354 | 33 | – | – | – | – |
+| Manoel Dias Branco | R$ 7.031 | 35 | – | – | – | – |
 | Manuel Sátiro | R$ 3.126 | 6 | – | – | – | – |
-| Maraponga | R$ 4.892 | 110 | R$ 24,4 | 29 | 5,98% | – |
-| Meireles | R$ 12.188 | 1016 | R$ 59,4 | 125 | 5,85% | – |
-| Messejana | R$ 4.688 | 119 | R$ 24,9 | 30 | 6,37% | – |
-| Mondubim | R$ 4.750 | 85 | R$ 23,3 | 31 | 5,89% | – |
-| Monte Castelo | R$ 5.368 | 44 | R$ 24,2 | 8 | 5,41% | – |
-| Montese | R$ 3.288 | 75 | R$ 19,0 | 15 | 6,93% | – |
-| Mucuripe | R$ 12.850 | 202 | R$ 61,2 | 46 | 5,72% | – |
-| Novo Mondubim | R$ 3.412 | 20 | R$ 19,2 | 6 | 6,75% | – |
-| Papicu | R$ 4.747 | 188 | R$ 25,7 | 23 | 6,50% | – |
-| Parangaba | R$ 5.595 | 60 | R$ 23,3 | 15 | 5,00% | – |
-| Parque Del Sol | R$ 9.468 | 18 | – | – | – | – |
-| Parque Dois Irmãos | R$ 5.185 | 41 | R$ 29,4 | 14 | 6,80% | – |
-| Parque Iracema | R$ 8.579 | 108 | R$ 34,3 | 13 | 4,80% | – |
-| Parque Manibura | R$ 5.393 | 14 | – | – | – | – |
-| Parque Santa Maria | R$ 4.809 | 10 | – | – | – | – |
-| Parquelândia | R$ 8.333 | 104 | R$ 25,2 | 13 | 3,63% | – |
-| Parreão | R$ 6.034 | 37 | – | – | – | – |
-| Passaré | R$ 5.500 | 129 | R$ 26,8 | 39 | 5,85% | – |
-| Patriolino Ribeiro | R$ 8.889 | 43 | – | – | – | – |
-| Paupina | R$ 4.407 | 30 | R$ 25,0 | 5 | 6,81% | – |
+| Maraponga | R$ 4.682 | 135 | R$ 24,4 | 29 | 6,25% | – |
+| Meireles | R$ 12.000 | 1007 | R$ 59,4 | 125 | 5,94% | – |
+| Messejana | R$ 4.686 | 140 | R$ 24,9 | 30 | 6,38% | – |
+| Mondubim | R$ 3.393 | 140 | R$ 23,3 | 31 | 8,24% | – |
+| Monte Castelo | R$ 4.989 | 47 | R$ 24,2 | 8 | 5,82% | – |
+| Montese | R$ 3.333 | 77 | R$ 19,0 | 15 | 6,84% | – |
+| Mucuripe | R$ 12.735 | 240 | R$ 61,2 | 46 | 5,77% | – |
+| Novo Mondubim | R$ 3.125 | 23 | R$ 19,2 | 6 | 7,37% | – |
+| Papicu | R$ 4.644 | 222 | R$ 25,7 | 23 | 6,64% | – |
+| Parangaba | R$ 5.528 | 64 | R$ 23,3 | 15 | 5,06% | – |
+| Parque Del Sol | R$ 9.468 | 20 | – | – | – | – |
+| Parque Dois Irmãos | R$ 3.546 | 80 | R$ 29,4 | 14 | 9,95% | – |
+| Parque Iracema | R$ 8.420 | 148 | R$ 34,3 | 13 | 4,89% | – |
+| Parque Manibura | R$ 5.286 | 17 | – | – | – | – |
+| Parque Santa Maria | R$ 4.250 | 11 | – | – | – | – |
+| Parquelândia | R$ 8.333 | 115 | R$ 25,2 | 13 | 3,63% | – |
+| Parreão | R$ 5.830 | 40 | – | – | – | – |
+| Passaré | R$ 5.231 | 151 | R$ 26,8 | 39 | 6,15% | – |
+| Patriolino Ribeiro | R$ 9.048 | 53 | – | – | – | – |
+| Paupina | R$ 2.286 | 82 | R$ 25,0 | 5 | 13,13% | – |
 | Pici | R$ 7.352 | 9 | – | – | – | – |
-| Planalto Ayrton Senna | R$ 3.546 | 11 | R$ 22,8 | 10 | 7,72% | – |
-| Praia de Iracema | R$ 12.238 | 105 | R$ 56,0 | 17 | 5,49% | – |
+| Planalto Ayrton Senna | R$ 3.550 | 12 | R$ 22,8 | 10 | 7,71% | – |
+| Praia de Iracema | R$ 11.948 | 110 | R$ 56,0 | 17 | 5,62% | – |
 | Praia do Futuro | R$ 6.028 | 97 | R$ 50,6 | 14 | 10,07% | – |
-| Praia do Futuro I | R$ 4.462 | 31 | R$ 28,3 | 6 | 7,61% | – |
-| Praia do Futuro II | R$ 7.674 | 66 | R$ 56,5 | 12 | 8,84% | – |
-| Prefeito José Walter | R$ 4.236 | 28 | – | – | – | – |
-| Presidente Kennedy | R$ 7.647 | 105 | R$ 44,8 | 14 | 7,03% | – |
-| Rachel de Queiroz | R$ 4.274 | 6 | – | – | – | – |
-| Rodolfo Teófilo | R$ 3.060 | 10 | R$ 20,6 | 9 | 8,08% | – |
-| Salinas | R$ 5.277 | 16 | – | – | – | – |
-| São Gerardo | R$ 5.034 | 75 | R$ 26,0 | 11 | 6,20% | – |
-| São João do Tauape | R$ 3.441 | 42 | – | – | – | – |
-| Sapiranga | R$ 6.253 | 43 | R$ 21,3 | 5 | 4,09% | – |
+| Praia do Futuro I | R$ 6.916 | 33 | R$ 28,3 | 6 | 4,91% | – |
+| Praia do Futuro II | R$ 7.244 | 88 | R$ 56,5 | 12 | 9,36% | – |
+| Prefeito José Walter | R$ 3.871 | 35 | – | – | – | – |
+| Presidente Kennedy | R$ 7.528 | 109 | R$ 44,8 | 14 | 7,14% | – |
+| Quintino Cunha | R$ 1.935 | 9 | – | – | – | – |
+| Rachel de Queiroz | R$ 2.989 | 30 | – | – | – | – |
+| Rodolfo Teófilo | R$ 3.239 | 11 | R$ 20,6 | 9 | 7,63% | – |
+| Salinas | R$ 5.306 | 17 | – | – | – | – |
+| São Gerardo | R$ 5.209 | 78 | R$ 26,0 | 11 | 5,99% | – |
+| São João do Tauape | R$ 3.462 | 43 | – | – | – | – |
+| Sapiranga | R$ 4.985 | 56 | R$ 21,3 | 5 | 5,13% | – |
 | Sapiranga-Coité | R$ 7.838 | 12 | – | – | – | – |
-| Serrinha | R$ 4.364 | 21 | R$ 19,3 | 6 | 5,31% | – |
-| Siqueira | R$ 3.250 | 15 | – | – | – | – |
-| Tauape | R$ 3.667 | 19 | – | – | – | – |
-| Varjota | R$ 5.493 | 99 | R$ 59,6 | 8 | 13,02% | – |
-| Vicente Pinzon | R$ 3.229 | 65 | R$ 41,7 | 7 | 15,50% | – |
+| Serrinha | R$ 4.307 | 22 | R$ 19,3 | 6 | 5,38% | – |
+| Siqueira | R$ 1.900 | 23 | – | – | – | – |
+| Tauape | R$ 3.544 | 20 | – | – | – | – |
+| Varjota | R$ 5.489 | 104 | R$ 59,6 | 8 | 13,03% | – |
+| Vicente Pinzon | R$ 3.333 | 83 | R$ 41,7 | 7 | 15,01% | – |
 | Vila Ellery | – | – | R$ 20,0 | 5 | – | – |
-| Vila União | R$ 3.055 | 34 | R$ 18,3 | 8 | 7,19% | – |
+| Vila União | R$ 3.049 | 35 | R$ 18,3 | 8 | 7,20% | – |
 | Vila Velha | R$ 2.793 | 10 | – | – | – | – |
 
-### Casas, cidade toda: venda R$ 3.478/m² (n=3884); aluguel R$ 17,1/m²/mês (n=381); rendimento bruto do aluguel 5,90% a.a.
+### Casas, cidade toda: venda R$ 3.483/m² (n=3966); aluguel R$ 17,1/m²/mês (n=381); rendimento bruto do aluguel 5,89% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -928,48 +930,48 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Amadeu Furtado | R$ 2.876 | 39 | – | – | – | – |
 | Antônio Bezerra | R$ 1.934 | 27 | R$ 12,5 | 5 | 7,76% | – |
 | Antônio Diogo | R$ 7.857 | 7 | – | – | – | – |
-| Aracapé | R$ 1.786 | 7 | – | – | – | – |
+| Aracapé | R$ 1.948 | 8 | – | – | – | – |
 | Barra do Ceará | R$ 2.500 | 9 | – | – | – | – |
-| Barroso | R$ 2.150 | 9 | – | – | – | – |
+| Barroso | R$ 2.221 | 10 | – | – | – | – |
 | Bela Vista | R$ 2.308 | 15 | – | – | – | – |
 | Benfica | R$ 3.045 | 30 | R$ 20,0 | 5 | 7,88% | – |
-| Boa Vista | R$ 4.602 | 11 | – | – | – | – |
-| Boa Vista Castelão | R$ 2.167 | 5 | – | – | – | – |
+| Boa Vista | R$ 4.622 | 12 | – | – | – | – |
+| Boa Vista Castelão | R$ 2.600 | 7 | – | – | – | – |
 | Bom Futuro | R$ 2.977 | 7 | – | – | – | – |
 | Bonsucesso | R$ 1.814 | 11 | – | – | – | – |
-| Cajazeiras | R$ 4.024 | 37 | – | – | – | – |
-| Cambeba | R$ 4.057 | 88 | R$ 26,1 | 13 | 7,72% | – |
+| Cajazeiras | R$ 4.001 | 38 | – | – | – | – |
+| Cambeba | R$ 4.094 | 92 | R$ 26,1 | 13 | 7,65% | – |
 | Castelão | R$ 2.833 | 13 | – | – | – | – |
 | Centro | R$ 3.605 | 70 | R$ 19,2 | 12 | 6,39% | – |
 | Cidade 2000 | R$ 3.934 | 28 | – | – | – | – |
-| Cidade dos Funcionários | R$ 3.700 | 153 | R$ 23,6 | 14 | 7,65% | – |
+| Cidade dos Funcionários | R$ 3.714 | 155 | R$ 23,6 | 14 | 7,62% | – |
 | Coaçu | R$ 3.171 | 21 | – | – | – | – |
 | Cocó | R$ 3.895 | 21 | – | – | – | – |
 | Conjunto Ceará | R$ 2.217 | 15 | – | – | – | – |
 | Conjunto Ceará I | R$ 1.745 | 6 | – | – | – | – |
 | Conjunto Ceará II | R$ 1.783 | 6 | – | – | – | – |
-| Conjunto Esperança | R$ 1.582 | 10 | – | – | – | – |
+| Conjunto Esperança | R$ 1.574 | 11 | – | – | – | – |
 | Cristo Redentor | R$ 1.661 | 8 | – | – | – | – |
 | Curió | R$ 3.125 | 7 | – | – | – | – |
-| Damas | R$ 2.167 | 23 | – | – | – | – |
+| Damas | R$ 2.109 | 24 | – | – | – | – |
 | De Lourdes | R$ 7.100 | 58 | – | – | – | – |
 | Dendê | R$ 3.653 | 6 | – | – | – | – |
 | Dionisio Torres | R$ 4.556 | 32 | R$ 28,9 | 8 | 7,61% | – |
 | Dunas | R$ 7.704 | 32 | – | – | – | – |
-| Edson Queiroz | R$ 3.956 | 168 | R$ 21,2 | 14 | 6,43% | – |
-| Engenheiro Luciano Cavalcante | R$ 3.868 | 88 | R$ 23,3 | 7 | 7,23% | – |
+| Edson Queiroz | R$ 3.939 | 169 | R$ 21,2 | 14 | 6,46% | – |
+| Engenheiro Luciano Cavalcante | R$ 3.867 | 89 | R$ 23,3 | 7 | 7,23% | – |
 | Farias Brito | R$ 1.842 | 6 | – | – | – | – |
 | Fátima | R$ 3.251 | 66 | R$ 17,1 | 7 | 6,31% | – |
-| Granja Lisboa | R$ 1.600 | 11 | – | – | – | – |
-| Granja Portugal | R$ 1.712 | 6 | – | – | – | – |
+| Granja Lisboa | R$ 1.600 | 12 | – | – | – | – |
+| Granja Portugal | R$ 1.768 | 7 | – | – | – | – |
 | Guajiru | R$ 3.738 | 7 | – | – | – | – |
 | Guararapes | R$ 8.676 | 7 | – | – | – | – |
 | Henrique Jorge | R$ 2.780 | 29 | R$ 22,0 | 6 | 9,50% | – |
-| Itaperi | R$ 3.399 | 58 | R$ 14,6 | 10 | 5,16% | – |
+| Itaperi | R$ 3.399 | 60 | R$ 14,6 | 10 | 5,16% | – |
 | Jacarecanga | R$ 2.193 | 9 | – | – | – | – |
-| Jangurussu | R$ 2.386 | 52 | – | – | – | – |
+| Jangurussu | R$ 2.390 | 53 | – | – | – | – |
 | Jardim América | R$ 2.000 | 7 | – | – | – | – |
-| Jardim Cearense | R$ 5.303 | 39 | R$ 13,7 | 8 | 3,10% | – |
+| Jardim Cearense | R$ 4.982 | 44 | R$ 13,7 | 8 | 3,30% | – |
 | Jardim das Oliveiras | R$ 3.451 | 59 | – | – | – | – |
 | Jardim Guanabara | R$ 1.667 | 9 | – | – | – | – |
 | Jardim Iracema | R$ 1.567 | 10 | – | – | – | – |
@@ -977,131 +979,133 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Joaquim Távora | R$ 3.963 | 39 | – | – | – | – |
 | Jóquei Clube | R$ 3.416 | 27 | – | – | – | – |
 | José Bonifácio | R$ 2.408 | 24 | – | – | – | – |
-| José de Alencar | R$ 4.311 | 118 | R$ 20,5 | 11 | 5,71% | – |
+| José de Alencar | R$ 4.305 | 121 | R$ 20,5 | 11 | 5,71% | – |
 | Lago Jacarey | R$ 4.186 | 6 | – | – | – | – |
-| Lagoa Redonda | R$ 4.103 | 175 | R$ 18,6 | 15 | 5,44% | – |
+| Lagoa Redonda | R$ 4.083 | 179 | R$ 18,6 | 15 | 5,47% | – |
 | Lagoa Sapiranga (Coité) | R$ 4.349 | 30 | – | – | – | – |
 | Luciano Cavalcante | R$ 3.145 | 12 | – | – | – | – |
 | Manoel Dias Branco | R$ 4.867 | 18 | – | – | – | – |
 | Manuel Sátiro | R$ 2.399 | 18 | – | – | – | – |
 | Maporanga | R$ 3.694 | 10 | – | – | – | – |
-| Maraponga | R$ 5.000 | 166 | R$ 19,0 | 5 | 4,56% | – |
+| Maraponga | R$ 5.000 | 174 | R$ 19,0 | 5 | 4,56% | – |
 | Meireles | R$ 6.555 | 20 | – | – | – | – |
 | Messejana | R$ 3.377 | 94 | R$ 17,2 | 10 | 6,11% | – |
-| Mondubim | R$ 3.255 | 138 | R$ 18,0 | 9 | 6,64% | – |
+| Mondubim | R$ 3.255 | 142 | R$ 18,0 | 9 | 6,64% | – |
 | Monte Castelo | R$ 2.630 | 32 | R$ 12,2 | 9 | 5,57% | – |
 | Montese | R$ 2.170 | 89 | R$ 16,2 | 8 | 8,96% | – |
 | Mucuripe | R$ 5.818 | 5 | – | – | – | – |
-| Novo Mondubim | R$ 3.513 | 8 | – | – | – | – |
+| Novo Mondubim | R$ 3.560 | 9 | – | – | – | – |
 | Padre Andrade | R$ 3.250 | 5 | – | – | – | – |
 | Pan Americano | R$ 2.258 | 5 | – | – | – | – |
 | Papicu | R$ 2.960 | 33 | R$ 18,0 | 8 | 7,30% | – |
-| Parangaba | R$ 2.815 | 55 | – | – | – | – |
+| Parangaba | R$ 2.782 | 56 | – | – | – | – |
 | Parque Araxá | R$ 3.247 | 25 | – | – | – | – |
-| Parque Dois Irmãos | R$ 3.169 | 41 | – | – | – | – |
-| Parque Iracema | R$ 4.200 | 11 | – | – | – | – |
+| Parque Dois Irmãos | R$ 3.018 | 42 | – | – | – | – |
+| Parque Iracema | R$ 4.183 | 12 | – | – | – | – |
 | Parque Manibura | R$ 3.750 | 73 | R$ 20,5 | 17 | 6,56% | – |
-| Parque Santa Maria | R$ 3.292 | 11 | – | – | – | – |
+| Parque Santa Maria | R$ 3.333 | 15 | – | – | – | – |
 | Parquelândia | R$ 2.744 | 109 | R$ 15,3 | 8 | 6,69% | – |
 | Parreão | R$ 2.046 | 9 | – | – | – | – |
-| Passaré | R$ 3.482 | 137 | R$ 15,3 | 10 | 5,27% | – |
+| Passaré | R$ 3.504 | 142 | R$ 15,3 | 10 | 5,24% | – |
 | Patriolino Ribeiro | R$ 6.904 | 5 | – | – | – | – |
 | Paupina | R$ 2.364 | 5 | – | – | – | – |
-| Pici | R$ 2.381 | 15 | – | – | – | – |
-| Planalto Ayrton Senna | R$ 3.248 | 14 | – | – | – | – |
+| Pici | R$ 2.178 | 16 | – | – | – | – |
+| Planalto Ayrton Senna | R$ 3.200 | 15 | – | – | – | – |
 | Praia de Iracema | R$ 4.011 | 11 | – | – | – | – |
 | Praia do Futuro | R$ 8.628 | 7 | – | – | – | – |
-| Praia do Futuro I | R$ 8.563 | 8 | – | – | – | – |
+| Praia do Futuro I | R$ 8.152 | 9 | – | – | – | – |
 | Praia do Futuro II | R$ 8.465 | 12 | – | – | – | – |
-| Prefeito José Walter | R$ 2.560 | 61 | R$ 15,9 | 7 | 7,45% | – |
+| Prefeito José Walter | R$ 2.500 | 69 | R$ 15,9 | 7 | 7,63% | – |
 | Presidente Kennedy | R$ 3.838 | 22 | – | – | – | – |
 | Quintino Cunha | R$ 1.778 | 11 | – | – | – | – |
 | Rodolfo Teófilo | R$ 2.890 | 36 | – | – | – | – |
-| Sabiaguaba | R$ 5.342 | 40 | – | – | – | – |
+| Sabiaguaba | R$ 5.356 | 42 | – | – | – | – |
 | Salinas | R$ 3.481 | 6 | – | – | – | – |
-| São Bento | R$ 3.496 | 65 | – | – | – | – |
-| São Gerardo | R$ 2.747 | 33 | – | – | – | – |
+| São Bento | R$ 3.548 | 66 | – | – | – | – |
+| São Gerardo | R$ 2.756 | 34 | – | – | – | – |
 | São João do Tauape | R$ 2.928 | 22 | – | – | – | – |
-| Sapiranga | R$ 3.806 | 185 | R$ 16,5 | 6 | 5,20% | – |
+| Sapiranga | R$ 3.803 | 186 | R$ 16,5 | 6 | 5,21% | – |
 | Sapiranga-Coité | R$ 4.692 | 7 | – | – | – | – |
 | Serrinha | R$ 2.375 | 9 | – | – | – | – |
-| Siqueira | R$ 2.177 | 46 | – | – | – | – |
+| Siqueira | R$ 2.214 | 53 | – | – | – | – |
 | Tauape | R$ 3.613 | 11 | – | – | – | – |
 | Varjota | R$ 4.923 | 7 | – | – | – | – |
 | Vicente Pinzon | R$ 3.214 | 21 | – | – | – | – |
+| Vila Ellery | R$ 2.267 | 5 | – | – | – | – |
 | Vila Peri | R$ 2.197 | 12 | – | – | – | – |
 | Vila União | R$ 2.950 | 31 | – | – | – | – |
 | Vila Velha | R$ 2.541 | 20 | – | – | – | – |
 
-### Terrenos, cidade toda: venda R$ 1.153/m² (n=892)
+### Terrenos, cidade toda: venda R$ 1.136/m² (n=915)
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
 | Aldeota | R$ 3.297 | 15 | – | – | – | – |
 | Ancuri | R$ 298 | 11 | – | – | – | – |
 | Aquiraz | R$ 698 | 6 | – | – | – | – |
+| Aracapé | R$ 600 | 5 | – | – | – | – |
 | Barra do Ceará | R$ 1.200 | 5 | – | – | – | – |
 | Barroso | R$ 546 | 6 | – | – | – | – |
 | Benfica | R$ 1.477 | 8 | – | – | – | – |
 | Cajazeiras | R$ 755 | 12 | – | – | – | – |
 | Cambeba | R$ 1.897 | 14 | – | – | – | – |
-| Centro | R$ 2.039 | 28 | – | – | – | – |
+| Centro | R$ 2.029 | 29 | – | – | – | – |
 | Cidade dos Funcionários | R$ 1.438 | 21 | – | – | – | – |
 | Coaçu | R$ 748 | 12 | – | – | – | – |
 | Cocó | R$ 1.484 | 6 | – | – | – | – |
 | Damas | R$ 1.047 | 13 | – | – | – | – |
-| De Lourdes | R$ 1.527 | 11 | – | – | – | – |
+| De Lourdes | R$ 1.391 | 12 | – | – | – | – |
 | Dionisio Torres | R$ 2.856 | 8 | – | – | – | – |
-| Dunas | R$ 1.000 | 8 | – | – | – | – |
-| Edson Queiroz | R$ 803 | 30 | – | – | – | – |
+| Dunas | R$ 1.000 | 9 | – | – | – | – |
+| Edson Queiroz | R$ 803 | 32 | – | – | – | – |
 | Engenheiro Luciano Cavalcante | R$ 1.221 | 34 | – | – | – | – |
 | Farias Brito | R$ 3.256 | 6 | – | – | – | – |
 | Fátima | R$ 2.482 | 17 | – | – | – | – |
-| Itaperi | R$ 1.235 | 13 | – | – | – | – |
+| Itaperi | R$ 1.235 | 15 | – | – | – | – |
 | Jacarecanga | R$ 1.130 | 5 | – | – | – | – |
 | Jangurussu | R$ 492 | 14 | – | – | – | – |
-| Joaquim Távora | R$ 2.677 | 16 | – | – | – | – |
-| José de Alencar | R$ 776 | 18 | – | – | – | – |
-| Lagoa Redonda | R$ 535 | 50 | – | – | – | – |
+| Joaquim Távora | R$ 2.746 | 17 | – | – | – | – |
+| José de Alencar | R$ 809 | 19 | – | – | – | – |
+| Lagoa Redonda | R$ 500 | 51 | – | – | – | – |
 | Manoel Dias Branco | R$ 1.579 | 9 | – | – | – | – |
-| Maraponga | R$ 1.326 | 12 | – | – | – | – |
-| Messejana | R$ 1.000 | 33 | – | – | – | – |
-| Mondubim | R$ 1.253 | 28 | – | – | – | – |
-| Montese | R$ 1.323 | 21 | – | – | – | – |
+| Maraponga | R$ 1.326 | 14 | – | – | – | – |
+| Messejana | R$ 1.000 | 35 | – | – | – | – |
+| Mondubim | R$ 1.209 | 29 | – | – | – | – |
+| Montese | R$ 1.308 | 22 | – | – | – | – |
 | Papicu | R$ 1.970 | 24 | – | – | – | – |
 | Parangaba | R$ 1.203 | 13 | – | – | – | – |
 | Parque Dois Irmãos | R$ 1.689 | 14 | – | – | – | – |
-| Parque Manibura | R$ 1.303 | 12 | – | – | – | – |
+| Parque Manibura | R$ 1.256 | 13 | – | – | – | – |
 | Parque Presidente Vargas | R$ 303 | 5 | – | – | – | – |
 | Parque Santa Maria | R$ 500 | 5 | – | – | – | – |
 | Parquelândia | R$ 2.278 | 12 | – | – | – | – |
-| Passaré | R$ 891 | 16 | – | – | – | – |
+| Passaré | R$ 877 | 17 | – | – | – | – |
 | Pedras | R$ 350 | 10 | – | – | – | – |
 | Planalto Ayrton Senna | R$ 525 | 6 | – | – | – | – |
 | Praia de Iracema | R$ 3.147 | 6 | – | – | – | – |
 | Praia do Futuro | R$ 1.082 | 12 | – | – | – | – |
 | Prefeito José Walter | R$ 556 | 7 | – | – | – | – |
 | Rodolfo Teófilo | R$ 1.403 | 6 | – | – | – | – |
-| Sabiaguaba | R$ 435 | 28 | – | – | – | – |
+| Sabiaguaba | R$ 420 | 29 | – | – | – | – |
 | São Gerardo | R$ 2.019 | 6 | – | – | – | – |
-| Sapiranga | R$ 895 | 30 | – | – | – | – |
+| Sapiranga | R$ 972 | 31 | – | – | – | – |
 | Siqueira | R$ 283 | 9 | – | – | – | – |
 | Vicente Pinzon | R$ 1.280 | 26 | – | – | – | – |
 
-### Salas comerciais, cidade toda: venda R$ 7.210/m² (n=300); aluguel R$ 40,0/m²/mês (n=533); rendimento bruto do aluguel 6,66% a.a.
+### Salas comerciais, cidade toda: venda R$ 7.232/m² (n=311); aluguel R$ 40,0/m²/mês (n=533); rendimento bruto do aluguel 6,64% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Aldeota | R$ 6.600 | 69 | R$ 50,0 | 76 | 9,09% | – |
+| Aldeota | R$ 6.633 | 75 | R$ 50,0 | 76 | 9,05% | – |
 | Antônio Bezerra | – | – | R$ 39,7 | 6 | – | – |
 | Cambeba | – | – | R$ 52,6 | 12 | – | – |
 | Centro | R$ 2.357 | 34 | R$ 25,3 | 114 | 12,88% | – |
 | Cidade dos Funcionários | – | – | R$ 33,9 | 11 | – | – |
 | Cocó | R$ 15.084 | 10 | R$ 66,7 | 31 | 5,31% | – |
 | Dionisio Torres | R$ 13.684 | 21 | R$ 42,9 | 13 | 3,76% | – |
-| Edson Queiroz | R$ 16.667 | 23 | R$ 59,5 | 12 | 4,28% | – |
+| Edson Queiroz | R$ 16.587 | 24 | R$ 59,5 | 12 | 4,30% | – |
 | Engenheiro Luciano Cavalcante | R$ 6.954 | 6 | R$ 60,5 | 8 | 10,44% | – |
-| Fátima | R$ 8.438 | 9 | R$ 45,8 | 10 | 6,51% | – |
+| Fátima | R$ 5.357 | 11 | R$ 45,8 | 10 | 10,26% | – |
 | Guajerú | – | – | R$ 41,7 | 5 | – | – |
 | Jardim Cearense | – | – | R$ 102,4 | 5 | – | – |
 | Jardim das Oliveiras | – | – | R$ 18,7 | 5 | – | – |
@@ -1110,7 +1114,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Meireles | R$ 8.516 | 41 | R$ 62,0 | 29 | 8,74% | – |
 | Messejana | – | – | R$ 26,7 | 9 | – | – |
 | Montese | – | – | R$ 28,2 | 18 | – | – |
-| Papicu | R$ 16.033 | 12 | R$ 77,0 | 10 | 5,76% | – |
+| Papicu | R$ 16.102 | 13 | R$ 77,0 | 10 | 5,74% | – |
 | Parangaba | – | – | R$ 37,3 | 7 | – | – |
 | Parque Manibura | – | – | R$ 35,6 | 8 | – | – |
 | Parquelândia | R$ 4.150 | 6 | R$ 33,9 | 10 | 9,80% | – |
