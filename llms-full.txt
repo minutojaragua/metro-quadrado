@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 109 cidades de Santa Catarina, São Paulo e mais 25 estados, Brasil, bairro por bairro, a partir de 865.751 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (outubro/2026).
+> O preço do m² de 109 cidades de Santa Catarina, São Paulo e mais 25 estados, Brasil, bairro por bairro, a partir de 869.614 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (outubro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, outubro/2026. https://acorridadosbairros.com.br
 
@@ -9150,147 +9150,149 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 
 Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de preço, tamanho = anúncios): https://acorridadosbairros.com.br/mapa/blumenau-apartamento.png · https://acorridadosbairros.com.br/mapa/blumenau-casa.png
 
-### Apartamentos, cidade toda: venda R$ 7.831/m² (n=2658); aluguel R$ 34,4/m²/mês (n=2093); rendimento bruto do aluguel 5,27% a.a.
+### Apartamentos, cidade toda: venda R$ 6.714/m² (n=4927); aluguel R$ 34,4/m²/mês (n=2093); rendimento bruto do aluguel 6,15% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Água Verde | R$ 6.899 | 109 | R$ 31,7 | 117 | 5,51% | – |
-| Asilo | – | – | R$ 26,1 | 6 | – | – |
-| Badenfurt | R$ 5.420 | 31 | R$ 29,8 | 23 | 6,60% | – |
-| Boa Vista | R$ 6.881 | 18 | R$ 38,9 | 26 | 6,78% | – |
-| Bom Retiro | R$ 9.551 | 32 | R$ 29,7 | 17 | 3,73% | – |
-| Centro | R$ 9.706 | 185 | R$ 43,6 | 162 | 5,39% | – |
-| Escola Agrícola | R$ 7.429 | 112 | R$ 31,2 | 96 | 5,04% | – |
-| Fidélis | R$ 6.700 | 9 | R$ 28,5 | 5 | 5,10% | – |
-| Fortaleza | R$ 7.222 | 89 | R$ 35,6 | 80 | 5,92% | – |
-| Fortaleza Alta | R$ 6.662 | 16 | R$ 29,2 | 83 | 5,26% | – |
-| Garcia | R$ 6.000 | 89 | R$ 28,3 | 59 | 5,66% | – |
-| Itoupava Central | R$ 6.111 | 101 | R$ 27,0 | 78 | 5,30% | – |
-| Itoupava Norte | R$ 7.198 | 96 | R$ 32,2 | 55 | 5,37% | – |
-| Itoupava Seca | R$ 9.447 | 201 | R$ 41,7 | 173 | 5,30% | – |
-| Itoupavazinha | R$ 4.909 | 25 | R$ 27,3 | 28 | 6,67% | – |
-| Jardim Blumenau | R$ 10.120 | 224 | R$ 33,2 | 74 | 3,94% | – |
-| Nova Esperança | R$ 5.802 | 6 | R$ 27,6 | 6 | 5,71% | – |
-| Passo Manso | R$ 5.231 | 26 | R$ 28,8 | 37 | 6,61% | – |
-| Ponta Aguda | R$ 8.226 | 145 | R$ 35,5 | 82 | 5,18% | – |
-| Progresso | – | – | R$ 23,1 | 16 | – | – |
-| Ribeirão Fresco | R$ 5.688 | 15 | R$ 32,5 | 21 | 6,86% | – |
-| Salto | R$ 7.180 | 18 | R$ 35,1 | 15 | 5,87% | – |
-| Salto do Norte | R$ 5.895 | 34 | R$ 32,3 | 41 | 6,57% | – |
-| Salto Weissbach | R$ 5.323 | 29 | R$ 27,8 | 15 | 6,27% | – |
-| Tribess | R$ 6.372 | 23 | R$ 32,1 | 15 | 6,05% | – |
-| Velha | R$ 8.260 | 344 | R$ 41,2 | 259 | 5,99% | – |
-| Velha Central | R$ 5.608 | 30 | R$ 33,3 | 35 | 7,13% | – |
-| Victor Konder | R$ 9.062 | 250 | R$ 37,0 | 196 | 4,90% | – |
-| Vila Formosa | R$ 8.745 | 46 | R$ 27,0 | 19 | 3,71% | – |
-| Vila Nova | R$ 8.296 | 290 | R$ 36,6 | 230 | 5,29% | – |
-| Vorstadt | R$ 8.602 | 48 | R$ 36,7 | 17 | 5,12% | – |
+| Água Verde | R$ 5.645 | 203 | R$ 31,7 | 117 | 6,74% | – |
+| Asilo | R$ 5.225 | 14 | R$ 26,1 | 6 | 5,99% | – |
+| Badenfurt | R$ 5.048 | 58 | R$ 29,8 | 23 | 7,08% | – |
+| Boa Vista | R$ 6.136 | 33 | R$ 38,9 | 26 | 7,61% | – |
+| Bom Retiro | R$ 7.273 | 67 | R$ 29,7 | 17 | 4,90% | – |
+| Centro | R$ 8.014 | 348 | R$ 43,6 | 162 | 6,53% | – |
+| Escola Agrícola | R$ 6.269 | 224 | R$ 31,2 | 96 | 5,97% | – |
+| Fidélis | R$ 7.796 | 34 | R$ 28,5 | 5 | 4,39% | – |
+| Fortaleza | R$ 6.324 | 185 | R$ 35,6 | 80 | 6,76% | – |
+| Fortaleza Alta | R$ 5.735 | 39 | R$ 29,2 | 83 | 6,11% | – |
+| Garcia | R$ 5.096 | 170 | R$ 28,3 | 59 | 6,66% | – |
+| Itoupava Central | R$ 5.435 | 221 | R$ 27,0 | 78 | 5,96% | – |
+| Itoupava Norte | R$ 6.001 | 172 | R$ 32,2 | 55 | 6,44% | – |
+| Itoupava Seca | R$ 7.394 | 422 | R$ 41,7 | 173 | 6,77% | – |
+| Itoupavazinha | R$ 4.790 | 53 | R$ 27,3 | 28 | 6,84% | – |
+| Jardim Blumenau | R$ 9.836 | 259 | R$ 33,2 | 74 | 4,05% | – |
+| Nova Esperança | R$ 5.513 | 8 | R$ 27,6 | 6 | 6,01% | – |
+| Passo Manso | R$ 4.738 | 57 | R$ 28,8 | 37 | 7,29% | – |
+| Ponta Aguda | R$ 7.714 | 180 | R$ 35,5 | 82 | 5,52% | – |
+| Progresso | R$ 5.349 | 13 | R$ 23,1 | 16 | 5,18% | – |
+| Ribeirão Fresco | R$ 5.744 | 28 | R$ 32,5 | 21 | 6,79% | – |
+| Salto | R$ 6.521 | 26 | R$ 35,1 | 15 | 6,46% | – |
+| Salto do Norte | R$ 5.484 | 59 | R$ 32,3 | 41 | 7,07% | – |
+| Salto Weissbach | R$ 5.208 | 55 | R$ 27,8 | 15 | 6,41% | – |
+| Tribess | R$ 5.669 | 50 | R$ 32,1 | 15 | 6,80% | – |
+| Valparaíso | R$ 3.209 | 9 | – | – | – | – |
+| Velha | R$ 6.975 | 631 | R$ 41,2 | 259 | 7,09% | – |
+| Velha Central | R$ 5.054 | 49 | R$ 33,3 | 35 | 7,91% | – |
+| Victor Konder | R$ 7.842 | 489 | R$ 37,0 | 196 | 5,66% | – |
+| Vila Formosa | R$ 7.647 | 87 | R$ 27,0 | 19 | 4,24% | – |
+| Vila Nova | R$ 6.952 | 579 | R$ 36,6 | 230 | 6,32% | – |
+| Vorstadt | R$ 7.492 | 95 | R$ 36,7 | 17 | 5,88% | – |
 
-### Casas, cidade toda: venda R$ 5.101/m² (n=3130); aluguel R$ 26,8/m²/mês (n=628); rendimento bruto do aluguel 6,30% a.a.
+### Casas, cidade toda: venda R$ 5.033/m² (n=3521); aluguel R$ 26,9/m²/mês (n=629); rendimento bruto do aluguel 6,41% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Água Verde | R$ 4.902 | 262 | R$ 30,0 | 37 | 7,34% | – |
-| Asilo | R$ 7.030 | 12 | – | – | – | – |
-| Badenfurt | R$ 4.402 | 67 | R$ 20,6 | 11 | 5,61% | – |
-| Boa Vista | R$ 5.422 | 18 | – | – | – | – |
+| Água Verde | R$ 4.901 | 297 | R$ 30,0 | 37 | 7,34% | – |
+| Asilo | R$ 6.594 | 16 | – | – | – | – |
+| Badenfurt | R$ 4.305 | 79 | R$ 20,6 | 11 | 5,74% | – |
+| Boa Vista | R$ 5.254 | 21 | – | – | – | – |
 | Bom Retiro | – | – | R$ 25,3 | 8 | – | – |
-| Centro | R$ 5.197 | 59 | R$ 28,1 | 29 | 6,49% | – |
-| Escola Agrícola | R$ 5.372 | 280 | R$ 26,2 | 23 | 5,85% | – |
-| Fidélis | R$ 4.647 | 27 | R$ 24,1 | 6 | 6,22% | – |
-| Fortaleza | R$ 4.816 | 172 | R$ 26,7 | 21 | 6,65% | – |
-| Fortaleza Alta | R$ 5.273 | 64 | R$ 20,9 | 14 | 4,76% | – |
-| Garcia | R$ 4.474 | 133 | R$ 28,6 | 21 | 7,67% | – |
-| Glória | R$ 2.962 | 16 | – | – | – | – |
-| Itoupava Central | R$ 5.212 | 322 | R$ 27,0 | 67 | 6,22% | – |
-| Itoupava Norte | R$ 4.846 | 191 | R$ 26,2 | 30 | 6,49% | – |
-| Itoupava Seca | R$ 6.617 | 88 | R$ 30,4 | 24 | 5,51% | – |
-| Itoupavazinha | R$ 4.571 | 111 | R$ 29,7 | 16 | 7,80% | – |
-| Jardim Blumenau | R$ 6.128 | 17 | R$ 35,7 | 13 | 6,99% | – |
-| Passo Manso | R$ 4.817 | 81 | R$ 24,8 | 28 | 6,18% | – |
-| Ponta Aguda | R$ 6.085 | 121 | R$ 23,4 | 44 | 4,61% | – |
-| Progresso | R$ 3.492 | 60 | R$ 23,4 | 8 | 8,04% | – |
-| Ribeirão Fresco | R$ 4.426 | 26 | – | – | – | – |
-| Salto | R$ 5.092 | 39 | R$ 29,2 | 18 | 6,88% | – |
-| Salto do Norte | R$ 4.538 | 85 | R$ 30,0 | 25 | 7,93% | – |
-| Salto Weissbach | R$ 5.135 | 41 | R$ 20,9 | 7 | 4,88% | – |
-| Testo Salto | R$ 5.150 | 55 | R$ 24,3 | 6 | 5,66% | – |
-| Tribess | R$ 4.948 | 66 | R$ 32,6 | 10 | 7,91% | – |
-| Valparaíso | R$ 3.861 | 28 | R$ 27,0 | 7 | 8,39% | – |
-| Velha | R$ 5.226 | 335 | R$ 23,7 | 56 | 5,44% | – |
-| Velha Central | R$ 5.403 | 189 | R$ 29,4 | 29 | 6,53% | – |
-| Victor Konder | R$ 5.707 | 9 | R$ 25,1 | 9 | 5,28% | – |
+| Centro | R$ 5.133 | 65 | R$ 28,1 | 29 | 6,57% | – |
+| Escola Agrícola | R$ 5.372 | 308 | R$ 26,2 | 23 | 5,85% | – |
+| Fidélis | R$ 4.600 | 35 | R$ 24,1 | 6 | 6,29% | – |
+| Fortaleza | R$ 4.833 | 191 | R$ 26,7 | 21 | 6,63% | – |
+| Fortaleza Alta | R$ 5.134 | 77 | R$ 20,9 | 14 | 4,89% | – |
+| Garcia | R$ 4.500 | 145 | R$ 28,6 | 21 | 7,63% | – |
+| Glória | R$ 2.962 | 18 | – | – | – | – |
+| Itoupava Central | R$ 5.114 | 375 | R$ 27,0 | 67 | 6,34% | – |
+| Itoupava Norte | R$ 4.875 | 207 | R$ 26,2 | 30 | 6,45% | – |
+| Itoupava Seca | R$ 6.617 | 94 | R$ 30,4 | 24 | 5,51% | – |
+| Itoupavazinha | R$ 4.330 | 133 | R$ 29,7 | 16 | 8,23% | – |
+| Jardim Blumenau | R$ 6.264 | 18 | R$ 35,7 | 13 | 6,84% | – |
+| Passo Manso | R$ 4.810 | 100 | R$ 25,7 | 29 | 6,41% | – |
+| Petrópolis | R$ 5.180 | 5 | – | – | – | – |
+| Ponta Aguda | R$ 6.000 | 132 | R$ 23,4 | 44 | 4,68% | – |
+| Progresso | R$ 3.505 | 65 | R$ 23,4 | 8 | 8,01% | – |
+| Ribeirão Fresco | R$ 4.426 | 28 | – | – | – | – |
+| Salto | R$ 5.092 | 41 | R$ 29,2 | 18 | 6,88% | – |
+| Salto do Norte | R$ 4.673 | 93 | R$ 30,0 | 25 | 7,70% | – |
+| Salto Weissbach | R$ 5.111 | 47 | R$ 20,9 | 7 | 4,91% | – |
+| Testo Salto | R$ 4.867 | 67 | R$ 24,3 | 6 | 5,99% | – |
+| Tribess | R$ 4.953 | 85 | R$ 32,6 | 10 | 7,90% | – |
+| Valparaíso | R$ 3.943 | 36 | R$ 27,0 | 7 | 8,22% | – |
+| Velha | R$ 5.115 | 356 | R$ 23,7 | 56 | 5,56% | – |
+| Velha Central | R$ 5.333 | 217 | R$ 29,4 | 29 | 6,62% | – |
+| Victor Konder | R$ 5.025 | 9 | R$ 25,1 | 9 | 5,99% | – |
 | Vila Itoupava | R$ 3.571 | 11 | R$ 21,0 | 6 | 7,06% | – |
-| Vila Nova | R$ 5.808 | 73 | R$ 31,6 | 27 | 6,53% | – |
-| Vorstadt | R$ 6.186 | 61 | R$ 21,4 | 17 | 4,15% | – |
+| Vila Nova | R$ 5.714 | 81 | R$ 31,6 | 27 | 6,64% | – |
+| Vorstadt | R$ 6.040 | 62 | R$ 21,4 | 17 | 4,25% | – |
 
-### Terrenos, cidade toda: venda R$ 867/m² (n=1539)
+### Terrenos, cidade toda: venda R$ 828/m² (n=2485)
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Água Verde | R$ 922 | 74 | – | – | – | – |
-| Asilo | R$ 873 | 5 | – | – | – | – |
-| Badenfurt | R$ 455 | 48 | – | – | – | – |
-| Boa Vista | R$ 946 | 10 | – | – | – | – |
-| Bom Retiro | R$ 646 | 7 | – | – | – | – |
-| Centro | R$ 1.333 | 25 | – | – | – | – |
-| Escola Agrícola | R$ 932 | 49 | – | – | – | – |
-| Fidélis | R$ 595 | 13 | – | – | – | – |
-| Fortaleza | R$ 754 | 92 | – | – | – | – |
-| Fortaleza Alta | R$ 427 | 5 | – | – | – | – |
-| Garcia | R$ 628 | 38 | – | – | – | – |
-| Itoupava Central | R$ 691 | 204 | – | – | – | – |
-| Itoupava Norte | R$ 1.550 | 152 | – | – | – | – |
-| Itoupava Seca | R$ 1.129 | 58 | – | – | – | – |
-| Itoupavazinha | R$ 740 | 50 | – | – | – | – |
-| Jardim Blumenau | R$ 1.400 | 7 | – | – | – | – |
-| Passo Manso | R$ 500 | 20 | – | – | – | – |
-| Ponta Aguda | R$ 964 | 149 | – | – | – | – |
-| Progresso | R$ 402 | 15 | – | – | – | – |
-| Ribeirão Fresco | R$ 278 | 22 | – | – | – | – |
-| Salto | R$ 748 | 34 | – | – | – | – |
-| Salto do Norte | R$ 645 | 66 | – | – | – | – |
-| Salto Weissbach | R$ 922 | 18 | – | – | – | – |
-| Testo Salto | R$ 307 | 26 | – | – | – | – |
-| Tribess | R$ 922 | 26 | – | – | – | – |
-| Valparaíso | R$ 535 | 8 | – | – | – | – |
-| Velha | R$ 1.108 | 190 | – | – | – | – |
-| Velha Central | R$ 975 | 38 | – | – | – | – |
-| Victor Konder | R$ 1.836 | 8 | – | – | – | – |
-| Vila Formosa | R$ 932 | 8 | – | – | – | – |
-| Vila Itoupava | R$ 460 | 12 | – | – | – | – |
-| Vila Nova | R$ 1.444 | 30 | – | – | – | – |
-| Vorstadt | R$ 1.906 | 29 | – | – | – | – |
+| Água Verde | R$ 902 | 113 | – | – | – | – |
+| Asilo | R$ 1.100 | 11 | – | – | – | – |
+| Badenfurt | R$ 428 | 84 | – | – | – | – |
+| Boa Vista | R$ 1.019 | 15 | – | – | – | – |
+| Bom Retiro | R$ 572 | 10 | – | – | – | – |
+| Centro | R$ 1.333 | 37 | – | – | – | – |
+| Escola Agrícola | R$ 889 | 90 | – | – | – | – |
+| Fidélis | R$ 720 | 25 | – | – | – | – |
+| Fortaleza | R$ 759 | 143 | – | – | – | – |
+| Fortaleza Alta | R$ 592 | 20 | – | – | – | – |
+| Garcia | R$ 730 | 76 | – | – | – | – |
+| Itoupava Central | R$ 656 | 343 | – | – | – | – |
+| Itoupava Norte | R$ 1.359 | 218 | – | – | – | – |
+| Itoupava Seca | R$ 1.097 | 78 | – | – | – | – |
+| Itoupavazinha | R$ 629 | 73 | – | – | – | – |
+| Jardim Blumenau | R$ 1.399 | 9 | – | – | – | – |
+| Passo Manso | R$ 500 | 37 | – | – | – | – |
+| Ponta Aguda | R$ 1.000 | 205 | – | – | – | – |
+| Progresso | R$ 395 | 29 | – | – | – | – |
+| Ribeirão Fresco | R$ 330 | 23 | – | – | – | – |
+| Salto | R$ 750 | 44 | – | – | – | – |
+| Salto do Norte | R$ 657 | 102 | – | – | – | – |
+| Salto Weissbach | R$ 874 | 34 | – | – | – | – |
+| Testo Salto | R$ 307 | 34 | – | – | – | – |
+| Tribess | R$ 929 | 50 | – | – | – | – |
+| Valparaíso | R$ 532 | 19 | – | – | – | – |
+| Velha | R$ 1.092 | 308 | – | – | – | – |
+| Velha Central | R$ 836 | 69 | – | – | – | – |
+| Victor Konder | R$ 1.912 | 16 | – | – | – | – |
+| Vila Formosa | R$ 930 | 11 | – | – | – | – |
+| Vila Itoupava | R$ 422 | 61 | – | – | – | – |
+| Vila Nova | R$ 1.330 | 51 | – | – | – | – |
+| Vorstadt | R$ 1.905 | 40 | – | – | – | – |
 
-### Salas comerciais, cidade toda: venda R$ 9.341/m² (n=226); aluguel R$ 41,0/m²/mês (n=1202); rendimento bruto do aluguel 5,27% a.a.
+### Salas comerciais, cidade toda: venda R$ 7.868/m² (n=388); aluguel R$ 41,0/m²/mês (n=1203); rendimento bruto do aluguel 6,25% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
 | Água Verde | – | – | R$ 36,0 | 35 | – | – |
 | Badenfurt | – | – | R$ 32,4 | 14 | – | – |
 | Bom Retiro | – | – | R$ 40,0 | 5 | – | – |
-| Centro | R$ 7.568 | 72 | R$ 40,2 | 276 | 6,37% | – |
+| Centro | R$ 6.719 | 117 | R$ 40,2 | 276 | 7,18% | – |
 | Escola Agrícola | – | – | R$ 40,0 | 17 | – | – |
 | Fortaleza | – | – | R$ 53,0 | 31 | – | – |
-| Garcia | R$ 9.362 | 43 | R$ 40,8 | 112 | 5,23% | – |
+| Garcia | R$ 7.868 | 69 | R$ 40,8 | 113 | 6,22% | – |
 | Glória | – | – | R$ 37,3 | 7 | – | – |
-| Itoupava Central | R$ 10.000 | 11 | R$ 45,6 | 104 | 5,47% | – |
-| Itoupava Norte | R$ 8.333 | 5 | R$ 39,8 | 84 | 5,73% | – |
-| Itoupava Seca | – | – | R$ 42,3 | 30 | – | – |
+| Itoupava Central | R$ 9.812 | 20 | R$ 45,6 | 104 | 5,58% | – |
+| Itoupava Norte | R$ 8.452 | 10 | R$ 39,8 | 84 | 5,65% | – |
+| Itoupava Seca | R$ 8.906 | 6 | R$ 42,3 | 30 | 5,70% | – |
 | Itoupavazinha | – | – | R$ 66,8 | 22 | – | – |
-| Jardim Blumenau | R$ 9.756 | 17 | R$ 50,0 | 34 | 6,15% | – |
-| Ponta Aguda | R$ 12.053 | 18 | R$ 43,4 | 58 | 4,32% | – |
+| Jardim Blumenau | R$ 7.600 | 31 | R$ 50,0 | 34 | 7,89% | – |
+| Ponta Aguda | R$ 7.755 | 17 | R$ 43,4 | 58 | 6,72% | – |
 | Progresso | – | – | R$ 28,6 | 6 | – | – |
-| Ribeirão Fresco | – | – | R$ 40,7 | 15 | – | – |
+| Ribeirão Fresco | R$ 5.495 | 12 | R$ 40,7 | 15 | 8,89% | – |
 | Salto | – | – | R$ 44,8 | 12 | – | – |
 | Salto do Norte | – | – | R$ 33,7 | 24 | – | – |
 | Salto Weissbach | – | – | R$ 32,0 | 5 | – | – |
-| Velha | R$ 10.000 | 21 | R$ 41,0 | 94 | 4,92% | – |
+| Velha | R$ 9.839 | 32 | R$ 41,0 | 94 | 5,00% | – |
 | Velha Central | – | – | R$ 33,0 | 9 | – | – |
-| Victor Konder | R$ 10.496 | 9 | R$ 39,8 | 50 | 4,55% | – |
-| Vila Formosa | R$ 9.675 | 5 | R$ 56,2 | 21 | 6,97% | – |
+| Victor Konder | R$ 6.817 | 22 | R$ 39,8 | 50 | 7,01% | – |
+| Vila Formosa | R$ 7.000 | 11 | R$ 56,2 | 21 | 9,63% | – |
 | Vila Itoupava | – | – | R$ 25,0 | 14 | – | – |
-| Vila Nova | R$ 9.670 | 13 | R$ 52,4 | 78 | 6,50% | – |
+| Vila Nova | R$ 9.500 | 27 | R$ 52,4 | 78 | 6,62% | – |
 | Vorstadt | – | – | R$ 37,6 | 30 | – | – |
 
 

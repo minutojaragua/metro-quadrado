@@ -16,6 +16,7 @@ Curitiba,PR,Seminário,apartamento,venda,setembro/2026,outubro/2026,10514,13207,
 Rio de Janeiro,RJ,Centro,apartamento,venda,setembro/2026,outubro/2026,7818,9800,25.3,149
 São Paulo,SP,Chácara Seis de Outubro,apartamento,venda,setembro/2026,outubro/2026,6952,8704,25.2,19
 São Paulo,SP,Parque Peruche,apartamento,venda,setembro/2026,outubro/2026,7432,9280,24.9,16
+Blumenau,SC,Fidélis,apartamento,venda,setembro/2026,outubro/2026,6251,7796,24.7,10
 Chapecó,SC,Bela Vista,apartamento,venda,setembro/2026,outubro/2026,4789,5926,23.8,16
 São Paulo,SP,Vila Nova Conceição,apartamento,venda,setembro/2026,outubro/2026,20680,25397,22.8,162
 Florianópolis,SC,Itaguaçu,apartamento,venda,setembro/2026,outubro/2026,7857,9544,21.5,10
@@ -34,7 +35,6 @@ São Paulo,SP,Cursino,apartamento,venda,setembro/2026,outubro/2026,9203,10800,17
 Florianópolis,SC,Saco Grande,apartamento,venda,setembro/2026,outubro/2026,12025,14094,17.2,101
 Curitiba,PR,Bigorrilho,apartamento,venda,setembro/2026,outubro/2026,10047,11670,16.2,58
 São Paulo,SP,Vila Albertina,apartamento,venda,setembro/2026,outubro/2026,7089,8194,15.6,13
-Blumenau,SC,Velha Central,apartamento,venda,setembro/2026,outubro/2026,4861,5608,15.4,30
 São Paulo,SP,Jardins,apartamento,venda,setembro/2026,outubro/2026,18243,21016,15.2,139
 São Paulo,SP,Bela Aliança,apartamento,venda,setembro/2026,outubro/2026,10639,12245,15.1,11
 Fortaleza,CE,São Gerardo,apartamento,venda,setembro/2026,outubro/2026,4375,5034,15.1,51
@@ -78,7 +78,6 @@ Florianópolis,SC,Agronômica,apartamento,venda,setembro/2026,outubro/2026,14103
 São Paulo,SP,Vila Suzana,apartamento,venda,setembro/2026,outubro/2026,6354,7045,10.9,80
 Balneário Camboriú,SC,Centro,apartamento,venda,setembro/2026,outubro/2026,18249,20227,10.8,784
 Itajaí,SC,Balneário Santa Clara,apartamento,venda,setembro/2026,outubro/2026,18182,20142,10.8,11
-Blumenau,SC,Vila Formosa,apartamento,venda,setembro/2026,outubro/2026,7894,8745,10.8,38
 Recife,PE,Caxangá,apartamento,venda,setembro/2026,outubro/2026,6373,7047,10.6,48
 Porto Belo,SC,Porto Belo,apartamento,venda,setembro/2026,outubro/2026,12412,13717,10.5,17
 São Paulo,SP,Jardim Monte Kemel,apartamento,venda,setembro/2026,outubro/2026,8316,9185,10.5,14
@@ -306,6 +305,7 @@ São Paulo,SP,Jardim Caravelas,apartamento,venda,setembro/2026,outubro/2026,1200
 Balneário Camboriú,SC,Estados,apartamento,venda,setembro/2026,outubro/2026,16825,17501,4.0,32
 Limeira,SP,Fazenda Duas Barras,apartamento,venda,setembro/2026,outubro/2026,4907,5104,4.0,13
 Salvador,BA,São Cristóvão,apartamento,venda,setembro/2026,outubro/2026,5000,5200,4.0,33
+Blumenau,SC,Velha Central,apartamento,venda,setembro/2026,outubro/2026,4861,5054,4.0,33
 Belo Horizonte,MG,São Pedro,apartamento,venda,setembro/2026,outubro/2026,11028,11464,4.0,235
 São Paulo,SP,Santa Cecília,apartamento,venda,setembro/2026,outubro/2026,10125,10525,4.0,155
 Belo Horizonte,MG,Ouro Preto,apartamento,venda,setembro/2026,outubro/2026,7431,7724,3.9,293
@@ -375,7 +375,6 @@ Florianópolis,SC,Jurerê,apartamento,venda,setembro/2026,outubro/2026,18604,192
 Guarulhos,SP,Parque Continental II,apartamento,venda,setembro/2026,outubro/2026,5463,5638,3.2,24
 Recife,PE,Tamarineira,apartamento,venda,setembro/2026,outubro/2026,7018,7242,3.2,111
 São Paulo,SP,Brás,apartamento,venda,setembro/2026,outubro/2026,8367,8633,3.2,136
-Blumenau,SC,Fortaleza,apartamento,venda,setembro/2026,outubro/2026,7000,7222,3.2,83
 São José,SC,Sertão do Maruim,apartamento,venda,setembro/2026,outubro/2026,5957,6146,3.2,51
 São Paulo,SP,Itaim Bibi,apartamento,venda,setembro/2026,outubro/2026,18339,18919,3.2,334
 Rio de Janeiro,RJ,Engenho de Dentro,apartamento,venda,setembro/2026,outubro/2026,3867,3989,3.2,82
@@ -391,7 +390,6 @@ Manaus,AM,São José Operário,apartamento,venda,setembro/2026,outubro/2026,5254
 São Paulo,SP,Vila Olímpia,apartamento,venda,setembro/2026,outubro/2026,16633,17143,3.1,235
 Chapecó,SC,Pinheirinho,apartamento,venda,setembro/2026,outubro/2026,5394,5557,3.0,30
 São Paulo,SP,Vila Ipojuca,apartamento,venda,setembro/2026,outubro/2026,12059,12419,3.0,33
-Blumenau,SC,Salto do Norte,apartamento,venda,setembro/2026,outubro/2026,5724,5895,3.0,34
 Belo Horizonte,MG,Inconfidência,apartamento,venda,setembro/2026,outubro/2026,6271,6458,3.0,16
 Aracaju,SE,Santo Antônio,apartamento,venda,setembro/2026,outubro/2026,3434,3536,3.0,14
 Jundiaí,SP,Retiro,apartamento,venda,setembro/2026,outubro/2026,9185,9458,3.0,16
@@ -462,10 +460,8 @@ São Paulo,SP,Conjunto Habitacional Inácio Monteiro,apartamento,venda,setembro/
 São Paulo,SP,Vila das Belezas,apartamento,venda,setembro/2026,outubro/2026,7877,8069,2.4,12
 Itajaí,SC,Santa Regina,apartamento,venda,setembro/2026,outubro/2026,5557,5692,2.4,14
 Porto Belo,SC,Jardim Dourado,apartamento,venda,setembro/2026,outubro/2026,16476,16875,2.4,110
-Blumenau,SC,Tribess,apartamento,venda,setembro/2026,outubro/2026,6222,6372,2.4,18
 João Pessoa,PB,Jaguaribe,apartamento,venda,setembro/2026,outubro/2026,4269,4372,2.4,14
 Belo Horizonte,MG,Dom Bosco,apartamento,venda,setembro/2026,outubro/2026,4452,4558,2.4,22
-Blumenau,SC,Água Verde,apartamento,venda,setembro/2026,outubro/2026,6739,6899,2.4,109
 Belo Horizonte,MG,Santa Cruz,apartamento,venda,setembro/2026,outubro/2026,5917,6054,2.3,52
 São Paulo,SP,Jardim Paulista,apartamento,venda,setembro/2026,outubro/2026,14904,15250,2.3,604
 São Paulo,SP,Parada XV de Novembro,apartamento,venda,setembro/2026,outubro/2026,5571,5700,2.3,13
@@ -586,7 +582,6 @@ Campinas,SP,Jardim das Paineiras,apartamento,venda,setembro/2026,outubro/2026,90
 Vitória,ES,Jardim Camburi,apartamento,venda,setembro/2026,outubro/2026,12259,12441,1.5,424
 Recife,PE,Casa Forte,apartamento,venda,setembro/2026,outubro/2026,8896,9028,1.5,200
 Rio de Janeiro,RJ,Pitangueiras,apartamento,venda,setembro/2026,outubro/2026,4858,4930,1.5,26
-Blumenau,SC,Boa Vista,apartamento,venda,setembro/2026,outubro/2026,6782,6881,1.5,18
 Belo Horizonte,MG,Estoril,apartamento,venda,setembro/2026,outubro/2026,8745,8872,1.5,202
 Belo Horizonte,MG,Barreiro,apartamento,venda,setembro/2026,outubro/2026,8355,8477,1.5,222
 Belo Horizonte,MG,Jardim América,apartamento,venda,setembro/2026,outubro/2026,5661,5743,1.4,84
@@ -628,7 +623,6 @@ São Paulo,SP,Jardim Avelino,apartamento,venda,setembro/2026,outubro/2026,7971,8
 Guarulhos,SP,Jardim Maia,apartamento,venda,setembro/2026,outubro/2026,9632,9750,1.2,58
 Campinas,SP,Nova Campinas,apartamento,venda,setembro/2026,outubro/2026,14560,14738,1.2,96
 Ponta Grossa,PR,Estrela,apartamento,venda,setembro/2026,outubro/2026,5269,5333,1.2,246
-Blumenau,SC,Itoupava Seca,apartamento,venda,setembro/2026,outubro/2026,9335,9447,1.2,200
 Belo Horizonte,MG,São João Batista,apartamento,venda,setembro/2026,outubro/2026,5120,5182,1.2,76
 Piracicaba,SP,Jardim Parque Jupiá,apartamento,venda,setembro/2026,outubro/2026,4141,4190,1.2,48
 Guarulhos,SP,Vila Tijuco,apartamento,venda,setembro/2026,outubro/2026,7073,7157,1.2,19
@@ -670,7 +664,6 @@ São Paulo,SP,Vila Buarque,apartamento,venda,setembro/2026,outubro/2026,8839,892
 Maceió,AL,Petrópolis,apartamento,venda,setembro/2026,outubro/2026,3654,3690,1.0,21
 Belo Horizonte,MG,Engenho Nogueira,apartamento,venda,setembro/2026,outubro/2026,6792,6861,1.0,26
 Maceió,AL,Pescaria,apartamento,venda,setembro/2026,outubro/2026,7190,7262,1.0,13
-Blumenau,SC,Salto,apartamento,venda,setembro/2026,outubro/2026,7110,7180,1.0,17
 Fortaleza,CE,Parque Del Sol,apartamento,venda,setembro/2026,outubro/2026,9376,9468,1.0,18
 Salvador,BA,Novo Horizonte,apartamento,venda,setembro/2026,outubro/2026,5186,5236,1.0,18
 Rio de Janeiro,RJ,Higienópolis,apartamento,venda,setembro/2026,outubro/2026,3690,3726,1.0,34
@@ -712,7 +705,6 @@ Uberaba,MG,Rec. dos Bandeirantes,apartamento,venda,setembro/2026,outubro/2026,35
 Salvador,BA,Nova Brasília,apartamento,venda,setembro/2026,outubro/2026,4118,4146,0.7,50
 Belém,PA,Cremação,apartamento,venda,setembro/2026,outubro/2026,7450,7500,0.7,32
 São Paulo,SP,Alto da Mooca,apartamento,venda,setembro/2026,outubro/2026,9743,9808,0.7,70
-Blumenau,SC,Fortaleza Alta,apartamento,venda,setembro/2026,outubro/2026,6619,6662,0.7,16
 Guarulhos,SP,Jardim Vila Galvão,apartamento,venda,setembro/2026,outubro/2026,6710,6754,0.6,80
 São Paulo,SP,Santa Teresinha,apartamento,venda,setembro/2026,outubro/2026,10624,10692,0.6,119
 João Pessoa,PB,Planalto Boa Esperança,apartamento,venda,setembro/2026,outubro/2026,3383,3404,0.6,25
@@ -782,7 +774,6 @@ Campinas,SP,Vila Trinta e Um de Março,apartamento,venda,setembro/2026,outubro/2
 Fortaleza,CE,Montese,apartamento,venda,setembro/2026,outubro/2026,3276,3288,0.3,62
 Vitória,ES,Jardim da Penha,apartamento,venda,setembro/2026,outubro/2026,11333,11370,0.3,249
 Belo Horizonte,MG,Sagrada Família,apartamento,venda,setembro/2026,outubro/2026,6602,6623,0.3,200
-Blumenau,SC,Vila Nova,apartamento,venda,setembro/2026,outubro/2026,8271,8296,0.3,277
 Ponta Grossa,PR,Orfãs,apartamento,venda,setembro/2026,outubro/2026,4689,4703,0.3,133
 Recife,PE,Prado,apartamento,venda,setembro/2026,outubro/2026,6666,6686,0.3,44
 Piracicaba,SP,Nova América,apartamento,venda,setembro/2026,outubro/2026,4653,4667,0.3,148
@@ -799,7 +790,6 @@ Guarulhos,SP,Jardim Cumbica,apartamento,venda,setembro/2026,outubro/2026,5312,53
 Limeira,SP,Jardim Santo André,apartamento,venda,setembro/2026,outubro/2026,9434,9459,0.3,15
 São Paulo,SP,Planalto Paulista,apartamento,venda,setembro/2026,outubro/2026,11007,11034,0.3,58
 Penha,SC,Centro,apartamento,venda,setembro/2026,outubro/2026,11370,11398,0.2,453
-Blumenau,SC,Vorstadt,apartamento,venda,setembro/2026,outubro/2026,8581,8602,0.2,45
 Cuiabá,MT,Jardim Petrópolis,apartamento,venda,setembro/2026,outubro/2026,7255,7273,0.2,68
 Penha,SC,Praia de Armação do Itapocorói,apartamento,venda,setembro/2026,outubro/2026,11706,11734,0.2,516
 São Paulo,SP,Jardim Paulistano,apartamento,venda,setembro/2026,outubro/2026,19733,19780,0.2,25
@@ -1009,7 +999,6 @@ Rio de Janeiro,RJ,Engenho Novo,apartamento,venda,setembro/2026,outubro/2026,3429
 Cascavel,PR,Morumbi,apartamento,venda,setembro/2026,outubro/2026,4796,4792,-0.1,12
 Rio de Janeiro,RJ,Humaitá,apartamento,venda,setembro/2026,outubro/2026,13099,13086,-0.1,128
 Itajaí,SC,Espinheiros,apartamento,venda,setembro/2026,outubro/2026,6670,6664,-0.1,33
-Blumenau,SC,Salto Weissbach,apartamento,venda,setembro/2026,outubro/2026,5328,5323,-0.1,29
 Brasília,DF,Noroeste,apartamento,venda,setembro/2026,outubro/2026,17018,17000,-0.1,157
 Recife,PE,Espinheiro,apartamento,venda,setembro/2026,outubro/2026,6470,6463,-0.1,168
 Belo Horizonte,MG,Rio Branco,apartamento,venda,setembro/2026,outubro/2026,5391,5385,-0.1,75
@@ -1022,7 +1011,6 @@ São Paulo,SP,Maranhão,apartamento,venda,setembro/2026,outubro/2026,7752,7740,-
 Belo Horizonte,MG,João Pinheiro,apartamento,venda,setembro/2026,outubro/2026,6276,6267,-0.2,80
 Brasília,DF,Ceilândia,apartamento,venda,setembro/2026,outubro/2026,5426,5417,-0.2,12
 Salvador,BA,Horto Bela Vista,apartamento,venda,setembro/2026,outubro/2026,8278,8264,-0.2,42
-Blumenau,SC,Victor Konder,apartamento,venda,setembro/2026,outubro/2026,9078,9062,-0.2,250
 Balneário Camboriú,SC,Nações,apartamento,venda,setembro/2026,outubro/2026,14426,14401,-0.2,57
 São Paulo,SP,Jardim da Saúde,apartamento,venda,setembro/2026,outubro/2026,7074,7061,-0.2,77
 Recife,PE,Engenho do Meio,apartamento,venda,setembro/2026,outubro/2026,3347,3341,-0.2,16
@@ -1063,7 +1051,6 @@ São Paulo,SP,Santana,apartamento,venda,setembro/2026,outubro/2026,9579,9536,-0.
 Belo Horizonte,MG,Serrano,apartamento,venda,setembro/2026,outubro/2026,6644,6615,-0.4,138
 São Paulo,SP,Jaguaré,apartamento,venda,setembro/2026,outubro/2026,8345,8308,-0.4,60
 Salvador,BA,Nazaré,apartamento,venda,setembro/2026,outubro/2026,3240,3226,-0.5,80
-Blumenau,SC,Passo Manso,apartamento,venda,setembro/2026,outubro/2026,5255,5231,-0.5,26
 São Paulo,SP,Jardim Previdência,apartamento,venda,setembro/2026,outubro/2026,7051,7019,-0.5,10
 Campinas,SP,Parque da Hípica,apartamento,venda,setembro/2026,outubro/2026,10060,10014,-0.5,21
 Belo Horizonte,MG,Alto Caiçaras,apartamento,venda,setembro/2026,outubro/2026,7115,7083,-0.5,31
@@ -1096,7 +1083,6 @@ Itapoá,SC,Barra do Sai,apartamento,venda,setembro/2026,outubro/2026,9661,9605,-
 Piracicaba,SP,Loteamento Kobayat Líbano,apartamento,venda,setembro/2026,outubro/2026,3292,3273,-0.6,14
 Piracicaba,SP,Água Seca,apartamento,venda,setembro/2026,outubro/2026,4520,4494,-0.6,12
 Manaus,AM,Planalto,apartamento,venda,setembro/2026,outubro/2026,6731,6691,-0.6,35
-Blumenau,SC,Garcia,apartamento,venda,setembro/2026,outubro/2026,6036,6000,-0.6,84
 Rio de Janeiro,RJ,Gamboa,apartamento,venda,setembro/2026,outubro/2026,8643,8592,-0.6,34
 São Paulo,SP,Vila Tolstoi,apartamento,venda,setembro/2026,outubro/2026,8548,8496,-0.6,19
 São Paulo,SP,Jardim São Paulo (Zona Norte),apartamento,venda,setembro/2026,outubro/2026,10620,10556,-0.6,172
@@ -1180,7 +1166,6 @@ Belo Horizonte,MG,Goiânia,apartamento,venda,setembro/2026,outubro/2026,5386,533
 Manaus,AM,Japiim,apartamento,venda,setembro/2026,outubro/2026,4858,4808,-1.0,20
 São Paulo,SP,Vila Zilda (Tatuapé),apartamento,venda,setembro/2026,outubro/2026,11468,11350,-1.0,44
 Belo Horizonte,MG,Monsenhor Messias,apartamento,venda,setembro/2026,outubro/2026,5866,5805,-1.0,64
-Blumenau,SC,Itoupava Norte,apartamento,venda,setembro/2026,outubro/2026,7274,7198,-1.1,96
 Recife,PE,Paissandu,apartamento,venda,setembro/2026,outubro/2026,9115,9019,-1.1,22
 Belo Horizonte,MG,Santa Amélia,apartamento,venda,setembro/2026,outubro/2026,5972,5909,-1.1,160
 Belo Horizonte,MG,Funcionários,apartamento,venda,setembro/2026,outubro/2026,14568,14413,-1.1,367
@@ -1234,7 +1219,6 @@ Limeira,SP,Jardim Adélia Cavicchia Grotta,apartamento,venda,setembro/2026,outub
 Guarulhos,SP,Parque Renato Maia,apartamento,venda,setembro/2026,outubro/2026,8500,8388,-1.3,51
 São Paulo,SP,Vila Santo Estéfano,apartamento,venda,setembro/2026,outubro/2026,7400,7302,-1.3,35
 Campinas,SP,Centro,apartamento,venda,setembro/2026,outubro/2026,4955,4889,-1.3,302
-Blumenau,SC,Escola Agrícola,apartamento,venda,setembro/2026,outubro/2026,7530,7429,-1.3,112
 Palhoça,SC,Guarda do Cubatão,apartamento,venda,setembro/2026,outubro/2026,5336,5264,-1.3,30
 Rio de Janeiro,RJ,Turiaçu,apartamento,venda,setembro/2026,outubro/2026,2276,2245,-1.4,35
 Rio de Janeiro,RJ,Lagoa,apartamento,venda,setembro/2026,outubro/2026,16016,15796,-1.4,181
@@ -1330,7 +1314,6 @@ Belo Horizonte,MG,Palmares,apartamento,venda,setembro/2026,outubro/2026,6556,642
 Uberaba,MG,Conjunto Manoel Mendes,apartamento,venda,setembro/2026,outubro/2026,4067,3984,-2.0,62
 Campinas,SP,Jardim do Lago,apartamento,venda,setembro/2026,outubro/2026,5976,5854,-2.0,23
 São Paulo,SP,Vila do Encontro,apartamento,venda,setembro/2026,outubro/2026,6508,6375,-2.0,12
-Blumenau,SC,Bom Retiro,apartamento,venda,setembro/2026,outubro/2026,9751,9551,-2.1,28
 Belo Horizonte,MG,Parque São Pedro,apartamento,venda,setembro/2026,outubro/2026,4857,4757,-2.1,10
 Jundiaí,SP,Jardim Santa Teresa,apartamento,venda,setembro/2026,outubro/2026,6765,6625,-2.1,17
 Guarulhos,SP,Parque Primavera,apartamento,venda,setembro/2026,outubro/2026,4562,4467,-2.1,18
@@ -1362,6 +1345,7 @@ Rio de Janeiro,RJ,Maracanã,apartamento,venda,setembro/2026,outubro/2026,6013,58
 Fortaleza,CE,Jóquei Clube,apartamento,venda,setembro/2026,outubro/2026,6837,6684,-2.2,29
 Belo Horizonte,MG,Venda Nova,apartamento,venda,setembro/2026,outubro/2026,4536,4434,-2.2,34
 Belo Horizonte,MG,Concórdia,apartamento,venda,setembro/2026,outubro/2026,6200,6061,-2.2,24
+Blumenau,SC,Salto Weissbach,apartamento,venda,setembro/2026,outubro/2026,5328,5208,-2.2,30
 Campo Grande,MS,Santa Fé,apartamento,venda,setembro/2026,outubro/2026,11033,10784,-2.3,28
 Belo Horizonte,MG,Nova Granada,apartamento,venda,setembro/2026,outubro/2026,8374,8185,-2.3,80
 Chapecó,SC,Líder,apartamento,venda,setembro/2026,outubro/2026,6776,6622,-2.3,37
@@ -1381,7 +1365,6 @@ Campinas,SP,Vila Proost de Souza,apartamento,venda,setembro/2026,outubro/2026,49
 Jundiaí,SP,Vila das Hortências,apartamento,venda,setembro/2026,outubro/2026,9110,8889,-2.4,24
 Salvador,BA,Narandiba,apartamento,venda,setembro/2026,outubro/2026,7368,7189,-2.4,41
 São Paulo,SP,Vila Maria Alta,apartamento,venda,setembro/2026,outubro/2026,8582,8373,-2.4,38
-Blumenau,SC,Ponta Aguda,apartamento,venda,setembro/2026,outubro/2026,8431,8226,-2.4,139
 Piracicaba,SP,Paulista,apartamento,venda,setembro/2026,outubro/2026,5157,5029,-2.5,75
 Belo Horizonte,MG,Esplanada,apartamento,venda,setembro/2026,outubro/2026,6752,6585,-2.5,60
 Rio de Janeiro,RJ,Vargem Grande,apartamento,venda,setembro/2026,outubro/2026,5397,5263,-2.5,39
@@ -1471,6 +1454,7 @@ São José,SC,Bela Vista,apartamento,venda,setembro/2026,outubro/2026,7368,7141,
 Limeira,SP,Jardim Esteves,apartamento,venda,setembro/2026,outubro/2026,6450,6250,-3.1,18
 Campo Grande,MS,Rita Vieira,apartamento,venda,setembro/2026,outubro/2026,5915,5732,-3.1,16
 Fortaleza,CE,Dionisio Torres,apartamento,venda,setembro/2026,outubro/2026,7361,7131,-3.1,143
+Blumenau,SC,Vila Formosa,apartamento,venda,setembro/2026,outubro/2026,7894,7647,-3.1,38
 Belo Horizonte,MG,Camargos,apartamento,venda,setembro/2026,outubro/2026,5835,5652,-3.1,78
 São Paulo,SP,Jardim Brasil,apartamento,venda,setembro/2026,outubro/2026,7669,7430,-3.1,15
 São José,SC,Praia Comprida,apartamento,venda,setembro/2026,outubro/2026,8500,8233,-3.1,83
@@ -1508,14 +1492,12 @@ São Paulo,SP,Cidade Patriarca,apartamento,venda,setembro/2026,outubro/2026,8043
 São Paulo,SP,Água Rasa,apartamento,venda,setembro/2026,outubro/2026,9474,9150,-3.4,24
 Aracaju,SE,São José,apartamento,venda,setembro/2026,outubro/2026,3020,2917,-3.4,45
 Cuiabá,MT,Morada do Ouro,apartamento,venda,setembro/2026,outubro/2026,7128,6881,-3.5,60
-Blumenau,SC,Velha,apartamento,venda,setembro/2026,outubro/2026,8557,8260,-3.5,333
 Belo Horizonte,MG,Santa Helena,apartamento,venda,setembro/2026,outubro/2026,7452,7189,-3.5,29
 Guarulhos,SP,Vila Itapegica,apartamento,venda,setembro/2026,outubro/2026,9264,8936,-3.5,31
 São Paulo,SP,Vila Sônia,apartamento,venda,setembro/2026,outubro/2026,8907,8589,-3.6,39
 Cascavel,PR,Santa Cruz,apartamento,venda,setembro/2026,outubro/2026,5000,4822,-3.6,27
 Maceió,AL,São Jorge,apartamento,venda,setembro/2026,outubro/2026,7335,7073,-3.6,38
 Canoas,RS,Marechal Rondon,apartamento,venda,setembro/2026,outubro/2026,6346,6119,-3.6,447
-Blumenau,SC,Itoupava Central,apartamento,venda,setembro/2026,outubro/2026,6338,6111,-3.6,95
 Rio de Janeiro,RJ,Inhoaíba,apartamento,venda,setembro/2026,outubro/2026,2803,2702,-3.6,75
 Guarulhos,SP,Vila Zanardi,apartamento,venda,setembro/2026,outubro/2026,5333,5140,-3.6,13
 Fortaleza,CE,Paupina,apartamento,venda,setembro/2026,outubro/2026,4574,4407,-3.6,18
@@ -1526,6 +1508,7 @@ Guarulhos,SP,Vila Santo Antônio,apartamento,venda,setembro/2026,outubro/2026,79
 Salvador,BA,Itapuã,apartamento,venda,setembro/2026,outubro/2026,7183,6915,-3.7,108
 Rio de Janeiro,RJ,Cordovil,apartamento,venda,setembro/2026,outubro/2026,3072,2958,-3.7,70
 Jundiaí,SP,Portal do Paraíso II,apartamento,venda,setembro/2026,outubro/2026,12168,11710,-3.8,11
+Blumenau,SC,Ribeirão Fresco,apartamento,venda,setembro/2026,outubro/2026,5969,5744,-3.8,16
 Uberaba,MG,Parque Hiléia,apartamento,venda,setembro/2026,outubro/2026,3182,3061,-3.8,15
 Manaus,AM,Dom Pedro,apartamento,venda,setembro/2026,outubro/2026,7909,7609,-3.8,36
 Piracicaba,SP,Pompéia,apartamento,venda,setembro/2026,outubro/2026,4182,4022,-3.8,43
@@ -1555,11 +1538,11 @@ Belo Horizonte,MG,Pompéia,apartamento,venda,setembro/2026,outubro/2026,6482,621
 Belo Horizonte,MG,Vila Cloris,apartamento,venda,setembro/2026,outubro/2026,5647,5411,-4.2,72
 Maceió,AL,Cruz das Almas,apartamento,venda,setembro/2026,outubro/2026,13393,12832,-4.2,179
 São Paulo,SP,Campo Belo,apartamento,venda,setembro/2026,outubro/2026,13168,12615,-4.2,464
+Blumenau,SC,Salto do Norte,apartamento,venda,setembro/2026,outubro/2026,5724,5484,-4.2,38
 Santos,SP,José Menino,apartamento,venda,setembro/2026,outubro/2026,8624,8261,-4.2,198
 Limeira,SP,Jardim Campo Belo,apartamento,venda,setembro/2026,outubro/2026,4583,4388,-4.3,28
 Fortaleza,CE,Praia do Futuro,apartamento,venda,setembro/2026,outubro/2026,6302,6028,-4.3,72
 São Paulo,SP,Vila Parque Jabaquara,apartamento,venda,setembro/2026,outubro/2026,7710,7375,-4.3,41
-Blumenau,SC,Badenfurt,apartamento,venda,setembro/2026,outubro/2026,5667,5420,-4.4,24
 Aracaju,SE,Zona de Expansão (Aruana),apartamento,venda,setembro/2026,outubro/2026,4611,4410,-4.4,12
 Florianópolis,SC,Santinho,apartamento,venda,setembro/2026,outubro/2026,13766,13160,-4.4,18
 São Paulo,SP,Vila Romana,apartamento,venda,setembro/2026,outubro/2026,13939,13324,-4.4,60
@@ -1576,7 +1559,6 @@ Belo Horizonte,MG,Colégio Batista,apartamento,venda,setembro/2026,outubro/2026,
 Cascavel,PR,Parque São Paulo,apartamento,venda,setembro/2026,outubro/2026,5764,5500,-4.6,67
 São Paulo,SP,Jardim Oriental,apartamento,venda,setembro/2026,outubro/2026,6987,6667,-4.6,12
 Cuiabá,MT,Jardim Aclimação,apartamento,venda,setembro/2026,outubro/2026,8929,8517,-4.6,113
-Blumenau,SC,Centro,apartamento,venda,setembro/2026,outubro/2026,10177,9706,-4.6,170
 Fortaleza,CE,Cambeba,apartamento,venda,setembro/2026,outubro/2026,7686,7329,-4.6,71
 Uberaba,MG,Jardim do Lago,apartamento,venda,setembro/2026,outubro/2026,5783,5514,-4.6,117
 São Paulo,SP,Casa Verde,apartamento,venda,setembro/2026,outubro/2026,10027,9561,-4.7,44
@@ -1584,7 +1566,6 @@ São Paulo,SP,Vila Ré,apartamento,venda,setembro/2026,outubro/2026,7111,6780,-4
 Salvador,BA,Paralela,apartamento,venda,setembro/2026,outubro/2026,11206,10682,-4.7,96
 Guarulhos,SP,Vila Leonor,apartamento,venda,setembro/2026,outubro/2026,8121,7741,-4.7,80
 São Paulo,SP,Limão,apartamento,venda,setembro/2026,outubro/2026,8108,7727,-4.7,19
-Blumenau,SC,Ribeirão Fresco,apartamento,venda,setembro/2026,outubro/2026,5969,5688,-4.7,15
 Maceió,AL,Santa Amélia,apartamento,venda,setembro/2026,outubro/2026,3854,3672,-4.7,27
 Fortaleza,CE,Mucuripe,apartamento,venda,setembro/2026,outubro/2026,13492,12850,-4.8,149
 Guarulhos,SP,Vila São Jorge,apartamento,venda,setembro/2026,outubro/2026,6607,6292,-4.8,14
@@ -1627,7 +1608,6 @@ São Paulo,SP,Vila Granada,apartamento,venda,setembro/2026,outubro/2026,7319,692
 Campo Grande,MS,Royal Park,apartamento,venda,setembro/2026,outubro/2026,15000,14189,-5.4,32
 Vitória,ES,Santa Luíza,apartamento,venda,setembro/2026,outubro/2026,24749,23406,-5.4,28
 Uberaba,MG,Nossa Senhora da Abadia,apartamento,venda,setembro/2026,outubro/2026,4378,4141,-5.4,96
-Blumenau,SC,Itoupavazinha,apartamento,venda,setembro/2026,outubro/2026,5192,4909,-5.5,25
 São Paulo,SP,Sé,apartamento,venda,setembro/2026,outubro/2026,7407,7000,-5.5,21
 Belo Horizonte,MG,Mangueiras,apartamento,venda,setembro/2026,outubro/2026,5733,5417,-5.5,17
 Guarulhos,SP,Jardim Dourado,apartamento,venda,setembro/2026,outubro/2026,5270,4979,-5.5,17
@@ -1704,6 +1684,7 @@ São Paulo,SP,Pinheiros,apartamento,venda,setembro/2026,outubro/2026,17246,15916
 São Paulo,SP,Chácara Santo Antônio (Zona Sul),apartamento,venda,setembro/2026,outubro/2026,15320,14138,-7.7,88
 São Paulo,SP,Vila Curuçá,apartamento,venda,setembro/2026,outubro/2026,5750,5306,-7.7,17
 Campinas,SP,Jardim Campos Elíseos,apartamento,venda,setembro/2026,outubro/2026,4446,4102,-7.7,30
+Blumenau,SC,Itoupavazinha,apartamento,venda,setembro/2026,outubro/2026,5192,4790,-7.7,32
 Fortaleza,CE,Barroso,apartamento,venda,setembro/2026,outubro/2026,4773,4402,-7.8,21
 Rio de Janeiro,RJ,Bangu,apartamento,venda,setembro/2026,outubro/2026,3163,2917,-7.8,56
 São Paulo,SP,Vila Morumbi,apartamento,venda,setembro/2026,outubro/2026,7274,6702,-7.9,16
@@ -1715,6 +1696,7 @@ Campinas,SP,Loteamento Residencial Vila Bella,apartamento,venda,setembro/2026,ou
 Rio de Janeiro,RJ,Grajaú,apartamento,venda,setembro/2026,outubro/2026,5572,5120,-8.1,130
 Rio de Janeiro,RJ,Leblon,apartamento,venda,setembro/2026,outubro/2026,22500,20642,-8.3,178
 Rio de Janeiro,RJ,Maria da Graça,apartamento,venda,setembro/2026,outubro/2026,3964,3636,-8.3,41
+Blumenau,SC,Salto,apartamento,venda,setembro/2026,outubro/2026,7110,6521,-8.3,17
 Cascavel,PR,Floresta,apartamento,venda,setembro/2026,outubro/2026,4421,4054,-8.3,23
 Fortaleza,CE,Lagoa Redonda,apartamento,venda,setembro/2026,outubro/2026,5231,4795,-8.3,13
 Salvador,BA,Cosme de Farias,apartamento,venda,setembro/2026,outubro/2026,4200,3850,-8.3,13
@@ -1722,6 +1704,7 @@ Belém,PA,Parque Verde,apartamento,venda,setembro/2026,outubro/2026,7386,6771,-8
 Rio de Janeiro,RJ,Ilha do Governador,apartamento,venda,setembro/2026,outubro/2026,4680,4289,-8.4,12
 São Paulo,SP,Jardim Independência,apartamento,venda,setembro/2026,outubro/2026,10311,9446,-8.4,32
 São Paulo,SP,Jardim Caboré,apartamento,venda,setembro/2026,outubro/2026,9693,8870,-8.5,18
+Blumenau,SC,Ponta Aguda,apartamento,venda,setembro/2026,outubro/2026,8431,7714,-8.5,139
 Fortaleza,CE,São João do Tauape,apartamento,venda,setembro/2026,outubro/2026,3763,3441,-8.6,17
 Brasília,DF,Taguatinga Norte,apartamento,venda,setembro/2026,outubro/2026,5667,5179,-8.6,43
 Canoas,RS,Nossa Senhora das Graças,apartamento,venda,setembro/2026,outubro/2026,6086,5560,-8.6,298
@@ -1732,6 +1715,7 @@ São Paulo,SP,Jardim São Paulo (Zona Leste),apartamento,venda,setembro/2026,out
 Florianópolis,SC,Ribeirão da Ilha,apartamento,venda,setembro/2026,outubro/2026,10478,9557,-8.8,54
 Cascavel,PR,Country,apartamento,venda,setembro/2026,outubro/2026,8110,7393,-8.8,169
 Rio de Janeiro,RJ,Campo Grande,apartamento,venda,setembro/2026,outubro/2026,3622,3301,-8.9,285
+Blumenau,SC,Tribess,apartamento,venda,setembro/2026,outubro/2026,6222,5669,-8.9,18
 Rio de Janeiro,RJ,Todos Os Santos,apartamento,venda,setembro/2026,outubro/2026,5208,4737,-9.0,85
 Fortaleza,CE,Joaquim Távora,apartamento,venda,setembro/2026,outubro/2026,5786,5262,-9.0,87
 Canoas,RS,Niterói,apartamento,venda,setembro/2026,outubro/2026,5323,4838,-9.1,83
@@ -1745,9 +1729,12 @@ São Paulo,SP,Jardim Fonte do Morumbi,apartamento,venda,setembro/2026,outubro/20
 Campinas,SP,Vila João Jorge,apartamento,venda,setembro/2026,outubro/2026,6542,5929,-9.4,31
 Rio de Janeiro,RJ,Encantado,apartamento,venda,setembro/2026,outubro/2026,4406,3992,-9.4,74
 Fortaleza,CE,José Bonifácio,apartamento,venda,setembro/2026,outubro/2026,9267,8396,-9.4,40
+Blumenau,SC,Boa Vista,apartamento,venda,setembro/2026,outubro/2026,6782,6136,-9.5,19
 Salvador,BA,Mussurunga I,apartamento,venda,setembro/2026,outubro/2026,5429,4906,-9.6,14
+Blumenau,SC,Fortaleza,apartamento,venda,setembro/2026,outubro/2026,7000,6324,-9.7,83
 Guarulhos,SP,Vila Harmonia,apartamento,venda,setembro/2026,outubro/2026,5416,4892,-9.7,10
 Maceió,AL,Barro Duro,apartamento,venda,setembro/2026,outubro/2026,7875,7111,-9.7,34
+Blumenau,SC,Passo Manso,apartamento,venda,setembro/2026,outubro/2026,5255,4738,-9.8,28
 Salvador,BA,Praia do Flamengo,apartamento,venda,setembro/2026,outubro/2026,9885,8911,-9.8,59
 Itapoá,SC,Centro,apartamento,venda,setembro/2026,outubro/2026,9550,8599,-10.0,49
 São Paulo,SP,Jardim Brasília (Zona Leste),apartamento,venda,setembro/2026,outubro/2026,6071,5461,-10.0,11
@@ -1770,6 +1757,7 @@ São Paulo,SP,Chácara Nossa Senhora do Bom Conselho,apartamento,venda,setembro/
 Curitiba,PR,Pinheirinho,apartamento,venda,setembro/2026,outubro/2026,7166,6398,-10.7,30
 Florianópolis,SC,João Paulo,apartamento,venda,setembro/2026,outubro/2026,14313,12763,-10.8,187
 Belém,PA,Nazaré,apartamento,venda,setembro/2026,outubro/2026,9789,8721,-10.9,97
+Blumenau,SC,Badenfurt,apartamento,venda,setembro/2026,outubro/2026,5667,5048,-10.9,24
 Curitiba,PR,Novo Mundo,apartamento,venda,setembro/2026,outubro/2026,9623,8553,-11.1,48
 Curitiba,PR,Boqueirão,apartamento,venda,setembro/2026,outubro/2026,7382,6554,-11.2,10
 São Paulo,SP,Consolação,apartamento,venda,setembro/2026,outubro/2026,12880,11411,-11.4,292
@@ -1797,6 +1785,7 @@ Fortaleza,CE,Parangaba,apartamento,venda,setembro/2026,outubro/2026,6381,5595,-1
 Curitiba,PR,Xaxim,apartamento,venda,setembro/2026,outubro/2026,6035,5283,-12.5,12
 Rio de Janeiro,RJ,Cavalcanti,apartamento,venda,setembro/2026,outubro/2026,2604,2279,-12.5,41
 Belo Horizonte,MG,São Bento,apartamento,venda,setembro/2026,outubro/2026,14322,12520,-12.6,27
+Blumenau,SC,Vorstadt,apartamento,venda,setembro/2026,outubro/2026,8581,7492,-12.7,45
 Maceió,AL,Centro,apartamento,venda,setembro/2026,outubro/2026,6000,5236,-12.7,11
 Curitiba,PR,Campina do Siqueira,apartamento,venda,setembro/2026,outubro/2026,14031,12231,-12.8,53
 Belo Horizonte,MG,São Francisco,apartamento,venda,setembro/2026,outubro/2026,6833,5942,-13.0,29
@@ -1805,13 +1794,16 @@ Curitiba,PR,Rebouças,apartamento,venda,setembro/2026,outubro/2026,11087,9630,-1
 Uberaba,MG,Residencial Doutor Abel Reis,apartamento,venda,setembro/2026,outubro/2026,4832,4196,-13.2,16
 São Paulo,SP,Jardim Brasília,apartamento,venda,setembro/2026,outubro/2026,5893,5115,-13.2,12
 Fortaleza,CE,Barra do Ceará,apartamento,venda,setembro/2026,outubro/2026,5647,4900,-13.2,15
+Blumenau,SC,Fortaleza Alta,apartamento,venda,setembro/2026,outubro/2026,6619,5735,-13.3,18
 Campo Grande,MS,Chácara Cachoeira,apartamento,venda,setembro/2026,outubro/2026,11084,9600,-13.4,22
 Belém,PA,Coqueiro,apartamento,venda,setembro/2026,outubro/2026,5846,5056,-13.5,18
 Curitiba,PR,Juvevê,apartamento,venda,setembro/2026,outubro/2026,13756,11892,-13.6,81
 Recife,PE,Guabiraba,apartamento,venda,setembro/2026,outubro/2026,4452,3846,-13.6,16
+Blumenau,SC,Victor Konder,apartamento,venda,setembro/2026,outubro/2026,9078,7842,-13.6,261
 Rio de Janeiro,RJ,Ipanema,apartamento,venda,setembro/2026,outubro/2026,21910,18842,-14.0,178
 Rio de Janeiro,RJ,Colégio,apartamento,venda,setembro/2026,outubro/2026,4130,3550,-14.0,38
 Salvador,BA,Alphaville II,apartamento,venda,setembro/2026,outubro/2026,8673,7442,-14.2,11
+Blumenau,SC,Itoupava Central,apartamento,venda,setembro/2026,outubro/2026,6338,5435,-14.3,95
 Rio de Janeiro,RJ,Barra da Tijuca,apartamento,venda,setembro/2026,outubro/2026,14167,12138,-14.3,676
 Curitiba,PR,Cristo Rei,apartamento,venda,setembro/2026,outubro/2026,11061,9464,-14.4,93
 Curitiba,PR,Guaíra,apartamento,venda,setembro/2026,outubro/2026,7138,6102,-14.5,38
@@ -1823,19 +1815,25 @@ Rio de Janeiro,RJ,Anchieta,apartamento,venda,setembro/2026,outubro/2026,2429,206
 São Paulo,SP,Vila Ester (Zona Norte),apartamento,venda,setembro/2026,outubro/2026,11063,9390,-15.1,32
 Uberaba,MG,Residencial Estados Unidos,apartamento,venda,setembro/2026,outubro/2026,3500,2966,-15.3,17
 Curitiba,PR,Campo Comprido,apartamento,venda,setembro/2026,outubro/2026,10579,8941,-15.5,33
+Blumenau,SC,Garcia,apartamento,venda,setembro/2026,outubro/2026,6036,5096,-15.6,84
 Salvador,BA,Federação,apartamento,venda,setembro/2026,outubro/2026,7824,6600,-15.6,114
 Curitiba,PR,Cajuru,apartamento,venda,setembro/2026,outubro/2026,7865,6613,-15.9,30
+Blumenau,SC,Vila Nova,apartamento,venda,setembro/2026,outubro/2026,8271,6952,-15.9,277
 Florianópolis,SC,Coqueiros,apartamento,venda,setembro/2026,outubro/2026,11391,9573,-16.0,206
 São Paulo,SP,Barro Branco (Zona Norte),apartamento,venda,setembro/2026,outubro/2026,7333,6147,-16.2,25
+Blumenau,SC,Água Verde,apartamento,venda,setembro/2026,outubro/2026,6739,5645,-16.2,109
 Campinas,SP,Vila Mimosa,apartamento,venda,setembro/2026,outubro/2026,5926,4960,-16.3,14
 São Paulo,SP,Chácara Santo Antônio (Zona Leste),apartamento,venda,setembro/2026,outubro/2026,10439,8696,-16.7,43
+Blumenau,SC,Escola Agrícola,apartamento,venda,setembro/2026,outubro/2026,7530,6269,-16.7,118
 Santos,SP,Embaré,apartamento,venda,setembro/2026,outubro/2026,9288,7719,-16.9,252
 Cascavel,PR,Ciro Nardi,apartamento,venda,setembro/2026,outubro/2026,7460,6190,-17.0,11
 Fortaleza,CE,Serrinha,apartamento,venda,setembro/2026,outubro/2026,5259,4364,-17.0,18
 Curitiba,PR,São Francisco,apartamento,venda,setembro/2026,outubro/2026,11860,9834,-17.1,53
+Blumenau,SC,Itoupava Norte,apartamento,venda,setembro/2026,outubro/2026,7274,6001,-17.5,100
 Santos,SP,Marapé,apartamento,venda,setembro/2026,outubro/2026,7804,6429,-17.6,123
 Brasília,DF,Samambaia Norte,apartamento,venda,setembro/2026,outubro/2026,6109,5000,-18.2,14
 Guarulhos,SP,Vila Camargos,apartamento,venda,setembro/2026,outubro/2026,7639,6250,-18.2,12
+Blumenau,SC,Velha,apartamento,venda,setembro/2026,outubro/2026,8557,6975,-18.5,333
 Santos,SP,Ponta da Praia,apartamento,venda,setembro/2026,outubro/2026,10166,8262,-18.7,226
 Piracicaba,SP,Morumbi,apartamento,venda,setembro/2026,outubro/2026,4516,3664,-18.9,41
 São Paulo,SP,Parque São Domingos,apartamento,venda,setembro/2026,outubro/2026,14500,11739,-19.0,18
@@ -1843,12 +1841,15 @@ Belo Horizonte,MG,São Cristóvão,apartamento,venda,setembro/2026,outubro/2026,
 Curitiba,PR,Hugo Lange,apartamento,venda,setembro/2026,outubro/2026,12647,10143,-19.8,64
 Curitiba,PR,Fanny,apartamento,venda,setembro/2026,outubro/2026,7321,5857,-20.0,19
 Salvador,BA,Sete de Abril,apartamento,venda,setembro/2026,outubro/2026,3897,3111,-20.2,13
+Blumenau,SC,Itoupava Seca,apartamento,venda,setembro/2026,outubro/2026,9335,7394,-20.8,200
 Curitiba,PR,Atuba,apartamento,venda,setembro/2026,outubro/2026,7130,5625,-21.1,12
+Blumenau,SC,Centro,apartamento,venda,setembro/2026,outubro/2026,10177,8014,-21.2,170
 Fortaleza,CE,Praia do Futuro I,apartamento,venda,setembro/2026,outubro/2026,5689,4462,-21.6,24
 Curitiba,PR,Vila Izabel,apartamento,venda,setembro/2026,outubro/2026,12067,9372,-22.3,33
 Curitiba,PR,Ahú,apartamento,venda,setembro/2026,outubro/2026,15625,11981,-23.3,10
 São Paulo,SP,Vila Santo Estevão,apartamento,venda,setembro/2026,outubro/2026,10060,7693,-23.5,20
 Salvador,BA,Cajazeiras XI,apartamento,venda,setembro/2026,outubro/2026,3333,2524,-24.3,10
+Blumenau,SC,Bom Retiro,apartamento,venda,setembro/2026,outubro/2026,9751,7273,-25.4,28
 Curitiba,PR,Alto da Glória,apartamento,venda,setembro/2026,outubro/2026,13925,10238,-26.5,72
 São Paulo,SP,Conjunto Habitacional Santa Etelvina III,apartamento,venda,setembro/2026,outubro/2026,4780,3478,-27.2,11
 Vitória,ES,Maruípe,apartamento,venda,setembro/2026,outubro/2026,7101,5085,-28.4,13
