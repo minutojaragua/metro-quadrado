@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 109 cidades de Santa Catarina, São Paulo e mais 25 estados, Brasil, bairro por bairro, a partir de 827.103 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (outubro/2026).
+> O preço do m² de 109 cidades de Santa Catarina, São Paulo e mais 25 estados, Brasil, bairro por bairro, a partir de 837.685 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (outubro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, outubro/2026. https://acorridadosbairros.com.br
 
@@ -8648,183 +8648,207 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 
 Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de preço, tamanho = anúncios): https://acorridadosbairros.com.br/mapa/florianopolis-apartamento.png · https://acorridadosbairros.com.br/mapa/florianopolis-casa.png
 
-### Apartamentos, cidade toda: venda R$ 12.754/m² (n=5454); aluguel R$ 54,1/m²/mês (n=2823); rendimento bruto do aluguel 5,09% a.a.
+### Apartamentos, cidade toda: venda R$ 11.805/m² (n=9848); aluguel R$ 54,6/m²/mês (n=3940); rendimento bruto do aluguel 5,55% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Abraão | R$ 10.995 | 87 | R$ 42,7 | 42 | 4,66% | – |
-| Agronômica | R$ 16.790 | 282 | R$ 66,8 | 104 | 4,77% | – |
+| Abraão | R$ 10.419 | 116 | R$ 41,5 | 55 | 4,78% | – |
+| Agronômica | R$ 15.664 | 372 | R$ 66,8 | 148 | 5,12% | – |
+| Alto Ribeirão Leste | – | – | R$ 58,0 | 5 | – | – |
 | Armação | – | – | R$ 82,2 | 6 | – | – |
-| Balneário | R$ 11.083 | 108 | R$ 42,0 | 39 | 4,55% | – |
-| Barra da Lagoa | R$ 14.742 | 41 | R$ 84,0 | 8 | 6,84% | – |
-| Bom Abrigo | R$ 9.986 | 51 | R$ 46,6 | 11 | 5,60% | – |
-| Cachoeira do Bom Jesus | R$ 13.227 | 144 | R$ 49,5 | 40 | 4,49% | – |
-| Cacupé | R$ 17.151 | 110 | R$ 83,1 | 20 | 5,81% | – |
-| Campeche | R$ 17.951 | 317 | R$ 68,5 | 184 | 4,58% | – |
-| Canasvieiras | R$ 12.250 | 235 | R$ 44,8 | 71 | 4,39% | – |
-| Canto | R$ 11.176 | 111 | R$ 40,6 | 36 | 4,36% | – |
-| Capoeiras | R$ 8.526 | 136 | R$ 41,3 | 63 | 5,81% | – |
-| Carianos | R$ 9.092 | 8 | R$ 55,0 | 13 | 7,26% | – |
-| Carvoeira | R$ 10.756 | 100 | R$ 55,0 | 96 | 6,14% | – |
-| Centro | R$ 13.699 | 715 | R$ 60,0 | 527 | 5,26% | – |
-| Coloninha | R$ 9.412 | 15 | – | – | – | – |
-| Coqueiros | R$ 11.716 | 208 | R$ 47,1 | 74 | 4,82% | – |
-| Córrego Grande | R$ 12.319 | 99 | R$ 52,6 | 83 | 5,12% | – |
+| Balneário | R$ 9.948 | 143 | R$ 41,3 | 47 | 4,98% | – |
+| Barra da Lagoa | R$ 13.226 | 52 | R$ 64,4 | 13 | 5,84% | – |
+| Bom Abrigo | R$ 9.544 | 70 | R$ 46,1 | 18 | 5,80% | – |
+| Cachoeira do Bom Jesus | R$ 12.852 | 284 | R$ 48,5 | 55 | 4,53% | – |
+| Cacupé | R$ 17.151 | 136 | R$ 74,9 | 28 | 5,24% | – |
+| Campeche | R$ 15.000 | 953 | R$ 69,8 | 290 | 5,58% | – |
+| Canasvieiras | R$ 11.458 | 399 | R$ 45,7 | 112 | 4,79% | – |
+| Canto | R$ 10.439 | 131 | R$ 41,0 | 45 | 4,71% | – |
+| Capoeiras | R$ 8.116 | 176 | R$ 40,3 | 82 | 5,96% | – |
+| Carianos | R$ 8.596 | 9 | R$ 52,6 | 18 | 7,34% | – |
+| Carvoeira | R$ 10.436 | 156 | R$ 53,4 | 123 | 6,14% | – |
+| Centro | R$ 13.333 | 899 | R$ 60,5 | 731 | 5,45% | – |
+| Coloninha | R$ 9.398 | 23 | – | – | – | – |
+| Coqueiros | R$ 9.573 | 629 | R$ 46,8 | 103 | 5,87% | – |
+| Córrego Grande | R$ 11.176 | 263 | R$ 49,1 | 134 | 5,27% | – |
 | Costeira do Pirajubaé | R$ 9.476 | 5 | – | – | – | – |
-| Estreito | R$ 11.092 | 245 | R$ 47,7 | 78 | 5,16% | – |
-| Ingleses | R$ 8.754 | 563 | R$ 41,1 | 266 | 5,63% | – |
-| Itacorubi | R$ 11.985 | 238 | R$ 52,9 | 196 | 5,30% | – |
-| Itaguaçu | R$ 8.622 | 8 | – | – | – | – |
-| Jardim Atlântico | R$ 12.682 | 154 | R$ 44,6 | 34 | 4,22% | – |
-| João Paulo | R$ 15.453 | 186 | R$ 59,7 | 73 | 4,64% | – |
-| Jurerê | R$ 20.994 | 386 | R$ 73,8 | 89 | 4,22% | – |
-| Lagoa da Conceição | R$ 14.830 | 60 | R$ 62,9 | 61 | 5,09% | – |
+| Daniela | R$ 8.586 | 5 | – | – | – | – |
+| Estreito | R$ 10.294 | 327 | R$ 46,9 | 114 | 5,47% | – |
+| Ingleses | R$ 8.281 | 1041 | R$ 40,7 | 306 | 5,90% | – |
+| Itacorubi | R$ 10.110 | 742 | R$ 50,9 | 273 | 6,04% | – |
+| Itaguaçu | R$ 9.544 | 11 | – | – | – | – |
+| Jardim Atlântico | R$ 12.174 | 169 | R$ 46,4 | 54 | 4,57% | – |
+| João Paulo | R$ 12.763 | 682 | R$ 61,2 | 97 | 5,75% | – |
+| Jurerê | R$ 19.202 | 556 | R$ 70,8 | 123 | 4,42% | – |
+| Lagoa da Conceição | R$ 12.546 | 206 | R$ 64,0 | 89 | 6,12% | – |
 | Monte Cristo | – | – | R$ 41,1 | 5 | – | – |
-| Monte Verde | R$ 12.180 | 40 | R$ 62,4 | 20 | 6,15% | – |
-| Morro das Pedras | R$ 16.424 | 52 | R$ 89,6 | 26 | 6,55% | – |
-| Pantanal | R$ 11.478 | 52 | R$ 50,6 | 87 | 5,29% | – |
-| Pântano do Sul | R$ 13.482 | 38 | R$ 76,2 | 14 | 6,78% | – |
-| Ponta das Canas | R$ 11.439 | 19 | – | – | – | – |
-| Praia Brava | R$ 15.748 | 56 | – | – | – | – |
-| Ribeirão da Ilha | R$ 10.310 | 48 | R$ 62,9 | 37 | 7,32% | – |
-| Rio Tavares | R$ 14.559 | 23 | R$ 65,0 | 31 | 5,36% | – |
-| Rio Vermelho | R$ 8.500 | 25 | R$ 46,7 | 19 | 6,59% | – |
-| Saco dos Limões | R$ 11.220 | 50 | R$ 54,1 | 46 | 5,79% | – |
-| Saco Grande | R$ 14.065 | 102 | R$ 60,3 | 65 | 5,14% | – |
-| Santa Mônica | – | – | R$ 119,7 | 5 | – | – |
-| Santinho | R$ 12.535 | 25 | R$ 48,1 | 12 | 4,60% | – |
-| Santo Antônio de Lisboa | R$ 16.480 | 49 | R$ 82,5 | 11 | 6,01% | – |
-| Trindade | R$ 11.245 | 194 | R$ 54,5 | 192 | 5,82% | – |
-| Vargem do Bom Jesus | R$ 7.518 | 14 | – | – | – | – |
-| Vargem Grande | R$ 9.836 | 11 | R$ 40,2 | 7 | 4,90% | – |
+| Monte Verde | R$ 12.057 | 48 | R$ 59,0 | 28 | 5,87% | – |
+| Morro das Pedras | R$ 15.584 | 65 | R$ 100,0 | 29 | 7,70% | – |
+| Pantanal | R$ 11.395 | 76 | R$ 51,3 | 113 | 5,40% | – |
+| Pântano do Sul | R$ 12.421 | 57 | R$ 69,8 | 23 | 6,74% | – |
+| Parque São Jorge | R$ 10.052 | 6 | – | – | – | – |
+| Ponta das Canas | R$ 12.413 | 34 | R$ 34,2 | 5 | 3,31% | – |
+| Praia Brava | R$ 15.428 | 76 | R$ 53,6 | 7 | 4,17% | – |
+| Ribeirão da Ilha | R$ 9.557 | 106 | R$ 59,8 | 44 | 7,51% | – |
+| Rio Tavares | R$ 14.400 | 59 | R$ 67,1 | 44 | 5,59% | – |
+| Rio Vermelho | R$ 7.470 | 30 | R$ 46,7 | 23 | 7,50% | – |
+| Saco dos Limões | R$ 11.610 | 61 | R$ 54,1 | 66 | 5,59% | – |
+| Saco Grande | R$ 14.094 | 151 | R$ 61,8 | 100 | 5,26% | – |
+| Santa Mônica | R$ 12.349 | 14 | R$ 119,2 | 10 | 11,58% | – |
+| Santinho | R$ 13.160 | 43 | R$ 48,1 | 12 | 4,39% | – |
+| Santo Antônio de Lisboa | R$ 14.815 | 79 | R$ 77,8 | 18 | 6,30% | – |
+| Trindade | R$ 11.017 | 317 | R$ 55,4 | 294 | 6,03% | – |
+| Vargem do Bom Jesus | R$ 7.518 | 14 | R$ 40,0 | 5 | 6,38% | – |
+| Vargem Grande | R$ 10.166 | 14 | R$ 37,0 | 8 | 4,37% | – |
 
-### Casas, cidade toda: venda R$ 8.307/m² (n=4103); aluguel R$ 48,0/m²/mês (n=704); rendimento bruto do aluguel 6,93% a.a.
+### Casas, cidade toda: venda R$ 8.000/m² (n=5544); aluguel R$ 46,8/m²/mês (n=1062); rendimento bruto do aluguel 7,02% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Abraão | R$ 8.228 | 21 | R$ 48,0 | 6 | 7,00% | – |
-| Agronômica | R$ 7.058 | 72 | R$ 48,3 | 23 | 8,21% | – |
-| Armação | R$ 11.324 | 55 | R$ 44,0 | 6 | 4,66% | – |
-| Balneário | R$ 8.000 | 65 | R$ 51,4 | 12 | 7,71% | – |
-| Barra da Lagoa | R$ 8.300 | 41 | R$ 61,6 | 19 | 8,91% | – |
+| Abraão | R$ 8.432 | 22 | R$ 47,0 | 9 | 6,69% | – |
+| Agronômica | R$ 6.419 | 127 | R$ 48,4 | 34 | 9,05% | – |
+| Alto Ribeirão | R$ 5.000 | 7 | – | – | – | – |
+| Alto Ribeirão Leste | R$ 7.721 | 6 | – | – | – | – |
+| Armação | R$ 11.193 | 63 | R$ 44,6 | 9 | 4,78% | – |
+| Balneário | R$ 8.092 | 70 | R$ 51,4 | 14 | 7,62% | – |
+| Barra da Lagoa | R$ 8.670 | 44 | R$ 55,2 | 28 | 7,64% | – |
 | Bom Abrigo | R$ 10.164 | 26 | – | – | – | – |
-| Cachoeira do Bom Jesus | R$ 9.052 | 170 | R$ 47,7 | 21 | 6,32% | – |
-| Cacupé | R$ 11.664 | 88 | R$ 56,9 | 13 | 5,85% | – |
-| Campeche | R$ 10.057 | 375 | R$ 52,6 | 118 | 6,28% | – |
-| Canasvieiras | R$ 9.701 | 94 | R$ 70,0 | 5 | 8,66% | – |
-| Canto | R$ 7.677 | 33 | – | – | – | – |
+| Cachoeira do Bom Jesus | R$ 9.000 | 199 | R$ 47,5 | 26 | 6,33% | – |
+| Cacupé | R$ 11.664 | 104 | R$ 57,5 | 18 | 5,92% | – |
+| Campeche | R$ 9.436 | 606 | R$ 50,0 | 190 | 6,36% | – |
+| Canasvieiras | R$ 8.333 | 173 | R$ 62,6 | 8 | 9,01% | – |
+| Canto | R$ 7.677 | 35 | – | – | – | – |
 | Canto da Lagoa | R$ 15.756 | 5 | – | – | – | – |
-| Capoeiras | R$ 6.046 | 90 | R$ 25,0 | 13 | 4,96% | – |
-| Carianos | R$ 7.840 | 73 | R$ 49,2 | 13 | 7,53% | – |
-| Carvoeira | R$ 7.776 | 33 | – | – | – | – |
-| Centro | R$ 8.525 | 126 | R$ 38,7 | 19 | 5,45% | – |
-| Coloninha | R$ 7.200 | 15 | – | – | – | – |
-| Coqueiros | R$ 7.427 | 46 | R$ 42,9 | 7 | 6,93% | – |
-| Córrego Grande | R$ 9.413 | 89 | R$ 35,9 | 12 | 4,58% | – |
+| Capoeiras | R$ 5.408 | 152 | R$ 25,0 | 19 | 5,55% | – |
+| Carianos | R$ 7.826 | 79 | R$ 43,3 | 17 | 6,64% | – |
+| Carvoeira | R$ 7.692 | 42 | – | – | – | – |
+| Centro | R$ 7.956 | 202 | R$ 39,5 | 32 | 5,96% | – |
+| Coloninha | R$ 6.843 | 16 | – | – | – | – |
+| Coqueiros | R$ 7.663 | 62 | R$ 42,0 | 8 | 6,58% | – |
+| Córrego Grande | R$ 9.910 | 130 | R$ 35,9 | 14 | 4,35% | – |
 | Costeira do Pirajubaé | R$ 5.454 | 8 | – | – | – | – |
 | Daniela | R$ 9.341 | 33 | – | – | – | – |
-| Estreito | R$ 6.410 | 69 | – | – | – | – |
-| Ingleses | R$ 6.421 | 417 | R$ 39,1 | 51 | 7,31% | – |
-| Itacorubi | R$ 8.392 | 66 | R$ 31,7 | 14 | 4,53% | – |
-| Itaguaçu | R$ 7.757 | 46 | R$ 42,7 | 10 | 6,61% | – |
-| Jardim Atlântico | R$ 5.353 | 91 | R$ 33,2 | 10 | 7,44% | – |
-| João Paulo | R$ 9.223 | 67 | R$ 33,3 | 11 | 4,33% | – |
-| José Mendes | R$ 7.650 | 9 | – | – | – | – |
-| Jurerê | R$ 17.031 | 186 | R$ 86,2 | 36 | 6,07% | – |
-| Lagoa da Conceição | R$ 11.569 | 165 | R$ 53,3 | 53 | 5,53% | – |
-| Monte Verde | R$ 6.409 | 12 | – | – | – | – |
-| Morro das Pedras | R$ 11.600 | 88 | R$ 63,3 | 14 | 6,55% | – |
-| Pantanal | R$ 6.097 | 30 | – | – | – | – |
-| Pântano do Sul | R$ 8.205 | 65 | R$ 50,3 | 13 | 7,36% | – |
+| Estreito | R$ 6.173 | 133 | R$ 38,8 | 7 | 7,54% | – |
+| Ingleses | R$ 6.100 | 556 | R$ 37,0 | 79 | 7,28% | – |
+| Itacorubi | R$ 8.326 | 98 | R$ 31,7 | 20 | 4,57% | – |
+| Itaguaçu | R$ 7.794 | 49 | R$ 43,0 | 12 | 6,62% | – |
+| Jardim Atlântico | R$ 5.353 | 131 | R$ 33,5 | 16 | 7,51% | – |
+| João Paulo | R$ 9.227 | 82 | R$ 33,3 | 16 | 4,33% | – |
+| José Mendes | R$ 7.825 | 10 | – | – | – | – |
+| Jurerê | R$ 16.731 | 207 | R$ 78,1 | 45 | 5,60% | – |
+| Lagoa da Conceição | R$ 10.714 | 229 | R$ 54,5 | 83 | 6,10% | – |
+| Monte Verde | R$ 6.250 | 13 | – | – | – | – |
+| Morro das Pedras | R$ 11.371 | 106 | R$ 63,3 | 22 | 6,68% | – |
+| Pantanal | R$ 6.159 | 33 | – | – | – | – |
+| Pântano do Sul | R$ 8.155 | 72 | R$ 45,6 | 14 | 6,71% | – |
 | Parque São Jorge | R$ 9.258 | 5 | – | – | – | – |
-| Ponta das Canas | R$ 8.370 | 47 | – | – | – | – |
+| Ponta das Canas | R$ 8.782 | 51 | R$ 54,7 | 6 | 7,47% | – |
 | Praia Brava | R$ 13.289 | 17 | – | – | – | – |
-| Ratones | R$ 10.600 | 21 | – | – | – | – |
-| Ribeirão da Ilha | R$ 7.167 | 111 | R$ 46,4 | 23 | 7,77% | – |
-| Rio Tavares | R$ 9.546 | 147 | R$ 53,3 | 58 | 6,70% | – |
-| Rio Vermelho | R$ 5.591 | 338 | R$ 41,9 | 24 | 8,99% | – |
-| Saco dos Limões | R$ 7.100 | 42 | R$ 44,0 | 14 | 7,44% | – |
-| Saco Grande | R$ 7.686 | 24 | R$ 42,5 | 7 | 6,64% | – |
-| Sambaqui | R$ 9.046 | 61 | R$ 41,3 | 12 | 5,48% | – |
-| Santa Mônica | R$ 10.767 | 39 | R$ 61,3 | 8 | 6,83% | – |
+| Praia Mole | R$ 15.731 | 8 | R$ 62,0 | 9 | 4,73% | – |
+| Ratones | R$ 10.732 | 22 | R$ 45,3 | 6 | 5,07% | – |
+| Real Parque | R$ 6.731 | 5 | – | – | – | – |
+| Ribeirão da Ilha | R$ 6.982 | 204 | R$ 44,9 | 27 | 7,72% | – |
+| Rio Tavares | R$ 9.289 | 252 | R$ 51,9 | 86 | 6,70% | – |
+| Rio Vermelho | R$ 5.299 | 417 | R$ 39,0 | 47 | 8,83% | – |
+| Saco dos Limões | R$ 7.100 | 42 | R$ 41,8 | 19 | 7,06% | – |
+| Saco Grande | R$ 7.469 | 30 | R$ 43,1 | 9 | 6,92% | – |
+| Sambaqui | R$ 8.898 | 61 | R$ 41,3 | 14 | 5,57% | – |
+| Santa Mônica | R$ 10.497 | 41 | R$ 63,3 | 18 | 7,24% | – |
 | Santinho | R$ 7.246 | 9 | – | – | – | – |
-| Santo Antônio de Lisboa | R$ 9.583 | 87 | R$ 32,8 | 5 | 4,11% | – |
-| Tapera | R$ 4.143 | 13 | – | – | – | – |
-| Tapera da Base | R$ 3.547 | 20 | R$ 35,4 | 5 | 11,98% | – |
-| Trindade | R$ 7.586 | 74 | R$ 46,2 | 17 | 7,31% | – |
-| Vargem do Bom Jesus | R$ 6.781 | 53 | – | – | – | – |
-| Vargem Grande | R$ 7.167 | 52 | – | – | – | – |
-| Vargem Pequena | R$ 8.148 | 45 | – | – | – | – |
+| Santo Antônio de Lisboa | R$ 9.233 | 95 | R$ 39,9 | 8 | 5,19% | – |
+| Tapera | R$ 3.892 | 15 | – | – | – | – |
+| Tapera da Base | R$ 3.706 | 28 | R$ 35,4 | 7 | 11,46% | – |
+| Trindade | R$ 7.734 | 124 | R$ 39,2 | 27 | 6,08% | – |
+| Vargem do Bom Jesus | R$ 6.850 | 62 | – | – | – | – |
+| Vargem Grande | R$ 7.167 | 54 | – | – | – | – |
+| Vargem Pequena | R$ 8.044 | 48 | – | – | – | – |
 
-### Terrenos, cidade toda: venda R$ 1.931/m² (n=1109)
-
-| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
-|---|---|---|---|---|---|---|
-| Abraão | R$ 2.667 | 5 | – | – | – | – |
-| Agronômica | R$ 1.687 | 14 | – | – | – | – |
-| Armação | R$ 1.476 | 9 | – | – | – | – |
-| Balneário | R$ 4.436 | 10 | – | – | – | – |
-| Barra da Lagoa | R$ 1.286 | 6 | – | – | – | – |
-| Cachoeira do Bom Jesus | R$ 2.013 | 21 | – | – | – | – |
-| Cacupé | R$ 3.467 | 18 | – | – | – | – |
-| Campeche | R$ 2.901 | 91 | – | – | – | – |
-| Canasvieiras | R$ 1.649 | 22 | – | – | – | – |
-| Canto | R$ 2.462 | 7 | – | – | – | – |
-| Capoeiras | R$ 2.373 | 44 | – | – | – | – |
-| Carianos | R$ 1.537 | 20 | – | – | – | – |
-| Carvoeira | R$ 2.166 | 12 | – | – | – | – |
-| Centro | R$ 1.970 | 18 | – | – | – | – |
-| Coqueiros | R$ 1.676 | 15 | – | – | – | – |
-| Córrego Grande | R$ 1.515 | 17 | – | – | – | – |
-| Costeira do Pirajubaé | R$ 1.490 | 5 | – | – | – | – |
-| Daniela | R$ 2.776 | 6 | – | – | – | – |
-| Estreito | R$ 2.768 | 28 | – | – | – | – |
-| Ingleses | R$ 1.350 | 94 | – | – | – | – |
-| Itacorubi | R$ 2.390 | 72 | – | – | – | – |
-| Jardim Atlântico | R$ 2.590 | 14 | – | – | – | – |
-| João Paulo | R$ 2.114 | 37 | – | – | – | – |
-| Jurerê | R$ 5.774 | 22 | – | – | – | – |
-| Lagoa da Conceição | R$ 2.494 | 24 | – | – | – | – |
-| Morro das Pedras | R$ 1.739 | 14 | – | – | – | – |
-| Pantanal | R$ 2.000 | 15 | – | – | – | – |
-| Pântano do Sul | R$ 2.202 | 54 | – | – | – | – |
-| Praia Brava | R$ 2.407 | 8 | – | – | – | – |
-| Ratones | R$ 1.000 | 39 | – | – | – | – |
-| Ribeirão da Ilha | R$ 1.588 | 48 | – | – | – | – |
-| Rio Tavares | R$ 2.152 | 25 | – | – | – | – |
-| Rio Vermelho | R$ 1.268 | 62 | – | – | – | – |
-| Saco dos Limões | R$ 3.758 | 12 | – | – | – | – |
-| Saco Grande | R$ 1.727 | 22 | – | – | – | – |
-| Sambaqui | R$ 871 | 19 | – | – | – | – |
-| Santa Mônica | R$ 4.839 | 5 | – | – | – | – |
-| Santo Antônio de Lisboa | R$ 1.088 | 38 | – | – | – | – |
-| Tapera | R$ 1.601 | 8 | – | – | – | – |
-| Tapera da Base | R$ 1.728 | 12 | – | – | – | – |
-| Trindade | R$ 2.038 | 20 | – | – | – | – |
-| Vargem do Bom Jesus | R$ 1.188 | 14 | – | – | – | – |
-| Vargem Grande | R$ 1.078 | 26 | – | – | – | – |
-| Vargem Pequena | R$ 1.424 | 12 | – | – | – | – |
-
-### Salas comerciais, cidade toda: venda R$ 9.382/m² (n=422); aluguel R$ 57,3/m²/mês (n=342); rendimento bruto do aluguel 7,33% a.a.
+### Terrenos, cidade toda: venda R$ 1.911/m² (n=2670)
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Agronômica | R$ 13.233 | 10 | – | – | – | – |
-| Balneário | R$ 14.609 | 11 | R$ 68,8 | 11 | 5,65% | – |
-| Campeche | R$ 17.765 | 10 | R$ 96,2 | 10 | 6,50% | – |
-| Canto | R$ 13.814 | 6 | R$ 80,7 | 18 | 7,01% | – |
-| Capoeiras | R$ 9.563 | 8 | R$ 43,4 | 12 | 5,45% | – |
-| Carvoeira | R$ 13.942 | 5 | – | – | – | – |
-| Centro | R$ 7.667 | 199 | R$ 40,9 | 135 | 6,40% | – |
-| Córrego Grande | R$ 16.304 | 5 | – | – | – | – |
-| Estreito | R$ 9.764 | 36 | R$ 59,7 | 32 | 7,34% | – |
-| Ingleses | R$ 8.964 | 12 | R$ 67,2 | 15 | 9,00% | – |
-| Itacorubi | R$ 9.828 | 21 | R$ 58,5 | 12 | 7,14% | – |
-| João Paulo | R$ 10.180 | 5 | R$ 51,0 | 9 | 6,01% | – |
-| Jurerê | – | – | R$ 97,2 | 5 | – | – |
-| Saco Grande | R$ 12.903 | 25 | R$ 61,3 | 18 | 5,70% | – |
-| Santo Antônio de Lisboa | – | – | R$ 79,6 | 5 | – | – |
-| Trindade | R$ 8.313 | 46 | R$ 56,1 | 25 | 8,10% | – |
+| Abraão | R$ 2.667 | 9 | – | – | – | – |
+| Agronômica | R$ 1.873 | 31 | – | – | – | – |
+| Armação | R$ 1.765 | 12 | – | – | – | – |
+| Balneário | R$ 4.231 | 21 | – | – | – | – |
+| Barra da Lagoa | R$ 1.556 | 24 | – | – | – | – |
+| Bom Abrigo | R$ 3.137 | 7 | – | – | – | – |
+| Cachoeira do Bom Jesus | R$ 1.913 | 69 | – | – | – | – |
+| Cacupé | R$ 3.044 | 70 | – | – | – | – |
+| Campeche | R$ 2.735 | 234 | – | – | – | – |
+| Canasvieiras | R$ 1.522 | 75 | – | – | – | – |
+| Canto | R$ 3.252 | 18 | – | – | – | – |
+| Capoeiras | R$ 2.492 | 74 | – | – | – | – |
+| Carianos | R$ 1.431 | 36 | – | – | – | – |
+| Carvoeira | R$ 2.111 | 22 | – | – | – | – |
+| Centro | R$ 2.585 | 47 | – | – | – | – |
+| Coloninha | R$ 2.404 | 7 | – | – | – | – |
+| Coqueiros | R$ 2.552 | 31 | – | – | – | – |
+| Córrego Grande | R$ 1.684 | 61 | – | – | – | – |
+| Costeira do Pirajubaé | R$ 1.490 | 15 | – | – | – | – |
+| Daniela | R$ 2.611 | 12 | – | – | – | – |
+| Estreito | R$ 3.075 | 72 | – | – | – | – |
+| Ingleses | R$ 1.320 | 231 | – | – | – | – |
+| Itacorubi | R$ 2.404 | 135 | – | – | – | – |
+| Itaguaçu | R$ 2.914 | 7 | – | – | – | – |
+| Jardim Atlântico | R$ 2.363 | 41 | – | – | – | – |
+| João Paulo | R$ 2.405 | 80 | – | – | – | – |
+| Jurerê | R$ 5.275 | 54 | – | – | – | – |
+| Lagoa da Conceição | R$ 2.056 | 84 | – | – | – | – |
+| Monte Verde | R$ 1.350 | 10 | – | – | – | – |
+| Morro das Pedras | R$ 1.872 | 32 | – | – | – | – |
+| Pantanal | R$ 1.785 | 33 | – | – | – | – |
+| Pântano do Sul | R$ 1.993 | 78 | – | – | – | – |
+| Ponta das Canas | R$ 2.338 | 13 | – | – | – | – |
+| Praia Brava | R$ 2.405 | 10 | – | – | – | – |
+| Ratones | R$ 828 | 113 | – | – | – | – |
+| Ribeirão da Ilha | R$ 1.562 | 101 | – | – | – | – |
+| Rio Tavares | R$ 2.551 | 87 | – | – | – | – |
+| Rio Vermelho | R$ 1.189 | 120 | – | – | – | – |
+| Saco dos Limões | R$ 3.513 | 27 | – | – | – | – |
+| Saco Grande | R$ 1.771 | 41 | – | – | – | – |
+| Sambaqui | R$ 837 | 36 | – | – | – | – |
+| Santa Mônica | R$ 4.303 | 11 | – | – | – | – |
+| Santinho | R$ 1.279 | 12 | – | – | – | – |
+| Santo Antônio de Lisboa | R$ 1.509 | 81 | – | – | – | – |
+| Tapera | R$ 1.118 | 18 | – | – | – | – |
+| Tapera da Base | R$ 1.505 | 17 | – | – | – | – |
+| Trindade | R$ 2.959 | 67 | – | – | – | – |
+| Vargem do Bom Jesus | R$ 1.128 | 44 | – | – | – | – |
+| Vargem Grande | R$ 1.096 | 83 | – | – | – | – |
+| Vargem Pequena | R$ 1.069 | 34 | – | – | – | – |
+
+### Salas comerciais, cidade toda: venda R$ 8.188/m² (n=1296); aluguel R$ 60,9/m²/mês (n=1117); rendimento bruto do aluguel 8,93% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Agronômica | R$ 9.583 | 31 | R$ 72,1 | 15 | 9,03% | – |
+| Balneário | R$ 10.610 | 18 | R$ 53,3 | 17 | 6,03% | – |
+| Cachoeira do Bom Jesus | R$ 13.216 | 21 | – | – | – | – |
+| Cacupé | – | – | R$ 59,5 | 9 | – | – |
+| Campeche | R$ 14.758 | 32 | R$ 106,9 | 46 | 8,69% | – |
+| Canasvieiras | R$ 12.966 | 11 | R$ 109,8 | 9 | 10,16% | – |
+| Canto | R$ 11.644 | 21 | R$ 76,8 | 31 | 7,91% | – |
+| Capoeiras | R$ 8.121 | 19 | R$ 48,4 | 24 | 7,15% | – |
+| Carvoeira | R$ 10.269 | 15 | R$ 58,5 | 9 | 6,84% | – |
+| Centro | R$ 6.750 | 539 | R$ 39,3 | 346 | 6,99% | – |
+| Coqueiros | R$ 10.206 | 14 | R$ 66,0 | 10 | 7,76% | – |
+| Córrego Grande | R$ 10.798 | 26 | R$ 65,8 | 14 | 7,31% | – |
+| Estreito | R$ 8.297 | 98 | R$ 57,0 | 110 | 8,24% | – |
+| Ingleses | R$ 9.615 | 49 | R$ 65,1 | 36 | 8,12% | – |
+| Itacorubi | R$ 7.965 | 64 | R$ 57,1 | 21 | 8,60% | – |
+| João Paulo | R$ 7.784 | 21 | R$ 60,4 | 36 | 9,31% | – |
+| Jurerê | R$ 16.667 | 24 | R$ 115,4 | 27 | 8,31% | – |
+| Lagoa da Conceição | R$ 10.391 | 14 | R$ 77,1 | 23 | 8,90% | – |
+| Pantanal | R$ 4.901 | 6 | R$ 39,3 | 5 | 9,62% | – |
+| Ribeirão da Ilha | – | – | R$ 70,7 | 6 | – | – |
+| Rio Tavares | – | – | R$ 77,8 | 15 | – | – |
+| Rio Vermelho | – | – | R$ 60,9 | 13 | – | – |
+| Saco dos Limões | R$ 9.210 | 11 | – | – | – | – |
+| Saco Grande | R$ 11.250 | 71 | R$ 68,4 | 61 | 7,30% | – |
+| Santa Mônica | – | – | R$ 70,8 | 24 | – | – |
+| Santo Antônio de Lisboa | – | – | R$ 79,8 | 16 | – | – |
+| Trindade | R$ 7.531 | 156 | R$ 66,9 | 135 | 10,66% | – |
 
 
 ## Araquari (outubro/2026): https://acorridadosbairros.com.br/araquari/
