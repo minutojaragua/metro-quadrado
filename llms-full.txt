@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 109 cidades de Santa Catarina, São Paulo e mais 25 estados, Brasil, bairro por bairro, a partir de 837.689 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (outubro/2026).
+> O preço do m² de 109 cidades de Santa Catarina, São Paulo e mais 25 estados, Brasil, bairro por bairro, a partir de 850.039 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (outubro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, outubro/2026. https://acorridadosbairros.com.br
 
@@ -16959,97 +16959,120 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 
 Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de preço, tamanho = anúncios): https://acorridadosbairros.com.br/mapa/sp-santos-apartamento.png · https://acorridadosbairros.com.br/mapa/sp-santos-casa.png
 
-### Apartamentos, cidade toda: venda R$ 8.478/m² (n=2591); aluguel R$ 60,8/m²/mês (n=925); rendimento bruto do aluguel 8,61% a.a.
+### Apartamentos, cidade toda: venda R$ 7.750/m² (n=6790); aluguel R$ 55,9/m²/mês (n=3452); rendimento bruto do aluguel 8,66% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Aparecida | R$ 9.287 | 235 | R$ 57,2 | 92 | 7,39% | – |
-| Areia Branca | R$ 6.644 | 5 | – | – | – | – |
-| Boqueirão | R$ 9.862 | 424 | R$ 63,1 | 166 | 7,68% | – |
-| Campo Grande | R$ 6.446 | 119 | R$ 51,0 | 38 | 9,49% | – |
+| Aparecida | R$ 8.429 | 363 | R$ 57,7 | 325 | 8,21% | – |
+| Areia Branca | R$ 6.644 | 5 | R$ 46,7 | 7 | 8,43% | – |
+| Boqueirão | R$ 8.772 | 1130 | R$ 59,6 | 649 | 8,15% | – |
+| Campo Grande | R$ 6.037 | 750 | R$ 44,7 | 132 | 8,88% | – |
 | Castelo | R$ 4.200 | 5 | – | – | – | – |
-| Embaré | R$ 9.020 | 269 | R$ 58,1 | 95 | 7,73% | – |
-| Encruzilhada | R$ 6.375 | 63 | R$ 65,8 | 18 | 12,39% | – |
-| Estuário | R$ 9.375 | 37 | R$ 69,2 | 9 | 8,86% | – |
-| Gonzaga | R$ 9.167 | 409 | R$ 69,4 | 167 | 9,09% | – |
-| Jabaquara | R$ 8.641 | 5 | – | – | – | – |
-| José Menino | R$ 8.214 | 227 | R$ 57,8 | 73 | 8,44% | – |
-| Macuco | R$ 8.224 | 69 | R$ 66,3 | 24 | 9,67% | – |
-| Marapé | R$ 7.200 | 139 | R$ 57,8 | 43 | 9,63% | – |
-| Morro de Nova Cintra | R$ 6.633 | 16 | – | – | – | – |
-| Pompéia | R$ 8.250 | 159 | R$ 68,0 | 45 | 9,89% | – |
-| Ponta da Praia | R$ 10.000 | 255 | R$ 60,2 | 92 | 7,22% | – |
+| Centro | R$ 5.940 | 17 | R$ 42,8 | 14 | 8,65% | – |
+| Embaré | R$ 7.719 | 975 | R$ 54,9 | 349 | 8,53% | – |
+| Encruzilhada | R$ 6.044 | 86 | R$ 47,4 | 67 | 9,41% | – |
+| Estuário | R$ 9.245 | 44 | R$ 55,4 | 22 | 7,19% | – |
+| Gonzaga | R$ 8.600 | 1111 | R$ 58,2 | 649 | 8,12% | – |
+| Jabaquara | R$ 8.641 | 5 | R$ 66,7 | 9 | 9,26% | – |
+| José Menino | R$ 8.261 | 357 | R$ 52,6 | 325 | 7,64% | – |
+| Macuco | R$ 7.967 | 84 | R$ 65,5 | 57 | 9,87% | – |
+| Marapé | R$ 6.429 | 644 | R$ 52,1 | 143 | 9,73% | – |
+| Morro de Nova Cintra | R$ 6.600 | 21 | R$ 43,7 | 5 | 7,95% | – |
+| Paquetá | – | – | R$ 35,7 | 5 | – | – |
+| Pompéia | R$ 8.566 | 472 | R$ 58,3 | 200 | 8,17% | – |
+| Ponta da Praia | R$ 8.262 | 528 | R$ 60,0 | 375 | 8,71% | – |
 | Saboó | R$ 4.308 | 5 | – | – | – | – |
-| Vila Belmiro | R$ 6.396 | 44 | R$ 50,4 | 14 | 9,46% | – |
-| Vila Matias | R$ 5.690 | 64 | R$ 57,0 | 32 | 12,02% | – |
-| Vila Rica | R$ 11.152 | 23 | – | – | – | – |
+| Vila Belmiro | R$ 5.862 | 69 | R$ 48,9 | 41 | 10,01% | – |
+| Vila Matias | R$ 5.690 | 64 | R$ 50,0 | 39 | 10,55% | – |
+| Vila Rica | R$ 10.857 | 33 | R$ 62,5 | 19 | 6,91% | – |
 
-### Casas, cidade toda: venda R$ 6.396/m² (n=826); aluguel R$ 46,9/m²/mês (n=310); rendimento bruto do aluguel 8,80% a.a.
+### Casas, cidade toda: venda R$ 6.900/m² (n=3772); aluguel R$ 45,3/m²/mês (n=622); rendimento bruto do aluguel 7,88% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Aparecida | R$ 8.296 | 78 | R$ 49,9 | 22 | 7,22% | – |
-| Areia Branca | R$ 4.929 | 10 | – | – | – | – |
-| Bom Retiro | R$ 3.030 | 11 | – | – | – | – |
-| Boqueirão | R$ 7.180 | 71 | R$ 50,3 | 25 | 8,41% | – |
-| Campo Grande | R$ 6.803 | 74 | R$ 51,2 | 24 | 9,03% | – |
-| Caneleira | R$ 3.038 | 5 | – | – | – | – |
-| Castelo | R$ 3.141 | 18 | – | – | – | – |
-| Embaré | R$ 8.095 | 99 | R$ 47,8 | 38 | 7,09% | – |
-| Encruzilhada | R$ 5.388 | 25 | R$ 47,8 | 6 | 10,65% | – |
-| Estuário | R$ 5.830 | 31 | R$ 63,3 | 12 | 13,03% | – |
-| Gonzaga | R$ 9.933 | 23 | R$ 53,1 | 49 | 6,41% | – |
-| José Menino | R$ 7.866 | 15 | R$ 46,6 | 6 | 7,11% | – |
-| Macuco | R$ 5.334 | 40 | R$ 37,5 | 12 | 8,44% | – |
-| Marapé | R$ 6.386 | 79 | R$ 36,8 | 20 | 6,92% | – |
-| Morro de Nova Cintra | R$ 5.615 | 17 | – | – | – | – |
+| Aparecida | R$ 8.000 | 381 | R$ 47,6 | 55 | 7,14% | – |
+| Areia Branca | R$ 4.286 | 24 | – | – | – | – |
+| Bom Retiro | R$ 2.992 | 40 | – | – | – | – |
+| Boqueirão | R$ 7.561 | 310 | R$ 44,3 | 42 | 7,03% | – |
+| Campo Grande | R$ 7.051 | 310 | R$ 50,3 | 45 | 8,56% | – |
+| Caneleira | R$ 3.193 | 16 | – | – | – | – |
+| Castelo | R$ 2.839 | 60 | – | – | – | – |
+| Centro | R$ 4.722 | 8 | R$ 28,5 | 6 | 7,24% | – |
+| Chico de Paula | R$ 3.316 | 11 | – | – | – | – |
+| Embaré | R$ 8.105 | 500 | R$ 46,2 | 95 | 6,84% | – |
+| Encruzilhada | R$ 5.686 | 129 | R$ 42,1 | 16 | 8,89% | – |
+| Estuário | R$ 5.588 | 189 | R$ 48,7 | 17 | 10,46% | – |
+| Gonzaga | R$ 9.677 | 135 | R$ 59,1 | 83 | 7,33% | – |
+| Jabaquara | R$ 4.059 | 7 | – | – | – | – |
+| José Menino | R$ 7.588 | 63 | R$ 43,7 | 8 | 6,91% | – |
+| Macuco | R$ 5.300 | 200 | R$ 38,5 | 23 | 8,72% | – |
+| Marapé | R$ 6.286 | 361 | R$ 36,1 | 33 | 6,89% | – |
+| Morro de Nova Cintra | R$ 5.793 | 21 | – | – | – | – |
 | Morro Santa Terezinha | R$ 12.263 | 5 | – | – | – | – |
-| Pompéia | R$ 6.278 | 10 | R$ 66,7 | 15 | 12,75% | – |
-| Ponta da Praia | R$ 9.972 | 36 | R$ 47,0 | 32 | 5,66% | – |
-| Rádio Club | R$ 4.302 | 6 | – | – | – | – |
-| Rádio Clube | R$ 5.821 | 8 | – | – | – | – |
-| Santa Maria | R$ 3.778 | 36 | – | – | – | – |
+| Pompéia | R$ 7.504 | 65 | R$ 65,6 | 24 | 10,49% | – |
+| Ponta da Praia | R$ 9.096 | 402 | R$ 47,0 | 77 | 6,20% | – |
+| Rádio Club | R$ 2.400 | 15 | – | – | – | – |
+| Rádio Clube | R$ 4.236 | 30 | – | – | – | – |
+| Santa Maria | R$ 3.076 | 93 | – | – | – | – |
 | São Jorge | R$ 3.170 | 13 | – | – | – | – |
-| Vila Belmiro | R$ 6.410 | 42 | R$ 36,3 | 18 | 6,80% | – |
-| Vila Matias | R$ 5.000 | 47 | R$ 36,2 | 16 | 8,69% | – |
-| Vila São Jorge | R$ 4.591 | 5 | – | – | – | – |
+| Vila Belmiro | R$ 6.311 | 231 | R$ 37,9 | 40 | 7,21% | – |
+| Vila Matias | R$ 5.000 | 59 | R$ 38,7 | 35 | 9,29% | – |
+| Vila Nova | R$ 3.048 | 9 | – | – | – | – |
+| Vila São Jorge | R$ 4.115 | 57 | R$ 31,7 | 5 | 9,24% | – |
 
-### Terrenos, cidade toda: venda R$ 3.474/m² (n=214)
-
-| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
-|---|---|---|---|---|---|---|
-| Aparecida | R$ 4.667 | 19 | – | – | – | – |
-| Boqueirão | R$ 4.546 | 5 | – | – | – | – |
-| Campo Grande | R$ 3.143 | 11 | – | – | – | – |
-| Centro | R$ 3.177 | 6 | – | – | – | – |
-| Encruzilhada | R$ 3.980 | 9 | – | – | – | – |
-| Estuário | R$ 2.738 | 16 | – | – | – | – |
-| José Menino | R$ 8.749 | 9 | – | – | – | – |
-| Macuco | R$ 3.192 | 24 | – | – | – | – |
-| Marapé | R$ 3.687 | 17 | – | – | – | – |
-| Morro de Nova Cintra | R$ 964 | 10 | – | – | – | – |
-| Paquetá | R$ 2.000 | 9 | – | – | – | – |
-| Ponta da Praia | R$ 3.980 | 8 | – | – | – | – |
-| Vila Belmiro | R$ 3.571 | 17 | – | – | – | – |
-| Vila Matias | R$ 3.896 | 23 | – | – | – | – |
-
-### Salas comerciais, cidade toda: venda R$ 6.000/m² (n=324); aluguel R$ 54,8/m²/mês (n=325); rendimento bruto do aluguel 10,96% a.a.
+### Terrenos, cidade toda: venda R$ 3.651/m² (n=791)
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Aparecida | R$ 5.802 | 8 | R$ 60,5 | 30 | 12,51% | – |
-| Boqueirão | R$ 7.279 | 31 | R$ 64,8 | 26 | 10,68% | – |
-| Centro | R$ 3.754 | 77 | R$ 40,0 | 66 | 12,79% | – |
-| Embaré | R$ 5.850 | 12 | R$ 60,5 | 14 | 12,41% | – |
-| Encruzilhada | R$ 7.609 | 33 | R$ 58,8 | 26 | 9,27% | – |
-| Gonzaga | R$ 7.018 | 27 | R$ 58,2 | 27 | 9,95% | – |
-| Macuco | R$ 5.444 | 13 | – | – | – | – |
-| Marapé | R$ 8.264 | 8 | R$ 67,3 | 11 | 9,77% | – |
-| Ponta da Praia | R$ 9.899 | 13 | R$ 81,2 | 14 | 9,84% | – |
-| Valongo | R$ 6.068 | 31 | R$ 58,5 | 24 | 11,57% | – |
-| Vila Belmiro | R$ 4.487 | 7 | R$ 53,6 | 6 | 14,33% | – |
-| Vila Matias | R$ 6.068 | 48 | R$ 50,5 | 67 | 9,99% | – |
-| Vila Nova | R$ 3.583 | 9 | R$ 30,8 | 6 | 10,31% | – |
+| Aparecida | R$ 5.206 | 47 | – | – | – | – |
+| Boqueirão | R$ 7.524 | 24 | – | – | – | – |
+| Campo Grande | R$ 4.536 | 36 | – | – | – | – |
+| Centro | R$ 3.000 | 43 | – | – | – | – |
+| Chico de Paula | R$ 3.460 | 15 | – | – | – | – |
+| Embaré | R$ 4.420 | 30 | – | – | – | – |
+| Encruzilhada | R$ 3.898 | 30 | – | – | – | – |
+| Estuário | R$ 3.013 | 58 | – | – | – | – |
+| Gonzaga | R$ 9.783 | 23 | – | – | – | – |
+| Jabaquara | R$ 3.102 | 6 | – | – | – | – |
+| José Menino | R$ 8.749 | 25 | – | – | – | – |
+| Macuco | R$ 3.565 | 94 | – | – | – | – |
+| Marapé | R$ 3.632 | 55 | – | – | – | – |
+| Morro de Nova Cintra | R$ 1.210 | 28 | – | – | – | – |
+| Morro Santa Terezinha | R$ 3.160 | 10 | – | – | – | – |
+| Paquetá | R$ 2.416 | 30 | – | – | – | – |
+| Pompéia | R$ 8.750 | 7 | – | – | – | – |
+| Ponta da Praia | R$ 4.589 | 35 | – | – | – | – |
+| Saboó | R$ 1.818 | 7 | – | – | – | – |
+| Valongo | R$ 2.795 | 11 | – | – | – | – |
+| Vila Belmiro | R$ 3.798 | 46 | – | – | – | – |
+| Vila Matias | R$ 4.000 | 86 | – | – | – | – |
+| Vila Nova | R$ 2.301 | 16 | – | – | – | – |
+| Vila São Jorge | R$ 1.573 | 7 | – | – | – | – |
+
+### Salas comerciais, cidade toda: venda R$ 5.506/m² (n=950); aluguel R$ 55,4/m²/mês (n=1123); rendimento bruto do aluguel 12,07% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Aparecida | R$ 5.443 | 26 | R$ 61,3 | 67 | 13,52% | – |
+| Boqueirão | R$ 6.636 | 92 | R$ 64,8 | 96 | 11,72% | – |
+| Campo Grande | R$ 5.046 | 10 | R$ 58,1 | 18 | 13,82% | – |
+| Castelo | R$ 6.500 | 5 | – | – | – | – |
+| Centro | R$ 3.790 | 252 | R$ 40,7 | 289 | 12,89% | – |
+| Embaré | R$ 5.345 | 39 | R$ 62,8 | 52 | 14,10% | – |
+| Encruzilhada | R$ 7.000 | 85 | R$ 54,9 | 64 | 9,41% | – |
+| Estuário | – | – | R$ 56,5 | 17 | – | – |
+| Gonzaga | R$ 6.542 | 119 | R$ 75,3 | 114 | 13,81% | – |
+| José Menino | R$ 6.782 | 8 | R$ 57,7 | 6 | 10,21% | – |
+| Macuco | R$ 5.267 | 24 | R$ 50,4 | 18 | 11,48% | – |
+| Marapé | R$ 7.864 | 18 | R$ 70,0 | 41 | 10,68% | – |
+| Paquetá | R$ 6.984 | 6 | R$ 39,3 | 13 | 6,75% | – |
+| Pompéia | R$ 6.056 | 9 | R$ 83,3 | 9 | 16,51% | – |
+| Ponta da Praia | R$ 9.405 | 43 | R$ 76,0 | 43 | 9,70% | – |
+| Santa Maria | – | – | R$ 87,5 | 5 | – | – |
+| Valongo | R$ 6.222 | 75 | R$ 60,0 | 95 | 11,57% | – |
+| Vila Belmiro | R$ 5.074 | 28 | R$ 48,8 | 42 | 11,54% | – |
+| Vila Matias | R$ 6.042 | 69 | R$ 55,7 | 98 | 11,06% | – |
+| Vila Nova | R$ 3.676 | 27 | R$ 33,3 | 21 | 10,87% | – |
 
 
 ## São Bernardo do Campo (outubro/2026): https://acorridadosbairros.com.br/sp/sao-bernardo-do-campo/
