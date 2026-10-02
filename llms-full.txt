@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 109 cidades de Santa Catarina, São Paulo e mais 25 estados, Brasil, bairro por bairro, a partir de 837.685 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (outubro/2026).
+> O preço do m² de 109 cidades de Santa Catarina, São Paulo e mais 25 estados, Brasil, bairro por bairro, a partir de 837.689 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (outubro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, outubro/2026. https://acorridadosbairros.com.br
 
@@ -9428,7 +9428,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 
 Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de preço, tamanho = anúncios): https://acorridadosbairros.com.br/mapa/chapeco-apartamento.png · https://acorridadosbairros.com.br/mapa/chapeco-casa.png
 
-### Apartamentos, cidade toda: venda R$ 7.223/m² (n=2079); aluguel R$ 35,0/m²/mês (n=906); rendimento bruto do aluguel 5,81% a.a.
+### Apartamentos, cidade toda: venda R$ 7.225/m² (n=2080); aluguel R$ 35,1/m²/mês (n=907); rendimento bruto do aluguel 5,83% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -9436,7 +9436,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Bela Vista | R$ 5.926 | 19 | R$ 48,4 | 5 | 9,80% | – |
 | Bom Pastor | R$ 6.206 | 12 | R$ 37,6 | 12 | 7,27% | – |
 | Bom Retiro | R$ 7.458 | 18 | R$ 41,8 | 12 | 6,73% | – |
-| Centro | R$ 7.968 | 783 | R$ 35,0 | 273 | 5,27% | – |
+| Centro | R$ 7.971 | 784 | R$ 35,0 | 273 | 5,27% | – |
 | Desbravador | R$ 5.303 | 11 | – | – | – | – |
 | Dom Gerônimo | R$ 7.500 | 7 | R$ 41,2 | 7 | 6,59% | – |
 | Efapi | R$ 5.328 | 52 | R$ 33,4 | 71 | 7,52% | – |
@@ -9456,7 +9456,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Saic | R$ 5.871 | 7 | R$ 37,9 | 5 | 7,75% | – |
 | Santa Maria | R$ 7.063 | 90 | R$ 38,3 | 35 | 6,51% | – |
 | Santa Paulina | R$ 6.140 | 9 | R$ 39,7 | 16 | 7,76% | – |
-| Santo Antônio | R$ 5.788 | 26 | R$ 31,6 | 12 | 6,55% | – |
+| Santo Antônio | R$ 5.788 | 26 | R$ 32,5 | 13 | 6,74% | – |
 | São Cristóvão | R$ 7.265 | 105 | R$ 32,4 | 74 | 5,35% | – |
 | São Lucas | R$ 5.915 | 9 | R$ 31,5 | 7 | 6,39% | – |
 | Seminário | R$ 5.102 | 15 | R$ 36,3 | 7 | 8,54% | – |
@@ -9464,7 +9464,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Vederti | R$ 5.559 | 8 | – | – | – | – |
 | Vila Real | R$ 5.814 | 28 | R$ 32,3 | 12 | 6,67% | – |
 
-### Casas, cidade toda: venda R$ 6.154/m² (n=1474); aluguel R$ 33,2/m²/mês (n=235); rendimento bruto do aluguel 6,47% a.a.
+### Casas, cidade toda: venda R$ 6.154/m² (n=1475); aluguel R$ 33,2/m²/mês (n=235); rendimento bruto do aluguel 6,47% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -9472,7 +9472,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Araras | R$ 6.057 | 47 | – | – | – | – |
 | Autódromo | R$ 6.354 | 23 | – | – | – | – |
 | Bela Vista | R$ 5.364 | 30 | R$ 28,5 | 9 | 6,38% | – |
-| Belvedere | R$ 4.200 | 12 | – | – | – | – |
+| Belvedere | R$ 4.137 | 13 | – | – | – | – |
 | Boa Vista | R$ 5.606 | 7 | – | – | – | – |
 | Bom Retiro | R$ 6.535 | 7 | – | – | – | – |
 | Bouganville | R$ 8.810 | 7 | – | – | – | – |
