@@ -1,6 +1,6 @@
 # A Corrida dos Bairros, do Minuto Jaraguá
 
-> O preço do m² de 109 cidades de Santa Catarina, São Paulo e mais 25 estados, Brasil, bairro por bairro, a partir de 738.595 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (outubro/2026).
+> O preço do m² de 109 cidades de Santa Catarina, São Paulo e mais 25 estados, Brasil, bairro por bairro, a partir de 764.613 anúncios públicos validados e deduplicados por mês. Medianas de venda e aluguel, rendimento do aluguel (yield), apartamento típico e faixas de preço. Projeto de jornalismo de dados do Minuto Jaraguá. Dados abertos CC BY 4.0. Cite "A Corrida dos Bairros" com link. Atualização mensal (outubro/2026).
 
 Como citar: Fonte: A Corrida dos Bairros, do Minuto Jaraguá, medianas de anúncios públicos, outubro/2026. https://acorridadosbairros.com.br
 
@@ -381,14 +381,14 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 
 Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de preço, tamanho = anúncios): https://acorridadosbairros.com.br/mapa/ba-salvador-apartamento.png · https://acorridadosbairros.com.br/mapa/ba-salvador-casa.png
 
-### Apartamentos, cidade toda: venda R$ 7.547/m² (n=8444); aluguel R$ 52,0/m²/mês (n=924); rendimento bruto do aluguel 8,27% a.a.
+### Apartamentos, cidade toda: venda R$ 7.546/m² (n=8480); aluguel R$ 51,9/m²/mês (n=929); rendimento bruto do aluguel 8,25% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
 | Acupe | R$ 4.806 | 14 | – | – | – | – |
 | Acupe de Brotas | R$ 5.090 | 75 | – | – | – | – |
 | Águas Claras | R$ 3.039 | 11 | – | – | – | – |
-| Alphaville I | R$ 12.834 | 160 | R$ 68,2 | 26 | 6,38% | – |
+| Alphaville I | R$ 12.798 | 161 | R$ 68,2 | 26 | 6,39% | – |
 | Alphaville II | R$ 8.023 | 13 | – | – | – | – |
 | Alto do Coqueirinho | R$ 4.364 | 7 | – | – | – | – |
 | Amaralina | R$ 5.846 | 60 | R$ 103,7 | 6 | 21,29% | – |
@@ -396,26 +396,26 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Areia Branca | R$ 3.230 | 36 | – | – | – | – |
 | Arraial do Retiro | R$ 3.200 | 7 | – | – | – | – |
 | Barbalho | R$ 4.600 | 41 | – | – | – | – |
-| Barra | R$ 13.507 | 304 | R$ 86,9 | 46 | 7,72% | – |
+| Barra | R$ 13.507 | 304 | R$ 86,5 | 47 | 7,69% | – |
 | Barreiras | R$ 2.760 | 6 | – | – | – | – |
 | Barris | R$ 3.346 | 17 | – | – | – | – |
 | Boa Viagem | R$ 4.333 | 6 | – | – | – | – |
 | Boca da Mata | R$ 4.214 | 14 | – | – | – | – |
-| Boca do Rio | R$ 7.444 | 58 | R$ 66,3 | 6 | 10,69% | – |
+| Boca do Rio | R$ 7.389 | 59 | R$ 66,3 | 6 | 10,77% | – |
 | Bonfim | R$ 3.617 | 30 | R$ 44,1 | 5 | 14,63% | – |
-| Brotas | R$ 5.250 | 180 | R$ 33,7 | 6 | 7,70% | – |
-| Cabula | R$ 6.667 | 75 | R$ 51,2 | 10 | 9,22% | – |
+| Brotas | R$ 5.254 | 181 | R$ 33,7 | 6 | 7,70% | – |
+| Cabula | R$ 6.692 | 76 | R$ 51,2 | 10 | 9,18% | – |
 | Cabula VI | R$ 3.021 | 15 | – | – | – | – |
 | Caixa Dágua | R$ 2.556 | 7 | – | – | – | – |
 | Cajazeiras | R$ 3.056 | 26 | – | – | – | – |
 | Cajazeiras XI | R$ 1.707 | 7 | – | – | – | – |
-| Caminho das Árvores | R$ 10.841 | 478 | R$ 63,2 | 64 | 7,00% | – |
+| Caminho das Árvores | R$ 10.833 | 480 | R$ 63,2 | 64 | 7,00% | – |
 | Caminho de Areia | R$ 2.838 | 16 | – | – | – | – |
 | Campinas de Brotas | R$ 4.000 | 21 | – | – | – | – |
 | Campinas de Pirajá | R$ 6.688 | 6 | – | – | – | – |
 | Campo Grande | R$ 5.304 | 76 | – | – | – | – |
 | Canabrava | R$ 2.903 | 40 | – | – | – | – |
-| Candeal | R$ 7.335 | 176 | R$ 45,7 | 13 | 7,48% | – |
+| Candeal | R$ 7.317 | 177 | R$ 45,7 | 13 | 7,49% | – |
 | Canela | R$ 5.764 | 104 | R$ 44,4 | 5 | 9,24% | – |
 | Cassange | R$ 5.000 | 13 | – | – | – | – |
 | Castelo Branco | R$ 6.667 | 11 | – | – | – | – |
@@ -426,7 +426,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Comércio | R$ 15.000 | 12 | – | – | – | – |
 | Corredor da Vitória | R$ 15.470 | 27 | – | – | – | – |
 | Cosme de Farias | R$ 3.457 | 12 | – | – | – | – |
-| Costa Azul | R$ 6.742 | 154 | R$ 44,7 | 13 | 7,96% | – |
+| Costa Azul | R$ 6.742 | 156 | R$ 44,7 | 13 | 7,96% | – |
 | Daniel Lisboa | R$ 4.478 | 27 | – | – | – | – |
 | Dois de Julho | R$ 4.750 | 69 | R$ 100,0 | 5 | 25,26% | – |
 | Dom Avelar | R$ 6.322 | 10 | – | – | – | – |
@@ -434,26 +434,26 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Engenho Velho da Federação | R$ 12.202 | 18 | – | – | – | – |
 | Engenho Velho de Brotas | R$ 3.488 | 26 | – | – | – | – |
 | Fazenda Grande do Retiro | R$ 2.963 | 9 | – | – | – | – |
-| Federação | R$ 7.029 | 140 | R$ 47,1 | 13 | 8,04% | – |
+| Federação | R$ 7.119 | 141 | R$ 47,1 | 13 | 7,94% | – |
 | Garcia | R$ 5.128 | 71 | – | – | – | – |
 | Garibaldi | R$ 11.277 | 5 | – | – | – | – |
-| Graça | R$ 7.820 | 425 | R$ 55,3 | 43 | 8,49% | – |
+| Graça | R$ 7.690 | 428 | R$ 55,3 | 43 | 8,63% | – |
 | Granjas Rurais Presidente Vargas | R$ 4.162 | 12 | – | – | – | – |
 | Greenville | R$ 11.853 | 6 | – | – | – | – |
 | Horto Bela Vista | R$ 8.531 | 42 | – | – | – | – |
 | Horto Florestal | R$ 13.462 | 275 | R$ 90,5 | 23 | 8,07% | – |
 | Iapi | R$ 2.908 | 34 | – | – | – | – |
 | Ilha Amarela | R$ 8.043 | 5 | – | – | – | – |
-| Imbuí | R$ 7.284 | 188 | R$ 42,6 | 23 | 7,02% | – |
-| Itaigara | R$ 8.250 | 205 | R$ 48,1 | 18 | 7,00% | – |
-| Itapuã | R$ 6.933 | 151 | R$ 40,0 | 19 | 6,92% | – |
+| Imbuí | R$ 7.283 | 189 | R$ 43,7 | 24 | 7,20% | – |
+| Itaigara | R$ 8.125 | 206 | R$ 48,1 | 18 | 7,10% | – |
+| Itapuã | R$ 6.915 | 154 | R$ 39,2 | 21 | 6,80% | – |
 | Jaguaribe | R$ 13.562 | 179 | R$ 80,2 | 12 | 7,10% | – |
-| Jardim Apipema | R$ 6.140 | 146 | R$ 44,9 | 8 | 8,77% | – |
-| Jardim Armação | R$ 9.022 | 198 | R$ 57,9 | 29 | 7,70% | – |
+| Jardim Apipema | R$ 6.114 | 147 | R$ 44,9 | 8 | 8,81% | – |
+| Jardim Armação | R$ 9.022 | 200 | R$ 60,2 | 30 | 8,01% | – |
 | Jardim Cajazeiras | R$ 6.179 | 7 | – | – | – | – |
 | Jardim das Margaridas | R$ 4.462 | 79 | R$ 31,9 | 11 | 8,58% | – |
 | Jardim Nova Esperança | R$ 4.107 | 14 | – | – | – | – |
-| Jardim Placaford | R$ 6.000 | 17 | – | – | – | – |
+| Jardim Placaford | R$ 5.812 | 18 | – | – | – | – |
 | Jardim Santo Inácio | R$ 2.899 | 6 | – | – | – | – |
 | Le Parc | R$ 15.592 | 16 | – | – | – | – |
 | Liberdade | R$ 2.875 | 9 | – | – | – | – |
@@ -476,52 +476,52 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Paralela | R$ 10.761 | 109 | R$ 66,4 | 13 | 7,40% | – |
 | Paripe | R$ 4.188 | 6 | – | – | – | – |
 | Parque Bela Vista | R$ 5.794 | 95 | R$ 53,6 | 12 | 11,10% | – |
-| Patamares | R$ 11.282 | 188 | R$ 62,1 | 28 | 6,61% | – |
+| Patamares | R$ 11.164 | 190 | R$ 62,1 | 28 | 6,67% | – |
 | Pau da Lima | R$ 2.231 | 7 | – | – | – | – |
 | Pernambués | R$ 4.559 | 67 | – | – | – | – |
 | Piatã | R$ 8.750 | 252 | R$ 59,5 | 32 | 8,16% | – |
 | Pirajá | R$ 4.314 | 14 | – | – | – | – |
-| Pituaçu | R$ 10.634 | 136 | R$ 58,5 | 8 | 6,60% | – |
-| Pituba | R$ 7.514 | 446 | R$ 47,7 | 72 | 7,62% | – |
+| Pituaçu | R$ 10.643 | 137 | R$ 58,5 | 8 | 6,60% | – |
+| Pituba | R$ 7.514 | 450 | R$ 47,7 | 72 | 7,62% | – |
 | Politeama | R$ 4.174 | 15 | – | – | – | – |
 | Porto Seco Pirajá | R$ 6.800 | 9 | – | – | – | – |
 | Praia do Flamengo | R$ 9.023 | 89 | R$ 37,5 | 16 | 4,99% | – |
 | Resgate | R$ 5.702 | 29 | – | – | – | – |
-| Ribeira | R$ 3.211 | 33 | – | – | – | – |
-| Rio Vermelho | R$ 8.226 | 298 | R$ 46,2 | 47 | 6,74% | – |
+| Ribeira | R$ 3.208 | 34 | – | – | – | – |
+| Rio Vermelho | R$ 8.226 | 300 | R$ 46,2 | 47 | 6,74% | – |
 | Roma | R$ 2.732 | 11 | – | – | – | – |
 | Saboeiro | R$ 5.474 | 24 | – | – | – | – |
 | Santa Cruz | R$ 6.198 | 10 | – | – | – | – |
 | Santa Mônica | R$ 2.234 | 6 | – | – | – | – |
 | Santa Teresa | R$ 7.746 | 66 | R$ 56,8 | 7 | 8,80% | – |
 | São Cristóvão | R$ 5.054 | 30 | R$ 22,7 | 5 | 5,39% | – |
-| São Marcos | R$ 4.503 | 40 | – | – | – | – |
+| São Marcos | R$ 4.449 | 41 | – | – | – | – |
 | São Rafael | R$ 5.454 | 27 | – | – | – | – |
 | Saúde | R$ 2.714 | 5 | – | – | – | – |
 | Sete de Abril | R$ 3.056 | 10 | – | – | – | – |
 | Stella Mares | R$ 11.000 | 5 | – | – | – | – |
-| Stella Maris | R$ 7.830 | 141 | R$ 52,4 | 38 | 8,03% | – |
+| Stella Maris | R$ 7.854 | 144 | R$ 52,4 | 38 | 8,01% | – |
 | Stiep | R$ 7.083 | 105 | R$ 46,5 | 14 | 7,88% | – |
 | Sussuarana | R$ 4.154 | 39 | – | – | – | – |
 | Tancredo Neves | R$ 2.900 | 9 | – | – | – | – |
 | Tororó | R$ 3.057 | 10 | – | – | – | – |
-| Trobogy | R$ 6.732 | 52 | – | – | – | – |
+| Trobogy | R$ 6.146 | 51 | – | – | – | – |
 | Uruguai | R$ 1.802 | 16 | – | – | – | – |
 | Vale dos Lagos | R$ 2.520 | 9 | – | – | – | – |
 | Valéria | R$ 4.696 | 6 | – | – | – | – |
 | Vila Canária | R$ 5.833 | 11 | – | – | – | – |
 | Vila Laura | R$ 4.769 | 79 | – | – | – | – |
 | Vila Ruy Barbosa | R$ 1.954 | 19 | – | – | – | – |
-| Vitória | R$ 14.801 | 134 | R$ 100,0 | 39 | 8,11% | – |
+| Vitória | R$ 14.865 | 135 | R$ 100,0 | 39 | 8,07% | – |
 
-### Casas, cidade toda: venda R$ 4.250/m² (n=1808); aluguel R$ 28,0/m²/mês (n=196); rendimento bruto do aluguel 7,91% a.a.
+### Casas, cidade toda: venda R$ 4.273/m² (n=1839); aluguel R$ 28,0/m²/mês (n=197); rendimento bruto do aluguel 7,86% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
 | Acupe de Brotas | R$ 3.407 | 7 | – | – | – | – |
 | Águas Claras | R$ 1.202 | 5 | – | – | – | – |
 | Alphaville I | R$ 8.076 | 64 | – | – | – | – |
-| Alphaville II | R$ 9.460 | 77 | – | – | – | – |
+| Alphaville II | R$ 9.457 | 78 | – | – | – | – |
 | Alto do Coqueirinho | R$ 2.450 | 6 | – | – | – | – |
 | Amaralina | R$ 3.086 | 13 | – | – | – | – |
 | Barbalho | R$ 2.479 | 12 | – | – | – | – |
@@ -550,12 +550,12 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Horto Florestal | R$ 7.764 | 14 | – | – | – | – |
 | Iapi | R$ 2.388 | 18 | – | – | – | – |
 | Itaigara | R$ 5.702 | 51 | R$ 34,4 | 5 | 7,24% | – |
-| Itapuã | R$ 4.575 | 127 | R$ 22,9 | 8 | 6,01% | – |
+| Itapuã | R$ 4.461 | 136 | R$ 22,9 | 8 | 6,16% | – |
 | Jaguaribe | R$ 6.496 | 29 | – | – | – | – |
 | Jardim Apipema | R$ 7.071 | 6 | – | – | – | – |
-| Jardim Armação | R$ 5.135 | 20 | – | – | – | – |
+| Jardim Armação | R$ 5.167 | 21 | – | – | – | – |
 | Jardim das Margaridas | R$ 2.124 | 11 | – | – | – | – |
-| Jardim Placaford | R$ 3.567 | 29 | – | – | – | – |
+| Jardim Placaford | R$ 3.684 | 30 | – | – | – | – |
 | Liberdade | R$ 1.839 | 17 | – | – | – | – |
 | Luiz Anselmo | R$ 2.867 | 5 | – | – | – | – |
 | Massaranduba | R$ 2.410 | 11 | – | – | – | – |
@@ -566,17 +566,17 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Nazaré | R$ 2.721 | 17 | – | – | – | – |
 | Nova Brasília de Itapuã | R$ 2.450 | 9 | – | – | – | – |
 | Paripe | R$ 2.484 | 18 | – | – | – | – |
-| Patamares | R$ 6.717 | 52 | – | – | – | – |
+| Patamares | R$ 7.000 | 59 | – | – | – | – |
 | Pau Miúdo | R$ 1.429 | 9 | – | – | – | – |
 | Periperi | R$ 1.972 | 8 | – | – | – | – |
 | Pernambués | R$ 2.230 | 28 | – | – | – | – |
 | Pero Vaz | R$ 1.597 | 8 | – | – | – | – |
-| Piatã | R$ 5.700 | 105 | R$ 30,1 | 8 | 6,34% | – |
+| Piatã | R$ 5.707 | 114 | R$ 29,2 | 9 | 6,14% | – |
 | Pirajá | R$ 1.951 | 8 | – | – | – | – |
 | Pituaçu | R$ 4.778 | 31 | – | – | – | – |
 | Pituba | R$ 5.641 | 49 | R$ 37,0 | 10 | 7,87% | – |
 | Plataforma | R$ 1.350 | 5 | – | – | – | – |
-| Praia do Flamengo | R$ 5.318 | 93 | R$ 34,5 | 26 | 7,79% | – |
+| Praia do Flamengo | R$ 5.318 | 95 | R$ 34,5 | 26 | 7,79% | – |
 | Praia Grande | R$ 2.182 | 9 | – | – | – | – |
 | Ribeira | R$ 2.350 | 18 | – | – | – | – |
 | Rio Vermelho | R$ 4.834 | 25 | R$ 30,0 | 7 | 7,45% | – |
@@ -586,19 +586,19 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | São Cristóvão | R$ 2.059 | 17 | R$ 20,0 | 5 | 11,66% | – |
 | São Marcos | R$ 1.250 | 8 | – | – | – | – |
 | Saúde | R$ 2.536 | 5 | – | – | – | – |
-| Stella Maris | R$ 5.146 | 185 | R$ 31,2 | 29 | 7,28% | – |
+| Stella Maris | R$ 5.149 | 186 | R$ 31,2 | 29 | 7,27% | – |
 | Stiep | R$ 3.977 | 8 | – | – | – | – |
 | Uruguai | R$ 1.830 | 7 | – | – | – | – |
 | Vila Canária | R$ 1.226 | 5 | – | – | – | – |
 | Vila Laura | R$ 3.464 | 18 | – | – | – | – |
 | Vila Ruy Barbosa | R$ 1.964 | 5 | – | – | – | – |
 
-### Terrenos, cidade toda: venda R$ 1.713/m² (n=527)
+### Terrenos, cidade toda: venda R$ 1.706/m² (n=534)
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
 | Águas Claras | R$ 906 | 9 | – | – | – | – |
-| Alphaville I | R$ 2.495 | 39 | – | – | – | – |
+| Alphaville I | R$ 2.495 | 40 | – | – | – | – |
 | Alphaville II | R$ 2.700 | 56 | – | – | – | – |
 | Boca do Rio | R$ 2.003 | 12 | – | – | – | – |
 | Brotas | R$ 2.919 | 8 | – | – | – | – |
@@ -606,10 +606,10 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Cassange | R$ 359 | 16 | – | – | – | – |
 | Federação | R$ 1.444 | 12 | – | – | – | – |
 | Itaigara | R$ 2.344 | 5 | – | – | – | – |
-| Itapuã | R$ 1.583 | 17 | – | – | – | – |
+| Itapuã | R$ 1.583 | 21 | – | – | – | – |
 | Jardim Armação | R$ 2.994 | 12 | – | – | – | – |
 | Jardim das Margaridas | R$ 612 | 6 | – | – | – | – |
-| Jardim Placaford | R$ 722 | 6 | – | – | – | – |
+| Jardim Placaford | R$ 764 | 7 | – | – | – | – |
 | Matatu | R$ 2.284 | 8 | – | – | – | – |
 | Mussurunga I | R$ 482 | 5 | – | – | – | – |
 | Paralela | R$ 3.181 | 7 | – | – | – | – |
@@ -624,11 +624,11 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Ribeira | R$ 706 | 5 | – | – | – | – |
 | Rio Vermelho | R$ 2.704 | 10 | – | – | – | – |
 | São Cristóvão | R$ 785 | 8 | – | – | – | – |
-| Stella Maris | R$ 983 | 16 | – | – | – | – |
+| Stella Maris | R$ 1.000 | 17 | – | – | – | – |
 | Valéria | R$ 541 | 12 | – | – | – | – |
 | Vila Laura | R$ 1.447 | 6 | – | – | – | – |
 
-### Salas comerciais, cidade toda: venda R$ 5.326/m² (n=544); aluguel R$ 50,0/m²/mês (n=264); rendimento bruto do aluguel 11,27% a.a.
+### Salas comerciais, cidade toda: venda R$ 5.333/m² (n=547); aluguel R$ 50,0/m²/mês (n=265); rendimento bruto do aluguel 11,25% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -637,23 +637,23 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Barra | R$ 5.385 | 13 | R$ 54,1 | 6 | 12,06% | – |
 | Brotas | R$ 4.000 | 29 | R$ 33,3 | 9 | 9,99% | – |
 | Calçada | – | – | R$ 106,9 | 5 | – | – |
-| Caminho das Árvores | R$ 8.100 | 65 | R$ 85,1 | 28 | 12,61% | – |
+| Caminho das Árvores | R$ 8.120 | 66 | R$ 85,1 | 28 | 12,58% | – |
 | Candeal | R$ 8.412 | 6 | – | – | – | – |
 | Canela | R$ 4.777 | 14 | – | – | – | – |
 | Centro | R$ 2.143 | 13 | R$ 31,2 | 5 | 17,47% | – |
 | Cidadela | R$ 3.714 | 5 | – | – | – | – |
 | Comércio | R$ 2.334 | 36 | R$ 27,3 | 12 | 14,03% | – |
 | Dois de Julho | R$ 2.596 | 12 | – | – | – | – |
-| Federação | R$ 7.752 | 18 | R$ 50,9 | 6 | 7,88% | – |
+| Federação | R$ 7.727 | 19 | R$ 50,9 | 6 | 7,90% | – |
 | Graça | R$ 5.503 | 16 | – | – | – | – |
 | Horto Florestal | R$ 15.625 | 11 | R$ 102,5 | 7 | 7,87% | – |
 | Itaigara | R$ 6.000 | 29 | R$ 61,9 | 6 | 12,38% | – |
-| Itapuã | R$ 2.444 | 5 | R$ 59,9 | 22 | 29,41% | – |
+| Itapuã | R$ 2.444 | 5 | R$ 59,8 | 23 | 29,36% | – |
 | Nazaré | R$ 2.975 | 5 | – | – | – | – |
 | Ondina | R$ 6.667 | 13 | – | – | – | – |
 | Paralela | R$ 10.139 | 15 | – | – | – | – |
 | Parque Bela Vista | R$ 4.266 | 30 | R$ 36,8 | 5 | 10,35% | – |
-| Pituba | R$ 5.841 | 58 | R$ 62,8 | 26 | 12,90% | – |
+| Pituba | R$ 5.882 | 59 | R$ 62,8 | 26 | 12,81% | – |
 | Rio Vermelho | R$ 5.395 | 17 | R$ 41,9 | 12 | 9,32% | – |
 | São Cristóvão | R$ 7.353 | 17 | – | – | – | – |
 | Stiep | R$ 7.440 | 6 | – | – | – | – |
@@ -4748,280 +4748,296 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 
 Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de preço, tamanho = anúncios): https://acorridadosbairros.com.br/mapa/pr-curitiba-apartamento.png · https://acorridadosbairros.com.br/mapa/pr-curitiba-casa.png
 
-### Apartamentos, cidade toda: venda R$ 10.000/m² (n=5332); aluguel R$ 46,5/m²/mês (n=1970); rendimento bruto do aluguel 5,58% a.a.
+### Apartamentos, cidade toda: venda R$ 10.115/m² (n=7770); aluguel R$ 46,2/m²/mês (n=2230); rendimento bruto do aluguel 5,48% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Abranches | R$ 5.000 | 9 | – | – | – | – |
-| Água Verde | R$ 12.050 | 341 | R$ 50,0 | 121 | 4,98% | – |
-| Ahú | R$ 13.759 | 103 | R$ 41,8 | 16 | 3,65% | – |
-| Alto Boqueirão | R$ 5.658 | 18 | – | – | – | – |
-| Alto da Glória | R$ 12.090 | 112 | R$ 63,2 | 47 | 6,27% | – |
-| Alto da Rua XV | R$ 10.000 | 47 | R$ 47,9 | 14 | 5,75% | – |
-| Alto da XV | R$ 11.658 | 95 | R$ 60,7 | 31 | 6,25% | – |
-| Atuba | R$ 6.232 | 27 | R$ 37,1 | 15 | 7,14% | – |
+| Abranches | R$ 5.714 | 12 | – | – | – | – |
+| Água Verde | R$ 12.189 | 563 | R$ 50,0 | 144 | 4,92% | – |
+| Ahú | R$ 13.858 | 153 | R$ 36,9 | 20 | 3,20% | – |
+| Alto Boqueirão | R$ 5.893 | 26 | – | – | – | – |
+| Alto da Glória | R$ 12.733 | 149 | R$ 63,2 | 49 | 5,96% | – |
+| Alto da Rua XV | R$ 10.826 | 85 | R$ 47,9 | 16 | 5,31% | – |
+| Alto da XV | R$ 11.624 | 106 | R$ 60,7 | 31 | 6,27% | – |
+| Atuba | R$ 6.232 | 39 | R$ 36,3 | 16 | 6,99% | – |
 | Augusta | R$ 5.380 | 5 | – | – | – | – |
-| Bacacheri | R$ 8.712 | 194 | R$ 35,7 | 23 | 4,92% | – |
-| Bairro Alto | R$ 7.922 | 28 | R$ 36,0 | 17 | 5,45% | – |
-| Barreirinha | R$ 4.780 | 5 | – | – | – | – |
-| Batel | R$ 15.575 | 249 | R$ 60,8 | 106 | 4,68% | – |
-| Bigorrilho | R$ 12.491 | 218 | R$ 43,3 | 81 | 4,16% | – |
-| Boa Vista | R$ 9.730 | 121 | R$ 45,5 | 40 | 5,61% | – |
-| Bom Retiro | R$ 11.915 | 33 | R$ 56,3 | 6 | 5,67% | – |
-| Boqueirão | R$ 7.734 | 48 | R$ 34,3 | 19 | 5,32% | – |
-| Cabral | R$ 12.914 | 189 | R$ 45,1 | 71 | 4,19% | – |
-| Cachoeira | R$ 4.904 | 8 | – | – | – | – |
-| Cajuru | R$ 7.032 | 74 | R$ 47,5 | 27 | 8,11% | – |
-| Campina do Siqueira | R$ 14.116 | 93 | R$ 42,6 | 10 | 3,62% | – |
-| Campo Comprido | R$ 9.987 | 143 | R$ 50,0 | 35 | 6,01% | – |
-| Campo de Santana | R$ 4.998 | 17 | R$ 30,5 | 8 | 7,32% | – |
-| Capão da Imbuia | R$ 7.987 | 26 | – | – | – | – |
-| Capão Raso | R$ 8.333 | 87 | R$ 38,0 | 28 | 5,47% | – |
-| Cascatinha | R$ 10.034 | 12 | – | – | – | – |
-| Centro | R$ 12.130 | 189 | R$ 48,1 | 141 | 4,76% | – |
-| Centro Cívico | R$ 12.016 | 88 | R$ 60,9 | 42 | 6,08% | – |
-| Champagnat | R$ 15.291 | 93 | R$ 55,6 | 17 | 4,36% | – |
+| Bacacheri | R$ 8.523 | 293 | R$ 36,8 | 28 | 5,18% | – |
+| Bairro Alto | R$ 8.077 | 39 | R$ 39,1 | 20 | 5,81% | – |
+| Barigui | R$ 18.254 | 9 | – | – | – | – |
+| Barreirinha | R$ 4.413 | 6 | – | – | – | – |
+| Batel | R$ 15.759 | 427 | R$ 59,3 | 126 | 4,52% | – |
+| Bigorrilho | R$ 13.156 | 355 | R$ 44,1 | 95 | 4,02% | – |
+| Boa Vista | R$ 9.472 | 168 | R$ 43,5 | 45 | 5,51% | – |
+| Bom Retiro | R$ 11.646 | 46 | R$ 54,8 | 7 | 5,65% | – |
+| Boqueirão | R$ 7.498 | 68 | R$ 34,3 | 21 | 5,49% | – |
+| Cabral | R$ 13.038 | 288 | R$ 43,5 | 79 | 4,00% | – |
+| Cachoeira | R$ 4.650 | 10 | – | – | – | – |
+| Cajuru | R$ 6.640 | 110 | R$ 44,8 | 30 | 8,10% | – |
+| Campina do Siqueira | R$ 13.759 | 143 | R$ 42,6 | 12 | 3,72% | – |
+| Campo Comprido | R$ 9.389 | 231 | R$ 49,0 | 42 | 6,26% | – |
+| Campo de Santana | R$ 5.227 | 33 | R$ 32,6 | 10 | 7,48% | – |
+| Capão da Imbuia | R$ 7.253 | 31 | R$ 58,3 | 5 | 9,65% | – |
+| Capão Raso | R$ 8.021 | 109 | R$ 36,6 | 34 | 5,48% | – |
+| Cascatinha | R$ 9.990 | 15 | – | – | – | – |
+| Centro | R$ 11.507 | 288 | R$ 49,8 | 174 | 5,19% | – |
+| Centro Cívico | R$ 12.032 | 117 | R$ 62,5 | 45 | 6,23% | – |
+| Champagnat | R$ 15.399 | 105 | R$ 55,6 | 17 | 4,33% | – |
 | Cic | R$ 8.231 | 8 | – | – | – | – |
-| Cidade Industrial | R$ 6.929 | 90 | R$ 43,9 | 41 | 7,60% | – |
-| Cristo Rei | R$ 10.983 | 159 | R$ 44,8 | 97 | 4,89% | – |
-| Ecoville | R$ 12.765 | 185 | R$ 62,5 | 97 | 5,88% | – |
-| Fanny | R$ 6.900 | 35 | R$ 27,9 | 6 | 4,85% | – |
-| Fazendinha | R$ 5.312 | 26 | R$ 39,0 | 14 | 8,81% | – |
-| Ganchinho | R$ 4.256 | 12 | – | – | – | – |
-| Guabirotuba | R$ 9.222 | 19 | R$ 34,4 | 10 | 4,48% | – |
-| Guaíra | R$ 6.755 | 52 | R$ 42,6 | 17 | 7,57% | – |
-| Hauer | R$ 8.556 | 47 | R$ 38,3 | 10 | 5,37% | – |
-| Hugo Lange | R$ 11.988 | 91 | R$ 40,4 | 8 | 4,04% | – |
-| Jardim Botânico | R$ 9.917 | 74 | R$ 47,3 | 28 | 5,72% | – |
-| Jardim das Américas | R$ 10.557 | 14 | – | – | – | – |
-| Jardim Social | R$ 9.797 | 15 | R$ 34,0 | 5 | 4,16% | – |
-| Juvevê | R$ 12.091 | 157 | R$ 40,6 | 22 | 4,03% | – |
-| Lindóia | R$ 7.200 | 43 | R$ 44,7 | 7 | 7,45% | – |
-| Mercês | R$ 12.848 | 131 | R$ 51,5 | 49 | 4,81% | – |
-| Mossunguê | R$ 11.773 | 151 | R$ 50,0 | 24 | 5,10% | – |
-| Neoville | R$ 8.447 | 33 | – | – | – | – |
-| Novo Mundo | R$ 9.168 | 116 | R$ 43,6 | 48 | 5,71% | – |
-| Orleans | R$ 11.365 | 18 | – | – | – | – |
-| Parolin | R$ 5.951 | 20 | – | – | – | – |
-| Pilarzinho | R$ 7.777 | 12 | – | – | – | – |
-| Pinheirinho | R$ 7.290 | 47 | R$ 43,1 | 28 | 7,10% | – |
-| Portão | R$ 9.653 | 172 | R$ 41,6 | 83 | 5,17% | – |
-| Prado Velho | R$ 9.424 | 52 | R$ 61,4 | 42 | 7,82% | – |
-| Rebouças | R$ 9.690 | 86 | R$ 56,9 | 65 | 7,05% | – |
-| Santa Cândida | R$ 6.689 | 42 | R$ 34,8 | 40 | 6,24% | – |
-| Santa Felicidade | R$ 9.119 | 33 | R$ 33,8 | 12 | 4,45% | – |
-| Santa Quitéria | R$ 7.544 | 39 | R$ 44,4 | 14 | 7,06% | – |
-| Santo Inácio | R$ 10.268 | 43 | R$ 46,5 | 12 | 5,43% | – |
-| São Francisco | R$ 10.204 | 93 | R$ 52,2 | 36 | 6,14% | – |
-| São Lourenço | R$ 11.496 | 16 | R$ 41,9 | 5 | 4,37% | – |
-| Seminário | R$ 14.073 | 70 | R$ 45,9 | 14 | 3,91% | – |
-| Sítio Cercado | R$ 4.877 | 22 | R$ 36,7 | 11 | 9,03% | – |
-| Tarumã | R$ 10.606 | 47 | R$ 67,3 | 6 | 7,61% | – |
-| Tatuquara | R$ 4.569 | 13 | – | – | – | – |
-| Tingui | R$ 7.500 | 96 | R$ 39,8 | 34 | 6,37% | – |
-| Uberaba | R$ 7.211 | 34 | R$ 40,6 | 26 | 6,76% | – |
-| Umbará | R$ 5.717 | 8 | – | – | – | – |
-| Vila Izabel | R$ 10.531 | 179 | R$ 49,4 | 86 | 5,63% | – |
-| Vista Alegre | R$ 10.242 | 13 | – | – | – | – |
-| Xaxim | R$ 6.081 | 35 | R$ 37,7 | 11 | 7,44% | – |
+| Cidade Industrial | R$ 7.222 | 133 | R$ 43,9 | 48 | 7,29% | – |
+| Cristo Rei | R$ 10.542 | 220 | R$ 44,9 | 108 | 5,11% | – |
+| Ecoville | R$ 12.837 | 292 | R$ 62,1 | 107 | 5,81% | – |
+| Fanny | R$ 6.128 | 46 | R$ 28,4 | 7 | 5,56% | – |
+| Fazendinha | R$ 5.357 | 51 | R$ 38,4 | 16 | 8,60% | – |
+| Ganchinho | R$ 4.256 | 17 | – | – | – | – |
+| Guabirotuba | R$ 9.222 | 31 | R$ 33,1 | 11 | 4,31% | – |
+| Guaíra | R$ 7.083 | 71 | R$ 39,2 | 19 | 6,64% | – |
+| Hauer | R$ 8.140 | 64 | R$ 37,3 | 11 | 5,50% | – |
+| Hugo Lange | R$ 11.689 | 132 | R$ 45,8 | 10 | 4,70% | – |
+| Jardim Botânico | R$ 9.612 | 91 | R$ 45,6 | 30 | 5,69% | – |
+| Jardim das Américas | R$ 10.667 | 19 | – | – | – | – |
+| Jardim Social | R$ 9.705 | 19 | R$ 34,0 | 5 | 4,20% | – |
+| Juvevê | R$ 12.538 | 225 | R$ 42,9 | 30 | 4,11% | – |
+| Lindóia | R$ 7.281 | 60 | R$ 46,2 | 8 | 7,61% | – |
+| Mercês | R$ 13.200 | 173 | R$ 50,7 | 50 | 4,61% | – |
+| Mossunguê | R$ 11.407 | 227 | R$ 50,0 | 26 | 5,26% | – |
+| Neoville | R$ 8.078 | 30 | – | – | – | – |
+| Novo Mundo | R$ 8.968 | 153 | R$ 43,0 | 52 | 5,75% | – |
+| Orleans | R$ 11.069 | 21 | – | – | – | – |
+| Parolin | R$ 6.095 | 24 | R$ 44,1 | 6 | 8,68% | – |
+| Pilarzinho | R$ 6.954 | 17 | – | – | – | – |
+| Pinheirinho | R$ 7.286 | 62 | R$ 40,9 | 31 | 6,74% | – |
+| Portão | R$ 9.744 | 245 | R$ 41,1 | 93 | 5,06% | – |
+| Prado Velho | R$ 9.194 | 57 | R$ 60,2 | 44 | 7,86% | – |
+| Rebouças | R$ 9.630 | 123 | R$ 56,0 | 73 | 6,98% | – |
+| Santa Cândida | R$ 6.665 | 58 | R$ 34,8 | 44 | 6,27% | – |
+| Santa Felicidade | R$ 8.875 | 42 | R$ 33,8 | 13 | 4,57% | – |
+| Santa Quitéria | R$ 7.705 | 58 | R$ 44,3 | 15 | 6,90% | – |
+| Santo Inácio | R$ 9.890 | 58 | R$ 44,0 | 14 | 5,34% | – |
+| São Braz | R$ 5.106 | 6 | R$ 38,2 | 5 | 8,98% | – |
+| São Francisco | R$ 10.454 | 131 | R$ 52,2 | 38 | 5,99% | – |
+| São Lourenço | R$ 11.364 | 23 | R$ 41,9 | 5 | 4,42% | – |
+| Seminário | R$ 14.132 | 92 | R$ 44,7 | 15 | 3,80% | – |
+| Sítio Cercado | R$ 4.761 | 32 | R$ 37,6 | 12 | 9,48% | – |
+| Tarumã | R$ 10.284 | 52 | R$ 67,3 | 6 | 7,85% | – |
+| Tatuquara | R$ 4.396 | 18 | – | – | – | – |
+| Tingui | R$ 7.540 | 134 | R$ 39,4 | 36 | 6,27% | – |
+| Uberaba | R$ 6.536 | 53 | R$ 37,9 | 31 | 6,96% | – |
+| Umbará | R$ 5.375 | 10 | – | – | – | – |
+| Vila Izabel | R$ 10.432 | 282 | R$ 48,7 | 89 | 5,60% | – |
+| Vista Alegre | R$ 8.598 | 16 | – | – | – | – |
+| Xaxim | R$ 6.058 | 54 | R$ 35,0 | 13 | 6,93% | – |
 
-### Casas, cidade toda: venda R$ 6.284/m² (n=4649); aluguel R$ 33,6/m²/mês (n=753); rendimento bruto do aluguel 6,42% a.a.
+### Casas, cidade toda: venda R$ 6.239/m² (n=6696); aluguel R$ 33,2/m²/mês (n=840); rendimento bruto do aluguel 6,39% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Abranches | R$ 6.245 | 55 | – | – | – | – |
-| Água Verde | R$ 6.875 | 77 | – | – | – | – |
-| Ahú | R$ 8.058 | 46 | – | – | – | – |
+| Abranches | R$ 5.946 | 73 | R$ 31,9 | 5 | 6,44% | – |
+| Água Verde | R$ 6.854 | 119 | R$ 25,1 | 8 | 4,39% | – |
+| Ahú | R$ 7.383 | 67 | – | – | – | – |
 | Alto | R$ 4.936 | 8 | – | – | – | – |
-| Alto Boqueirão | R$ 5.750 | 85 | R$ 32,0 | 6 | 6,68% | – |
-| Alto da Rua XV | R$ 7.175 | 10 | – | – | – | – |
-| Alto da XV | R$ 6.347 | 8 | R$ 36,2 | 7 | 6,84% | – |
-| Atuba | R$ 6.049 | 74 | R$ 28,2 | 8 | 5,59% | – |
-| Augusta | R$ 3.741 | 22 | – | – | – | – |
-| Bacacheri | R$ 6.221 | 64 | R$ 38,7 | 7 | 7,47% | – |
-| Bairro Alto | R$ 5.257 | 142 | R$ 31,5 | 25 | 7,19% | – |
-| Barreirinha | R$ 5.850 | 75 | R$ 31,2 | 16 | 6,40% | – |
-| Batel | R$ 11.115 | 10 | – | – | – | – |
-| Bigorrilho | R$ 7.605 | 15 | R$ 50,0 | 6 | 7,89% | – |
-| Boa Vista | R$ 5.982 | 111 | R$ 30,0 | 22 | 6,02% | – |
-| Bom Retiro | R$ 6.804 | 61 | R$ 33,8 | 8 | 5,96% | – |
-| Boqueirão | R$ 5.664 | 142 | R$ 32,2 | 32 | 6,82% | – |
-| Butiatuvinha | R$ 8.365 | 45 | – | – | – | – |
-| Cabral | R$ 7.368 | 10 | – | – | – | – |
-| Cachoeira | R$ 5.469 | 48 | – | – | – | – |
-| Cajuru | R$ 4.691 | 102 | R$ 32,5 | 12 | 8,31% | – |
-| Campina do Siqueira | R$ 7.275 | 34 | – | – | – | – |
-| Campo Comprido | R$ 7.062 | 116 | R$ 45,1 | 20 | 7,66% | – |
-| Campo de Santana | R$ 5.132 | 63 | R$ 27,5 | 8 | 6,43% | – |
-| Capão da Imbuia | R$ 5.158 | 41 | – | – | – | – |
-| Capão Raso | R$ 5.668 | 63 | – | – | – | – |
-| Cascatinha | R$ 8.675 | 52 | R$ 48,4 | 10 | 6,69% | – |
-| Centro | R$ 7.992 | 12 | R$ 25,4 | 9 | 3,81% | – |
-| Centro Cívico | R$ 7.896 | 15 | – | – | – | – |
-| Cic | R$ 5.333 | 11 | – | – | – | – |
-| Cidade Industrial | R$ 4.871 | 134 | R$ 25,7 | 12 | 6,33% | – |
-| Cristo Rei | R$ 6.124 | 14 | – | – | – | – |
-| Ecoville | R$ 10.016 | 37 | R$ 36,8 | 5 | 4,41% | – |
-| Fanny | R$ 5.874 | 40 | – | – | – | – |
-| Fazendinha | R$ 5.952 | 79 | R$ 27,9 | 10 | 5,62% | – |
-| Ganchinho | R$ 4.834 | 32 | – | – | – | – |
-| Guabirotuba | R$ 6.063 | 72 | R$ 29,4 | 24 | 5,82% | – |
-| Guaíra | R$ 5.871 | 43 | R$ 24,1 | 7 | 4,93% | – |
-| Hauer | R$ 5.944 | 61 | R$ 31,4 | 5 | 6,34% | – |
-| Hugo Lange | R$ 7.736 | 16 | – | – | – | – |
-| Jardim Botânico | R$ 4.857 | 25 | – | – | – | – |
-| Jardim das Américas | R$ 6.324 | 114 | R$ 32,7 | 23 | 6,20% | – |
+| Alto Boqueirão | R$ 5.658 | 103 | R$ 33,0 | 7 | 7,00% | – |
+| Alto da Rua XV | R$ 7.212 | 15 | – | – | – | – |
+| Alto da XV | R$ 6.514 | 7 | R$ 38,8 | 8 | 7,15% | – |
+| Atuba | R$ 5.987 | 95 | R$ 28,1 | 9 | 5,63% | – |
+| Augusta | R$ 3.857 | 23 | – | – | – | – |
+| Bacacheri | R$ 6.198 | 100 | R$ 38,4 | 10 | 7,44% | – |
+| Bairro Alto | R$ 5.356 | 198 | R$ 29,4 | 34 | 6,59% | – |
+| Barigui | R$ 12.109 | 5 | – | – | – | – |
+| Barreirinha | R$ 5.882 | 97 | R$ 30,8 | 17 | 6,28% | – |
+| Batel | R$ 11.115 | 14 | – | – | – | – |
+| Bigorrilho | R$ 7.574 | 20 | R$ 50,0 | 6 | 7,92% | – |
+| Boa Vista | R$ 5.982 | 165 | R$ 30,0 | 24 | 6,02% | – |
+| Bom Retiro | R$ 7.049 | 82 | R$ 33,4 | 9 | 5,69% | – |
+| Boqueirão | R$ 5.825 | 210 | R$ 31,5 | 34 | 6,49% | – |
+| Butiatuvinha | R$ 8.397 | 52 | – | – | – | – |
+| Cabral | R$ 7.573 | 13 | – | – | – | – |
+| Cachoeira | R$ 5.500 | 61 | – | – | – | – |
+| Caiuá | R$ 4.636 | 25 | – | – | – | – |
+| Cajuru | R$ 4.418 | 197 | R$ 32,1 | 15 | 8,72% | – |
+| Campina do Siqueira | R$ 7.302 | 43 | – | – | – | – |
+| Campo Comprido | R$ 7.445 | 196 | R$ 45,1 | 24 | 7,27% | – |
+| Campo de Santana | R$ 5.400 | 145 | R$ 27,5 | 10 | 6,11% | – |
+| Capão da Imbuia | R$ 5.306 | 59 | R$ 24,2 | 5 | 5,47% | – |
+| Capão Raso | R$ 5.643 | 93 | R$ 29,5 | 5 | 6,27% | – |
+| Cascatinha | R$ 8.500 | 55 | R$ 48,4 | 10 | 6,83% | – |
+| Centro | R$ 7.992 | 18 | R$ 32,0 | 11 | 4,80% | – |
+| Centro Cívico | R$ 8.333 | 19 | – | – | – | – |
+| Champagnat | R$ 6.966 | 5 | – | – | – | – |
+| Cic | R$ 5.375 | 12 | – | – | – | – |
+| Cidade Industrial | R$ 4.838 | 220 | R$ 25,7 | 16 | 6,37% | – |
+| Cristo Rei | R$ 7.085 | 20 | – | – | – | – |
+| Ecoville | R$ 9.638 | 58 | R$ 36,8 | 5 | 4,58% | – |
+| Fanny | R$ 5.707 | 49 | – | – | – | – |
+| Fazendinha | R$ 5.745 | 120 | R$ 29,4 | 14 | 6,14% | – |
+| Ganchinho | R$ 5.161 | 37 | – | – | – | – |
+| Guabirotuba | R$ 6.068 | 104 | R$ 29,4 | 24 | 5,81% | – |
+| Guaíra | R$ 5.582 | 63 | R$ 24,1 | 7 | 5,18% | – |
+| Hauer | R$ 5.976 | 79 | R$ 30,2 | 7 | 6,06% | – |
+| Hugo Lange | R$ 7.736 | 20 | – | – | – | – |
+| Jardim Botânico | R$ 4.891 | 26 | – | – | – | – |
+| Jardim das Américas | R$ 6.333 | 170 | R$ 32,7 | 23 | 6,20% | – |
 | Jardim Schaffer | R$ 10.322 | 8 | – | – | – | – |
-| Jardim Social | R$ 7.025 | 76 | R$ 32,6 | 16 | 5,57% | – |
-| Juvevê | R$ 8.182 | 6 | – | – | – | – |
-| Lindóia | R$ 5.159 | 27 | R$ 34,0 | 6 | 7,91% | – |
-| Mercês | R$ 7.375 | 58 | R$ 37,6 | 23 | 6,12% | – |
-| Mossunguê | R$ 6.790 | 25 | R$ 27,3 | 5 | 4,83% | – |
-| Neoville | R$ 9.038 | 11 | – | – | – | – |
-| Novo Mundo | R$ 5.830 | 71 | R$ 28,5 | 8 | 5,87% | – |
-| Orleans | R$ 7.008 | 45 | – | – | – | – |
-| Parolin | R$ 4.667 | 31 | – | – | – | – |
+| Jardim Social | R$ 7.137 | 98 | R$ 32,6 | 16 | 5,48% | – |
+| Juvevê | R$ 7.850 | 10 | – | – | – | – |
+| Lindóia | R$ 5.278 | 34 | R$ 34,0 | 6 | 7,73% | – |
+| Mercês | R$ 7.846 | 86 | R$ 37,1 | 24 | 5,67% | – |
+| Mossunguê | R$ 6.950 | 39 | R$ 27,3 | 5 | 4,71% | – |
+| Neoville | R$ 8.776 | 12 | – | – | – | – |
+| Novo Mundo | R$ 5.848 | 110 | R$ 28,5 | 8 | 5,85% | – |
+| Orleans | R$ 7.004 | 52 | R$ 36,2 | 5 | 6,20% | – |
+| Parolin | R$ 4.598 | 37 | – | – | – | – |
 | Parque Tanguá | R$ 7.996 | 13 | – | – | – | – |
-| Pilarzinho | R$ 6.926 | 94 | – | – | – | – |
-| Pinheirinho | R$ 6.171 | 106 | R$ 32,2 | 16 | 6,26% | – |
-| Portão | R$ 6.571 | 81 | R$ 29,0 | 17 | 5,30% | – |
-| Rebouças | R$ 5.340 | 14 | R$ 34,3 | 7 | 7,71% | – |
-| Riviera | R$ 10.490 | 9 | – | – | – | – |
-| Santa Cândida | R$ 6.855 | 151 | R$ 51,2 | 25 | 8,96% | – |
-| Santa Felicidade | R$ 7.523 | 239 | R$ 43,5 | 60 | 6,94% | – |
-| Santa Quitéria | R$ 7.010 | 60 | R$ 35,6 | 19 | 6,09% | – |
-| Santo Inácio | R$ 7.714 | 82 | R$ 40,8 | 12 | 6,35% | – |
-| São Braz | R$ 8.324 | 101 | R$ 37,4 | 26 | 5,39% | – |
-| São Francisco | R$ 5.526 | 16 | – | – | – | – |
-| São João | R$ 9.239 | 69 | R$ 37,0 | 7 | 4,81% | – |
-| São Lourenço | R$ 7.264 | 63 | R$ 25,8 | 11 | 4,26% | – |
-| Seminário | R$ 7.646 | 54 | R$ 36,0 | 15 | 5,65% | – |
-| Sítio Cercado | R$ 5.397 | 110 | R$ 26,4 | 10 | 5,87% | – |
-| Taboão | R$ 6.440 | 28 | R$ 35,6 | 7 | 6,63% | – |
-| Tarumã | R$ 6.617 | 46 | R$ 33,3 | 7 | 6,04% | – |
-| Tatuquara | R$ 5.352 | 59 | – | – | – | – |
-| Tingui | R$ 5.639 | 55 | R$ 30,7 | 6 | 6,53% | – |
-| Uberaba | R$ 5.838 | 178 | R$ 29,8 | 33 | 6,13% | – |
-| Umbará | R$ 6.695 | 97 | R$ 33,7 | 5 | 6,04% | – |
-| Vila Izabel | R$ 5.909 | 12 | – | – | – | – |
-| Vista Alegre | R$ 8.030 | 85 | R$ 35,1 | 23 | 5,25% | – |
-| Vitória Régia | R$ 4.987 | 8 | – | – | – | – |
-| Xaxim | R$ 5.939 | 153 | R$ 34,0 | 32 | 6,87% | – |
+| Pilarzinho | R$ 6.940 | 127 | R$ 24,9 | 6 | 4,31% | – |
+| Pinheirinho | R$ 5.825 | 157 | R$ 31,0 | 18 | 6,39% | – |
+| Portão | R$ 6.604 | 132 | R$ 28,3 | 20 | 5,14% | – |
+| Rebouças | R$ 4.877 | 20 | R$ 34,3 | 7 | 8,44% | – |
+| Riviera | R$ 10.518 | 8 | – | – | – | – |
+| Santa Cândida | R$ 6.600 | 233 | R$ 51,2 | 27 | 9,31% | – |
+| Santa Felicidade | R$ 7.833 | 359 | R$ 43,2 | 64 | 6,62% | – |
+| Santa Quitéria | R$ 6.931 | 73 | R$ 35,4 | 21 | 6,13% | – |
+| Santo Inácio | R$ 7.903 | 93 | R$ 40,8 | 12 | 6,19% | – |
+| São Braz | R$ 8.333 | 141 | R$ 37,2 | 27 | 5,36% | – |
+| São Francisco | R$ 5.928 | 22 | R$ 35,1 | 5 | 7,10% | – |
+| São João | R$ 9.107 | 72 | R$ 37,0 | 7 | 4,88% | – |
+| São Lourenço | R$ 7.188 | 71 | R$ 26,4 | 12 | 4,41% | – |
+| São Miguel | R$ 3.216 | 8 | – | – | – | – |
+| Seminário | R$ 8.197 | 78 | R$ 36,0 | 15 | 5,27% | – |
+| Sítio Cercado | R$ 5.079 | 143 | R$ 26,4 | 10 | 6,24% | – |
+| Taboão | R$ 6.457 | 29 | R$ 34,6 | 8 | 6,43% | – |
+| Tarumã | R$ 6.111 | 57 | R$ 33,3 | 7 | 6,54% | – |
+| Tatuquara | R$ 5.476 | 107 | R$ 30,0 | 5 | 6,57% | – |
+| Tingui | R$ 5.680 | 86 | R$ 30,7 | 6 | 6,49% | – |
+| Uberaba | R$ 5.971 | 297 | R$ 30,1 | 37 | 6,05% | – |
+| Umbará | R$ 6.464 | 142 | R$ 33,7 | 5 | 6,26% | – |
+| Vila Izabel | R$ 5.836 | 15 | R$ 33,5 | 5 | 6,89% | – |
+| Vista Alegre | R$ 8.184 | 103 | R$ 34,0 | 24 | 4,99% | – |
+| Vitória Régia | R$ 5.092 | 10 | – | – | – | – |
+| Xaxim | R$ 5.889 | 231 | R$ 33,5 | 34 | 6,83% | – |
 
-### Terrenos, cidade toda: venda R$ 1.738/m² (n=1612)
+### Terrenos, cidade toda: venda R$ 1.736/m² (n=2453)
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Abranches | R$ 1.229 | 27 | – | – | – | – |
-| Água Verde | R$ 3.135 | 22 | – | – | – | – |
-| Ahú | R$ 2.259 | 8 | – | – | – | – |
-| Alto Boqueirão | R$ 1.031 | 14 | – | – | – | – |
-| Alto da Rua XV | R$ 2.812 | 10 | – | – | – | – |
+| Abranches | R$ 1.217 | 44 | – | – | – | – |
+| Água Verde | R$ 2.885 | 35 | – | – | – | – |
+| Ahú | R$ 2.675 | 12 | – | – | – | – |
+| Alto Boqueirão | R$ 1.212 | 24 | – | – | – | – |
+| Alto da Glória | R$ 4.483 | 7 | – | – | – | – |
+| Alto da Rua XV | R$ 2.910 | 14 | – | – | – | – |
 | Alto da XV | R$ 3.542 | 5 | – | – | – | – |
-| Atuba | R$ 1.219 | 28 | – | – | – | – |
-| Augusta | R$ 1.563 | 13 | – | – | – | – |
-| Bacacheri | R$ 2.162 | 27 | – | – | – | – |
-| Bairro Alto | R$ 1.368 | 30 | – | – | – | – |
-| Barreirinha | R$ 1.385 | 32 | – | – | – | – |
-| Bigorrilho | R$ 3.138 | 17 | – | – | – | – |
-| Boa Vista | R$ 1.704 | 38 | – | – | – | – |
-| Bom Retiro | R$ 1.921 | 15 | – | – | – | – |
-| Boqueirão | R$ 1.429 | 45 | – | – | – | – |
-| Butiatuvinha | R$ 1.102 | 27 | – | – | – | – |
-| Cabral | R$ 4.427 | 6 | – | – | – | – |
-| Cachoeira | R$ 879 | 14 | – | – | – | – |
-| Cajuru | R$ 1.461 | 37 | – | – | – | – |
-| Campina do Siqueira | R$ 1.893 | 9 | – | – | – | – |
-| Campo Comprido | R$ 1.731 | 53 | – | – | – | – |
-| Campo de Santana | R$ 1.157 | 14 | – | – | – | – |
-| Capão da Imbuia | R$ 1.923 | 13 | – | – | – | – |
-| Capão Raso | R$ 1.825 | 25 | – | – | – | – |
-| Cascatinha | R$ 1.944 | 21 | – | – | – | – |
-| Centro | R$ 4.496 | 13 | – | – | – | – |
-| Cidade Industrial | R$ 1.644 | 50 | – | – | – | – |
-| Cristo Rei | R$ 2.420 | 10 | – | – | – | – |
-| Ecoville | R$ 1.917 | 11 | – | – | – | – |
-| Fanny | R$ 1.383 | 12 | – | – | – | – |
-| Fazendinha | R$ 1.633 | 15 | – | – | – | – |
-| Ganchinho | R$ 506 | 6 | – | – | – | – |
-| Guabirotuba | R$ 1.560 | 11 | – | – | – | – |
-| Guaíra | R$ 1.570 | 19 | – | – | – | – |
-| Hauer | R$ 1.728 | 22 | – | – | – | – |
-| Jardim Botânico | R$ 2.088 | 14 | – | – | – | – |
-| Jardim das Américas | R$ 2.244 | 16 | – | – | – | – |
-| Jardim Social | R$ 2.052 | 11 | – | – | – | – |
-| Juvevê | R$ 3.509 | 7 | – | – | – | – |
-| Lindóia | R$ 1.381 | 12 | – | – | – | – |
-| Mercês | R$ 2.197 | 20 | – | – | – | – |
-| Mossunguê | R$ 2.518 | 20 | – | – | – | – |
+| Atuba | R$ 1.255 | 41 | – | – | – | – |
+| Augusta | R$ 1.563 | 15 | – | – | – | – |
+| Bacacheri | R$ 2.171 | 39 | – | – | – | – |
+| Bairro Alto | R$ 1.380 | 47 | – | – | – | – |
+| Barreirinha | R$ 1.326 | 46 | – | – | – | – |
+| Bigorrilho | R$ 3.395 | 24 | – | – | – | – |
+| Boa Vista | R$ 1.699 | 57 | – | – | – | – |
+| Bom Retiro | R$ 2.083 | 22 | – | – | – | – |
+| Boqueirão | R$ 1.385 | 68 | – | – | – | – |
+| Butiatuvinha | R$ 1.073 | 42 | – | – | – | – |
+| Cabral | R$ 4.360 | 9 | – | – | – | – |
+| Cachoeira | R$ 1.003 | 19 | – | – | – | – |
+| Cajuru | R$ 1.482 | 61 | – | – | – | – |
+| Campina do Siqueira | R$ 2.302 | 18 | – | – | – | – |
+| Campo Comprido | R$ 1.721 | 82 | – | – | – | – |
+| Campo de Santana | R$ 1.386 | 26 | – | – | – | – |
+| Capão da Imbuia | R$ 1.923 | 21 | – | – | – | – |
+| Capão Raso | R$ 1.865 | 41 | – | – | – | – |
+| Cascatinha | R$ 1.768 | 26 | – | – | – | – |
+| Centro | R$ 4.389 | 20 | – | – | – | – |
+| Centro Cívico | R$ 2.381 | 9 | – | – | – | – |
+| Cidade Industrial | R$ 1.663 | 75 | – | – | – | – |
+| Cristo Rei | R$ 2.662 | 15 | – | – | – | – |
+| Ecoville | R$ 1.917 | 15 | – | – | – | – |
+| Fanny | R$ 1.432 | 18 | – | – | – | – |
+| Fazendinha | R$ 1.640 | 24 | – | – | – | – |
+| Ganchinho | R$ 376 | 9 | – | – | – | – |
+| Guabirotuba | R$ 1.517 | 19 | – | – | – | – |
+| Guaíra | R$ 1.570 | 27 | – | – | – | – |
+| Hauer | R$ 1.798 | 37 | – | – | – | – |
+| Hugo Lange | R$ 2.366 | 5 | – | – | – | – |
+| Jardim Botânico | R$ 1.991 | 21 | – | – | – | – |
+| Jardim das Américas | R$ 2.174 | 26 | – | – | – | – |
+| Jardim Social | R$ 2.033 | 16 | – | – | – | – |
+| Juvevê | R$ 3.509 | 9 | – | – | – | – |
+| Lindóia | R$ 1.372 | 16 | – | – | – | – |
+| Mercês | R$ 2.282 | 30 | – | – | – | – |
+| Mossunguê | R$ 2.500 | 27 | – | – | – | – |
 | Neoville | R$ 2.722 | 6 | – | – | – | – |
-| Novo Mundo | R$ 1.912 | 31 | – | – | – | – |
-| Orleans | R$ 1.009 | 22 | – | – | – | – |
-| Parolin | R$ 1.768 | 23 | – | – | – | – |
+| Novo Mundo | R$ 1.875 | 51 | – | – | – | – |
+| Orleans | R$ 1.163 | 29 | – | – | – | – |
+| Parolin | R$ 1.834 | 31 | – | – | – | – |
 | Parque Tanguá | R$ 1.460 | 5 | – | – | – | – |
 | Passaúna | R$ 1.433 | 5 | – | – | – | – |
-| Pilarzinho | R$ 1.235 | 51 | – | – | – | – |
-| Pinheirinho | R$ 1.729 | 37 | – | – | – | – |
-| Portão | R$ 1.932 | 41 | – | – | – | – |
-| Prado Velho | R$ 1.785 | 7 | – | – | – | – |
-| Rebouças | R$ 2.313 | 30 | – | – | – | – |
-| Riviera | R$ 1.769 | 9 | – | – | – | – |
-| Santa Cândida | R$ 1.785 | 64 | – | – | – | – |
-| Santa Felicidade | R$ 1.434 | 82 | – | – | – | – |
-| Santa Quitéria | R$ 1.933 | 21 | – | – | – | – |
-| Santo Inácio | R$ 2.000 | 17 | – | – | – | – |
-| São Braz | R$ 1.604 | 23 | – | – | – | – |
-| São Francisco | R$ 2.628 | 13 | – | – | – | – |
-| São João | R$ 1.650 | 10 | – | – | – | – |
-| São Lourenço | R$ 1.983 | 19 | – | – | – | – |
-| Seminário | R$ 2.493 | 10 | – | – | – | – |
-| Sítio Cercado | R$ 1.721 | 13 | – | – | – | – |
-| Taboão | R$ 1.680 | 31 | – | – | – | – |
-| Tarumã | R$ 1.689 | 11 | – | – | – | – |
-| Tatuquara | R$ 1.598 | 6 | – | – | – | – |
-| Tingui | R$ 1.328 | 18 | – | – | – | – |
-| Uberaba | R$ 2.026 | 55 | – | – | – | – |
-| Umbará | R$ 1.344 | 38 | – | – | – | – |
-| Vila Izabel | R$ 3.109 | 7 | – | – | – | – |
-| Vista Alegre | R$ 1.483 | 26 | – | – | – | – |
-| Xaxim | R$ 1.699 | 34 | – | – | – | – |
+| Pilarzinho | R$ 1.257 | 81 | – | – | – | – |
+| Pinheirinho | R$ 1.723 | 58 | – | – | – | – |
+| Portão | R$ 1.979 | 63 | – | – | – | – |
+| Prado Velho | R$ 1.785 | 9 | – | – | – | – |
+| Rebouças | R$ 2.405 | 44 | – | – | – | – |
+| Riviera | R$ 1.406 | 11 | – | – | – | – |
+| Santa Cândida | R$ 1.702 | 101 | – | – | – | – |
+| Santa Felicidade | R$ 1.507 | 129 | – | – | – | – |
+| Santa Quitéria | R$ 2.044 | 29 | – | – | – | – |
+| Santo Inácio | R$ 2.000 | 28 | – | – | – | – |
+| São Braz | R$ 1.652 | 36 | – | – | – | – |
+| São Francisco | R$ 2.628 | 21 | – | – | – | – |
+| São João | R$ 2.046 | 15 | – | – | – | – |
+| São Lourenço | R$ 1.852 | 31 | – | – | – | – |
+| Seminário | R$ 2.562 | 13 | – | – | – | – |
+| Sítio Cercado | R$ 1.721 | 25 | – | – | – | – |
+| Taboão | R$ 1.742 | 39 | – | – | – | – |
+| Tarumã | R$ 1.698 | 14 | – | – | – | – |
+| Tatuquara | R$ 1.408 | 14 | – | – | – | – |
+| Tingui | R$ 1.400 | 32 | – | – | – | – |
+| Uberaba | R$ 1.702 | 86 | – | – | – | – |
+| Umbará | R$ 1.395 | 55 | – | – | – | – |
+| Vila Izabel | R$ 3.423 | 13 | – | – | – | – |
+| Vista Alegre | R$ 1.520 | 40 | – | – | – | – |
+| Xaxim | R$ 1.601 | 54 | – | – | – | – |
 
-### Salas comerciais, cidade toda: venda R$ 6.995/m² (n=382); aluguel R$ 45,5/m²/mês (n=387); rendimento bruto do aluguel 7,81% a.a.
+### Salas comerciais, cidade toda: venda R$ 6.916/m² (n=610); aluguel R$ 45,5/m²/mês (n=513); rendimento bruto do aluguel 7,89% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Água Verde | R$ 10.606 | 23 | R$ 44,5 | 18 | 5,03% | – |
-| Alto da Glória | R$ 17.818 | 9 | R$ 112,8 | 10 | 7,60% | – |
+| Água Verde | R$ 9.942 | 29 | R$ 45,5 | 22 | 5,49% | – |
+| Ahú | – | – | R$ 32,2 | 5 | – | – |
+| Alto da Glória | R$ 18.667 | 13 | R$ 123,6 | 13 | 7,95% | – |
 | Alto da Rua XV | – | – | R$ 44,0 | 5 | – | – |
-| Bacacheri | – | – | R$ 50,3 | 14 | – | – |
-| Batel | R$ 10.704 | 34 | R$ 66,8 | 13 | 7,49% | – |
-| Bigorrilho | R$ 7.500 | 23 | R$ 64,4 | 12 | 10,30% | – |
-| Boa Vista | R$ 8.179 | 5 | R$ 56,4 | 6 | 8,27% | – |
-| Boqueirão | – | – | R$ 32,9 | 8 | – | – |
-| Cabral | R$ 7.935 | 11 | – | – | – | – |
-| Campina do Siqueira | – | – | R$ 120,6 | 5 | – | – |
+| Bacacheri | R$ 7.158 | 6 | R$ 50,3 | 14 | 8,43% | – |
+| Bairro Alto | – | – | R$ 26,7 | 5 | – | – |
+| Batel | R$ 10.286 | 55 | R$ 66,8 | 21 | 7,79% | – |
+| Bigorrilho | R$ 7.938 | 42 | R$ 57,5 | 16 | 8,69% | – |
+| Boa Vista | R$ 7.766 | 8 | R$ 45,2 | 8 | 6,98% | – |
+| Boqueirão | – | – | R$ 36,5 | 12 | – | – |
+| Cabral | R$ 7.450 | 18 | – | – | – | – |
+| Campina do Siqueira | – | – | R$ 96,4 | 6 | – | – |
 | Capão da Imbuia | – | – | R$ 41,8 | 5 | – | – |
-| Capão Raso | – | – | R$ 31,4 | 6 | – | – |
-| Centro | R$ 5.189 | 152 | R$ 39,5 | 70 | 9,13% | – |
-| Centro Cívico | R$ 9.033 | 10 | R$ 41,7 | 9 | 5,54% | – |
-| Cidade Industrial | – | – | R$ 30,0 | 5 | – | – |
-| Cristo Rei | R$ 16.652 | 11 | – | – | – | – |
+| Capão Raso | R$ 7.405 | 6 | R$ 35,0 | 7 | 5,67% | – |
+| Centro | R$ 5.172 | 258 | R$ 38,8 | 119 | 9,00% | – |
+| Centro Cívico | R$ 7.590 | 18 | R$ 43,5 | 12 | 6,88% | – |
+| Cidade Industrial | – | – | R$ 30,0 | 7 | – | – |
+| Cristo Rei | R$ 12.013 | 14 | – | – | – | – |
+| Ecoville | R$ 14.741 | 6 | – | – | – | – |
 | Fazendinha | – | – | R$ 65,2 | 5 | – | – |
-| Hauer | – | – | R$ 32,3 | 6 | – | – |
-| Juvevê | R$ 14.103 | 7 | – | – | – | – |
-| Mercês | R$ 4.955 | 6 | – | – | – | – |
-| Mossunguê | R$ 17.086 | 9 | – | – | – | – |
-| Novo Mundo | – | – | R$ 67,5 | 11 | – | – |
-| Pinheirinho | – | – | R$ 60,3 | 8 | – | – |
-| Portão | R$ 6.429 | 9 | R$ 37,5 | 13 | 7,00% | – |
-| Rebouças | R$ 8.254 | 13 | R$ 27,5 | 10 | 4,00% | – |
-| Santa Felicidade | – | – | R$ 44,8 | 12 | – | – |
-| São Braz | – | – | R$ 48,9 | 5 | – | – |
-| São Francisco | – | – | R$ 35,5 | 6 | – | – |
-| Sítio Cercado | – | – | R$ 60,5 | 13 | – | – |
+| Guabirotuba | – | – | R$ 46,4 | 5 | – | – |
+| Hauer | – | – | R$ 35,0 | 9 | – | – |
+| Juvevê | R$ 13.214 | 13 | R$ 82,0 | 5 | 7,45% | – |
+| Mercês | R$ 7.368 | 9 | R$ 30,0 | 7 | 4,89% | – |
+| Mossunguê | R$ 17.001 | 12 | R$ 43,5 | 6 | 3,07% | – |
+| Novo Mundo | – | – | R$ 68,9 | 14 | – | – |
+| Pinheirinho | – | – | R$ 50,0 | 9 | – | – |
+| Portão | R$ 6.163 | 14 | R$ 36,2 | 14 | 7,05% | – |
+| Rebouças | R$ 8.384 | 18 | R$ 25,6 | 14 | 3,66% | – |
+| Santa Felicidade | – | – | R$ 45,6 | 14 | – | – |
+| São Braz | – | – | R$ 44,7 | 6 | – | – |
+| São Francisco | R$ 6.540 | 6 | R$ 35,5 | 6 | 6,51% | – |
+| São Lourenço | – | – | R$ 44,4 | 5 | – | – |
+| Seminário | – | – | R$ 43,8 | 5 | – | – |
+| Sítio Cercado | – | – | R$ 56,7 | 14 | – | – |
 | Uberaba | – | – | R$ 37,1 | 9 | – | – |
-| Vila Izabel | R$ 10.996 | 10 | R$ 80,0 | 7 | 8,73% | – |
-| Xaxim | – | – | R$ 42,7 | 13 | – | – |
+| Vila Izabel | R$ 11.308 | 16 | R$ 77,5 | 8 | 8,22% | – |
+| Vista Alegre | R$ 6.667 | 5 | – | – | – | – |
+| Xaxim | – | – | R$ 44,4 | 15 | – | – |
 
 
 ## Cascavel (outubro/2026): https://acorridadosbairros.com.br/pr/cascavel/
@@ -5302,18 +5318,18 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 
 Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de preço, tamanho = anúncios): https://acorridadosbairros.com.br/mapa/pe-recife-apartamento.png · https://acorridadosbairros.com.br/mapa/pe-recife-casa.png
 
-### Apartamentos, cidade toda: venda R$ 8.153/m² (n=4923); aluguel R$ 64,9/m²/mês (n=1044); rendimento bruto do aluguel 9,55% a.a.
+### Apartamentos, cidade toda: venda R$ 8.149/m² (n=4932); aluguel R$ 64,9/m²/mês (n=1052); rendimento bruto do aluguel 9,56% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Aflitos | R$ 5.641 | 117 | R$ 66,6 | 16 | 14,17% | – |
+| Aflitos | R$ 5.598 | 118 | R$ 66,6 | 16 | 14,28% | – |
 | Afogados | R$ 4.375 | 13 | – | – | – | – |
 | Água Fria | R$ 4.174 | 10 | – | – | – | – |
 | Apipucos | R$ 9.639 | 45 | – | – | – | – |
 | Areias | R$ 3.750 | 8 | – | – | – | – |
 | Arruda | R$ 3.931 | 18 | – | – | – | – |
 | Barro | R$ 6.667 | 23 | R$ 39,5 | 7 | 7,11% | – |
-| Boa Viagem | R$ 8.816 | 1073 | R$ 65,9 | 377 | 8,97% | – |
+| Boa Viagem | R$ 8.800 | 1075 | R$ 65,6 | 381 | 8,95% | – |
 | Boa Vista | R$ 7.500 | 151 | R$ 63,6 | 45 | 10,18% | – |
 | Bongi | R$ 3.059 | 7 | – | – | – | – |
 | Campo Grande | R$ 6.186 | 72 | R$ 42,8 | 8 | 8,30% | – |
@@ -5322,31 +5338,31 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Caxangá | R$ 7.365 | 58 | – | – | – | – |
 | Centro | R$ 8.595 | 5 | – | – | – | – |
 | Cidade Universitária | R$ 8.836 | 8 | – | – | – | – |
-| Cordeiro | R$ 5.264 | 68 | R$ 26,4 | 9 | 6,02% | – |
+| Cordeiro | R$ 5.074 | 69 | R$ 26,4 | 9 | 6,24% | – |
 | Derby | R$ 4.034 | 25 | – | – | – | – |
 | Dois Irmãos | R$ 9.756 | 5 | – | – | – | – |
 | Dois Unidos | R$ 6.333 | 5 | – | – | – | – |
-| Encruzilhada | R$ 8.000 | 151 | R$ 54,3 | 19 | 8,14% | – |
+| Encruzilhada | R$ 8.057 | 152 | R$ 54,3 | 19 | 8,09% | – |
 | Engenho do Meio | R$ 3.341 | 14 | – | – | – | – |
-| Espinheiro | R$ 6.897 | 191 | R$ 70,8 | 46 | 12,32% | – |
+| Espinheiro | R$ 6.897 | 191 | R$ 70,0 | 47 | 12,18% | – |
 | Estância | R$ 4.895 | 6 | – | – | – | – |
 | Graças | R$ 7.087 | 175 | R$ 59,6 | 43 | 10,09% | – |
 | Guabiraba | R$ 4.222 | 11 | – | – | – | – |
 | Hipódromo | R$ 8.122 | 13 | – | – | – | – |
-| Ilha do Leite | R$ 12.170 | 70 | R$ 98,5 | 12 | 9,71% | – |
+| Ilha do Leite | R$ 12.170 | 70 | R$ 97,0 | 13 | 9,56% | – |
 | Ilha do Retiro | R$ 9.491 | 63 | R$ 61,5 | 9 | 7,78% | – |
 | Imbiribeira | R$ 7.347 | 133 | R$ 65,2 | 27 | 10,65% | – |
-| Iputinga | R$ 5.211 | 73 | R$ 54,8 | 8 | 12,62% | – |
+| Iputinga | R$ 5.070 | 74 | R$ 54,8 | 8 | 12,97% | – |
 | Jaqueira | R$ 7.880 | 84 | R$ 76,1 | 14 | 11,59% | – |
 | Jardim São Paulo | R$ 6.164 | 26 | R$ 33,3 | 7 | 6,48% | – |
 | Macaxeira | R$ 9.112 | 5 | – | – | – | – |
-| Madalena | R$ 8.889 | 203 | R$ 58,4 | 44 | 7,88% | – |
-| Monteiro | R$ 8.980 | 97 | R$ 65,2 | 9 | 8,71% | – |
+| Madalena | R$ 8.891 | 204 | R$ 58,6 | 45 | 7,91% | – |
+| Monteiro | R$ 9.034 | 98 | R$ 65,2 | 9 | 8,66% | – |
 | Paissandu | R$ 9.481 | 16 | R$ 91,2 | 7 | 11,54% | – |
 | Parnamirim | R$ 9.306 | 161 | R$ 94,9 | 46 | 12,24% | – |
 | Passarinho | R$ 5.125 | 11 | – | – | – | – |
 | Piedade | R$ 6.364 | 5 | – | – | – | – |
-| Pina | R$ 13.159 | 194 | R$ 76,3 | 48 | 6,96% | – |
+| Pina | R$ 13.077 | 195 | R$ 76,3 | 48 | 7,00% | – |
 | Poço | R$ 10.288 | 44 | – | – | – | – |
 | Poço da Panela | R$ 10.130 | 42 | – | – | – | – |
 | Ponto de Parada | R$ 10.802 | 12 | – | – | – | – |
@@ -5356,7 +5372,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | San Martin | R$ 6.190 | 14 | – | – | – | – |
 | Sancho | R$ 6.833 | 5 | – | – | – | – |
 | Santana | R$ 9.622 | 40 | R$ 70,2 | 5 | 8,75% | – |
-| Santo Amaro | R$ 9.952 | 84 | R$ 55,8 | 19 | 6,73% | – |
+| Santo Amaro | R$ 9.952 | 84 | R$ 56,7 | 20 | 6,84% | – |
 | São José | R$ 19.086 | 78 | R$ 99,5 | 20 | 6,26% | – |
 | Setúbal | R$ 9.964 | 46 | – | – | – | – |
 | Soledade | R$ 9.013 | 52 | R$ 87,5 | 7 | 11,65% | – |
@@ -5431,12 +5447,12 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Madalena | R$ 2.001 | 6 | – | – | – | – |
 | Várzea | R$ 904 | 18 | – | – | – | – |
 
-### Salas comerciais, cidade toda: venda R$ 7.136/m² (n=228); aluguel R$ 77,8/m²/mês (n=333); rendimento bruto do aluguel 13,08% a.a.
+### Salas comerciais, cidade toda: venda R$ 7.167/m² (n=229); aluguel R$ 77,9/m²/mês (n=336); rendimento bruto do aluguel 13,04% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
 | Boa Viagem | R$ 8.428 | 64 | R$ 92,8 | 98 | 13,21% | – |
-| Boa Vista | R$ 4.307 | 30 | R$ 53,3 | 39 | 14,85% | – |
+| Boa Vista | R$ 4.394 | 31 | R$ 58,4 | 40 | 15,95% | – |
 | Casa Amarela | – | – | R$ 94,0 | 10 | – | – |
 | Casa Forte | – | – | R$ 100,0 | 18 | – | – |
 | Coelhos | R$ 4.522 | 8 | – | – | – | – |
@@ -5446,9 +5462,9 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Graças | R$ 9.970 | 6 | R$ 102,8 | 10 | 12,37% | – |
 | Ilha do Leite | R$ 5.960 | 28 | R$ 85,2 | 34 | 17,15% | – |
 | Paissandu | R$ 8.314 | 8 | R$ 75,7 | 7 | 10,93% | – |
-| Pina | R$ 8.929 | 8 | R$ 97,3 | 11 | 13,08% | – |
+| Pina | R$ 8.929 | 8 | R$ 107,9 | 12 | 14,50% | – |
 | Recife | – | – | R$ 39,1 | 6 | – | – |
-| Santo Amaro | R$ 4.859 | 8 | R$ 40,9 | 8 | 10,10% | – |
+| Santo Amaro | R$ 4.859 | 8 | R$ 38,9 | 9 | 9,61% | – |
 | Santo Antônio | R$ 1.951 | 11 | R$ 17,6 | 7 | 10,83% | – |
 | Tamarineira | R$ 9.231 | 9 | R$ 68,8 | 6 | 8,94% | – |
 
@@ -5800,186 +5816,186 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 
 Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de preço, tamanho = anúncios): https://acorridadosbairros.com.br/mapa/rj-rio-de-janeiro-apartamento.png · https://acorridadosbairros.com.br/mapa/rj-rio-de-janeiro-casa.png
 
-### Apartamentos, cidade toda: venda R$ 6.333/m² (n=11477); aluguel R$ 36,0/m²/mês (n=1388); rendimento bruto do aluguel 6,82% a.a.
+### Apartamentos, cidade toda: venda R$ 6.348/m² (n=11842); aluguel R$ 37,4/m²/mês (n=1472); rendimento bruto do aluguel 7,07% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
 | Abolição | R$ 3.596 | 53 | – | – | – | – |
 | Água Santa | R$ 3.633 | 49 | – | – | – | – |
-| Alto da Boa Vista | R$ 5.229 | 32 | – | – | – | – |
+| Alto da Boa Vista | R$ 5.273 | 33 | – | – | – | – |
 | Anchieta | R$ 1.855 | 58 | – | – | – | – |
-| Andaraí | R$ 5.333 | 101 | R$ 40,1 | 5 | 9,02% | – |
-| Anil | R$ 5.227 | 51 | R$ 35,8 | 16 | 8,22% | – |
-| Bancários | R$ 4.486 | 37 | – | – | – | – |
-| Bangu | R$ 3.042 | 54 | R$ 19,3 | 5 | 7,61% | – |
-| Barra da Tijuca | R$ 13.029 | 821 | R$ 68,1 | 150 | 6,27% | – |
-| Barra Olímpica | R$ 9.348 | 207 | R$ 55,6 | 31 | 7,14% | – |
+| Andaraí | R$ 5.369 | 102 | R$ 40,1 | 5 | 8,96% | – |
+| Anil | R$ 5.227 | 57 | R$ 36,0 | 17 | 8,26% | – |
+| Bancários | R$ 4.430 | 38 | – | – | – | – |
+| Bangu | R$ 3.083 | 55 | R$ 19,3 | 5 | 7,51% | – |
+| Barra da Tijuca | R$ 13.032 | 879 | R$ 71,2 | 186 | 6,56% | – |
+| Barra Olímpica | R$ 9.403 | 215 | R$ 55,6 | 33 | 7,10% | – |
 | Benfica | R$ 3.648 | 34 | – | – | – | – |
 | Bento Ribeiro | R$ 3.256 | 32 | R$ 20,0 | 5 | 7,37% | – |
-| Bonsucesso | R$ 4.931 | 18 | R$ 22,8 | 8 | 5,55% | – |
-| Botafogo | R$ 14.126 | 376 | R$ 65,6 | 22 | 5,57% | – |
+| Bonsucesso | R$ 4.861 | 19 | R$ 22,8 | 8 | 5,63% | – |
+| Botafogo | R$ 14.151 | 389 | R$ 65,0 | 23 | 5,51% | – |
 | Brás de Pina | R$ 2.550 | 25 | R$ 20,0 | 13 | 9,41% | – |
-| Cachambi | R$ 4.964 | 102 | R$ 26,6 | 15 | 6,43% | – |
-| Cacuia | R$ 4.922 | 37 | – | – | – | – |
+| Cachambi | R$ 4.928 | 103 | R$ 26,6 | 15 | 6,48% | – |
+| Cacuia | R$ 4.946 | 38 | – | – | – | – |
 | Caju | R$ 4.571 | 5 | – | – | – | – |
-| Camorim | R$ 7.315 | 86 | R$ 36,7 | 6 | 6,02% | – |
-| Campinho | R$ 3.204 | 57 | R$ 22,9 | 5 | 8,58% | – |
-| Campo Grande | R$ 3.519 | 287 | R$ 18,4 | 55 | 6,27% | – |
-| Cascadura | R$ 3.250 | 19 | R$ 18,8 | 10 | 6,94% | – |
-| Catete | R$ 11.429 | 63 | R$ 63,5 | 6 | 6,67% | – |
-| Catumbi | R$ 4.270 | 6 | – | – | – | – |
-| Cavalcanti | R$ 1.626 | 29 | – | – | – | – |
-| Centro | R$ 8.835 | 175 | R$ 60,8 | 37 | 8,26% | – |
+| Camorim | R$ 7.302 | 87 | R$ 36,7 | 6 | 6,03% | – |
+| Campinho | R$ 3.080 | 60 | R$ 22,9 | 5 | 8,92% | – |
+| Campo Grande | R$ 3.509 | 294 | R$ 18,3 | 57 | 6,26% | – |
+| Cascadura | R$ 3.194 | 20 | R$ 17,5 | 11 | 6,58% | – |
+| Catete | R$ 11.429 | 63 | R$ 56,2 | 7 | 5,90% | – |
+| Catumbi | R$ 4.200 | 7 | – | – | – | – |
+| Cavalcanti | R$ 1.691 | 30 | – | – | – | – |
+| Centro | R$ 8.841 | 176 | R$ 60,8 | 37 | 8,25% | – |
 | Cidade de Deus | R$ 3.509 | 12 | – | – | – | – |
 | Cidade Jardim | R$ 10.405 | 7 | – | – | – | – |
-| Cidade Nova | R$ 6.571 | 31 | – | – | – | – |
-| Cocotá | R$ 4.113 | 45 | – | – | – | – |
+| Cidade Nova | R$ 6.399 | 32 | – | – | – | – |
+| Cocotá | R$ 4.117 | 46 | – | – | – | – |
 | Coelho Neto | R$ 2.398 | 38 | – | – | – | – |
-| Colégio | R$ 2.905 | 10 | – | – | – | – |
-| Copacabana | R$ 12.251 | 556 | R$ 77,8 | 69 | 7,62% | – |
-| Cordovil | R$ 3.097 | 56 | – | – | – | – |
+| Colégio | R$ 3.060 | 11 | – | – | – | – |
+| Copacabana | R$ 12.144 | 572 | R$ 77,6 | 72 | 7,67% | – |
+| Cordovil | R$ 3.111 | 57 | – | – | – | – |
 | Cosme Velho | R$ 9.896 | 35 | – | – | – | – |
 | Cosmos | R$ 2.660 | 55 | R$ 15,5 | 9 | 6,99% | – |
-| Curicica | R$ 5.301 | 42 | R$ 30,2 | 14 | 6,84% | – |
-| Del Castilho | R$ 6.002 | 69 | R$ 28,1 | 6 | 5,62% | – |
-| Encantado | R$ 4.510 | 53 | – | – | – | – |
+| Curicica | R$ 5.444 | 45 | R$ 30,4 | 17 | 6,70% | – |
+| Del Castilho | R$ 5.993 | 70 | R$ 33,3 | 7 | 6,67% | – |
+| Encantado | R$ 4.595 | 54 | – | – | – | – |
 | Engenheiro Leal | R$ 2.223 | 8 | – | – | – | – |
 | Engenho da Rainha | R$ 2.941 | 11 | – | – | – | – |
-| Engenho de Dentro | R$ 4.003 | 30 | R$ 26,6 | 8 | 7,97% | – |
-| Engenho Novo | R$ 3.349 | 38 | R$ 26,7 | 12 | 9,57% | – |
-| Estácio | R$ 4.667 | 53 | – | – | – | – |
-| Flamengo | R$ 11.195 | 286 | R$ 53,3 | 15 | 5,71% | – |
-| Freguesia (Ilha do Governador) | R$ 4.430 | 75 | R$ 34,0 | 14 | 9,21% | – |
-| Freguesia (Jacarepaguá) | R$ 5.280 | 276 | R$ 28,9 | 29 | 6,57% | – |
+| Engenho de Dentro | R$ 4.077 | 31 | R$ 26,6 | 8 | 7,83% | – |
+| Engenho Novo | R$ 3.349 | 40 | R$ 24,4 | 13 | 8,74% | – |
+| Estácio | R$ 4.694 | 54 | – | – | – | – |
+| Flamengo | R$ 11.235 | 302 | R$ 54,4 | 17 | 5,81% | – |
+| Freguesia (Ilha do Governador) | R$ 4.409 | 76 | R$ 34,0 | 14 | 9,25% | – |
+| Freguesia (Jacarepaguá) | R$ 5.273 | 305 | R$ 28,9 | 31 | 6,58% | – |
 | Gamboa | R$ 9.609 | 26 | – | – | – | – |
 | Gardênia Azul | R$ 3.451 | 32 | – | – | – | – |
-| Gávea | R$ 16.480 | 113 | R$ 124,4 | 6 | 9,06% | – |
+| Gávea | R$ 16.480 | 114 | R$ 124,4 | 6 | 9,06% | – |
 | Glória | R$ 11.940 | 112 | R$ 113,6 | 5 | 11,42% | – |
-| Grajaú | R$ 5.227 | 116 | R$ 32,0 | 10 | 7,35% | – |
+| Grajaú | R$ 5.168 | 119 | R$ 32,0 | 10 | 7,43% | – |
 | Guadalupe | R$ 3.100 | 47 | – | – | – | – |
-| Guaratiba | R$ 3.148 | 48 | R$ 19,4 | 14 | 7,40% | – |
+| Guaratiba | R$ 3.114 | 49 | R$ 19,2 | 15 | 7,40% | – |
 | Higienópolis | R$ 3.750 | 47 | – | – | – | – |
-| Honório Gurgel | R$ 2.667 | 9 | – | – | – | – |
-| Humaitá | R$ 13.764 | 80 | R$ 68,3 | 7 | 5,95% | – |
+| Honório Gurgel | R$ 2.653 | 10 | – | – | – | – |
+| Humaitá | R$ 13.778 | 81 | R$ 68,3 | 7 | 5,95% | – |
 | Ilha do Governador | R$ 4.089 | 12 | – | – | – | – |
 | Inhaúma | R$ 3.846 | 57 | – | – | – | – |
 | Inhoaíba | R$ 2.731 | 63 | R$ 17,0 | 5 | 7,47% | – |
-| Ipanema | R$ 19.118 | 229 | R$ 101,1 | 39 | 6,35% | – |
-| Irajá | R$ 4.478 | 62 | R$ 25,7 | 21 | 6,89% | – |
-| Itanhangá | R$ 4.322 | 15 | – | – | – | – |
-| Jacaré | R$ 3.039 | 15 | – | – | – | – |
-| Jacarepaguá | R$ 8.630 | 159 | R$ 46,5 | 44 | 6,47% | – |
+| Ipanema | R$ 18.965 | 238 | R$ 100,6 | 40 | 6,37% | – |
+| Irajá | R$ 4.556 | 63 | R$ 25,7 | 22 | 6,77% | – |
+| Itanhangá | R$ 4.286 | 18 | – | – | – | – |
+| Jacaré | R$ 2.948 | 16 | – | – | – | – |
+| Jacarepaguá | R$ 8.208 | 171 | R$ 46,5 | 48 | 6,80% | – |
 | Jardim América | R$ 2.867 | 32 | – | – | – | – |
-| Jardim Botânico | R$ 16.364 | 125 | R$ 80,9 | 8 | 5,93% | – |
+| Jardim Botânico | R$ 16.321 | 126 | R$ 80,9 | 8 | 5,95% | – |
 | Jardim Carioca | R$ 5.253 | 54 | – | – | – | – |
-| Jardim Guanabara | R$ 6.226 | 161 | R$ 31,3 | 15 | 6,03% | – |
-| Jardim Oceânico | R$ 11.594 | 113 | R$ 59,4 | 5 | 6,15% | – |
-| Jardim Sulacap | R$ 4.434 | 27 | – | – | – | – |
+| Jardim Guanabara | R$ 6.256 | 162 | R$ 31,3 | 15 | 6,00% | – |
+| Jardim Oceânico | R$ 11.594 | 113 | R$ 63,3 | 6 | 6,55% | – |
+| Jardim Sulacap | R$ 4.449 | 28 | – | – | – | – |
 | Joá | R$ 13.067 | 7 | – | – | – | – |
-| Lagoa | R$ 16.000 | 209 | R$ 85,7 | 17 | 6,43% | – |
+| Lagoa | R$ 16.032 | 212 | R$ 85,7 | 17 | 6,41% | – |
 | Lapa | R$ 9.189 | 49 | – | – | – | – |
-| Laranjeiras | R$ 11.585 | 159 | R$ 52,3 | 10 | 5,42% | – |
-| Leblon | R$ 21.024 | 135 | R$ 108,0 | 27 | 6,16% | – |
-| Leme | R$ 11.944 | 40 | – | – | – | – |
-| Lins de Vasconcelos | R$ 3.125 | 51 | – | – | – | – |
-| Madureira | R$ 3.269 | 66 | R$ 20,8 | 6 | 7,64% | – |
-| Maracanã | R$ 5.987 | 126 | R$ 42,4 | 8 | 8,50% | – |
+| Laranjeiras | R$ 11.544 | 162 | R$ 52,3 | 10 | 5,44% | – |
+| Leblon | R$ 21.026 | 140 | R$ 108,0 | 29 | 6,16% | – |
+| Leme | R$ 11.667 | 41 | – | – | – | – |
+| Lins de Vasconcelos | R$ 3.121 | 52 | – | – | – | – |
+| Madureira | R$ 3.259 | 67 | R$ 20,8 | 6 | 7,66% | – |
+| Maracanã | R$ 6.040 | 128 | R$ 42,4 | 8 | 8,42% | – |
 | Marechal Hermes | R$ 3.578 | 30 | – | – | – | – |
-| Maria da Graça | R$ 3.778 | 11 | – | – | – | – |
-| Méier | R$ 4.544 | 236 | R$ 23,4 | 24 | 6,18% | – |
-| Moneró | R$ 4.990 | 42 | – | – | – | – |
-| Olaria | R$ 4.433 | 41 | R$ 22,0 | 8 | 5,96% | – |
-| Oswaldo Cruz | R$ 3.333 | 41 | – | – | – | – |
-| Paciência | R$ 2.021 | 62 | R$ 13,5 | 5 | 8,02% | – |
+| Maria da Graça | R$ 3.752 | 12 | – | – | – | – |
+| Méier | R$ 4.533 | 247 | R$ 22,9 | 25 | 6,06% | – |
+| Moneró | R$ 5.000 | 43 | – | – | – | – |
+| Olaria | R$ 4.398 | 42 | R$ 22,0 | 8 | 6,00% | – |
+| Oswaldo Cruz | R$ 3.310 | 42 | – | – | – | – |
+| Paciência | R$ 2.000 | 63 | R$ 13,5 | 5 | 8,10% | – |
 | Padre Miguel | R$ 2.818 | 54 | – | – | – | – |
 | Parada de Lucas | R$ 3.492 | 15 | – | – | – | – |
 | Parque Anchieta | R$ 3.633 | 12 | – | – | – | – |
 | Parque Colúmbia | R$ 2.687 | 6 | – | – | – | – |
-| Pavuna | R$ 2.021 | 67 | – | – | – | – |
-| Pechincha | R$ 4.376 | 202 | R$ 29,4 | 23 | 8,06% | – |
+| Pavuna | R$ 2.038 | 68 | – | – | – | – |
+| Pechincha | R$ 4.400 | 219 | R$ 29,5 | 24 | 8,05% | – |
 | Pedra de Guaratiba | R$ 3.282 | 12 | – | – | – | – |
 | Penha | R$ 3.913 | 65 | R$ 18,9 | 7 | 5,80% | – |
-| Penha Circular | R$ 3.335 | 56 | R$ 19,0 | 6 | 6,84% | – |
+| Penha Circular | R$ 3.269 | 57 | R$ 19,0 | 6 | 6,97% | – |
 | Piedade | R$ 3.875 | 51 | R$ 22,4 | 9 | 6,94% | – |
 | Pilares | R$ 4.501 | 42 | R$ 18,2 | 6 | 4,85% | – |
 | Pitangueiras | R$ 4.930 | 20 | – | – | – | – |
 | Portuguesa | R$ 5.182 | 23 | – | – | – | – |
 | Praça da Bandeira | R$ 6.080 | 85 | – | – | – | – |
-| Praça Seca | R$ 2.593 | 86 | R$ 17,7 | 10 | 8,19% | – |
-| Praia da Bandeira | R$ 5.000 | 44 | – | – | – | – |
+| Praça Seca | R$ 2.600 | 91 | R$ 17,7 | 10 | 8,17% | – |
+| Praia da Bandeira | R$ 5.000 | 45 | – | – | – | – |
 | Quintino Bocaiúva | R$ 3.521 | 43 | – | – | – | – |
 | Ramos | R$ 4.375 | 49 | R$ 21,6 | 5 | 5,92% | – |
 | Realengo | R$ 3.202 | 34 | R$ 21,9 | 6 | 8,21% | – |
-| Recreio dos Bandeirantes | R$ 7.095 | 504 | R$ 44,4 | 104 | 7,51% | – |
-| Riachuelo | R$ 3.857 | 19 | R$ 23,3 | 5 | 7,25% | – |
+| Recreio dos Bandeirantes | R$ 7.085 | 542 | R$ 43,2 | 114 | 7,32% | – |
+| Riachuelo | R$ 4.040 | 20 | R$ 23,3 | 5 | 6,92% | – |
 | Ribeira | R$ 5.507 | 34 | – | – | – | – |
 | Rio 2 | R$ 9.149 | 6 | – | – | – | – |
-| Rio Comprido | R$ 4.971 | 108 | R$ 32,4 | 18 | 7,82% | – |
+| Rio Comprido | R$ 4.919 | 110 | R$ 32,4 | 18 | 7,90% | – |
 | Rocha | R$ 3.542 | 66 | – | – | – | – |
-| Rocha Miranda | R$ 3.667 | 43 | – | – | – | – |
+| Rocha Miranda | R$ 3.619 | 44 | – | – | – | – |
 | Sampaio | R$ 3.318 | 49 | – | – | – | – |
 | Santa Cruz | R$ 2.952 | 71 | R$ 17,7 | 24 | 7,19% | – |
-| Santa Teresa | R$ 6.629 | 74 | – | – | – | – |
+| Santa Teresa | R$ 6.615 | 75 | – | – | – | – |
 | Santíssimo | R$ 2.396 | 52 | – | – | – | – |
-| Santo Cristo | R$ 10.714 | 33 | R$ 91,7 | 5 | 10,27% | – |
-| São Conrado | R$ 11.761 | 32 | – | – | – | – |
-| São Cristóvão | R$ 6.331 | 82 | R$ 56,1 | 12 | 10,63% | – |
-| São Francisco Xavier | R$ 3.898 | 16 | – | – | – | – |
-| Saúde | R$ 10.803 | 5 | – | – | – | – |
+| Santo Cristo | R$ 10.732 | 34 | R$ 91,7 | 5 | 10,25% | – |
+| São Conrado | R$ 11.856 | 33 | – | – | – | – |
+| São Cristóvão | R$ 6.323 | 83 | R$ 56,1 | 12 | 10,65% | – |
+| São Francisco Xavier | R$ 3.727 | 17 | – | – | – | – |
+| Saúde | R$ 8.294 | 6 | – | – | – | – |
 | Senador Camará | R$ 2.106 | 18 | – | – | – | – |
 | Senador Vasconcelos | R$ 2.917 | 23 | – | – | – | – |
 | Sepetiba | R$ 2.071 | 6 | – | – | – | – |
-| Tanque | R$ 3.742 | 24 | – | – | – | – |
-| Taquara | R$ 4.494 | 216 | R$ 27,5 | 37 | 7,34% | – |
-| Tauá | R$ 4.375 | 53 | – | – | – | – |
-| Tijuca | R$ 6.875 | 473 | R$ 37,5 | 35 | 6,55% | – |
-| Todos Os Santos | R$ 4.792 | 41 | R$ 36,9 | 7 | 9,24% | – |
-| Tomás Coelho | R$ 2.709 | 41 | R$ 16,4 | 5 | 7,26% | – |
+| Tanque | R$ 3.602 | 27 | – | – | – | – |
+| Taquara | R$ 4.510 | 228 | R$ 27,1 | 38 | 7,21% | – |
+| Tauá | R$ 4.382 | 54 | – | – | – | – |
+| Tijuca | R$ 6.888 | 485 | R$ 38,3 | 36 | 6,67% | – |
+| Todos Os Santos | R$ 4.807 | 42 | R$ 38,6 | 8 | 9,64% | – |
+| Tomás Coelho | R$ 2.745 | 42 | R$ 16,4 | 5 | 7,17% | – |
 | Turiaçu | R$ 2.328 | 10 | – | – | – | – |
-| Urca | R$ 14.935 | 57 | – | – | – | – |
+| Urca | R$ 14.729 | 58 | – | – | – | – |
 | Vargem Grande | R$ 5.298 | 34 | R$ 40,5 | 12 | 9,17% | – |
-| Vargem Pequena | R$ 5.250 | 67 | R$ 30,9 | 21 | 7,06% | – |
+| Vargem Pequena | R$ 5.265 | 70 | R$ 30,2 | 22 | 6,88% | – |
 | Vasco da Gama | R$ 6.071 | 55 | – | – | – | – |
-| Vaz Lobo | R$ 3.303 | 42 | – | – | – | – |
+| Vaz Lobo | R$ 3.333 | 43 | – | – | – | – |
 | Vicente de Carvalho | R$ 4.778 | 67 | R$ 28,2 | 6 | 7,08% | – |
-| Vidigal | R$ 7.391 | 19 | – | – | – | – |
+| Vidigal | R$ 7.431 | 20 | – | – | – | – |
 | Vigário Geral | R$ 2.556 | 6 | – | – | – | – |
-| Vila da Penha | R$ 4.271 | 86 | R$ 21,5 | 12 | 6,04% | – |
-| Vila Isabel | R$ 5.422 | 117 | R$ 27,9 | 13 | 6,18% | – |
-| Vila Kosmos | R$ 3.748 | 39 | – | – | – | – |
-| Vila Valqueire | R$ 4.722 | 37 | R$ 25,2 | 6 | 6,40% | – |
+| Vila da Penha | R$ 4.219 | 88 | R$ 21,7 | 13 | 6,17% | – |
+| Vila Isabel | R$ 5.417 | 119 | R$ 27,9 | 13 | 6,18% | – |
+| Vila Kosmos | R$ 3.680 | 40 | – | – | – | – |
+| Vila Valqueire | R$ 4.780 | 38 | R$ 25,2 | 6 | 6,33% | – |
 | Vista Alegre | R$ 4.565 | 52 | – | – | – | – |
 | Zumbi | R$ 7.059 | 13 | – | – | – | – |
 
-### Casas, cidade toda: venda R$ 3.611/m² (n=6868); aluguel R$ 22,4/m²/mês (n=436); rendimento bruto do aluguel 7,44% a.a.
+### Casas, cidade toda: venda R$ 3.647/m² (n=7205); aluguel R$ 22,9/m²/mês (n=465); rendimento bruto do aluguel 7,53% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Abolição | R$ 2.651 | 30 | – | – | – | – |
+| Abolição | R$ 2.600 | 31 | – | – | – | – |
 | Água Santa | R$ 2.954 | 9 | – | – | – | – |
-| Alto da Boa Vista | R$ 4.904 | 38 | – | – | – | – |
-| Anchieta | R$ 1.857 | 19 | – | – | – | – |
-| Andaraí | R$ 3.775 | 44 | – | – | – | – |
-| Anil | R$ 4.300 | 98 | R$ 26,3 | 9 | 7,34% | – |
+| Alto da Boa Vista | R$ 4.963 | 40 | – | – | – | – |
+| Anchieta | R$ 1.841 | 20 | – | – | – | – |
+| Andaraí | R$ 3.846 | 45 | – | – | – | – |
+| Anil | R$ 4.115 | 131 | R$ 26,3 | 9 | 7,67% | – |
 | Araújo de Cosmos | R$ 1.975 | 5 | – | – | – | – |
 | Armação dos Búzios | R$ 8.083 | 6 | – | – | – | – |
 | Bancários | R$ 3.708 | 34 | – | – | – | – |
-| Bangu | R$ 2.752 | 90 | – | – | – | – |
-| Barra da Tijuca | R$ 10.202 | 278 | R$ 42,3 | 26 | 4,98% | – |
+| Bangu | R$ 2.755 | 91 | – | – | – | – |
+| Barra da Tijuca | R$ 10.197 | 303 | R$ 40,6 | 33 | 4,78% | – |
 | Barra de Guaratiba | R$ 3.250 | 23 | – | – | – | – |
 | Barra Olímpica | R$ 6.887 | 12 | – | – | – | – |
-| Benfica | R$ 3.220 | 21 | – | – | – | – |
-| Bento Ribeiro | R$ 3.250 | 75 | R$ 22,1 | 6 | 8,16% | – |
+| Benfica | R$ 3.147 | 22 | – | – | – | – |
+| Bento Ribeiro | R$ 3.254 | 76 | R$ 22,1 | 6 | 8,15% | – |
 | Bonsucesso | R$ 2.707 | 13 | – | – | – | – |
-| Botafogo | R$ 9.686 | 78 | – | – | – | – |
-| Brás de Pina | R$ 2.229 | 20 | R$ 14,3 | 5 | 7,70% | – |
-| Cachambi | R$ 3.333 | 63 | – | – | – | – |
+| Botafogo | R$ 9.540 | 81 | – | – | – | – |
+| Brás de Pina | R$ 2.167 | 21 | R$ 14,3 | 5 | 7,92% | – |
+| Cachambi | R$ 3.367 | 66 | – | – | – | – |
 | Cacuia | R$ 2.692 | 21 | – | – | – | – |
 | Camorim | R$ 4.790 | 13 | – | – | – | – |
-| Campinho | R$ 3.000 | 47 | – | – | – | – |
-| Campo Grande | R$ 2.764 | 677 | R$ 17,5 | 38 | 7,60% | – |
-| Cascadura | R$ 2.522 | 16 | – | – | – | – |
-| Catete | R$ 6.542 | 19 | – | – | – | – |
+| Campinho | R$ 3.024 | 48 | – | – | – | – |
+| Campo Grande | R$ 2.778 | 691 | R$ 17,5 | 40 | 7,56% | – |
+| Cascadura | R$ 2.530 | 17 | – | – | – | – |
+| Catete | R$ 6.535 | 20 | – | – | – | – |
 | Cavalcanti | R$ 2.062 | 13 | – | – | – | – |
 | Centro | R$ 5.210 | 17 | – | – | – | – |
 | Cidade de Deus | R$ 2.889 | 16 | – | – | – | – |
@@ -5991,190 +6007,192 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Cordovil | R$ 2.719 | 28 | – | – | – | – |
 | Cosme Velho | R$ 6.282 | 43 | – | – | – | – |
 | Cosmos | R$ 2.500 | 60 | – | – | – | – |
-| Curicica | R$ 3.411 | 48 | R$ 19,8 | 8 | 6,96% | – |
+| Curicica | R$ 3.364 | 53 | R$ 19,8 | 8 | 7,06% | – |
 | Del Castilho | R$ 3.282 | 22 | – | – | – | – |
 | Encantado | R$ 2.882 | 42 | – | – | – | – |
 | Engenheiro Leal | R$ 2.027 | 5 | – | – | – | – |
-| Engenho de Dentro | R$ 3.000 | 45 | R$ 30,4 | 8 | 12,16% | – |
-| Engenho Novo | R$ 2.986 | 56 | – | – | – | – |
+| Engenho de Dentro | R$ 2.812 | 47 | R$ 30,4 | 8 | 12,97% | – |
+| Engenho Novo | R$ 3.000 | 59 | – | – | – | – |
 | Estácio | R$ 1.880 | 11 | – | – | – | – |
 | Flamengo | R$ 11.667 | 8 | – | – | – | – |
-| Freguesia (Ilha do Governador) | R$ 3.794 | 76 | – | – | – | – |
-| Freguesia (Jacarepaguá) | R$ 4.310 | 178 | R$ 30,4 | 6 | 8,46% | – |
+| Freguesia (Ilha do Governador) | R$ 3.647 | 79 | – | – | – | – |
+| Freguesia (Jacarepaguá) | R$ 4.336 | 219 | R$ 24,9 | 7 | 6,89% | – |
 | Gamboa | R$ 3.333 | 9 | – | – | – | – |
 | Gardênia Azul | R$ 2.948 | 20 | – | – | – | – |
-| Gávea | R$ 8.798 | 38 | – | – | – | – |
+| Gávea | R$ 8.804 | 39 | – | – | – | – |
 | Glória | R$ 7.275 | 12 | – | – | – | – |
-| Grajaú | R$ 4.069 | 66 | – | – | – | – |
+| Grajaú | R$ 4.097 | 68 | – | – | – | – |
 | Guadalupe | R$ 1.608 | 31 | – | – | – | – |
-| Guaratiba | R$ 3.009 | 128 | R$ 15,6 | 7 | 6,22% | – |
+| Guaratiba | R$ 3.017 | 131 | R$ 15,6 | 7 | 6,20% | – |
 | Higienópolis | R$ 3.373 | 43 | – | – | – | – |
 | Honório Gurgel | R$ 2.781 | 6 | – | – | – | – |
 | Humaitá | R$ 10.435 | 22 | – | – | – | – |
 | Ilha de Guaratiba | R$ 4.543 | 17 | – | – | – | – |
 | Inhaúma | R$ 2.959 | 18 | – | – | – | – |
-| Inhoaíba | R$ 2.321 | 40 | – | – | – | – |
-| Irajá | R$ 3.198 | 94 | R$ 20,0 | 9 | 7,50% | – |
-| Itanhangá | R$ 6.111 | 55 | R$ 40,3 | 8 | 7,91% | – |
+| Inhoaíba | R$ 2.265 | 41 | – | – | – | – |
+| Irajá | R$ 3.165 | 98 | R$ 20,0 | 9 | 7,58% | – |
+| Itanhangá | R$ 5.435 | 58 | R$ 40,3 | 8 | 8,90% | – |
 | Jacaré | R$ 2.448 | 14 | – | – | – | – |
-| Jacarepaguá | R$ 3.494 | 91 | R$ 32,0 | 11 | 10,99% | – |
-| Jardim América | R$ 2.786 | 43 | – | – | – | – |
+| Jacarepaguá | R$ 3.727 | 115 | R$ 32,0 | 11 | 10,30% | – |
+| Jardim América | R$ 2.754 | 44 | – | – | – | – |
 | Jardim Botânico | R$ 10.425 | 36 | – | – | – | – |
 | Jardim Carioca | R$ 3.344 | 58 | – | – | – | – |
-| Jardim Guanabara | R$ 4.717 | 115 | – | – | – | – |
-| Jardim Sulacap | R$ 3.571 | 47 | – | – | – | – |
-| Joá | R$ 8.158 | 47 | – | – | – | – |
+| Jardim Guanabara | R$ 4.717 | 117 | – | – | – | – |
+| Jardim Sulacap | R$ 3.557 | 48 | – | – | – | – |
+| Joá | R$ 8.258 | 48 | – | – | – | – |
 | Lagoa | R$ 10.529 | 8 | – | – | – | – |
-| Laranjeiras | R$ 7.334 | 38 | – | – | – | – |
-| Lins de Vasconcelos | R$ 3.632 | 36 | – | – | – | – |
-| Madureira | R$ 2.802 | 38 | – | – | – | – |
+| Laranjeiras | R$ 7.334 | 40 | – | – | – | – |
+| Lins de Vasconcelos | R$ 3.688 | 37 | – | – | – | – |
+| Madureira | R$ 2.853 | 39 | – | – | – | – |
 | Magalhães Bastos | R$ 2.062 | 8 | – | – | – | – |
-| Maracanã | R$ 4.396 | 33 | – | – | – | – |
-| Marechal Hermes | R$ 3.444 | 54 | – | – | – | – |
+| Maracanã | R$ 4.298 | 34 | – | – | – | – |
+| Marechal Hermes | R$ 3.454 | 55 | – | – | – | – |
 | Maria da Graça | R$ 2.686 | 8 | – | – | – | – |
-| Méier | R$ 4.164 | 102 | – | – | – | – |
+| Méier | R$ 4.143 | 107 | R$ 22,5 | 5 | 6,52% | – |
 | Moneró | R$ 4.196 | 25 | – | – | – | – |
-| Olaria | R$ 3.542 | 45 | – | – | – | – |
-| Oswaldo Cruz | R$ 3.000 | 53 | – | – | – | – |
-| Paciência | R$ 1.700 | 40 | – | – | – | – |
+| Olaria | R$ 3.471 | 46 | – | – | – | – |
+| Oswaldo Cruz | R$ 3.023 | 54 | – | – | – | – |
+| Paciência | R$ 1.714 | 41 | – | – | – | – |
 | Padre Miguel | R$ 2.375 | 35 | – | – | – | – |
-| Paquetá | R$ 4.047 | 8 | – | – | – | – |
+| Paquetá | R$ 4.130 | 9 | – | – | – | – |
 | Parque Anchieta | R$ 2.083 | 21 | – | – | – | – |
-| Pavuna | R$ 2.400 | 17 | – | – | – | – |
-| Pechincha | R$ 3.694 | 148 | R$ 19,7 | 10 | 6,40% | – |
-| Pedra de Guaratiba | R$ 3.062 | 64 | – | – | – | – |
-| Penha | R$ 2.749 | 46 | – | – | – | – |
+| Pavuna | R$ 2.354 | 18 | – | – | – | – |
+| Pechincha | R$ 3.724 | 169 | R$ 20,8 | 11 | 6,70% | – |
+| Pedra de Guaratiba | R$ 3.000 | 65 | – | – | – | – |
+| Penha | R$ 2.803 | 48 | – | – | – | – |
 | Penha Circular | R$ 2.737 | 40 | – | – | – | – |
 | Petrópolis | R$ 5.139 | 26 | – | – | – | – |
-| Piedade | R$ 2.459 | 63 | R$ 17,2 | 8 | 8,39% | – |
-| Pilares | R$ 2.290 | 35 | – | – | – | – |
-| Pitangueiras | R$ 3.571 | 25 | – | – | – | – |
-| Portuguesa | R$ 4.460 | 38 | – | – | – | – |
-| Praça da Bandeira | R$ 5.250 | 18 | – | – | – | – |
-| Praça Seca | R$ 2.462 | 57 | – | – | – | – |
+| Piedade | R$ 2.402 | 66 | R$ 17,2 | 8 | 8,59% | – |
+| Pilares | R$ 2.249 | 36 | – | – | – | – |
+| Pitangueiras | R$ 3.383 | 26 | – | – | – | – |
+| Portuguesa | R$ 4.524 | 39 | – | – | – | – |
+| Praça da Bandeira | R$ 5.000 | 19 | – | – | – | – |
+| Praça Seca | R$ 2.418 | 58 | – | – | – | – |
 | Praia da Bandeira | R$ 4.516 | 17 | – | – | – | – |
-| Quintino Bocaiúva | R$ 2.401 | 60 | – | – | – | – |
-| Ramos | R$ 2.958 | 27 | – | – | – | – |
-| Realengo | R$ 2.423 | 73 | R$ 17,3 | 6 | 8,57% | – |
-| Recreio dos Bandeirantes | R$ 7.695 | 230 | R$ 47,5 | 23 | 7,41% | – |
-| Riachuelo | R$ 3.100 | 22 | – | – | – | – |
+| Quintino Bocaiúva | R$ 2.401 | 62 | – | – | – | – |
+| Ramos | R$ 3.033 | 28 | – | – | – | – |
+| Realengo | R$ 2.398 | 74 | R$ 17,3 | 6 | 8,66% | – |
+| Recreio dos Bandeirantes | R$ 7.712 | 258 | R$ 39,9 | 32 | 6,21% | – |
+| Riachuelo | R$ 3.018 | 23 | – | – | – | – |
 | Ribeira | R$ 4.414 | 8 | – | – | – | – |
 | Ricardo de Albuquerque | R$ 2.600 | 19 | – | – | – | – |
-| Rio Comprido | R$ 4.487 | 26 | – | – | – | – |
+| Rio Comprido | R$ 4.252 | 27 | – | – | – | – |
 | Rocha | R$ 2.412 | 33 | – | – | – | – |
 | Rocha Miranda | R$ 2.682 | 30 | – | – | – | – |
-| Sampaio | R$ 2.572 | 27 | – | – | – | – |
+| Sampaio | R$ 2.503 | 28 | – | – | – | – |
 | Santa Cruz | R$ 2.279 | 40 | – | – | – | – |
-| Santa Teresa | R$ 4.927 | 62 | – | – | – | – |
+| Santa Teresa | R$ 4.927 | 64 | – | – | – | – |
 | Santíssimo | R$ 2.325 | 42 | – | – | – | – |
 | Santo Cristo | R$ 3.765 | 5 | – | – | – | – |
 | São Conrado | R$ 8.537 | 27 | – | – | – | – |
-| São Cristóvão | R$ 3.323 | 27 | – | – | – | – |
-| São Francisco Xavier | R$ 3.502 | 10 | – | – | – | – |
+| São Cristóvão | R$ 3.366 | 28 | – | – | – | – |
+| São Francisco Xavier | R$ 3.448 | 11 | – | – | – | – |
 | Senador Camará | R$ 1.966 | 30 | – | – | – | – |
-| Senador Vasconcelos | R$ 2.548 | 72 | – | – | – | – |
+| Senador Vasconcelos | R$ 2.548 | 74 | – | – | – | – |
 | Sepetiba | R$ 1.923 | 17 | – | – | – | – |
-| Tanque | R$ 3.481 | 34 | – | – | – | – |
-| Taquara | R$ 3.320 | 251 | R$ 17,9 | 27 | 6,47% | – |
+| Tanque | R$ 3.417 | 37 | – | – | – | – |
+| Taquara | R$ 3.286 | 273 | R$ 17,9 | 27 | 6,54% | – |
 | Tauá | R$ 3.483 | 39 | – | – | – | – |
-| Tijuca | R$ 5.195 | 133 | R$ 29,4 | 5 | 6,79% | – |
-| Todos Os Santos | R$ 3.762 | 32 | – | – | – | – |
+| Tijuca | R$ 5.372 | 140 | R$ 31,4 | 6 | 7,01% | – |
+| Todos Os Santos | R$ 3.762 | 34 | – | – | – | – |
 | Tomás Coelho | R$ 2.361 | 14 | – | – | – | – |
 | Urca | R$ 9.667 | 29 | – | – | – | – |
-| Vargem Grande | R$ 3.594 | 135 | R$ 29,4 | 10 | 9,82% | – |
-| Vargem Pequena | R$ 4.653 | 202 | R$ 23,9 | 33 | 6,16% | – |
+| Vargem Grande | R$ 3.612 | 140 | R$ 29,4 | 10 | 9,77% | – |
+| Vargem Pequena | R$ 4.553 | 214 | R$ 23,3 | 34 | 6,14% | – |
 | Vasco da Gama | R$ 4.076 | 12 | – | – | – | – |
-| Vaz Lobo | R$ 1.975 | 27 | – | – | – | – |
+| Vaz Lobo | R$ 1.987 | 28 | – | – | – | – |
 | Vicente de Carvalho | R$ 2.545 | 23 | – | – | – | – |
 | Vidigal | R$ 5.556 | 17 | – | – | – | – |
 | Vigário Geral | R$ 3.312 | 5 | – | – | – | – |
-| Vila da Penha | R$ 3.611 | 49 | – | – | – | – |
-| Vila Isabel | R$ 4.264 | 67 | – | – | – | – |
-| Vila Kosmos | R$ 2.716 | 48 | – | – | – | – |
-| Vila Valqueire | R$ 3.435 | 64 | – | – | – | – |
-| Vista Alegre | R$ 3.893 | 38 | – | – | – | – |
+| Vila da Penha | R$ 3.591 | 50 | – | – | – | – |
+| Vila Isabel | R$ 4.150 | 68 | – | – | – | – |
+| Vila Kosmos | R$ 2.715 | 49 | – | – | – | – |
+| Vila Valqueire | R$ 3.516 | 67 | – | – | – | – |
+| Vista Alegre | R$ 3.786 | 39 | – | – | – | – |
 | Zumbi | R$ 5.515 | 6 | – | – | – | – |
 
-### Terrenos, cidade toda: venda R$ 890/m² (n=718)
+### Terrenos, cidade toda: venda R$ 906/m² (n=752)
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Anil | R$ 967 | 11 | – | – | – | – |
-| Barra da Tijuca | R$ 2.304 | 10 | – | – | – | – |
+| Anil | R$ 962 | 14 | – | – | – | – |
+| Barra da Tijuca | R$ 2.427 | 12 | – | – | – | – |
 | Barra de Guaratiba | R$ 482 | 6 | – | – | – | – |
 | Camorim | R$ 1.020 | 5 | – | – | – | – |
-| Campo Grande | R$ 625 | 145 | – | – | – | – |
+| Campo Grande | R$ 641 | 148 | – | – | – | – |
 | Cosmos | R$ 397 | 8 | – | – | – | – |
-| Curicica | R$ 1.164 | 5 | – | – | – | – |
+| Curicica | R$ 1.325 | 6 | – | – | – | – |
 | Engenho de Dentro | R$ 1.106 | 10 | – | – | – | – |
-| Freguesia (Jacarepaguá) | R$ 1.058 | 21 | – | – | – | – |
-| Guaratiba | R$ 436 | 42 | – | – | – | – |
+| Freguesia (Jacarepaguá) | R$ 1.032 | 24 | – | – | – | – |
+| Guaratiba | R$ 454 | 43 | – | – | – | – |
 | Inhoaíba | R$ 533 | 6 | – | – | – | – |
 | Irajá | R$ 1.018 | 5 | – | – | – | – |
-| Itanhangá | R$ 1.145 | 12 | – | – | – | – |
+| Itanhangá | R$ 1.048 | 13 | – | – | – | – |
 | Jacaré | R$ 3.298 | 8 | – | – | – | – |
-| Jacarepaguá | R$ 550 | 16 | – | – | – | – |
+| Jacarepaguá | R$ 554 | 17 | – | – | – | – |
 | Jardim Guanabara | R$ 1.629 | 8 | – | – | – | – |
 | Jardim Sulacap | R$ 940 | 8 | – | – | – | – |
 | Joá | R$ 1.803 | 6 | – | – | – | – |
 | Méier | R$ 1.590 | 6 | – | – | – | – |
 | Oswaldo Cruz | R$ 1.030 | 5 | – | – | – | – |
-| Pechincha | R$ 1.212 | 17 | – | – | – | – |
-| Praça Seca | R$ 1.164 | 6 | – | – | – | – |
-| Recreio dos Bandeirantes | R$ 2.143 | 29 | – | – | – | – |
+| Pechincha | R$ 1.214 | 22 | – | – | – | – |
+| Praça Seca | R$ 1.088 | 7 | – | – | – | – |
+| Recreio dos Bandeirantes | R$ 2.196 | 32 | – | – | – | – |
 | Santa Cruz | R$ 295 | 19 | – | – | – | – |
 | Santa Teresa | R$ 576 | 8 | – | – | – | – |
 | Santíssimo | R$ 460 | 12 | – | – | – | – |
 | São Conrado | R$ 1.300 | 5 | – | – | – | – |
 | São Cristóvão | R$ 1.990 | 8 | – | – | – | – |
-| Tanque | R$ 1.046 | 6 | – | – | – | – |
-| Taquara | R$ 1.167 | 23 | – | – | – | – |
+| Tanque | R$ 929 | 7 | – | – | – | – |
+| Taquara | R$ 1.167 | 25 | – | – | – | – |
 | Tauá | R$ 1.246 | 6 | – | – | – | – |
-| Vargem Grande | R$ 769 | 27 | – | – | – | – |
-| Vargem Pequena | R$ 1.026 | 28 | – | – | – | – |
-| Vila Valqueire | R$ 450 | 8 | – | – | – | – |
+| Vargem Grande | R$ 769 | 29 | – | – | – | – |
+| Vargem Pequena | R$ 1.026 | 30 | – | – | – | – |
+| Vila Valqueire | R$ 548 | 9 | – | – | – | – |
 
-### Salas comerciais, cidade toda: venda R$ 6.313/m² (n=930); aluguel R$ 32,1/m²/mês (n=498); rendimento bruto do aluguel 6,10% a.a.
+### Salas comerciais, cidade toda: venda R$ 6.387/m² (n=976); aluguel R$ 33,7/m²/mês (n=542); rendimento bruto do aluguel 6,33% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
 | Andaraí | R$ 5.111 | 7 | – | – | – | – |
-| Barra da Tijuca | R$ 7.546 | 151 | R$ 50,0 | 66 | 7,95% | – |
-| Barra Olímpica | R$ 7.269 | 17 | – | – | – | – |
-| Benfica | R$ 2.944 | 6 | R$ 16,8 | 5 | 6,85% | – |
+| Barra da Tijuca | R$ 7.649 | 164 | R$ 50,0 | 85 | 7,84% | – |
+| Barra Olímpica | R$ 6.968 | 18 | R$ 46,3 | 14 | 7,97% | – |
+| Benfica | R$ 2.889 | 7 | R$ 16,8 | 5 | 6,98% | – |
 | Bonsucesso | R$ 2.508 | 6 | – | – | – | – |
-| Botafogo | R$ 12.049 | 18 | – | – | – | – |
+| Botafogo | R$ 12.698 | 19 | – | – | – | – |
 | Cachambi | R$ 5.690 | 5 | – | – | – | – |
 | Cacuia | R$ 3.800 | 7 | – | – | – | – |
-| Campo Grande | R$ 5.870 | 18 | R$ 43,9 | 12 | 8,97% | – |
+| Campo Grande | R$ 5.870 | 18 | R$ 43,1 | 13 | 8,81% | – |
 | Cascadura | – | – | R$ 15,1 | 6 | – | – |
-| Catete | R$ 13.750 | 11 | – | – | – | – |
-| Centro | R$ 4.194 | 213 | R$ 21,1 | 182 | 6,04% | – |
-| Copacabana | R$ 10.164 | 55 | R$ 45,7 | 9 | 5,40% | – |
-| Del Castilho | R$ 5.077 | 6 | – | – | – | – |
+| Catete | R$ 13.304 | 12 | – | – | – | – |
+| Centro | R$ 4.194 | 219 | R$ 21,1 | 186 | 6,04% | – |
+| Copacabana | R$ 10.082 | 56 | R$ 46,4 | 10 | 5,52% | – |
+| Del Castilho | R$ 5.690 | 7 | – | – | – | – |
 | Engenho de Dentro | R$ 4.400 | 7 | – | – | – | – |
-| Flamengo | R$ 11.333 | 15 | – | – | – | – |
-| Freguesia (Jacarepaguá) | R$ 5.000 | 19 | R$ 27,6 | 15 | 6,62% | – |
+| Flamengo | R$ 11.440 | 16 | – | – | – | – |
+| Freguesia (Jacarepaguá) | R$ 4.756 | 22 | R$ 28,4 | 16 | 7,17% | – |
 | Gávea | R$ 13.393 | 7 | – | – | – | – |
 | Guadalupe | – | – | R$ 23,1 | 6 | – | – |
-| Ipanema | R$ 16.379 | 28 | – | – | – | – |
+| Humaitá | R$ 13.954 | 5 | – | – | – | – |
+| Ipanema | R$ 16.092 | 29 | – | – | – | – |
 | Jacarepaguá | R$ 8.370 | 17 | – | – | – | – |
-| Jardim Botânico | R$ 16.576 | 10 | – | – | – | – |
+| Jardim Botânico | R$ 15.820 | 11 | – | – | – | – |
 | Jardim Guanabara | R$ 4.947 | 8 | – | – | – | – |
-| Leblon | R$ 22.857 | 7 | – | – | – | – |
+| Lagoa | R$ 23.002 | 5 | – | – | – | – |
+| Leblon | R$ 20.749 | 6 | – | – | – | – |
 | Madureira | R$ 2.773 | 10 | R$ 31,6 | 11 | 13,67% | – |
-| Méier | R$ 4.449 | 24 | R$ 30,7 | 16 | 8,28% | – |
-| Pechincha | R$ 5.476 | 9 | R$ 26,5 | 5 | 5,81% | – |
-| Penha | R$ 2.820 | 7 | – | – | – | – |
+| Méier | R$ 4.565 | 25 | R$ 31,5 | 17 | 8,28% | – |
+| Pechincha | R$ 5.182 | 10 | R$ 26,5 | 5 | 6,14% | – |
+| Penha | R$ 3.714 | 8 | – | – | – | – |
 | Pilares | R$ 3.833 | 7 | – | – | – | – |
 | Portuguesa | R$ 5.588 | 5 | – | – | – | – |
-| Recreio dos Bandeirantes | R$ 6.053 | 31 | R$ 38,6 | 17 | 7,65% | – |
-| São Cristóvão | R$ 4.997 | 12 | – | – | – | – |
-| Tanque | R$ 3.488 | 5 | R$ 30,0 | 7 | 10,32% | – |
-| Taquara | R$ 4.681 | 10 | R$ 41,8 | 6 | 10,72% | – |
-| Tijuca | R$ 6.880 | 45 | R$ 31,8 | 21 | 5,55% | – |
+| Recreio dos Bandeirantes | R$ 6.053 | 33 | R$ 38,4 | 18 | 7,61% | – |
+| São Cristóvão | R$ 5.312 | 13 | – | – | – | – |
+| Tanque | R$ 4.630 | 7 | R$ 30,0 | 7 | 7,78% | – |
+| Taquara | R$ 4.762 | 11 | R$ 36,0 | 7 | 9,07% | – |
+| Tijuca | R$ 6.854 | 46 | R$ 31,9 | 22 | 5,58% | – |
 | Vila da Penha | R$ 4.800 | 5 | – | – | – | – |
-| Vila Isabel | R$ 4.737 | 13 | R$ 30,6 | 5 | 7,75% | – |
+| Vila Isabel | R$ 5.202 | 14 | R$ 30,6 | 5 | 7,06% | – |
 | Vila Valqueire | – | – | R$ 42,4 | 6 | – | – |
 
 
@@ -7022,7 +7040,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 
 Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de preço, tamanho = anúncios): https://acorridadosbairros.com.br/mapa/rs-porto-alegre-apartamento.png · https://acorridadosbairros.com.br/mapa/rs-porto-alegre-casa.png
 
-### Apartamentos, cidade toda: venda R$ 5.769/m² (n=17722); aluguel R$ 41,4/m²/mês (n=2089); rendimento bruto do aluguel 8,61% a.a.
+### Apartamentos, cidade toda: venda R$ 5.769/m² (n=17729); aluguel R$ 41,3/m²/mês (n=2091); rendimento bruto do aluguel 8,59% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -7053,24 +7071,24 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Espírito Santo | R$ 3.533 | 8 | – | – | – | – |
 | Farrapos | R$ 5.456 | 54 | R$ 40,8 | 6 | 8,97% | – |
 | Farroupilha | R$ 6.006 | 192 | R$ 58,0 | 39 | 11,59% | – |
-| Floresta | R$ 4.754 | 305 | R$ 40,6 | 32 | 10,25% | – |
+| Floresta | R$ 4.755 | 306 | R$ 40,6 | 32 | 10,25% | – |
 | Glória | R$ 4.700 | 153 | R$ 28,9 | 15 | 7,38% | – |
 | Guarujá | R$ 3.686 | 25 | – | – | – | – |
 | Higienópolis | R$ 7.178 | 326 | R$ 38,3 | 21 | 6,40% | – |
 | Hípica | R$ 4.366 | 46 | R$ 25,5 | 5 | 7,01% | – |
 | Humaitá | R$ 4.127 | 118 | R$ 30,8 | 17 | 8,96% | – |
-| Independência | R$ 6.689 | 269 | R$ 41,2 | 35 | 7,39% | – |
+| Independência | R$ 6.691 | 270 | R$ 41,2 | 35 | 7,39% | – |
 | Ipanema | R$ 5.245 | 80 | R$ 27,7 | 8 | 6,34% | – |
 | Jardim Botânico | R$ 6.971 | 322 | R$ 52,4 | 36 | 9,02% | – |
 | Jardim Carvalho | R$ 5.675 | 124 | R$ 31,3 | 10 | 6,62% | – |
-| Jardim do Salso | R$ 6.460 | 181 | R$ 50,7 | 26 | 9,42% | – |
+| Jardim do Salso | R$ 6.444 | 182 | R$ 50,7 | 26 | 9,44% | – |
 | Jardim Dona Leopoldina | R$ 3.776 | 10 | – | – | – | – |
 | Jardim Europa | R$ 13.285 | 141 | R$ 79,6 | 30 | 7,19% | – |
 | Jardim Floresta | R$ 4.930 | 65 | – | – | – | – |
 | Jardim Itu | R$ 4.671 | 193 | R$ 35,8 | 8 | 9,20% | – |
 | Jardim Itu Sabará | R$ 5.078 | 143 | R$ 32,2 | 15 | 7,61% | – |
 | Jardim Leopoldina | R$ 3.527 | 143 | R$ 25,4 | 8 | 8,64% | – |
-| Jardim Lindóia | R$ 5.764 | 286 | R$ 34,2 | 26 | 7,12% | – |
+| Jardim Lindóia | R$ 5.758 | 287 | R$ 34,2 | 26 | 7,13% | – |
 | Jardim Planalto | R$ 4.784 | 96 | – | – | – | – |
 | Jardim Sabará | R$ 5.058 | 96 | R$ 42,9 | 11 | 10,18% | – |
 | Jardim São Pedro | R$ 4.776 | 82 | R$ 33,2 | 14 | 8,34% | – |
@@ -7078,16 +7096,16 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Lomba Pínheiro | R$ 3.561 | 54 | – | – | – | – |
 | Mário Quintana | R$ 3.084 | 53 | – | – | – | – |
 | Medianeira | R$ 3.731 | 155 | R$ 25,0 | 11 | 8,04% | – |
-| Menino Deus | R$ 6.948 | 694 | R$ 41,9 | 74 | 7,24% | – |
-| Moinhos de Vento | R$ 9.449 | 641 | R$ 46,3 | 64 | 5,88% | – |
+| Menino Deus | R$ 6.946 | 695 | R$ 41,9 | 74 | 7,24% | – |
+| Moinhos de Vento | R$ 9.444 | 642 | R$ 46,3 | 64 | 5,88% | – |
 | Mont Serrat | R$ 8.523 | 353 | R$ 49,8 | 79 | 7,01% | – |
 | Morro Santana | R$ 4.400 | 125 | R$ 29,6 | 12 | 8,07% | – |
 | Navegantes | R$ 3.598 | 87 | – | – | – | – |
 | Nonoai | R$ 3.913 | 133 | R$ 30,0 | 29 | 9,20% | – |
 | Parque dos Maias | R$ 2.746 | 36 | – | – | – | – |
 | Parque Santa Fé | R$ 4.046 | 86 | R$ 24,2 | 7 | 7,18% | – |
-| Partenon | R$ 5.000 | 276 | R$ 37,5 | 45 | 9,00% | – |
-| Passo da Areia | R$ 7.041 | 479 | R$ 51,9 | 86 | 8,85% | – |
+| Partenon | R$ 5.000 | 276 | R$ 36,6 | 46 | 8,78% | – |
+| Passo da Areia | R$ 7.041 | 479 | R$ 51,6 | 87 | 8,79% | – |
 | Passo das Pedras | R$ 4.234 | 64 | – | – | – | – |
 | Pedra Redonda | R$ 5.988 | 24 | – | – | – | – |
 | Petrópolis | R$ 8.264 | 1181 | R$ 47,8 | 154 | 6,94% | – |
@@ -7097,7 +7115,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Restinga | R$ 3.233 | 93 | R$ 23,4 | 7 | 8,69% | – |
 | Rio Branco | R$ 7.454 | 834 | R$ 43,3 | 89 | 6,97% | – |
 | Rubem Berta | R$ 3.108 | 141 | R$ 24,5 | 22 | 9,46% | – |
-| Santa Cecília | R$ 5.758 | 179 | R$ 31,2 | 33 | 6,50% | – |
+| Santa Cecília | R$ 5.711 | 180 | R$ 31,2 | 33 | 6,56% | – |
 | Santa Fé | R$ 5.042 | 6 | – | – | – | – |
 | Santa Maria Goretti | R$ 4.359 | 89 | – | – | – | – |
 | Santa Rosa de Lima | R$ 2.863 | 48 | – | – | – | – |
@@ -7120,7 +7138,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Vila Operária | R$ 4.922 | 20 | – | – | – | – |
 | Vila São José | R$ 3.926 | 46 | – | – | – | – |
 
-### Casas, cidade toda: venda R$ 3.975/m² (n=9839); aluguel R$ 28,1/m²/mês (n=781); rendimento bruto do aluguel 8,48% a.a.
+### Casas, cidade toda: venda R$ 3.974/m² (n=9843); aluguel R$ 28,1/m²/mês (n=781); rendimento bruto do aluguel 8,48% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -7151,7 +7169,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Cristal | R$ 3.890 | 171 | R$ 24,8 | 7 | 7,65% | – |
 | Cristo Redentor | R$ 3.538 | 43 | R$ 39,9 | 5 | 13,53% | – |
 | Ecoville | R$ 6.120 | 63 | – | – | – | – |
-| Espírito Santo | R$ 3.681 | 182 | R$ 30,9 | 13 | 10,07% | – |
+| Espírito Santo | R$ 3.667 | 183 | R$ 30,9 | 13 | 10,11% | – |
 | Farrapos | R$ 2.734 | 45 | – | – | – | – |
 | Farroupilha | R$ 5.571 | 13 | – | – | – | – |
 | Floresta | R$ 3.922 | 87 | R$ 21,0 | 13 | 6,43% | – |
@@ -7167,7 +7185,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Jardim do Salso | R$ 3.639 | 34 | – | – | – | – |
 | Jardim Europa | R$ 4.905 | 12 | – | – | – | – |
 | Jardim Floresta | R$ 3.373 | 58 | – | – | – | – |
-| Jardim Isabel | R$ 4.137 | 97 | – | – | – | – |
+| Jardim Isabel | R$ 4.155 | 98 | – | – | – | – |
 | Jardim Itu | R$ 4.127 | 163 | R$ 27,1 | 7 | 7,88% | – |
 | Jardim Itu Sabará | R$ 4.162 | 106 | R$ 27,2 | 11 | 7,84% | – |
 | Jardim Leopoldina | R$ 3.524 | 45 | – | – | – | – |
@@ -7181,7 +7199,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Lomba Pínheiro | R$ 3.786 | 95 | – | – | – | – |
 | Mário Quintana | R$ 4.080 | 98 | – | – | – | – |
 | Medianeira | R$ 3.064 | 120 | R$ 21,4 | 11 | 8,38% | – |
-| Menino Deus | R$ 4.546 | 157 | R$ 28,0 | 26 | 7,39% | – |
+| Menino Deus | R$ 4.536 | 159 | R$ 28,0 | 26 | 7,41% | – |
 | Moinhos de Vento | R$ 6.818 | 21 | R$ 45,0 | 11 | 7,92% | – |
 | Mont Serrat | R$ 7.395 | 19 | R$ 32,8 | 6 | 5,32% | – |
 | Morro Santana | R$ 3.494 | 68 | – | – | – | – |
@@ -7228,7 +7246,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Vila Operária | R$ 2.750 | 19 | – | – | – | – |
 | Vila São José | R$ 2.868 | 31 | – | – | – | – |
 
-### Terrenos, cidade toda: venda R$ 974/m² (n=1413)
+### Terrenos, cidade toda: venda R$ 973/m² (n=1414)
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -7285,7 +7303,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Rio Branco | R$ 2.683 | 6 | – | – | – | – |
 | Rubem Berta | R$ 703 | 19 | – | – | – | – |
 | Santa Maria Goretti | R$ 1.569 | 12 | – | – | – | – |
-| Santa Tereza | R$ 919 | 18 | – | – | – | – |
+| Santa Tereza | R$ 757 | 19 | – | – | – | – |
 | Santana | R$ 1.869 | 13 | – | – | – | – |
 | Santo Antônio | R$ 1.193 | 10 | – | – | – | – |
 | São Geraldo | R$ 1.930 | 7 | – | – | – | – |
@@ -7305,7 +7323,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Vila João Pessoa | R$ 1.036 | 12 | – | – | – | – |
 | Vila Nova | R$ 558 | 69 | – | – | – | – |
 
-### Salas comerciais, cidade toda: venda R$ 4.667/m² (n=2202); aluguel R$ 34,5/m²/mês (n=957); rendimento bruto do aluguel 8,87% a.a.
+### Salas comerciais, cidade toda: venda R$ 4.667/m² (n=2203); aluguel R$ 34,4/m²/mês (n=963); rendimento bruto do aluguel 8,85% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
@@ -7317,7 +7335,7 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Bom Fim | R$ 5.676 | 35 | R$ 21,8 | 14 | 4,61% | – |
 | Cavalhada | R$ 5.742 | 8 | R$ 42,1 | 20 | 8,80% | – |
 | Central Parque | – | – | R$ 45,7 | 5 | – | – |
-| Centro Histórico | R$ 2.666 | 497 | R$ 18,8 | 154 | 8,46% | – |
+| Centro Histórico | R$ 2.663 | 498 | R$ 18,8 | 156 | 8,47% | – |
 | Chácara das Pedras | R$ 6.177 | 13 | R$ 60,0 | 16 | 11,66% | – |
 | Cidade Baixa | R$ 5.791 | 56 | R$ 31,0 | 17 | 6,42% | – |
 | Cristal | R$ 10.436 | 42 | R$ 41,5 | 16 | 4,77% | – |
@@ -7340,12 +7358,12 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Partenon | R$ 4.071 | 14 | R$ 32,7 | 11 | 9,64% | – |
 | Passo da Areia | R$ 3.566 | 78 | R$ 22,7 | 31 | 7,64% | – |
 | Petrópolis | R$ 4.530 | 264 | R$ 47,5 | 70 | 12,58% | – |
-| Praia de Belas | R$ 9.609 | 64 | R$ 56,0 | 45 | 6,99% | – |
-| Rio Branco | R$ 5.265 | 64 | R$ 34,8 | 32 | 7,93% | – |
+| Praia de Belas | R$ 9.609 | 64 | R$ 53,3 | 47 | 6,66% | – |
+| Rio Branco | R$ 5.265 | 64 | R$ 34,7 | 33 | 7,91% | – |
 | Santa Maria Goretti | R$ 7.774 | 6 | R$ 35,7 | 7 | 5,51% | – |
 | Santana | R$ 9.543 | 60 | R$ 30,2 | 15 | 3,80% | – |
 | Santo Antônio | – | – | R$ 25,6 | 5 | – | – |
-| São Geraldo | R$ 3.298 | 21 | R$ 27,6 | 14 | 10,04% | – |
+| São Geraldo | R$ 3.298 | 21 | R$ 28,0 | 15 | 10,19% | – |
 | São João | R$ 4.677 | 30 | R$ 29,4 | 32 | 7,54% | – |
 | São Sebastião | R$ 9.800 | 20 | R$ 43,2 | 9 | 5,29% | – |
 | Sarandi | R$ 7.674 | 18 | R$ 20,9 | 10 | 3,27% | – |
@@ -8459,189 +8477,211 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 
 Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de preço, tamanho = anúncios): https://acorridadosbairros.com.br/mapa/florianopolis-apartamento.png · https://acorridadosbairros.com.br/mapa/florianopolis-casa.png
 
-### Apartamentos, cidade toda: venda R$ 12.150/m² (n=6957); aluguel R$ 55,8/m²/mês (n=1215); rendimento bruto do aluguel 5,51% a.a.
+### Apartamentos, cidade toda: venda R$ 12.083/m² (n=11571); aluguel R$ 56,1/m²/mês (n=1784); rendimento bruto do aluguel 5,57% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Abraão | R$ 10.649 | 99 | R$ 45,8 | 23 | 5,16% | – |
-| Agronômica | R$ 16.463 | 313 | R$ 63,2 | 42 | 4,61% | – |
-| Balneário | R$ 10.578 | 121 | R$ 42,8 | 18 | 4,86% | – |
-| Barra da Lagoa | R$ 14.711 | 40 | – | – | – | – |
-| Bom Abrigo | R$ 9.420 | 57 | R$ 51,5 | 6 | 6,56% | – |
-| Cachoeira do Bom Jesus | R$ 13.180 | 207 | R$ 54,2 | 14 | 4,93% | – |
-| Cacupé | R$ 17.039 | 121 | R$ 80,5 | 8 | 5,67% | – |
-| Campeche | R$ 15.333 | 519 | R$ 73,7 | 63 | 5,77% | – |
-| Canasvieiras | R$ 11.765 | 299 | R$ 52,3 | 31 | 5,33% | – |
-| Canto | R$ 10.588 | 119 | R$ 41,5 | 19 | 4,70% | – |
-| Capoeiras | R$ 8.384 | 152 | R$ 43,5 | 38 | 6,23% | – |
-| Carianos | R$ 8.596 | 9 | R$ 55,0 | 9 | 7,68% | – |
-| Carvoeira | R$ 10.520 | 120 | R$ 57,5 | 48 | 6,56% | – |
-| Centro | R$ 13.603 | 776 | R$ 64,5 | 196 | 5,69% | – |
-| Coloninha | R$ 9.398 | 19 | – | – | – | – |
-| Coqueiros | R$ 10.088 | 356 | R$ 50,9 | 31 | 6,05% | – |
-| Córrego Grande | R$ 11.575 | 153 | R$ 53,3 | 40 | 5,53% | – |
-| Costeira do Pirajubaé | R$ 9.476 | 5 | – | – | – | – |
-| Estreito | R$ 10.863 | 270 | R$ 50,0 | 41 | 5,52% | – |
-| Ingleses | R$ 8.577 | 686 | R$ 45,0 | 107 | 6,30% | – |
-| Itacorubi | R$ 10.571 | 399 | R$ 56,2 | 80 | 6,38% | – |
-| Itaguaçu | R$ 7.699 | 9 | – | – | – | – |
-| Jardim Atlântico | R$ 12.330 | 158 | R$ 48,3 | 17 | 4,70% | – |
-| João Paulo | R$ 13.303 | 375 | R$ 65,6 | 26 | 5,92% | – |
-| Jurerê | R$ 20.274 | 448 | R$ 78,0 | 33 | 4,62% | – |
-| Lagoa da Conceição | R$ 13.175 | 115 | R$ 62,9 | 29 | 5,73% | – |
-| Monte Verde | R$ 12.077 | 43 | R$ 60,9 | 15 | 6,05% | – |
-| Morro das Pedras | R$ 15.681 | 58 | R$ 83,7 | 11 | 6,41% | – |
-| Pantanal | R$ 11.809 | 58 | R$ 50,8 | 33 | 5,16% | – |
-| Pântano do Sul | R$ 12.524 | 45 | R$ 75,0 | 5 | 7,19% | – |
-| Ponta das Canas | R$ 11.439 | 25 | – | – | – | – |
-| Praia Brava | R$ 15.666 | 66 | – | – | – | – |
-| Ribeirão da Ilha | R$ 9.918 | 70 | R$ 59,7 | 13 | 7,22% | – |
-| Rio Tavares | R$ 14.559 | 37 | R$ 76,6 | 12 | 6,31% | – |
-| Rio Vermelho | R$ 8.500 | 27 | R$ 55,0 | 6 | 7,76% | – |
-| Saco dos Limões | R$ 11.614 | 54 | R$ 59,8 | 27 | 6,18% | – |
-| Saco Grande | R$ 13.986 | 115 | R$ 61,8 | 36 | 5,30% | – |
-| Santa Mônica | R$ 12.326 | 9 | – | – | – | – |
-| Santinho | R$ 13.191 | 33 | – | – | – | – |
-| Santo Antônio de Lisboa | R$ 15.640 | 57 | R$ 90,9 | 5 | 6,97% | – |
-| Trindade | R$ 10.938 | 240 | R$ 55,9 | 86 | 6,13% | – |
-| Vargem do Bom Jesus | R$ 7.518 | 14 | – | – | – | – |
-| Vargem Grande | R$ 10.142 | 13 | – | – | – | – |
+| Abraão | R$ 10.278 | 149 | R$ 44,0 | 29 | 5,14% | – |
+| Agronômica | R$ 15.487 | 433 | R$ 63,2 | 58 | 4,90% | – |
+| Alto Ribeirão | R$ 10.536 | 5 | – | – | – | – |
+| Balneário | R$ 10.687 | 181 | R$ 42,8 | 22 | 4,81% | – |
+| Barra da Lagoa | R$ 13.119 | 67 | R$ 56,5 | 5 | 5,17% | – |
+| Beiramar | R$ 20.119 | 18 | – | – | – | – |
+| Bom Abrigo | R$ 9.420 | 83 | R$ 52,8 | 8 | 6,73% | – |
+| Cachoeira do Bom Jesus | R$ 12.571 | 422 | R$ 52,0 | 26 | 4,96% | – |
+| Cacupé | R$ 17.415 | 226 | R$ 79,0 | 12 | 5,44% | – |
+| Campeche | R$ 15.056 | 932 | R$ 75,8 | 115 | 6,04% | – |
+| Canasvieiras | R$ 12.018 | 518 | R$ 51,1 | 47 | 5,10% | – |
+| Canto | R$ 10.450 | 145 | R$ 41,5 | 23 | 4,77% | – |
+| Capoeiras | R$ 8.323 | 220 | R$ 43,8 | 45 | 6,31% | – |
+| Carianos | R$ 9.613 | 19 | R$ 55,9 | 10 | 6,98% | – |
+| Carvoeira | R$ 10.701 | 186 | R$ 57,9 | 68 | 6,49% | – |
+| Centro | R$ 13.763 | 1044 | R$ 63,0 | 281 | 5,49% | – |
+| Coloninha | R$ 8.864 | 27 | – | – | – | – |
+| Coqueiros | R$ 9.799 | 644 | R$ 50,0 | 50 | 6,12% | – |
+| Córrego Grande | R$ 11.360 | 291 | R$ 52,2 | 56 | 5,51% | – |
+| Costeira do Pirajubaé | R$ 9.450 | 6 | – | – | – | – |
+| Daniela | R$ 8.586 | 5 | R$ 16,7 | 9 | 2,33% | – |
+| Estreito | R$ 10.439 | 423 | R$ 49,9 | 60 | 5,74% | – |
+| Ingleses | R$ 8.534 | 1171 | R$ 42,4 | 160 | 5,96% | – |
+| Ingleses Centro | R$ 10.000 | 7 | – | – | – | – |
+| Itacorubi | R$ 10.257 | 721 | R$ 55,8 | 122 | 6,53% | – |
+| Itaguaçu | R$ 9.881 | 25 | – | – | – | – |
+| Jardim Atlântico | R$ 11.947 | 189 | R$ 48,3 | 21 | 4,85% | – |
+| João Paulo | R$ 13.400 | 732 | R$ 64,1 | 37 | 5,74% | – |
+| Jurerê | R$ 20.107 | 737 | R$ 89,8 | 72 | 5,36% | – |
+| Lagoa da Conceição | R$ 12.444 | 216 | R$ 62,5 | 42 | 6,03% | – |
+| Monte Verde | R$ 13.189 | 65 | R$ 62,4 | 16 | 5,68% | – |
+| Morro das Pedras | R$ 15.778 | 83 | R$ 92,3 | 16 | 7,02% | – |
+| Pantanal | R$ 11.726 | 96 | R$ 51,3 | 47 | 5,25% | – |
+| Pântano do Sul | R$ 13.228 | 71 | R$ 60,0 | 8 | 5,44% | – |
+| Parque São Jorge | R$ 11.993 | 10 | – | – | – | – |
+| Ponta das Canas | R$ 11.494 | 50 | – | – | – | – |
+| Praia Brava | R$ 16.778 | 122 | R$ 65,9 | 5 | 4,71% | – |
+| Praia Mole | R$ 24.882 | 7 | – | – | – | – |
+| Ribeirão da Ilha | R$ 9.778 | 127 | R$ 64,5 | 19 | 7,92% | – |
+| Rio Tavares | R$ 14.315 | 78 | R$ 88,7 | 19 | 7,44% | – |
+| Rio Vermelho | R$ 5.685 | 58 | R$ 55,0 | 6 | 11,61% | – |
+| Saco dos Limões | R$ 11.914 | 82 | R$ 57,1 | 33 | 5,75% | – |
+| Saco Grande | R$ 14.066 | 177 | R$ 64,8 | 45 | 5,53% | – |
+| Santa Mônica | R$ 12.349 | 22 | – | – | – | – |
+| Santinho | R$ 11.818 | 75 | R$ 51,3 | 6 | 5,21% | – |
+| Santo Antônio de Lisboa | R$ 15.364 | 95 | R$ 90,9 | 8 | 7,10% | – |
+| Trindade | R$ 11.111 | 389 | R$ 55,1 | 124 | 5,95% | – |
+| Vargem do Bom Jesus | R$ 7.493 | 28 | – | – | – | – |
+| Vargem Grande | R$ 9.107 | 23 | – | – | – | – |
+| Vargem Pequena | R$ 10.763 | 7 | – | – | – | – |
 
-### Casas, cidade toda: venda R$ 8.056/m² (n=4273); aluguel R$ 47,6/m²/mês (n=602); rendimento bruto do aluguel 7,09% a.a.
-
-| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
-|---|---|---|---|---|---|---|
-| Abraão | R$ 8.228 | 21 | R$ 47,0 | 5 | 6,85% | – |
-| Agronômica | R$ 7.042 | 79 | R$ 49,1 | 17 | 8,37% | – |
-| Armação | R$ 10.324 | 48 | R$ 44,0 | 6 | 5,11% | – |
-| Balneário | R$ 8.223 | 66 | R$ 51,5 | 11 | 7,52% | – |
-| Barra da Lagoa | R$ 7.922 | 40 | R$ 57,1 | 13 | 8,65% | – |
-| Bom Abrigo | R$ 10.164 | 26 | – | – | – | – |
-| Cachoeira do Bom Jesus | R$ 9.256 | 160 | R$ 42,3 | 15 | 5,48% | – |
-| Cacupé | R$ 11.500 | 85 | R$ 56,9 | 13 | 5,94% | – |
-| Campeche | R$ 9.784 | 404 | R$ 51,7 | 94 | 6,34% | – |
-| Canasvieiras | R$ 9.130 | 113 | R$ 57,3 | 5 | 7,53% | – |
-| Canto | R$ 7.677 | 33 | – | – | – | – |
-| Capoeiras | R$ 5.866 | 109 | R$ 24,2 | 14 | 4,95% | – |
-| Carianos | R$ 7.859 | 72 | R$ 46,3 | 12 | 7,07% | – |
-| Carvoeira | R$ 7.776 | 35 | – | – | – | – |
-| Centro | R$ 7.944 | 145 | R$ 39,3 | 15 | 5,94% | – |
-| Coloninha | R$ 7.200 | 15 | – | – | – | – |
-| Coqueiros | R$ 7.655 | 49 | R$ 42,0 | 6 | 6,58% | – |
-| Córrego Grande | R$ 9.198 | 93 | R$ 34,8 | 10 | 4,54% | – |
-| Costeira do Pirajubaé | R$ 6.818 | 7 | – | – | – | – |
-| Daniela | R$ 9.341 | 31 | – | – | – | – |
-| Estreito | R$ 6.372 | 90 | – | – | – | – |
-| Ingleses | R$ 6.176 | 433 | R$ 39,1 | 43 | 7,60% | – |
-| Itacorubi | R$ 8.276 | 70 | R$ 28,9 | 10 | 4,19% | – |
-| Itaguaçu | R$ 7.794 | 47 | R$ 42,7 | 10 | 6,57% | – |
-| Jardim Atlântico | R$ 5.190 | 101 | R$ 33,2 | 10 | 7,68% | – |
-| João Paulo | R$ 9.030 | 71 | R$ 30,1 | 5 | 4,00% | – |
-| José Mendes | R$ 8.912 | 8 | – | – | – | – |
-| Jurerê | R$ 16.956 | 191 | R$ 82,4 | 37 | 5,83% | – |
-| Lagoa da Conceição | R$ 11.469 | 166 | R$ 55,2 | 43 | 5,78% | – |
-| Monte Verde | R$ 6.250 | 13 | – | – | – | – |
-| Morro das Pedras | R$ 11.667 | 79 | R$ 54,7 | 14 | 5,63% | – |
-| Pantanal | R$ 6.034 | 29 | – | – | – | – |
-| Pântano do Sul | R$ 8.106 | 63 | R$ 45,8 | 11 | 6,78% | – |
-| Ponta das Canas | R$ 8.079 | 41 | – | – | – | – |
-| Praia Brava | R$ 13.289 | 17 | – | – | – | – |
-| Praia Mole | R$ 14.388 | 5 | – | – | – | – |
-| Ratones | R$ 10.423 | 20 | – | – | – | – |
-| Ribeirão da Ilha | R$ 6.867 | 133 | R$ 46,4 | 21 | 8,11% | – |
-| Rio Tavares | R$ 9.322 | 169 | R$ 54,4 | 49 | 7,00% | – |
-| Rio Vermelho | R$ 5.478 | 347 | R$ 39,7 | 20 | 8,70% | – |
-| Saco dos Limões | R$ 7.329 | 38 | R$ 40,0 | 9 | 6,55% | – |
-| Saco Grande | R$ 7.801 | 25 | R$ 42,5 | 7 | 6,54% | – |
-| Sambaqui | R$ 8.791 | 58 | R$ 48,0 | 10 | 6,55% | – |
-| Santa Mônica | R$ 10.473 | 38 | R$ 64,0 | 7 | 7,33% | – |
-| Santinho | R$ 7.246 | 9 | – | – | – | – |
-| Santo Antônio de Lisboa | R$ 9.259 | 73 | R$ 35,7 | 6 | 4,63% | – |
-| Tapera | R$ 3.892 | 13 | – | – | – | – |
-| Tapera da Base | R$ 3.656 | 22 | R$ 33,1 | 5 | 10,86% | – |
-| Trindade | R$ 7.825 | 90 | R$ 39,0 | 12 | 5,98% | – |
-| Vargem do Bom Jesus | R$ 6.918 | 51 | – | – | – | – |
-| Vargem Grande | R$ 7.167 | 52 | – | – | – | – |
-| Vargem Pequena | R$ 8.044 | 40 | – | – | – | – |
-
-### Terrenos, cidade toda: venda R$ 1.875/m² (n=1511)
+### Casas, cidade toda: venda R$ 8.108/m² (n=7447); aluguel R$ 46,0/m²/mês (n=867); rendimento bruto do aluguel 6,81% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Abraão | R$ 2.667 | 5 | – | – | – | – |
-| Agronômica | R$ 1.359 | 18 | – | – | – | – |
-| Armação | R$ 1.086 | 7 | – | – | – | – |
-| Balneário | R$ 4.231 | 13 | – | – | – | – |
-| Barra da Lagoa | R$ 1.304 | 12 | – | – | – | – |
-| Cachoeira do Bom Jesus | R$ 2.099 | 34 | – | – | – | – |
-| Cacupé | R$ 3.250 | 37 | – | – | – | – |
-| Campeche | R$ 2.760 | 128 | – | – | – | – |
-| Canasvieiras | R$ 1.486 | 41 | – | – | – | – |
-| Canto | R$ 3.164 | 10 | – | – | – | – |
-| Capoeiras | R$ 2.483 | 43 | – | – | – | – |
-| Carianos | R$ 1.518 | 21 | – | – | – | – |
-| Carvoeira | R$ 2.193 | 13 | – | – | – | – |
-| Centro | R$ 1.757 | 24 | – | – | – | – |
-| Coloninha | R$ 2.778 | 5 | – | – | – | – |
-| Coqueiros | R$ 2.677 | 17 | – | – | – | – |
-| Córrego Grande | R$ 1.602 | 33 | – | – | – | – |
-| Costeira do Pirajubaé | R$ 1.757 | 8 | – | – | – | – |
-| Daniela | R$ 2.595 | 8 | – | – | – | – |
-| Estreito | R$ 3.636 | 39 | – | – | – | – |
-| Ingleses | R$ 1.320 | 142 | – | – | – | – |
-| Itacorubi | R$ 2.384 | 78 | – | – | – | – |
-| Jardim Atlântico | R$ 2.615 | 19 | – | – | – | – |
-| João Paulo | R$ 1.991 | 44 | – | – | – | – |
-| Jurerê | R$ 5.239 | 29 | – | – | – | – |
-| Lagoa da Conceição | R$ 1.688 | 43 | – | – | – | – |
-| Monte Verde | R$ 1.536 | 7 | – | – | – | – |
-| Morro das Pedras | R$ 1.636 | 20 | – | – | – | – |
-| Pantanal | R$ 1.837 | 19 | – | – | – | – |
-| Pântano do Sul | R$ 1.985 | 53 | – | – | – | – |
-| Ponta das Canas | R$ 1.865 | 8 | – | – | – | – |
-| Praia Brava | R$ 1.576 | 6 | – | – | – | – |
-| Ratones | R$ 871 | 61 | – | – | – | – |
-| Ribeirão da Ilha | R$ 1.621 | 54 | – | – | – | – |
-| Rio Tavares | R$ 2.583 | 42 | – | – | – | – |
-| Rio Vermelho | R$ 1.250 | 83 | – | – | – | – |
-| Saco dos Limões | R$ 3.066 | 16 | – | – | – | – |
-| Saco Grande | R$ 1.778 | 23 | – | – | – | – |
-| Sambaqui | R$ 549 | 20 | – | – | – | – |
-| Santa Mônica | R$ 4.571 | 6 | – | – | – | – |
-| Santinho | R$ 1.163 | 6 | – | – | – | – |
-| Santo Antônio de Lisboa | R$ 1.241 | 45 | – | – | – | – |
-| Tapera | R$ 1.197 | 12 | – | – | – | – |
-| Tapera da Base | R$ 1.467 | 10 | – | – | – | – |
-| Trindade | R$ 2.959 | 33 | – | – | – | – |
-| Vargem do Bom Jesus | R$ 1.127 | 24 | – | – | – | – |
-| Vargem Grande | R$ 1.067 | 45 | – | – | – | – |
-| Vargem Pequena | R$ 1.102 | 20 | – | – | – | – |
+| Abraão | R$ 8.735 | 32 | R$ 43,9 | 6 | 6,03% | – |
+| Agronômica | R$ 6.933 | 150 | R$ 49,1 | 19 | 8,50% | – |
+| Alto Ribeirão | R$ 6.279 | 13 | – | – | – | – |
+| Alto Ribeirão Leste | R$ 8.026 | 7 | – | – | – | – |
+| Armação | R$ 10.000 | 95 | R$ 44,0 | 8 | 5,28% | – |
+| Balneário | R$ 8.202 | 88 | R$ 51,5 | 13 | 7,54% | – |
+| Barra da Lagoa | R$ 9.000 | 69 | R$ 57,1 | 17 | 7,61% | – |
+| Bom Abrigo | R$ 10.000 | 36 | – | – | – | – |
+| Cachoeira do Bom Jesus | R$ 8.827 | 281 | R$ 46,0 | 20 | 6,25% | – |
+| Cacupé | R$ 11.875 | 129 | R$ 57,5 | 16 | 5,81% | – |
+| Campeche | R$ 9.595 | 705 | R$ 52,3 | 133 | 6,54% | – |
+| Campeche Central | R$ 8.824 | 5 | – | – | – | – |
+| Canasvieiras | R$ 8.522 | 215 | R$ 62,6 | 6 | 8,82% | – |
+| Canto | R$ 7.304 | 39 | – | – | – | – |
+| Canto da Lagoa | R$ 15.756 | 5 | – | – | – | – |
+| Capoeiras | R$ 5.922 | 173 | R$ 24,2 | 14 | 4,90% | – |
+| Carianos | R$ 7.802 | 96 | R$ 46,3 | 12 | 7,12% | – |
+| Carvoeira | R$ 7.692 | 52 | – | – | – | – |
+| Centro | R$ 8.000 | 241 | R$ 42,4 | 35 | 6,36% | – |
+| Coloninha | R$ 6.486 | 19 | – | – | – | – |
+| Coqueiros | R$ 7.967 | 98 | R$ 40,5 | 12 | 6,10% | – |
+| Córrego Grande | R$ 9.312 | 161 | R$ 35,9 | 12 | 4,63% | – |
+| Costeira do Pirajubaé | R$ 5.447 | 12 | – | – | – | – |
+| Daniela | R$ 9.452 | 50 | R$ 9,4 | 63 | 1,19% | – |
+| Estreito | R$ 6.333 | 157 | R$ 33,1 | 6 | 6,27% | – |
+| Ingleses | R$ 6.363 | 809 | R$ 38,8 | 52 | 7,32% | – |
+| Itacorubi | R$ 8.900 | 121 | R$ 30,0 | 13 | 4,04% | – |
+| Itaguaçu | R$ 7.959 | 85 | R$ 44,7 | 12 | 6,74% | – |
+| Jardim Anchieta | R$ 10.392 | 7 | – | – | – | – |
+| Jardim Atlântico | R$ 5.517 | 145 | R$ 32,8 | 11 | 7,13% | – |
+| João Paulo | R$ 9.408 | 111 | R$ 32,8 | 10 | 4,18% | – |
+| José Mendes | R$ 7.492 | 12 | – | – | – | – |
+| Jurerê | R$ 16.203 | 327 | R$ 74,0 | 53 | 5,48% | – |
+| Lagoa da Conceição | R$ 11.357 | 327 | R$ 55,2 | 57 | 5,83% | – |
+| Monte Verde | R$ 6.136 | 18 | – | – | – | – |
+| Morro das Pedras | R$ 11.370 | 129 | R$ 54,7 | 16 | 5,77% | – |
+| Pantanal | R$ 6.985 | 51 | R$ 32,9 | 6 | 5,65% | – |
+| Pântano do Sul | R$ 8.555 | 95 | R$ 48,1 | 14 | 6,75% | – |
+| Parque São Jorge | R$ 8.048 | 17 | – | – | – | – |
+| Ponta das Canas | R$ 8.659 | 71 | R$ 53,3 | 5 | 7,39% | – |
+| Porto da Lagoa | R$ 12.921 | 5 | – | – | – | – |
+| Praia Brava | R$ 13.103 | 28 | – | – | – | – |
+| Praia Mole | R$ 15.333 | 9 | – | – | – | – |
+| Ratones | R$ 10.563 | 36 | – | – | – | – |
+| Real Parque | R$ 6.731 | 5 | – | – | – | – |
+| Ribeirão da Ilha | R$ 7.044 | 242 | R$ 42,5 | 23 | 7,24% | – |
+| Rio Tavares | R$ 9.339 | 316 | R$ 54,0 | 62 | 6,94% | – |
+| Rio Vermelho | R$ 5.330 | 603 | R$ 39,0 | 29 | 8,78% | – |
+| Saco dos Limões | R$ 6.956 | 63 | R$ 40,0 | 11 | 6,90% | – |
+| Saco Grande | R$ 7.264 | 40 | R$ 42,5 | 7 | 7,02% | – |
+| Sambaqui | R$ 8.972 | 94 | R$ 48,6 | 15 | 6,50% | – |
+| Santa Mônica | R$ 10.574 | 77 | R$ 58,5 | 11 | 6,64% | – |
+| Santinho | R$ 6.571 | 25 | – | – | – | – |
+| Santo Antônio de Lisboa | R$ 9.463 | 132 | R$ 34,7 | 12 | 4,40% | – |
+| Tapera | R$ 4.880 | 34 | – | – | – | – |
+| Tapera da Base | R$ 3.988 | 32 | R$ 35,8 | 6 | 10,77% | – |
+| Trindade | R$ 7.871 | 157 | R$ 40,4 | 15 | 6,16% | – |
+| Vargem do Bom Jesus | R$ 6.850 | 80 | – | – | – | – |
+| Vargem Grande | R$ 7.353 | 86 | – | – | – | – |
+| Vargem Pequena | R$ 7.857 | 67 | – | – | – | – |
 
-### Salas comerciais, cidade toda: venda R$ 8.415/m² (n=771); aluguel R$ 56,6/m²/mês (n=314); rendimento bruto do aluguel 8,07% a.a.
+### Terrenos, cidade toda: venda R$ 1.911/m² (n=2797)
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Agronômica | R$ 10.149 | 19 | R$ 70,2 | 5 | 8,30% | – |
-| Balneário | R$ 10.244 | 13 | R$ 72,9 | 9 | 8,54% | – |
-| Cachoeira do Bom Jesus | R$ 13.333 | 11 | – | – | – | – |
-| Campeche | R$ 15.154 | 23 | R$ 92,5 | 9 | 7,32% | – |
-| Canasvieiras | R$ 15.959 | 6 | – | – | – | – |
-| Canto | R$ 11.897 | 14 | R$ 78,5 | 8 | 7,92% | – |
-| Capoeiras | R$ 9.143 | 11 | R$ 42,6 | 13 | 5,59% | – |
-| Carvoeira | R$ 13.320 | 10 | – | – | – | – |
-| Centro | R$ 6.724 | 324 | R$ 37,0 | 95 | 6,60% | – |
-| Coqueiros | R$ 10.206 | 6 | – | – | – | – |
-| Córrego Grande | R$ 11.500 | 15 | – | – | – | – |
-| Estreito | R$ 9.032 | 51 | R$ 61,6 | 30 | 8,18% | – |
-| Ingleses | R$ 9.752 | 30 | R$ 66,0 | 9 | 8,12% | – |
-| Itacorubi | R$ 8.749 | 38 | R$ 57,9 | 5 | 7,94% | – |
-| João Paulo | R$ 7.213 | 13 | R$ 51,0 | 13 | 8,48% | – |
-| Jurerê | R$ 15.900 | 13 | R$ 112,9 | 6 | 8,52% | – |
-| Lagoa da Conceição | R$ 10.909 | 9 | – | – | – | – |
-| Rio Tavares | – | – | R$ 65,0 | 5 | – | – |
-| Saco dos Limões | R$ 8.816 | 8 | – | – | – | – |
-| Saco Grande | R$ 11.444 | 43 | R$ 60,7 | 19 | 6,36% | – |
-| Trindade | R$ 7.414 | 89 | R$ 60,0 | 30 | 9,71% | – |
+| Abraão | R$ 2.435 | 8 | – | – | – | – |
+| Agronômica | R$ 1.892 | 32 | – | – | – | – |
+| Armação | R$ 1.873 | 18 | – | – | – | – |
+| Balneário | R$ 4.231 | 21 | – | – | – | – |
+| Barra da Lagoa | R$ 1.482 | 26 | – | – | – | – |
+| Bom Abrigo | R$ 3.137 | 7 | – | – | – | – |
+| Cachoeira do Bom Jesus | R$ 1.913 | 75 | – | – | – | – |
+| Cacupé | R$ 3.039 | 71 | – | – | – | – |
+| Campeche | R$ 2.777 | 232 | – | – | – | – |
+| Canasvieiras | R$ 1.586 | 89 | – | – | – | – |
+| Canto | R$ 3.293 | 19 | – | – | – | – |
+| Capoeiras | R$ 2.460 | 72 | – | – | – | – |
+| Carianos | R$ 1.417 | 35 | – | – | – | – |
+| Carvoeira | R$ 2.083 | 23 | – | – | – | – |
+| Centro | R$ 2.585 | 47 | – | – | – | – |
+| Coloninha | R$ 2.404 | 7 | – | – | – | – |
+| Coqueiros | R$ 2.495 | 32 | – | – | – | – |
+| Córrego Grande | R$ 1.674 | 60 | – | – | – | – |
+| Costeira do Pirajubaé | R$ 1.490 | 15 | – | – | – | – |
+| Daniela | R$ 2.611 | 12 | – | – | – | – |
+| Estreito | R$ 3.140 | 72 | – | – | – | – |
+| Ingleses | R$ 1.351 | 261 | – | – | – | – |
+| Itacorubi | R$ 2.384 | 138 | – | – | – | – |
+| Itaguaçu | R$ 2.914 | 7 | – | – | – | – |
+| Jardim Atlântico | R$ 2.363 | 41 | – | – | – | – |
+| João Paulo | R$ 2.417 | 79 | – | – | – | – |
+| Jurerê | R$ 5.290 | 67 | – | – | – | – |
+| Lagoa da Conceição | R$ 2.056 | 86 | – | – | – | – |
+| Monte Verde | R$ 1.350 | 10 | – | – | – | – |
+| Morro das Pedras | R$ 1.982 | 33 | – | – | – | – |
+| Pantanal | R$ 1.782 | 34 | – | – | – | – |
+| Pântano do Sul | R$ 1.987 | 75 | – | – | – | – |
+| Ponta das Canas | R$ 2.219 | 16 | – | – | – | – |
+| Praia Brava | R$ 2.405 | 10 | – | – | – | – |
+| Ratones | R$ 764 | 114 | – | – | – | – |
+| Ribeirão da Ilha | R$ 1.514 | 102 | – | – | – | – |
+| Rio Tavares | R$ 2.462 | 88 | – | – | – | – |
+| Rio Vermelho | R$ 1.130 | 145 | – | – | – | – |
+| Saco dos Limões | R$ 3.722 | 28 | – | – | – | – |
+| Saco Grande | R$ 1.776 | 43 | – | – | – | – |
+| Sambaqui | R$ 871 | 41 | – | – | – | – |
+| Santa Mônica | R$ 4.839 | 11 | – | – | – | – |
+| Santinho | R$ 1.286 | 11 | – | – | – | – |
+| Santo Antônio de Lisboa | R$ 1.521 | 84 | – | – | – | – |
+| Tapera | R$ 1.207 | 20 | – | – | – | – |
+| Tapera da Base | R$ 1.505 | 17 | – | – | – | – |
+| Trindade | R$ 3.006 | 70 | – | – | – | – |
+| Vargem do Bom Jesus | R$ 1.144 | 43 | – | – | – | – |
+| Vargem Grande | R$ 1.141 | 89 | – | – | – | – |
+| Vargem Pequena | R$ 1.069 | 34 | – | – | – | – |
+
+### Salas comerciais, cidade toda: venda R$ 8.333/m² (n=1319); aluguel R$ 57,5/m²/mês (n=450); rendimento bruto do aluguel 8,28% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Agronômica | R$ 9.583 | 31 | R$ 70,2 | 5 | 8,79% | – |
+| Balneário | R$ 10.244 | 19 | R$ 68,8 | 11 | 8,06% | – |
+| Beiramar | R$ 11.175 | 5 | – | – | – | – |
+| Cachoeira do Bom Jesus | R$ 15.833 | 23 | – | – | – | – |
+| Campeche | R$ 14.860 | 31 | R$ 100,0 | 15 | 8,08% | – |
+| Canasvieiras | R$ 12.698 | 13 | – | – | – | – |
+| Canto | R$ 11.782 | 22 | R$ 74,8 | 12 | 7,62% | – |
+| Capoeiras | R$ 8.160 | 22 | R$ 42,6 | 13 | 6,26% | – |
+| Carvoeira | R$ 10.134 | 16 | R$ 52,1 | 5 | 6,17% | – |
+| Centro | R$ 6.790 | 528 | R$ 36,8 | 143 | 6,50% | – |
+| Coqueiros | R$ 10.365 | 16 | – | – | – | – |
+| Córrego Grande | R$ 10.727 | 27 | R$ 89,8 | 5 | 10,05% | – |
+| Estreito | R$ 8.698 | 106 | R$ 59,3 | 47 | 8,18% | – |
+| Ingleses | R$ 9.767 | 52 | R$ 64,4 | 17 | 7,91% | – |
+| Itacorubi | R$ 7.979 | 67 | R$ 51,4 | 9 | 7,73% | – |
+| João Paulo | R$ 8.280 | 23 | R$ 50,5 | 14 | 7,32% | – |
+| Jurerê | R$ 16.667 | 23 | R$ 116,7 | 9 | 8,40% | – |
+| Lagoa da Conceição | R$ 10.391 | 14 | R$ 68,6 | 6 | 7,92% | – |
+| Pantanal | R$ 4.901 | 6 | – | – | – | – |
+| Rio Tavares | – | – | R$ 80,1 | 8 | – | – |
+| Rio Vermelho | R$ 5.626 | 6 | R$ 78,8 | 5 | 16,81% | – |
+| Saco dos Limões | R$ 8.816 | 10 | – | – | – | – |
+| Saco Grande | R$ 11.436 | 74 | R$ 63,3 | 28 | 6,64% | – |
+| Santa Mônica | – | – | R$ 83,5 | 6 | – | – |
+| Santo Antônio de Lisboa | – | – | R$ 80,0 | 7 | – | – |
+| Trindade | R$ 7.508 | 152 | R$ 61,5 | 43 | 9,83% | – |
 
 
 ## Araquari (outubro/2026): https://acorridadosbairros.com.br/araquari/
@@ -8935,147 +8975,150 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 
 Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de preço, tamanho = anúncios): https://acorridadosbairros.com.br/mapa/blumenau-apartamento.png · https://acorridadosbairros.com.br/mapa/blumenau-casa.png
 
-### Apartamentos, cidade toda: venda R$ 7.083/m² (n=3352); aluguel R$ 35,7/m²/mês (n=1493); rendimento bruto do aluguel 6,05% a.a.
+### Apartamentos, cidade toda: venda R$ 6.900/m² (n=4544); aluguel R$ 35,3/m²/mês (n=1670); rendimento bruto do aluguel 6,14% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Água Verde | R$ 6.330 | 137 | R$ 33,8 | 82 | 6,41% | – |
-| Asilo | R$ 5.321 | 8 | – | – | – | – |
-| Badenfurt | R$ 5.268 | 42 | R$ 30,2 | 14 | 6,88% | – |
-| Boa Vista | R$ 6.280 | 24 | R$ 42,3 | 19 | 8,08% | – |
-| Bom Retiro | R$ 7.308 | 45 | R$ 41,9 | 13 | 6,88% | – |
-| Centro | R$ 8.533 | 237 | R$ 44,4 | 117 | 6,24% | – |
-| Escola Agrícola | R$ 6.830 | 150 | R$ 33,3 | 75 | 5,85% | – |
-| Fidélis | R$ 7.902 | 19 | – | – | – | – |
-| Fortaleza | R$ 6.704 | 123 | R$ 37,0 | 56 | 6,62% | – |
-| Fortaleza Alta | R$ 5.909 | 23 | R$ 29,8 | 55 | 6,05% | – |
-| Garcia | R$ 5.335 | 107 | R$ 26,9 | 43 | 6,05% | – |
-| Itoupava Central | R$ 5.560 | 132 | R$ 28,6 | 53 | 6,17% | – |
-| Itoupava Norte | R$ 6.238 | 114 | R$ 32,3 | 40 | 6,21% | – |
-| Itoupava Seca | R$ 8.023 | 273 | R$ 41,7 | 123 | 6,24% | – |
-| Itoupavazinha | R$ 5.035 | 32 | R$ 27,3 | 20 | 6,51% | – |
-| Jardim Blumenau | R$ 9.913 | 236 | R$ 35,2 | 55 | 4,26% | – |
-| Nova Esperança | R$ 5.513 | 6 | R$ 26,9 | 5 | 5,86% | – |
-| Passo Manso | R$ 5.000 | 37 | R$ 29,1 | 27 | 6,98% | – |
-| Ponta Aguda | R$ 7.951 | 157 | R$ 39,0 | 60 | 5,89% | – |
-| Progresso | R$ 5.349 | 7 | R$ 24,2 | 11 | 5,43% | – |
-| Ribeirão Fresco | R$ 5.943 | 17 | R$ 32,5 | 15 | 6,56% | – |
-| Salto | R$ 6.880 | 22 | R$ 41,2 | 11 | 7,19% | – |
-| Salto do Norte | R$ 5.607 | 39 | R$ 33,3 | 29 | 7,13% | – |
-| Salto Weissbach | R$ 5.264 | 37 | R$ 30,9 | 11 | 7,04% | – |
-| Tribess | R$ 5.718 | 33 | R$ 33,6 | 12 | 7,05% | – |
-| Valparaíso | R$ 3.209 | 7 | – | – | – | – |
-| Velha | R$ 7.333 | 417 | R$ 43,3 | 185 | 7,09% | – |
-| Velha Central | R$ 5.417 | 33 | R$ 35,0 | 25 | 7,75% | – |
-| Victor Konder | R$ 8.248 | 328 | R$ 40,1 | 142 | 5,83% | – |
-| Vila Formosa | R$ 7.500 | 59 | R$ 27,0 | 15 | 4,32% | – |
-| Vila Nova | R$ 7.279 | 383 | R$ 36,8 | 154 | 6,07% | – |
-| Vorstadt | R$ 7.582 | 60 | R$ 40,0 | 11 | 6,33% | – |
+| Água Verde | R$ 5.700 | 175 | R$ 33,7 | 91 | 7,09% | – |
+| Asilo | R$ 5.676 | 13 | R$ 31,5 | 6 | 6,66% | – |
+| Badenfurt | R$ 5.033 | 54 | R$ 29,6 | 18 | 7,06% | – |
+| Boa Vista | R$ 6.432 | 32 | R$ 41,7 | 20 | 7,78% | – |
+| Bom Retiro | R$ 7.736 | 64 | R$ 41,5 | 13 | 6,44% | – |
+| Centro | R$ 8.293 | 324 | R$ 46,1 | 128 | 6,67% | – |
+| Escola Agrícola | R$ 6.597 | 201 | R$ 33,3 | 82 | 6,06% | – |
+| Fidélis | R$ 7.043 | 31 | R$ 28,5 | 5 | 4,86% | – |
+| Fortaleza | R$ 6.463 | 164 | R$ 36,1 | 65 | 6,70% | – |
+| Fortaleza Alta | R$ 5.833 | 31 | R$ 29,9 | 62 | 6,15% | – |
+| Garcia | R$ 5.260 | 153 | R$ 28,2 | 48 | 6,43% | – |
+| Itoupava Central | R$ 5.645 | 195 | R$ 28,6 | 62 | 6,08% | – |
+| Itoupava Norte | R$ 6.242 | 155 | R$ 32,2 | 45 | 6,19% | – |
+| Itoupava Seca | R$ 7.854 | 385 | R$ 41,7 | 133 | 6,37% | – |
+| Itoupavazinha | R$ 4.900 | 49 | R$ 27,6 | 23 | 6,76% | – |
+| Jardim | R$ 9.742 | 6 | – | – | – | – |
+| Jardim Blumenau | R$ 9.958 | 277 | R$ 38,0 | 62 | 4,58% | – |
+| Nova Esperança | R$ 5.271 | 8 | R$ 27,6 | 6 | 6,28% | – |
+| Passo Manso | R$ 4.881 | 57 | R$ 28,8 | 31 | 7,08% | – |
+| Ponta Aguda | R$ 7.735 | 197 | R$ 37,9 | 66 | 5,88% | – |
+| Progresso | R$ 4.869 | 14 | R$ 23,8 | 15 | 5,87% | – |
+| Ribeirão Fresco | R$ 5.744 | 28 | R$ 32,3 | 16 | 6,75% | – |
+| Salto | R$ 6.613 | 29 | R$ 37,6 | 12 | 6,82% | – |
+| Salto do Norte | R$ 5.489 | 54 | R$ 34,1 | 34 | 7,46% | – |
+| Salto Weissbach | R$ 5.264 | 57 | R$ 30,8 | 12 | 7,02% | – |
+| Tribess | R$ 5.692 | 44 | R$ 33,6 | 14 | 7,08% | – |
+| Valparaíso | R$ 4.042 | 12 | – | – | – | – |
+| Velha | R$ 7.116 | 569 | R$ 42,4 | 208 | 7,15% | – |
+| Velha Central | R$ 4.886 | 46 | R$ 34,8 | 28 | 8,55% | – |
+| Victor Konder | R$ 7.963 | 436 | R$ 39,3 | 156 | 5,92% | – |
+| Vila Formosa | R$ 7.647 | 77 | R$ 27,8 | 18 | 4,36% | – |
+| Vila Nova | R$ 7.246 | 515 | R$ 37,2 | 170 | 6,16% | – |
+| Vorstadt | R$ 7.301 | 82 | R$ 40,0 | 13 | 6,57% | – |
 
-### Casas, cidade toda: venda R$ 5.047/m² (n=2774); aluguel R$ 27,2/m²/mês (n=530); rendimento bruto do aluguel 6,47% a.a.
-
-| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
-|---|---|---|---|---|---|---|
-| Água Verde | R$ 4.818 | 216 | R$ 34,1 | 29 | 8,49% | – |
-| Asilo | R$ 6.632 | 9 | – | – | – | – |
-| Badenfurt | R$ 4.294 | 58 | R$ 23,8 | 8 | 6,65% | – |
-| Boa Vista | R$ 5.288 | 19 | – | – | – | – |
-| Bom Retiro | – | – | R$ 25,3 | 8 | – | – |
-| Centro | R$ 5.197 | 59 | R$ 29,4 | 27 | 6,79% | – |
-| Escola Agrícola | R$ 5.196 | 238 | R$ 28,0 | 19 | 6,47% | – |
-| Fidélis | R$ 4.514 | 24 | – | – | – | – |
-| Fortaleza | R$ 4.852 | 154 | R$ 27,3 | 18 | 6,75% | – |
-| Fortaleza Alta | R$ 5.147 | 53 | R$ 20,9 | 12 | 4,87% | – |
-| Garcia | R$ 4.381 | 122 | R$ 28,6 | 19 | 7,83% | – |
-| Glória | R$ 3.009 | 11 | – | – | – | – |
-| Itoupava Central | R$ 5.200 | 291 | R$ 25,6 | 50 | 5,91% | – |
-| Itoupava Norte | R$ 4.875 | 177 | R$ 26,2 | 26 | 6,45% | – |
-| Itoupava Seca | R$ 6.598 | 85 | R$ 29,8 | 21 | 5,42% | – |
-| Itoupavazinha | R$ 4.516 | 97 | R$ 32,2 | 11 | 8,56% | – |
-| Jardim Blumenau | R$ 6.128 | 17 | R$ 35,7 | 13 | 6,99% | – |
-| Passo Manso | R$ 4.823 | 68 | R$ 25,8 | 20 | 6,42% | – |
-| Ponta Aguda | R$ 6.081 | 111 | R$ 23,2 | 43 | 4,58% | – |
-| Progresso | R$ 3.684 | 55 | R$ 23,4 | 8 | 7,62% | – |
-| Ribeirão Fresco | R$ 4.426 | 26 | – | – | – | – |
-| Salto | R$ 5.405 | 37 | R$ 29,6 | 17 | 6,57% | – |
-| Salto do Norte | R$ 4.700 | 75 | R$ 30,0 | 18 | 7,66% | – |
-| Salto Weissbach | R$ 5.339 | 36 | R$ 20,9 | 7 | 4,70% | – |
-| Testo Salto | R$ 5.000 | 47 | R$ 26,7 | 5 | 6,41% | – |
-| Tribess | R$ 4.943 | 59 | R$ 32,6 | 10 | 7,91% | – |
-| Valparaíso | R$ 3.640 | 25 | R$ 27,0 | 7 | 8,90% | – |
-| Velha | R$ 5.130 | 299 | R$ 23,6 | 48 | 5,52% | – |
-| Velha Central | R$ 5.405 | 155 | R$ 30,0 | 23 | 6,66% | – |
-| Victor Konder | R$ 5.366 | 8 | R$ 25,1 | 9 | 5,61% | – |
-| Vila Itoupava | R$ 3.536 | 10 | – | – | – | – |
-| Vila Nova | R$ 5.808 | 65 | R$ 31,4 | 22 | 6,49% | – |
-| Vorstadt | R$ 6.222 | 57 | R$ 21,4 | 17 | 4,13% | – |
-
-### Terrenos, cidade toda: venda R$ 840/m² (n=1452)
+### Casas, cidade toda: venda R$ 5.000/m² (n=3931); aluguel R$ 27,5/m²/mês (n=572); rendimento bruto do aluguel 6,60% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Água Verde | R$ 912 | 68 | – | – | – | – |
-| Asilo | R$ 1.100 | 7 | – | – | – | – |
-| Badenfurt | R$ 441 | 48 | – | – | – | – |
-| Boa Vista | R$ 1.021 | 10 | – | – | – | – |
-| Bom Retiro | R$ 557 | 6 | – | – | – | – |
-| Centro | R$ 1.276 | 27 | – | – | – | – |
-| Escola Agrícola | R$ 929 | 53 | – | – | – | – |
-| Fidélis | R$ 696 | 14 | – | – | – | – |
-| Fortaleza | R$ 761 | 82 | – | – | – | – |
-| Fortaleza Alta | R$ 750 | 9 | – | – | – | – |
-| Garcia | R$ 744 | 44 | – | – | – | – |
-| Itoupava Central | R$ 652 | 183 | – | – | – | – |
-| Itoupava Norte | R$ 1.359 | 126 | – | – | – | – |
-| Itoupava Seca | R$ 1.044 | 49 | – | – | – | – |
-| Itoupavazinha | R$ 647 | 43 | – | – | – | – |
-| Jardim Blumenau | R$ 877 | 5 | – | – | – | – |
-| Passo Manso | R$ 502 | 22 | – | – | – | – |
-| Ponta Aguda | R$ 998 | 120 | – | – | – | – |
-| Progresso | R$ 396 | 19 | – | – | – | – |
-| Ribeirão Fresco | R$ 363 | 19 | – | – | – | – |
-| Salto | R$ 764 | 32 | – | – | – | – |
-| Salto do Norte | R$ 704 | 62 | – | – | – | – |
-| Salto Weissbach | R$ 922 | 20 | – | – | – | – |
-| Testo Salto | R$ 331 | 18 | – | – | – | – |
-| Tribess | R$ 924 | 30 | – | – | – | – |
-| Valparaíso | R$ 538 | 11 | – | – | – | – |
-| Velha | R$ 1.068 | 174 | – | – | – | – |
-| Velha Central | R$ 948 | 46 | – | – | – | – |
-| Victor Konder | R$ 1.777 | 10 | – | – | – | – |
-| Vila Formosa | R$ 930 | 9 | – | – | – | – |
-| Vila Itoupava | R$ 427 | 28 | – | – | – | – |
-| Vila Nova | R$ 1.510 | 28 | – | – | – | – |
-| Vorstadt | R$ 1.906 | 26 | – | – | – | – |
+| Água Verde | R$ 4.830 | 313 | R$ 32,5 | 33 | 8,08% | – |
+| Asilo | R$ 6.632 | 17 | – | – | – | – |
+| Badenfurt | R$ 4.402 | 91 | R$ 21,7 | 9 | 5,91% | – |
+| Boa Vista | R$ 5.556 | 23 | – | – | – | – |
+| Bom Retiro | R$ 5.811 | 6 | R$ 25,3 | 8 | 5,22% | – |
+| Centro | R$ 5.097 | 68 | R$ 29,7 | 28 | 6,99% | – |
+| Escola Agrícola | R$ 5.238 | 312 | R$ 28,0 | 19 | 6,41% | – |
+| Fidélis | R$ 4.500 | 39 | R$ 23,8 | 5 | 6,35% | – |
+| Fortaleza | R$ 4.828 | 216 | R$ 27,3 | 20 | 6,78% | – |
+| Fortaleza Alta | R$ 5.087 | 76 | R$ 20,9 | 12 | 4,93% | – |
+| Garcia | R$ 4.558 | 163 | R$ 28,6 | 21 | 7,53% | – |
+| Glória | R$ 3.247 | 20 | – | – | – | – |
+| Itoupava Central | R$ 4.872 | 421 | R$ 25,7 | 58 | 6,33% | – |
+| Itoupava Norte | R$ 4.847 | 250 | R$ 26,7 | 27 | 6,61% | – |
+| Itoupava Seca | R$ 6.605 | 106 | R$ 30,4 | 24 | 5,52% | – |
+| Itoupavazinha | R$ 4.458 | 140 | R$ 31,7 | 12 | 8,53% | – |
+| Jardim Blumenau | R$ 6.400 | 21 | R$ 33,4 | 14 | 6,26% | – |
+| Passo Manso | R$ 4.937 | 103 | R$ 27,2 | 22 | 6,61% | – |
+| Petrópolis | R$ 5.042 | 6 | – | – | – | – |
+| Ponta Aguda | R$ 5.917 | 146 | R$ 23,4 | 44 | 4,75% | – |
+| Progresso | R$ 3.583 | 78 | R$ 23,4 | 8 | 7,84% | – |
+| Ribeirão Fresco | R$ 4.546 | 34 | – | – | – | – |
+| Salto | R$ 5.000 | 50 | R$ 29,6 | 17 | 7,10% | – |
+| Salto do Norte | R$ 4.533 | 106 | R$ 30,0 | 20 | 7,94% | – |
+| Salto Weissbach | R$ 5.199 | 54 | R$ 22,4 | 8 | 5,17% | – |
+| Testo Salto | R$ 4.884 | 72 | R$ 26,7 | 5 | 6,56% | – |
+| Tribess | R$ 4.945 | 98 | R$ 32,6 | 10 | 7,91% | – |
+| Valparaíso | R$ 3.593 | 44 | R$ 27,0 | 7 | 9,02% | – |
+| Velha | R$ 5.176 | 414 | R$ 23,8 | 49 | 5,52% | – |
+| Velha Central | R$ 5.369 | 239 | R$ 30,0 | 27 | 6,70% | – |
+| Victor Konder | R$ 5.707 | 9 | R$ 26,5 | 10 | 5,57% | – |
+| Vila Itoupava | R$ 3.669 | 12 | R$ 28,0 | 5 | 9,16% | – |
+| Vila Nova | R$ 5.806 | 99 | R$ 30,6 | 22 | 6,32% | – |
+| Vorstadt | R$ 5.719 | 76 | R$ 23,9 | 18 | 5,01% | – |
 
-### Salas comerciais, cidade toda: venda R$ 8.230/m² (n=266); aluguel R$ 40,7/m²/mês (n=873); rendimento bruto do aluguel 5,93% a.a.
+### Terrenos, cidade toda: venda R$ 833/m² (n=2246)
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Água Verde | – | – | R$ 38,8 | 23 | – | – |
-| Badenfurt | – | – | R$ 34,9 | 10 | – | – |
+| Água Verde | R$ 952 | 115 | – | – | – | – |
+| Asilo | R$ 1.088 | 12 | – | – | – | – |
+| Badenfurt | R$ 450 | 69 | – | – | – | – |
+| Boa Vista | R$ 1.022 | 13 | – | – | – | – |
+| Bom Retiro | R$ 646 | 9 | – | – | – | – |
+| Centro | R$ 1.333 | 34 | – | – | – | – |
+| Escola Agrícola | R$ 889 | 85 | – | – | – | – |
+| Fidélis | R$ 696 | 22 | – | – | – | – |
+| Fortaleza | R$ 754 | 130 | – | – | – | – |
+| Fortaleza Alta | R$ 750 | 15 | – | – | – | – |
+| Garcia | R$ 730 | 60 | – | – | – | – |
+| Itoupava Central | R$ 651 | 287 | – | – | – | – |
+| Itoupava Norte | R$ 1.385 | 191 | – | – | – | – |
+| Itoupava Seca | R$ 1.123 | 70 | – | – | – | – |
+| Itoupavazinha | R$ 638 | 72 | – | – | – | – |
+| Jardim Blumenau | R$ 1.399 | 7 | – | – | – | – |
+| Passo Manso | R$ 500 | 34 | – | – | – | – |
+| Ponta Aguda | R$ 988 | 176 | – | – | – | – |
+| Progresso | R$ 393 | 30 | – | – | – | – |
+| Ribeirão Fresco | R$ 398 | 22 | – | – | – | – |
+| Salto | R$ 712 | 45 | – | – | – | – |
+| Salto do Norte | R$ 689 | 95 | – | – | – | – |
+| Salto Weissbach | R$ 911 | 30 | – | – | – | – |
+| Testo Salto | R$ 362 | 34 | – | – | – | – |
+| Tribess | R$ 933 | 44 | – | – | – | – |
+| Valparaíso | R$ 527 | 16 | – | – | – | – |
+| Velha | R$ 1.087 | 292 | – | – | – | – |
+| Velha Central | R$ 850 | 73 | – | – | – | – |
+| Victor Konder | R$ 1.968 | 15 | – | – | – | – |
+| Vila Formosa | R$ 993 | 12 | – | – | – | – |
+| Vila Itoupava | R$ 406 | 46 | – | – | – | – |
+| Vila Nova | R$ 1.305 | 44 | – | – | – | – |
+| Vorstadt | R$ 1.903 | 39 | – | – | – | – |
+
+### Salas comerciais, cidade toda: venda R$ 8.063/m² (n=371); aluguel R$ 40,9/m²/mês (n=968); rendimento bruto do aluguel 6,09% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Água Verde | – | – | R$ 38,8 | 25 | – | – |
+| Badenfurt | – | – | R$ 36,1 | 11 | – | – |
 | Bom Retiro | – | – | R$ 40,0 | 5 | – | – |
-| Centro | R$ 7.300 | 86 | R$ 40,5 | 217 | 6,66% | – |
-| Escola Agrícola | – | – | R$ 39,5 | 12 | – | – |
-| Fortaleza | – | – | R$ 48,0 | 26 | – | – |
-| Garcia | R$ 9.210 | 50 | R$ 40,4 | 83 | 5,26% | – |
-| Itoupava Central | R$ 8.857 | 10 | R$ 44,3 | 74 | 6,00% | – |
-| Itoupava Norte | R$ 8.571 | 5 | R$ 40,0 | 57 | 5,60% | – |
-| Itoupava Seca | – | – | R$ 42,3 | 24 | – | – |
-| Itoupavazinha | – | – | R$ 69,0 | 19 | – | – |
-| Jardim Blumenau | R$ 7.921 | 23 | R$ 46,3 | 25 | 7,01% | – |
-| Ponta Aguda | R$ 5.968 | 10 | R$ 40,6 | 35 | 8,16% | – |
-| Progresso | – | – | R$ 30,0 | 5 | – | – |
-| Ribeirão Fresco | R$ 5.891 | 10 | R$ 41,2 | 12 | 8,39% | – |
-| Salto | – | – | R$ 42,7 | 9 | – | – |
-| Salto do Norte | – | – | R$ 29,3 | 12 | – | – |
-| Velha | R$ 10.556 | 17 | R$ 40,0 | 67 | 4,55% | – |
+| Centro | R$ 7.299 | 119 | R$ 40,8 | 236 | 6,71% | – |
+| Escola Agrícola | – | – | R$ 39,5 | 14 | – | – |
+| Fortaleza | – | – | R$ 49,3 | 27 | – | – |
+| Garcia | R$ 7.868 | 67 | R$ 40,4 | 90 | 6,16% | – |
+| Glória | – | – | R$ 39,0 | 6 | – | – |
+| Itoupava Central | R$ 9.344 | 18 | R$ 44,3 | 78 | 5,69% | – |
+| Itoupava Norte | R$ 8.571 | 7 | R$ 39,6 | 62 | 5,54% | – |
+| Itoupava Seca | R$ 7.447 | 5 | R$ 43,1 | 27 | 6,95% | – |
+| Itoupavazinha | – | – | R$ 68,7 | 20 | – | – |
+| Jardim Blumenau | R$ 7.992 | 30 | R$ 47,6 | 28 | 7,15% | – |
+| Ponta Aguda | R$ 5.866 | 14 | R$ 40,6 | 39 | 8,31% | – |
+| Progresso | – | – | R$ 28,6 | 6 | – | – |
+| Ribeirão Fresco | R$ 6.064 | 12 | R$ 40,4 | 14 | 8,00% | – |
+| Salto | – | – | R$ 45,8 | 11 | – | – |
+| Salto do Norte | – | – | R$ 29,3 | 14 | – | – |
+| Velha | R$ 10.315 | 31 | R$ 39,0 | 81 | 4,54% | – |
 | Velha Central | – | – | R$ 36,2 | 6 | – | – |
-| Victor Konder | R$ 6.817 | 14 | R$ 39,5 | 31 | 6,95% | – |
-| Vila Formosa | R$ 7.857 | 7 | R$ 56,2 | 13 | 8,58% | – |
-| Vila Itoupava | – | – | R$ 25,2 | 10 | – | – |
-| Vila Nova | R$ 9.835 | 20 | R$ 53,9 | 58 | 6,58% | – |
-| Vorstadt | – | – | R$ 36,1 | 21 | – | – |
+| Victor Konder | R$ 6.927 | 21 | R$ 40,0 | 38 | 6,93% | – |
+| Vila Formosa | R$ 7.857 | 9 | R$ 56,2 | 15 | 8,58% | – |
+| Vila Itoupava | – | – | R$ 25,0 | 11 | – | – |
+| Vila Nova | R$ 9.459 | 26 | R$ 50,0 | 63 | 6,34% | – |
+| Vorstadt | – | – | R$ 36,4 | 24 | – | – |
 
 
 ## Brusque (outubro/2026): https://acorridadosbairros.com.br/brusque/
@@ -9706,99 +9749,120 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 
 Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de preço, tamanho = anúncios): https://acorridadosbairros.com.br/mapa/itajai-apartamento.png · https://acorridadosbairros.com.br/mapa/itajai-casa.png
 
-### Apartamentos, cidade toda: venda R$ 11.827/m² (n=2628); aluguel R$ 57,7/m²/mês (n=672); rendimento bruto do aluguel 5,85% a.a.
+### Apartamentos, cidade toda: venda R$ 11.620/m² (n=4905); aluguel R$ 57,1/m²/mês (n=1084); rendimento bruto do aluguel 5,90% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Balneário Santa Clara | R$ 19.492 | 90 | R$ 75,5 | 25 | 4,65% | – |
-| Barra do Rio | R$ 8.316 | 14 | R$ 50,7 | 9 | 7,32% | – |
-| Cabeçudas | R$ 20.209 | 86 | R$ 76,3 | 23 | 4,53% | – |
-| Canhanduba | R$ 6.895 | 6 | – | – | – | – |
-| Carvalho | R$ 8.333 | 21 | – | – | – | – |
-| Centro | R$ 11.364 | 443 | R$ 56,2 | 83 | 5,93% | – |
-| Cidade Nova | R$ 7.122 | 28 | R$ 50,0 | 15 | 8,42% | – |
-| Cordeiros | R$ 7.584 | 105 | R$ 44,6 | 18 | 7,06% | – |
-| Costa Cavalcante | R$ 6.383 | 5 | – | – | – | – |
-| Dom Bosco | R$ 9.144 | 91 | R$ 44,7 | 20 | 5,87% | – |
-| Espinheiros | R$ 6.091 | 37 | R$ 35,6 | 27 | 7,01% | – |
-| Fazenda | R$ 14.659 | 372 | R$ 58,1 | 72 | 4,76% | – |
-| Fazendinha | R$ 12.791 | 107 | R$ 77,4 | 26 | 7,26% | – |
-| Fiuza Lima | R$ 9.863 | 14 | – | – | – | – |
-| Itaipava | R$ 6.364 | 41 | R$ 39,2 | 11 | 7,39% | – |
-| Murta | R$ 7.187 | 38 | R$ 45,5 | 12 | 7,60% | – |
-| Praia Brava | R$ 21.014 | 517 | R$ 85,8 | 147 | 4,90% | – |
-| Ressacada | R$ 9.214 | 88 | R$ 55,0 | 25 | 7,16% | – |
-| Rio do Meio | R$ 5.143 | 5 | – | – | – | – |
-| Santa Clara | R$ 19.724 | 18 | – | – | – | – |
-| Santa Regina | R$ 5.692 | 16 | R$ 47,5 | 9 | 10,01% | – |
-| São João | R$ 8.513 | 126 | R$ 50,7 | 42 | 7,15% | – |
-| São Judas | R$ 9.271 | 117 | R$ 51,4 | 30 | 6,65% | – |
-| São Vicente | R$ 7.745 | 95 | R$ 46,7 | 38 | 7,24% | – |
-| Vila Operária | R$ 10.004 | 132 | R$ 53,8 | 24 | 6,45% | – |
+| Balneário Santa Clara | R$ 19.801 | 228 | R$ 90,9 | 59 | 5,51% | – |
+| Barra do Rio | R$ 8.070 | 25 | R$ 50,0 | 12 | 7,43% | – |
+| Cabeçudas | R$ 19.134 | 193 | R$ 77,8 | 40 | 4,88% | – |
+| Canhanduba | R$ 7.122 | 11 | – | – | – | – |
+| Carvalho | R$ 8.267 | 36 | R$ 43,5 | 7 | 6,31% | – |
+| Centro | R$ 11.017 | 845 | R$ 56,3 | 150 | 6,13% | – |
+| Cidade Nova | R$ 6.385 | 65 | R$ 47,5 | 20 | 8,93% | – |
+| Cordeiros | R$ 7.366 | 193 | R$ 43,9 | 33 | 7,15% | – |
+| Costa Cavalcante | R$ 7.385 | 9 | – | – | – | – |
+| Costa Cavalcanti | R$ 7.385 | 11 | – | – | – | – |
+| Dom Bosco | R$ 9.231 | 175 | R$ 42,8 | 28 | 5,56% | – |
+| Espinheiros | R$ 6.033 | 61 | R$ 39,8 | 38 | 7,92% | – |
+| Fazenda | R$ 14.575 | 576 | R$ 58,9 | 123 | 4,85% | – |
+| Fazendinha | R$ 12.507 | 205 | R$ 71,4 | 35 | 6,85% | – |
+| Fiúza Lima | R$ 9.800 | 19 | R$ 47,8 | 6 | 5,85% | – |
+| Itaipava | R$ 6.364 | 63 | R$ 38,9 | 22 | 7,34% | – |
+| Murta | R$ 6.818 | 64 | R$ 46,6 | 16 | 8,20% | – |
+| Nossa Senhora de Guadalupe | R$ 10.833 | 7 | – | – | – | – |
+| Praia Brava | R$ 20.589 | 970 | R$ 82,7 | 227 | 4,82% | – |
+| Praia dos Amores | R$ 16.265 | 5 | – | – | – | – |
+| Quilometro 12 | R$ 6.400 | 5 | – | – | – | – |
+| Ressacada | R$ 9.717 | 184 | R$ 52,9 | 40 | 6,53% | – |
+| Rio do Meio | R$ 7.181 | 11 | – | – | – | – |
+| Santa Clara | R$ 18.846 | 29 | – | – | – | – |
+| Santa Regina | R$ 5.269 | 30 | R$ 47,5 | 11 | 10,82% | – |
+| São João | R$ 8.500 | 235 | R$ 50,0 | 59 | 7,06% | – |
+| São Judas | R$ 9.264 | 213 | R$ 52,9 | 47 | 6,85% | – |
+| São Vicente | R$ 7.303 | 172 | R$ 49,3 | 62 | 8,10% | – |
+| Vila Operária | R$ 9.581 | 243 | R$ 53,8 | 36 | 6,74% | – |
 
-### Casas, cidade toda: venda R$ 6.848/m² (n=1114); aluguel R$ 40,0/m²/mês (n=155); rendimento bruto do aluguel 7,01% a.a.
+### Casas, cidade toda: venda R$ 6.758/m² (n=2053); aluguel R$ 40,0/m²/mês (n=248); rendimento bruto do aluguel 7,10% a.a.
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Barra do Rio | R$ 5.970 | 27 | – | – | – | – |
-| Cabeçudas | R$ 13.735 | 24 | R$ 53,3 | 5 | 4,66% | – |
-| Centro | R$ 9.160 | 67 | R$ 45,3 | 22 | 5,93% | – |
-| Cidade Nova | R$ 4.458 | 52 | – | – | – | – |
-| Cordeiros | R$ 6.020 | 112 | R$ 38,8 | 11 | 7,73% | – |
-| Dom Bosco | R$ 8.000 | 83 | R$ 40,0 | 13 | 6,00% | – |
-| Espinheiros | R$ 5.000 | 68 | R$ 36,6 | 10 | 8,78% | – |
-| Fazenda | R$ 8.544 | 74 | R$ 35,3 | 10 | 4,96% | – |
-| Fazendinha | R$ 9.600 | 23 | – | – | – | – |
-| Itaipava | R$ 6.637 | 22 | – | – | – | – |
+| Barra do Rio | R$ 5.404 | 50 | – | – | – | – |
+| Cabeçudas | R$ 14.553 | 43 | R$ 58,8 | 8 | 4,85% | – |
+| Carvalho | R$ 5.192 | 6 | – | – | – | – |
+| Centro | R$ 8.246 | 129 | R$ 50,0 | 35 | 7,28% | – |
+| Cidade Nova | R$ 5.434 | 84 | – | – | – | – |
+| Cordeiros | R$ 5.791 | 198 | R$ 35,9 | 18 | 7,44% | – |
+| Costa Cavalcanti | R$ 9.254 | 5 | – | – | – | – |
+| Dom Bosco | R$ 7.836 | 163 | R$ 33,0 | 23 | 5,05% | – |
+| Espinheiros | R$ 5.000 | 125 | R$ 38,3 | 16 | 9,19% | – |
+| Fazenda | R$ 8.100 | 139 | R$ 38,3 | 21 | 5,67% | – |
+| Fazendinha | R$ 8.908 | 44 | – | – | – | – |
+| Itaipava | R$ 6.667 | 44 | – | – | – | – |
 | Limoeiro | R$ 4.560 | 10 | – | – | – | – |
-| Murta | R$ 5.105 | 39 | – | – | – | – |
-| Praia Brava | R$ 17.755 | 25 | R$ 88,4 | 5 | 5,97% | – |
-| Ressacada | R$ 8.721 | 50 | – | – | – | – |
-| Rio do Meio | R$ 7.639 | 17 | – | – | – | – |
-| Santa Regina | R$ 5.882 | 57 | – | – | – | – |
-| São João | R$ 7.500 | 107 | R$ 38,7 | 16 | 6,19% | – |
-| São Judas | R$ 7.520 | 62 | R$ 52,3 | 12 | 8,35% | – |
-| São Vicente | R$ 5.372 | 141 | R$ 39,2 | 13 | 8,76% | – |
-| Vila Operária | R$ 7.464 | 18 | – | – | – | – |
+| Murta | R$ 5.176 | 78 | R$ 32,4 | 6 | 7,51% | – |
+| Paciência | R$ 3.535 | 7 | – | – | – | – |
+| Portal 2 | R$ 4.808 | 6 | – | – | – | – |
+| Praia Brava | R$ 17.662 | 40 | R$ 102,9 | 7 | 6,99% | – |
+| Quilometro 12 | R$ 11.160 | 7 | – | – | – | – |
+| Ressacada | R$ 8.952 | 104 | R$ 38,3 | 6 | 5,13% | – |
+| Rio do Meio | R$ 6.962 | 32 | – | – | – | – |
+| Santa Regina | R$ 5.790 | 95 | R$ 29,2 | 7 | 6,05% | – |
+| São João | R$ 7.174 | 195 | R$ 38,0 | 22 | 6,36% | – |
+| São Judas | R$ 7.194 | 126 | R$ 53,1 | 19 | 8,86% | – |
+| São Vicente | R$ 5.417 | 251 | R$ 39,6 | 24 | 8,77% | – |
+| Vila Operária | R$ 8.000 | 35 | – | – | – | – |
 
-### Terrenos, cidade toda: venda R$ 1.838/m² (n=347)
-
-| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
-|---|---|---|---|---|---|---|
-| Barra do Rio | R$ 2.083 | 5 | – | – | – | – |
-| Cabeçudas | R$ 3.288 | 9 | – | – | – | – |
-| Centro | R$ 3.353 | 14 | – | – | – | – |
-| Cidade Nova | R$ 2.071 | 9 | – | – | – | – |
-| Cordeiros | R$ 1.920 | 18 | – | – | – | – |
-| Dom Bosco | R$ 2.564 | 7 | – | – | – | – |
-| Espinheiros | R$ 1.458 | 33 | – | – | – | – |
-| Fazenda | R$ 2.264 | 16 | – | – | – | – |
-| Fazendinha | R$ 2.570 | 11 | – | – | – | – |
-| Itaipava | R$ 1.332 | 29 | – | – | – | – |
-| Limoeiro | R$ 806 | 10 | – | – | – | – |
-| Praia Brava | R$ 4.157 | 6 | – | – | – | – |
-| Quilometro 12 | R$ 1.750 | 5 | – | – | – | – |
-| Ressacada | R$ 1.956 | 10 | – | – | – | – |
-| Rio do Meio | R$ 1.691 | 54 | – | – | – | – |
-| Salseiros | R$ 1.617 | 8 | – | – | – | – |
-| Santa Regina | R$ 1.260 | 7 | – | – | – | – |
-| São João | R$ 2.696 | 18 | – | – | – | – |
-| São Judas | R$ 2.105 | 8 | – | – | – | – |
-| São Vicente | R$ 2.329 | 24 | – | – | – | – |
-
-### Salas comerciais, cidade toda: venda R$ 12.076/m² (n=57); aluguel R$ 70,0/m²/mês (n=155); rendimento bruto do aluguel 6,96% a.a.
+### Terrenos, cidade toda: venda R$ 1.847/m² (n=717)
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Centro | R$ 12.475 | 41 | R$ 81,8 | 59 | 7,87% | – |
-| Cordeiros | – | – | R$ 55,0 | 9 | – | – |
-| Fazenda | R$ 7.954 | 5 | R$ 88,0 | 5 | 13,28% | – |
-| Fazendinha | – | – | R$ 120,0 | 15 | – | – |
-| Praia Brava | – | – | R$ 166,7 | 5 | – | – |
-| São João | – | – | R$ 57,2 | 14 | – | – |
-| São Judas | – | – | R$ 70,0 | 8 | – | – |
-| São Vicente | – | – | R$ 50,0 | 11 | – | – |
-| Vila Operária | – | – | R$ 46,2 | 5 | – | – |
+| Baia | R$ 792 | 6 | – | – | – | – |
+| Balneário Santa Clara | R$ 3.606 | 6 | – | – | – | – |
+| Barra do Rio | R$ 2.172 | 8 | – | – | – | – |
+| Brilhante I | R$ 832 | 5 | – | – | – | – |
+| Brilhante II | R$ 320 | 5 | – | – | – | – |
+| Cabeçudas | R$ 2.988 | 16 | – | – | – | – |
+| Canhanduba | R$ 1.700 | 5 | – | – | – | – |
+| Carvalho | R$ 1.993 | 9 | – | – | – | – |
+| Centro | R$ 3.498 | 27 | – | – | – | – |
+| Cidade Nova | R$ 1.940 | 30 | – | – | – | – |
+| Cordeiros | R$ 1.875 | 32 | – | – | – | – |
+| Dom Bosco | R$ 2.564 | 17 | – | – | – | – |
+| Espinheiros | R$ 1.375 | 71 | – | – | – | – |
+| Fazenda | R$ 2.862 | 33 | – | – | – | – |
+| Fazendinha | R$ 2.462 | 21 | – | – | – | – |
+| Itaipava | R$ 1.178 | 58 | – | – | – | – |
+| Limoeiro | R$ 711 | 14 | – | – | – | – |
+| Murta | R$ 1.485 | 9 | – | – | – | – |
+| Paciência | R$ 500 | 8 | – | – | – | – |
+| Praia Brava | R$ 3.606 | 14 | – | – | – | – |
+| Quilometro 12 | R$ 1.583 | 7 | – | – | – | – |
+| Ressacada | R$ 2.000 | 19 | – | – | – | – |
+| Rio do Meio | R$ 1.750 | 105 | – | – | – | – |
+| Salseiros | R$ 1.652 | 21 | – | – | – | – |
+| Santa Regina | R$ 1.380 | 13 | – | – | – | – |
+| São João | R$ 2.667 | 45 | – | – | – | – |
+| São Judas | R$ 2.778 | 19 | – | – | – | – |
+| São Vicente | R$ 2.403 | 53 | – | – | – | – |
+| Vila Operária | R$ 3.286 | 11 | – | – | – | – |
+
+### Salas comerciais, cidade toda: venda R$ 11.724/m² (n=108); aluguel R$ 65,5/m²/mês (n=342); rendimento bruto do aluguel 6,70% a.a.
+
+| Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
+|---|---|---|---|---|---|---|
+| Balneário Santa Clara | – | – | R$ 111,2 | 6 | – | – |
+| Centro | R$ 11.743 | 81 | R$ 76,9 | 135 | 7,86% | – |
+| Cordeiros | – | – | R$ 56,3 | 30 | – | – |
+| Dom Bosco | – | – | R$ 57,4 | 11 | – | – |
+| Fazenda | R$ 9.463 | 11 | R$ 79,1 | 12 | 10,03% | – |
+| Fazendinha | – | – | R$ 120,0 | 17 | – | – |
+| Praia Brava | R$ 33.333 | 5 | R$ 150,0 | 13 | 5,40% | – |
+| Sala Comercial Para Locação | – | – | R$ 55,0 | 5 | – | – |
+| São João | – | – | R$ 58,8 | 25 | – | – |
+| São Judas | – | – | R$ 68,1 | 21 | – | – |
+| São Vicente | – | – | R$ 47,1 | 27 | – | – |
+| Vila Operária | – | – | R$ 49,2 | 13 | – | – |
 
 
 ## Itapema (outubro/2026): https://acorridadosbairros.com.br/itapema/
@@ -10372,11 +10436,11 @@ Mapa do preço de venda por bairro (cada bolha é um bairro; cor = faixa de pre�
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
 
-### Casas, cidade toda: venda R$ 3.810/m² (n=62)
+### Casas, cidade toda: venda R$ 3.913/m² (n=65)
 
 | Bairro | Venda R$/m² (mediana) | Anúncios | Aluguel R$/m²/mês | Anúncios | Rendimento bruto a.a. | Condomínio típico/mês |
 |---|---|---|---|---|---|---|
-| Centro | R$ 3.871 | 33 | – | – | – | – |
+| Centro | R$ 3.913 | 35 | – | – | – | – |
 | Patrimônio | R$ 2.636 | 7 | – | – | – | – |
 
 ### Terrenos, cidade toda: venda R$ 299/m² (n=79)
