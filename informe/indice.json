@@ -2,52 +2,16 @@
  "mes": "outubro/2026",
  "arquivos": [
   [
-   "blumenau",
-   "Blumenau",
-   "informe/2026-10/corrida-dos-bairros-blumenau-2026-10.pdf",
-   375374
+   "joinville",
+   "Joinville",
+   "informe/2026-10/corrida-dos-bairros-joinville-2026-10.pdf",
+   413219
   ],
   [
-   "florianopolis",
-   "Florianópolis",
-   "informe/2026-10/corrida-dos-bairros-florianopolis-2026-10.pdf",
-   495392
-  ],
-  [
-   "itajai",
-   "Itajaí",
-   "informe/2026-10/corrida-dos-bairros-itajai-2026-10.pdf",
-   339488
-  ],
-  [
-   "salvador",
-   "Salvador",
-   "informe/2026-10/corrida-dos-bairros-salvador-2026-10.pdf",
-   703385
-  ],
-  [
-   "recife",
-   "Recife",
-   "informe/2026-10/corrida-dos-bairros-recife-2026-10.pdf",
-   428596
-  ],
-  [
-   "curitiba",
-   "Curitiba",
-   "informe/2026-10/corrida-dos-bairros-curitiba-2026-10.pdf",
-   648328
-  ],
-  [
-   "rio-de-janeiro",
-   "Rio de Janeiro",
-   "informe/2026-10/corrida-dos-bairros-rio-de-janeiro-2026-10.pdf",
-   875910
-  ],
-  [
-   "porto-alegre",
-   "Porto Alegre",
-   "informe/2026-10/corrida-dos-bairros-porto-alegre-2026-10.pdf",
-   730899
+   "santos",
+   "Santos",
+   "informe/2026-10/corrida-dos-bairros-santos-2026-10.pdf",
+   345201
   ]
  ]
 }
