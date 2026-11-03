@@ -1,0 +1,14 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Ipojuca,Centro,apartamento,venda,15899.4,14488.5,18761.9,15,,novembro/2026
+Ipojuca,Cupe,apartamento,venda,9655.2,8305.1,12159.1,7,,novembro/2026
+Ipojuca,Muro Alto,apartamento,venda,14674.4,9461.1,17392.1,82,7.25,novembro/2026
+Ipojuca,Muro Alto,apartamento,aluguel,88.6,72.9,111.1,22,7.25,novembro/2026
+Ipojuca,Nossa Senhora do Ó,apartamento,venda,14323.0,14285.7,20175.4,5,,novembro/2026
+Ipojuca,Porto de Galinhas,apartamento,venda,13774.2,10890.9,18481.5,149,8.4,novembro/2026
+Ipojuca,Porto de Galinhas,apartamento,aluguel,96.4,64.3,107.1,17,8.4,novembro/2026
+Ipojuca,Praia Muro Alto,apartamento,venda,9428.6,8250.0,13591.6,17,,novembro/2026
+Ipojuca,Enseada de Serrambi,casa,venda,9900.0,7650.0,11163.9,6,,novembro/2026
+Ipojuca,Muro Alto,casa,venda,18000.0,15941.0,23618.1,23,0.68,novembro/2026
+Ipojuca,Muro Alto,casa,aluguel,10.2,6.6,12.3,8,0.68,novembro/2026
+Ipojuca,Porto de Galinhas,casa,venda,7202.3,5250.0,9698.3,28,,novembro/2026
+Ipojuca,Serrambi,casa,venda,9714.3,9054.1,11299.4,8,,novembro/2026

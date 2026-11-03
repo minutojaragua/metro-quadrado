@@ -1,623 +1,781 @@
 cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
-Campinas,Alphaville,apartamento,venda,10219.0,8727.4,12339.1,15,5.65,outubro/2026
-Campinas,Alphaville,apartamento,aluguel,48.1,46.0,54.1,10,5.65,outubro/2026
-Campinas,Bairro das Palmeiras,apartamento,venda,12307.0,10303.0,15108.7,13,,outubro/2026
-Campinas,Barão Geraldo,apartamento,venda,11317.1,9670.9,12849.6,6,5.96,outubro/2026
-Campinas,Barão Geraldo,apartamento,aluguel,56.2,43.3,63.3,9,5.96,outubro/2026
-Campinas,Bonfim,apartamento,venda,7611.9,5666.7,10000.0,77,7.46,outubro/2026
-Campinas,Bonfim,apartamento,aluguel,47.3,41.6,59.1,33,7.46,outubro/2026
-Campinas,Bosque,apartamento,venda,5572.5,4618.7,7221.4,123,12.99,outubro/2026
-Campinas,Bosque,apartamento,aluguel,60.3,30.0,75.7,39,12.99,outubro/2026
-Campinas,Botafogo,apartamento,venda,5560.8,4337.0,8601.2,106,9.93,outubro/2026
-Campinas,Botafogo,apartamento,aluguel,46.0,32.1,69.7,40,9.93,outubro/2026
-Campinas,Cambuí,apartamento,venda,10203.5,7290.3,14590.3,647,6.83,outubro/2026
-Campinas,Cambuí,apartamento,aluguel,58.1,38.4,86.6,362,6.83,outubro/2026
-Campinas,Campo Grande,apartamento,venda,5749.9,4373.4,6773.5,6,,outubro/2026
-Campinas,Centro,apartamento,venda,4824.1,3725.3,6552.7,348,9.3,outubro/2026
-Campinas,Centro,apartamento,aluguel,37.4,26.1,63.4,134,9.3,outubro/2026
-Campinas,Chácara Cneo,apartamento,venda,8611.1,5185.2,9222.2,5,,outubro/2026
-Campinas,Chácara da Barra,apartamento,venda,10000.0,5506.0,13170.3,44,5.77,outubro/2026
-Campinas,Chácara da Barra,apartamento,aluguel,48.1,34.3,50.8,6,5.77,outubro/2026
-Campinas,Chácara Primavera,apartamento,venda,8666.7,7714.3,11171.1,9,7.28,outubro/2026
-Campinas,Chácara Primavera,apartamento,aluguel,52.6,47.3,56.5,9,7.28,outubro/2026
-Campinas,Cidade Jardim,apartamento,venda,6064.1,3769.7,7109.0,6,,outubro/2026
-Campinas,Cidade Satélite Íris,apartamento,venda,5104.2,4399.5,7190.5,16,9.22,outubro/2026
-Campinas,Cidade Satélite Íris,apartamento,aluguel,39.2,32.8,44.2,12,9.22,outubro/2026
-Campinas,Cidade Universitária,apartamento,aluguel,68.0,59.5,89.1,11,,outubro/2026
-Campinas,Conjunto Habitacional Parque da Floresta,apartamento,venda,6000.0,5772.7,6282.1,5,,outubro/2026
-Campinas,Conjunto Habitacional Parque Itajaí,apartamento,venda,2879.3,2732.5,3110.6,8,,outubro/2026
-Campinas,Conjunto Residencial Parque Bandeirantes,apartamento,venda,4104.3,3882.9,4250.0,8,,outubro/2026
-Campinas,Conjunto Residencial Souza Queiroz,apartamento,venda,3293.1,3137.3,3466.7,13,,outubro/2026
-Campinas,Country Ville,apartamento,venda,3384.6,3209.0,3734.4,9,,outubro/2026
-Campinas,Dic II (Conj Habitacional Doutor Antônio Mendonça de Barros),apartamento,venda,3295.7,3065.0,3495.7,11,,outubro/2026
-Campinas,Dic IV (Conjunto Habitacional Lech Walesa),apartamento,venda,3199.7,3021.3,3293.2,10,,outubro/2026
-Campinas,Dic VI (Conjunto Habitacional Santo Dias Silva),apartamento,venda,3245.7,3180.5,3304.8,10,,outubro/2026
-Campinas,Fazenda Santa Cândida,apartamento,venda,11525.1,9056.6,11727.9,5,,outubro/2026
-Campinas,Fazenda São Quirino,apartamento,venda,16066.7,13363.2,17426.7,18,5.8,outubro/2026
-Campinas,Fazenda São Quirino,apartamento,aluguel,77.6,73.0,92.5,12,5.8,outubro/2026
-Campinas,Fundação da Casa Popular,apartamento,venda,7663.3,6772.3,7983.5,14,8.86,outubro/2026
-Campinas,Fundação da Casa Popular,apartamento,aluguel,56.6,51.7,64.1,8,8.86,outubro/2026
-Campinas,Galleria,apartamento,venda,16180.7,13017.7,17351.3,16,,outubro/2026
-Campinas,Guanabara,apartamento,venda,11368.4,10804.1,13551.4,7,,outubro/2026
-Campinas,Jardim Alto da Barra,apartamento,venda,12484.0,10465.1,14516.0,13,,outubro/2026
-Campinas,Jardim Amazonas,apartamento,venda,4836.4,4074.1,5849.1,13,,outubro/2026
-Campinas,Jardim Amoreiras,apartamento,venda,3649.1,3499.1,6222.5,7,,outubro/2026
-Campinas,Jardim Anchieta,apartamento,venda,3764.9,3286.0,4372.9,18,,outubro/2026
-Campinas,Jardim Andorinhas,apartamento,venda,4139.8,3645.8,4401.2,30,,outubro/2026
-Campinas,Jardim Antonio Von Zuben,apartamento,venda,5595.2,5192.3,6250.0,25,,outubro/2026
-Campinas,Jardim Aparecida,apartamento,venda,6532.3,6376.7,6670.3,15,,outubro/2026
-Campinas,Jardim Aurélia,apartamento,venda,8793.3,7795.8,10220.6,26,6.81,outubro/2026
-Campinas,Jardim Aurélia,apartamento,aluguel,49.9,45.0,57.6,10,6.81,outubro/2026
-Campinas,Jardim Bela Vista,apartamento,venda,5177.1,4041.7,8328.8,6,,outubro/2026
-Campinas,Jardim Belo Horizonte,apartamento,venda,13734.9,12022.7,15786.1,63,5.4,outubro/2026
-Campinas,Jardim Belo Horizonte,apartamento,aluguel,61.8,60.1,64.8,8,5.4,outubro/2026
-Campinas,Jardim Bom Sucesso,apartamento,venda,5510.2,5214.2,6367.5,35,,outubro/2026
-Campinas,Jardim Bonfim,apartamento,venda,8345.5,5782.6,10000.0,13,,outubro/2026
-Campinas,Jardim Brasil,apartamento,venda,12040.8,9444.4,14125.0,29,6.43,outubro/2026
-Campinas,Jardim Brasil,apartamento,aluguel,64.5,59.2,69.3,11,6.43,outubro/2026
-Campinas,Jardim Campos Elíseos,apartamento,venda,4102.2,3638.3,6546.6,30,14.6,outubro/2026
-Campinas,Jardim Campos Elíseos,apartamento,aluguel,49.9,24.7,55.4,12,14.6,outubro/2026
-Campinas,Jardim Capivari,apartamento,venda,3506.1,3090.4,5047.7,8,,outubro/2026
-Campinas,Jardim Centenário,apartamento,venda,6111.1,5333.3,6190.5,5,,outubro/2026
-Campinas,Jardim Chapadão,apartamento,venda,5570.0,4548.7,8773.8,64,7.63,outubro/2026
-Campinas,Jardim Chapadão,apartamento,aluguel,35.4,28.0,48.0,8,7.63,outubro/2026
-Campinas,Jardim Conceição,apartamento,venda,8201.4,7706.7,9100.7,6,,outubro/2026
-Campinas,Jardim das Bandeiras,apartamento,venda,4112.9,3484.8,4814.8,53,,outubro/2026
-Campinas,Jardim das Cerejeiras,apartamento,venda,8571.4,7529.0,9159.3,43,,outubro/2026
-Campinas,Jardim das Paineiras,apartamento,venda,9227.1,7255.4,14576.9,50,,outubro/2026
-Campinas,Jardim do Lago,apartamento,venda,5853.7,4935.1,6800.0,25,,outubro/2026
-Campinas,Jardim do Lago Continuação,apartamento,venda,5061.4,4474.5,5570.4,24,6.95,outubro/2026
-Campinas,Jardim do Lago Continuação,apartamento,aluguel,29.3,27.1,34.0,5,6.95,outubro/2026
-Campinas,Jardim do Lago II,apartamento,venda,5454.3,4977.3,5833.3,5,,outubro/2026
-Campinas,Jardim do Trevo,apartamento,venda,4321.0,3533.9,5000.8,15,,outubro/2026
-Campinas,Jardim do Vovô,apartamento,venda,4147.4,3679.8,4305.7,28,,outubro/2026
-Campinas,Jardim Dom Bosco,apartamento,venda,11666.7,8986.2,12428.6,5,,outubro/2026
-Campinas,Jardim Dom Vieira,apartamento,venda,5906.7,5195.9,6146.8,14,8.37,outubro/2026
-Campinas,Jardim Dom Vieira,apartamento,aluguel,41.2,30.8,52.2,5,8.37,outubro/2026
-Campinas,Jardim dos Oliveiras,apartamento,venda,4857.1,4240.4,6099.7,27,,outubro/2026
-Campinas,Jardim Esmeraldina,apartamento,venda,5111.1,5000.0,5392.2,5,,outubro/2026
-Campinas,Jardim Flamboyant,apartamento,venda,5882.4,5022.8,8079.0,39,8.2,outubro/2026
-Campinas,Jardim Flamboyant,apartamento,aluguel,40.2,35.8,49.5,6,8.2,outubro/2026
-Campinas,Jardim García,apartamento,venda,4330.4,3877.0,6744.2,16,,outubro/2026
-Campinas,Jardim Guanabara,apartamento,venda,11702.6,7870.2,13023.8,52,6.92,outubro/2026
-Campinas,Jardim Guanabara,apartamento,aluguel,67.5,55.2,87.1,26,6.92,outubro/2026
-Campinas,Jardim Guarani,apartamento,venda,7386.4,6463.4,11036.6,9,,outubro/2026
-Campinas,Jardim Ibirapuera,apartamento,venda,8484.8,6937.8,9694.4,34,8.25,outubro/2026
-Campinas,Jardim Ibirapuera,apartamento,aluguel,58.3,49.7,69.4,15,8.25,outubro/2026
-Campinas,Jardim Ipaussurama,apartamento,venda,6178.6,5409.6,7556.8,18,8.39,outubro/2026
-Campinas,Jardim Ipaussurama,apartamento,aluguel,43.2,39.6,47.5,12,8.39,outubro/2026
-Campinas,Jardim Ipiranga,apartamento,venda,3587.2,3343.4,3953.5,26,,outubro/2026
-Campinas,Jardim Itamarati,apartamento,venda,16896.6,14998.3,19687.5,5,,outubro/2026
-Campinas,Jardim Madalena,apartamento,venda,14208.3,12338.4,16157.2,18,6.6,outubro/2026
-Campinas,Jardim Madalena,apartamento,aluguel,78.1,54.7,100.0,8,6.6,outubro/2026
-Campinas,Jardim Márcia,apartamento,venda,4568.2,4149.6,4944.4,7,,outubro/2026
-Campinas,Jardim Margarida,apartamento,venda,6842.1,6589.2,8120.0,5,,outubro/2026
-Campinas,Jardim Mercedes,apartamento,venda,6145.8,5924.5,6209.1,7,,outubro/2026
-Campinas,Jardim Miranda,apartamento,venda,4877.3,4596.6,5541.7,14,,outubro/2026
-Campinas,Jardim Mirassol,apartamento,venda,4193.7,3884.6,4543.8,14,,outubro/2026
-Campinas,Jardim Monte Alto,apartamento,venda,4715.4,4310.8,4982.4,20,,outubro/2026
-Campinas,Jardim Myrian Moreira da Costa,apartamento,venda,7142.9,6354.5,7912.3,19,,outubro/2026
-Campinas,Jardim Nossa Senhora Auxiliadora,apartamento,venda,8544.1,6228.6,11262.7,31,,outubro/2026
-Campinas,Jardim Nova Europa,apartamento,venda,6327.0,5207.7,8000.0,74,9.48,outubro/2026
-Campinas,Jardim Nova Europa,apartamento,aluguel,50.0,38.5,57.1,25,9.48,outubro/2026
-Campinas,Jardim Nova Mercedes,apartamento,venda,3454.4,3359.7,4072.9,8,,outubro/2026
-Campinas,Jardim Novo Campos Elíseos,apartamento,venda,3995.0,3355.3,4867.7,8,,outubro/2026
-Campinas,Jardim Novo Maracanã,apartamento,venda,4423.1,3970.4,4887.8,27,,outubro/2026
-Campinas,Jardim Paraíso,apartamento,venda,5522.9,4807.7,6315.8,49,8.95,outubro/2026
-Campinas,Jardim Paraíso,apartamento,aluguel,41.2,33.4,48.2,7,8.95,outubro/2026
-Campinas,Jardim Paranapanema,apartamento,venda,6525.4,5820.5,7994.8,34,,outubro/2026
-Campinas,Jardim Paulicéia,apartamento,venda,4140.6,3753.3,4520.8,23,6.64,outubro/2026
-Campinas,Jardim Paulicéia,apartamento,aluguel,22.9,21.9,27.0,7,6.64,outubro/2026
-Campinas,Jardim Proença,apartamento,venda,6000.0,5523.0,8260.9,50,8.02,outubro/2026
-Campinas,Jardim Proença,apartamento,aluguel,40.1,32.8,54.2,8,8.02,outubro/2026
-Campinas,Jardim Quarto Centenário,apartamento,venda,4367.7,3854.7,4784.1,14,,outubro/2026
-Campinas,Jardim Roseira,apartamento,venda,6525.8,6024.2,6693.5,8,,outubro/2026
-Campinas,Jardim Rossin,apartamento,venda,4906.9,4703.0,5199.8,6,,outubro/2026
-Campinas,Jardim Samambaia,apartamento,venda,5450.0,5289.4,5876.0,7,,outubro/2026
-Campinas,Jardim Santa Eudóxia,apartamento,venda,5033.3,4585.1,5323.3,12,,outubro/2026
-Campinas,Jardim Santa Lúcia,apartamento,venda,4068.6,3424.8,5273.6,10,,outubro/2026
-Campinas,Jardim São João,apartamento,venda,3273.5,2966.1,3951.2,6,,outubro/2026
-Campinas,Jardim São José,apartamento,venda,4777.8,4166.7,5116.3,41,,outubro/2026
-Campinas,Jardim São Vicente,apartamento,venda,5182.5,4605.1,8984.9,12,10.81,outubro/2026
-Campinas,Jardim São Vicente,apartamento,aluguel,46.7,43.5,49.4,5,10.81,outubro/2026
-Campinas,Loteamento Chácara Prado,apartamento,aluguel,52.9,47.1,55.2,6,,outubro/2026
-Campinas,Loteamento Parque das Águas,apartamento,aluguel,40.4,40.0,56.5,5,,outubro/2026
-Campinas,Loteamento Parque São Martinho,apartamento,venda,5681.8,5050.1,6824.6,31,8.09,outubro/2026
-Campinas,Loteamento Parque São Martinho,apartamento,aluguel,38.3,34.2,41.5,9,8.09,outubro/2026
-Campinas,Loteamento Residencial Entre Verdes (Sousas),apartamento,venda,1276.6,1236.4,1500.0,5,,outubro/2026
-Campinas,Loteamento Residencial Parque dos Cantos,apartamento,venda,5243.9,4895.8,5536.6,9,,outubro/2026
-Campinas,Loteamento Residencial Vila Bella,apartamento,venda,9189.7,8620.7,10918.9,14,6.37,outubro/2026
-Campinas,Loteamento Residencial Vila Bella,apartamento,aluguel,48.8,44.8,51.5,5,6.37,outubro/2026
-Campinas,Loteamento Residencial Vila Bella Dom Pedro,apartamento,venda,13000.0,11602.2,14364.6,9,,outubro/2026
-Campinas,Mansões Santo Antônio,apartamento,venda,9823.1,7943.8,11471.9,131,6.46,outubro/2026
-Campinas,Mansões Santo Antônio,apartamento,aluguel,52.9,42.4,62.1,75,6.46,outubro/2026
-Campinas,Notre Dame,apartamento,venda,9124.1,8209.0,9782.6,9,8.18,outubro/2026
-Campinas,Notre Dame,apartamento,aluguel,62.2,55.6,68.2,5,8.18,outubro/2026
-Campinas,Nova Campinas,apartamento,venda,14737.5,10824.7,17166.0,124,8.22,outubro/2026
-Campinas,Nova Campinas,apartamento,aluguel,100.9,85.0,116.7,42,8.22,outubro/2026
-Campinas,Parque Brasília,apartamento,venda,8172.8,7069.4,8790.1,8,4.14,outubro/2026
-Campinas,Parque Brasília,apartamento,aluguel,28.2,27.7,29.5,7,4.14,outubro/2026
-Campinas,Parque Camélias,apartamento,venda,4830.5,4355.0,5042.3,7,,outubro/2026
-Campinas,Parque da Hípica,apartamento,venda,10014.1,8509.1,11432.8,22,,outubro/2026
-Campinas,Parque das Cachoeiras,apartamento,venda,6003.0,5325.5,6461.7,12,,outubro/2026
-Campinas,Parque das Constelações,apartamento,venda,4777.8,4444.4,5000.0,5,,outubro/2026
-Campinas,Parque das Flores,apartamento,venda,12400.0,12019.2,12820.5,5,5.82,outubro/2026
-Campinas,Parque das Flores,apartamento,aluguel,60.1,58.7,60.3,5,5.82,outubro/2026
-Campinas,Parque Dom Pedro II,apartamento,venda,4957.6,3683.5,5484.7,10,,outubro/2026
-Campinas,Parque Fazendinha,apartamento,venda,5495.1,5051.4,5875.4,44,7.01,outubro/2026
-Campinas,Parque Fazendinha,apartamento,aluguel,32.1,30.0,34.4,8,7.01,outubro/2026
-Campinas,Parque Industrial,apartamento,venda,7910.9,6615.8,9624.8,51,7.58,outubro/2026
-Campinas,Parque Industrial,apartamento,aluguel,50.0,44.4,61.6,35,7.58,outubro/2026
-Campinas,Parque Itália,apartamento,venda,6327.0,5703.6,9685.1,54,7.32,outubro/2026
-Campinas,Parque Itália,apartamento,aluguel,38.6,31.6,46.7,9,7.32,outubro/2026
-Campinas,Parque Maria Helena,apartamento,venda,4735.8,4607.5,4972.2,10,,outubro/2026
-Campinas,Parque Nova,apartamento,venda,10810.8,9024.1,14457.8,9,,outubro/2026
-Campinas,Parque Prado,apartamento,venda,10087.6,7841.7,11182.5,80,6.02,outubro/2026
-Campinas,Parque Prado,apartamento,aluguel,50.6,42.0,56.2,29,6.02,outubro/2026
-Campinas,Parque Residencial Vila União,apartamento,venda,3653.8,3185.3,4000.0,11,8.64,outubro/2026
-Campinas,Parque Residencial Vila União,apartamento,aluguel,26.3,22.8,32.7,5,8.64,outubro/2026
-Campinas,Parque Rural Fazenda Santa Cândida,apartamento,venda,11503.8,10530.4,13020.5,20,7.53,outubro/2026
-Campinas,Parque Rural Fazenda Santa Cândida,apartamento,aluguel,72.2,64.3,81.0,18,7.53,outubro/2026
-Campinas,Parque São Jorge,apartamento,venda,4800.0,3841.9,5203.2,10,,outubro/2026
-Campinas,Parque Taquaral,apartamento,venda,15217.4,7272.6,15753.4,5,5.03,outubro/2026
-Campinas,Parque Taquaral,apartamento,aluguel,63.8,56.1,66.7,5,5.03,outubro/2026
-Campinas,Parque Valença I,apartamento,venda,4363.6,3800.0,4660.0,9,,outubro/2026
-Campinas,Ponte Preta,apartamento,venda,6000.0,4578.8,9469.7,61,10.52,outubro/2026
-Campinas,Ponte Preta,apartamento,aluguel,52.6,37.0,59.1,19,10.52,outubro/2026
-Campinas,Recanto do Sol I,apartamento,venda,4373.1,3844.1,5746.3,11,,outubro/2026
-Campinas,Residencial Cosmos,apartamento,venda,4000.0,3672.6,4652.8,15,8.88,outubro/2026
-Campinas,Residencial Cosmos,apartamento,aluguel,29.6,27.0,32.1,6,8.88,outubro/2026
-Campinas,Residencial Moradas do Valle,apartamento,venda,4601.0,2796.2,4932.5,6,,outubro/2026
-Campinas,Residencial Parque da Fazenda,apartamento,venda,7441.9,6323.5,8806.0,45,8.63,outubro/2026
-Campinas,Residencial Parque da Fazenda,apartamento,aluguel,53.5,45.6,59.9,20,8.63,outubro/2026
-Campinas,Residencial Sírius,apartamento,venda,3571.4,2978.7,5150.0,29,,outubro/2026
-Campinas,Residencial Vila Park,apartamento,venda,4355.8,3893.7,4763.1,26,,outubro/2026
-Campinas,São Bernardo,apartamento,venda,5482.1,4433.0,7849.5,85,7.14,outubro/2026
-Campinas,São Bernardo,apartamento,aluguel,32.6,29.4,43.9,11,7.14,outubro/2026
-Campinas,Swift,apartamento,venda,8522.2,6218.7,9313.5,26,6.79,outubro/2026
-Campinas,Swift,apartamento,aluguel,48.2,42.7,53.4,28,6.79,outubro/2026
-Campinas,Swiss Park,apartamento,venda,12500.6,11063.3,14277.6,48,7.38,outubro/2026
-Campinas,Swiss Park,apartamento,aluguel,76.9,68.0,86.4,29,7.38,outubro/2026
-Campinas,Taquaral,apartamento,venda,10831.5,7951.7,13656.8,131,6.76,outubro/2026
-Campinas,Taquaral,apartamento,aluguel,61.0,45.3,74.4,70,6.76,outubro/2026
-Campinas,Vila Abaeté,apartamento,venda,4247.2,3617.0,4725.1,5,,outubro/2026
-Campinas,Vila Anhangüera,apartamento,venda,6653.8,6142.9,8023.3,9,,outubro/2026
-Campinas,Vila Aurocan,apartamento,venda,7785.7,6712.3,8382.4,5,,outubro/2026
-Campinas,Vila Brandina,apartamento,venda,10113.1,8809.2,12715.5,64,7.36,outubro/2026
-Campinas,Vila Brandina,apartamento,aluguel,62.0,44.2,71.9,24,7.36,outubro/2026
-Campinas,Vila Carminha,apartamento,venda,5434.8,4487.5,5676.3,7,,outubro/2026
-Campinas,Vila Industrial,apartamento,venda,5420.0,4396.8,7224.7,112,9.72,outubro/2026
-Campinas,Vila Industrial,apartamento,aluguel,43.9,28.5,49.8,26,9.72,outubro/2026
-Campinas,Vila Ipê,apartamento,venda,6873.4,5228.1,7247.8,8,,outubro/2026
-Campinas,Vila Itapura,apartamento,venda,7093.1,5360.5,12095.8,82,10.74,outubro/2026
-Campinas,Vila Itapura,apartamento,aluguel,63.5,43.2,76.0,39,10.74,outubro/2026
-Campinas,Vila Jequitibás,apartamento,venda,4918.0,4396.6,5185.3,9,,outubro/2026
-Campinas,Vila João Jorge,apartamento,venda,5924.8,4753.9,7706.7,32,7.6,outubro/2026
-Campinas,Vila João Jorge,apartamento,aluguel,37.5,32.2,52.3,7,7.6,outubro/2026
-Campinas,Vila Joaquim Inácio,apartamento,venda,4270.3,4116.0,4804.6,16,,outubro/2026
-Campinas,Vila Lemos,apartamento,venda,4717.0,4311.8,5778.6,7,,outubro/2026
-Campinas,Vila Lídia,apartamento,venda,10830.9,6347.5,12655.8,56,8.68,outubro/2026
-Campinas,Vila Lídia,apartamento,aluguel,78.3,66.3,92.3,12,8.68,outubro/2026
-Campinas,Vila Marieta,apartamento,venda,6153.8,5357.1,7238.0,23,7.96,outubro/2026
-Campinas,Vila Marieta,apartamento,aluguel,40.8,31.6,43.7,8,7.96,outubro/2026
-Campinas,Vila Miguel Vicente Cury,apartamento,venda,8333.3,7611.1,9091.7,23,,outubro/2026
-Campinas,Vila Mimosa,apartamento,venda,4960.5,3923.3,6660.2,14,9.68,outubro/2026
-Campinas,Vila Mimosa,apartamento,aluguel,40.0,31.6,41.0,7,9.68,outubro/2026
-Campinas,Vila Nova,apartamento,venda,7200.0,6357.2,8666.7,17,8.45,outubro/2026
-Campinas,Vila Nova,apartamento,aluguel,50.7,47.6,53.7,19,8.45,outubro/2026
-Campinas,Vila Nova Teixeira,apartamento,venda,4950.0,4637.5,5420.3,9,,outubro/2026
-Campinas,Vila Padre Manoel de Nóbrega,apartamento,venda,3633.3,3468.8,3942.3,8,,outubro/2026
-Campinas,Vila Palácios,apartamento,venda,6033.2,5230.1,6674.5,8,,outubro/2026
-Campinas,Vila Pompéia,apartamento,venda,4379.7,3943.2,5051.5,10,,outubro/2026
-Campinas,Vila Progresso,apartamento,venda,8603.9,6129.5,9300.2,64,7.46,outubro/2026
-Campinas,Vila Progresso,apartamento,aluguel,53.5,47.2,56.0,8,7.46,outubro/2026
-Campinas,Vila Proost de Souza,apartamento,venda,4991.7,3928.6,7043.5,21,12.67,outubro/2026
-Campinas,Vila Proost de Souza,apartamento,aluguel,52.7,43.7,58.5,9,12.67,outubro/2026
-Campinas,Vila Rossi,apartamento,venda,6694.3,5623.0,8433.9,18,,outubro/2026
-Campinas,Vila Santana,apartamento,venda,4411.8,4383.6,5227.3,5,,outubro/2026
-Campinas,Vila São Bento,apartamento,venda,7021.7,6198.3,7897.9,8,,outubro/2026
-Campinas,Vila Satúrnia,apartamento,venda,8083.3,6586.5,9128.5,15,7.78,outubro/2026
-Campinas,Vila Satúrnia,apartamento,aluguel,52.4,47.2,57.9,7,7.78,outubro/2026
-Campinas,Vila Trinta e Um de Março,apartamento,venda,10161.7,8427.6,11592.4,22,,outubro/2026
-Campinas,Alphaville,casa,venda,9430.6,8170.5,10834.7,122,5.38,outubro/2026
-Campinas,Alphaville,casa,aluguel,42.3,32.6,50.2,33,5.38,outubro/2026
-Campinas,Alphaville D. Pedro 1,casa,venda,10788.2,9677.4,12264.2,41,,outubro/2026
-Campinas,Alphaville Dom Pedro,casa,venda,10820.9,9615.4,11895.9,33,,outubro/2026
-Campinas,Alphaville Dom Pedro 2,casa,venda,12548.9,11930.9,13429.2,8,,outubro/2026
-Campinas,Alphaville Dom Pedro 3,casa,venda,12095.4,11485.9,13311.2,24,,outubro/2026
-Campinas,Alto Taquaral,casa,venda,5984.9,5352.5,6838.1,16,,outubro/2026
-Campinas,Arborais,casa,venda,10688.7,10467.5,11205.2,8,,outubro/2026
-Campinas,Bairro das Palmeiras,casa,venda,9178.7,7445.6,11445.2,55,6.11,outubro/2026
-Campinas,Bairro das Palmeiras,casa,aluguel,46.7,33.5,50.2,9,6.11,outubro/2026
-Campinas,Barão Geraldo,casa,venda,6211.5,4297.0,8300.4,140,6.45,outubro/2026
-Campinas,Barão Geraldo,casa,aluguel,33.4,26.3,39.0,20,6.45,outubro/2026
-Campinas,Barão Geraldo - Centro,casa,venda,3949.7,3763.2,4820.7,7,,outubro/2026
-Campinas,Bonfim,casa,venda,5100.3,3833.2,6581.8,19,,outubro/2026
-Campinas,Bosque,casa,venda,5101.1,4074.1,6036.9,22,8.85,outubro/2026
-Campinas,Bosque,casa,aluguel,37.6,26.2,48.6,16,8.85,outubro/2026
-Campinas,Bosque das Palmeiras,casa,venda,4694.1,3550.0,5897.6,39,,outubro/2026
-Campinas,Bosque de Barão Geraldo,casa,venda,4894.8,3652.8,5887.6,15,,outubro/2026
-Campinas,Botafogo,casa,venda,4647.5,4148.8,5561.6,19,8.86,outubro/2026
-Campinas,Botafogo,casa,aluguel,34.3,26.9,40.9,7,8.86,outubro/2026
-Campinas,Cambuí,casa,venda,6991.2,5557.4,11689.3,35,8.08,outubro/2026
-Campinas,Cambuí,casa,aluguel,47.1,36.5,56.3,49,8.08,outubro/2026
-Campinas,Caminhos de San Conrado,casa,venda,5809.4,4763.3,6986.9,13,,outubro/2026
-Campinas,Campo Grande,casa,venda,3136.1,2633.3,4075.3,8,,outubro/2026
-Campinas,Centro,casa,venda,3930.6,2909.1,6600.0,21,8.12,outubro/2026
-Campinas,Centro,casa,aluguel,26.6,18.5,36.2,27,8.12,outubro/2026
-Campinas,Chácara da Barra,casa,venda,4207.9,3145.7,5500.0,33,8.56,outubro/2026
-Campinas,Chácara da Barra,casa,aluguel,30.0,24.6,46.2,9,8.56,outubro/2026
-Campinas,Chácara Primavera,casa,venda,8538.0,6741.9,9735.3,32,5.47,outubro/2026
-Campinas,Chácara Primavera,casa,aluguel,38.9,36.6,45.3,13,5.47,outubro/2026
-Campinas,Chácara Santa Margarida,casa,venda,5801.3,4268.3,6405.4,20,,outubro/2026
-Campinas,Chácara São Rafael,casa,venda,8352.4,6888.9,9230.8,9,,outubro/2026
-Campinas,Chácaras Cruzeiro do Sul,casa,venda,2849.6,2450.0,2896.6,5,,outubro/2026
-Campinas,Cidade Jardim,casa,venda,3051.8,2615.2,4743.6,6,,outubro/2026
-Campinas,Cidade Satélite Íris,casa,venda,2761.8,2234.5,3724.5,10,,outubro/2026
-Campinas,Cidade Universitária,casa,venda,4375.0,3630.3,5606.1,105,7.68,outubro/2026
-Campinas,Cidade Universitária,casa,aluguel,28.0,24.3,41.9,13,7.68,outubro/2026
-Campinas,Cidade Universitária I,casa,venda,4703.8,4094.8,4962.3,13,,outubro/2026
-Campinas,Cidade Universitária II,casa,venda,4432.1,3663.3,5599.4,21,,outubro/2026
-Campinas,Colinas do Ermitage (Sousas),casa,venda,6018.0,4789.4,7538.3,52,,outubro/2026
-Campinas,Conjunto Habitacional Parque da Floresta,casa,venda,2528.2,2167.2,3386.2,18,,outubro/2026
-Campinas,Conjunto Habitacional Parque Itajaí,casa,venda,3358.0,2534.1,4189.0,18,,outubro/2026
-Campinas,Dic II (Conj Habitacional Doutor Antônio Mendonça de Barros),casa,venda,3022.4,2383.5,3638.8,10,,outubro/2026
-Campinas,Dic IV (Conjunto Habitacional Lech Walesa),casa,venda,2500.0,2121.2,3240.7,13,,outubro/2026
-Campinas,Dic V (Conjunto Habitacional Chico Mendes),casa,venda,2069.4,1421.9,3150.0,8,,outubro/2026
-Campinas,Dic VI (Conjunto Habitacional Santo Dias Silva),casa,venda,2834.2,2087.4,3945.4,38,,outubro/2026
-Campinas,Fazenda Santa Cândida,casa,venda,8030.8,6442.6,8878.1,8,,outubro/2026
-Campinas,Galleria,casa,venda,11374.7,8420.0,12165.2,12,,outubro/2026
-Campinas,Gramado,casa,venda,9677.4,7446.8,12523.5,21,5.56,outubro/2026
-Campinas,Gramado,casa,aluguel,44.8,34.9,52.7,7,5.56,outubro/2026
-Campinas,Guará,casa,venda,2727.6,2036.1,6081.6,5,,outubro/2026
-Campinas,Hipica,casa,venda,7171.4,7100.0,10600.0,5,,outubro/2026
-Campinas,Jardim Aeronave de Viracopos,casa,venda,2645.8,2333.0,2769.3,6,,outubro/2026
-Campinas,Jardim Alto da Barra,casa,venda,4558.4,3741.7,5677.7,30,,outubro/2026
-Campinas,Jardim América,casa,venda,4956.6,4278.9,6600.0,5,,outubro/2026
-Campinas,Jardim Amoreiras,casa,venda,3120.9,2436.4,4328.3,44,,outubro/2026
-Campinas,Jardim Anchieta,casa,venda,3407.8,2845.5,4250.1,23,,outubro/2026
-Campinas,Jardim Andorinhas,casa,venda,3611.1,2675.7,4259.1,16,,outubro/2026
-Campinas,Jardim Antonio Von Zuben,casa,venda,3320.0,2856.0,3917.0,11,,outubro/2026
-Campinas,Jardim Aparecida,casa,venda,2694.9,2424.6,3141.5,18,,outubro/2026
-Campinas,Jardim Aruã,casa,venda,5012.1,4512.7,8719.9,8,,outubro/2026
-Campinas,Jardim Aurélia,casa,venda,4553.9,3515.7,4992.8,14,,outubro/2026
-Campinas,Jardim Bandeirantes,casa,venda,2479.3,2272.3,2500.0,5,,outubro/2026
-Campinas,Jardim Bela Vista,casa,venda,4276.3,3556.5,4819.3,9,,outubro/2026
-Campinas,Jardim Belo Horizonte,casa,venda,4285.7,3763.4,4575.2,9,,outubro/2026
-Campinas,Jardim Boa Esperança,casa,venda,4035.9,3411.1,5309.8,12,,outubro/2026
-Campinas,Jardim Bom Sucesso,casa,venda,3191.5,2301.3,4225.4,29,,outubro/2026
-Campinas,Jardim Bonfim,casa,venda,3381.6,2775.9,4142.9,27,,outubro/2026
-Campinas,Jardim Botânico (Sousas),casa,venda,6140.1,5119.2,7463.7,55,,outubro/2026
-Campinas,Jardim Campos Elíseos,casa,venda,3343.4,2736.5,4075.0,72,,outubro/2026
-Campinas,Jardim Carlos Lourenço,casa,venda,2925.9,2666.9,4617.9,11,,outubro/2026
-Campinas,Jardim Chapadão,casa,venda,4000.0,3203.7,4851.9,154,7.5,outubro/2026
-Campinas,Jardim Chapadão,casa,aluguel,25.0,20.6,30.2,27,7.5,outubro/2026
-Campinas,Jardim Conceição,casa,venda,5037.7,3958.3,6488.5,61,,outubro/2026
-Campinas,Jardim das Bandeiras,casa,venda,3041.0,2654.8,4481.9,16,,outubro/2026
-Campinas,Jardim das Paineiras,casa,venda,5325.4,4137.6,9175.4,59,7.19,outubro/2026
-Campinas,Jardim das Paineiras,casa,aluguel,31.9,23.0,45.6,11,7.19,outubro/2026
-Campinas,Jardim das Palmeiras,casa,venda,6273.7,4380.7,9751.1,10,,outubro/2026
-Campinas,Jardim do Lago,casa,venda,3484.1,2875.9,4635.4,6,,outubro/2026
-Campinas,Jardim do Sol,casa,venda,4738.6,3240.1,5509.5,15,,outubro/2026
-Campinas,Jardim do Trevo,casa,venda,3459.1,2993.0,4238.1,37,,outubro/2026
-Campinas,Jardim do Vovô,casa,venda,4583.3,3584.3,5320.7,27,7.46,outubro/2026
-Campinas,Jardim do Vovô,casa,aluguel,28.5,27.1,30.8,5,7.46,outubro/2026
-Campinas,Jardim Dom Bosco,casa,venda,5272.7,4852.6,6213.5,7,,outubro/2026
-Campinas,Jardim dos Oliveiras,casa,venda,3415.0,2824.0,4318.1,70,,outubro/2026
-Campinas,Jardim Estoril,casa,venda,3660.9,3403.6,3707.6,10,,outubro/2026
-Campinas,Jardim Eulina,casa,venda,3452.4,2832.2,4143.2,51,,outubro/2026
-Campinas,Jardim Flamboyant,casa,venda,4451.0,3873.0,4950.0,15,10.46,outubro/2026
-Campinas,Jardim Flamboyant,casa,aluguel,38.8,25.9,46.0,6,10.46,outubro/2026
-Campinas,Jardim Florence,casa,venda,3792.5,2819.9,5193.9,8,,outubro/2026
-Campinas,Jardim García,casa,venda,3221.2,2578.9,3806.5,17,,outubro/2026
-Campinas,Jardim Guanabara,casa,venda,4284.1,3532.6,5529.3,31,6.19,outubro/2026
-Campinas,Jardim Guanabara,casa,aluguel,22.1,16.6,27.3,10,6.19,outubro/2026
-Campinas,Jardim Guarani,casa,venda,3760.5,2968.6,4431.7,18,,outubro/2026
-Campinas,Jardim Ibirapuera,casa,venda,5776.7,5176.5,6427.9,24,,outubro/2026
-Campinas,Jardim Independência,casa,venda,3882.0,3640.0,4405.9,11,,outubro/2026
-Campinas,Jardim Ipiranga,casa,venda,4264.3,3785.8,4812.1,14,,outubro/2026
-Campinas,Jardim Leonor,casa,venda,3137.3,2463.5,4148.6,19,,outubro/2026
-Campinas,Jardim Londres,casa,venda,3513.5,2789.9,4445.7,31,,outubro/2026
-Campinas,Jardim Lumen Christi,casa,venda,4742.9,3387.1,5428.6,21,,outubro/2026
-Campinas,Jardim Madalena,casa,venda,6143.3,4503.0,7850.5,14,,outubro/2026
-Campinas,Jardim Magnólia,casa,venda,3346.2,3178.8,3623.2,5,,outubro/2026
-Campinas,Jardim Marisa,casa,venda,2820.0,2440.0,3244.0,8,,outubro/2026
-Campinas,Jardim Martinelli (Sousas),casa,venda,6666.7,3860.5,10181.8,9,,outubro/2026
-Campinas,Jardim Mirassol,casa,venda,3170.6,2544.9,3699.1,24,,outubro/2026
-Campinas,Jardim Myrian Moreira da Costa,casa,venda,4913.7,3465.1,7012.8,30,,outubro/2026
-Campinas,Jardim New York,casa,venda,3517.6,3000.0,4185.7,29,,outubro/2026
-Campinas,Jardim Nilópolis,casa,venda,3993.7,3189.8,4672.1,24,,outubro/2026
-Campinas,Jardim Nossa Senhora Auxiliadora,casa,venda,4868.9,3623.2,6091.6,69,7.86,outubro/2026
-Campinas,Jardim Nossa Senhora Auxiliadora,casa,aluguel,31.9,26.6,43.1,18,7.86,outubro/2026
-Campinas,Jardim Nova Europa,casa,venda,4023.7,3629.6,5095.9,31,7.63,outubro/2026
-Campinas,Jardim Nova Europa,casa,aluguel,25.6,22.6,27.1,6,7.63,outubro/2026
-Campinas,Jardim Nova Mercedes,casa,venda,2425.0,1958.3,3529.4,26,,outubro/2026
-Campinas,Jardim Novo Campos Elíseos,casa,venda,3764.8,2906.0,4520.8,30,6.37,outubro/2026
-Campinas,Jardim Novo Campos Elíseos,casa,aluguel,20.0,17.9,21.8,5,6.37,outubro/2026
-Campinas,Jardim Novo Maracanã,casa,venda,2485.3,2187.9,3225.0,16,,outubro/2026
-Campinas,Jardim Ouro Preto,casa,venda,2157.6,1736.7,2383.7,6,,outubro/2026
-Campinas,Jardim Paraíso,casa,venda,3703.7,3184.7,5000.0,49,,outubro/2026
-Campinas,Jardim Paraíso de Viracopos,casa,venda,3474.1,2744.3,3841.8,10,,outubro/2026
-Campinas,Jardim Paranapanema,casa,venda,3080.4,1871.9,3798.7,21,,outubro/2026
-Campinas,Jardim Planalto,casa,venda,4602.6,3787.6,8935.1,7,,outubro/2026
-Campinas,Jardim Planalto de Viracopos,casa,venda,1592.9,1277.8,2813.0,10,,outubro/2026
-Campinas,Jardim Proença,casa,venda,3387.0,2795.8,4482.5,22,11.69,outubro/2026
-Campinas,Jardim Proença,casa,aluguel,33.0,21.6,41.8,11,11.69,outubro/2026
-Campinas,Jardim Proença I,casa,venda,4666.7,3699.1,4911.8,13,,outubro/2026
-Campinas,Jardim Professora Tarcília,casa,venda,5932.6,5299.4,6606.6,6,,outubro/2026
-Campinas,Jardim Quarto Centenário,casa,venda,4139.4,3165.5,4857.2,45,,outubro/2026
-Campinas,Jardim Roseira,casa,venda,3241.5,2661.0,4579.4,58,,outubro/2026
-Campinas,Jardim Santa Amália,casa,venda,2844.3,2308.7,4821.8,7,,outubro/2026
-Campinas,Jardim Santa Clara,casa,venda,2631.6,2215.0,2913.0,6,,outubro/2026
-Campinas,Jardim Santa Eudóxia,casa,venda,3117.6,2594.9,3583.3,37,,outubro/2026
-Campinas,Jardim Santa Genebra,casa,venda,4041.5,3308.8,4400.0,21,,outubro/2026
-Campinas,Jardim Santa Genebra II (Barão Geraldo),casa,venda,5964.8,5269.9,7173.7,19,6.16,outubro/2026
-Campinas,Jardim Santa Genebra II (Barão Geraldo),casa,aluguel,30.6,28.4,34.6,11,6.16,outubro/2026
-Campinas,Jardim Santa Lúcia,casa,venda,3045.0,2417.6,3694.6,66,,outubro/2026
-Campinas,Jardim Santa Marcelina,casa,venda,6132.9,4518.2,8582.6,10,,outubro/2026
-Campinas,Jardim Santa Terezinha,casa,venda,3440.0,2890.9,3910.4,14,,outubro/2026
-Campinas,Jardim Santana,casa,venda,3682.6,2870.5,4334.8,12,,outubro/2026
-Campinas,Jardim São Cristóvão,casa,venda,3288.6,2166.7,4290.6,9,,outubro/2026
-Campinas,Jardim São Domingos,casa,venda,4345.9,2521.1,7965.7,12,,outubro/2026
-Campinas,Jardim São Francisco,casa,venda,3142.3,3115.3,4162.8,6,,outubro/2026
-Campinas,Jardim São Gabriel,casa,venda,3286.5,2360.8,4275.9,5,,outubro/2026
-Campinas,Jardim São Gonçalo,casa,venda,4368.6,3491.0,5804.8,22,,outubro/2026
-Campinas,Jardim São José,casa,venda,3689.7,2395.2,4583.3,17,,outubro/2026
-Campinas,Jardim São Judas Tadeu,casa,venda,1919.5,1257.5,2900.0,8,,outubro/2026
-Campinas,Jardim São Marcos,casa,venda,2333.3,1965.7,4726.2,7,,outubro/2026
-Campinas,Jardim São Pedro,casa,venda,3350.4,2714.1,5420.4,34,,outubro/2026
-Campinas,Jardim Shangai,casa,venda,2928.6,2444.9,3598.5,22,,outubro/2026
-Campinas,Jardim Yeda,casa,venda,2333.3,1362.5,3559.0,7,,outubro/2026
-Campinas,Loteamento Artesano,casa,venda,12437.5,12060.3,12838.7,5,,outubro/2026
-Campinas,Loteamento Caminhos de San Conrado (Sousas),casa,venda,6660.8,4745.6,10072.6,16,,outubro/2026
-Campinas,Loteamento Chácaras Vale das Garças,casa,venda,4000.0,3375.0,5019.9,7,,outubro/2026
-Campinas,Loteamento Mont Blanc Residence,casa,venda,11662.9,9776.5,13224.1,66,,outubro/2026
-Campinas,Loteamento Parque das Sapucaias,casa,venda,9547.7,9067.8,10177.0,7,,outubro/2026
-Campinas,Loteamento Parque dos Alecrins,casa,venda,9556.3,9060.6,10351.4,29,,outubro/2026
-Campinas,Loteamento Residencial Arborais,casa,venda,11111.1,10533.9,12048.6,59,,outubro/2026
-Campinas,Loteamento Residencial Entre Verdes (Sousas),casa,venda,15804.6,13152.4,16761.5,35,,outubro/2026
-Campinas,Loteamento Residencial Flavia,casa,venda,3333.3,2830.7,4127.0,17,,outubro/2026
-Campinas,Loteamento Residencial Jaguari (Sousas),casa,venda,8600.0,7049.0,9942.5,31,,outubro/2026
-Campinas,Loteamento Residencial Novo Mundo,casa,venda,2583.6,2226.3,3250.0,8,,outubro/2026
-Campinas,Loteamento Residencial Pedra Alta (Sousas),casa,venda,14024.3,11756.6,15449.0,22,,outubro/2026
-Campinas,Mansões Santo Antônio,casa,venda,8048.1,5927.3,10121.5,12,,outubro/2026
-Campinas,Mont Blanc Résidence,casa,venda,11983.3,10559.0,13412.3,5,,outubro/2026
-Campinas,Nova Aparecida,casa,venda,2985.6,2385.8,4297.2,8,,outubro/2026
-Campinas,Nova Campinas,casa,venda,7272.7,5416.0,9944.4,61,8.07,outubro/2026
-Campinas,Nova Campinas,casa,aluguel,48.9,28.0,68.6,62,8.07,outubro/2026
-Campinas,Nova Sousas (Sousas),casa,venda,4224.8,3570.4,4726.9,10,,outubro/2026
-Campinas,Núcleo Residencial Vila Vitória,casa,venda,2690.5,2541.7,2928.6,6,,outubro/2026
-Campinas,Parque Alto Taquaral,casa,venda,5208.3,4642.9,6067.5,17,7.4,outubro/2026
-Campinas,Parque Alto Taquaral,casa,aluguel,32.1,24.1,36.7,7,7.4,outubro/2026
-Campinas,Parque Beatriz,casa,venda,4577.7,3383.2,7700.0,6,,outubro/2026
-Campinas,Parque Ceasa,casa,venda,4897.8,4637.5,5740.2,6,,outubro/2026
-Campinas,Parque da Figueira,casa,venda,3723.9,3308.8,5109.9,11,,outubro/2026
-Campinas,Parque da Hípica,casa,venda,6948.6,5794.0,7797.1,42,,outubro/2026
-Campinas,Parque das Flores,casa,venda,6196.1,4333.7,6400.0,5,,outubro/2026
-Campinas,Parque das Quaresmeiras,casa,venda,7962.0,7891.4,8532.5,8,,outubro/2026
-Campinas,Parque das Universidades,casa,venda,4593.6,4267.2,5298.4,16,,outubro/2026
-Campinas,Parque Dom Pedro II,casa,venda,2243.0,1694.4,3612.8,7,,outubro/2026
-Campinas,Parque dos Pomares,casa,venda,4550.6,3459.1,8598.4,6,11.66,outubro/2026
-Campinas,Parque dos Pomares,casa,aluguel,44.2,42.5,47.5,5,11.66,outubro/2026
-Campinas,Parque dos Resedás,casa,venda,8778.3,8376.2,8780.5,5,,outubro/2026
-Campinas,Parque Eldorado,casa,venda,4178.3,3528.8,6007.1,24,,outubro/2026
-Campinas,Parque Fazendinha,casa,venda,3331.8,2522.1,4156.4,19,,outubro/2026
-Campinas,Parque Imperador,casa,venda,7420.0,5682.7,8914.3,19,,outubro/2026
-Campinas,Parque Industrial,casa,venda,3964.8,3164.5,5193.0,11,,outubro/2026
-Campinas,Parque Ipiranga,casa,venda,7471.3,2428.6,7964.7,5,,outubro/2026
-Campinas,Parque Jambeiro,casa,venda,4824.5,3957.6,6108.7,32,,outubro/2026
-Campinas,Parque Jatibaia (Sousas),casa,venda,5405.4,4420.3,7656.2,41,,outubro/2026
-Campinas,Parque Maria Helena,casa,venda,4285.7,2248.6,5469.1,7,,outubro/2026
-Campinas,Parque Montreal,casa,venda,2226.0,2144.3,2665.2,6,,outubro/2026
-Campinas,Parque Nova,casa,venda,6152.0,4109.5,7296.4,16,,outubro/2026
-Campinas,Parque Residencial Carvalho de Moura,casa,venda,2980.4,2591.7,3282.9,10,,outubro/2026
-Campinas,Parque Residencial Vila União,casa,venda,3470.8,3127.5,4067.2,8,,outubro/2026
-Campinas,Parque Rural Fazenda Santa Cândida,casa,venda,8733.4,7722.4,10288.2,30,5.99,outubro/2026
-Campinas,Parque Rural Fazenda Santa Cândida,casa,aluguel,43.6,39.8,44.3,6,5.99,outubro/2026
-Campinas,Parque Santa Bárbara,casa,venda,3170.5,2992.7,3945.0,10,8.48,outubro/2026
-Campinas,Parque Santa Bárbara,casa,aluguel,22.4,18.4,28.8,5,8.48,outubro/2026
-Campinas,Parque São Quirino,casa,venda,3640.8,2859.4,4176.1,25,,outubro/2026
-Campinas,Parque Taquaral,casa,venda,6159.7,4500.9,8990.1,71,8.07,outubro/2026
-Campinas,Parque Taquaral,casa,aluguel,41.4,29.9,50.5,21,8.07,outubro/2026
-Campinas,Parque União da Vitória,casa,venda,3500.0,2000.0,4122.2,9,,outubro/2026
-Campinas,Parque Universitário de Viracopos,casa,venda,2093.0,1811.5,2547.5,6,,outubro/2026
-Campinas,Parque Via Norte,casa,venda,3968.3,3124.0,4743.4,63,,outubro/2026
-Campinas,Parque Xangrilá,casa,venda,6642.9,4242.6,8068.7,67,,outubro/2026
-Campinas,Ponte Preta,casa,venda,4216.9,3496.1,5134.0,7,,outubro/2026
-Campinas,Real Parque,casa,venda,3000.0,2662.7,3736.4,9,,outubro/2026
-Campinas,Residencial Barão do Café,casa,venda,6692.4,5688.6,7575.8,29,5.24,outubro/2026
-Campinas,Residencial Barão do Café,casa,aluguel,29.2,27.7,34.5,8,5.24,outubro/2026
-Campinas,Residencial Cosmos,casa,venda,4660.0,3654.5,6466.7,40,,outubro/2026
-Campinas,Residencial Estância Eudóxia,casa,venda,10000.0,8762.9,11470.6,29,,outubro/2026
-Campinas,Residencial Estância Eudóxia (Barão Geraldo),casa,venda,9654.8,8642.0,11139.5,46,,outubro/2026
-Campinas,Residencial Jatibela,casa,venda,12329.3,11377.8,13718.1,14,,outubro/2026
-Campinas,Residencial Nova Bandeirante,casa,venda,4750.0,3061.2,5333.3,5,,outubro/2026
-Campinas,Residencial Parque da Fazenda,casa,venda,4651.3,4356.9,6116.6,20,,outubro/2026
-Campinas,Residencial Parque dos Alecrins,casa,venda,9250.0,9235.4,9960.0,5,,outubro/2026
-Campinas,Residencial Parque Rio das Pedras,casa,venda,7571.4,6577.5,8737.9,57,,outubro/2026
-Campinas,Residencial Sainte Helene,casa,venda,11857.6,11111.1,12368.4,13,,outubro/2026
-Campinas,Residencial São José,casa,venda,3055.6,2176.9,4300.8,27,,outubro/2026
-Campinas,Residencial Terras do Barão,casa,venda,6582.3,6175.9,6900.2,11,,outubro/2026
-Campinas,Residencial Vila Verde,casa,venda,6070.6,5634.8,6917.3,8,,outubro/2026
-Campinas,São Bernardo,casa,venda,3536.2,2953.7,5319.0,18,,outubro/2026
-Campinas,Sítios de Recreio Gramado,casa,venda,9299.3,7401.3,12452.7,74,,outubro/2026
-Campinas,Sousas,casa,venda,8146.0,4490.9,11326.8,15,,outubro/2026
-Campinas,Swiss Park,casa,venda,9415.0,7982.6,10796.3,102,6.07,outubro/2026
-Campinas,Swiss Park,casa,aluguel,47.6,44.1,55.5,16,6.07,outubro/2026
-Campinas,Taquaral,casa,venda,4721.0,3884.3,6954.8,50,8.06,outubro/2026
-Campinas,Taquaral,casa,aluguel,31.7,27.8,36.0,21,8.06,outubro/2026
-Campinas,Tijuco das Telhas,casa,venda,5055.4,4541.5,6160.5,60,,outubro/2026
-Campinas,Vila Aeroporto,casa,venda,2196.8,1194.9,3264.3,22,,outubro/2026
-Campinas,Vila Aeroporto I,casa,venda,3741.5,2256.6,4447.2,15,,outubro/2026
-Campinas,Vila Anhangüera,casa,venda,4750.0,3330.9,5103.8,6,,outubro/2026
-Campinas,Vila Brandina,casa,venda,4140.5,3262.4,4947.8,16,,outubro/2026
-Campinas,Vila Castelo Branco,casa,venda,4337.3,3766.7,4713.5,7,,outubro/2026
-Campinas,Vila Costa e Silva,casa,venda,3407.2,2611.1,5767.5,11,,outubro/2026
-Campinas,Vila dos Plátanos,casa,venda,9072.2,8583.3,10593.2,9,,outubro/2026
-Campinas,Vila Hollândia,casa,venda,6165.7,5452.8,6500.0,9,,outubro/2026
-Campinas,Vila Industrial,casa,venda,3333.3,2438.3,4351.5,59,,outubro/2026
-Campinas,Vila Itapura,casa,venda,5733.2,4315.1,7442.2,12,5.61,outubro/2026
-Campinas,Vila Itapura,casa,aluguel,26.8,22.6,41.8,12,5.61,outubro/2026
-Campinas,Vila Jequitibás,casa,venda,3333.3,3221.0,3452.6,11,,outubro/2026
-Campinas,Vila João Jorge,casa,venda,3900.4,3091.5,5242.9,8,,outubro/2026
-Campinas,Vila Joaquim Inácio,casa,venda,3466.7,2759.7,4492.0,43,,outubro/2026
-Campinas,Vila Lemos,casa,venda,4427.5,3106.3,5231.9,12,,outubro/2026
-Campinas,Vila Lídia,casa,venda,3739.6,2884.6,6354.2,5,,outubro/2026
-Campinas,Vila Manoel Ferreira,casa,venda,4024.1,3389.8,4247.8,5,,outubro/2026
-Campinas,Vila Maria,casa,venda,4814.8,3361.5,5555.6,5,,outubro/2026
-Campinas,Vila Maria Eugênia,casa,venda,3654.7,3115.6,4771.3,6,,outubro/2026
-Campinas,Vila Marieta,casa,venda,5725.2,3862.0,6477.3,6,,outubro/2026
-Campinas,Vila Miguel Vicente Cury,casa,venda,4223.8,3303.6,5826.1,24,,outubro/2026
-Campinas,Vila Modesto Fernandes,casa,venda,5051.3,3890.9,6364.0,6,,outubro/2026
-Campinas,Vila Nogueira,casa,venda,3839.4,3283.6,4578.6,80,,outubro/2026
-Campinas,Vila Nova,casa,venda,4111.1,3631.7,4739.2,13,,outubro/2026
-Campinas,Vila Nova São José,casa,venda,3031.5,2974.2,3401.1,6,,outubro/2026
-Campinas,Vila Nova Teixeira,casa,venda,2998.4,2903.2,3666.7,5,,outubro/2026
-Campinas,Vila Padre Manoel de Nóbrega,casa,venda,3350.5,3006.5,3670.9,6,,outubro/2026
-Campinas,Vila Perseu Leite de Barros,casa,venda,3511.9,3500.0,5590.6,5,,outubro/2026
-Campinas,Vila Progresso,casa,venda,3231.0,2794.6,3914.0,12,,outubro/2026
-Campinas,Vila Proost de Souza,casa,venda,3995.9,3495.5,4764.4,14,,outubro/2026
-Campinas,Vila Rossi,casa,venda,5092.6,4858.0,5520.0,11,,outubro/2026
-Campinas,Vila Santa Isabel,casa,venda,4332.7,2993.0,6877.1,35,,outubro/2026
-Campinas,Vila Teixeira,casa,venda,3233.4,2412.6,3751.5,7,,outubro/2026
-Campinas,Vila Trinta e Um de Março,casa,venda,3525.6,3194.4,4076.2,15,,outubro/2026
-Campinas,Vila Virgínia,casa,venda,6505.8,5089.2,7199.7,8,,outubro/2026
-Campinas,Ville Sainte Helene,casa,venda,11248.0,9668.1,12458.8,16,,outubro/2026
-Campinas,Alphaville,terreno,venda,1582.7,1478.2,2281.5,34,,outubro/2026
-Campinas,Alphaville D. Pedro 1,terreno,venda,2540.7,2486.6,2671.8,22,,outubro/2026
-Campinas,Alphaville Dom Pedro,terreno,venda,2500.0,2196.3,2734.1,21,,outubro/2026
-Campinas,Alphaville Dom Pedro 3,terreno,venda,2441.4,2205.3,2536.9,7,,outubro/2026
-Campinas,Alphaville Dom Pedro Zero,terreno,venda,2430.1,2400.0,2588.9,9,,outubro/2026
-Campinas,Alto Taquaral,terreno,venda,1971.4,1743.7,2000.0,8,,outubro/2026
-Campinas,Bairro das Palmeiras,terreno,venda,1676.8,1460.9,1769.6,14,,outubro/2026
-Campinas,Bananal,terreno,venda,257.1,192.3,295.1,7,,outubro/2026
-Campinas,Barão Geraldo,terreno,venda,1000.0,741.0,1467.6,56,,outubro/2026
-Campinas,Bela Aliança,terreno,venda,1595.7,1309.8,1885.8,7,,outubro/2026
-Campinas,Bosque,terreno,venda,1197.3,890.2,2242.5,6,,outubro/2026
-Campinas,Bosque das Palmeiras,terreno,venda,704.1,620.9,1249.9,9,,outubro/2026
-Campinas,Caminhos de San Conrado,terreno,venda,927.3,760.0,957.8,14,,outubro/2026
-Campinas,Campo Grande,terreno,venda,1061.7,791.2,1163.7,6,,outubro/2026
-Campinas,Centro,terreno,venda,3454.8,2880.1,4000.1,8,,outubro/2026
-Campinas,Chácara Bela Vista,terreno,venda,426.5,333.2,570.0,6,,outubro/2026
-Campinas,Chácara da Barra,terreno,venda,1474.7,1242.3,3778.0,5,,outubro/2026
-Campinas,Chácara de Recreio Barão,terreno,venda,1100.2,1086.3,1180.0,7,,outubro/2026
-Campinas,Chácara Santa Margarida,terreno,venda,752.5,580.8,882.4,53,,outubro/2026
-Campinas,Chácaras Campos dos Amarais,terreno,venda,1300.0,1073.9,1434.4,5,,outubro/2026
-Campinas,Cidade Satélite Íris,terreno,venda,541.2,457.4,606.3,15,,outubro/2026
-Campinas,Cidade Universitária,terreno,venda,1066.7,898.3,1222.2,9,,outubro/2026
-Campinas,Colinas do Ermitage (Sousas),terreno,venda,590.6,511.4,662.2,13,,outubro/2026
-Campinas,Fazenda Pau d'Alho,terreno,venda,1600.0,1478.3,1694.4,41,,outubro/2026
-Campinas,Fazenda Santa Cândida,terreno,venda,982.7,901.2,1240.0,8,,outubro/2026
-Campinas,Galleria,terreno,venda,2096.8,2015.1,2187.9,34,,outubro/2026
-Campinas,Guará,terreno,venda,571.6,527.0,737.5,14,,outubro/2026
-Campinas,Jardim Aliança,terreno,venda,1073.6,1005.0,1157.7,15,,outubro/2026
-Campinas,Jardim Botânico (Sousas),terreno,venda,1229.5,1090.6,1294.7,7,,outubro/2026
-Campinas,Jardim Chapadão,terreno,venda,1521.7,1247.2,1804.0,13,,outubro/2026
-Campinas,Jardim Conceição,terreno,venda,1990.6,1361.4,2031.7,19,,outubro/2026
-Campinas,Jardim das Paineiras,terreno,venda,1302.4,1192.6,1645.5,7,,outubro/2026
-Campinas,Jardim do Lago Continuação,terreno,venda,602.2,527.6,905.9,10,,outubro/2026
-Campinas,Jardim dos Oliveiras,terreno,venda,1200.0,1176.1,1451.6,5,,outubro/2026
-Campinas,Jardim Guarani,terreno,venda,1407.4,1046.2,1635.7,15,,outubro/2026
-Campinas,Jardim Ibirapuera,terreno,venda,1125.0,981.2,1262.5,14,,outubro/2026
-Campinas,Jardim Ipaussurama,terreno,venda,1042.5,806.7,1241.2,6,,outubro/2026
-Campinas,Jardim Irajá,terreno,venda,1050.0,1000.0,1052.6,5,,outubro/2026
-Campinas,Jardim Lumen Christi,terreno,venda,1167.0,952.4,1265.2,10,,outubro/2026
-Campinas,Jardim Madalena,terreno,venda,1987.6,1481.5,2605.2,5,,outubro/2026
-Campinas,Jardim Martinelli (Sousas),terreno,venda,129.6,122.1,140.7,22,,outubro/2026
-Campinas,Jardim Myrian Moreira da Costa,terreno,venda,1557.0,1189.4,1603.9,24,,outubro/2026
-Campinas,Jardim Nova Europa,terreno,venda,1411.6,1089.7,2384.1,5,,outubro/2026
-Campinas,Jardim Novo Campos Elíseos,terreno,venda,933.2,661.4,1084.6,12,,outubro/2026
-Campinas,Jardim Novo Maracanã,terreno,venda,800.0,752.2,980.6,7,,outubro/2026
-Campinas,Jardim Paranapanema,terreno,venda,934.8,798.0,1012.1,9,,outubro/2026
-Campinas,Jardim Quarto Centenário,terreno,venda,1498.5,1438.4,1681.8,5,,outubro/2026
-Campinas,Jardim Santa Genebra II (Barão Geraldo),terreno,venda,2000.0,1711.9,2374.0,9,,outubro/2026
-Campinas,Jardim Santa Maria,terreno,venda,572.5,503.3,651.3,7,,outubro/2026
-Campinas,Jardim Santana,terreno,venda,1117.0,571.9,1381.0,5,,outubro/2026
-Campinas,Jardim São Domingos,terreno,venda,644.9,307.1,679.6,6,,outubro/2026
-Campinas,Jardim São Gonçalo,terreno,venda,1000.0,996.0,1153.8,5,,outubro/2026
-Campinas,Jardim São Judas Tadeu,terreno,venda,588.2,479.5,633.3,7,,outubro/2026
-Campinas,Jardim São Pedro,terreno,venda,661.3,553.8,799.4,6,,outubro/2026
-Campinas,Jatibela,terreno,venda,2152.1,2097.2,2248.6,8,,outubro/2026
-Campinas,Joaquim Egídio,terreno,venda,291.0,252.2,333.4,14,,outubro/2026
-Campinas,Loteamento Artesano,terreno,venda,2112.3,1943.2,2242.4,10,,outubro/2026
-Campinas,Loteamento Artesano Galleria,terreno,venda,2076.7,1969.8,2136.7,6,,outubro/2026
-Campinas,Loteamento Caminhos de San Conrado (Sousas),terreno,venda,871.8,731.0,959.2,13,,outubro/2026
-Campinas,Loteamento Mont Blanc Residence,terreno,venda,2258.5,2088.3,2317.6,11,,outubro/2026
-Campinas,Loteamento Parque dos Alecrins,terreno,venda,1183.3,1084.5,1238.7,6,,outubro/2026
-Campinas,Loteamento Residencial Arborais,terreno,venda,1740.6,1635.1,1847.9,34,,outubro/2026
-Campinas,Loteamento Residencial Entre Verdes (Sousas),terreno,venda,1120.6,979.6,1305.0,40,,outubro/2026
-Campinas,Loteamento Residencial Flavia,terreno,venda,1007.2,954.1,1086.9,6,,outubro/2026
-Campinas,Loteamento Residencial Jaguari (Sousas),terreno,venda,780.6,548.3,815.3,15,,outubro/2026
-Campinas,Loteamento Residencial Pedra Alta (Sousas),terreno,venda,1026.8,987.3,1162.7,27,,outubro/2026
-Campinas,Loteamento Serena,terreno,venda,1580.4,1498.7,1674.1,35,,outubro/2026
-Campinas,Mansões Santo Antônio,terreno,venda,1590.6,1078.2,2059.5,6,,outubro/2026
-Campinas,Morada das Nascentes,terreno,venda,250.0,240.6,276.5,13,,outubro/2026
-Campinas,Nova Aparecida,terreno,venda,1111.1,874.1,1134.0,9,,outubro/2026
-Campinas,Nova Campinas,terreno,venda,3299.7,3286.0,3975.0,24,,outubro/2026
-Campinas,Parque Aeroporto,terreno,venda,263.0,197.5,355.0,12,,outubro/2026
-Campinas,Parque Ceasa,terreno,venda,2500.0,2399.9,2695.3,8,,outubro/2026
-Campinas,Parque das Universidades,terreno,venda,903.5,857.1,952.4,13,,outubro/2026
-Campinas,Parque dos Pomares,terreno,venda,660.0,506.5,758.8,9,,outubro/2026
-Campinas,Parque Imperador,terreno,venda,1060.0,1046.9,1170.2,5,,outubro/2026
-Campinas,Parque Jatibaia (Sousas),terreno,venda,385.3,333.3,941.2,21,,outubro/2026
-Campinas,Parque Maria Helena,terreno,venda,1100.0,980.0,1307.5,7,,outubro/2026
-Campinas,Parque Rural Fazenda Santa Cândida,terreno,venda,1133.7,1034.2,1340.4,23,,outubro/2026
-Campinas,Parque São Quirino,terreno,venda,883.2,740.1,1292.4,14,,outubro/2026
-Campinas,Parque Taquaral,terreno,venda,2000.0,1556.7,2124.8,11,,outubro/2026
-Campinas,Parque Via Norte,terreno,venda,823.4,772.9,967.0,11,,outubro/2026
-Campinas,Parque Xangrilá,terreno,venda,995.9,905.7,1187.4,18,,outubro/2026
-Campinas,Real Parque,terreno,venda,1045.5,985.3,1110.5,22,,outubro/2026
-Campinas,Recanto dos Dourados,terreno,venda,350.0,337.7,380.0,5,,outubro/2026
-Campinas,Residencial Bela Aliança,terreno,venda,1010.0,924.9,1055.4,8,,outubro/2026
-Campinas,Residencial Cittá Di Salerno,terreno,venda,955.0,657.5,1125.0,7,,outubro/2026
-Campinas,Residencial Jatibela,terreno,venda,1686.4,1558.5,2099.3,19,,outubro/2026
-Campinas,Residencial Parque da Fazenda,terreno,venda,1081.1,934.4,1142.9,13,,outubro/2026
-Campinas,Residencial Terras do Barão,terreno,venda,1365.8,1303.9,1438.2,10,,outubro/2026
-Campinas,Sítios de Recreio Gramado,terreno,venda,1238.9,1205.5,1449.7,14,,outubro/2026
-Campinas,Sousas,terreno,venda,951.0,372.0,1945.0,24,,outubro/2026
-Campinas,Swiss Park,terreno,venda,2393.8,1997.1,2625.7,22,,outubro/2026
-Campinas,Taquaral,terreno,venda,2461.5,1864.7,2758.3,7,,outubro/2026
-Campinas,Tijuco das Telhas,terreno,venda,705.9,420.0,750.0,5,,outubro/2026
-Campinas,Vila Aeroporto I,terreno,venda,763.9,746.1,798.6,8,,outubro/2026
-Campinas,Vila Brandina,terreno,venda,1000.0,994.8,1194.2,5,,outubro/2026
-Campinas,Vila Industrial,terreno,venda,1130.7,1088.6,1180.2,8,,outubro/2026
-Campinas,Vila Modesto Fernandes,terreno,venda,1403.8,1041.9,1559.6,15,,outubro/2026
-Campinas,Vila Nogueira,terreno,venda,1071.5,1067.9,1282.8,6,,outubro/2026
-Campinas,Vila Santa Isabel,terreno,venda,1023.8,888.9,1251.6,7,,outubro/2026
-Campinas,Vila Sônia (Sousas),terreno,venda,1991.6,1973.2,2040.6,6,,outubro/2026
-Campinas,Village,terreno,venda,290.0,276.4,2227.1,6,,outubro/2026
-Campinas,Alphaville,sala,aluguel,82.4,60.6,89.4,12,,outubro/2026
-Campinas,Barão Geraldo,sala,aluguel,53.1,36.0,62.0,8,,outubro/2026
-Campinas,Bosque,sala,venda,5364.0,3605.2,8757.6,14,,outubro/2026
-Campinas,Botafogo,sala,venda,5603.8,3868.5,6638.1,20,5.82,outubro/2026
-Campinas,Botafogo,sala,aluguel,27.2,16.6,62.4,8,5.82,outubro/2026
-Campinas,Cambuí,sala,venda,8874.2,6009.4,11209.0,42,9.2,outubro/2026
-Campinas,Cambuí,sala,aluguel,68.0,46.9,82.6,31,9.2,outubro/2026
-Campinas,Centro,sala,venda,3111.1,2236.0,4353.9,185,7.33,outubro/2026
-Campinas,Centro,sala,aluguel,19.0,12.6,31.0,134,7.33,outubro/2026
-Campinas,Cidade Universitária,sala,aluguel,50.0,37.3,50.0,11,,outubro/2026
-Campinas,Jardim Brasil,sala,venda,5666.7,4501.0,6357.1,11,,outubro/2026
-Campinas,Jardim Chapadão,sala,venda,7557.1,6118.6,8630.0,22,6.59,outubro/2026
-Campinas,Jardim Chapadão,sala,aluguel,41.5,16.8,51.2,8,6.59,outubro/2026
-Campinas,Jardim Guanabara,sala,venda,5660.4,4680.9,7027.0,13,9.33,outubro/2026
-Campinas,Jardim Guanabara,sala,aluguel,44.0,31.2,49.0,11,9.33,outubro/2026
-Campinas,Jardim Leonor,sala,aluguel,71.0,59.8,76.1,7,,outubro/2026
-Campinas,Loteamento Center Santa Genebra,sala,venda,6875.0,6323.9,7204.5,6,,outubro/2026
-Campinas,Swiss Park,sala,venda,7111.1,6888.9,7666.7,9,,outubro/2026
-Campinas,Taquaral,sala,aluguel,49.0,47.2,57.1,11,,outubro/2026
-Campinas,Vila Itapura,sala,venda,5128.2,3927.8,6348.5,27,10.53,outubro/2026
-Campinas,Vila Itapura,sala,aluguel,45.0,32.2,63.2,9,10.53,outubro/2026
-Campinas,Vila Lídia,sala,venda,4705.9,3180.0,7242.6,13,6.45,outubro/2026
-Campinas,Vila Lídia,sala,aluguel,25.3,12.6,44.1,5,6.45,outubro/2026
-Campinas,Ville Sainte Helene,sala,venda,11233.6,9883.2,12102.3,6,,outubro/2026
-Campinas,Centro,galpao,aluguel,37.9,30.9,45.4,6,,outubro/2026
-Campinas,Jardim do Lago,galpao,aluguel,34.4,32.8,34.5,5,,outubro/2026
-Campinas,Jardim do Trevo,galpao,venda,4448.3,3602.8,5083.2,6,5.85,outubro/2026
-Campinas,Jardim do Trevo,galpao,aluguel,21.7,19.7,27.2,7,5.85,outubro/2026
-Campinas,Jardim Santana,galpao,aluguel,42.7,41.9,44.2,5,,outubro/2026
-Campinas,Parque Industrial,galpao,aluguel,29.2,27.1,31.4,5,,outubro/2026
-Campinas,Parque Via Norte,galpao,aluguel,22.5,17.8,25.6,6,,outubro/2026
-Campinas,Taquaral,galpao,aluguel,45.6,37.1,60.0,5,,outubro/2026
-Campinas,Techno Park,galpao,aluguel,47.0,33.8,51.5,5,,outubro/2026
-Campinas,Vila Industrial,galpao,aluguel,18.9,17.7,21.2,6,,outubro/2026
-Campinas,Vila Pompéia,galpao,aluguel,29.4,28.7,31.6,5,,outubro/2026
+Campinas,Alphaville,apartamento,venda,9388.8,8563.6,12008.9,16,6.11,novembro/2026
+Campinas,Alphaville,apartamento,aluguel,47.8,44.1,56.4,14,6.11,novembro/2026
+Campinas,Bairro das Palmeiras,apartamento,venda,12307.0,9966.7,15108.7,17,6.29,novembro/2026
+Campinas,Bairro das Palmeiras,apartamento,aluguel,64.5,61.9,69.5,6,6.29,novembro/2026
+Campinas,Barão Geraldo,apartamento,venda,11936.5,11164.2,13006.3,6,5.84,novembro/2026
+Campinas,Barão Geraldo,apartamento,aluguel,58.1,45.8,68.6,12,5.84,novembro/2026
+Campinas,Bonfim,apartamento,venda,7142.9,5365.5,8966.7,95,8.11,novembro/2026
+Campinas,Bonfim,apartamento,aluguel,48.3,40.4,55.5,59,8.11,novembro/2026
+Campinas,Bosque,apartamento,venda,5808.2,4814.2,7103.3,106,12.44,novembro/2026
+Campinas,Bosque,apartamento,aluguel,60.2,35.6,78.1,76,12.44,novembro/2026
+Campinas,Botafogo,apartamento,venda,5841.1,4406.1,8959.3,130,9.7,novembro/2026
+Campinas,Botafogo,apartamento,aluguel,47.2,32.9,73.8,64,9.7,novembro/2026
+Campinas,Cambuí,apartamento,venda,9949.7,7160.1,14369.1,756,7.02,novembro/2026
+Campinas,Cambuí,apartamento,aluguel,58.2,37.8,86.5,530,7.02,novembro/2026
+Campinas,Centro,apartamento,venda,4887.6,3609.7,6787.5,370,9.89,novembro/2026
+Campinas,Centro,apartamento,aluguel,40.3,27.0,65.4,211,9.89,novembro/2026
+Campinas,Chácara da Barra,apartamento,venda,10000.0,5722.6,13170.3,52,6.0,novembro/2026
+Campinas,Chácara da Barra,apartamento,aluguel,50.0,38.2,54.9,7,6.0,novembro/2026
+Campinas,Chácara Primavera,apartamento,venda,8346.9,7713.1,9261.2,38,6.54,novembro/2026
+Campinas,Chácara Primavera,apartamento,aluguel,45.5,38.5,56.1,19,6.54,novembro/2026
+Campinas,Cidade Jardim,apartamento,venda,3625.0,2857.1,6128.2,13,,novembro/2026
+Campinas,Cidade Satélite Íris,apartamento,venda,5208.3,4416.7,7391.3,21,9.12,novembro/2026
+Campinas,Cidade Satélite Íris,apartamento,aluguel,39.6,32.9,46.5,15,9.12,novembro/2026
+Campinas,Cidade Universitária,apartamento,aluguel,52.6,44.2,69.2,44,,novembro/2026
+Campinas,Conjunto Habitacional Edivaldo Antônio Orsi,apartamento,venda,3000.0,2842.3,3263.3,11,,novembro/2026
+Campinas,Conjunto Residencial Parque Bandeirantes,apartamento,venda,3857.1,3337.7,4090.9,9,,novembro/2026
+Campinas,Conjunto Residencial Souza Queiroz,apartamento,venda,3333.3,3142.9,3466.7,13,,novembro/2026
+Campinas,Dic I (Conjunto Habitacional Monsenhor Luiz Fernando Abreu),apartamento,venda,3125.0,3043.5,3761.0,5,,novembro/2026
+Campinas,Dic II (Conj Habitacional Doutor Antônio Mendonça de Barros),apartamento,venda,3303.4,3041.9,3559.8,10,,novembro/2026
+Campinas,Fazenda Santa Cândida,apartamento,venda,12430.4,10222.2,14476.0,22,,novembro/2026
+Campinas,Fazenda São Quirino,apartamento,venda,15510.2,11940.3,16894.2,41,6.88,novembro/2026
+Campinas,Fazenda São Quirino,apartamento,aluguel,88.9,76.7,100.5,22,6.88,novembro/2026
+Campinas,Fundação da Casa Popular,apartamento,venda,7660.0,6848.2,8262.4,19,8.15,novembro/2026
+Campinas,Fundação da Casa Popular,apartamento,aluguel,52.0,47.4,57.5,14,8.15,novembro/2026
+Campinas,Galleria,apartamento,venda,12866.4,8437.6,13964.6,5,,novembro/2026
+Campinas,Guanabara,apartamento,venda,11117.6,10804.1,11992.6,7,,novembro/2026
+Campinas,Jardim Aero Continental,apartamento,venda,5689.7,5263.1,6333.3,13,,novembro/2026
+Campinas,Jardim Amazonas,apartamento,venda,5228.5,4363.7,6097.8,18,,novembro/2026
+Campinas,Jardim Anchieta,apartamento,venda,3764.9,3434.9,4139.3,16,,novembro/2026
+Campinas,Jardim Andorinhas,apartamento,venda,4140.6,3897.5,4583.3,27,,novembro/2026
+Campinas,Jardim Antonio Von Zuben,apartamento,venda,5659.4,5346.3,6183.2,28,8.04,novembro/2026
+Campinas,Jardim Antonio Von Zuben,apartamento,aluguel,37.9,37.0,40.7,6,8.04,novembro/2026
+Campinas,Jardim Aurélia,apartamento,venda,8771.2,6868.3,10533.1,36,6.59,novembro/2026
+Campinas,Jardim Aurélia,apartamento,aluguel,48.2,41.7,55.7,33,6.59,novembro/2026
+Campinas,Jardim Baronesa,apartamento,venda,8136.4,6228.2,8984.0,34,8.04,novembro/2026
+Campinas,Jardim Baronesa,apartamento,aluguel,54.5,50.0,56.2,5,8.04,novembro/2026
+Campinas,Jardim Bela Vista,apartamento,venda,6187.5,4604.2,10354.6,7,7.12,novembro/2026
+Campinas,Jardim Bela Vista,apartamento,aluguel,36.7,34.1,40.4,5,7.12,novembro/2026
+Campinas,Jardim Belo Horizonte,apartamento,venda,14951.1,12913.7,16830.6,26,5.14,novembro/2026
+Campinas,Jardim Belo Horizonte,apartamento,aluguel,64.0,59.2,70.2,18,5.14,novembro/2026
+Campinas,Jardim Boa Esperança,apartamento,venda,6180.9,5648.9,7613.2,6,8.87,novembro/2026
+Campinas,Jardim Boa Esperança,apartamento,aluguel,45.7,40.6,53.3,10,8.87,novembro/2026
+Campinas,Jardim Bom Sucesso,apartamento,venda,5230.8,5166.7,5630.4,9,,novembro/2026
+Campinas,Jardim Brasil,apartamento,venda,12010.3,8143.2,14051.7,38,6.35,novembro/2026
+Campinas,Jardim Brasil,apartamento,aluguel,63.6,56.7,70.8,19,6.35,novembro/2026
+Campinas,Jardim Campos Elíseos,apartamento,venda,5619.7,3803.9,7966.4,36,10.66,novembro/2026
+Campinas,Jardim Campos Elíseos,apartamento,aluguel,49.9,28.8,60.0,14,10.66,novembro/2026
+Campinas,Jardim Capivari,apartamento,venda,5341.2,3794.4,6010.5,44,,novembro/2026
+Campinas,Jardim Centenário,apartamento,venda,6111.1,5333.3,6190.5,5,,novembro/2026
+Campinas,Jardim Chapadão,apartamento,venda,5386.4,4608.4,9308.8,39,9.36,novembro/2026
+Campinas,Jardim Chapadão,apartamento,aluguel,42.0,28.8,50.0,21,9.36,novembro/2026
+Campinas,Jardim Cristina,apartamento,venda,4134.6,3918.8,4310.4,16,,novembro/2026
+Campinas,Jardim das Bandeiras,apartamento,venda,3571.4,3240.9,3958.3,20,9.61,novembro/2026
+Campinas,Jardim das Bandeiras,apartamento,aluguel,28.6,26.6,37.6,11,9.61,novembro/2026
+Campinas,Jardim das Cerejeiras,apartamento,venda,8437.5,7925.7,9691.3,7,6.58,novembro/2026
+Campinas,Jardim das Cerejeiras,apartamento,aluguel,46.3,43.4,52.6,13,6.58,novembro/2026
+Campinas,Jardim das Paineiras,apartamento,venda,9090.9,6777.2,13549.1,39,,novembro/2026
+Campinas,Jardim das Palmeiras,apartamento,venda,10909.1,10406.4,13175.8,5,,novembro/2026
+Campinas,Jardim do Lago,apartamento,venda,6466.7,5456.2,6975.6,31,6.27,novembro/2026
+Campinas,Jardim do Lago,apartamento,aluguel,33.8,30.6,36.8,12,6.27,novembro/2026
+Campinas,Jardim do Lago Continuação,apartamento,venda,5022.7,4432.6,5677.5,27,7.0,novembro/2026
+Campinas,Jardim do Lago Continuação,apartamento,aluguel,29.3,27.1,34.0,5,7.0,novembro/2026
+Campinas,Jardim do Lago II,apartamento,venda,5346.4,4543.5,5854.9,26,,novembro/2026
+Campinas,Jardim do Trevo,apartamento,venda,4181.2,3516.9,4645.8,6,13.52,novembro/2026
+Campinas,Jardim do Trevo,apartamento,aluguel,47.1,36.7,52.6,6,13.52,novembro/2026
+Campinas,Jardim do Vovô,apartamento,venda,4158.3,3679.8,4239.3,12,,novembro/2026
+Campinas,Jardim Dom Bosco,apartamento,venda,11666.7,8986.2,12428.6,5,4.38,novembro/2026
+Campinas,Jardim Dom Bosco,apartamento,aluguel,42.6,40.7,43.9,6,4.38,novembro/2026
+Campinas,Jardim Dom Vieira,apartamento,venda,5953.0,5127.0,6145.0,10,7.64,novembro/2026
+Campinas,Jardim Dom Vieira,apartamento,aluguel,37.9,32.9,46.7,7,7.64,novembro/2026
+Campinas,Jardim dos Oliveiras,apartamento,venda,5079.4,4484.6,8041.4,15,7.54,novembro/2026
+Campinas,Jardim dos Oliveiras,apartamento,aluguel,31.9,30.4,39.7,6,7.54,novembro/2026
+Campinas,Jardim Esmeraldina,apartamento,venda,5409.7,5000.0,5902.1,26,,novembro/2026
+Campinas,Jardim Flamboyant,apartamento,venda,5846.2,4984.4,8466.7,77,9.11,novembro/2026
+Campinas,Jardim Flamboyant,apartamento,aluguel,44.4,31.2,54.4,25,9.11,novembro/2026
+Campinas,Jardim García,apartamento,venda,5690.5,4142.9,7273.2,25,,novembro/2026
+Campinas,Jardim Guanabara,apartamento,venda,11505.5,7456.3,13187.6,82,7.06,novembro/2026
+Campinas,Jardim Guanabara,apartamento,aluguel,67.7,53.3,83.7,69,7.06,novembro/2026
+Campinas,Jardim Guarani,apartamento,venda,6545.0,5392.6,8185.8,26,9.41,novembro/2026
+Campinas,Jardim Guarani,apartamento,aluguel,51.3,45.6,54.2,6,9.41,novembro/2026
+Campinas,Jardim Ibirapuera,apartamento,venda,7732.6,6728.7,9040.4,14,9.42,novembro/2026
+Campinas,Jardim Ibirapuera,apartamento,aluguel,60.7,51.6,68.3,34,9.42,novembro/2026
+Campinas,Jardim Icaraí,apartamento,venda,5000.0,5000.0,5454.5,5,,novembro/2026
+Campinas,Jardim Interlagos,apartamento,venda,3928.6,3691.7,4391.5,30,,novembro/2026
+Campinas,Jardim Ipaussurama,apartamento,venda,6083.3,5479.5,7135.1,24,8.82,novembro/2026
+Campinas,Jardim Ipaussurama,apartamento,aluguel,44.7,37.2,49.1,21,8.82,novembro/2026
+Campinas,Jardim Itamarati,apartamento,venda,14910.7,14290.6,16604.0,11,6.99,novembro/2026
+Campinas,Jardim Itamarati,apartamento,aluguel,86.8,78.9,105.2,9,6.99,novembro/2026
+Campinas,Jardim Itatiaia,apartamento,venda,6186.0,5353.5,7509.1,5,,novembro/2026
+Campinas,Jardim Itayu,apartamento,venda,4400.0,3921.6,4700.0,5,,novembro/2026
+Campinas,Jardim Madalena,apartamento,venda,14186.6,12085.7,16033.3,40,5.73,novembro/2026
+Campinas,Jardim Madalena,apartamento,aluguel,67.7,49.3,90.4,22,5.73,novembro/2026
+Campinas,Jardim Márcia,apartamento,venda,4691.2,4298.0,5274.4,39,,novembro/2026
+Campinas,Jardim Margarida,apartamento,venda,6835.6,6181.4,7481.1,7,,novembro/2026
+Campinas,Jardim Mercedes,apartamento,venda,6145.8,6104.3,6170.2,5,,novembro/2026
+Campinas,Jardim Miranda,apartamento,venda,5070.2,4600.5,5577.8,11,6.91,novembro/2026
+Campinas,Jardim Miranda,apartamento,aluguel,29.2,26.9,31.0,5,6.91,novembro/2026
+Campinas,Jardim Mirassol,apartamento,venda,4357.3,3816.0,4861.8,12,,novembro/2026
+Campinas,Jardim Monte Alto,apartamento,venda,4242.4,4073.6,4573.9,6,,novembro/2026
+Campinas,Jardim Myrian Moreira da Costa,apartamento,venda,7924.5,7245.3,8273.3,11,6.53,novembro/2026
+Campinas,Jardim Myrian Moreira da Costa,apartamento,aluguel,43.1,30.1,44.3,7,6.53,novembro/2026
+Campinas,Jardim Nossa Senhora Auxiliadora,apartamento,venda,6949.9,5782.8,10603.5,12,10.36,novembro/2026
+Campinas,Jardim Nossa Senhora Auxiliadora,apartamento,aluguel,60.0,60.0,63.0,5,10.36,novembro/2026
+Campinas,Jardim Nova Abolição,apartamento,venda,5319.1,5250.0,5444.4,5,,novembro/2026
+Campinas,Jardim Nova Europa,apartamento,venda,6767.3,5675.3,8416.7,94,8.42,novembro/2026
+Campinas,Jardim Nova Europa,apartamento,aluguel,47.5,40.5,56.3,63,8.42,novembro/2026
+Campinas,Jardim Novo Campos Elíseos,apartamento,venda,4468.2,3355.3,5071.3,8,,novembro/2026
+Campinas,Jardim Novo Maracanã,apartamento,venda,4211.6,3576.9,4972.1,10,,novembro/2026
+Campinas,Jardim Pacaembu,apartamento,venda,4082.3,3687.5,4362.5,34,,novembro/2026
+Campinas,Jardim Paraíso,apartamento,venda,5628.0,5065.8,6663.8,30,6.03,novembro/2026
+Campinas,Jardim Paraíso,apartamento,aluguel,28.3,27.3,41.2,13,6.03,novembro/2026
+Campinas,Jardim Paranapanema,apartamento,venda,6835.4,6139.2,7747.6,29,,novembro/2026
+Campinas,Jardim Paulicéia,apartamento,venda,4255.3,3782.0,5219.3,55,7.25,novembro/2026
+Campinas,Jardim Paulicéia,apartamento,aluguel,25.7,22.4,30.8,12,7.25,novembro/2026
+Campinas,Jardim Paulistano,apartamento,aluguel,27.9,26.0,44.5,6,,novembro/2026
+Campinas,Jardim Planalto,apartamento,venda,10168.4,7214.2,12983.2,38,7.87,novembro/2026
+Campinas,Jardim Planalto,apartamento,aluguel,66.7,45.4,88.6,10,7.87,novembro/2026
+Campinas,Jardim Primavera,apartamento,venda,7142.9,6662.7,8720.2,23,,novembro/2026
+Campinas,Jardim Proença,apartamento,venda,5985.1,5392.2,7586.5,80,6.8,novembro/2026
+Campinas,Jardim Proença,apartamento,aluguel,33.9,32.5,51.6,14,6.8,novembro/2026
+Campinas,Jardim Proença I,apartamento,venda,6110.2,5170.5,6913.3,8,,novembro/2026
+Campinas,Jardim Rossin,apartamento,venda,4777.8,4539.3,5016.6,8,,novembro/2026
+Campinas,Jardim Samambaia,apartamento,venda,5647.8,5161.9,6405.4,32,7.76,novembro/2026
+Campinas,Jardim Samambaia,apartamento,aluguel,36.5,33.7,40.2,7,7.76,novembro/2026
+Campinas,Jardim San Diego,apartamento,venda,4363.1,3991.4,4549.9,16,,novembro/2026
+Campinas,Jardim Santa Cruz,apartamento,venda,3693.2,2686.9,4212.0,12,,novembro/2026
+Campinas,Jardim Santa Genebra,apartamento,venda,10833.3,8166.7,11952.8,9,,novembro/2026
+Campinas,Jardim Santa Lúcia,apartamento,venda,3773.6,3214.3,5094.3,9,,novembro/2026
+Campinas,Jardim Santa Marcelina,apartamento,venda,6400.0,6000.0,6750.0,9,,novembro/2026
+Campinas,Jardim São Carlos,apartamento,venda,13983.1,13544.0,15254.2,9,,novembro/2026
+Campinas,Jardim São Gabriel,apartamento,venda,5952.4,5111.1,6547.6,21,,novembro/2026
+Campinas,Jardim São José,apartamento,venda,4777.8,4523.8,5228.1,9,,novembro/2026
+Campinas,Jardim São Rafael,apartamento,venda,7000.0,6860.7,7382.0,7,,novembro/2026
+Campinas,Jardim São Vicente,apartamento,venda,7211.5,4649.1,8923.1,25,7.52,novembro/2026
+Campinas,Jardim São Vicente,apartamento,aluguel,45.2,36.4,51.8,22,7.52,novembro/2026
+Campinas,Jardim Uruguai,apartamento,venda,4081.6,3507.5,6102.0,5,,novembro/2026
+Campinas,Loteamento Center Santa Genebra,apartamento,venda,7763.2,7586.2,8394.7,5,7.31,novembro/2026
+Campinas,Loteamento Center Santa Genebra,apartamento,aluguel,47.3,46.6,55.9,7,7.31,novembro/2026
+Campinas,Loteamento Chácara Prado,apartamento,venda,9073.0,8393.2,9563.2,6,6.61,novembro/2026
+Campinas,Loteamento Chácara Prado,apartamento,aluguel,50.0,46.1,54.7,6,6.61,novembro/2026
+Campinas,Loteamento Country Ville,apartamento,venda,3535.7,3410.7,3892.9,6,,novembro/2026
+Campinas,Loteamento Parque das Águas,apartamento,venda,5227.3,4786.4,5708.0,11,9.23,novembro/2026
+Campinas,Loteamento Parque das Águas,apartamento,aluguel,40.2,37.6,54.3,10,9.23,novembro/2026
+Campinas,Loteamento Parque São Martinho,apartamento,venda,5543.5,4897.9,7138.9,35,8.46,novembro/2026
+Campinas,Loteamento Parque São Martinho,apartamento,aluguel,39.1,36.9,55.9,15,8.46,novembro/2026
+Campinas,Loteamento Residencial Parque dos Cantos,apartamento,venda,5241.0,4977.4,5580.6,10,8.63,novembro/2026
+Campinas,Loteamento Residencial Parque dos Cantos,apartamento,aluguel,37.7,36.2,38.1,5,8.63,novembro/2026
+Campinas,Loteamento Residencial Vila Bella,apartamento,venda,10455.2,8989.8,11666.2,36,5.6,novembro/2026
+Campinas,Loteamento Residencial Vila Bella,apartamento,aluguel,48.8,46.8,54.6,11,5.6,novembro/2026
+Campinas,Loteamento Residencial Vila Bella Dom Pedro,apartamento,venda,12687.8,11514.2,14063.9,10,6.31,novembro/2026
+Campinas,Loteamento Residencial Vila Bella Dom Pedro,apartamento,aluguel,66.7,55.8,72.0,9,6.31,novembro/2026
+Campinas,Mansões Santo Antônio,apartamento,venda,9670.8,7927.1,11354.9,154,6.73,novembro/2026
+Campinas,Mansões Santo Antônio,apartamento,aluguel,54.2,43.5,64.6,119,6.73,novembro/2026
+Campinas,Notre Dame,apartamento,venda,9782.6,8686.1,10476.2,13,6.78,novembro/2026
+Campinas,Notre Dame,apartamento,aluguel,55.3,45.6,65.2,11,6.78,novembro/2026
+Campinas,Nova Campinas,apartamento,venda,14876.0,11904.8,18128.7,137,8.0,novembro/2026
+Campinas,Nova Campinas,apartamento,aluguel,99.2,82.6,120.4,65,8.0,novembro/2026
+Campinas,Parque Brasília,apartamento,venda,7688.5,6116.9,8743.7,36,4.62,novembro/2026
+Campinas,Parque Brasília,apartamento,aluguel,29.6,28.1,35.8,13,4.62,novembro/2026
+Campinas,Parque Camélias,apartamento,venda,4830.5,4355.0,5042.3,7,,novembro/2026
+Campinas,Parque da Hípica,apartamento,venda,10044.4,8659.7,12225.3,14,,novembro/2026
+Campinas,Parque das Cachoeiras,apartamento,venda,6021.6,5548.0,6611.1,46,,novembro/2026
+Campinas,Parque das Constelações,apartamento,venda,4777.8,4359.5,4895.8,7,,novembro/2026
+Campinas,Parque das Flores,apartamento,venda,10267.1,9381.7,12338.7,22,6.66,novembro/2026
+Campinas,Parque das Flores,apartamento,aluguel,57.0,51.3,60.3,13,6.66,novembro/2026
+Campinas,Parque Dom Pedro II,apartamento,venda,4957.6,3378.0,5484.7,10,,novembro/2026
+Campinas,Parque Fazendinha,apartamento,venda,5505.5,5188.7,6067.2,16,6.84,novembro/2026
+Campinas,Parque Fazendinha,apartamento,aluguel,31.4,30.0,33.5,9,6.84,novembro/2026
+Campinas,Parque Industrial,apartamento,venda,7872.2,6612.7,9647.4,60,8.22,novembro/2026
+Campinas,Parque Industrial,apartamento,aluguel,53.9,45.2,70.1,60,8.22,novembro/2026
+Campinas,Parque Itália,apartamento,venda,6000.0,5000.0,10181.8,29,8.52,novembro/2026
+Campinas,Parque Itália,apartamento,aluguel,42.6,31.4,50.3,12,8.52,novembro/2026
+Campinas,Parque Jambeiro,apartamento,venda,6115.4,5955.6,7000.0,5,,novembro/2026
+Campinas,Parque Nova,apartamento,venda,10829.6,8527.4,12225.0,18,,novembro/2026
+Campinas,Parque Prado,apartamento,venda,9994.7,7715.2,11304.5,92,6.0,novembro/2026
+Campinas,Parque Prado,apartamento,aluguel,50.0,42.4,57.3,51,6.0,novembro/2026
+Campinas,Parque Residencial Vila União,apartamento,venda,3581.3,3311.4,4000.0,12,10.55,novembro/2026
+Campinas,Parque Residencial Vila União,apartamento,aluguel,31.5,23.7,37.6,10,10.55,novembro/2026
+Campinas,Parque Rural Fazenda Santa Cândida,apartamento,venda,11339.3,10368.1,13328.7,34,7.31,novembro/2026
+Campinas,Parque Rural Fazenda Santa Cândida,apartamento,aluguel,69.1,51.3,78.6,39,7.31,novembro/2026
+Campinas,Parque São Jorge,apartamento,venda,4117.6,3750.0,5000.0,13,7.87,novembro/2026
+Campinas,Parque São Jorge,apartamento,aluguel,27.0,25.4,29.2,9,7.87,novembro/2026
+Campinas,Parque Sao Martinho,apartamento,venda,4777.8,4710.5,5434.8,5,,novembro/2026
+Campinas,Parque Taquaral,apartamento,venda,8095.2,6404.2,12060.6,11,9.66,novembro/2026
+Campinas,Parque Taquaral,apartamento,aluguel,65.2,42.4,70.4,8,9.66,novembro/2026
+Campinas,Parque Universitário de Viracopos,apartamento,venda,4998.2,4144.9,5674.0,8,,novembro/2026
+Campinas,Parque Valença I,apartamento,venda,4021.7,3775.0,4481.6,23,,novembro/2026
+Campinas,Ponte Preta,apartamento,venda,6178.6,4788.7,9750.0,73,9.34,novembro/2026
+Campinas,Ponte Preta,apartamento,aluguel,48.1,37.9,57.6,45,9.34,novembro/2026
+Campinas,Recanto do Sol I,apartamento,venda,4166.7,3750.0,5106.4,41,,novembro/2026
+Campinas,Recanto Fortuna,apartamento,venda,5113.6,4250.6,5839.5,16,,novembro/2026
+Campinas,Residencial Bela Aliança,apartamento,venda,6923.1,6153.8,7403.8,5,,novembro/2026
+Campinas,Residencial Cosmos,apartamento,venda,4427.2,3968.8,4770.0,10,7.94,novembro/2026
+Campinas,Residencial Cosmos,apartamento,aluguel,29.3,25.7,30.7,8,7.94,novembro/2026
+Campinas,Residencial Fazenda Lagoa,apartamento,venda,5142.9,4637.3,5882.4,21,,novembro/2026
+Campinas,Residencial Moradas do Valle,apartamento,venda,4416.3,2370.2,5232.6,17,,novembro/2026
+Campinas,Residencial Parque da Fazenda,apartamento,venda,7057.9,6205.9,8747.3,22,9.71,novembro/2026
+Campinas,Residencial Parque da Fazenda,apartamento,aluguel,57.1,46.2,73.0,29,9.71,novembro/2026
+Campinas,Residencial Sírius,apartamento,venda,3571.4,3044.9,8026.8,23,,novembro/2026
+Campinas,Residencial Vila Park,apartamento,venda,4355.8,3961.4,4788.6,26,,novembro/2026
+Campinas,Residencial Villa Garden,apartamento,aluguel,54.5,50.6,57.0,7,,novembro/2026
+Campinas,Santa Cândida,apartamento,venda,10994.7,10904.6,12011.4,6,,novembro/2026
+Campinas,São Bernardo,apartamento,venda,5187.5,4351.9,7692.3,101,9.46,novembro/2026
+Campinas,São Bernardo,apartamento,aluguel,40.9,30.4,50.6,46,9.46,novembro/2026
+Campinas,Swift,apartamento,venda,8500.0,5857.1,9070.2,27,6.85,novembro/2026
+Campinas,Swift,apartamento,aluguel,48.5,42.7,53.2,44,6.85,novembro/2026
+Campinas,Swiss Park,apartamento,venda,12202.1,10125.6,14019.8,54,7.32,novembro/2026
+Campinas,Swiss Park,apartamento,aluguel,74.4,65.5,86.4,49,7.32,novembro/2026
+Campinas,Taquaral,apartamento,venda,10850.5,7999.5,13696.5,178,6.83,novembro/2026
+Campinas,Taquaral,apartamento,aluguel,61.8,45.3,75.8,114,6.83,novembro/2026
+Campinas,Vila Abaeté,apartamento,venda,4247.2,3475.2,4898.3,7,,novembro/2026
+Campinas,Vila Anhangüera,apartamento,venda,7326.9,6338.9,9337.3,12,8.34,novembro/2026
+Campinas,Vila Anhangüera,apartamento,aluguel,50.9,36.6,60.1,7,8.34,novembro/2026
+Campinas,Vila Aurocan,apartamento,venda,7457.1,6981.2,8014.7,7,,novembro/2026
+Campinas,Vila Brandina,apartamento,venda,10552.9,8499.3,12954.5,44,6.89,novembro/2026
+Campinas,Vila Brandina,apartamento,aluguel,60.6,44.8,70.8,37,6.89,novembro/2026
+Campinas,Vila Campos Sales,apartamento,venda,5204.7,4841.7,5634.9,16,,novembro/2026
+Campinas,Vila Carminha,apartamento,venda,4997.5,4483.2,5606.4,38,,novembro/2026
+Campinas,Vila Castelo Branco,apartamento,venda,3500.0,3225.8,3846.2,5,,novembro/2026
+Campinas,Vila Eliza,apartamento,venda,12714.3,11896.6,13333.3,5,7.34,novembro/2026
+Campinas,Vila Eliza,apartamento,aluguel,77.8,71.1,81.4,5,7.34,novembro/2026
+Campinas,Vila Estanislau,apartamento,venda,6947.2,6441.7,7795.5,16,,novembro/2026
+Campinas,Vila Industrial,apartamento,venda,5393.3,4507.9,7015.6,87,8.83,novembro/2026
+Campinas,Vila Industrial,apartamento,aluguel,39.7,30.4,48.5,43,8.83,novembro/2026
+Campinas,Vila Ipê,apartamento,venda,7200.0,5724.2,8146.4,43,5.43,novembro/2026
+Campinas,Vila Ipê,apartamento,aluguel,32.6,29.9,38.8,7,5.43,novembro/2026
+Campinas,Vila Itália,apartamento,venda,4356.2,4167.8,4842.4,11,,novembro/2026
+Campinas,Vila Itapura,apartamento,venda,6990.0,5201.7,11095.6,132,10.73,novembro/2026
+Campinas,Vila Itapura,apartamento,aluguel,62.5,43.0,82.8,69,10.73,novembro/2026
+Campinas,Vila Jequitibás,apartamento,venda,5072.7,4473.7,5873.0,9,,novembro/2026
+Campinas,Vila João Jorge,apartamento,venda,6136.4,5000.0,7914.8,41,7.16,novembro/2026
+Campinas,Vila João Jorge,apartamento,aluguel,36.6,25.6,45.8,18,7.16,novembro/2026
+Campinas,Vila Joaquim Inácio,apartamento,venda,4162.3,3816.4,4359.9,10,,novembro/2026
+Campinas,Vila Lemos,apartamento,venda,5416.7,4525.2,6590.9,7,,novembro/2026
+Campinas,Vila Lídia,apartamento,venda,11261.9,9750.0,14130.4,16,7.85,novembro/2026
+Campinas,Vila Lídia,apartamento,aluguel,73.7,55.0,87.2,27,7.85,novembro/2026
+Campinas,Vila Marieta,apartamento,venda,6162.0,4669.1,7556.5,34,8.1,novembro/2026
+Campinas,Vila Marieta,apartamento,aluguel,41.6,34.5,46.1,17,8.1,novembro/2026
+Campinas,Vila Miguel Vicente Cury,apartamento,venda,8583.3,7854.1,9291.1,22,,novembro/2026
+Campinas,Vila Mimosa,apartamento,venda,4476.2,3706.3,6466.4,22,10.78,novembro/2026
+Campinas,Vila Mimosa,apartamento,aluguel,40.2,32.3,41.8,8,10.78,novembro/2026
+Campinas,Vila Nova,apartamento,venda,8250.0,7239.7,9778.6,39,7.26,novembro/2026
+Campinas,Vila Nova,apartamento,aluguel,49.9,43.3,54.3,40,7.26,novembro/2026
+Campinas,Vila Nova Teixeira,apartamento,venda,4975.0,4758.3,5442.5,8,,novembro/2026
+Campinas,Vila Padre Manoel de Nóbrega,apartamento,venda,3600.0,3389.8,3900.0,9,,novembro/2026
+Campinas,Vila Palácios,apartamento,venda,6193.2,4735.5,7479.7,30,7.75,novembro/2026
+Campinas,Vila Palácios,apartamento,aluguel,40.0,30.7,48.3,7,7.75,novembro/2026
+Campinas,Vila Paraíso,apartamento,venda,6200.0,5312.5,7142.9,13,,novembro/2026
+Campinas,Vila Pompéia,apartamento,venda,4359.4,3900.0,4933.3,13,,novembro/2026
+Campinas,Vila Progresso,apartamento,venda,8113.2,5441.2,8981.5,21,8.16,novembro/2026
+Campinas,Vila Progresso,apartamento,aluguel,55.2,49.1,58.4,23,8.16,novembro/2026
+Campinas,Vila Proost de Souza,apartamento,venda,4750.0,4090.9,9195.7,45,13.31,novembro/2026
+Campinas,Vila Proost de Souza,apartamento,aluguel,52.7,38.8,61.5,13,13.31,novembro/2026
+Campinas,Vila Rossi Borghi e Siqueira,apartamento,venda,5714.3,4373.8,7301.4,31,,novembro/2026
+Campinas,Vila San Martin,apartamento,venda,3200.0,2604.2,3385.7,7,,novembro/2026
+Campinas,Vila Santana,apartamento,venda,4734.6,4390.6,5181.0,6,,novembro/2026
+Campinas,Vila São Bento,apartamento,venda,7044.1,5312.5,7877.0,43,7.79,novembro/2026
+Campinas,Vila São Bento,apartamento,aluguel,45.7,29.5,49.0,8,7.79,novembro/2026
+Campinas,Vila São Jorge,apartamento,aluguel,44.6,34.1,46.8,12,,novembro/2026
+Campinas,Vila Satúrnia,apartamento,venda,8348.5,7524.8,8941.9,22,7.72,novembro/2026
+Campinas,Vila Satúrnia,apartamento,aluguel,53.7,49.6,61.0,19,7.72,novembro/2026
+Campinas,Vila Teixeira,apartamento,venda,6293.9,5654.8,7023.8,6,,novembro/2026
+Campinas,Vila Trinta e Um de Março,apartamento,venda,7981.2,6444.4,8370.2,5,9.61,novembro/2026
+Campinas,Vila Trinta e Um de Março,apartamento,aluguel,63.9,58.7,69.7,5,9.61,novembro/2026
+Campinas,Alphaville,casa,venda,9153.8,8130.9,10802.5,117,5.94,novembro/2026
+Campinas,Alphaville,casa,aluguel,45.3,34.1,50.2,41,5.94,novembro/2026
+Campinas,Alphaville Dom Pedro,casa,venda,10873.0,10000.0,11761.9,37,,novembro/2026
+Campinas,Alphaville Dom Pedro 2,casa,venda,12548.9,11930.9,13429.2,8,,novembro/2026
+Campinas,Alphaville Dom Pedro 3,casa,venda,12252.5,11500.0,13632.8,21,,novembro/2026
+Campinas,Alto Taquaral,casa,venda,5970.9,5324.8,6683.7,15,,novembro/2026
+Campinas,Arborais,casa,venda,10688.7,10467.5,11205.2,8,,novembro/2026
+Campinas,Bairro das Palmeiras,casa,venda,7873.0,5850.9,10831.5,52,5.9,novembro/2026
+Campinas,Bairro das Palmeiras,casa,aluguel,38.7,32.3,49.7,16,5.9,novembro/2026
+Campinas,Barão Geraldo,casa,venda,6316.3,4778.6,8319.4,136,6.48,novembro/2026
+Campinas,Barão Geraldo,casa,aluguel,34.1,28.8,42.4,20,6.48,novembro/2026
+Campinas,Barão Geraldo - Centro,casa,venda,3949.7,3763.2,4820.7,7,,novembro/2026
+Campinas,Bonfim,casa,venda,5100.3,3976.0,6581.8,19,5.43,novembro/2026
+Campinas,Bonfim,casa,aluguel,23.1,16.9,26.1,10,5.43,novembro/2026
+Campinas,Bosque,casa,venda,4485.2,3601.7,5363.1,18,9.58,novembro/2026
+Campinas,Bosque,casa,aluguel,35.8,26.8,46.5,22,9.58,novembro/2026
+Campinas,Bosque das Palmeiras,casa,venda,4687.5,3564.6,5965.3,39,,novembro/2026
+Campinas,Bosque de Barão Geraldo,casa,venda,4669.6,3716.2,5831.5,16,,novembro/2026
+Campinas,Botafogo,casa,venda,4491.4,3566.2,4906.5,24,6.84,novembro/2026
+Campinas,Botafogo,casa,aluguel,25.6,20.0,34.3,17,6.84,novembro/2026
+Campinas,Cambuí,casa,venda,8404.9,5832.0,11765.7,38,6.34,novembro/2026
+Campinas,Cambuí,casa,aluguel,44.4,33.4,53.3,62,6.34,novembro/2026
+Campinas,Caminhos de San Conrado,casa,venda,6173.9,4610.6,7197.0,10,,novembro/2026
+Campinas,Centro,casa,venda,4666.7,3027.8,6275.2,19,6.92,novembro/2026
+Campinas,Centro,casa,aluguel,26.9,18.7,36.4,31,6.92,novembro/2026
+Campinas,Chácara da Barra,casa,venda,4521.9,3485.5,5256.7,39,7.91,novembro/2026
+Campinas,Chácara da Barra,casa,aluguel,29.8,23.1,40.0,29,7.91,novembro/2026
+Campinas,Chácara Primavera,casa,venda,8341.5,6049.9,9536.3,72,5.65,novembro/2026
+Campinas,Chácara Primavera,casa,aluguel,39.3,32.3,51.7,39,5.65,novembro/2026
+Campinas,Chácara Santa Letícia,casa,venda,3061.2,2480.6,3151.3,5,,novembro/2026
+Campinas,Chácara Santa Margarida,casa,venda,5876.7,4679.7,6619.6,26,,novembro/2026
+Campinas,Chácara São Rafael,casa,venda,8374.3,7087.1,10205.6,40,,novembro/2026
+Campinas,Cidade Jardim,casa,venda,3515.6,2864.3,4518.1,49,,novembro/2026
+Campinas,Cidade Satélite Íris,casa,venda,2615.4,2246.8,4214.8,11,,novembro/2026
+Campinas,Cidade Universitária,casa,venda,4375.0,3634.5,5639.9,103,7.16,novembro/2026
+Campinas,Cidade Universitária,casa,aluguel,26.1,19.9,29.6,34,7.16,novembro/2026
+Campinas,Cidade Universitária I,casa,venda,4703.8,4094.8,4962.3,13,,novembro/2026
+Campinas,Cidade Universitária II,casa,venda,4432.1,3616.0,6097.5,23,,novembro/2026
+Campinas,Colinas do Ermitage (Sousas),casa,venda,7250.0,5409.1,7865.2,9,,novembro/2026
+Campinas,Conjunto Habitacional Parque da Floresta,casa,venda,2528.2,2246.2,3149.2,16,,novembro/2026
+Campinas,Conjunto Mauro Marcondes,casa,venda,2226.9,1930.5,3043.1,11,,novembro/2026
+Campinas,Conjunto Residencial Parque São Bento,casa,venda,4345.9,2583.3,5351.2,14,,novembro/2026
+Campinas,Dic II (Conj Habitacional Doutor Antônio Mendonça de Barros),casa,venda,2863.1,2280.6,3458.3,9,,novembro/2026
+Campinas,Dic V (Conjunto Habitacional Chico Mendes),casa,venda,2069.4,1421.9,4437.5,8,,novembro/2026
+Campinas,Dic VI (Conjunto Habitacional Santo Dias Silva),casa,venda,2912.0,1892.5,3854.2,6,,novembro/2026
+Campinas,Fazenda Santa Cândida,casa,venda,8818.2,7267.1,10335.4,39,,novembro/2026
+Campinas,Fazenda Santana (Sousas),casa,venda,11320.0,10296.1,12402.6,20,,novembro/2026
+Campinas,Fazenda São Quirino,casa,venda,7300.6,6538.5,8095.2,17,,novembro/2026
+Campinas,Gramado,casa,venda,9677.4,7446.8,12523.5,21,5.56,novembro/2026
+Campinas,Gramado,casa,aluguel,44.8,34.9,52.7,7,5.56,novembro/2026
+Campinas,Guará,casa,venda,3643.4,2209.0,5701.0,6,,novembro/2026
+Campinas,Hipica,casa,venda,7171.4,7100.0,10600.0,5,,novembro/2026
+Campinas,Jardim Aero Continental,casa,venda,4443.6,3027.5,5048.1,15,,novembro/2026
+Campinas,Jardim Alto da Cidade Universitária,casa,venda,5084.7,3859.0,5300.0,9,,novembro/2026
+Campinas,Jardim América,casa,venda,3785.7,3484.4,4274.9,16,,novembro/2026
+Campinas,Jardim Anchieta,casa,venda,3142.9,2531.9,3550.0,21,,novembro/2026
+Campinas,Jardim Andorinhas,casa,venda,3147.5,2202.4,4491.0,14,,novembro/2026
+Campinas,Jardim Antonio Von Zuben,casa,venda,3291.8,2745.6,3756.9,10,,novembro/2026
+Campinas,Jardim Aurélia,casa,venda,4139.4,3271.0,4959.8,25,5.39,novembro/2026
+Campinas,Jardim Aurélia,casa,aluguel,18.6,17.8,22.1,15,5.39,novembro/2026
+Campinas,Jardim Baronesa,casa,venda,3445.5,2556.0,4061.5,26,,novembro/2026
+Campinas,Jardim Bela Vista,casa,venda,4634.5,3297.4,5824.9,16,8.42,novembro/2026
+Campinas,Jardim Bela Vista,casa,aluguel,32.5,27.4,35.6,13,8.42,novembro/2026
+Campinas,Jardim Boa Esperança,casa,venda,5574.8,3980.2,6338.1,18,5.38,novembro/2026
+Campinas,Jardim Boa Esperança,casa,aluguel,25.0,19.5,31.1,22,5.38,novembro/2026
+Campinas,Jardim Bom Retiro,casa,aluguel,30.2,22.2,34.4,5,,novembro/2026
+Campinas,Jardim Botânico (Sousas),casa,venda,5953.9,5208.8,6828.7,8,,novembro/2026
+Campinas,Jardim Brasil,casa,aluguel,38.6,28.5,39.5,5,,novembro/2026
+Campinas,Jardim Campos Elíseos,casa,venda,3304.0,2532.6,4120.0,71,8.54,novembro/2026
+Campinas,Jardim Campos Elíseos,casa,aluguel,23.5,20.8,34.1,9,8.54,novembro/2026
+Campinas,Jardim Capivari,casa,venda,2725.4,2568.6,3231.0,12,,novembro/2026
+Campinas,Jardim Carlos Gomes,casa,venda,5676.9,4930.2,6140.4,5,5.6,novembro/2026
+Campinas,Jardim Carlos Gomes,casa,aluguel,26.5,26.1,27.9,5,5.6,novembro/2026
+Campinas,Jardim Carlos Lourenço,casa,venda,2844.3,2274.6,3288.3,10,,novembro/2026
+Campinas,Jardim Chapadão,casa,venda,4146.3,3401.9,5269.3,132,7.03,novembro/2026
+Campinas,Jardim Chapadão,casa,aluguel,24.3,19.0,28.9,78,7.03,novembro/2026
+Campinas,Jardim Conceição,casa,venda,5723.7,3933.3,6624.7,17,6.31,novembro/2026
+Campinas,Jardim Conceição,casa,aluguel,30.1,20.5,42.1,22,6.31,novembro/2026
+Campinas,Jardim Cristina,casa,venda,3366.0,2933.3,4716.4,11,,novembro/2026
+Campinas,Jardim Cura d'Ars,casa,venda,3344.1,2299.4,4056.6,16,8.04,novembro/2026
+Campinas,Jardim Cura d'Ars,casa,aluguel,22.4,21.9,22.9,5,8.04,novembro/2026
+Campinas,Jardim das Bandeiras,casa,aluguel,25.3,21.8,27.6,7,,novembro/2026
+Campinas,Jardim das Paineiras,casa,venda,6235.3,4317.8,11727.2,32,4.72,novembro/2026
+Campinas,Jardim das Paineiras,casa,aluguel,24.5,23.0,41.1,17,4.72,novembro/2026
+Campinas,Jardim das Palmeiras,casa,venda,6273.7,4380.7,9751.1,10,,novembro/2026
+Campinas,Jardim do Lago,casa,venda,3463.3,2552.8,4500.1,12,6.96,novembro/2026
+Campinas,Jardim do Lago,casa,aluguel,20.1,13.2,30.0,11,6.96,novembro/2026
+Campinas,Jardim do Lago II,casa,venda,3707.3,2941.2,5037.0,5,,novembro/2026
+Campinas,Jardim do Sol,casa,venda,5029.3,3685.8,5658.0,14,,novembro/2026
+Campinas,Jardim do Trevo,casa,venda,3698.8,3187.5,5006.7,12,9.96,novembro/2026
+Campinas,Jardim do Trevo,casa,aluguel,30.7,28.0,35.3,8,9.96,novembro/2026
+Campinas,Jardim do Vovô,casa,aluguel,28.7,28.5,30.8,5,,novembro/2026
+Campinas,Jardim Dom Bosco,casa,venda,5985.8,4218.2,7595.8,6,6.23,novembro/2026
+Campinas,Jardim Dom Bosco,casa,aluguel,31.1,25.0,34.6,11,6.23,novembro/2026
+Campinas,Jardim dos Oliveiras,casa,venda,3497.5,2851.5,4809.2,23,10.22,novembro/2026
+Campinas,Jardim dos Oliveiras,casa,aluguel,29.8,20.6,35.3,22,10.22,novembro/2026
+Campinas,Jardim Esmeraldina,casa,venda,3611.1,3193.3,3794.4,7,,novembro/2026
+Campinas,Jardim Esplanada,casa,venda,2785.7,2142.9,3350.0,13,,novembro/2026
+Campinas,Jardim Estoril,casa,venda,3370.4,2612.1,3698.5,7,,novembro/2026
+Campinas,Jardim Eulina,casa,venda,3478.3,2819.0,4250.0,85,8.07,novembro/2026
+Campinas,Jardim Eulina,casa,aluguel,23.4,19.2,26.4,10,8.07,novembro/2026
+Campinas,Jardim Fernanda,casa,venda,3082.1,2723.5,3333.3,10,,novembro/2026
+Campinas,Jardim Flamboyant,casa,venda,4451.0,3571.4,5625.0,37,6.74,novembro/2026
+Campinas,Jardim Flamboyant,casa,aluguel,25.0,22.6,33.7,19,6.74,novembro/2026
+Campinas,Jardim Florence,casa,venda,3491.4,2389.4,4417.5,11,,novembro/2026
+Campinas,Jardim García,casa,venda,3599.4,2818.0,4075.8,19,,novembro/2026
+Campinas,Jardim Guanabara,casa,venda,4378.9,3500.0,5315.8,62,6.06,novembro/2026
+Campinas,Jardim Guanabara,casa,aluguel,22.1,17.5,29.4,24,6.06,novembro/2026
+Campinas,Jardim Guarani,casa,venda,3584.2,3105.6,4943.2,55,9.94,novembro/2026
+Campinas,Jardim Guarani,casa,aluguel,29.7,21.8,36.6,8,9.94,novembro/2026
+Campinas,Jardim Ibirapuera,casa,venda,5911.3,5581.8,6642.9,7,,novembro/2026
+Campinas,Jardim Icaraí,casa,venda,4173.9,3269.2,5066.8,13,,novembro/2026
+Campinas,Jardim Independência,casa,venda,3640.0,3152.9,4190.3,18,,novembro/2026
+Campinas,Jardim Interlagos,casa,venda,3954.6,2703.2,4842.5,32,,novembro/2026
+Campinas,Jardim Itamarati,casa,aluguel,33.3,30.6,53.8,7,,novembro/2026
+Campinas,Jardim Leonor,casa,venda,3781.0,3045.4,4733.9,22,6.95,novembro/2026
+Campinas,Jardim Leonor,casa,aluguel,21.9,18.1,25.0,15,6.95,novembro/2026
+Campinas,Jardim Lisa,casa,venda,2194.8,1773.7,2440.1,10,,novembro/2026
+Campinas,Jardim Londres,casa,venda,3545.8,2696.3,4593.9,24,,novembro/2026
+Campinas,Jardim Madalena,casa,venda,7100.6,4326.9,11785.7,53,9.95,novembro/2026
+Campinas,Jardim Madalena,casa,aluguel,58.9,38.0,67.2,19,9.95,novembro/2026
+Campinas,Jardim Magnólia,casa,venda,3623.2,3262.5,3843.1,7,,novembro/2026
+Campinas,Jardim Márcia,casa,venda,2539.7,2200.0,3245.2,7,,novembro/2026
+Campinas,Jardim Martinelli (Sousas),casa,venda,6250.0,3855.2,9716.7,7,,novembro/2026
+Campinas,Jardim Melina I,casa,venda,2327.6,2073.1,3808.7,11,,novembro/2026
+Campinas,Jardim Mirassol,casa,venda,3180.0,2548.1,3681.8,21,,novembro/2026
+Campinas,Jardim Myrian Moreira da Costa,casa,venda,4513.5,3359.9,6582.9,8,,novembro/2026
+Campinas,Jardim New York,casa,venda,3658.7,2942.7,4397.4,24,,novembro/2026
+Campinas,Jardim Nilópolis,casa,venda,3394.3,3138.6,4003.1,8,,novembro/2026
+Campinas,Jardim Nossa Senhora Auxiliadora,casa,venda,5159.7,3943.2,5714.3,22,7.63,novembro/2026
+Campinas,Jardim Nossa Senhora Auxiliadora,casa,aluguel,32.8,26.0,40.7,25,7.63,novembro/2026
+Campinas,Jardim Nova Europa,casa,venda,4207.8,3629.6,5390.5,43,7.7,novembro/2026
+Campinas,Jardim Nova Europa,casa,aluguel,27.0,21.0,29.8,20,7.7,novembro/2026
+Campinas,Jardim Novo Barão Geraldo,casa,venda,4803.7,3906.6,6067.2,8,,novembro/2026
+Campinas,Jardim Novo Campos Elíseos,casa,venda,3746.0,2745.5,4349.5,26,7.69,novembro/2026
+Campinas,Jardim Novo Campos Elíseos,casa,aluguel,24.0,20.7,32.1,11,7.69,novembro/2026
+Campinas,Jardim Ouro Preto,casa,venda,2110.1,1806.8,2378.6,7,,novembro/2026
+Campinas,Jardim Pacaembu,casa,venda,2583.9,2293.0,2753.9,8,,novembro/2026
+Campinas,Jardim Paraíso,casa,venda,4158.3,3493.4,5045.0,25,6.84,novembro/2026
+Campinas,Jardim Paraíso,casa,aluguel,23.7,21.0,32.1,21,6.84,novembro/2026
+Campinas,Jardim Paraíso de Viracopos,casa,venda,3318.2,2744.3,3629.2,6,,novembro/2026
+Campinas,Jardim Paranapanema,casa,venda,2744.8,1954.9,4068.9,22,,novembro/2026
+Campinas,Jardim Paulicéia,casa,venda,3187.5,2295.9,4219.8,19,10.2,novembro/2026
+Campinas,Jardim Paulicéia,casa,aluguel,27.1,22.9,36.1,5,10.2,novembro/2026
+Campinas,Jardim Planalto,casa,venda,4866.3,3887.9,6590.8,40,8.26,novembro/2026
+Campinas,Jardim Planalto,casa,aluguel,33.5,31.2,35.1,9,8.26,novembro/2026
+Campinas,Jardim Planalto de Viracopos,casa,venda,2807.0,1627.3,3235.3,33,,novembro/2026
+Campinas,Jardim Primavera,casa,venda,3647.4,3164.5,4824.1,24,7.9,novembro/2026
+Campinas,Jardim Primavera,casa,aluguel,24.0,20.0,30.8,5,7.9,novembro/2026
+Campinas,Jardim Proença,casa,venda,3722.1,2948.7,4823.4,52,7.35,novembro/2026
+Campinas,Jardim Proença,casa,aluguel,22.8,19.5,41.8,15,7.35,novembro/2026
+Campinas,Jardim Proença I,casa,venda,4098.4,3378.4,5137.0,41,6.53,novembro/2026
+Campinas,Jardim Proença I,casa,aluguel,22.3,16.4,23.0,6,6.53,novembro/2026
+Campinas,Jardim Quarto Centenário,casa,venda,3333.3,3046.5,4801.4,11,,novembro/2026
+Campinas,Jardim Roseira,casa,venda,4916.7,3875.5,5063.7,7,,novembro/2026
+Campinas,Jardim Samambaia,casa,venda,2969.7,2004.1,4124.5,14,,novembro/2026
+Campinas,Jardim San Diego,casa,venda,3661.5,2873.9,5305.2,40,,novembro/2026
+Campinas,Jardim Santa Amália,casa,venda,3703.7,2585.0,5165.9,7,,novembro/2026
+Campinas,Jardim Santa Eudóxia,casa,venda,3350.0,3149.2,4413.8,6,,novembro/2026
+Campinas,Jardim Santa Genebra,casa,venda,4041.5,3702.9,4346.9,15,8.64,novembro/2026
+Campinas,Jardim Santa Genebra,casa,aluguel,29.1,28.0,32.3,5,8.64,novembro/2026
+Campinas,Jardim Santa Genebra II (Barão Geraldo),casa,venda,6297.9,5140.8,7500.0,38,5.83,novembro/2026
+Campinas,Jardim Santa Genebra II (Barão Geraldo),casa,aluguel,30.6,28.0,36.4,13,5.83,novembro/2026
+Campinas,Jardim Santa Judith,casa,venda,4388.5,3952.7,5269.4,15,,novembro/2026
+Campinas,Jardim Santa Lúcia,casa,venda,3104.1,2475.3,3633.3,52,,novembro/2026
+Campinas,Jardim Santa Marcelina,casa,venda,5031.8,3852.2,7139.8,59,5.72,novembro/2026
+Campinas,Jardim Santa Marcelina,casa,aluguel,24.0,22.5,33.4,5,5.72,novembro/2026
+Campinas,Jardim Santa Terezinha,casa,venda,3302.1,2840.1,3805.9,12,,novembro/2026
+Campinas,Jardim Santana,casa,venda,3613.4,2943.8,4285.7,13,7.7,novembro/2026
+Campinas,Jardim Santana,casa,aluguel,23.2,16.5,33.0,7,7.7,novembro/2026
+Campinas,Jardim Santo Antonio,casa,venda,1940.6,1707.8,2026.2,6,,novembro/2026
+Campinas,Jardim São Carlos,casa,venda,5599.8,4575.9,6673.0,26,6.19,novembro/2026
+Campinas,Jardim São Carlos,casa,aluguel,28.9,23.6,36.1,13,6.19,novembro/2026
+Campinas,Jardim São Cristóvão,casa,venda,3019.3,1929.2,4232.7,10,,novembro/2026
+Campinas,Jardim São Gabriel,casa,venda,3286.5,2367.7,4436.2,23,,novembro/2026
+Campinas,Jardim São Gonçalo,casa,venda,4651.2,3503.8,6071.0,19,,novembro/2026
+Campinas,Jardim São Judas Tadeu,casa,venda,3677.3,2381.5,4578.6,32,,novembro/2026
+Campinas,Jardim São Rafael,casa,venda,3729.1,3408.1,4386.2,8,,novembro/2026
+Campinas,Jardim Stella,casa,venda,4804.5,3666.7,4837.6,5,,novembro/2026
+Campinas,Jardim Yeda,casa,venda,2333.3,1362.5,3864.6,7,,novembro/2026
+Campinas,Joaquim Egídio,casa,venda,5729.2,4714.3,8562.7,25,,novembro/2026
+Campinas,Loteamento Arboreto dos Jequitibás (Sousas),casa,venda,7016.1,5535.7,7566.7,44,,novembro/2026
+Campinas,Loteamento Artesano,casa,venda,12437.5,12060.3,12838.7,5,,novembro/2026
+Campinas,Loteamento Caminhos de San Conrado (Sousas),casa,venda,5853.4,4696.5,10072.6,16,5.27,novembro/2026
+Campinas,Loteamento Caminhos de San Conrado (Sousas),casa,aluguel,25.7,22.0,28.8,5,5.27,novembro/2026
+Campinas,Loteamento Chácaras Gargantilhas,casa,venda,2695.7,2565.2,3478.3,5,,novembro/2026
+Campinas,Loteamento Chácaras Vale das Garças,casa,venda,4000.0,3375.0,5019.9,7,,novembro/2026
+Campinas,Loteamento Mont Blanc Residence,casa,venda,11206.9,9594.2,12907.1,60,,novembro/2026
+Campinas,Loteamento Parque das Sapucaias,casa,venda,9397.7,8803.3,10151.9,8,6.38,novembro/2026
+Campinas,Loteamento Parque das Sapucaias,casa,aluguel,50.0,48.6,51.2,5,6.38,novembro/2026
+Campinas,Loteamento Parque dos Alecrins,casa,venda,9535.7,8650.9,9924.9,43,6.67,novembro/2026
+Campinas,Loteamento Parque dos Alecrins,casa,aluguel,53.0,47.6,56.2,13,6.67,novembro/2026
+Campinas,Loteamento Residencial Arborais,casa,venda,11076.4,10498.3,12118.3,58,8.1,novembro/2026
+Campinas,Loteamento Residencial Arborais,casa,aluguel,74.8,66.6,82.0,6,8.1,novembro/2026
+Campinas,Loteamento Residencial Barão do Café,casa,venda,5434.1,5313.1,7424.6,5,6.34,novembro/2026
+Campinas,Loteamento Residencial Barão do Café,casa,aluguel,28.7,25.9,34.8,6,6.34,novembro/2026
+Campinas,Loteamento Residencial Entre Verdes (Sousas),casa,venda,16032.6,14547.0,17100.8,15,,novembro/2026
+Campinas,Loteamento Residencial Novo Mundo,casa,venda,2320.5,2145.6,3593.6,6,,novembro/2026
+Campinas,Loteamento Residencial Pedra Alta (Sousas),casa,venda,12994.3,10995.0,14953.8,40,,novembro/2026
+Campinas,Loteamento Residencial Vila Bella,casa,venda,9892.9,8720.5,10500.3,18,,novembro/2026
+Campinas,Loteamento Santa Ana do Atibaia (Sousas),casa,venda,12281.5,11366.1,12887.5,20,,novembro/2026
+Campinas,Mansões Santo Antônio,casa,venda,7987.5,5867.3,10121.5,12,6.69,novembro/2026
+Campinas,Mansões Santo Antônio,casa,aluguel,44.5,33.6,49.3,6,6.69,novembro/2026
+Campinas,Mont Blanc Résidence,casa,venda,11983.3,10559.0,13412.3,5,,novembro/2026
+Campinas,Nova Campinas,casa,venda,7262.9,5359.4,9980.8,62,6.53,novembro/2026
+Campinas,Nova Campinas,casa,aluguel,39.5,26.5,63.2,78,6.53,novembro/2026
+Campinas,Parque Alto Taquaral,casa,venda,5535.1,4830.2,7086.6,69,5.98,novembro/2026
+Campinas,Parque Alto Taquaral,casa,aluguel,27.6,24.0,35.5,15,5.98,novembro/2026
+Campinas,Parque Beatriz,casa,venda,5165.3,3013.8,6900.0,7,,novembro/2026
+Campinas,Parque Brasília,casa,venda,4205.6,2467.9,10458.2,13,,novembro/2026
+Campinas,Parque da Figueira,casa,venda,4174.7,3642.1,5009.4,8,8.05,novembro/2026
+Campinas,Parque da Figueira,casa,aluguel,28.0,25.2,33.3,7,8.05,novembro/2026
+Campinas,Parque da Hípica,casa,venda,6715.3,5750.0,7163.3,17,,novembro/2026
+Campinas,Parque das Flores,casa,venda,6950.0,5095.1,8369.0,14,6.04,novembro/2026
+Campinas,Parque das Flores,casa,aluguel,35.0,26.7,43.0,6,6.04,novembro/2026
+Campinas,Parque das Indústrias,casa,venda,2151.1,1971.3,3372.0,9,,novembro/2026
+Campinas,Parque das Quaresmeiras,casa,venda,7962.0,7105.6,9843.0,28,8.59,novembro/2026
+Campinas,Parque das Quaresmeiras,casa,aluguel,57.0,49.8,71.6,5,8.59,novembro/2026
+Campinas,Parque das Universidades,casa,venda,4586.4,4015.8,5330.5,50,6.41,novembro/2026
+Campinas,Parque das Universidades,casa,aluguel,24.5,22.1,29.1,7,6.41,novembro/2026
+Campinas,Parque Dom Pedro II,casa,venda,2243.0,1694.4,3612.8,7,,novembro/2026
+Campinas,Parque dos Pomares,casa,venda,5464.9,3636.4,5895.2,5,9.33,novembro/2026
+Campinas,Parque dos Pomares,casa,aluguel,42.5,37.1,45.9,7,9.33,novembro/2026
+Campinas,Parque dos Resedás,casa,venda,8778.3,8376.2,8780.5,5,,novembro/2026
+Campinas,Parque Eldorado,casa,venda,4531.8,3818.2,5985.7,21,,novembro/2026
+Campinas,Parque Fazendinha,casa,venda,4166.7,2954.5,4482.8,5,,novembro/2026
+Campinas,Parque Imperador,casa,venda,7420.0,5682.7,8914.3,19,7.47,novembro/2026
+Campinas,Parque Imperador,casa,aluguel,46.2,36.8,49.3,6,7.47,novembro/2026
+Campinas,Parque Industrial,casa,venda,4752.9,3682.1,5714.2,14,6.51,novembro/2026
+Campinas,Parque Industrial,casa,aluguel,25.8,24.6,33.3,9,6.51,novembro/2026
+Campinas,Parque Jambeiro,casa,venda,4479.2,3735.8,6351.5,68,9.64,novembro/2026
+Campinas,Parque Jambeiro,casa,aluguel,36.0,23.0,41.1,16,9.64,novembro/2026
+Campinas,Parque Jatibaia (Sousas),casa,venda,4734.7,3700.0,5204.1,8,,novembro/2026
+Campinas,Parque Luciamar,casa,venda,4062.5,3000.0,5095.0,23,,novembro/2026
+Campinas,Parque Montreal,casa,venda,2278.6,2124.1,2311.8,7,,novembro/2026
+Campinas,Parque Nova,casa,venda,6383.6,4977.2,8286.9,64,4.79,novembro/2026
+Campinas,Parque Nova,casa,aluguel,25.5,20.0,30.6,21,4.79,novembro/2026
+Campinas,Parque Prado,casa,venda,6910.1,5676.4,7284.5,5,,novembro/2026
+Campinas,Parque Residencial Campina Grande,casa,venda,1770.8,1766.7,2133.3,5,,novembro/2026
+Campinas,Parque Residencial Carvalho de Moura,casa,venda,2820.0,2594.5,3159.9,11,,novembro/2026
+Campinas,Parque Residencial Vila União,casa,venda,3422.9,2984.6,4112.2,12,,novembro/2026
+Campinas,Parque Rural Fazenda Santa Cândida,casa,venda,8733.4,7008.3,10145.4,34,5.85,novembro/2026
+Campinas,Parque Rural Fazenda Santa Cândida,casa,aluguel,42.6,37.5,45.7,18,5.85,novembro/2026
+Campinas,Parque Santa Bárbara,casa,venda,3250.0,2995.1,4444.2,11,7.64,novembro/2026
+Campinas,Parque Santa Bárbara,casa,aluguel,20.7,18.5,23.1,10,7.64,novembro/2026
+Campinas,Parque São Quirino,casa,venda,3899.7,3302.2,4871.1,27,7.05,novembro/2026
+Campinas,Parque São Quirino,casa,aluguel,22.9,21.4,34.5,11,7.05,novembro/2026
+Campinas,Parque Taquaral,casa,venda,6281.0,4432.7,9205.8,144,6.42,novembro/2026
+Campinas,Parque Taquaral,casa,aluguel,33.6,26.4,41.3,52,6.42,novembro/2026
+Campinas,Parque União da Vitória,casa,venda,3694.4,2214.3,4209.3,8,,novembro/2026
+Campinas,Parque Universitário de Viracopos,casa,venda,2578.9,2000.0,3416.7,29,,novembro/2026
+Campinas,Parque Valença I,casa,venda,3129.4,2333.3,4000.0,17,,novembro/2026
+Campinas,Parque Via Norte,casa,venda,3434.2,2764.6,4236.7,62,9.78,novembro/2026
+Campinas,Parque Via Norte,casa,aluguel,28.0,23.5,29.5,8,9.78,novembro/2026
+Campinas,Parque Xangrilá,casa,venda,5423.9,3595.8,7238.5,18,,novembro/2026
+Campinas,Ponte Preta,casa,venda,5044.8,3864.6,6391.1,7,5.28,novembro/2026
+Campinas,Ponte Preta,casa,aluguel,22.2,19.0,25.4,12,5.28,novembro/2026
+Campinas,Recanto do Sol II,casa,venda,3292.2,1976.3,3600.0,9,,novembro/2026
+Campinas,Residencial Barão do Café,casa,venda,6632.4,5741.6,7564.2,30,5.28,novembro/2026
+Campinas,Residencial Barão do Café,casa,aluguel,29.2,27.7,34.5,8,5.28,novembro/2026
+Campinas,Residencial Burato,casa,venda,5506.8,4390.1,6436.4,6,,novembro/2026
+Campinas,Residencial Cittá Di Salerno,casa,venda,2120.0,2080.0,3209.4,5,,novembro/2026
+Campinas,Residencial Estância Eudóxia,casa,venda,9844.2,8930.7,11529.4,14,,novembro/2026
+Campinas,Residencial Estância Eudóxia (Barão Geraldo),casa,venda,9654.8,8592.0,11006.7,40,,novembro/2026
+Campinas,Residencial Jatibela,casa,venda,12603.6,11729.4,13927.4,15,,novembro/2026
+Campinas,Residencial Nova Bandeirante,casa,venda,4111.1,3516.7,4749.4,31,,novembro/2026
+Campinas,Residencial Parque da Fazenda,casa,venda,4732.3,4437.1,5696.0,6,,novembro/2026
+Campinas,Residencial Parque das Araucárias,casa,venda,11226.2,9736.9,12977.5,35,,novembro/2026
+Campinas,Residencial Parque dos Alecrins,casa,venda,9250.0,9235.4,9960.0,5,,novembro/2026
+Campinas,Residencial Parque Rio das Pedras,casa,venda,7352.9,5384.3,8437.9,27,,novembro/2026
+Campinas,Residencial Sainte Helene,casa,venda,11995.4,11173.1,12500.7,14,,novembro/2026
+Campinas,Residencial São José,casa,venda,3166.7,2200.0,4491.5,25,,novembro/2026
+Campinas,Residencial Terras do Barão,casa,venda,6051.2,5076.7,6832.5,46,,novembro/2026
+Campinas,Residencial Vila Verde,casa,venda,6126.2,5752.8,7142.9,9,,novembro/2026
+Campinas,São Bernardo,casa,venda,3927.1,3018.0,5392.6,26,8.34,novembro/2026
+Campinas,São Bernardo,casa,aluguel,27.3,23.0,29.5,6,8.34,novembro/2026
+Campinas,Sítios de Recreio Gramado,casa,venda,10318.5,7060.8,12368.4,30,4.42,novembro/2026
+Campinas,Sítios de Recreio Gramado,casa,aluguel,38.0,31.1,59.1,6,4.42,novembro/2026
+Campinas,Sousas,casa,venda,7815.0,4660.0,11965.8,76,3.87,novembro/2026
+Campinas,Sousas,casa,aluguel,25.2,19.4,31.5,10,3.87,novembro/2026
+Campinas,Swiss Park,casa,venda,9433.0,8205.5,10852.3,98,5.99,novembro/2026
+Campinas,Swiss Park,casa,aluguel,47.1,38.6,53.1,34,5.99,novembro/2026
+Campinas,Taquaral,casa,venda,4683.7,3654.6,6362.6,78,7.69,novembro/2026
+Campinas,Taquaral,casa,aluguel,30.0,24.8,38.8,35,7.69,novembro/2026
+Campinas,Tijuco das Telhas,casa,venda,4884.6,4665.6,5458.6,8,,novembro/2026
+Campinas,Vila Aeroporto,casa,venda,2546.3,1715.3,3401.7,55,7.45,novembro/2026
+Campinas,Vila Aeroporto,casa,aluguel,15.8,13.3,18.6,6,7.45,novembro/2026
+Campinas,Vila Aeroporto I,casa,venda,3500.0,2256.6,4260.4,11,,novembro/2026
+Campinas,Vila Anhangüera,casa,venda,4750.0,2923.5,5153.8,8,,novembro/2026
+Campinas,Vila Brandina,casa,venda,3269.5,2692.2,3654.7,8,7.27,novembro/2026
+Campinas,Vila Brandina,casa,aluguel,19.8,15.4,47.1,8,7.27,novembro/2026
+Campinas,Vila Campos Sales,casa,venda,4421.7,3093.5,7667.1,34,,novembro/2026
+Campinas,Vila Carminha,casa,venda,3117.1,2184.6,4487.5,14,,novembro/2026
+Campinas,Vila Castelo Branco,casa,venda,3636.4,3111.1,4675.3,37,,novembro/2026
+Campinas,Vila Costa e Silva,casa,venda,5032.0,2989.5,7811.9,8,,novembro/2026
+Campinas,Vila dos Plátanos,casa,venda,10332.1,8773.0,10954.1,14,,novembro/2026
+Campinas,Vila Estanislau,casa,venda,5776.6,5528.1,6396.6,7,,novembro/2026
+Campinas,Vila Fortuna,casa,venda,3198.9,2298.1,3320.5,7,,novembro/2026
+Campinas,Vila Georgina,casa,aluguel,23.2,15.9,26.7,12,,novembro/2026
+Campinas,Vila Hollândia,casa,venda,6839.2,5934.8,8572.6,44,,novembro/2026
+Campinas,Vila Iapi,casa,venda,4166.0,3464.3,5133.3,13,,novembro/2026
+Campinas,Vila Industrial,casa,venda,3283.2,2590.6,4539.3,34,8.59,novembro/2026
+Campinas,Vila Industrial,casa,aluguel,23.5,21.5,28.5,20,8.59,novembro/2026
+Campinas,Vila Ipê,casa,venda,4156.6,3717.3,6485.2,11,,novembro/2026
+Campinas,Vila Itália,casa,venda,2399.5,2020.8,4604.2,12,,novembro/2026
+Campinas,Vila Itapura,casa,venda,6078.4,4461.4,7702.2,11,4.94,novembro/2026
+Campinas,Vila Itapura,casa,aluguel,25.0,20.3,38.0,15,4.94,novembro/2026
+Campinas,Vila Jequitibás,casa,venda,3411.2,3245.1,4883.3,12,10.2,novembro/2026
+Campinas,Vila Jequitibás,casa,aluguel,29.0,22.5,33.0,5,10.2,novembro/2026
+Campinas,Vila João Jorge,casa,venda,4059.8,3181.8,5233.3,13,7.15,novembro/2026
+Campinas,Vila João Jorge,casa,aluguel,24.2,18.1,42.1,5,7.15,novembro/2026
+Campinas,Vila Joaquim Inácio,casa,venda,3743.8,2885.6,4433.3,33,7.66,novembro/2026
+Campinas,Vila Joaquim Inácio,casa,aluguel,23.9,23.0,27.9,9,7.66,novembro/2026
+Campinas,Vila Lemos,casa,venda,3936.8,3000.0,4809.2,13,7.44,novembro/2026
+Campinas,Vila Lemos,casa,aluguel,24.4,19.7,37.5,13,7.44,novembro/2026
+Campinas,Vila Lunardi,casa,venda,3785.7,2822.2,4777.8,7,,novembro/2026
+Campinas,Vila Manoel Ferreira,casa,venda,4024.1,3771.3,4310.9,7,,novembro/2026
+Campinas,Vila Maria Eugênia,casa,venda,3462.3,3000.0,3847.0,5,,novembro/2026
+Campinas,Vila Marieta,casa,venda,6315.8,5725.2,6936.4,7,,novembro/2026
+Campinas,Vila Miguel Vicente Cury,casa,venda,5100.0,3369.3,6995.6,22,,novembro/2026
+Campinas,Vila Nogueira,casa,venda,4106.3,3280.9,5125.0,67,5.44,novembro/2026
+Campinas,Vila Nogueira,casa,aluguel,18.6,16.7,21.9,16,5.44,novembro/2026
+Campinas,Vila Nova,casa,venda,4132.5,3632.9,4913.2,18,7.23,novembro/2026
+Campinas,Vila Nova,casa,aluguel,24.9,17.8,31.0,11,7.23,novembro/2026
+Campinas,Vila Nova São José,casa,venda,3369.4,2950.1,3913.1,26,,novembro/2026
+Campinas,Vila Padre Manoel de Nóbrega,casa,venda,3550.0,3200.7,3656.4,6,,novembro/2026
+Campinas,Vila Paraíso,casa,venda,3403.4,2781.0,4090.6,20,,novembro/2026
+Campinas,Vila Pompéia,casa,aluguel,24.0,21.6,26.8,6,,novembro/2026
+Campinas,Vila Proost de Souza,casa,venda,4578.0,3666.9,5417.1,28,,novembro/2026
+Campinas,Vila Rossi Borghi e Siqueira,casa,venda,3205.1,3120.0,4312.5,9,,novembro/2026
+Campinas,Vila San Martin,casa,venda,3944.2,2959.8,4811.5,8,,novembro/2026
+Campinas,Vila Santa Isabel,casa,venda,4573.7,3164.4,6142.5,12,10.49,novembro/2026
+Campinas,Vila Santa Isabel,casa,aluguel,40.0,32.1,45.1,6,10.49,novembro/2026
+Campinas,Vila São Bento,casa,venda,4691.4,3750.9,6307.9,8,,novembro/2026
+Campinas,Vila Teixeira,casa,venda,3143.0,2674.9,4065.8,10,,novembro/2026
+Campinas,Vila Tofanello,casa,venda,5260.9,4684.2,5322.6,5,,novembro/2026
+Campinas,Village,casa,venda,1884.7,1869.6,3715.1,5,14.45,novembro/2026
+Campinas,Village,casa,aluguel,22.7,12.0,25.7,5,14.45,novembro/2026
+Campinas,Ville Sainte Hélène,casa,venda,11248.0,9792.1,12263.6,14,,novembro/2026
+Campinas,Alphaville,terreno,venda,1602.2,1480.8,2164.4,51,,novembro/2026
+Campinas,Alphaville Dom Pedro,terreno,venda,2477.3,2243.8,2805.3,22,,novembro/2026
+Campinas,Alphaville Dom Pedro 3,terreno,venda,2335.9,2192.7,2501.2,6,,novembro/2026
+Campinas,Alphaville Dom Pedro Zero,terreno,venda,2430.1,2400.0,2588.9,9,,novembro/2026
+Campinas,Alto Taquaral,terreno,venda,1971.4,1815.1,2000.0,6,,novembro/2026
+Campinas,Bairro das Palmeiras,terreno,venda,2020.7,1748.6,2520.4,15,,novembro/2026
+Campinas,Bananal,terreno,venda,259.3,192.8,326.6,8,,novembro/2026
+Campinas,Barão Geraldo,terreno,venda,988.6,739.1,1364.3,59,,novembro/2026
+Campinas,Bela Aliança,terreno,venda,1595.7,1309.8,1885.8,7,,novembro/2026
+Campinas,Bosque,terreno,venda,2462.1,1197.3,2580.5,7,,novembro/2026
+Campinas,Bosque das Palmeiras,terreno,venda,709.2,615.3,1274.9,8,,novembro/2026
+Campinas,Caminhos de San Conrado,terreno,venda,950.5,871.1,1158.5,18,,novembro/2026
+Campinas,Centro,terreno,venda,3719.1,3109.4,4000.2,6,,novembro/2026
+Campinas,Chácara Bela Vista,terreno,venda,447.0,314.2,605.8,9,,novembro/2026
+Campinas,Chácara Belvedere,terreno,venda,472.2,295.5,611.1,5,,novembro/2026
+Campinas,Chácara da Barra,terreno,venda,2394.4,1303.9,3658.5,6,,novembro/2026
+Campinas,Chácara de Recreio Barão,terreno,venda,1130.1,1097.3,1190.0,6,,novembro/2026
+Campinas,Chácara de Recreio Santa Fé,terreno,venda,160.3,126.2,270.0,9,,novembro/2026
+Campinas,Chácara Santa Letícia,terreno,venda,1101.9,1016.7,1200.0,7,,novembro/2026
+Campinas,Chácara Santa Margarida,terreno,venda,718.1,499.7,875.1,44,,novembro/2026
+Campinas,Chácara São Rafael,terreno,venda,1470.4,1018.3,2243.5,16,,novembro/2026
+Campinas,Chácaras Campos dos Amarais,terreno,venda,1073.9,747.9,1300.0,5,,novembro/2026
+Campinas,Cidade Satélite Íris,terreno,venda,700.0,500.0,772.1,9,,novembro/2026
+Campinas,Cidade Universitária,terreno,venda,1066.7,898.3,1222.2,9,,novembro/2026
+Campinas,Conjunto Residencial Parque São Bento,terreno,venda,724.1,657.6,783.4,8,,novembro/2026
+Campinas,Fazenda Pau d'Alho,terreno,venda,1577.6,1473.6,1644.9,31,,novembro/2026
+Campinas,Fazenda Santa Cândida,terreno,venda,1175.6,1021.8,1375.5,12,,novembro/2026
+Campinas,Guará,terreno,venda,571.6,527.0,737.5,14,,novembro/2026
+Campinas,Jardim Aliança,terreno,venda,1026.3,977.0,1097.3,14,,novembro/2026
+Campinas,Jardim Alto da Cidade Universitária,terreno,venda,246.3,164.0,356.9,6,,novembro/2026
+Campinas,Jardim Atibaia (Sousas),terreno,venda,975.0,857.1,1000.0,5,,novembro/2026
+Campinas,Jardim Bela Vista,terreno,venda,1632.6,1523.9,1899.1,8,,novembro/2026
+Campinas,Jardim Botânico (Sousas),terreno,venda,1100.0,1010.1,1171.2,5,,novembro/2026
+Campinas,Jardim Campos Elíseos,terreno,venda,1151.5,1000.0,1288.2,5,,novembro/2026
+Campinas,Jardim Chapadão,terreno,venda,1522.9,1250.0,1819.5,17,,novembro/2026
+Campinas,Jardim Conceição,terreno,venda,1991.0,1475.4,2054.5,14,,novembro/2026
+Campinas,Jardim Cura d'Ars,terreno,venda,1175.1,1120.5,1240.9,8,,novembro/2026
+Campinas,Jardim do Lago Continuação,terreno,venda,784.8,625.2,971.1,8,,novembro/2026
+Campinas,Jardim do Lago II,terreno,venda,723.8,675.9,770.8,11,,novembro/2026
+Campinas,Jardim Eulina,terreno,venda,1109.7,1067.3,1202.3,8,,novembro/2026
+Campinas,Jardim Guarani,terreno,venda,1270.6,985.3,1427.8,20,,novembro/2026
+Campinas,Jardim Ibirapuera,terreno,venda,1066.8,967.5,1177.6,8,,novembro/2026
+Campinas,Jardim Icaraí,terreno,venda,988.4,974.9,998.2,7,,novembro/2026
+Campinas,Jardim Ipaussurama,terreno,venda,960.0,776.0,1202.5,7,,novembro/2026
+Campinas,Jardim Irajá,terreno,venda,1050.0,1000.0,1052.6,5,,novembro/2026
+Campinas,Jardim Madalena,terreno,venda,2271.5,2061.2,2495.4,14,,novembro/2026
+Campinas,Jardim Marajó,terreno,venda,952.4,801.6,1000.0,7,,novembro/2026
+Campinas,Jardim Martinelli (Sousas),terreno,venda,131.5,122.1,142.2,18,,novembro/2026
+Campinas,Jardim Myrian Moreira da Costa,terreno,venda,1550.8,1478.5,1640.2,13,,novembro/2026
+Campinas,Jardim Nova Europa,terreno,venda,1585.8,1170.2,2228.1,6,,novembro/2026
+Campinas,Jardim Novo Campos Elíseos,terreno,venda,770.9,615.4,949.8,13,,novembro/2026
+Campinas,Jardim Paraíso,terreno,venda,1250.0,1063.0,3432.1,5,,novembro/2026
+Campinas,Jardim Paranapanema,terreno,venda,853.7,798.0,981.9,9,,novembro/2026
+Campinas,Jardim Planalto de Viracopos,terreno,venda,607.7,446.9,797.6,6,,novembro/2026
+Campinas,Jardim Santa Genebra II (Barão Geraldo),terreno,venda,2000.0,1605.9,2523.8,15,,novembro/2026
+Campinas,Jardim Santana,terreno,venda,1117.0,791.8,1316.6,7,,novembro/2026
+Campinas,Jardim São Carlos,terreno,venda,3208.3,3053.6,3212.0,7,,novembro/2026
+Campinas,Jardim São Gonçalo,terreno,venda,998.0,891.9,1115.4,6,,novembro/2026
+Campinas,Jardim São Judas Tadeu,terreno,venda,553.3,483.3,686.7,27,,novembro/2026
+Campinas,Jardim Sorirama (Sousas),terreno,venda,902.7,879.3,1026.6,8,,novembro/2026
+Campinas,Jardim Stella,terreno,venda,969.5,828.8,996.4,7,,novembro/2026
+Campinas,Jardim Sul América,terreno,venda,750.0,591.5,833.3,5,,novembro/2026
+Campinas,Jatibela,terreno,venda,2152.1,2097.2,2248.6,8,,novembro/2026
+Campinas,Joaquim Egídio,terreno,venda,338.3,260.5,820.5,49,,novembro/2026
+Campinas,Loteamento Arboreto dos Jequitibás (Sousas),terreno,venda,949.9,826.7,1142.2,6,,novembro/2026
+Campinas,Loteamento Artesano,terreno,venda,2029.1,1953.9,2227.2,11,,novembro/2026
+Campinas,Loteamento Artesano Galleria,terreno,venda,2076.7,1969.2,2136.7,6,,novembro/2026
+Campinas,Loteamento Chácaras Gargantilhas,terreno,venda,254.5,171.5,513.9,7,,novembro/2026
+Campinas,Loteamento Mont Blanc Residence,terreno,venda,2268.9,2150.7,2332.2,10,,novembro/2026
+Campinas,Loteamento Parque dos Alecrins,terreno,venda,1058.7,1029.4,1219.0,13,,novembro/2026
+Campinas,Loteamento Residencial Arborais,terreno,venda,1716.5,1589.1,1812.1,39,,novembro/2026
+Campinas,Loteamento Residencial Entre Verdes (Sousas),terreno,venda,1134.3,1000.0,1261.5,29,,novembro/2026
+Campinas,Loteamento Residencial Pedra Alta (Sousas),terreno,venda,1047.4,994.7,1373.2,48,,novembro/2026
+Campinas,Loteamento Serena,terreno,venda,1580.4,1498.7,1674.1,35,,novembro/2026
+Campinas,Mansões Santo Antônio,terreno,venda,1590.6,1078.2,2059.5,6,,novembro/2026
+Campinas,Nova Campinas,terreno,venda,3299.7,3286.0,3975.0,26,,novembro/2026
+Campinas,Parque Alto Taquaral,terreno,venda,1621.5,1583.4,1653.8,6,,novembro/2026
+Campinas,Parque Brasília,terreno,venda,1383.2,848.8,2006.4,5,,novembro/2026
+Campinas,Parque da Hípica,terreno,venda,1872.9,1782.6,1960.8,5,,novembro/2026
+Campinas,Parque das Quaresmeiras,terreno,venda,1362.3,1314.0,1666.7,9,,novembro/2026
+Campinas,Parque das Universidades,terreno,venda,932.2,855.4,1356.0,20,,novembro/2026
+Campinas,Parque dos Jacarandás,terreno,venda,940.0,866.7,1060.0,9,,novembro/2026
+Campinas,Parque dos Pomares,terreno,venda,660.0,593.9,781.1,11,,novembro/2026
+Campinas,Parque Jambeiro,terreno,venda,1320.0,1122.7,1486.0,10,,novembro/2026
+Campinas,Parque Rural Fazenda Santa Cândida,terreno,venda,1107.5,1000.0,1251.0,28,,novembro/2026
+Campinas,Parque Santa Bárbara,terreno,venda,840.0,800.0,978.7,9,,novembro/2026
+Campinas,Parque São Quirino,terreno,venda,886.0,870.9,1604.3,13,,novembro/2026
+Campinas,Parque Taquaral,terreno,venda,2000.0,1686.7,2187.4,14,,novembro/2026
+Campinas,Parque Universitário de Viracopos,terreno,venda,746.7,674.3,800.6,6,,novembro/2026
+Campinas,Parque Via Norte,terreno,venda,919.2,807.9,1010.3,14,,novembro/2026
+Campinas,Parque Xangrilá,terreno,venda,979.8,915.7,996.4,8,,novembro/2026
+Campinas,Ponte Preta,terreno,venda,1481.5,1346.2,1928.1,5,,novembro/2026
+Campinas,Recanto Fortuna,terreno,venda,423.2,400.0,435.1,9,,novembro/2026
+Campinas,Residencial Bela Aliança,terreno,venda,1010.0,878.7,1164.7,10,,novembro/2026
+Campinas,Residencial Cittá Di Firenze,terreno,venda,803.2,733.9,825.0,5,,novembro/2026
+Campinas,Residencial Cittá Di Salerno,terreno,venda,690.0,625.0,1000.0,5,,novembro/2026
+Campinas,Residencial Jatibela,terreno,venda,1996.8,1623.2,2109.6,26,,novembro/2026
+Campinas,Residencial Nova Bandeirante,terreno,venda,3539.8,3100.8,3636.4,5,,novembro/2026
+Campinas,Residencial Parque das Araucárias,terreno,venda,1928.6,1894.9,2128.6,5,,novembro/2026
+Campinas,Residencial Terras do Barão,terreno,venda,1315.8,1225.0,1442.6,13,,novembro/2026
+Campinas,San Conrado,terreno,venda,943.6,884.6,1011.2,8,,novembro/2026
+Campinas,Santa Cândida,terreno,venda,1045.2,1000.0,1197.4,9,,novembro/2026
+Campinas,Sousas,terreno,venda,1050.2,509.5,1886.5,54,,novembro/2026
+Campinas,Swiss Park,terreno,venda,2408.3,1997.1,2623.2,22,,novembro/2026
+Campinas,Taquaral,terreno,venda,2461.5,1864.7,2758.3,7,,novembro/2026
+Campinas,Techno Park,terreno,venda,1482.9,1000.6,1636.2,5,,novembro/2026
+Campinas,Vila Aeroporto,terreno,venda,911.8,718.1,1374.3,6,,novembro/2026
+Campinas,Vila Aeroporto I,terreno,venda,777.8,759.3,810.2,7,,novembro/2026
+Campinas,Vila Hollândia,terreno,venda,950.0,890.8,1063.1,7,,novembro/2026
+Campinas,Vila Industrial,terreno,venda,1212.1,1125.0,1333.3,13,,novembro/2026
+Campinas,Vila Ipê,terreno,venda,598.7,515.8,692.9,8,,novembro/2026
+Campinas,Vila Nogueira,terreno,venda,1116.1,1072.5,1254.9,5,,novembro/2026
+Campinas,Vila Paraíso,terreno,venda,1756.0,1679.9,1782.8,7,,novembro/2026
+Campinas,Vila San Martin,terreno,venda,769.2,746.2,915.5,9,,novembro/2026
+Campinas,Vila São Bento,terreno,venda,1297.3,1138.1,1401.6,11,,novembro/2026
+Campinas,Vila Sônia (Sousas),terreno,venda,1968.5,1955.6,2004.3,5,,novembro/2026
+Campinas,Village,terreno,venda,290.0,276.4,2227.1,6,,novembro/2026
+Campinas,Alphaville,sala,aluguel,62.5,55.0,86.2,25,,novembro/2026
+Campinas,Barão Geraldo,sala,aluguel,53.1,35.6,62.0,8,,novembro/2026
+Campinas,Bonfim,sala,aluguel,43.7,21.4,72.2,5,,novembro/2026
+Campinas,Bosque,sala,venda,5571.9,3477.8,7922.3,12,5.36,novembro/2026
+Campinas,Bosque,sala,aluguel,24.9,20.7,26.3,9,5.36,novembro/2026
+Campinas,Botafogo,sala,venda,6500.0,5531.9,12727.3,29,6.7,novembro/2026
+Campinas,Botafogo,sala,aluguel,36.3,22.8,90.0,14,6.7,novembro/2026
+Campinas,Cambuí,sala,venda,9188.9,6651.0,11477.5,42,8.91,novembro/2026
+Campinas,Cambuí,sala,aluguel,68.2,47.6,83.3,49,8.91,novembro/2026
+Campinas,Centro,sala,venda,3174.2,2115.4,4644.1,184,7.83,novembro/2026
+Campinas,Centro,sala,aluguel,20.7,14.5,32.5,211,7.83,novembro/2026
+Campinas,Cidade Universitária,sala,aluguel,50.0,37.3,50.0,11,,novembro/2026
+Campinas,Jardim Aurélia,sala,aluguel,88.2,86.7,90.0,5,,novembro/2026
+Campinas,Jardim Brasil,sala,venda,5261.9,4487.3,7658.9,14,7.98,novembro/2026
+Campinas,Jardim Brasil,sala,aluguel,35.0,29.5,46.5,12,7.98,novembro/2026
+Campinas,Jardim Chapadão,sala,venda,7575.8,6405.8,9165.0,19,6.1,novembro/2026
+Campinas,Jardim Chapadão,sala,aluguel,38.5,26.2,51.2,16,6.1,novembro/2026
+Campinas,Jardim Guanabara,sala,venda,6500.0,5250.0,7027.0,13,8.31,novembro/2026
+Campinas,Jardim Guanabara,sala,aluguel,45.0,31.6,50.0,17,8.31,novembro/2026
+Campinas,Jardim Leonor,sala,aluguel,71.0,59.8,76.1,7,,novembro/2026
+Campinas,Jardim Nossa Senhora Auxiliadora,sala,aluguel,67.3,16.4,69.2,5,,novembro/2026
+Campinas,Jardim Nova Europa,sala,aluguel,82.4,76.4,85.8,6,,novembro/2026
+Campinas,Jardim Santa Genebra II (Barão Geraldo),sala,aluguel,57.8,53.3,67.3,6,,novembro/2026
+Campinas,Loteamento Center Santa Genebra,sala,venda,7321.4,6452.4,7742.0,6,8.36,novembro/2026
+Campinas,Loteamento Center Santa Genebra,sala,aluguel,51.0,42.8,52.6,7,8.36,novembro/2026
+Campinas,Loteamento Residencial Vila Bella,sala,venda,10151.5,8166.7,10606.1,7,,novembro/2026
+Campinas,Nova Campinas,sala,aluguel,43.5,38.4,95.4,7,,novembro/2026
+Campinas,Parque dos Resedás,sala,aluguel,75.0,75.0,82.4,6,,novembro/2026
+Campinas,Swiss Park,sala,venda,7127.0,6938.4,8408.3,14,12.53,novembro/2026
+Campinas,Swiss Park,sala,aluguel,74.4,64.7,82.6,24,12.53,novembro/2026
+Campinas,Taquaral,sala,aluguel,50.0,41.7,63.0,13,,novembro/2026
+Campinas,Vila Itapura,sala,venda,5384.6,4545.8,6566.2,28,9.16,novembro/2026
+Campinas,Vila Itapura,sala,aluguel,41.1,27.3,58.5,24,9.16,novembro/2026
+Campinas,Vila Lídia,sala,venda,6552.6,3497.9,8683.5,10,7.49,novembro/2026
+Campinas,Vila Lídia,sala,aluguel,40.9,22.2,44.9,8,7.49,novembro/2026
+Campinas,Ville Sainte Hélène,sala,venda,11410.3,10285.7,12200.0,5,4.95,novembro/2026
+Campinas,Ville Sainte Hélène,sala,aluguel,47.1,44.9,51.0,5,4.95,novembro/2026
+Campinas,Campinas,galpao,aluguel,20.0,20.0,20.5,8,,novembro/2026
+Campinas,Centro,galpao,aluguel,37.9,30.9,45.4,6,,novembro/2026
+Campinas,Distrito Industrial,galpao,aluguel,34.0,34.0,40.0,9,,novembro/2026
+Campinas,Jardim do Lago,galpao,aluguel,34.4,32.8,34.5,5,,novembro/2026
+Campinas,Jardim do Trevo,galpao,venda,4654.8,3744.0,5012.2,7,5.59,novembro/2026
+Campinas,Jardim do Trevo,galpao,aluguel,21.7,19.7,27.2,7,5.59,novembro/2026
+Campinas,Jardim Santana,galpao,aluguel,42.7,41.9,44.2,5,,novembro/2026
+Campinas,Parque Industrial,galpao,aluguel,29.2,27.1,31.4,5,,novembro/2026
+Campinas,Parque Via Norte,galpao,aluguel,22.5,17.8,25.6,6,,novembro/2026
+Campinas,Taquaral,galpao,aluguel,45.6,37.1,60.0,5,,novembro/2026
+Campinas,Techno Park,galpao,aluguel,23.0,20.0,40.4,11,,novembro/2026
+Campinas,Vila Industrial,galpao,aluguel,18.9,17.7,21.2,6,,novembro/2026
+Campinas,Vila Pompéia,galpao,aluguel,29.4,28.7,31.6,5,,novembro/2026

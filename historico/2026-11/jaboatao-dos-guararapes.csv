@@ -1,0 +1,44 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Jaboatão dos Guararapes,Barra de Jangada,apartamento,venda,7692.3,4789.4,9861.0,86,11.34,novembro/2026
+Jaboatão dos Guararapes,Barra de Jangada,apartamento,aluguel,72.7,49.1,81.9,10,11.34,novembro/2026
+Jaboatão dos Guararapes,Candeias,apartamento,venda,5644.0,4119.8,7635.0,536,11.14,novembro/2026
+Jaboatão dos Guararapes,Candeias,apartamento,aluguel,52.4,39.2,69.4,56,11.14,novembro/2026
+Jaboatão dos Guararapes,Centro,apartamento,venda,7377.5,4750.0,9682.0,18,,novembro/2026
+Jaboatão dos Guararapes,Curado Lll,apartamento,venda,4479.2,4321.7,4557.3,6,,novembro/2026
+Jaboatão dos Guararapes,Marcos Freire,apartamento,venda,3181.8,3011.4,4462.1,6,,novembro/2026
+Jaboatão dos Guararapes,Piedade,apartamento,venda,6039.0,4573.7,8111.6,488,9.84,novembro/2026
+Jaboatão dos Guararapes,Piedade,apartamento,aluguel,49.5,37.5,65.5,92,9.84,novembro/2026
+Jaboatão dos Guararapes,Santana,apartamento,venda,3666.7,3444.4,4000.0,10,,novembro/2026
+Jaboatão dos Guararapes,Socorro,apartamento,venda,3933.1,3683.6,4278.4,8,,novembro/2026
+Jaboatão dos Guararapes,Alphaville Brennand,casa,venda,7582.9,6944.4,8040.9,10,,novembro/2026
+Jaboatão dos Guararapes,Barra de Jangada,casa,venda,3260.9,2252.2,4145.7,8,,novembro/2026
+Jaboatão dos Guararapes,Candeias,casa,venda,3067.9,2272.7,4263.1,68,6.22,novembro/2026
+Jaboatão dos Guararapes,Candeias,casa,aluguel,15.9,14.2,26.8,8,6.22,novembro/2026
+Jaboatão dos Guararapes,Manassu,casa,venda,7461.9,6710.2,8151.0,24,,novembro/2026
+Jaboatão dos Guararapes,Piedade,casa,venda,3356.3,2437.3,4681.4,64,10.01,novembro/2026
+Jaboatão dos Guararapes,Piedade,casa,aluguel,28.0,18.3,32.2,20,10.01,novembro/2026
+Jaboatão dos Guararapes,Vargem Fria,casa,venda,7028.8,6600.0,7934.5,22,,novembro/2026
+Jaboatão dos Guararapes,Barra de Jangada,terreno,venda,777.8,375.4,1723.0,16,,novembro/2026
+Jaboatão dos Guararapes,Candeias,terreno,venda,1111.1,804.7,1469.4,14,,novembro/2026
+Jaboatão dos Guararapes,Curado,terreno,venda,546.6,535.3,841.8,8,,novembro/2026
+Jaboatão dos Guararapes,Manassu,terreno,venda,430.8,92.5,488.6,30,,novembro/2026
+Jaboatão dos Guararapes,Marcos Freire,terreno,venda,820.5,652.9,820.5,8,,novembro/2026
+Jaboatão dos Guararapes,Muribeca,terreno,venda,264.3,200.0,452.7,14,,novembro/2026
+Jaboatão dos Guararapes,Piedade,terreno,venda,808.8,344.8,1555.6,20,,novembro/2026
+Jaboatão dos Guararapes,Prazeres,terreno,venda,751.5,515.9,1418.4,12,,novembro/2026
+Jaboatão dos Guararapes,Vargem Fria,terreno,venda,593.5,527.4,632.1,16,,novembro/2026
+Jaboatão dos Guararapes,Barra de Jangada,galpao,venda,2708.3,1880.7,3114.6,6,9.26,novembro/2026
+Jaboatão dos Guararapes,Barra de Jangada,galpao,aluguel,20.9,17.0,25.2,32,9.26,novembro/2026
+Jaboatão dos Guararapes,Comportas,galpao,aluguel,26.0,25.0,26.0,136,,novembro/2026
+Jaboatão dos Guararapes,Guararapes,galpao,aluguel,20.0,13.0,27.5,6,,novembro/2026
+Jaboatão dos Guararapes,Jardim Jordão,galpao,aluguel,28.8,22.9,29.0,40,,novembro/2026
+Jaboatão dos Guararapes,Manassu,galpao,aluguel,25.0,22.0,25.0,10,,novembro/2026
+Jaboatão dos Guararapes,Marcos Freire,galpao,venda,3361.1,2284.8,4277.8,8,7.14,novembro/2026
+Jaboatão dos Guararapes,Marcos Freire,galpao,aluguel,20.0,15.6,28.3,34,7.14,novembro/2026
+Jaboatão dos Guararapes,Muribeca,galpao,venda,2142.9,1638.7,2202.4,6,14.84,novembro/2026
+Jaboatão dos Guararapes,Muribeca,galpao,aluguel,26.5,26.0,28.5,52,14.84,novembro/2026
+Jaboatão dos Guararapes,Piedade,galpao,venda,1881.7,1553.8,3117.5,6,14.16,novembro/2026
+Jaboatão dos Guararapes,Piedade,galpao,aluguel,22.2,18.8,28.1,58,14.16,novembro/2026
+Jaboatão dos Guararapes,Prazeres,galpao,venda,1729.3,1227.1,2084.1,14,18.04,novembro/2026
+Jaboatão dos Guararapes,Prazeres,galpao,aluguel,26.0,18.8,30.0,134,18.04,novembro/2026
+Jaboatão dos Guararapes,Santo Aleixo,galpao,aluguel,25.0,24.4,25.0,8,,novembro/2026

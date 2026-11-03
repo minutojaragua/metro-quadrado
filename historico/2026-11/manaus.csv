@@ -1,0 +1,138 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Manaus,Adrianópolis,apartamento,venda,9947.9,6631.3,12059.8,134,7.65,novembro/2026
+Manaus,Adrianópolis,apartamento,aluguel,63.4,51.9,82.1,39,7.65,novembro/2026
+Manaus,Aleixo,apartamento,venda,9237.5,7597.9,10794.3,76,8.16,novembro/2026
+Manaus,Aleixo,apartamento,aluguel,62.8,56.1,69.7,13,8.16,novembro/2026
+Manaus,Alvorada,apartamento,venda,6101.7,5489.1,6670.0,15,,novembro/2026
+Manaus,Centro,apartamento,venda,4242.4,2930.0,5443.0,41,9.9,novembro/2026
+Manaus,Centro,apartamento,aluguel,35.0,28.7,39.6,6,9.9,novembro/2026
+Manaus,Chapada,apartamento,venda,5131.6,4369.5,7238.2,36,7.97,novembro/2026
+Manaus,Chapada,apartamento,aluguel,34.1,32.9,36.1,6,7.97,novembro/2026
+Manaus,Cidade Nova,apartamento,venda,5057.3,4805.5,6246.5,16,,novembro/2026
+Manaus,Colônia Santo Antônio,apartamento,venda,5289.9,4876.2,5458.1,7,,novembro/2026
+Manaus,Colônia Terra Nova,apartamento,venda,3933.3,3168.2,4500.0,34,11.17,novembro/2026
+Manaus,Colônia Terra Nova,apartamento,aluguel,36.6,33.2,37.7,7,11.17,novembro/2026
+Manaus,Compensa,apartamento,venda,5486.2,4583.3,5945.3,8,,novembro/2026
+Manaus,Coroado,apartamento,venda,5949.4,3602.2,6810.8,9,,novembro/2026
+Manaus,Da Paz,apartamento,venda,4833.3,3041.7,6394.3,11,,novembro/2026
+Manaus,Distrito Industrial I,apartamento,venda,4705.9,4285.7,5662.2,9,,novembro/2026
+Manaus,Dom Pedro,apartamento,venda,7526.9,6963.1,9119.0,37,9.61,novembro/2026
+Manaus,Dom Pedro,apartamento,aluguel,60.3,50.0,65.2,14,9.61,novembro/2026
+Manaus,Dom Pedro I,apartamento,venda,8185.8,7500.0,9734.5,25,8.37,novembro/2026
+Manaus,Dom Pedro I,apartamento,aluguel,57.1,47.1,67.6,8,8.37,novembro/2026
+Manaus,Flores,apartamento,venda,6069.8,5044.2,7198.8,68,9.39,novembro/2026
+Manaus,Flores,apartamento,aluguel,47.5,43.3,54.8,18,9.39,novembro/2026
+Manaus,Gilberto Mestrinho,apartamento,venda,4671.5,4379.9,5967.2,6,,novembro/2026
+Manaus,Japiim,apartamento,venda,4570.0,4120.0,5230.8,17,9.74,novembro/2026
+Manaus,Japiim,apartamento,aluguel,37.1,35.7,48.1,5,9.74,novembro/2026
+Manaus,Lago Azul,apartamento,venda,2741.6,2215.5,3779.8,51,,novembro/2026
+Manaus,Lírio do Vale,apartamento,venda,5870.3,5311.1,6708.5,10,9.2,novembro/2026
+Manaus,Lírio do Vale,apartamento,aluguel,45.0,31.0,54.6,6,9.2,novembro/2026
+Manaus,Morada do Sol,apartamento,venda,10406.8,9656.6,11714.2,14,,novembro/2026
+Manaus,Nossa Senhora das Graças,apartamento,venda,6708.9,5262.0,9605.2,67,9.37,novembro/2026
+Manaus,Nossa Senhora das Graças,apartamento,aluguel,52.4,44.9,67.6,28,9.37,novembro/2026
+Manaus,Nova Esperança,apartamento,venda,7341.7,5945.1,9762.0,14,,novembro/2026
+Manaus,Novo Aleixo,apartamento,venda,6528.5,5866.7,7249.8,26,8.9,novembro/2026
+Manaus,Novo Aleixo,apartamento,aluguel,48.4,40.9,56.6,8,8.9,novembro/2026
+Manaus,Parque 10 de Novembro,apartamento,venda,6431.9,5129.1,7916.7,86,8.99,novembro/2026
+Manaus,Parque 10 de Novembro,apartamento,aluguel,48.2,36.4,67.4,27,8.99,novembro/2026
+Manaus,Parque das Laranjeiras,apartamento,venda,6543.2,6441.4,7222.2,5,,novembro/2026
+Manaus,Planalto,apartamento,venda,6720.6,5909.0,7596.4,34,9.96,novembro/2026
+Manaus,Planalto,apartamento,aluguel,55.8,53.7,61.0,7,9.96,novembro/2026
+Manaus,Ponta Negra,apartamento,venda,8427.7,7131.5,11057.7,154,7.73,novembro/2026
+Manaus,Ponta Negra,apartamento,aluguel,54.3,45.6,64.6,71,7.73,novembro/2026
+Manaus,Praça 14 de Janeiro,apartamento,venda,10000.0,7125.0,10779.2,7,,novembro/2026
+Manaus,Santa Etelvina,apartamento,venda,2619.0,2286.9,4139.6,8,,novembro/2026
+Manaus,Santo Agostinho,apartamento,venda,5800.1,4033.8,6616.3,6,,novembro/2026
+Manaus,Santo Antônio,apartamento,venda,6231.9,5526.3,6402.4,5,,novembro/2026
+Manaus,São Francisco,apartamento,venda,7985.8,6597.1,8333.3,6,,novembro/2026
+Manaus,São Geraldo,apartamento,venda,5859.4,4900.0,6140.4,5,,novembro/2026
+Manaus,São Jorge,apartamento,venda,7816.5,6212.3,9438.2,20,9.52,novembro/2026
+Manaus,São Jorge,apartamento,aluguel,62.0,57.0,66.9,7,9.52,novembro/2026
+Manaus,São José Operário,apartamento,venda,5333.3,4382.1,5907.6,15,,novembro/2026
+Manaus,Tarumã,apartamento,venda,3878.4,2692.0,5006.3,36,13.71,novembro/2026
+Manaus,Tarumã,apartamento,aluguel,44.3,32.1,47.2,7,13.71,novembro/2026
+Manaus,Tarumã-Açu,apartamento,venda,3166.7,2365.2,4152.8,26,,novembro/2026
+Manaus,Vieiralves,apartamento,venda,5339.8,4912.2,11896.7,7,,novembro/2026
+Manaus,Adrianópolis,casa,venda,3924.4,2485.8,6409.4,36,,novembro/2026
+Manaus,Aleixo,casa,venda,4220.8,2717.9,5513.5,54,,novembro/2026
+Manaus,Alvorada,casa,venda,1887.3,1500.0,2756.2,32,,novembro/2026
+Manaus,Cachoeirinha,casa,venda,2153.6,1588.3,3691.0,10,,novembro/2026
+Manaus,Centro,casa,venda,2327.7,1822.0,3584.5,34,,novembro/2026
+Manaus,Chapada,casa,venda,6135.0,3549.5,8546.3,23,,novembro/2026
+Manaus,Cidade de Deus,casa,venda,2151.5,1744.4,2400.5,15,,novembro/2026
+Manaus,Cidade Nova,casa,venda,1875.0,1376.8,2521.7,141,,novembro/2026
+Manaus,Colônia Santo Antônio,casa,venda,2600.0,1727.3,5454.5,17,,novembro/2026
+Manaus,Colônia Terra Nova,casa,venda,3720.0,2255.8,5041.7,44,,novembro/2026
+Manaus,Compensa,casa,venda,2200.0,1677.9,3442.0,15,,novembro/2026
+Manaus,Coroado,casa,venda,1583.3,1320.0,2312.5,17,,novembro/2026
+Manaus,Da Paz,casa,venda,1964.3,1666.7,2166.7,5,,novembro/2026
+Manaus,Dom Pedro,casa,venda,3312.8,2708.3,5063.3,25,,novembro/2026
+Manaus,Dom Pedro I,casa,venda,2446.7,1928.6,2806.0,22,,novembro/2026
+Manaus,Flores,casa,venda,4054.1,2475.2,6133.3,141,10.21,novembro/2026
+Manaus,Flores,casa,aluguel,34.5,25.0,40.8,21,10.21,novembro/2026
+Manaus,Gilberto Mestrinho,casa,venda,1000.0,900.0,1173.5,5,,novembro/2026
+Manaus,Japiim,casa,venda,2349.0,1968.0,2829.8,35,,novembro/2026
+Manaus,Jorge Teixeira,casa,venda,1400.0,1000.0,2032.9,15,,novembro/2026
+Manaus,Lírio do Vale,casa,venda,2150.0,1582.3,2785.7,17,,novembro/2026
+Manaus,Monte das Oliveiras,casa,venda,1595.5,1433.3,2105.1,12,,novembro/2026
+Manaus,Nossa Senhora das Graças,casa,venda,4545.5,2604.1,6232.4,12,9.37,novembro/2026
+Manaus,Nossa Senhora das Graças,casa,aluguel,35.5,22.2,40.0,5,9.37,novembro/2026
+Manaus,Nova Cidade,casa,venda,1864.2,1454.0,2316.2,34,,novembro/2026
+Manaus,Nova Esperança,casa,venda,2232.7,1659.7,4455.1,12,,novembro/2026
+Manaus,Novo Aleixo,casa,venda,3331.1,2122.1,5555.6,89,,novembro/2026
+Manaus,Novo Israel,casa,venda,2360.5,1020.7,4896.4,7,,novembro/2026
+Manaus,Parque 10 de Novembro,casa,venda,3437.8,2387.1,5168.1,124,9.32,novembro/2026
+Manaus,Parque 10 de Novembro,casa,aluguel,26.7,25.0,36.7,5,9.32,novembro/2026
+Manaus,Parque das Laranjeiras,casa,venda,7560.0,7223.2,7688.5,6,,novembro/2026
+Manaus,Petrópolis,casa,venda,2142.9,1830.1,2592.6,9,,novembro/2026
+Manaus,Planalto,casa,venda,2142.5,1702.4,2801.4,28,,novembro/2026
+Manaus,Ponta Negra,casa,venda,6736.1,5139.2,8000.0,236,6.98,novembro/2026
+Manaus,Ponta Negra,casa,aluguel,39.2,29.1,52.0,23,6.98,novembro/2026
+Manaus,Praça 14 de Janeiro,casa,venda,2840.9,2336.4,4034.1,11,,novembro/2026
+Manaus,Raiz,casa,venda,3152.7,2551.0,3636.4,5,,novembro/2026
+Manaus,Redenção,casa,venda,1875.0,1434.8,2162.5,23,,novembro/2026
+Manaus,Santa Etelvina,casa,venda,2300.0,1707.3,3833.3,5,,novembro/2026
+Manaus,Santo Agostinho,casa,venda,3958.3,1909.1,4993.8,13,,novembro/2026
+Manaus,Santo Antônio,casa,venda,2157.5,1788.2,2530.9,6,,novembro/2026
+Manaus,São Jorge,casa,venda,2492.4,1965.4,2945.8,8,,novembro/2026
+Manaus,São José Operário,casa,venda,1681.8,1287.0,2427.4,31,,novembro/2026
+Manaus,São Raimundo,casa,venda,2091.1,1601.6,3115.5,8,,novembro/2026
+Manaus,Tancredo Neves,casa,venda,1286.0,1229.4,1434.7,6,,novembro/2026
+Manaus,Tarumã,casa,venda,4150.0,2693.7,5757.1,107,8.1,novembro/2026
+Manaus,Tarumã,casa,aluguel,28.0,19.8,32.1,11,8.1,novembro/2026
+Manaus,Tarumã-Açu,casa,venda,3083.3,2146.5,5487.9,38,,novembro/2026
+Manaus,Aleixo,terreno,venda,1024.2,825.5,1199.6,11,,novembro/2026
+Manaus,Cachoeirinha,terreno,venda,1055.3,968.6,1122.5,6,,novembro/2026
+Manaus,Centro,terreno,venda,1465.7,430.2,1681.7,12,,novembro/2026
+Manaus,Cidade Nova,terreno,venda,804.8,543.8,1051.2,12,,novembro/2026
+Manaus,Colônia Terra Nova,terreno,venda,1080.0,800.0,1420.0,13,,novembro/2026
+Manaus,Flores,terreno,venda,1088.5,800.0,1488.1,17,,novembro/2026
+Manaus,Lago Azul,terreno,venda,257.3,116.5,498.8,10,,novembro/2026
+Manaus,Nossa Senhora das Graças,terreno,venda,2972.4,2611.2,3083.3,6,,novembro/2026
+Manaus,Novo Aleixo,terreno,venda,1088.9,666.7,2000.0,21,,novembro/2026
+Manaus,Novo Israel,terreno,venda,1220.0,700.0,1520.0,5,,novembro/2026
+Manaus,Parque 10 de Novembro,terreno,venda,1120.9,921.2,2153.8,11,,novembro/2026
+Manaus,Ponta Negra,terreno,venda,856.7,630.0,1117.9,135,,novembro/2026
+Manaus,Santa Etelvina,terreno,venda,278.9,243.9,295.0,6,,novembro/2026
+Manaus,Tarumã,terreno,venda,500.0,333.3,704.7,63,,novembro/2026
+Manaus,Tarumã-Açu,terreno,venda,250.0,85.8,380.0,19,,novembro/2026
+Manaus,Adrianópolis,sala,venda,19049.3,14406.2,22957.6,14,8.66,novembro/2026
+Manaus,Adrianópolis,sala,aluguel,137.5,100.0,157.3,17,8.66,novembro/2026
+Manaus,Centro,sala,venda,3750.0,2464.3,5719.0,15,15.68,novembro/2026
+Manaus,Centro,sala,aluguel,49.0,38.3,80.7,7,15.68,novembro/2026
+Manaus,Chapada,sala,venda,11019.5,9492.7,13616.1,12,11.98,novembro/2026
+Manaus,Chapada,sala,aluguel,110.0,78.7,125.0,9,11.98,novembro/2026
+Manaus,Cidade Nova,sala,venda,3575.0,1512.2,8833.3,10,,novembro/2026
+Manaus,Flores,sala,aluguel,38.9,35.0,72.8,7,,novembro/2026
+Manaus,Nossa Senhora das Graças,sala,venda,9036.1,9000.0,9444.4,5,10.62,novembro/2026
+Manaus,Nossa Senhora das Graças,sala,aluguel,80.0,53.2,90.6,7,10.62,novembro/2026
+Manaus,Parque 10 de Novembro,sala,aluguel,56.8,47.7,107.8,15,,novembro/2026
+Manaus,Ponta Negra,sala,venda,17407.3,16562.5,18309.9,9,,novembro/2026
+Manaus,Distrito Industrial I,galpao,aluguel,28.6,22.0,35.7,7,,novembro/2026
+Manaus,Flores,galpao,venda,2888.9,2083.3,3125.0,5,17.4,novembro/2026
+Manaus,Flores,galpao,aluguel,41.9,29.2,46.4,16,17.4,novembro/2026
+Manaus,Santa Etelvina,galpao,venda,3738.6,1578.1,4369.3,6,11.17,novembro/2026
+Manaus,Santa Etelvina,galpao,aluguel,34.8,27.3,43.8,10,11.17,novembro/2026
+Manaus,Tarumã,galpao,venda,3078.0,2327.5,4451.6,6,14.85,novembro/2026
+Manaus,Tarumã,galpao,aluguel,38.1,28.0,45.6,16,14.85,novembro/2026

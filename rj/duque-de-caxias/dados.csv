@@ -1,85 +1,67 @@
 cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
-Duque de Caxias,Amapá,casa,venda,1998.8,1449.4,3300.0,6,,outubro/2026
-Duque de Caxias,Carolina,casa,venda,2368.4,1359.7,3125.0,5,,outubro/2026
-Duque de Caxias,Centro,casa,venda,2846.2,2326.0,3529.4,25,,outubro/2026
-Duque de Caxias,Chácaras Arcampo,casa,venda,2717.7,2036.9,4284.1,22,,outubro/2026
-Duque de Caxias,Chácaras Rio-Petrópolis,casa,venda,2142.9,1315.8,3055.6,45,8.18,outubro/2026
-Duque de Caxias,Chácaras Rio-Petrópolis,casa,aluguel,14.6,14.5,14.9,6,8.18,outubro/2026
-Duque de Caxias,Doutor Laureano,casa,venda,4727.3,3456.0,5117.4,7,,outubro/2026
-Duque de Caxias,Engenho do Porto,casa,venda,2341.5,1833.3,3818.2,13,,outubro/2026
-Duque de Caxias,Imbariê,casa,venda,1318.7,1015.5,2000.0,5,,outubro/2026
-Duque de Caxias,Itatiaia,casa,venda,3666.7,3409.1,4433.2,5,,outubro/2026
-Duque de Caxias,Jardim Barro Branco,casa,venda,2750.0,2500.0,3166.7,5,,outubro/2026
-Duque de Caxias,Jardim Gramacho,casa,venda,2225.0,1593.4,3857.7,8,,outubro/2026
-Duque de Caxias,Jardim Primavera,casa,venda,3146.4,1967.4,4549.3,58,,outubro/2026
-Duque de Caxias,Jardim Rotsen,casa,venda,2083.3,1532.8,2754.4,8,,outubro/2026
-Duque de Caxias,Jardim Vinte e Cinco de Agosto,casa,venda,4333.3,3416.7,6309.5,59,9.36,outubro/2026
-Duque de Caxias,Jardim Vinte e Cinco de Agosto,casa,aluguel,33.8,24.5,37.5,7,9.36,outubro/2026
-Duque de Caxias,Mantiquira,casa,venda,1892.9,1638.9,2317.7,7,,outubro/2026
-Duque de Caxias,Nova Campinas,casa,venda,1758.9,1410.7,3174.9,6,,outubro/2026
-Duque de Caxias,Olavo Bilac,casa,venda,2250.0,1611.1,3833.3,9,,outubro/2026
-Duque de Caxias,Parque A Equitativa,casa,venda,3800.0,1666.7,4651.2,9,,outubro/2026
-Duque de Caxias,Parque Duque,casa,venda,4113.8,2930.6,5080.4,8,,outubro/2026
-Duque de Caxias,Parque Equitativa,casa,venda,1566.7,1322.7,2148.8,8,,outubro/2026
-Duque de Caxias,Parque Fluminense,casa,venda,1955.3,1234.0,2091.6,14,,outubro/2026
-Duque de Caxias,Parque Lafaiete,casa,venda,3200.0,1668.2,4208.8,19,,outubro/2026
-Duque de Caxias,Parque Muísa,casa,venda,1150.0,1050.0,1520.0,5,,outubro/2026
-Duque de Caxias,Parque Paulicéia,casa,venda,4857.1,2609.9,6542.1,17,4.94,outubro/2026
-Duque de Caxias,Parque Paulicéia,casa,aluguel,20.0,17.1,21.1,5,4.94,outubro/2026
-Duque de Caxias,Parque Paulista,casa,venda,1842.1,1388.9,2375.0,9,,outubro/2026
-Duque de Caxias,Parque Senhor do Bonfim,casa,venda,2136.8,1660.9,3412.6,15,,outubro/2026
-Duque de Caxias,Parque Uruguaiana,casa,venda,2673.6,2055.6,3781.2,6,,outubro/2026
-Duque de Caxias,Santa Cruz da Serra,casa,venda,1488.7,1385.0,1979.2,6,,outubro/2026
-Duque de Caxias,São Bento,casa,venda,1600.0,987.5,2086.5,7,,outubro/2026
-Duque de Caxias,Saracuruna,casa,venda,2554.5,1830.0,3152.8,24,,outubro/2026
-Duque de Caxias,Taquara,casa,venda,1555.6,1145.8,3125.0,15,,outubro/2026
-Duque de Caxias,Vila Centenário,casa,venda,2671.4,1435.7,4221.1,6,,outubro/2026
-Duque de Caxias,Vila Itamarati,casa,venda,4442.6,4100.0,4640.6,6,,outubro/2026
-Duque de Caxias,Vila Leopoldina,casa,venda,2410.8,1693.3,3489.6,16,,outubro/2026
-Duque de Caxias,Vila Maria Helena,casa,venda,2747.0,2067.5,3265.9,12,,outubro/2026
-Duque de Caxias,Vila Santa Alice,casa,venda,4219.2,3287.5,5781.2,8,,outubro/2026
-Duque de Caxias,Vila Santa Cruz,casa,venda,2142.9,1473.0,2450.0,15,,outubro/2026
-Duque de Caxias,Vila São Luís,casa,venda,3125.0,2587.1,4110.6,23,,outubro/2026
-Duque de Caxias,Vila São Sebastião,casa,venda,4473.7,3346.9,4760.4,7,,outubro/2026
-Duque de Caxias,Xerém,casa,venda,3610.0,1800.0,4220.0,12,,outubro/2026
-Duque de Caxias,Barro Branco,apartamento,venda,2788.5,2584.9,3000.0,7,,outubro/2026
-Duque de Caxias,Centro,apartamento,venda,3694.4,2984.3,4628.3,30,,outubro/2026
-Duque de Caxias,Chácaras Rio-Petrópolis,apartamento,venda,3776.6,3346.2,5144.6,12,,outubro/2026
-Duque de Caxias,Engenho do Porto,apartamento,venda,3666.7,3028.6,3966.7,5,3.6,outubro/2026
-Duque de Caxias,Engenho do Porto,apartamento,aluguel,11.0,9.0,11.9,6,3.6,outubro/2026
-Duque de Caxias,Figueira,apartamento,venda,5849.0,4981.7,6902.0,6,,outubro/2026
-Duque de Caxias,Jardim Anhangá,apartamento,venda,2857.1,2636.4,2888.9,5,,outubro/2026
-Duque de Caxias,Jardim Gramacho,apartamento,venda,4262.6,3544.6,4555.8,7,7.35,outubro/2026
-Duque de Caxias,Jardim Gramacho,apartamento,aluguel,26.1,19.9,27.4,6,7.35,outubro/2026
-Duque de Caxias,Jardim Primavera,apartamento,venda,3351.4,2716.7,5300.1,48,,outubro/2026
-Duque de Caxias,Jardim Vinte e Cinco de Agosto,apartamento,venda,5800.0,4545.5,6882.4,129,4.47,outubro/2026
-Duque de Caxias,Jardim Vinte e Cinco de Agosto,apartamento,aluguel,21.6,18.0,26.0,16,4.47,outubro/2026
-Duque de Caxias,Parque Duque,apartamento,venda,5737.5,4509.5,6566.7,12,,outubro/2026
-Duque de Caxias,Parque Paulicéia,apartamento,venda,5666.7,5286.0,6454.8,19,,outubro/2026
-Duque de Caxias,Santa Cruz da Serra,apartamento,venda,2912.9,2848.1,3101.6,8,,outubro/2026
-Duque de Caxias,Saracuruna,apartamento,venda,3407.2,3001.8,3931.0,7,,outubro/2026
-Duque de Caxias,Vila Centenário,apartamento,venda,3150.0,2735.7,3285.7,5,,outubro/2026
-Duque de Caxias,Vila São Luís,apartamento,venda,4641.9,4063.0,5563.5,7,,outubro/2026
-Duque de Caxias,Xerém,apartamento,venda,4888.9,4719.0,5633.0,7,,outubro/2026
-Duque de Caxias,Capivari,terreno,venda,219.5,177.5,259.7,6,,outubro/2026
-Duque de Caxias,Chácaras Arcampo,terreno,venda,500.0,200.0,558.8,5,,outubro/2026
-Duque de Caxias,Chácaras Rio-Petrópolis,terreno,venda,163.3,91.0,345.2,47,,outubro/2026
-Duque de Caxias,Parque A Equitativa,terreno,venda,750.0,407.4,833.3,5,,outubro/2026
-Duque de Caxias,Parque Fluminense,terreno,venda,766.7,533.3,800.0,5,,outubro/2026
-Duque de Caxias,Parque Paulista,terreno,venda,208.3,194.4,277.8,5,,outubro/2026
-Duque de Caxias,Vila Maria Helena,terreno,venda,333.3,212.5,483.0,6,,outubro/2026
-Duque de Caxias,Vila Santa Cruz,terreno,venda,618.9,490.4,719.4,8,,outubro/2026
-Duque de Caxias,Xerém,terreno,venda,489.3,306.8,768.8,8,,outubro/2026
-Duque de Caxias,Centro,sala,venda,6250.0,3605.0,8333.3,9,6.72,outubro/2026
-Duque de Caxias,Centro,sala,aluguel,35.0,20.8,40.6,13,6.72,outubro/2026
-Duque de Caxias,Chácaras Rio-Petrópolis,sala,aluguel,22.2,16.7,29.2,5,,outubro/2026
-Duque de Caxias,Jardim Vinte e Cinco de Agosto,sala,venda,6904.8,5954.5,9153.8,20,5.77,outubro/2026
-Duque de Caxias,Jardim Vinte e Cinco de Agosto,sala,aluguel,33.2,19.7,40.4,19,5.77,outubro/2026
-Duque de Caxias,Santa Cruz da Serra,sala,aluguel,62.5,47.0,75.8,6,,outubro/2026
-Duque de Caxias,Chácaras Rio-Petrópolis,galpao,venda,833.3,763.3,1341.7,11,20.45,outubro/2026
-Duque de Caxias,Chácaras Rio-Petrópolis,galpao,aluguel,14.2,8.9,19.5,10,20.45,outubro/2026
-Duque de Caxias,Jardim Gramacho,galpao,venda,1250.0,798.6,1301.9,5,,outubro/2026
-Duque de Caxias,Parque Duque,galpao,aluguel,29.0,14.8,38.0,6,,outubro/2026
-Duque de Caxias,Saracuruna,galpao,venda,985.9,714.3,1866.7,5,,outubro/2026
-Duque de Caxias,Vila São Luís,galpao,venda,2250.0,1937.5,3875.0,7,11.2,outubro/2026
-Duque de Caxias,Vila São Luís,galpao,aluguel,21.0,17.5,21.0,5,11.2,outubro/2026
+Duque de Caxias,Centro,casa,venda,3157.9,2326.0,3390.0,13,,novembro/2026
+Duque de Caxias,Chácaras Arcampo,casa,venda,2526.3,1800.0,3636.4,21,,novembro/2026
+Duque de Caxias,Chácaras Rio-Petrópolis,casa,venda,2124.1,1303.9,3001.5,42,,novembro/2026
+Duque de Caxias,Doutor Laureano,casa,venda,4763.6,3975.2,5276.1,6,,novembro/2026
+Duque de Caxias,Engenho do Porto,casa,venda,3636.4,2408.3,4206.0,7,,novembro/2026
+Duque de Caxias,Imbariê,casa,venda,1318.7,1015.5,2000.0,5,,novembro/2026
+Duque de Caxias,Jardim Gramacho,casa,venda,2972.1,1485.6,4184.4,6,,novembro/2026
+Duque de Caxias,Jardim Primavera,casa,venda,3416.7,2000.0,4550.6,57,,novembro/2026
+Duque de Caxias,Jardim Rotsen,casa,venda,2083.3,1532.8,2754.4,8,,novembro/2026
+Duque de Caxias,Jardim Vinte e Cinco de Agosto,casa,venda,4250.0,3450.0,6285.7,49,9.54,novembro/2026
+Duque de Caxias,Jardim Vinte e Cinco de Agosto,casa,aluguel,33.8,18.3,39.2,5,9.54,novembro/2026
+Duque de Caxias,Mantiquira,casa,venda,2092.3,1652.8,2382.8,8,,novembro/2026
+Duque de Caxias,Nova Campinas,casa,venda,1758.9,1410.7,3174.9,6,,novembro/2026
+Duque de Caxias,Olavo Bilac,casa,venda,2321.0,1770.8,3473.0,6,,novembro/2026
+Duque de Caxias,Parque A Equitativa,casa,venda,3061.2,1625.0,4166.7,7,,novembro/2026
+Duque de Caxias,Parque Duque,casa,venda,4113.8,2930.6,5080.4,8,,novembro/2026
+Duque de Caxias,Parque Lafaiete,casa,venda,3171.2,1625.0,3846.2,17,,novembro/2026
+Duque de Caxias,Parque Paulicéia,casa,venda,4857.1,2609.9,6542.1,13,,novembro/2026
+Duque de Caxias,Parque Paulista,casa,venda,1842.1,1524.8,2187.5,11,,novembro/2026
+Duque de Caxias,Parque Senhor do Bonfim,casa,venda,2400.0,1727.6,3613.1,11,,novembro/2026
+Duque de Caxias,Parque Uruguaiana,casa,venda,2222.2,2000.0,3125.0,5,,novembro/2026
+Duque de Caxias,Santa Cruz da Serra,casa,venda,1583.3,1388.0,3805.6,7,,novembro/2026
+Duque de Caxias,Saracuruna,casa,venda,2416.7,1826.7,3142.8,23,,novembro/2026
+Duque de Caxias,Taquara,casa,venda,1772.7,1145.8,3394.2,15,,novembro/2026
+Duque de Caxias,Vila Leopoldina,casa,venda,2727.3,1684.4,3255.1,11,,novembro/2026
+Duque de Caxias,Vila Maria Helena,casa,venda,2808.5,2352.8,3281.7,11,,novembro/2026
+Duque de Caxias,Vila Santa Alice,casa,venda,4219.2,3287.5,5781.2,8,,novembro/2026
+Duque de Caxias,Vila Santa Cruz,casa,venda,2142.9,1473.0,2400.0,15,,novembro/2026
+Duque de Caxias,Vila São Luís,casa,venda,3536.9,2900.2,3980.2,14,,novembro/2026
+Duque de Caxias,Vila São Sebastião,casa,venda,4298.0,2428.6,4724.0,8,,novembro/2026
+Duque de Caxias,Xerém,casa,venda,2055.6,1458.3,3833.3,13,,novembro/2026
+Duque de Caxias,Barro Branco,apartamento,venda,2788.5,2766.0,3111.1,5,,novembro/2026
+Duque de Caxias,Centro,apartamento,venda,3981.5,3330.0,5157.3,20,,novembro/2026
+Duque de Caxias,Chácaras Rio-Petrópolis,apartamento,venda,3461.5,2915.1,4347.2,11,,novembro/2026
+Duque de Caxias,Figueira,apartamento,venda,5849.0,4981.7,6735.3,6,,novembro/2026
+Duque de Caxias,Jardim Anhangá,apartamento,venda,2857.1,2636.4,2888.9,5,,novembro/2026
+Duque de Caxias,Jardim Gramacho,apartamento,venda,3289.3,2766.0,4555.6,9,,novembro/2026
+Duque de Caxias,Jardim Primavera,apartamento,venda,3595.7,2733.3,5351.2,45,,novembro/2026
+Duque de Caxias,Jardim Vinte e Cinco de Agosto,apartamento,venda,5597.0,4307.7,6756.8,121,5.15,novembro/2026
+Duque de Caxias,Jardim Vinte e Cinco de Agosto,apartamento,aluguel,24.0,20.0,27.3,15,5.15,novembro/2026
+Duque de Caxias,Parque Duque,apartamento,venda,4637.7,2939.2,6577.8,11,,novembro/2026
+Duque de Caxias,Parque Lafaiete,apartamento,aluguel,11.0,9.0,11.9,6,,novembro/2026
+Duque de Caxias,Parque Paulicéia,apartamento,venda,5550.7,4385.4,6285.7,18,,novembro/2026
+Duque de Caxias,Santa Cruz da Serra,apartamento,venda,2912.9,2848.1,3101.6,8,,novembro/2026
+Duque de Caxias,Saracuruna,apartamento,venda,3407.2,3001.8,3931.0,7,,novembro/2026
+Duque de Caxias,Vila Centenário,apartamento,venda,3150.0,2607.7,3551.9,7,,novembro/2026
+Duque de Caxias,Vila São Luís,apartamento,venda,4486.3,3929.2,5251.4,6,,novembro/2026
+Duque de Caxias,Xerém,apartamento,venda,4982.2,4855.8,5911.7,6,,novembro/2026
+Duque de Caxias,Chácaras Rio-Petrópolis,terreno,venda,160.0,89.6,345.2,43,,novembro/2026
+Duque de Caxias,Parque A Equitativa,terreno,venda,750.0,516.2,791.7,7,,novembro/2026
+Duque de Caxias,Parque Paulista,terreno,venda,208.3,194.4,277.8,5,,novembro/2026
+Duque de Caxias,Vila Maria Helena,terreno,venda,333.3,212.5,483.0,6,,novembro/2026
+Duque de Caxias,Vila Santa Cruz,terreno,venda,582.5,459.9,738.9,7,,novembro/2026
+Duque de Caxias,Xerém,terreno,venda,407.2,245.4,982.0,7,,novembro/2026
+Duque de Caxias,Centro,sala,venda,3845.2,3245.0,6006.9,10,9.21,novembro/2026
+Duque de Caxias,Centro,sala,aluguel,29.5,22.3,37.6,8,9.21,novembro/2026
+Duque de Caxias,Chácaras Rio-Petrópolis,sala,aluguel,22.2,16.7,23.3,5,,novembro/2026
+Duque de Caxias,Jardim Vinte e Cinco de Agosto,sala,venda,7416.7,6000.0,9011.9,20,5.37,novembro/2026
+Duque de Caxias,Jardim Vinte e Cinco de Agosto,sala,aluguel,33.2,20.0,43.3,21,5.37,novembro/2026
+Duque de Caxias,Santa Cruz da Serra,sala,aluguel,62.5,47.0,75.8,6,,novembro/2026
+Duque de Caxias,Chácaras Rio-Petrópolis,galpao,venda,1200.0,763.3,1356.8,11,13.3,novembro/2026
+Duque de Caxias,Chácaras Rio-Petrópolis,galpao,aluguel,13.3,7.8,20.0,9,13.3,novembro/2026
+Duque de Caxias,Jardim Gramacho,galpao,venda,875.0,798.6,1250.0,5,,novembro/2026
+Duque de Caxias,Saracuruna,galpao,venda,985.9,714.3,1866.7,5,,novembro/2026
+Duque de Caxias,Vila São Luís,galpao,venda,3750.0,2250.0,4000.0,5,6.72,novembro/2026
+Duque de Caxias,Vila São Luís,galpao,aluguel,21.0,15.2,28.0,5,6.72,novembro/2026

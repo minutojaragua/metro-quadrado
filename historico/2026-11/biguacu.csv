@@ -1,0 +1,37 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Biguaçu,Bairro Deltaville,casa,venda,6450.0,5691.7,8148.8,11,,novembro/2026
+Biguaçu,Beira Rio,casa,venda,6934.8,6565.0,7627.0,42,,novembro/2026
+Biguaçu,Bom Viver,casa,venda,5317.5,4334.1,5909.7,18,,novembro/2026
+Biguaçu,Centro,casa,venda,6172.8,4963.0,7116.1,25,,novembro/2026
+Biguaçu,Deltaville,casa,venda,7310.8,6413.3,8333.3,108,,novembro/2026
+Biguaçu,Fundos,casa,venda,5682.1,4288.5,6316.8,27,,novembro/2026
+Biguaçu,Jardim Janaina,casa,venda,4916.7,3961.6,6583.3,18,,novembro/2026
+Biguaçu,Praia João Rosa,casa,venda,5866.7,4482.5,7416.7,20,,novembro/2026
+Biguaçu,Rio Caveiras,casa,venda,6433.3,4930.1,7472.2,47,,novembro/2026
+Biguaçu,São Miguel (Guaporanga),casa,venda,7450.0,5909.1,7959.2,5,,novembro/2026
+Biguaçu,Universitário,casa,venda,5608.3,4127.3,7022.8,6,,novembro/2026
+Biguaçu,Vendaval,casa,venda,4977.6,4019.1,6504.0,8,,novembro/2026
+Biguaçu,Bom Viver,apartamento,venda,5671.8,5259.5,6555.6,13,7.05,novembro/2026
+Biguaçu,Bom Viver,apartamento,aluguel,33.3,29.6,38.5,5,7.05,novembro/2026
+Biguaçu,Centro,apartamento,venda,8689.1,7279.5,9636.4,73,,novembro/2026
+Biguaçu,Fundos,apartamento,venda,5898.0,5349.3,6573.4,34,6.51,novembro/2026
+Biguaçu,Fundos,apartamento,aluguel,32.0,29.6,37.8,15,6.51,novembro/2026
+Biguaçu,Jardim Janaina,apartamento,venda,6543.6,5771.7,7091.8,18,,novembro/2026
+Biguaçu,Prado,apartamento,venda,5411.8,4980.1,6128.8,6,,novembro/2026
+Biguaçu,Praia João Rosa,apartamento,venda,7062.5,5965.6,7871.6,31,,novembro/2026
+Biguaçu,Rio Caveiras,apartamento,venda,6622.9,5558.3,7607.1,58,5.74,novembro/2026
+Biguaçu,Rio Caveiras,apartamento,aluguel,31.7,27.8,36.0,12,5.74,novembro/2026
+Biguaçu,Universitário,apartamento,venda,6243.1,5650.7,6910.9,6,,novembro/2026
+Biguaçu,Vendaval,apartamento,venda,6250.0,6056.0,6808.5,17,6.34,novembro/2026
+Biguaçu,Vendaval,apartamento,aluguel,33.0,29.2,33.3,5,6.34,novembro/2026
+Biguaçu,Alto,terreno,venda,500.0,139.9,577.8,17,,novembro/2026
+Biguaçu,Bairro Deltaville,terreno,venda,1466.7,1294.4,1627.9,13,,novembro/2026
+Biguaçu,Beira Rio,terreno,venda,1260.0,995.3,1604.0,24,,novembro/2026
+Biguaçu,Centro,terreno,venda,1446.7,1082.6,2083.7,8,,novembro/2026
+Biguaçu,Deltaville,terreno,venda,1744.4,1482.3,2257.1,100,,novembro/2026
+Biguaçu,Fundos,terreno,venda,727.9,504.7,833.7,19,,novembro/2026
+Biguaçu,Jardim Janaina,terreno,venda,716.9,639.0,805.3,22,,novembro/2026
+Biguaçu,Praia João Rosa,terreno,venda,1593.5,1421.0,1805.6,6,,novembro/2026
+Biguaçu,Rio Caveiras,terreno,venda,1071.4,1000.0,1138.9,13,,novembro/2026
+Biguaçu,Universitário,terreno,venda,236.2,230.2,1357.1,5,,novembro/2026
+Biguaçu,Vendaval,terreno,venda,1111.1,1022.2,1252.1,7,,novembro/2026

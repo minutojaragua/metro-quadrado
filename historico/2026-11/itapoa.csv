@@ -1,0 +1,94 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Itapoá,Balneário Cambiju,casa,venda,5776.0,4530.9,6649.5,58,,novembro/2026
+Itapoá,Balneario Santa Clara,casa,venda,6111.1,2388.9,7580.0,5,,novembro/2026
+Itapoá,Bamerindus,casa,venda,4645.8,3798.4,6248.5,20,,novembro/2026
+Itapoá,Barra do Sai,casa,venda,5428.6,3898.4,6745.1,241,,novembro/2026
+Itapoá,Brandalize,casa,venda,5056.2,2763.2,6312.1,25,,novembro/2026
+Itapoá,Brasília,casa,venda,5452.8,3859.7,6319.8,47,,novembro/2026
+Itapoá,Cambijú,casa,venda,5277.8,4187.5,6451.4,73,,novembro/2026
+Itapoá,Centro,casa,venda,5281.5,3684.9,6332.5,98,,novembro/2026
+Itapoá,Continental,casa,venda,5924.2,4548.8,6893.9,65,,novembro/2026
+Itapoá,Imperador,casa,venda,3073.9,2559.7,5038.4,6,,novembro/2026
+Itapoá,Itamar,casa,venda,4415.6,4137.9,4452.1,5,,novembro/2026
+Itapoá,Itapema do Norte,casa,venda,5337.1,3741.5,6509.4,129,,novembro/2026
+Itapoá,Itapema do Sai,casa,venda,3712.8,3090.3,5235.4,14,,novembro/2026
+Itapoá,Itapema do Sai I,casa,venda,5666.7,5284.3,6639.3,9,,novembro/2026
+Itapoá,Itapoá,casa,venda,6355.5,5277.8,6503.3,5,,novembro/2026
+Itapoá,Jardim,casa,venda,4775.0,2956.3,5200.0,5,,novembro/2026
+Itapoá,Jardim da Barra,casa,venda,3942.9,3383.5,6210.1,11,,novembro/2026
+Itapoá,Jardim Pérola do Atlântico,casa,venda,5719.9,4613.3,6444.4,21,,novembro/2026
+Itapoá,Maresia,casa,venda,4113.9,3216.5,5804.7,7,,novembro/2026
+Itapoá,Mariluz,casa,venda,5020.2,3833.4,5966.5,24,,novembro/2026
+Itapoá,Paese,casa,venda,5523.1,4062.5,6879.1,28,,novembro/2026
+Itapoá,Pontal,casa,venda,5131.2,4650.9,5488.6,6,,novembro/2026
+Itapoá,Pontal do Norte,casa,venda,4463.9,3292.0,5738.3,74,,novembro/2026
+Itapoá,Praia das Palmeiras,casa,venda,4500.0,3539.0,5550.6,7,,novembro/2026
+Itapoá,Princesa do Mar,casa,venda,5349.4,3450.5,6404.8,50,,novembro/2026
+Itapoá,Rainha,casa,venda,5625.0,4023.0,6941.4,17,,novembro/2026
+Itapoá,Rainha do Mar,casa,venda,5860.4,4816.3,7206.8,40,,novembro/2026
+Itapoá,Rio Gracioso,casa,venda,3047.1,2321.4,5638.9,7,,novembro/2026
+Itapoá,Rosa dos Ventos,casa,venda,5037.0,3733.3,6844.0,7,,novembro/2026
+Itapoá,Sai Mirim,casa,venda,5544.4,4277.8,6771.2,25,,novembro/2026
+Itapoá,Samambaial,casa,venda,4830.9,4444.4,5254.5,13,,novembro/2026
+Itapoá,São José,casa,venda,5035.1,3615.1,6067.2,58,,novembro/2026
+Itapoá,Uirapuru,casa,venda,5718.8,4650.0,6141.2,7,,novembro/2026
+Itapoá,Volta Ao Mundo,casa,venda,4102.6,3161.1,4694.6,23,,novembro/2026
+Itapoá,Volta Ao Mundo I,casa,venda,5573.8,4963.8,6917.9,17,,novembro/2026
+Itapoá,Balneário Cambiju,apartamento,venda,6102.9,4820.9,6511.8,8,,novembro/2026
+Itapoá,Balneario Santa Clara,apartamento,venda,7429.6,6053.0,9692.8,6,,novembro/2026
+Itapoá,Barra do Sai,apartamento,venda,9605.0,8119.8,11888.2,56,,novembro/2026
+Itapoá,Brandalize,apartamento,venda,7241.4,5370.6,8142.8,5,,novembro/2026
+Itapoá,Brasília,apartamento,venda,8377.2,7076.9,9411.8,17,,novembro/2026
+Itapoá,Cambijú,apartamento,venda,6698.2,4867.5,8428.6,16,,novembro/2026
+Itapoá,Centro,apartamento,venda,8462.7,5792.2,10212.6,62,,novembro/2026
+Itapoá,Continental,apartamento,venda,8613.6,7260.0,12860.1,35,,novembro/2026
+Itapoá,Itapema do Norte,apartamento,venda,9907.0,7571.9,12651.0,170,4.02,novembro/2026
+Itapoá,Itapema do Norte,apartamento,aluguel,33.2,27.9,45.0,6,4.02,novembro/2026
+Itapoá,Itapoá,apartamento,venda,11308.5,8340.6,11420.8,5,,novembro/2026
+Itapoá,Jardim da Barra,apartamento,venda,6989.7,6148.7,12227.0,7,,novembro/2026
+Itapoá,Jardim Pérola do Atlântico,apartamento,venda,10318.5,6749.9,12866.9,59,,novembro/2026
+Itapoá,Maresia,apartamento,venda,8634.6,7065.2,11000.0,17,,novembro/2026
+Itapoá,Mariluz,apartamento,venda,7962.3,7189.4,8878.3,17,,novembro/2026
+Itapoá,Paese,apartamento,venda,7927.2,6482.1,10287.9,56,,novembro/2026
+Itapoá,Pontal do Norte,apartamento,venda,8727.3,7100.3,10305.7,17,,novembro/2026
+Itapoá,Princesa do Mar,apartamento,venda,11556.1,7459.5,13231.0,10,,novembro/2026
+Itapoá,Rainha,apartamento,venda,11364.9,8005.2,13260.1,30,,novembro/2026
+Itapoá,Rainha do Mar,apartamento,venda,9610.4,8023.6,12449.3,79,,novembro/2026
+Itapoá,Sai Mirim,apartamento,venda,12794.5,10815.6,14270.6,6,,novembro/2026
+Itapoá,São José,apartamento,venda,9228.1,7820.1,10457.2,6,,novembro/2026
+Itapoá,Volta Ao Mundo I,apartamento,venda,8000.0,7181.6,10528.6,7,,novembro/2026
+Itapoá,Alvorada,terreno,venda,444.4,416.7,472.2,5,,novembro/2026
+Itapoá,Balneário Cambiju,terreno,venda,736.1,416.7,1083.3,13,,novembro/2026
+Itapoá,Bamerindus,terreno,venda,572.9,416.7,722.2,29,,novembro/2026
+Itapoá,Barra do Sai,terreno,venda,734.7,494.6,1047.0,64,,novembro/2026
+Itapoá,Brandalize,terreno,venda,480.9,426.7,529.4,17,,novembro/2026
+Itapoá,Brasília,terreno,venda,1388.9,1006.9,1724.4,6,,novembro/2026
+Itapoá,Cambijú,terreno,venda,833.3,666.7,1166.7,17,,novembro/2026
+Itapoá,Centro,terreno,venda,925.7,634.9,1115.1,37,,novembro/2026
+Itapoá,Continental,terreno,venda,533.3,494.8,846.4,29,,novembro/2026
+Itapoá,Farol,terreno,venda,497.2,466.1,538.2,5,,novembro/2026
+Itapoá,Figueira do Pontal,terreno,venda,414.6,329.5,742.9,10,,novembro/2026
+Itapoá,Imperador,terreno,venda,833.3,669.6,942.0,5,,novembro/2026
+Itapoá,Itamar,terreno,venda,513.9,480.0,666.7,5,,novembro/2026
+Itapoá,Itapema do Norte,terreno,venda,1115.1,922.4,1470.5,32,,novembro/2026
+Itapoá,Itapema do Sai,terreno,venda,333.3,287.7,567.5,11,,novembro/2026
+Itapoá,Itapoá,terreno,venda,1115.1,1013.9,1130.5,13,,novembro/2026
+Itapoá,Jardim Pérola do Atlântico,terreno,venda,1598.2,1080.6,1666.7,5,,novembro/2026
+Itapoá,Jardim Verdes Mares,terreno,venda,293.0,239.2,391.2,5,,novembro/2026
+Itapoá,Maresia,terreno,venda,392.2,293.0,476.8,13,,novembro/2026
+Itapoá,Mariluz,terreno,venda,541.1,468.8,720.8,12,,novembro/2026
+Itapoá,Paese,terreno,venda,1394.2,1026.7,1724.7,14,,novembro/2026
+Itapoá,Pontal,terreno,venda,666.4,616.6,687.5,6,,novembro/2026
+Itapoá,Pontal do Norte,terreno,venda,507.0,383.2,666.1,76,,novembro/2026
+Itapoá,Praia das Palmeiras,terreno,venda,448.4,338.5,494.8,9,,novembro/2026
+Itapoá,Princesa do Mar,terreno,venda,807.3,637.0,1010.0,8,,novembro/2026
+Itapoá,Rainha,terreno,venda,1142.5,957.8,1313.9,6,,novembro/2026
+Itapoá,Rainha do Mar,terreno,venda,1117.9,1054.3,1336.1,13,,novembro/2026
+Itapoá,Recanto do Farol,terreno,venda,814.0,801.3,833.3,5,,novembro/2026
+Itapoá,Rio Gracioso,terreno,venda,1435.9,1166.7,1512.8,5,,novembro/2026
+Itapoá,Rosa dos Ventos,terreno,venda,800.0,480.7,933.3,13,,novembro/2026
+Itapoá,Sai Mirim,terreno,venda,430.6,363.9,457.5,8,,novembro/2026
+Itapoá,Santa Terezinha,terreno,venda,439.7,293.2,643.6,9,,novembro/2026
+Itapoá,São José,terreno,venda,833.3,527.8,1012.8,19,,novembro/2026
+Itapoá,Volta Ao Mundo,terreno,venda,1025.6,969.4,1276.9,9,,novembro/2026
+Itapoá,Itapema do Norte,sala,aluguel,58.1,51.7,77.8,8,,novembro/2026

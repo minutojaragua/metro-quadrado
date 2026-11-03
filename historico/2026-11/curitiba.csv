@@ -1,0 +1,437 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Curitiba,Abranches,casa,venda,5666.7,4639.3,6666.7,105,,novembro/2026
+Curitiba,Água Verde,casa,venda,6922.7,5423.8,8483.8,114,5.04,novembro/2026
+Curitiba,Água Verde,casa,aluguel,29.1,23.6,36.1,10,5.04,novembro/2026
+Curitiba,Ahú,casa,venda,7611.7,6037.4,11088.2,74,,novembro/2026
+Curitiba,Alto,casa,venda,4935.7,4791.8,5270.0,8,,novembro/2026
+Curitiba,Alto Boqueirão,casa,venda,5303.0,4255.3,6250.0,129,7.54,novembro/2026
+Curitiba,Alto Boqueirão,casa,aluguel,33.3,32.0,38.6,7,7.54,novembro/2026
+Curitiba,Alto da Glória,casa,venda,5882.4,4996.2,6349.2,7,5.0,novembro/2026
+Curitiba,Alto da Glória,casa,aluguel,24.5,22.1,33.3,5,5.0,novembro/2026
+Curitiba,Alto da Rua XV,casa,venda,7216.9,5806.3,7651.1,26,,novembro/2026
+Curitiba,Alto da XV,casa,venda,7600.0,6853.6,9681.5,11,5.49,novembro/2026
+Curitiba,Alto da XV,casa,aluguel,34.8,28.9,50.2,8,5.49,novembro/2026
+Curitiba,Atuba,casa,venda,6067.9,4967.7,7966.1,110,7.26,novembro/2026
+Curitiba,Atuba,casa,aluguel,36.7,25.7,43.0,17,7.26,novembro/2026
+Curitiba,Augusta,casa,venda,3576.6,2723.9,4656.4,30,,novembro/2026
+Curitiba,Bacacheri,casa,venda,6190.5,4824.0,7402.7,104,7.23,novembro/2026
+Curitiba,Bacacheri,casa,aluguel,37.3,30.9,44.3,26,7.23,novembro/2026
+Curitiba,Bairro Alto,casa,venda,5940.0,4821.5,7015.6,183,6.44,novembro/2026
+Curitiba,Bairro Alto,casa,aluguel,31.9,25.4,43.0,43,6.44,novembro/2026
+Curitiba,Barigui,casa,venda,11257.3,7971.9,12594.0,21,,novembro/2026
+Curitiba,Barreirinha,casa,venda,5833.3,4555.4,6911.5,127,6.19,novembro/2026
+Curitiba,Barreirinha,casa,aluguel,30.1,25.0,41.0,20,6.19,novembro/2026
+Curitiba,Batel,casa,venda,11349.7,9888.9,15287.1,15,,novembro/2026
+Curitiba,Bigorrilho,casa,venda,7605.3,6628.5,10090.1,21,8.38,novembro/2026
+Curitiba,Bigorrilho,casa,aluguel,53.1,42.9,55.0,7,8.38,novembro/2026
+Curitiba,Boa Vista,casa,venda,6223.8,5170.0,7316.0,157,5.82,novembro/2026
+Curitiba,Boa Vista,casa,aluguel,30.2,23.6,38.6,28,5.82,novembro/2026
+Curitiba,Bom Retiro,casa,venda,7248.7,6313.7,8380.6,109,5.21,novembro/2026
+Curitiba,Bom Retiro,casa,aluguel,31.5,25.0,34.4,8,5.21,novembro/2026
+Curitiba,Boqueirão,casa,venda,5736.5,4999.1,6831.8,181,6.61,novembro/2026
+Curitiba,Boqueirão,casa,aluguel,31.6,25.0,41.3,41,6.61,novembro/2026
+Curitiba,Butiatuvinha,casa,venda,8358.4,6301.9,10724.1,68,,novembro/2026
+Curitiba,Cabral,casa,venda,7573.4,5917.4,8497.8,19,,novembro/2026
+Curitiba,Cachoeira,casa,venda,5277.2,4396.2,6015.5,100,7.21,novembro/2026
+Curitiba,Cachoeira,casa,aluguel,31.7,25.4,42.9,6,7.21,novembro/2026
+Curitiba,Caiuá,casa,venda,4511.7,3350.0,6193.3,22,,novembro/2026
+Curitiba,Cajuru,casa,venda,4673.2,3473.2,6005.6,194,7.7,novembro/2026
+Curitiba,Cajuru,casa,aluguel,30.0,24.2,34.3,23,7.7,novembro/2026
+Curitiba,Campina do Siqueira,casa,venda,7187.1,5867.3,9030.4,63,,novembro/2026
+Curitiba,Campo Comprido,casa,venda,7668.4,5686.5,9573.8,170,6.68,novembro/2026
+Curitiba,Campo Comprido,casa,aluguel,42.7,31.0,53.0,22,6.68,novembro/2026
+Curitiba,Campo de Santana,casa,venda,5285.7,4285.7,6190.5,169,7.02,novembro/2026
+Curitiba,Campo de Santana,casa,aluguel,30.9,25.4,37.0,13,7.02,novembro/2026
+Curitiba,Capão da Imbuia,casa,venda,5397.2,4285.7,6500.0,85,7.34,novembro/2026
+Curitiba,Capão da Imbuia,casa,aluguel,33.0,27.8,35.2,7,7.34,novembro/2026
+Curitiba,Capão Raso,casa,venda,5968.2,5104.2,6903.4,97,5.75,novembro/2026
+Curitiba,Capão Raso,casa,aluguel,28.6,21.3,34.5,6,5.75,novembro/2026
+Curitiba,Cascatinha,casa,venda,8647.1,7178.1,10449.8,59,6.27,novembro/2026
+Curitiba,Cascatinha,casa,aluguel,45.2,34.3,52.4,10,6.27,novembro/2026
+Curitiba,Centro,casa,venda,7575.4,5520.8,9182.5,26,5.07,novembro/2026
+Curitiba,Centro,casa,aluguel,32.0,21.4,70.4,13,5.07,novembro/2026
+Curitiba,Centro Cívico,casa,venda,7467.5,6651.8,9801.3,33,7.04,novembro/2026
+Curitiba,Centro Cívico,casa,aluguel,43.8,28.1,45.7,5,7.04,novembro/2026
+Curitiba,Champagnat,casa,venda,6841.4,5426.9,8752.3,6,,novembro/2026
+Curitiba,Cic,casa,venda,5859.7,4979.7,7934.8,10,,novembro/2026
+Curitiba,Cidade Industrial,casa,venda,5031.2,3935.8,6432.1,170,5.68,novembro/2026
+Curitiba,Cidade Industrial,casa,aluguel,23.8,19.9,31.9,11,5.68,novembro/2026
+Curitiba,Cristo Rei,casa,venda,6757.7,6006.6,7446.0,31,5.79,novembro/2026
+Curitiba,Cristo Rei,casa,aluguel,32.6,30.3,47.4,5,5.79,novembro/2026
+Curitiba,Ecoville,casa,venda,8605.6,7459.6,12524.8,41,6.11,novembro/2026
+Curitiba,Ecoville,casa,aluguel,43.8,36.6,64.3,7,6.11,novembro/2026
+Curitiba,Fanny,casa,venda,5533.9,4775.0,6420.6,64,,novembro/2026
+Curitiba,Fazendinha,casa,venda,5801.9,4239.6,6908.8,147,6.29,novembro/2026
+Curitiba,Fazendinha,casa,aluguel,30.4,26.7,36.4,8,6.29,novembro/2026
+Curitiba,Ganchinho,casa,venda,4600.0,3888.9,6250.0,49,,novembro/2026
+Curitiba,Guabirotuba,casa,venda,6265.7,5281.5,7553.3,132,5.63,novembro/2026
+Curitiba,Guabirotuba,casa,aluguel,29.4,26.0,54.9,27,5.63,novembro/2026
+Curitiba,Guaíra,casa,venda,5448.2,4402.6,6402.7,84,,novembro/2026
+Curitiba,Hauer,casa,venda,5966.5,4967.4,7162.9,91,,novembro/2026
+Curitiba,Hugo Lange,casa,venda,7463.7,6417.6,8547.1,40,,novembro/2026
+Curitiba,Jardim Botânico,casa,venda,4962.1,4198.6,6557.4,38,,novembro/2026
+Curitiba,Jardim das Américas,casa,venda,6420.7,5330.4,7697.0,175,6.04,novembro/2026
+Curitiba,Jardim das Américas,casa,aluguel,32.3,25.5,37.5,31,6.04,novembro/2026
+Curitiba,Jardim Schaffer,casa,venda,10322.0,7351.7,11089.2,8,,novembro/2026
+Curitiba,Jardim Social,casa,venda,7292.7,5910.5,8173.0,119,5.61,novembro/2026
+Curitiba,Jardim Social,casa,aluguel,34.1,27.9,42.1,18,5.61,novembro/2026
+Curitiba,Juvevê,casa,venda,7959.2,7738.1,8653.8,13,,novembro/2026
+Curitiba,Lindóia,casa,venda,5448.6,4239.5,6656.9,53,,novembro/2026
+Curitiba,Mercês,casa,venda,7789.8,6097.8,8904.7,94,6.96,novembro/2026
+Curitiba,Mercês,casa,aluguel,45.2,31.2,53.6,22,6.96,novembro/2026
+Curitiba,Mossunguê,casa,venda,7044.3,5793.9,8072.4,50,4.29,novembro/2026
+Curitiba,Mossunguê,casa,aluguel,25.2,25.0,27.3,5,4.29,novembro/2026
+Curitiba,Neoville,casa,venda,9054.4,6674.6,10110.8,12,,novembro/2026
+Curitiba,Novo Mundo,casa,venda,6049.8,4766.7,7134.5,109,6.29,novembro/2026
+Curitiba,Novo Mundo,casa,aluguel,31.7,24.5,39.5,15,6.29,novembro/2026
+Curitiba,Orleans,casa,venda,7047.6,5500.0,10191.7,77,5.79,novembro/2026
+Curitiba,Orleans,casa,aluguel,34.0,28.5,39.8,11,5.79,novembro/2026
+Curitiba,Parolin,casa,venda,4666.7,3848.4,6060.0,47,,novembro/2026
+Curitiba,Parque Tanguá,casa,venda,7830.2,7167.2,9183.7,13,,novembro/2026
+Curitiba,Pilarzinho,casa,venda,6789.1,5252.5,8015.2,156,3.71,novembro/2026
+Curitiba,Pilarzinho,casa,aluguel,21.0,16.8,28.2,8,3.71,novembro/2026
+Curitiba,Pinheirinho,casa,venda,5995.4,4738.1,7304.3,156,7.07,novembro/2026
+Curitiba,Pinheirinho,casa,aluguel,35.3,28.5,44.5,23,7.07,novembro/2026
+Curitiba,Portão,casa,venda,6898.8,5489.3,8355.6,135,5.6,novembro/2026
+Curitiba,Portão,casa,aluguel,32.2,25.1,45.5,14,5.6,novembro/2026
+Curitiba,Prado Velho,casa,venda,3515.6,3157.9,5645.6,7,,novembro/2026
+Curitiba,Rebouças,casa,venda,5448.7,4166.7,7673.3,33,7.55,novembro/2026
+Curitiba,Rebouças,casa,aluguel,34.3,31.0,41.7,9,7.55,novembro/2026
+Curitiba,Riviera,casa,venda,10489.5,8866.7,10786.1,9,,novembro/2026
+Curitiba,Santa Cândida,casa,venda,6833.3,5639.3,8037.7,187,8.99,novembro/2026
+Curitiba,Santa Cândida,casa,aluguel,51.2,33.8,65.6,35,8.99,novembro/2026
+Curitiba,Santa Felicidade,casa,venda,7925.1,6202.8,10054.3,286,6.48,novembro/2026
+Curitiba,Santa Felicidade,casa,aluguel,42.8,30.0,59.2,86,6.48,novembro/2026
+Curitiba,Santa Quitéria,casa,venda,6705.9,5629.4,8132.7,95,5.67,novembro/2026
+Curitiba,Santa Quitéria,casa,aluguel,31.7,28.0,40.5,24,5.67,novembro/2026
+Curitiba,Santo Inácio,casa,venda,7654.6,6306.3,9854.1,110,6.08,novembro/2026
+Curitiba,Santo Inácio,casa,aluguel,38.8,34.5,45.9,16,6.08,novembro/2026
+Curitiba,São Braz,casa,venda,8429.8,6162.1,10180.6,150,5.12,novembro/2026
+Curitiba,São Braz,casa,aluguel,36.0,26.8,52.8,39,5.12,novembro/2026
+Curitiba,São Francisco,casa,venda,6281.0,5495.6,6927.4,26,6.69,novembro/2026
+Curitiba,São Francisco,casa,aluguel,35.0,26.2,37.9,7,6.69,novembro/2026
+Curitiba,São João,casa,venda,8489.2,6910.3,10559.2,74,4.54,novembro/2026
+Curitiba,São João,casa,aluguel,32.1,31.2,38.4,9,4.54,novembro/2026
+Curitiba,São Lourenço,casa,venda,6666.2,5223.9,8768.2,77,4.88,novembro/2026
+Curitiba,São Lourenço,casa,aluguel,27.1,18.4,34.6,13,4.88,novembro/2026
+Curitiba,São Miguel,casa,venda,2777.8,2071.9,3451.9,14,,novembro/2026
+Curitiba,Seminário,casa,venda,7876.6,5919.6,10461.8,84,5.41,novembro/2026
+Curitiba,Seminário,casa,aluguel,35.5,25.7,40.2,16,5.41,novembro/2026
+Curitiba,Sítio Cercado,casa,venda,4991.7,3698.0,6409.2,164,6.61,novembro/2026
+Curitiba,Sítio Cercado,casa,aluguel,27.5,22.7,34.2,13,6.61,novembro/2026
+Curitiba,Taboão,casa,venda,5789.9,4417.2,7369.9,37,6.96,novembro/2026
+Curitiba,Taboão,casa,aluguel,33.6,29.9,36.0,7,6.96,novembro/2026
+Curitiba,Tarumã,casa,venda,5967.6,4886.0,7058.0,80,5.53,novembro/2026
+Curitiba,Tarumã,casa,aluguel,27.5,24.9,35.1,9,5.53,novembro/2026
+Curitiba,Tatuquara,casa,venda,5137.6,3984.0,6081.3,132,,novembro/2026
+Curitiba,Tingui,casa,venda,5944.1,5162.7,7023.8,85,8.28,novembro/2026
+Curitiba,Tingui,casa,aluguel,41.0,30.9,47.8,10,8.28,novembro/2026
+Curitiba,Uberaba,casa,venda,6171.5,5000.0,7732.0,288,6.69,novembro/2026
+Curitiba,Uberaba,casa,aluguel,34.4,26.2,42.4,48,6.69,novembro/2026
+Curitiba,Umbará,casa,venda,6511.6,5298.1,7721.8,156,,novembro/2026
+Curitiba,Vila Izabel,casa,venda,6739.1,5428.6,7710.6,27,5.88,novembro/2026
+Curitiba,Vila Izabel,casa,aluguel,33.0,28.1,36.9,6,5.88,novembro/2026
+Curitiba,Vista Alegre,casa,venda,7336.1,5810.2,9385.4,116,5.45,novembro/2026
+Curitiba,Vista Alegre,casa,aluguel,33.3,26.6,46.0,29,5.45,novembro/2026
+Curitiba,Vitória Régia,casa,venda,4986.9,4798.4,5504.5,10,,novembro/2026
+Curitiba,Xaxim,casa,venda,6082.9,5012.8,7185.8,195,6.41,novembro/2026
+Curitiba,Xaxim,casa,aluguel,32.5,25.3,43.8,35,6.41,novembro/2026
+Curitiba,Abranches,apartamento,venda,5953.2,4931.8,6880.3,16,,novembro/2026
+Curitiba,Água Verde,apartamento,venda,11923.1,8103.3,15192.7,695,4.95,novembro/2026
+Curitiba,Água Verde,apartamento,aluguel,49.2,33.4,72.1,186,4.95,novembro/2026
+Curitiba,Ahú,apartamento,venda,13625.3,10466.9,15569.6,190,3.21,novembro/2026
+Curitiba,Ahú,apartamento,aluguel,36.4,30.3,50.0,21,3.21,novembro/2026
+Curitiba,Alto Boqueirão,apartamento,venda,5466.9,4696.1,6413.1,40,6.63,novembro/2026
+Curitiba,Alto Boqueirão,apartamento,aluguel,30.2,25.7,37.5,5,6.63,novembro/2026
+Curitiba,Alto da Glória,apartamento,venda,11744.1,8166.9,16045.3,207,6.23,novembro/2026
+Curitiba,Alto da Glória,apartamento,aluguel,61.0,42.3,76.4,62,6.23,novembro/2026
+Curitiba,Alto da Rua XV,apartamento,venda,10044.6,7426.7,13185.3,132,5.17,novembro/2026
+Curitiba,Alto da Rua XV,apartamento,aluguel,43.3,33.4,53.9,28,5.17,novembro/2026
+Curitiba,Alto da XV,apartamento,venda,12220.6,9004.5,14503.5,135,5.89,novembro/2026
+Curitiba,Alto da XV,apartamento,aluguel,60.0,49.4,73.0,35,5.89,novembro/2026
+Curitiba,Atuba,apartamento,venda,5650.0,4883.5,7308.8,47,8.09,novembro/2026
+Curitiba,Atuba,apartamento,aluguel,38.1,30.8,44.0,18,8.09,novembro/2026
+Curitiba,Augusta,apartamento,venda,5204.1,4999.1,5387.9,7,,novembro/2026
+Curitiba,Bacacheri,apartamento,venda,9808.1,7520.5,11603.2,253,4.92,novembro/2026
+Curitiba,Bacacheri,apartamento,aluguel,40.2,31.4,53.9,68,4.92,novembro/2026
+Curitiba,Bairro Alto,apartamento,venda,8014.7,6843.4,9623.7,51,5.57,novembro/2026
+Curitiba,Bairro Alto,apartamento,aluguel,37.2,30.9,43.7,28,5.57,novembro/2026
+Curitiba,Barigui,apartamento,venda,18043.5,16853.1,19665.2,31,,novembro/2026
+Curitiba,Barreirinha,apartamento,venda,5185.2,4909.2,5447.8,7,7.75,novembro/2026
+Curitiba,Barreirinha,apartamento,aluguel,33.5,28.4,37.6,8,7.75,novembro/2026
+Curitiba,Batel,apartamento,venda,15449.7,9226.4,21949.6,498,4.5,novembro/2026
+Curitiba,Batel,apartamento,aluguel,57.9,35.3,82.1,150,4.5,novembro/2026
+Curitiba,Bigorrilho,apartamento,venda,12365.6,8798.7,17312.5,447,4.47,novembro/2026
+Curitiba,Bigorrilho,apartamento,aluguel,46.1,36.8,61.1,122,4.47,novembro/2026
+Curitiba,Boa Vista,apartamento,venda,9456.4,7643.9,11205.8,227,5.49,novembro/2026
+Curitiba,Boa Vista,apartamento,aluguel,43.3,35.0,53.3,70,5.49,novembro/2026
+Curitiba,Bom Retiro,apartamento,venda,11390.3,9883.0,13529.2,70,6.1,novembro/2026
+Curitiba,Bom Retiro,apartamento,aluguel,57.9,48.3,77.5,12,6.1,novembro/2026
+Curitiba,Boqueirão,apartamento,venda,7467.4,5941.0,9027.1,82,5.35,novembro/2026
+Curitiba,Boqueirão,apartamento,aluguel,33.3,28.1,41.0,27,5.35,novembro/2026
+Curitiba,Cabral,apartamento,venda,12435.9,9135.6,16952.5,349,4.32,novembro/2026
+Curitiba,Cabral,apartamento,aluguel,44.8,34.5,61.7,98,4.32,novembro/2026
+Curitiba,Cachoeira,apartamento,venda,4777.8,4148.9,5208.3,17,7.03,novembro/2026
+Curitiba,Cachoeira,apartamento,aluguel,28.0,25.5,29.3,9,7.03,novembro/2026
+Curitiba,Cajuru,apartamento,venda,7102.9,6017.4,8710.2,112,8.23,novembro/2026
+Curitiba,Cajuru,apartamento,aluguel,48.7,37.5,59.7,33,8.23,novembro/2026
+Curitiba,Campina do Siqueira,apartamento,venda,13429.7,9995.7,17616.6,155,5.0,novembro/2026
+Curitiba,Campina do Siqueira,apartamento,aluguel,56.0,39.4,75.2,15,5.0,novembro/2026
+Curitiba,Campo Comprido,apartamento,venda,10505.3,7384.0,13954.9,186,5.06,novembro/2026
+Curitiba,Campo Comprido,apartamento,aluguel,44.3,34.4,57.1,61,5.06,novembro/2026
+Curitiba,Campo de Santana,apartamento,venda,5081.6,4600.0,5833.3,41,8.03,novembro/2026
+Curitiba,Campo de Santana,apartamento,aluguel,34.0,24.7,37.1,11,8.03,novembro/2026
+Curitiba,Capão da Imbuia,apartamento,venda,8075.8,6921.7,9461.5,52,6.81,novembro/2026
+Curitiba,Capão da Imbuia,apartamento,aluguel,45.8,42.5,59.0,11,6.81,novembro/2026
+Curitiba,Capão Raso,apartamento,venda,8011.5,6514.2,9906.5,148,5.48,novembro/2026
+Curitiba,Capão Raso,apartamento,aluguel,36.6,28.1,43.5,43,5.48,novembro/2026
+Curitiba,Cascatinha,apartamento,venda,8604.0,6757.0,10239.0,26,,novembro/2026
+Curitiba,Centro,apartamento,venda,11255.6,7615.0,14269.5,337,5.13,novembro/2026
+Curitiba,Centro,apartamento,aluguel,48.1,33.9,69.0,213,5.13,novembro/2026
+Curitiba,Centro Cívico,apartamento,venda,12000.0,8266.7,15820.0,151,5.18,novembro/2026
+Curitiba,Centro Cívico,apartamento,aluguel,51.8,39.7,80.2,62,5.18,novembro/2026
+Curitiba,Champagnat,apartamento,venda,16181.9,10816.9,20581.4,102,3.91,novembro/2026
+Curitiba,Champagnat,apartamento,aluguel,52.7,43.5,77.5,20,3.91,novembro/2026
+Curitiba,Cic,apartamento,venda,7928.4,6064.5,10372.0,10,,novembro/2026
+Curitiba,Cidade Industrial,apartamento,venda,7569.4,5833.3,10245.9,105,6.96,novembro/2026
+Curitiba,Cidade Industrial,apartamento,aluguel,43.9,31.6,53.9,67,6.96,novembro/2026
+Curitiba,Cristo Rei,apartamento,venda,9840.6,7250.7,12937.1,262,5.33,novembro/2026
+Curitiba,Cristo Rei,apartamento,aluguel,43.7,33.3,58.3,130,5.33,novembro/2026
+Curitiba,Ecoville,apartamento,venda,12713.2,10246.6,15635.3,327,5.28,novembro/2026
+Curitiba,Ecoville,apartamento,aluguel,55.9,42.5,71.8,124,5.28,novembro/2026
+Curitiba,Fanny,apartamento,venda,6019.4,5363.0,7292.6,75,5.86,novembro/2026
+Curitiba,Fanny,apartamento,aluguel,29.4,27.6,33.7,8,5.86,novembro/2026
+Curitiba,Fazendinha,apartamento,venda,5354.5,4518.8,5923.9,60,8.34,novembro/2026
+Curitiba,Fazendinha,apartamento,aluguel,37.2,32.4,41.8,18,8.34,novembro/2026
+Curitiba,Ganchinho,apartamento,venda,4239.1,3808.5,4489.8,25,,novembro/2026
+Curitiba,Guabirotuba,apartamento,venda,9222.2,6689.1,11358.7,51,4.91,novembro/2026
+Curitiba,Guabirotuba,apartamento,aluguel,37.7,32.5,42.6,11,4.91,novembro/2026
+Curitiba,Guaíra,apartamento,venda,7000.0,5102.5,9102.6,95,6.39,novembro/2026
+Curitiba,Guaíra,apartamento,aluguel,37.3,29.6,53.8,29,6.39,novembro/2026
+Curitiba,Hauer,apartamento,venda,8394.6,6970.3,9941.0,83,5.4,novembro/2026
+Curitiba,Hauer,apartamento,aluguel,37.8,31.7,44.2,14,5.4,novembro/2026
+Curitiba,Hugo Lange,apartamento,venda,11755.7,8915.0,15525.9,160,4.34,novembro/2026
+Curitiba,Hugo Lange,apartamento,aluguel,42.5,36.8,54.3,11,4.34,novembro/2026
+Curitiba,Jardim Botânico,apartamento,venda,8792.0,6050.8,11992.6,103,6.82,novembro/2026
+Curitiba,Jardim Botânico,apartamento,aluguel,50.0,34.4,62.9,39,6.82,novembro/2026
+Curitiba,Jardim das Américas,apartamento,venda,9642.9,7713.2,12152.1,31,4.98,novembro/2026
+Curitiba,Jardim das Américas,apartamento,aluguel,40.0,37.4,56.4,5,4.98,novembro/2026
+Curitiba,Jardim Social,apartamento,venda,9726.1,5990.1,11270.0,22,3.87,novembro/2026
+Curitiba,Jardim Social,apartamento,aluguel,31.4,26.3,48.7,6,3.87,novembro/2026
+Curitiba,Juvevê,apartamento,venda,12299.5,8247.4,15226.3,293,3.88,novembro/2026
+Curitiba,Juvevê,apartamento,aluguel,39.8,30.5,57.3,45,3.88,novembro/2026
+Curitiba,Lindóia,apartamento,venda,7110.9,6027.0,8371.6,74,6.31,novembro/2026
+Curitiba,Lindóia,apartamento,aluguel,37.4,32.7,46.6,8,6.31,novembro/2026
+Curitiba,Mercês,apartamento,venda,13369.5,9987.7,16619.8,209,4.04,novembro/2026
+Curitiba,Mercês,apartamento,aluguel,45.0,33.2,67.0,63,4.04,novembro/2026
+Curitiba,Mossunguê,apartamento,venda,11659.9,9290.2,16458.3,194,4.68,novembro/2026
+Curitiba,Mossunguê,apartamento,aluguel,45.5,33.9,62.6,44,4.68,novembro/2026
+Curitiba,Neoville,apartamento,venda,8630.9,7222.2,9744.7,33,,novembro/2026
+Curitiba,Novo Mundo,apartamento,venda,8549.6,7000.0,10566.0,181,5.98,novembro/2026
+Curitiba,Novo Mundo,apartamento,aluguel,42.6,31.0,56.0,68,5.98,novembro/2026
+Curitiba,Orleans,apartamento,venda,10907.7,9154.7,13328.4,34,4.52,novembro/2026
+Curitiba,Orleans,apartamento,aluguel,41.1,36.6,47.3,8,4.52,novembro/2026
+Curitiba,Parolin,apartamento,venda,5807.8,4939.0,7196.1,40,10.21,novembro/2026
+Curitiba,Parolin,apartamento,aluguel,49.4,38.1,61.1,7,10.21,novembro/2026
+Curitiba,Pilarzinho,apartamento,venda,7757.9,6317.2,8908.3,26,5.31,novembro/2026
+Curitiba,Pilarzinho,apartamento,aluguel,34.3,29.7,41.9,5,5.31,novembro/2026
+Curitiba,Pinheirinho,apartamento,venda,6848.7,5847.2,8314.2,66,6.83,novembro/2026
+Curitiba,Pinheirinho,apartamento,aluguel,39.0,34.1,44.9,39,6.83,novembro/2026
+Curitiba,Portão,apartamento,venda,9646.7,7382.3,11889.8,302,5.13,novembro/2026
+Curitiba,Portão,apartamento,aluguel,41.2,31.9,56.6,116,5.13,novembro/2026
+Curitiba,Prado Velho,apartamento,venda,9193.5,7448.7,11315.0,75,7.87,novembro/2026
+Curitiba,Prado Velho,apartamento,aluguel,60.3,47.5,75.8,57,7.87,novembro/2026
+Curitiba,Rebouças,apartamento,venda,9246.2,6693.1,12255.2,152,6.39,novembro/2026
+Curitiba,Rebouças,apartamento,aluguel,49.2,37.0,68.2,96,6.39,novembro/2026
+Curitiba,Santa Cândida,apartamento,venda,6644.0,4895.7,8293.2,72,6.25,novembro/2026
+Curitiba,Santa Cândida,apartamento,aluguel,34.6,27.5,43.1,57,6.25,novembro/2026
+Curitiba,Santa Felicidade,apartamento,venda,8620.7,7302.7,9456.9,59,5.08,novembro/2026
+Curitiba,Santa Felicidade,apartamento,aluguel,36.5,28.7,44.7,19,5.08,novembro/2026
+Curitiba,Santa Quitéria,apartamento,venda,7704.8,5534.7,9703.9,74,6.43,novembro/2026
+Curitiba,Santa Quitéria,apartamento,aluguel,41.3,36.2,53.9,23,6.43,novembro/2026
+Curitiba,Santo Inácio,apartamento,venda,9703.5,8542.3,14413.4,64,5.08,novembro/2026
+Curitiba,Santo Inácio,apartamento,aluguel,41.1,35.7,49.3,17,5.08,novembro/2026
+Curitiba,São Braz,apartamento,venda,5259.8,4401.9,7147.5,12,8.67,novembro/2026
+Curitiba,São Braz,apartamento,aluguel,38.0,29.8,45.5,8,8.67,novembro/2026
+Curitiba,São Francisco,apartamento,venda,10834.4,7713.8,14044.1,142,5.68,novembro/2026
+Curitiba,São Francisco,apartamento,aluguel,51.3,34.7,70.9,52,5.68,novembro/2026
+Curitiba,São Lourenço,apartamento,venda,11229.6,8671.9,12675.1,31,,novembro/2026
+Curitiba,Seminário,apartamento,venda,13237.1,10060.4,16755.6,135,3.64,novembro/2026
+Curitiba,Seminário,apartamento,aluguel,40.1,31.8,50.3,18,3.64,novembro/2026
+Curitiba,Sítio Cercado,apartamento,venda,5204.7,4739.8,5942.0,40,7.1,novembro/2026
+Curitiba,Sítio Cercado,apartamento,aluguel,30.8,26.5,40.2,13,7.1,novembro/2026
+Curitiba,Tarumã,apartamento,venda,9152.5,6944.4,11287.9,61,8.18,novembro/2026
+Curitiba,Tarumã,apartamento,aluguel,62.4,49.3,68.1,8,8.18,novembro/2026
+Curitiba,Tatuquara,apartamento,venda,4507.7,4195.1,5163.5,34,,novembro/2026
+Curitiba,Tingui,apartamento,venda,7322.9,6046.9,9031.8,112,6.51,novembro/2026
+Curitiba,Tingui,apartamento,aluguel,39.7,33.9,48.9,51,6.51,novembro/2026
+Curitiba,Uberaba,apartamento,venda,7272.7,5722.0,8406.7,55,6.11,novembro/2026
+Curitiba,Uberaba,apartamento,aluguel,37.0,34.5,44.0,37,6.11,novembro/2026
+Curitiba,Umbará,apartamento,venda,5000.0,3915.2,6092.1,14,,novembro/2026
+Curitiba,Vila Izabel,apartamento,venda,11153.2,8465.6,14067.8,261,5.11,novembro/2026
+Curitiba,Vila Izabel,apartamento,aluguel,47.5,32.6,58.8,92,5.11,novembro/2026
+Curitiba,Vista Alegre,apartamento,venda,7417.9,6202.3,9851.5,30,6.94,novembro/2026
+Curitiba,Vista Alegre,apartamento,aluguel,42.9,38.3,45.4,7,6.94,novembro/2026
+Curitiba,Xaxim,apartamento,venda,5363.6,4237.6,6361.1,55,8.28,novembro/2026
+Curitiba,Xaxim,apartamento,aluguel,37.0,31.9,47.9,20,8.28,novembro/2026
+Curitiba,Abranches,terreno,venda,1224.4,972.6,1511.5,71,,novembro/2026
+Curitiba,Água Verde,terreno,venda,2977.1,2590.8,3541.6,48,,novembro/2026
+Curitiba,Ahú,terreno,venda,2520.4,2048.3,3375.0,24,,novembro/2026
+Curitiba,Alto Boqueirão,terreno,venda,1184.2,916.8,1465.2,46,,novembro/2026
+Curitiba,Alto da Glória,terreno,venda,3706.4,3428.3,4526.8,14,,novembro/2026
+Curitiba,Alto da Rua XV,terreno,venda,3425.9,2820.6,4013.4,29,,novembro/2026
+Curitiba,Alto da XV,terreno,venda,3612.0,3004.5,4072.8,7,,novembro/2026
+Curitiba,Atuba,terreno,venda,1299.7,1075.9,1593.4,60,,novembro/2026
+Curitiba,Augusta,terreno,venda,1545.5,1001.5,2040.8,31,,novembro/2026
+Curitiba,Bacacheri,terreno,venda,2204.1,1809.3,3104.5,55,,novembro/2026
+Curitiba,Bairro Alto,terreno,venda,1300.0,1054.4,1800.0,63,,novembro/2026
+Curitiba,Barigui,terreno,venda,3852.0,2659.3,4356.3,7,,novembro/2026
+Curitiba,Barreirinha,terreno,venda,1200.2,914.6,1614.4,70,,novembro/2026
+Curitiba,Batel,terreno,venda,5008.9,4027.6,5416.1,7,,novembro/2026
+Curitiba,Bigorrilho,terreno,venda,3341.6,3003.9,3967.1,38,,novembro/2026
+Curitiba,Boa Vista,terreno,venda,1707.7,1391.3,2143.6,67,,novembro/2026
+Curitiba,Bom Retiro,terreno,venda,2145.6,1704.5,2801.5,42,,novembro/2026
+Curitiba,Boqueirão,terreno,venda,1382.2,1147.1,1767.3,73,,novembro/2026
+Curitiba,Butiatuvinha,terreno,venda,1290.1,921.4,2085.0,74,,novembro/2026
+Curitiba,Cabral,terreno,venda,4093.5,2962.4,4528.6,16,,novembro/2026
+Curitiba,Cachoeira,terreno,venda,1144.4,750.9,1530.4,35,,novembro/2026
+Curitiba,Cajuru,terreno,venda,1530.6,1276.9,1832.1,87,,novembro/2026
+Curitiba,Campina do Siqueira,terreno,venda,2338.0,1883.0,3751.6,28,,novembro/2026
+Curitiba,Campo Comprido,terreno,venda,1824.7,1318.2,3118.2,107,,novembro/2026
+Curitiba,Campo de Santana,terreno,venda,1215.6,738.4,1605.1,38,,novembro/2026
+Curitiba,Capão da Imbuia,terreno,venda,1919.3,1674.1,2141.9,42,,novembro/2026
+Curitiba,Capão Raso,terreno,venda,1960.8,1506.8,2586.4,59,,novembro/2026
+Curitiba,Cascatinha,terreno,venda,1513.6,1074.3,3000.0,31,,novembro/2026
+Curitiba,Centro,terreno,venda,3960.4,2840.6,5091.8,35,,novembro/2026
+Curitiba,Centro Cívico,terreno,venda,2525.6,1954.3,3934.0,16,,novembro/2026
+Curitiba,Cidade Industrial,terreno,venda,1469.9,950.3,2170.1,106,,novembro/2026
+Curitiba,Cristo Rei,terreno,venda,2725.5,2038.6,3556.9,25,,novembro/2026
+Curitiba,Ecoville,terreno,venda,2252.4,1862.9,2578.7,12,,novembro/2026
+Curitiba,Fanny,terreno,venda,1387.4,1154.6,1700.4,30,,novembro/2026
+Curitiba,Fazendinha,terreno,venda,1756.0,1527.8,2000.0,49,,novembro/2026
+Curitiba,Ganchinho,terreno,venda,730.9,356.5,1462.7,14,,novembro/2026
+Curitiba,Guabirotuba,terreno,venda,1667.5,1187.3,2035.9,40,,novembro/2026
+Curitiba,Guaíra,terreno,venda,1602.0,1262.7,1939.0,51,,novembro/2026
+Curitiba,Hauer,terreno,venda,1954.4,1525.2,2746.2,61,,novembro/2026
+Curitiba,Hugo Lange,terreno,venda,3030.9,2302.8,3424.1,12,,novembro/2026
+Curitiba,Jardim Botânico,terreno,venda,2065.7,1750.6,2793.4,30,,novembro/2026
+Curitiba,Jardim das Américas,terreno,venda,2160.0,1781.0,2358.3,45,,novembro/2026
+Curitiba,Jardim Schaffer,terreno,venda,1745.1,1358.0,1883.1,5,,novembro/2026
+Curitiba,Jardim Social,terreno,venda,2057.2,1864.0,2337.1,24,,novembro/2026
+Curitiba,Juvevê,terreno,venda,3677.0,2511.6,4211.7,16,,novembro/2026
+Curitiba,Lamenha Pequena,terreno,venda,284.4,240.6,617.0,6,,novembro/2026
+Curitiba,Lindóia,terreno,venda,1303.0,1150.0,1527.8,25,,novembro/2026
+Curitiba,Mercês,terreno,venda,2350.4,1912.3,3234.9,47,,novembro/2026
+Curitiba,Mossunguê,terreno,venda,2289.9,1806.1,2749.7,43,,novembro/2026
+Curitiba,Neoville,terreno,venda,2961.2,2011.0,3542.7,8,,novembro/2026
+Curitiba,Novo Mundo,terreno,venda,1929.5,1554.7,3108.3,67,,novembro/2026
+Curitiba,Orleans,terreno,venda,1123.6,769.2,1547.1,49,,novembro/2026
+Curitiba,Parolin,terreno,venda,1768.4,1394.1,2011.2,47,,novembro/2026
+Curitiba,Parque Tanguá,terreno,venda,1459.6,957.1,1812.0,5,,novembro/2026
+Curitiba,Passaúna,terreno,venda,1432.7,1427.5,1635.1,5,,novembro/2026
+Curitiba,Pilarzinho,terreno,venda,1337.2,960.2,2461.6,102,,novembro/2026
+Curitiba,Pinheirinho,terreno,venda,1789.8,1375.0,2443.2,80,,novembro/2026
+Curitiba,Portão,terreno,venda,2051.3,1733.7,2853.3,81,,novembro/2026
+Curitiba,Prado Velho,terreno,venda,1819.5,1572.3,2236.3,14,,novembro/2026
+Curitiba,Rebouças,terreno,venda,2300.9,1939.1,2975.4,60,,novembro/2026
+Curitiba,Riviera,terreno,venda,1554.0,675.9,2087.6,22,,novembro/2026
+Curitiba,Santa Cândida,terreno,venda,1735.0,1024.4,2542.8,104,,novembro/2026
+Curitiba,Santa Felicidade,terreno,venda,1570.5,1114.6,2214.1,144,,novembro/2026
+Curitiba,Santa Quitéria,terreno,venda,2023.3,1656.0,2466.1,46,,novembro/2026
+Curitiba,Santo Inácio,terreno,venda,1972.4,1325.0,2335.5,46,,novembro/2026
+Curitiba,São Braz,terreno,venda,1586.1,1091.2,2843.1,64,,novembro/2026
+Curitiba,São Francisco,terreno,venda,2706.1,2006.2,3372.8,32,,novembro/2026
+Curitiba,São João,terreno,venda,1570.8,1074.1,2273.7,29,,novembro/2026
+Curitiba,São Lourenço,terreno,venda,1833.6,1645.0,2423.0,52,,novembro/2026
+Curitiba,São Miguel,terreno,venda,496.2,197.4,541.2,5,,novembro/2026
+Curitiba,Seminário,terreno,venda,2397.8,1982.0,3088.5,28,,novembro/2026
+Curitiba,Sítio Cercado,terreno,venda,1743.8,1557.5,2103.5,40,,novembro/2026
+Curitiba,Taboão,terreno,venda,1500.0,870.9,2553.9,61,,novembro/2026
+Curitiba,Tarumã,terreno,venda,1726.2,1473.2,2028.4,22,,novembro/2026
+Curitiba,Tatuquara,terreno,venda,1329.1,600.0,1833.3,25,,novembro/2026
+Curitiba,Tingui,terreno,venda,1527.9,1209.8,1882.6,44,,novembro/2026
+Curitiba,Uberaba,terreno,venda,1656.4,1347.2,2430.8,108,,novembro/2026
+Curitiba,Umbará,terreno,venda,1390.9,509.4,1956.1,78,,novembro/2026
+Curitiba,Vila Izabel,terreno,venda,3333.3,3108.8,3833.9,21,,novembro/2026
+Curitiba,Vista Alegre,terreno,venda,1513.6,1214.0,1847.8,56,,novembro/2026
+Curitiba,Xaxim,terreno,venda,1713.6,1283.0,2445.3,63,,novembro/2026
+Curitiba,Água Verde,sala,venda,8221.9,5231.7,10606.1,37,6.39,novembro/2026
+Curitiba,Água Verde,sala,aluguel,43.8,36.0,56.8,27,6.39,novembro/2026
+Curitiba,Ahú,sala,aluguel,33.9,27.4,55.0,6,,novembro/2026
+Curitiba,Alto da Glória,sala,venda,17777.8,11090.2,21327.3,27,5.93,novembro/2026
+Curitiba,Alto da Glória,sala,aluguel,87.9,56.8,134.1,17,5.93,novembro/2026
+Curitiba,Alto da Rua XV,sala,venda,7215.9,4409.7,10079.5,8,7.32,novembro/2026
+Curitiba,Alto da Rua XV,sala,aluguel,44.0,38.1,102.6,7,7.32,novembro/2026
+Curitiba,Bacacheri,sala,venda,7157.9,6074.1,8602.4,10,6.79,novembro/2026
+Curitiba,Bacacheri,sala,aluguel,40.5,29.1,72.2,21,6.79,novembro/2026
+Curitiba,Bairro Alto,sala,aluguel,26.7,22.5,38.0,9,,novembro/2026
+Curitiba,Batel,sala,venda,9969.7,7649.0,12624.4,60,8.41,novembro/2026
+Curitiba,Batel,sala,aluguel,69.9,41.4,122.8,28,8.41,novembro/2026
+Curitiba,Bigorrilho,sala,venda,7608.7,5930.2,9874.9,49,8.71,novembro/2026
+Curitiba,Bigorrilho,sala,aluguel,55.2,44.0,75.2,23,8.71,novembro/2026
+Curitiba,Boa Vista,sala,venda,8650.6,7153.2,11038.4,15,6.12,novembro/2026
+Curitiba,Boa Vista,sala,aluguel,44.1,33.8,56.4,11,6.12,novembro/2026
+Curitiba,Bom Retiro,sala,aluguel,37.7,34.4,47.0,6,,novembro/2026
+Curitiba,Boqueirão,sala,venda,4896.9,3666.7,5600.0,5,9.51,novembro/2026
+Curitiba,Boqueirão,sala,aluguel,38.8,29.7,49.5,21,9.51,novembro/2026
+Curitiba,Cabral,sala,venda,8333.3,6814.5,10831.1,27,7.82,novembro/2026
+Curitiba,Cabral,sala,aluguel,54.3,52.8,86.6,7,7.82,novembro/2026
+Curitiba,Cajuru,sala,venda,6414.6,4072.1,7686.5,6,7.15,novembro/2026
+Curitiba,Cajuru,sala,aluguel,38.2,29.0,56.4,6,7.15,novembro/2026
+Curitiba,Campina do Siqueira,sala,venda,16698.6,15817.9,17042.1,8,5.19,novembro/2026
+Curitiba,Campina do Siqueira,sala,aluguel,72.2,70.8,131.9,7,5.19,novembro/2026
+Curitiba,Capão da Imbuia,sala,venda,3913.0,3527.1,6310.8,7,10.7,novembro/2026
+Curitiba,Capão da Imbuia,sala,aluguel,34.9,31.9,39.0,7,10.7,novembro/2026
+Curitiba,Capão Raso,sala,venda,7476.2,4705.9,7654.8,9,6.18,novembro/2026
+Curitiba,Capão Raso,sala,aluguel,38.5,30.5,56.0,13,6.18,novembro/2026
+Curitiba,Centro,sala,venda,5858.9,4087.3,8003.3,152,7.17,novembro/2026
+Curitiba,Centro,sala,aluguel,35.0,20.1,59.3,107,7.17,novembro/2026
+Curitiba,Centro Cívico,sala,venda,7421.9,6159.0,9541.3,27,7.21,novembro/2026
+Curitiba,Centro Cívico,sala,aluguel,44.6,35.5,63.8,20,7.21,novembro/2026
+Curitiba,Cidade Industrial,sala,aluguel,36.7,29.5,45.2,8,,novembro/2026
+Curitiba,Cristo Rei,sala,venda,5943.9,5000.0,8000.0,29,,novembro/2026
+Curitiba,Ecoville,sala,venda,17506.4,12256.4,18276.9,8,,novembro/2026
+Curitiba,Fazendinha,sala,venda,5142.9,5138.9,9574.5,5,15.21,novembro/2026
+Curitiba,Fazendinha,sala,aluguel,65.2,57.9,65.9,7,15.21,novembro/2026
+Curitiba,Guabirotuba,sala,aluguel,41.3,34.2,46.7,6,,novembro/2026
+Curitiba,Hauer,sala,aluguel,37.1,27.2,45.6,14,,novembro/2026
+Curitiba,Juvevê,sala,venda,13658.4,8601.9,21569.0,26,6.55,novembro/2026
+Curitiba,Juvevê,sala,aluguel,74.5,55.2,93.3,6,6.55,novembro/2026
+Curitiba,Mercês,sala,venda,8510.2,5721.5,11357.1,10,7.25,novembro/2026
+Curitiba,Mercês,sala,aluguel,51.4,21.6,57.5,9,7.25,novembro/2026
+Curitiba,Mossunguê,sala,venda,16571.4,7210.4,17526.6,21,3.15,novembro/2026
+Curitiba,Mossunguê,sala,aluguel,43.5,36.7,56.0,6,3.15,novembro/2026
+Curitiba,Novo Mundo,sala,venda,5076.2,4583.3,5501.7,6,11.23,novembro/2026
+Curitiba,Novo Mundo,sala,aluguel,47.5,41.7,75.0,13,11.23,novembro/2026
+Curitiba,Pinheirinho,sala,aluguel,57.2,46.6,77.6,14,,novembro/2026
+Curitiba,Portão,sala,venda,6105.8,4166.5,8768.8,24,8.18,novembro/2026
+Curitiba,Portão,sala,aluguel,41.6,31.5,59.3,20,8.18,novembro/2026
+Curitiba,Rebouças,sala,venda,6998.0,4885.8,9706.3,31,4.34,novembro/2026
+Curitiba,Rebouças,sala,aluguel,25.3,20.0,40.1,18,4.34,novembro/2026
+Curitiba,Santa Felicidade,sala,aluguel,44.8,40.8,54.1,22,,novembro/2026
+Curitiba,Santa Quitéria,sala,aluguel,51.8,42.4,98.1,6,,novembro/2026
+Curitiba,São Braz,sala,aluguel,44.7,36.7,50.4,6,,novembro/2026
+Curitiba,São Francisco,sala,venda,7185.9,5577.9,9860.9,8,6.55,novembro/2026
+Curitiba,São Francisco,sala,aluguel,39.2,28.2,41.7,9,6.55,novembro/2026
+Curitiba,São Lourenço,sala,aluguel,46.5,31.2,72.7,9,,novembro/2026
+Curitiba,Seminário,sala,venda,11018.2,5603.3,18193.8,6,5.45,novembro/2026
+Curitiba,Seminário,sala,aluguel,50.0,37.9,58.7,9,5.45,novembro/2026
+Curitiba,Sítio Cercado,sala,aluguel,50.6,43.2,64.2,21,,novembro/2026
+Curitiba,Uberaba,sala,aluguel,43.6,30.2,77.4,14,,novembro/2026
+Curitiba,Vila Izabel,sala,venda,10884.3,6794.9,13068.2,28,8.25,novembro/2026
+Curitiba,Vila Izabel,sala,aluguel,74.8,57.9,89.6,14,8.25,novembro/2026
+Curitiba,Vista Alegre,sala,venda,6666.7,6067.0,7050.7,8,,novembro/2026
+Curitiba,Xaxim,sala,aluguel,45.5,36.0,63.2,23,,novembro/2026
+Curitiba,Bacacheri,galpao,venda,2865.4,2500.0,3873.2,5,,novembro/2026
+Curitiba,Boqueirão,galpao,venda,2351.3,1855.4,3952.5,25,11.07,novembro/2026
+Curitiba,Boqueirão,galpao,aluguel,21.7,14.1,25.3,22,11.07,novembro/2026
+Curitiba,Cajuru,galpao,venda,3762.6,3086.4,4214.3,5,,novembro/2026
+Curitiba,Cidade Industrial,galpao,venda,2788.9,1938.4,4504.2,36,9.72,novembro/2026
+Curitiba,Cidade Industrial,galpao,aluguel,22.6,19.4,25.0,18,9.72,novembro/2026
+Curitiba,Fazendinha,galpao,aluguel,32.0,32.0,32.0,7,,novembro/2026
+Curitiba,Hauer,galpao,venda,3873.9,3042.6,5133.3,13,7.74,novembro/2026
+Curitiba,Hauer,galpao,aluguel,25.0,21.1,29.2,11,7.74,novembro/2026
+Curitiba,Parolin,galpao,aluguel,24.6,15.0,26.6,6,,novembro/2026
+Curitiba,Pinheirinho,galpao,venda,2374.1,1324.5,3148.1,5,,novembro/2026
+Curitiba,Uberaba,galpao,venda,4100.4,2269.2,4648.1,7,,novembro/2026
+Curitiba,Xaxim,galpao,venda,3376.4,2584.8,3979.5,12,,novembro/2026

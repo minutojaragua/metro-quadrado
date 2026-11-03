@@ -1,39 +1,40 @@
 cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
-São Caetano do Sul,Barcelona,apartamento,venda,11031.1,8601.8,12997.6,58,,outubro/2026
-São Caetano do Sul,Boa Vista,apartamento,venda,9493.7,7395.3,11406.3,25,4.74,outubro/2026
-São Caetano do Sul,Boa Vista,apartamento,aluguel,37.5,31.4,52.0,5,4.74,outubro/2026
-São Caetano do Sul,Centro,apartamento,venda,11179.9,9922.4,11813.5,38,,outubro/2026
-São Caetano do Sul,Cerâmica,apartamento,venda,10625.0,8855.6,16869.2,23,,outubro/2026
-São Caetano do Sul,Fundação,apartamento,venda,10285.7,8854.4,13078.0,23,,outubro/2026
-São Caetano do Sul,Jardim São Caetano,apartamento,venda,13365.6,10579.5,14829.5,20,,outubro/2026
-São Caetano do Sul,Mauá,apartamento,venda,10381.8,9639.7,11344.9,12,,outubro/2026
-São Caetano do Sul,Nova Gerti,apartamento,venda,6980.0,6060.6,7776.0,13,,outubro/2026
-São Caetano do Sul,Nova Gerty,apartamento,venda,5556.2,5222.7,5704.0,5,,outubro/2026
-São Caetano do Sul,Olímpico,apartamento,venda,8792.7,6813.0,12073.6,14,,outubro/2026
-São Caetano do Sul,Osvaldo Cruz,apartamento,venda,8839.5,6914.7,11132.8,24,4.24,outubro/2026
-São Caetano do Sul,Osvaldo Cruz,apartamento,aluguel,31.2,29.2,67.5,5,4.24,outubro/2026
-São Caetano do Sul,Santa Maria,apartamento,venda,8265.0,5968.8,9710.0,48,,outubro/2026
-São Caetano do Sul,Santa Paula,apartamento,venda,10363.0,7500.0,12355.8,92,5.94,outubro/2026
-São Caetano do Sul,Santa Paula,apartamento,aluguel,51.3,44.0,52.1,6,5.94,outubro/2026
-São Caetano do Sul,Santo Antônio,apartamento,venda,7577.5,6099.5,12301.7,42,6.16,outubro/2026
-São Caetano do Sul,Santo Antônio,apartamento,aluguel,38.9,38.4,50.4,5,6.16,outubro/2026
-São Caetano do Sul,Barcelona,casa,venda,6197.7,4815.2,8360.4,22,,outubro/2026
-São Caetano do Sul,Boa Vista,casa,venda,6347.7,6237.3,6830.1,8,,outubro/2026
-São Caetano do Sul,Cerâmica,casa,venda,6459.1,4388.5,7245.4,19,,outubro/2026
-São Caetano do Sul,Jardim São Caetano,casa,venda,7489.5,5081.6,9765.9,28,4.6,outubro/2026
-São Caetano do Sul,Jardim São Caetano,casa,aluguel,28.7,27.8,33.4,5,4.6,outubro/2026
-São Caetano do Sul,Mauá,casa,venda,4910.6,4072.0,6565.4,8,,outubro/2026
-São Caetano do Sul,Nova Gerti,casa,venda,4609.9,3899.7,6418.4,5,,outubro/2026
-São Caetano do Sul,Nova Gerty,casa,venda,4640.6,3601.4,6493.1,6,,outubro/2026
-São Caetano do Sul,Olímpico,casa,venda,5974.6,4701.7,7446.3,19,,outubro/2026
-São Caetano do Sul,Osvaldo Cruz,casa,venda,5369.3,4431.2,6073.8,18,,outubro/2026
-São Caetano do Sul,Santa Maria,casa,venda,5431.3,4961.1,6519.4,30,,outubro/2026
-São Caetano do Sul,Santa Paula,casa,venda,6509.1,5403.7,8274.3,23,,outubro/2026
-São Caetano do Sul,Santo Antônio,casa,venda,9804.7,8240.1,11305.1,6,,outubro/2026
-São Caetano do Sul,Barcelona,terreno,venda,3775.6,3266.1,6003.9,7,,outubro/2026
-São Caetano do Sul,Santa Maria,terreno,venda,2788.8,2625.0,2980.7,7,,outubro/2026
-São Caetano do Sul,Santa Paula,terreno,venda,5161.3,4431.8,5750.0,8,,outubro/2026
-São Caetano do Sul,Centro,sala,venda,6420.1,5730.6,7358.9,14,9.51,outubro/2026
-São Caetano do Sul,Centro,sala,aluguel,50.9,47.7,64.7,7,9.51,outubro/2026
-São Caetano do Sul,Santo Antônio,sala,venda,6730.8,5288.5,7633.3,5,,outubro/2026
-São Caetano do Sul,Fundação,galpao,aluguel,28.0,28.0,29.5,6,,outubro/2026
+São Caetano do Sul,Barcelona,apartamento,venda,11549.9,8817.6,13455.1,66,5.14,novembro/2026
+São Caetano do Sul,Barcelona,apartamento,aluguel,49.5,42.2,56.0,5,5.14,novembro/2026
+São Caetano do Sul,Boa Vista,apartamento,venda,9746.8,7285.6,12134.2,24,7.12,novembro/2026
+São Caetano do Sul,Boa Vista,apartamento,aluguel,57.8,37.5,62.2,5,7.12,novembro/2026
+São Caetano do Sul,Centro,apartamento,venda,11193.2,9946.9,11886.5,39,,novembro/2026
+São Caetano do Sul,Cerâmica,apartamento,venda,10625.0,8730.8,18024.2,21,,novembro/2026
+São Caetano do Sul,Fundação,apartamento,venda,10362.6,9245.7,13366.9,22,,novembro/2026
+São Caetano do Sul,Jardim São Caetano,apartamento,venda,12846.2,10606.1,14785.7,21,,novembro/2026
+São Caetano do Sul,Mauá,apartamento,venda,10513.5,9901.5,11356.5,11,,novembro/2026
+São Caetano do Sul,Nova Gerti,apartamento,venda,6430.3,5756.8,7746.3,8,,novembro/2026
+São Caetano do Sul,Olímpico,apartamento,venda,10153.8,6857.1,12286.9,13,,novembro/2026
+São Caetano do Sul,Osvaldo Cruz,apartamento,venda,9363.1,7153.0,12056.2,20,4.17,novembro/2026
+São Caetano do Sul,Osvaldo Cruz,apartamento,aluguel,32.5,29.2,67.5,5,4.17,novembro/2026
+São Caetano do Sul,Santa Maria,apartamento,venda,8298.6,6015.7,9820.8,42,6.42,novembro/2026
+São Caetano do Sul,Santa Maria,apartamento,aluguel,44.4,37.6,50.5,5,6.42,novembro/2026
+São Caetano do Sul,Santa Paula,apartamento,venda,10061.7,7500.0,12599.0,87,9.22,novembro/2026
+São Caetano do Sul,Santa Paula,apartamento,aluguel,77.3,51.8,84.0,7,9.22,novembro/2026
+São Caetano do Sul,Santo Antônio,apartamento,venda,8000.0,6149.7,12224.6,43,7.56,novembro/2026
+São Caetano do Sul,Santo Antônio,apartamento,aluguel,50.4,38.7,69.3,7,7.56,novembro/2026
+São Caetano do Sul,Barcelona,casa,venda,7307.7,5802.5,8149.4,19,,novembro/2026
+São Caetano do Sul,Boa Vista,casa,venda,6315.6,5938.7,6584.1,8,,novembro/2026
+São Caetano do Sul,Cerâmica,casa,venda,6562.9,4618.5,8432.3,20,,novembro/2026
+São Caetano do Sul,Jardim São Caetano,casa,venda,7713.4,5081.6,9932.6,32,4.46,novembro/2026
+São Caetano do Sul,Jardim São Caetano,casa,aluguel,28.7,27.8,33.4,5,4.46,novembro/2026
+São Caetano do Sul,Mauá,casa,venda,5760.8,4399.9,6854.9,8,,novembro/2026
+São Caetano do Sul,Nova Gerti,casa,venda,4609.9,3899.7,6418.4,5,,novembro/2026
+São Caetano do Sul,Olímpico,casa,venda,5974.6,5276.0,7539.7,17,,novembro/2026
+São Caetano do Sul,Osvaldo Cruz,casa,venda,5294.1,4399.2,6186.7,19,,novembro/2026
+São Caetano do Sul,Santa Maria,casa,venda,5424.5,4947.2,6568.9,27,,novembro/2026
+São Caetano do Sul,Santa Paula,casa,venda,5927.9,5233.8,7977.0,20,,novembro/2026
+São Caetano do Sul,Santo Antônio,casa,venda,11466.7,9858.3,13854.2,6,,novembro/2026
+São Caetano do Sul,Barcelona,terreno,venda,3716.5,2755.6,5501.0,8,,novembro/2026
+São Caetano do Sul,Boa Vista,terreno,venda,2861.5,2830.0,3533.3,5,,novembro/2026
+São Caetano do Sul,Santa Maria,terreno,venda,2788.8,2625.0,2980.7,7,,novembro/2026
+São Caetano do Sul,Santa Paula,terreno,venda,5161.3,4431.8,5750.0,8,,novembro/2026
+São Caetano do Sul,Centro,sala,venda,6780.2,6171.1,7410.7,10,10.14,novembro/2026
+São Caetano do Sul,Centro,sala,aluguel,57.3,47.4,65.3,6,10.14,novembro/2026
+São Caetano do Sul,Fundação,galpao,aluguel,28.0,28.0,29.5,6,,novembro/2026
+São Caetano do Sul,Santa Paula,galpao,aluguel,35.4,31.6,37.5,5,,novembro/2026

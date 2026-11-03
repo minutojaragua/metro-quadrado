@@ -1,0 +1,935 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Belo Horizonte,Acaiaca,casa,venda,2405.5,1711.0,2960.5,21,,novembro/2026
+Belo Horizonte,Aeroporto,casa,venda,4130.6,3424.3,5915.5,8,,novembro/2026
+Belo Horizonte,Alípio de Melo,casa,venda,4581.9,3575.5,5867.5,164,7.73,novembro/2026
+Belo Horizonte,Alípio de Melo,casa,aluguel,29.5,25.2,35.7,13,7.73,novembro/2026
+Belo Horizonte,Alto Barroca,casa,venda,4536.3,3685.9,5923.6,34,6.61,novembro/2026
+Belo Horizonte,Alto Barroca,casa,aluguel,25.0,22.3,29.6,6,6.61,novembro/2026
+Belo Horizonte,Alto Caiçaras,casa,venda,3945.3,2979.2,4760.1,34,8.09,novembro/2026
+Belo Horizonte,Alto Caiçaras,casa,aluguel,26.6,15.7,29.3,5,8.09,novembro/2026
+Belo Horizonte,Alto dos Pinheiros,casa,venda,3569.8,2603.1,4909.4,46,8.91,novembro/2026
+Belo Horizonte,Alto dos Pinheiros,casa,aluguel,26.5,21.5,28.3,6,8.91,novembro/2026
+Belo Horizonte,Álvaro Camargos,casa,venda,5000.0,4325.6,5541.2,10,,novembro/2026
+Belo Horizonte,Anchieta,casa,venda,6333.3,5604.6,7263.9,27,6.52,novembro/2026
+Belo Horizonte,Anchieta,casa,aluguel,34.4,29.5,45.2,11,6.52,novembro/2026
+Belo Horizonte,Aparecida,casa,venda,2885.6,2616.3,3838.1,22,,novembro/2026
+Belo Horizonte,Araguaia,casa,venda,2765.0,1939.4,3995.8,47,,novembro/2026
+Belo Horizonte,Átila de Paiva,casa,venda,3404.3,2904.3,4866.5,11,,novembro/2026
+Belo Horizonte,Bandeirantes,casa,venda,6730.8,5034.6,8832.2,235,6.06,novembro/2026
+Belo Horizonte,Bandeirantes,casa,aluguel,34.0,27.3,41.0,25,6.06,novembro/2026
+Belo Horizonte,Barreiro,casa,venda,5134.8,3745.9,6226.4,81,5.84,novembro/2026
+Belo Horizonte,Barreiro,casa,aluguel,25.0,21.2,35.3,17,5.84,novembro/2026
+Belo Horizonte,Barro Preto,casa,venda,7483.3,4681.2,10314.3,16,4.28,novembro/2026
+Belo Horizonte,Barro Preto,casa,aluguel,26.7,25.0,33.3,5,4.28,novembro/2026
+Belo Horizonte,Barroca,casa,venda,3927.8,3175.6,5347.0,24,8.95,novembro/2026
+Belo Horizonte,Barroca,casa,aluguel,29.3,18.2,33.7,10,8.95,novembro/2026
+Belo Horizonte,Belmonte,casa,venda,2952.6,2300.0,4872.4,6,,novembro/2026
+Belo Horizonte,Belvedere,casa,venda,9145.6,7106.6,10919.0,88,6.76,novembro/2026
+Belo Horizonte,Belvedere,casa,aluguel,51.5,40.0,66.7,45,6.76,novembro/2026
+Belo Horizonte,Betânia,casa,venda,4038.3,3289.3,5060.5,92,9.39,novembro/2026
+Belo Horizonte,Betânia,casa,aluguel,31.6,25.3,34.5,11,9.39,novembro/2026
+Belo Horizonte,Boa Viagem,casa,venda,9538.5,8717.8,10081.6,10,,novembro/2026
+Belo Horizonte,Boa Vista,casa,venda,4175.8,3552.3,5416.7,25,6.67,novembro/2026
+Belo Horizonte,Boa Vista,casa,aluguel,23.2,19.5,33.4,8,6.67,novembro/2026
+Belo Horizonte,Bom Jesus,casa,venda,2403.3,1857.1,3076.9,25,,novembro/2026
+Belo Horizonte,Bonfim,casa,venda,2717.7,2161.4,3566.7,37,,novembro/2026
+Belo Horizonte,Bonsucesso,casa,venda,3571.4,1850.6,5725.9,11,,novembro/2026
+Belo Horizonte,Brasil Industrial,casa,venda,4368.7,2786.0,5531.3,20,7.2,novembro/2026
+Belo Horizonte,Brasil Industrial,casa,aluguel,26.2,14.1,31.5,6,7.2,novembro/2026
+Belo Horizonte,Braúnas,casa,venda,5823.5,3713.6,7518.9,88,4.35,novembro/2026
+Belo Horizonte,Braúnas,casa,aluguel,21.1,15.4,28.7,8,4.35,novembro/2026
+Belo Horizonte,Buritis,casa,venda,9608.9,7848.6,11797.3,90,4.26,novembro/2026
+Belo Horizonte,Buritis,casa,aluguel,34.1,27.1,41.3,17,4.26,novembro/2026
+Belo Horizonte,Cabana,casa,venda,2200.0,1894.7,3350.0,5,,novembro/2026
+Belo Horizonte,Cachoeirinha,casa,venda,4085.7,2983.3,5309.5,58,,novembro/2026
+Belo Horizonte,Caiçara-Adelaide,casa,venda,4292.6,3050.0,5361.8,56,,novembro/2026
+Belo Horizonte,Caiçaras,casa,venda,4239.9,3113.6,5625.5,164,6.76,novembro/2026
+Belo Horizonte,Caiçaras,casa,aluguel,23.9,18.8,30.0,9,6.76,novembro/2026
+Belo Horizonte,Calafate,casa,venda,6153.8,4474.3,7770.8,43,4.15,novembro/2026
+Belo Horizonte,Calafate,casa,aluguel,21.3,20.0,25.0,5,4.15,novembro/2026
+Belo Horizonte,Califórnia,casa,venda,3222.2,2038.8,4204.3,40,7.45,novembro/2026
+Belo Horizonte,Califórnia,casa,aluguel,20.0,17.9,30.5,11,7.45,novembro/2026
+Belo Horizonte,Camargos,casa,venda,4364.0,3345.4,5225.0,35,,novembro/2026
+Belo Horizonte,Campo Alegre,casa,venda,3500.0,2837.5,3796.9,11,,novembro/2026
+Belo Horizonte,Canaã,casa,venda,4000.0,3297.6,5634.2,43,4.74,novembro/2026
+Belo Horizonte,Canaã,casa,aluguel,15.8,14.7,16.7,6,4.74,novembro/2026
+Belo Horizonte,Canadá,casa,venda,5176.5,4710.1,5579.7,5,,novembro/2026
+Belo Horizonte,Candelária,casa,venda,5425.5,3871.7,6538.9,46,,novembro/2026
+Belo Horizonte,Cardoso,casa,venda,4371.6,2967.9,5550.0,39,,novembro/2026
+Belo Horizonte,Carlos Prates,casa,venda,3500.0,2720.4,4155.6,63,,novembro/2026
+Belo Horizonte,Carmo,casa,aluguel,38.0,35.7,55.0,5,,novembro/2026
+Belo Horizonte,Casa Branca,casa,venda,4111.1,3618.4,4444.4,5,,novembro/2026
+Belo Horizonte,Castelo,casa,venda,7204.2,5917.2,9106.5,161,6.7,novembro/2026
+Belo Horizonte,Castelo,casa,aluguel,40.2,28.4,49.5,32,6.7,novembro/2026
+Belo Horizonte,Cenáculo,casa,venda,2888.9,2000.0,3555.6,17,,novembro/2026
+Belo Horizonte,Centro,casa,venda,5454.5,4375.0,5750.7,7,,novembro/2026
+Belo Horizonte,Céu Azul,casa,venda,3597.6,2500.0,5064.2,151,6.14,novembro/2026
+Belo Horizonte,Céu Azul,casa,aluguel,18.4,14.6,25.1,16,6.14,novembro/2026
+Belo Horizonte,Cidade Jardim,casa,venda,7087.6,5188.5,9216.7,43,,novembro/2026
+Belo Horizonte,Cidade Nova,casa,venda,5950.6,5188.7,7253.1,22,,novembro/2026
+Belo Horizonte,Cinquentenario,casa,venda,4318.2,3611.1,5988.0,17,,novembro/2026
+Belo Horizonte,Colégio Batista,casa,venda,4700.9,3627.8,5492.2,51,7.81,novembro/2026
+Belo Horizonte,Colégio Batista,casa,aluguel,30.6,17.2,38.8,7,7.81,novembro/2026
+Belo Horizonte,Comiteco,casa,venda,6217.8,5053.2,7629.2,56,,novembro/2026
+Belo Horizonte,Concórdia,casa,venda,3755.3,2550.8,4772.3,35,,novembro/2026
+Belo Horizonte,Confisco,casa,venda,3636.4,2600.0,4331.2,13,,novembro/2026
+Belo Horizonte,Conjunto Ademar Maldonado,casa,venda,3888.0,3329.9,6142.5,16,,novembro/2026
+Belo Horizonte,Conjunto Califórnia,casa,venda,3476.0,3185.5,3898.3,9,,novembro/2026
+Belo Horizonte,Conjunto Celso Machado,casa,venda,4557.8,3479.0,5949.4,37,,novembro/2026
+Belo Horizonte,Conjunto Habitacional Vale do Jatobá,casa,venda,3273.8,2250.0,5500.0,9,,novembro/2026
+Belo Horizonte,Conjunto Habitacional Vale do Jatobá (Barreiro),casa,venda,2750.0,2250.0,3273.8,9,,novembro/2026
+Belo Horizonte,Conjunto Helena Antipoff,casa,venda,4409.4,3495.0,4700.8,5,,novembro/2026
+Belo Horizonte,Conjunto Paulo VI,casa,venda,1318.0,1279.1,1623.9,9,,novembro/2026
+Belo Horizonte,Conjunto Taquaril,casa,venda,1680.6,1247.4,2668.8,12,,novembro/2026
+Belo Horizonte,Conjunto Túnel Ibirité,casa,venda,3500.0,3448.3,3720.9,5,,novembro/2026
+Belo Horizonte,Copacabana,casa,venda,4827.6,3671.9,6292.7,169,6.84,novembro/2026
+Belo Horizonte,Copacabana,casa,aluguel,27.5,23.3,33.4,7,6.84,novembro/2026
+Belo Horizonte,Coqueiros,casa,venda,4181.8,2894.8,4728.9,19,,novembro/2026
+Belo Horizonte,Coração de Jesus,casa,venda,4070.5,3056.5,5750.0,10,,novembro/2026
+Belo Horizonte,Coração Eucarístico,casa,venda,4500.0,3727.5,5600.0,21,,novembro/2026
+Belo Horizonte,Cruzeiro,casa,venda,6000.0,4782.6,6907.3,13,,novembro/2026
+Belo Horizonte,Diamante,casa,venda,4090.5,3034.0,5312.5,98,10.18,novembro/2026
+Belo Horizonte,Diamante,casa,aluguel,34.7,26.2,40.1,6,10.18,novembro/2026
+Belo Horizonte,Diamante (Barreiro),casa,venda,3678.6,2559.5,5084.5,48,,novembro/2026
+Belo Horizonte,Dom Bosco,casa,venda,3005.3,2083.3,4166.7,89,9.58,novembro/2026
+Belo Horizonte,Dom Bosco,casa,aluguel,24.0,21.3,29.2,5,9.58,novembro/2026
+Belo Horizonte,Dom Cabral,casa,venda,3011.1,2487.5,3965.0,38,,novembro/2026
+Belo Horizonte,Dom Joaquim,casa,venda,3672.3,2826.1,4333.3,21,,novembro/2026
+Belo Horizonte,Dom Silvério,casa,venda,3732.1,1873.2,3843.2,12,,novembro/2026
+Belo Horizonte,Dona Clara,casa,venda,5992.5,5028.0,7012.7,84,,novembro/2026
+Belo Horizonte,Engenho Nogueira,casa,venda,3800.0,3220.8,5031.4,7,,novembro/2026
+Belo Horizonte,Enseada das Garças,casa,venda,10526.9,6330.5,11281.5,8,,novembro/2026
+Belo Horizonte,Ermelinda,casa,venda,2880.7,2213.4,3767.4,19,,novembro/2026
+Belo Horizonte,Esplanada,casa,venda,3680.7,2929.9,5173.2,54,9.39,novembro/2026
+Belo Horizonte,Esplanada,casa,aluguel,28.8,25.6,29.9,5,9.39,novembro/2026
+Belo Horizonte,Estoril,casa,venda,7193.8,5721.7,8901.5,40,7.02,novembro/2026
+Belo Horizonte,Estoril,casa,aluguel,42.1,36.6,49.3,20,7.02,novembro/2026
+Belo Horizonte,Estrela do Oriente,casa,venda,3811.7,2715.7,4984.0,28,,novembro/2026
+Belo Horizonte,Etelvina Carneiro,casa,venda,4172.9,3333.3,6333.3,25,,novembro/2026
+Belo Horizonte,Europa,casa,venda,3477.3,2320.2,5303.0,48,,novembro/2026
+Belo Horizonte,Eymard,casa,venda,2180.2,2034.1,2334.6,6,,novembro/2026
+Belo Horizonte,Fernão Dias,casa,venda,4791.0,3303.4,6805.8,68,,novembro/2026
+Belo Horizonte,Flávio Marques Lisboa,casa,venda,4980.1,3524.4,6503.2,11,,novembro/2026
+Belo Horizonte,Floramar,casa,venda,3841.8,2536.5,5118.3,82,7.81,novembro/2026
+Belo Horizonte,Floramar,casa,aluguel,25.0,18.7,28.4,7,7.81,novembro/2026
+Belo Horizonte,Floresta,casa,venda,5156.1,4322.3,6370.2,94,6.17,novembro/2026
+Belo Horizonte,Floresta,casa,aluguel,26.5,18.3,31.2,5,6.17,novembro/2026
+Belo Horizonte,Frei Leopoldo,casa,venda,3307.4,2144.0,4574.8,8,,novembro/2026
+Belo Horizonte,Funcionários,casa,venda,8043.9,7456.4,10007.1,10,7.16,novembro/2026
+Belo Horizonte,Funcionários,casa,aluguel,48.0,39.3,65.9,13,7.16,novembro/2026
+Belo Horizonte,Gameleira,casa,venda,3280.5,2366.7,3611.6,10,,novembro/2026
+Belo Horizonte,Garças,casa,venda,6271.1,4011.5,9554.9,130,9.85,novembro/2026
+Belo Horizonte,Garças,casa,aluguel,51.5,30.6,56.6,14,9.85,novembro/2026
+Belo Horizonte,Glória,casa,venda,2667.1,2056.9,3891.8,92,8.55,novembro/2026
+Belo Horizonte,Glória,casa,aluguel,19.0,17.1,23.2,7,8.55,novembro/2026
+Belo Horizonte,Goiânia,casa,venda,3065.5,2342.4,3898.3,40,,novembro/2026
+Belo Horizonte,Graça,casa,venda,3608.2,2697.0,6031.5,39,5.02,novembro/2026
+Belo Horizonte,Graça,casa,aluguel,15.1,14.5,17.2,7,5.02,novembro/2026
+Belo Horizonte,Grajaú,casa,venda,6362.8,5018.5,8350.0,10,5.6,novembro/2026
+Belo Horizonte,Grajaú,casa,aluguel,29.7,27.6,33.4,5,5.6,novembro/2026
+Belo Horizonte,Guarani,casa,venda,2997.5,2602.6,3864.0,11,,novembro/2026
+Belo Horizonte,Gutierrez,casa,venda,6281.6,4644.7,7699.7,8,9.49,novembro/2026
+Belo Horizonte,Gutierrez,casa,aluguel,49.7,35.6,50.0,5,9.49,novembro/2026
+Belo Horizonte,Havaí,casa,venda,4790.4,3535.0,5953.1,50,7.16,novembro/2026
+Belo Horizonte,Havaí,casa,aluguel,28.6,25.7,37.5,7,7.16,novembro/2026
+Belo Horizonte,Heliópolis,casa,venda,3920.0,3161.1,5379.8,59,,novembro/2026
+Belo Horizonte,Horto,casa,venda,4071.4,3110.1,5377.9,31,,novembro/2026
+Belo Horizonte,Horto Florestal,casa,venda,2975.7,1920.1,4257.5,27,25.04,novembro/2026
+Belo Horizonte,Horto Florestal,casa,aluguel,62.1,50.5,72.4,6,25.04,novembro/2026
+Belo Horizonte,Inconfidência,casa,venda,2666.7,2097.2,3164.1,31,,novembro/2026
+Belo Horizonte,Indaiá,casa,venda,3779.1,2748.7,5036.2,17,,novembro/2026
+Belo Horizonte,Independência,casa,venda,1611.1,1062.8,2281.4,11,,novembro/2026
+Belo Horizonte,Indústrias I (Barreiro),casa,venda,2394.3,1699.3,3711.8,6,,novembro/2026
+Belo Horizonte,Ipê,casa,venda,3920.0,2302.7,4961.0,7,,novembro/2026
+Belo Horizonte,Ipiranga,casa,venda,4166.7,3750.0,5666.7,29,,novembro/2026
+Belo Horizonte,Itaipu,casa,venda,3500.0,2682.1,4007.0,15,,novembro/2026
+Belo Horizonte,Itapoã,casa,venda,5650.4,4506.3,7279.7,163,8.98,novembro/2026
+Belo Horizonte,Itapoã,casa,aluguel,42.3,25.0,48.9,15,8.98,novembro/2026
+Belo Horizonte,Itatiaia,casa,venda,4400.0,3409.9,4950.0,11,,novembro/2026
+Belo Horizonte,Jaqueline,casa,venda,3148.6,2172.9,4104.7,52,7.62,novembro/2026
+Belo Horizonte,Jaqueline,casa,aluguel,20.0,16.7,20.0,5,7.62,novembro/2026
+Belo Horizonte,Jaraguá,casa,venda,5605.6,4250.0,7722.2,33,,novembro/2026
+Belo Horizonte,Jardim Alvorada,casa,venda,3095.2,2511.4,3695.7,9,,novembro/2026
+Belo Horizonte,Jardim América,casa,venda,3669.7,2354.2,5129.5,35,,novembro/2026
+Belo Horizonte,Jardim Atlântico,casa,venda,5710.7,4492.6,6969.9,79,,novembro/2026
+Belo Horizonte,Jardim dos Comerciários (Venda Nova),casa,venda,2788.9,1938.6,4047.5,20,,novembro/2026
+Belo Horizonte,Jardim Felicidade,casa,venda,2315.8,2083.3,4860.0,5,,novembro/2026
+Belo Horizonte,Jardim Guanabara,casa,venda,4044.9,2210.9,5437.5,41,,novembro/2026
+Belo Horizonte,Jardim Leblon,casa,venda,4162.5,3490.5,5592.5,130,5.54,novembro/2026
+Belo Horizonte,Jardim Leblon,casa,aluguel,19.2,18.3,23.8,6,5.54,novembro/2026
+Belo Horizonte,Jardim Montanhês,casa,venda,3680.0,3250.0,4729.1,13,,novembro/2026
+Belo Horizonte,Jardim São José,casa,venda,1930.6,1660.5,2750.0,15,,novembro/2026
+Belo Horizonte,Jardim Vitória,casa,venda,3000.0,2124.2,4643.8,114,7.76,novembro/2026
+Belo Horizonte,Jardim Vitória,casa,aluguel,19.4,18.8,22.9,5,7.76,novembro/2026
+Belo Horizonte,Jardinópolis,casa,aluguel,21.2,19.6,24.7,7,,novembro/2026
+Belo Horizonte,João Pinheiro,casa,venda,3611.1,2500.0,4451.6,69,,novembro/2026
+Belo Horizonte,Juliana,casa,venda,2843.9,1944.4,3777.8,41,,novembro/2026
+Belo Horizonte,Lagoa,casa,venda,2457.6,1523.8,3699.2,15,,novembro/2026
+Belo Horizonte,Lagoinha,casa,venda,2838.3,1983.3,3708.0,34,,novembro/2026
+Belo Horizonte,Lagoinha Leblon,casa,venda,4693.9,3038.2,5229.3,12,,novembro/2026
+Belo Horizonte,Letícia,casa,venda,4455.9,3553.6,5953.1,56,,novembro/2026
+Belo Horizonte,Liberdade,casa,venda,5263.2,4130.4,6320.0,53,6.48,novembro/2026
+Belo Horizonte,Liberdade,casa,aluguel,28.4,21.2,30.6,6,6.48,novembro/2026
+Belo Horizonte,Lindéia,casa,venda,2267.4,1814.7,3747.5,46,,novembro/2026
+Belo Horizonte,Lindéia (Barreiro),casa,venda,2222.2,1966.7,3666.7,5,,novembro/2026
+Belo Horizonte,Lourdes,casa,venda,9596.0,7777.8,12250.0,21,5.93,novembro/2026
+Belo Horizonte,Lourdes,casa,aluguel,47.4,39.8,55.6,16,5.93,novembro/2026
+Belo Horizonte,Luxemburgo,casa,venda,7985.2,6091.1,9097.8,14,6.34,novembro/2026
+Belo Horizonte,Luxemburgo,casa,aluguel,42.2,33.8,45.6,9,6.34,novembro/2026
+Belo Horizonte,Madri,casa,venda,6602.9,4788.5,7058.0,10,,novembro/2026
+Belo Horizonte,Manacás,casa,venda,6489.2,5535.3,8184.0,52,,novembro/2026
+Belo Horizonte,Mangabeiras,casa,venda,7111.1,5857.6,8333.3,113,7.04,novembro/2026
+Belo Horizonte,Mangabeiras,casa,aluguel,41.7,32.8,49.2,31,7.04,novembro/2026
+Belo Horizonte,Mangueiras,casa,venda,3015.9,2319.4,3584.7,11,,novembro/2026
+Belo Horizonte,Mantiqueira,casa,venda,4020.9,3327.8,5066.4,44,,novembro/2026
+Belo Horizonte,Marajó,casa,venda,3335.6,2489.3,4597.6,8,,novembro/2026
+Belo Horizonte,Maria Goretti,casa,venda,2317.7,1700.1,2922.7,22,,novembro/2026
+Belo Horizonte,Maria Helena,casa,venda,3553.3,3045.5,4081.6,17,,novembro/2026
+Belo Horizonte,Milionários,casa,venda,3697.2,3018.1,4915.2,55,8.7,novembro/2026
+Belo Horizonte,Milionários,casa,aluguel,26.8,21.7,37.5,5,8.7,novembro/2026
+Belo Horizonte,Minas Brasil,casa,venda,4288.6,3159.0,4983.3,19,,novembro/2026
+Belo Horizonte,Minascaixa,casa,venda,3448.6,2455.8,6218.8,26,,novembro/2026
+Belo Horizonte,Minaslândia,casa,venda,3756.1,3125.0,4755.7,8,,novembro/2026
+Belo Horizonte,Miramar,casa,venda,3490.1,3003.5,4953.1,30,,novembro/2026
+Belo Horizonte,Monsenhor Messias,casa,venda,3000.0,2760.0,4640.0,9,,novembro/2026
+Belo Horizonte,Nazaré,casa,venda,2297.3,1685.1,4046.1,11,,novembro/2026
+Belo Horizonte,Nova Cachoeirinha,casa,venda,3000.0,2687.5,3267.3,9,,novembro/2026
+Belo Horizonte,Nova Esperança,casa,venda,3390.3,2518.0,4609.9,25,,novembro/2026
+Belo Horizonte,Nova Floresta,casa,venda,4586.8,3926.9,7516.9,28,,novembro/2026
+Belo Horizonte,Nova Gameleira,casa,venda,3623.0,2394.4,5000.0,5,,novembro/2026
+Belo Horizonte,Nova Granada,casa,venda,4500.0,2848.3,6762.0,43,,novembro/2026
+Belo Horizonte,Nova Suíssa,casa,venda,4377.4,3225.5,5563.8,54,,novembro/2026
+Belo Horizonte,Nova Vista,casa,venda,3155.1,2330.3,4290.1,38,,novembro/2026
+Belo Horizonte,Novo das Indústrias,casa,venda,2680.2,1685.8,4756.6,11,,novembro/2026
+Belo Horizonte,Novo das Indústrias (Barreiro),casa,venda,3333.3,1724.3,4032.6,7,,novembro/2026
+Belo Horizonte,Novo Glória,casa,venda,3525.0,2851.9,4299.2,20,,novembro/2026
+Belo Horizonte,Novo Santa Cecília (Barreiro),casa,venda,2079.2,1756.8,2226.7,5,,novembro/2026
+Belo Horizonte,Olaria,casa,venda,2898.6,2170.0,3906.2,11,,novembro/2026
+Belo Horizonte,Ouro Minas,casa,venda,2957.0,2055.6,3714.3,21,,novembro/2026
+Belo Horizonte,Ouro Preto,casa,venda,5918.4,4447.4,7823.2,175,6.95,novembro/2026
+Belo Horizonte,Ouro Preto,casa,aluguel,34.3,27.2,38.2,25,6.95,novembro/2026
+Belo Horizonte,Padre Eustáquio,casa,venda,4128.4,3020.7,5385.7,71,,novembro/2026
+Belo Horizonte,Palmares,casa,venda,4625.0,3827.8,6026.8,62,8.93,novembro/2026
+Belo Horizonte,Palmares,casa,aluguel,34.4,26.7,40.9,15,8.93,novembro/2026
+Belo Horizonte,Palmeiras,casa,venda,3698.4,2967.7,4994.2,68,7.72,novembro/2026
+Belo Horizonte,Palmeiras,casa,aluguel,23.8,17.8,28.8,9,7.72,novembro/2026
+Belo Horizonte,Pampulha,casa,venda,6636.8,4507.9,9907.2,62,,novembro/2026
+Belo Horizonte,Paquetá,casa,venda,6291.4,4420.3,9621.0,113,7.78,novembro/2026
+Belo Horizonte,Paquetá,casa,aluguel,40.8,32.7,52.1,21,7.78,novembro/2026
+Belo Horizonte,Paraíso,casa,venda,3345.7,2950.6,4610.6,20,,novembro/2026
+Belo Horizonte,Parque Copacabana,casa,venda,5808.2,4083.3,6999.0,30,,novembro/2026
+Belo Horizonte,Parque São José,casa,venda,2548.1,1996.1,4335.7,12,,novembro/2026
+Belo Horizonte,Parque São Pedro,casa,venda,4642.9,3171.9,6900.0,10,,novembro/2026
+Belo Horizonte,Paulo VI,casa,venda,1527.8,1288.5,2053.6,19,,novembro/2026
+Belo Horizonte,Pedro II,casa,venda,3581.5,2381.4,4942.4,12,,novembro/2026
+Belo Horizonte,Penha,casa,venda,2418.3,1944.4,3500.0,8,,novembro/2026
+Belo Horizonte,Pindorama,casa,venda,2391.3,1741.8,3138.9,71,,novembro/2026
+Belo Horizonte,Pirajá,casa,venda,2682.0,2361.1,4567.3,12,,novembro/2026
+Belo Horizonte,Piratininga,casa,venda,3861.2,2896.0,4738.6,58,,novembro/2026
+Belo Horizonte,Planalto,casa,venda,5647.2,4052.2,7437.5,276,7.08,novembro/2026
+Belo Horizonte,Planalto,casa,aluguel,33.3,27.1,40.4,17,7.08,novembro/2026
+Belo Horizonte,Pompéia,casa,venda,3723.1,2807.4,5050.4,34,,novembro/2026
+Belo Horizonte,Pongelupe (Barreiro),casa,venda,2880.0,2600.0,3861.4,5,,novembro/2026
+Belo Horizonte,Pousada Santo Antônio,casa,venda,3250.0,2371.4,3555.6,13,,novembro/2026
+Belo Horizonte,Prado,casa,venda,5765.6,4575.4,8347.6,75,5.85,novembro/2026
+Belo Horizonte,Prado,casa,aluguel,28.1,26.0,37.3,13,5.85,novembro/2026
+Belo Horizonte,Primeiro de Maio,casa,venda,1668.1,1345.9,2014.7,6,,novembro/2026
+Belo Horizonte,Providência,casa,venda,3191.5,3000.0,5336.0,7,,novembro/2026
+Belo Horizonte,Renascença,casa,venda,4000.0,2830.0,4962.1,73,4.89,novembro/2026
+Belo Horizonte,Renascença,casa,aluguel,16.3,16.2,32.9,5,4.89,novembro/2026
+Belo Horizonte,Ribeiro de Abreu,casa,venda,2432.4,1983.7,3178.1,22,,novembro/2026
+Belo Horizonte,Rio Branco,casa,venda,4611.1,3276.6,6354.5,105,6.51,novembro/2026
+Belo Horizonte,Rio Branco,casa,aluguel,25.0,19.4,25.0,5,6.51,novembro/2026
+Belo Horizonte,Sagrada Família,casa,venda,4000.0,3055.6,5530.0,83,6.51,novembro/2026
+Belo Horizonte,Sagrada Família,casa,aluguel,21.7,14.2,29.8,21,6.51,novembro/2026
+Belo Horizonte,Salgado Filho,casa,venda,4166.7,3115.7,5686.1,51,,novembro/2026
+Belo Horizonte,Santa Amélia,casa,venda,5744.7,4416.7,7200.0,357,7.46,novembro/2026
+Belo Horizonte,Santa Amélia,casa,aluguel,35.7,32.1,41.8,28,7.46,novembro/2026
+Belo Horizonte,Santa Branca,casa,venda,5654.1,4543.4,7058.9,128,6.22,novembro/2026
+Belo Horizonte,Santa Branca,casa,aluguel,29.3,19.9,35.6,12,6.22,novembro/2026
+Belo Horizonte,Santa Cecília Vale do Jatobá,casa,venda,2771.9,1523.4,3425.0,6,,novembro/2026
+Belo Horizonte,Santa Cecília Vale do Jatobá (Barreiro),casa,venda,1676.0,1309.4,2286.4,10,,novembro/2026
+Belo Horizonte,Santa Cruz,casa,venda,3676.5,2500.0,5000.0,57,6.89,novembro/2026
+Belo Horizonte,Santa Cruz,casa,aluguel,21.1,20.0,23.9,5,6.89,novembro/2026
+Belo Horizonte,Santa Efigênia,casa,venda,4787.4,3749.9,6797.5,68,8.65,novembro/2026
+Belo Horizonte,Santa Efigênia,casa,aluguel,34.5,21.7,40.8,13,8.65,novembro/2026
+Belo Horizonte,Santa Helena,casa,venda,4158.3,3317.7,5291.0,39,,novembro/2026
+Belo Horizonte,Santa Inês,casa,venda,5294.1,4555.1,7836.2,35,4.53,novembro/2026
+Belo Horizonte,Santa Inês,casa,aluguel,20.0,18.0,20.0,5,4.53,novembro/2026
+Belo Horizonte,Santa Lúcia,casa,venda,5774.6,4788.5,7074.0,114,6.53,novembro/2026
+Belo Horizonte,Santa Lúcia,casa,aluguel,31.4,25.1,40.0,26,6.53,novembro/2026
+Belo Horizonte,Santa Maria,casa,venda,2868.3,2513.9,3972.8,26,,novembro/2026
+Belo Horizonte,Santa Mônica,casa,venda,4666.7,3440.0,6658.3,205,6.87,novembro/2026
+Belo Horizonte,Santa Mônica,casa,aluguel,26.7,21.0,35.6,15,6.87,novembro/2026
+Belo Horizonte,Santa Rosa,casa,venda,5503.4,4500.0,6500.0,61,,novembro/2026
+Belo Horizonte,Santa Tereza,casa,venda,4629.6,3615.0,6322.7,99,9.33,novembro/2026
+Belo Horizonte,Santa Tereza,casa,aluguel,36.0,31.1,40.2,10,9.33,novembro/2026
+Belo Horizonte,Santa Terezinha,casa,venda,4207.9,3298.5,5877.6,76,,novembro/2026
+Belo Horizonte,Santo Agostinho,casa,venda,8774.5,8106.8,11929.8,9,5.35,novembro/2026
+Belo Horizonte,Santo Agostinho,casa,aluguel,39.1,29.8,41.1,5,5.35,novembro/2026
+Belo Horizonte,Santo André,casa,venda,3250.7,2170.4,4112.4,58,,novembro/2026
+Belo Horizonte,Santo Antônio,casa,venda,4989.6,3652.2,7864.6,42,7.62,novembro/2026
+Belo Horizonte,Santo Antônio,casa,aluguel,31.7,22.2,40.9,23,7.62,novembro/2026
+Belo Horizonte,São Bento,casa,venda,6698.4,5566.1,8446.8,96,6.27,novembro/2026
+Belo Horizonte,São Bento,casa,aluguel,35.0,28.7,41.0,30,6.27,novembro/2026
+Belo Horizonte,São Bernardo,casa,venda,3400.0,2864.0,4270.9,19,,novembro/2026
+Belo Horizonte,São Cristóvão,casa,venda,2794.0,2383.1,4013.9,28,,novembro/2026
+Belo Horizonte,São Francisco,casa,venda,3928.6,2347.5,4631.7,7,,novembro/2026
+Belo Horizonte,São Gabriel,casa,venda,4464.1,3081.1,5367.9,14,,novembro/2026
+Belo Horizonte,São Geraldo,casa,venda,3435.3,2715.7,4974.3,34,,novembro/2026
+Belo Horizonte,São João Batista,casa,venda,4333.3,3400.0,5395.7,161,5.21,novembro/2026
+Belo Horizonte,São João Batista,casa,aluguel,18.8,15.7,24.4,10,5.21,novembro/2026
+Belo Horizonte,São José,casa,venda,6108.9,4466.4,7324.3,20,,novembro/2026
+Belo Horizonte,Sao Jose (Pampulha),casa,venda,6274.5,5992.8,8355.8,5,,novembro/2026
+Belo Horizonte,São Lucas,casa,venda,4207.4,3625.0,5037.8,37,,novembro/2026
+Belo Horizonte,São Luiz,casa,venda,6634.3,4747.0,9432.4,193,6.78,novembro/2026
+Belo Horizonte,São Luiz,casa,aluguel,37.5,30.7,45.1,24,6.78,novembro/2026
+Belo Horizonte,São Marcos,casa,venda,2583.3,1952.0,3799.8,39,,novembro/2026
+Belo Horizonte,São Paulo,casa,venda,2660.0,2165.1,3741.9,15,,novembro/2026
+Belo Horizonte,São Pedro,casa,venda,6583.7,4470.7,9014.0,22,5.21,novembro/2026
+Belo Horizonte,São Pedro,casa,aluguel,28.6,23.2,33.1,17,5.21,novembro/2026
+Belo Horizonte,São Pedro (Venda Nova),casa,venda,3975.0,3400.0,7106.6,5,,novembro/2026
+Belo Horizonte,São Salvador,casa,venda,3823.5,2820.0,5499.5,11,,novembro/2026
+Belo Horizonte,São Tomáz,casa,venda,2417.2,1961.8,3217.0,8,,novembro/2026
+Belo Horizonte,Saudade,casa,venda,3303.7,2894.0,3828.3,6,,novembro/2026
+Belo Horizonte,Savassi,casa,aluguel,45.9,45.5,60.6,5,,novembro/2026
+Belo Horizonte,Serra,casa,venda,5084.7,4026.5,6246.9,95,7.01,novembro/2026
+Belo Horizonte,Serra,casa,aluguel,29.7,23.1,34.6,11,7.01,novembro/2026
+Belo Horizonte,Serra Verde (Venda Nova),casa,venda,2916.7,1875.0,3575.3,15,,novembro/2026
+Belo Horizonte,Serrano,casa,venda,4471.1,3266.7,6068.0,105,,novembro/2026
+Belo Horizonte,Silveira,casa,venda,4259.6,3678.0,4687.8,7,,novembro/2026
+Belo Horizonte,Sinimbu,casa,venda,5761.8,4861.9,6658.5,27,,novembro/2026
+Belo Horizonte,Sion,casa,venda,7377.3,5993.6,8447.7,10,4.75,novembro/2026
+Belo Horizonte,Sion,casa,aluguel,29.2,27.0,34.3,7,4.75,novembro/2026
+Belo Horizonte,Solar do Barreiro,casa,venda,3464.6,2837.5,4119.8,6,,novembro/2026
+Belo Horizonte,Solar do Barreiro (Barreiro),casa,venda,2614.3,2100.0,3800.0,17,,novembro/2026
+Belo Horizonte,Suzana,casa,venda,3935.2,2557.8,4575.0,10,,novembro/2026
+Belo Horizonte,Teixeira Dias,casa,venda,4214.6,2923.0,5691.5,40,,novembro/2026
+Belo Horizonte,Teixeira Dias (Barreiro),casa,venda,4538.5,3320.4,5208.8,14,,novembro/2026
+Belo Horizonte,Tirol,casa,venda,4200.6,3091.7,5186.1,82,,novembro/2026
+Belo Horizonte,Tirol (Barreiro),casa,venda,3333.3,2530.3,3944.4,55,,novembro/2026
+Belo Horizonte,Trevo,casa,venda,5240.7,3796.2,7002.4,222,9.16,novembro/2026
+Belo Horizonte,Trevo,casa,aluguel,40.0,24.9,58.3,11,9.16,novembro/2026
+Belo Horizonte,Tupi A,casa,venda,2333.3,1675.0,3250.0,33,,novembro/2026
+Belo Horizonte,União,casa,venda,3540.0,2800.0,4229.4,29,,novembro/2026
+Belo Horizonte,Universitário,casa,venda,2833.3,2460.8,4340.4,15,,novembro/2026
+Belo Horizonte,Vale do Jatobá,casa,venda,1802.8,1434.7,2086.7,20,,novembro/2026
+Belo Horizonte,Venda Nova,casa,venda,3684.2,2800.0,5800.0,33,,novembro/2026
+Belo Horizonte,Vera Cruz,casa,venda,3281.5,2448.8,3789.7,10,,novembro/2026
+Belo Horizonte,Vila Cloris,casa,venda,5061.7,3578.3,6179.1,108,,novembro/2026
+Belo Horizonte,Vila Paris,casa,venda,5721.7,5246.1,6231.4,16,,novembro/2026
+Belo Horizonte,Vila Pinho Vale do Jatobá,casa,venda,1840.5,1717.9,2531.7,7,,novembro/2026
+Belo Horizonte,Vista Alegre,casa,venda,2788.9,1925.0,3928.8,28,,novembro/2026
+Belo Horizonte,Vista do Sol,casa,venda,1875.0,1687.5,2375.0,6,,novembro/2026
+Belo Horizonte,Vitória,casa,venda,3140.8,2413.3,4120.5,24,,novembro/2026
+Belo Horizonte,Xodó Marize,casa,venda,2896.2,2269.0,3643.1,8,,novembro/2026
+Belo Horizonte,Acaiaca,apartamento,venda,3358.6,2997.1,3930.8,28,,novembro/2026
+Belo Horizonte,Adelaide,apartamento,venda,7657.4,5807.1,9387.2,8,,novembro/2026
+Belo Horizonte,Aeroporto,apartamento,venda,8111.1,6150.0,10833.3,69,6.21,novembro/2026
+Belo Horizonte,Aeroporto,apartamento,aluguel,42.0,27.7,67.1,12,6.21,novembro/2026
+Belo Horizonte,Alípio de Melo,apartamento,venda,6449.1,5341.6,8564.3,42,5.38,novembro/2026
+Belo Horizonte,Alípio de Melo,apartamento,aluguel,28.9,25.7,33.7,8,5.38,novembro/2026
+Belo Horizonte,Alto Barroca,apartamento,venda,7272.7,5388.4,9616.2,103,4.5,novembro/2026
+Belo Horizonte,Alto Barroca,apartamento,aluguel,27.3,14.6,34.5,11,4.5,novembro/2026
+Belo Horizonte,Alto Caiçaras,apartamento,venda,6995.2,5708.8,8195.1,36,5.47,novembro/2026
+Belo Horizonte,Alto Caiçaras,apartamento,aluguel,31.9,30.9,38.7,8,5.47,novembro/2026
+Belo Horizonte,Alto dos Pinheiros,apartamento,venda,5859.7,4878.0,7565.2,13,,novembro/2026
+Belo Horizonte,Álvaro Camargos,apartamento,venda,4557.1,3961.8,5075.2,12,,novembro/2026
+Belo Horizonte,Anchieta,apartamento,venda,12424.2,8168.3,16311.5,281,4.68,novembro/2026
+Belo Horizonte,Anchieta,apartamento,aluguel,48.5,38.6,70.3,76,4.68,novembro/2026
+Belo Horizonte,Aparecida,apartamento,venda,5848.6,4753.5,6413.2,15,9.46,novembro/2026
+Belo Horizonte,Aparecida,apartamento,aluguel,46.1,40.4,52.7,10,9.46,novembro/2026
+Belo Horizonte,Araguaia,apartamento,venda,6084.2,5060.1,7456.0,66,6.51,novembro/2026
+Belo Horizonte,Araguaia,apartamento,aluguel,33.0,29.1,34.1,5,6.51,novembro/2026
+Belo Horizonte,Bandeirantes,apartamento,venda,9302.3,7393.2,10835.7,27,6.0,novembro/2026
+Belo Horizonte,Bandeirantes,apartamento,aluguel,46.5,33.5,53.6,7,6.0,novembro/2026
+Belo Horizonte,Barreiro,apartamento,venda,8321.4,6654.8,9740.3,227,4.64,novembro/2026
+Belo Horizonte,Barreiro,apartamento,aluguel,32.2,23.2,38.9,26,4.64,novembro/2026
+Belo Horizonte,Barreiro de Baixo,apartamento,venda,8956.9,7095.5,9412.0,10,,novembro/2026
+Belo Horizonte,Barro Preto,apartamento,venda,10083.0,5712.8,13766.7,151,7.6,novembro/2026
+Belo Horizonte,Barro Preto,apartamento,aluguel,63.9,43.6,76.1,33,7.6,novembro/2026
+Belo Horizonte,Barroca,apartamento,venda,8142.5,5539.6,12794.4,80,4.7,novembro/2026
+Belo Horizonte,Barroca,apartamento,aluguel,31.9,20.7,49.9,17,4.7,novembro/2026
+Belo Horizonte,Belvedere,apartamento,venda,15000.0,13218.4,17328.5,145,5.53,novembro/2026
+Belo Horizonte,Belvedere,apartamento,aluguel,69.1,58.6,80.6,89,5.53,novembro/2026
+Belo Horizonte,Betânia,apartamento,venda,8282.7,5837.8,10250.8,66,6.77,novembro/2026
+Belo Horizonte,Betânia,apartamento,aluguel,46.7,35.5,48.1,11,6.77,novembro/2026
+Belo Horizonte,Boa Viagem,apartamento,venda,13095.8,6756.2,18168.2,144,4.97,novembro/2026
+Belo Horizonte,Boa Viagem,apartamento,aluguel,54.2,39.0,82.2,53,4.97,novembro/2026
+Belo Horizonte,Boa Vista,apartamento,venda,7229.5,6141.8,9014.8,42,5.58,novembro/2026
+Belo Horizonte,Boa Vista,apartamento,aluguel,33.6,23.5,34.7,7,5.58,novembro/2026
+Belo Horizonte,Brasil Industrial,apartamento,venda,7264.2,6104.6,8609.6,37,,novembro/2026
+Belo Horizonte,Braúnas,apartamento,venda,7624.5,7308.5,8419.6,12,5.38,novembro/2026
+Belo Horizonte,Braúnas,apartamento,aluguel,34.2,31.7,42.2,10,5.38,novembro/2026
+Belo Horizonte,Buritis,apartamento,venda,8101.0,6512.6,10428.1,688,6.35,novembro/2026
+Belo Horizonte,Buritis,apartamento,aluguel,42.9,33.7,54.2,343,6.35,novembro/2026
+Belo Horizonte,Cachoeirinha,apartamento,venda,5192.3,4117.6,5489.9,21,,novembro/2026
+Belo Horizonte,Caiçara-Adelaide,apartamento,venda,7210.1,5889.0,8956.9,70,,novembro/2026
+Belo Horizonte,Caiçaras,apartamento,venda,7177.3,5434.2,8933.3,232,5.35,novembro/2026
+Belo Horizonte,Caiçaras,apartamento,aluguel,32.0,26.2,47.7,36,5.35,novembro/2026
+Belo Horizonte,Calafate,apartamento,venda,7436.3,5389.4,10000.0,104,7.34,novembro/2026
+Belo Horizonte,Calafate,apartamento,aluguel,45.5,41.0,49.4,7,7.34,novembro/2026
+Belo Horizonte,Califórnia,apartamento,venda,4958.7,4074.1,5869.0,61,8.93,novembro/2026
+Belo Horizonte,Califórnia,apartamento,aluguel,36.9,31.2,42.1,18,8.93,novembro/2026
+Belo Horizonte,Camargos,apartamento,venda,5777.8,4794.8,7178.5,63,6.67,novembro/2026
+Belo Horizonte,Camargos,apartamento,aluguel,32.1,29.8,34.6,8,6.67,novembro/2026
+Belo Horizonte,Campo Alegre,apartamento,venda,5769.2,4714.3,6444.4,5,,novembro/2026
+Belo Horizonte,Canaã,apartamento,venda,4258.5,3767.9,5053.2,16,,novembro/2026
+Belo Horizonte,Candelária,apartamento,venda,5224.1,4581.8,6606.0,110,6.94,novembro/2026
+Belo Horizonte,Candelária,apartamento,aluguel,30.2,27.9,37.9,15,6.94,novembro/2026
+Belo Horizonte,Cardoso,apartamento,venda,4703.7,4230.8,5197.4,18,7.17,novembro/2026
+Belo Horizonte,Cardoso,apartamento,aluguel,28.1,23.1,30.4,7,7.17,novembro/2026
+Belo Horizonte,Carlos Prates,apartamento,venda,6647.9,5136.8,10875.2,88,5.81,novembro/2026
+Belo Horizonte,Carlos Prates,apartamento,aluguel,32.2,24.3,54.5,16,5.81,novembro/2026
+Belo Horizonte,Carmo,apartamento,venda,13849.4,9232.3,17836.4,172,4.68,novembro/2026
+Belo Horizonte,Carmo,apartamento,aluguel,54.0,38.3,62.2,17,4.68,novembro/2026
+Belo Horizonte,Casa Branca,apartamento,venda,5371.4,5300.0,5638.3,5,,novembro/2026
+Belo Horizonte,Castelo,apartamento,venda,8084.4,5989.1,10181.8,600,5.92,novembro/2026
+Belo Horizonte,Castelo,apartamento,aluguel,39.9,31.8,52.6,230,5.92,novembro/2026
+Belo Horizonte,Castelo Manacás,apartamento,venda,6210.5,5862.5,6786.9,12,,novembro/2026
+Belo Horizonte,Cenáculo,apartamento,venda,5181.8,4642.9,5500.0,13,,novembro/2026
+Belo Horizonte,Centro,apartamento,venda,7589.4,4943.4,13077.1,242,7.64,novembro/2026
+Belo Horizonte,Centro,apartamento,aluguel,48.3,32.1,68.9,73,7.64,novembro/2026
+Belo Horizonte,Céu Azul,apartamento,venda,4444.4,3730.8,5937.5,71,7.4,novembro/2026
+Belo Horizonte,Céu Azul,apartamento,aluguel,27.4,24.4,30.2,10,7.4,novembro/2026
+Belo Horizonte,Cidade Jardim,apartamento,venda,10487.9,5962.3,17077.4,86,4.45,novembro/2026
+Belo Horizonte,Cidade Jardim,apartamento,aluguel,38.9,38.5,40.7,5,4.45,novembro/2026
+Belo Horizonte,Cidade Nova,apartamento,venda,8911.6,6202.3,12112.9,248,4.19,novembro/2026
+Belo Horizonte,Cidade Nova,apartamento,aluguel,31.1,26.2,36.7,27,4.19,novembro/2026
+Belo Horizonte,Cinquentenario,apartamento,venda,6315.4,4839.9,7851.9,48,,novembro/2026
+Belo Horizonte,Colégio Batista,apartamento,venda,6680.8,4574.2,8129.8,110,7.04,novembro/2026
+Belo Horizonte,Colégio Batista,apartamento,aluguel,39.2,36.7,41.4,8,7.04,novembro/2026
+Belo Horizonte,Comiteco,apartamento,venda,8965.5,7229.7,12614.3,19,,novembro/2026
+Belo Horizonte,Concórdia,apartamento,venda,5727.3,5200.0,7475.9,23,5.59,novembro/2026
+Belo Horizonte,Concórdia,apartamento,aluguel,26.7,16.1,29.3,5,5.59,novembro/2026
+Belo Horizonte,Conjunto Califórnia,apartamento,venda,4194.9,3460.1,5340.3,12,,novembro/2026
+Belo Horizonte,Conjunto Helena Antipoff,apartamento,venda,7860.0,7222.2,8300.0,13,,novembro/2026
+Belo Horizonte,Copacabana,apartamento,venda,5379.3,4312.3,6582.5,114,,novembro/2026
+Belo Horizonte,Coqueiros,apartamento,venda,5391.1,4162.0,6052.6,29,,novembro/2026
+Belo Horizonte,Coração de Jesus,apartamento,venda,7034.7,5410.5,12038.5,128,7.01,novembro/2026
+Belo Horizonte,Coração de Jesus,apartamento,aluguel,41.1,31.2,46.7,24,7.01,novembro/2026
+Belo Horizonte,Coração Eucarístico,apartamento,venda,6666.7,4772.7,8715.9,137,6.41,novembro/2026
+Belo Horizonte,Coração Eucarístico,apartamento,aluguel,35.6,27.2,44.0,19,6.41,novembro/2026
+Belo Horizonte,Cruzeiro,apartamento,venda,11000.0,7500.0,16372.2,309,4.59,novembro/2026
+Belo Horizonte,Cruzeiro,apartamento,aluguel,42.1,33.5,59.3,39,4.59,novembro/2026
+Belo Horizonte,Diamante,apartamento,venda,6226.7,5133.3,7411.9,125,5.59,novembro/2026
+Belo Horizonte,Diamante,apartamento,aluguel,29.0,25.6,32.8,17,5.59,novembro/2026
+Belo Horizonte,Diamante (Barreiro),apartamento,venda,6520.9,5644.7,7250.0,34,,novembro/2026
+Belo Horizonte,Distrito Industrial do Jatobá,apartamento,venda,3414.9,3177.1,3731.3,6,,novembro/2026
+Belo Horizonte,Distrito Industrial do Jatobá (Barreiro),apartamento,venda,3405.5,3350.0,3807.1,10,,novembro/2026
+Belo Horizonte,Dom Bosco,apartamento,venda,4545.5,3871.0,5277.8,21,,novembro/2026
+Belo Horizonte,Dom Cabral,apartamento,venda,10472.4,7549.3,11785.2,29,,novembro/2026
+Belo Horizonte,Dom Joaquim,apartamento,venda,7922.3,6444.4,10368.5,33,,novembro/2026
+Belo Horizonte,Dom Silvério,apartamento,venda,4234.1,3419.3,4445.3,10,,novembro/2026
+Belo Horizonte,Dona Clara,apartamento,venda,7069.8,5696.7,8619.0,191,6.47,novembro/2026
+Belo Horizonte,Dona Clara,apartamento,aluguel,38.1,33.0,46.3,50,6.47,novembro/2026
+Belo Horizonte,Engenho Nogueira,apartamento,venda,6792.5,6223.3,8786.9,34,,novembro/2026
+Belo Horizonte,Ermelinda,apartamento,venda,4600.0,4242.4,4857.1,7,,novembro/2026
+Belo Horizonte,Esplanada,apartamento,venda,6751.7,5674.1,8622.0,71,5.92,novembro/2026
+Belo Horizonte,Esplanada,apartamento,aluguel,33.3,28.6,48.9,9,5.92,novembro/2026
+Belo Horizonte,Estoril,apartamento,venda,9101.9,6250.0,11764.7,217,7.07,novembro/2026
+Belo Horizonte,Estoril,apartamento,aluguel,53.6,37.1,70.7,89,7.07,novembro/2026
+Belo Horizonte,Estrela Dalva,apartamento,venda,5200.0,4916.7,5884.6,7,,novembro/2026
+Belo Horizonte,Estrela do Oriente,apartamento,venda,8916.7,6909.1,10285.5,49,,novembro/2026
+Belo Horizonte,Europa,apartamento,venda,3960.0,3380.3,4285.7,13,,novembro/2026
+Belo Horizonte,Eymard,apartamento,venda,4918.3,3536.9,5987.6,10,,novembro/2026
+Belo Horizonte,Fernão Dias,apartamento,venda,6238.5,4821.4,7727.3,145,7.14,novembro/2026
+Belo Horizonte,Fernão Dias,apartamento,aluguel,37.1,29.7,44.5,16,7.14,novembro/2026
+Belo Horizonte,Fernão Dias ( Minas Shopping),apartamento,venda,9279.5,9077.4,9549.4,5,,novembro/2026
+Belo Horizonte,Floramar,apartamento,venda,5721.6,5215.9,6666.7,57,7.24,novembro/2026
+Belo Horizonte,Floramar,apartamento,aluguel,34.5,29.4,42.3,14,7.24,novembro/2026
+Belo Horizonte,Floresta,apartamento,venda,7207.8,5454.3,8529.6,114,5.96,novembro/2026
+Belo Horizonte,Floresta,apartamento,aluguel,35.8,28.2,40.0,17,5.96,novembro/2026
+Belo Horizonte,Frei Leopoldo,apartamento,venda,4241.1,3476.3,4648.5,31,,novembro/2026
+Belo Horizonte,Funcionários,apartamento,venda,14470.0,10140.4,18569.8,370,5.6,novembro/2026
+Belo Horizonte,Funcionários,apartamento,aluguel,67.5,46.3,84.5,103,5.6,novembro/2026
+Belo Horizonte,Gameleira,apartamento,venda,5999.9,5149.2,7258.9,42,,novembro/2026
+Belo Horizonte,Glória,apartamento,venda,6921.8,5365.0,8081.7,50,,novembro/2026
+Belo Horizonte,Goiânia,apartamento,venda,5288.9,4278.1,6597.2,32,5.11,novembro/2026
+Belo Horizonte,Goiânia,apartamento,aluguel,22.5,21.3,24.0,5,5.11,novembro/2026
+Belo Horizonte,Graça,apartamento,venda,6929.3,5333.9,8586.8,94,6.93,novembro/2026
+Belo Horizonte,Graça,apartamento,aluguel,40.0,32.9,43.8,9,6.93,novembro/2026
+Belo Horizonte,Grajaú,apartamento,venda,7799.1,5563.0,11740.1,154,5.59,novembro/2026
+Belo Horizonte,Grajaú,apartamento,aluguel,36.3,28.1,48.5,28,5.59,novembro/2026
+Belo Horizonte,Guarani,apartamento,venda,5597.8,5000.0,7472.5,45,,novembro/2026
+Belo Horizonte,Gutierrez,apartamento,venda,10829.3,7022.6,15584.1,320,5.22,novembro/2026
+Belo Horizonte,Gutierrez,apartamento,aluguel,47.1,33.3,60.9,64,5.22,novembro/2026
+Belo Horizonte,Havaí,apartamento,venda,6136.4,5250.0,7250.0,85,7.16,novembro/2026
+Belo Horizonte,Havaí,apartamento,aluguel,36.6,32.6,40.3,19,7.16,novembro/2026
+Belo Horizonte,Heliópolis,apartamento,venda,5464.3,4256.1,6688.7,98,5.86,novembro/2026
+Belo Horizonte,Heliópolis,apartamento,aluguel,26.7,23.9,28.9,6,5.86,novembro/2026
+Belo Horizonte,Horto,apartamento,venda,5866.7,4521.3,8581.3,33,7.24,novembro/2026
+Belo Horizonte,Horto,apartamento,aluguel,35.4,19.6,43.7,9,7.24,novembro/2026
+Belo Horizonte,Horto Florestal,apartamento,venda,5755.2,5339.4,6287.4,8,,novembro/2026
+Belo Horizonte,Inconfidência,apartamento,venda,6251.5,5900.4,6800.3,20,,novembro/2026
+Belo Horizonte,Indaiá,apartamento,venda,8503.0,6850.9,9654.6,99,6.18,novembro/2026
+Belo Horizonte,Indaiá,apartamento,aluguel,43.8,38.2,48.5,5,6.18,novembro/2026
+Belo Horizonte,Ipiranga,apartamento,venda,7123.4,5393.6,9298.1,96,5.83,novembro/2026
+Belo Horizonte,Ipiranga,apartamento,aluguel,34.6,22.7,38.6,12,5.83,novembro/2026
+Belo Horizonte,Itapoã,apartamento,venda,8011.5,6091.5,9893.0,301,6.17,novembro/2026
+Belo Horizonte,Itapoã,apartamento,aluguel,41.2,31.9,49.1,47,6.17,novembro/2026
+Belo Horizonte,Itatiaia,apartamento,venda,5720.9,4730.8,6920.0,17,,novembro/2026
+Belo Horizonte,Jaqueline,apartamento,venda,3762.5,3251.8,4578.1,54,,novembro/2026
+Belo Horizonte,Jaraguá,apartamento,venda,8925.4,7071.8,10495.4,178,5.96,novembro/2026
+Belo Horizonte,Jaraguá,apartamento,aluguel,44.3,36.1,51.1,31,5.96,novembro/2026
+Belo Horizonte,Jardim Alvorada,apartamento,venda,6108.5,5291.0,6589.3,8,,novembro/2026
+Belo Horizonte,Jardim América,apartamento,venda,5629.4,4615.4,7297.3,89,7.1,novembro/2026
+Belo Horizonte,Jardim América,apartamento,aluguel,33.3,20.7,40.8,11,7.1,novembro/2026
+Belo Horizonte,Jardim Atlântico,apartamento,venda,7532.2,5363.6,10301.8,69,7.5,novembro/2026
+Belo Horizonte,Jardim Atlântico,apartamento,aluguel,47.1,41.2,64.3,10,7.5,novembro/2026
+Belo Horizonte,Jardim dos Comerciários (Venda Nova),apartamento,venda,5272.7,5062.6,6284.0,7,5.87,novembro/2026
+Belo Horizonte,Jardim dos Comerciários (Venda Nova),apartamento,aluguel,25.8,25.5,32.5,5,5.87,novembro/2026
+Belo Horizonte,Jardim Guanabara,apartamento,venda,5814.0,4787.2,6800.0,33,6.34,novembro/2026
+Belo Horizonte,Jardim Guanabara,apartamento,aluguel,30.7,28.8,32.8,6,6.34,novembro/2026
+Belo Horizonte,Jardim Leblon,apartamento,venda,4728.3,3833.3,5744.7,85,7.36,novembro/2026
+Belo Horizonte,Jardim Leblon,apartamento,aluguel,29.0,25.1,30.3,8,7.36,novembro/2026
+Belo Horizonte,Jardim Montanhês,apartamento,venda,8192.3,6645.5,9699.0,28,,novembro/2026
+Belo Horizonte,Jardim Vitória,apartamento,venda,3577.3,3109.9,4250.0,46,7.98,novembro/2026
+Belo Horizonte,Jardim Vitória,apartamento,aluguel,23.8,23.1,28.6,9,7.98,novembro/2026
+Belo Horizonte,Jatobá,apartamento,venda,3636.4,3166.7,5000.0,9,,novembro/2026
+Belo Horizonte,Jatobá (Barreiro),apartamento,venda,4239.1,4017.2,5016.6,7,,novembro/2026
+Belo Horizonte,João Pinheiro,apartamento,venda,6266.7,4622.6,7584.3,77,,novembro/2026
+Belo Horizonte,Juliana,apartamento,venda,5200.0,3967.2,6377.5,59,7.8,novembro/2026
+Belo Horizonte,Juliana,apartamento,aluguel,33.8,29.0,35.9,14,7.8,novembro/2026
+Belo Horizonte,Lagoinha,apartamento,venda,4200.4,3293.7,6341.0,36,,novembro/2026
+Belo Horizonte,Letícia,apartamento,venda,5384.6,4524.8,6700.0,51,,novembro/2026
+Belo Horizonte,Liberdade,apartamento,venda,8295.8,6469.5,10249.2,275,5.9,novembro/2026
+Belo Horizonte,Liberdade,apartamento,aluguel,40.8,35.0,48.9,39,5.9,novembro/2026
+Belo Horizonte,Liberdade/Jaraguá,apartamento,venda,8888.9,7916.7,9615.4,25,7.51,novembro/2026
+Belo Horizonte,Liberdade/Jaraguá,apartamento,aluguel,55.6,41.2,57.1,5,7.51,novembro/2026
+Belo Horizonte,Lindéia,apartamento,venda,5806.8,5529.8,6265.6,8,,novembro/2026
+Belo Horizonte,Lourdes,apartamento,venda,15523.4,10943.0,20136.1,572,5.69,novembro/2026
+Belo Horizonte,Lourdes,apartamento,aluguel,73.6,48.7,91.8,216,5.69,novembro/2026
+Belo Horizonte,Luxemburgo,apartamento,venda,10234.4,6821.9,14291.9,195,4.89,novembro/2026
+Belo Horizonte,Luxemburgo,apartamento,aluguel,41.7,30.0,56.5,53,4.89,novembro/2026
+Belo Horizonte,Madre Gertrudes,apartamento,venda,3845.2,3425.2,4294.4,16,,novembro/2026
+Belo Horizonte,Manacás,apartamento,venda,6274.0,5000.0,7697.8,172,6.92,novembro/2026
+Belo Horizonte,Manacás,apartamento,aluguel,36.2,32.1,41.0,28,6.92,novembro/2026
+Belo Horizonte,Mangabeiras,apartamento,venda,18304.8,12280.7,22500.0,9,3.61,novembro/2026
+Belo Horizonte,Mangabeiras,apartamento,aluguel,55.1,42.9,75.0,10,3.61,novembro/2026
+Belo Horizonte,Mangueiras,apartamento,venda,5420.2,4552.0,6287.5,24,,novembro/2026
+Belo Horizonte,Mantiqueira,apartamento,venda,5335.7,4130.2,6428.4,60,7.04,novembro/2026
+Belo Horizonte,Mantiqueira,apartamento,aluguel,31.3,28.0,34.2,16,7.04,novembro/2026
+Belo Horizonte,Marajó,apartamento,venda,5733.3,4925.4,6250.0,5,,novembro/2026
+Belo Horizonte,Maria Helena,apartamento,venda,4712.0,4046.8,5571.6,20,,novembro/2026
+Belo Horizonte,Maria Teresa,apartamento,venda,4225.0,3662.3,4940.5,11,,novembro/2026
+Belo Horizonte,Maria Tereza,apartamento,venda,4525.9,4338.1,4970.9,10,,novembro/2026
+Belo Horizonte,Maria Virgínia,apartamento,venda,6666.7,5337.2,7916.7,17,,novembro/2026
+Belo Horizonte,Marilândia,apartamento,venda,7083.3,5541.9,7307.7,5,,novembro/2026
+Belo Horizonte,Milionários,apartamento,venda,5927.3,4766.8,7524.9,70,4.92,novembro/2026
+Belo Horizonte,Milionários,apartamento,aluguel,24.3,22.2,34.3,10,4.92,novembro/2026
+Belo Horizonte,Minas Brasil,apartamento,venda,7133.7,5862.4,8249.0,38,7.77,novembro/2026
+Belo Horizonte,Minas Brasil,apartamento,aluguel,46.2,36.1,58.5,6,7.77,novembro/2026
+Belo Horizonte,Minascaixa,apartamento,venda,4841.0,4582.2,5320.5,6,,novembro/2026
+Belo Horizonte,Minaslândia,apartamento,venda,5607.1,4516.1,6395.3,17,,novembro/2026
+Belo Horizonte,Minaslândia (P Maio),apartamento,venda,5333.3,4620.8,6027.0,11,,novembro/2026
+Belo Horizonte,Miramar,apartamento,venda,7000.0,5462.2,8315.2,57,,novembro/2026
+Belo Horizonte,Monsenhor Messias,apartamento,venda,6168.1,5087.7,6633.5,42,,novembro/2026
+Belo Horizonte,Nazaré,apartamento,venda,2737.5,2666.7,3921.6,5,,novembro/2026
+Belo Horizonte,Nova Cachoeirinha,apartamento,venda,4353.8,3714.2,5000.0,14,,novembro/2026
+Belo Horizonte,Nova Esperança,apartamento,venda,6533.3,5228.8,7656.2,17,,novembro/2026
+Belo Horizonte,Nova Floresta,apartamento,venda,6321.4,5094.8,7658.5,52,7.38,novembro/2026
+Belo Horizonte,Nova Floresta,apartamento,aluguel,38.9,26.4,40.0,5,7.38,novembro/2026
+Belo Horizonte,Nova Gameleira,apartamento,venda,4698.6,4031.1,5096.6,12,,novembro/2026
+Belo Horizonte,Nova Granada,apartamento,venda,8161.7,6113.2,13171.1,112,5.59,novembro/2026
+Belo Horizonte,Nova Granada,apartamento,aluguel,38.0,31.9,44.7,14,5.59,novembro/2026
+Belo Horizonte,Nova Suíça,apartamento,venda,10375.0,8529.4,12440.5,37,5.04,novembro/2026
+Belo Horizonte,Nova Suíça,apartamento,aluguel,43.6,32.7,51.8,8,5.04,novembro/2026
+Belo Horizonte,Nova Suíssa,apartamento,venda,8709.6,5632.7,10593.8,196,7.11,novembro/2026
+Belo Horizonte,Nova Suíssa,apartamento,aluguel,51.6,37.2,63.2,24,7.11,novembro/2026
+Belo Horizonte,Nova Vista,apartamento,venda,7111.1,5335.4,8477.3,79,,novembro/2026
+Belo Horizonte,Ouro Minas,apartamento,venda,4269.8,3439.5,4991.5,8,,novembro/2026
+Belo Horizonte,Ouro Preto,apartamento,venda,7590.4,5678.2,10110.4,363,6.94,novembro/2026
+Belo Horizonte,Ouro Preto,apartamento,aluguel,43.9,33.0,63.4,88,6.94,novembro/2026
+Belo Horizonte,Padre Eustáquio,apartamento,venda,7459.2,5456.2,9727.9,196,5.53,novembro/2026
+Belo Horizonte,Padre Eustáquio,apartamento,aluguel,34.4,26.6,45.9,37,5.53,novembro/2026
+Belo Horizonte,Palmares,apartamento,venda,6454.5,5074.6,8625.0,205,6.34,novembro/2026
+Belo Horizonte,Palmares,apartamento,aluguel,34.1,29.9,41.1,28,6.34,novembro/2026
+Belo Horizonte,Palmeiras,apartamento,venda,7171.9,5782.4,8747.3,90,8.37,novembro/2026
+Belo Horizonte,Palmeiras,apartamento,aluguel,50.0,40.9,62.5,73,8.37,novembro/2026
+Belo Horizonte,Pampulha,apartamento,venda,10432.7,8333.3,12098.8,89,5.16,novembro/2026
+Belo Horizonte,Pampulha,apartamento,aluguel,44.9,36.6,54.1,12,5.16,novembro/2026
+Belo Horizonte,Paquetá,apartamento,venda,6779.7,5375.0,8380.4,181,8.18,novembro/2026
+Belo Horizonte,Paquetá,apartamento,aluguel,46.2,29.1,56.7,50,8.18,novembro/2026
+Belo Horizonte,Paraíso,apartamento,venda,7563.9,6061.4,9048.1,6,,novembro/2026
+Belo Horizonte,Paraúna (Venda Nova),apartamento,venda,5191.5,4762.9,7645.3,8,,novembro/2026
+Belo Horizonte,Parque Copacabana,apartamento,venda,5333.3,4383.3,6731.9,31,,novembro/2026
+Belo Horizonte,Parque São Pedro,apartamento,venda,4695.1,3990.7,5270.5,22,,novembro/2026
+Belo Horizonte,Parque Turistas,apartamento,venda,3612.1,3434.3,3862.3,6,,novembro/2026
+Belo Horizonte,Paulo VI,apartamento,venda,4833.3,4074.1,5181.7,9,,novembro/2026
+Belo Horizonte,Pedro II,apartamento,venda,7729.7,6998.6,9375.0,12,,novembro/2026
+Belo Horizonte,Petrópolis,apartamento,venda,5111.8,4746.1,5949.4,12,,novembro/2026
+Belo Horizonte,Pindorama,apartamento,venda,4211.5,4136.4,4593.0,7,,novembro/2026
+Belo Horizonte,Pirajá,apartamento,venda,4693.6,4174.6,6931.8,16,,novembro/2026
+Belo Horizonte,Piratininga,apartamento,venda,4639.2,3974.4,5838.7,99,,novembro/2026
+Belo Horizonte,Planalto,apartamento,venda,6204.4,5056.5,7878.4,220,7.0,novembro/2026
+Belo Horizonte,Planalto,apartamento,aluguel,36.2,26.8,42.5,27,7.0,novembro/2026
+Belo Horizonte,Pompéia,apartamento,venda,6189.4,5201.6,7535.2,28,,novembro/2026
+Belo Horizonte,Pousada Santo Antônio,apartamento,venda,5820.9,5668.6,6191.9,12,,novembro/2026
+Belo Horizonte,Prado,apartamento,venda,9995.2,7438.7,12977.9,296,5.19,novembro/2026
+Belo Horizonte,Prado,apartamento,aluguel,43.2,34.4,54.6,33,5.19,novembro/2026
+Belo Horizonte,Renascença,apartamento,venda,5873.4,4685.7,8067.2,63,,novembro/2026
+Belo Horizonte,Ribeiro de Abreu,apartamento,venda,3000.0,2833.3,3448.3,5,,novembro/2026
+Belo Horizonte,Rio Branco,apartamento,venda,5615.1,4402.3,7035.4,88,6.95,novembro/2026
+Belo Horizonte,Rio Branco,apartamento,aluguel,32.5,29.9,35.6,9,6.95,novembro/2026
+Belo Horizonte,Sagrada Família,apartamento,venda,6671.4,5159.7,8532.5,236,6.75,novembro/2026
+Belo Horizonte,Sagrada Família,apartamento,aluguel,37.5,27.3,46.9,53,6.75,novembro/2026
+Belo Horizonte,Salgado Filho,apartamento,venda,6760.0,4850.7,7894.7,81,6.76,novembro/2026
+Belo Horizonte,Salgado Filho,apartamento,aluguel,38.1,33.2,46.7,10,6.76,novembro/2026
+Belo Horizonte,Santa Amélia,apartamento,venda,6174.2,4730.6,8116.6,267,5.75,novembro/2026
+Belo Horizonte,Santa Amélia,apartamento,aluguel,29.6,26.0,40.7,35,5.75,novembro/2026
+Belo Horizonte,Santa Branca,apartamento,venda,6428.6,5361.6,8450.3,195,5.6,novembro/2026
+Belo Horizonte,Santa Branca,apartamento,aluguel,30.0,24.8,31.9,11,5.6,novembro/2026
+Belo Horizonte,Santa Cruz,apartamento,venda,6082.8,4797.9,7630.3,62,5.41,novembro/2026
+Belo Horizonte,Santa Cruz,apartamento,aluguel,27.4,23.9,34.1,11,5.41,novembro/2026
+Belo Horizonte,Santa Efigênia,apartamento,venda,11250.0,7021.0,16566.5,207,4.82,novembro/2026
+Belo Horizonte,Santa Efigênia,apartamento,aluguel,45.2,36.3,71.8,59,4.82,novembro/2026
+Belo Horizonte,Santa Helena,apartamento,venda,7403.2,6877.6,8257.2,38,5.43,novembro/2026
+Belo Horizonte,Santa Helena,apartamento,aluguel,33.5,29.0,41.0,6,5.43,novembro/2026
+Belo Horizonte,Santa Inês,apartamento,venda,6900.0,5136.8,8750.0,105,7.01,novembro/2026
+Belo Horizonte,Santa Inês,apartamento,aluguel,40.3,38.3,40.8,5,7.01,novembro/2026
+Belo Horizonte,Santa Lúcia,apartamento,venda,13225.4,7171.4,17033.6,275,2.68,novembro/2026
+Belo Horizonte,Santa Lúcia,apartamento,aluguel,29.5,25.7,65.6,32,2.68,novembro/2026
+Belo Horizonte,Santa Maria,apartamento,venda,5201.3,4448.8,7524.2,32,,novembro/2026
+Belo Horizonte,Santa Mônica,apartamento,venda,5648.1,4490.0,7429.2,303,8.16,novembro/2026
+Belo Horizonte,Santa Mônica,apartamento,aluguel,38.4,30.5,47.3,24,8.16,novembro/2026
+Belo Horizonte,Santa Rita (Barreiro),apartamento,venda,3850.6,3326.0,5128.8,8,,novembro/2026
+Belo Horizonte,Santa Rosa,apartamento,venda,7234.9,5263.2,8575.8,129,4.96,novembro/2026
+Belo Horizonte,Santa Rosa,apartamento,aluguel,29.9,23.8,46.6,16,4.96,novembro/2026
+Belo Horizonte,Santa Tereza,apartamento,venda,7234.0,5533.8,8300.0,109,7.46,novembro/2026
+Belo Horizonte,Santa Tereza,apartamento,aluguel,45.0,28.6,86.7,20,7.46,novembro/2026
+Belo Horizonte,Santa Terezinha,apartamento,venda,5759.6,4580.4,7823.0,96,7.94,novembro/2026
+Belo Horizonte,Santa Terezinha,apartamento,aluguel,38.1,28.2,44.0,8,7.94,novembro/2026
+Belo Horizonte,Santo Agostinho,apartamento,venda,16666.7,11052.6,20645.2,265,4.8,novembro/2026
+Belo Horizonte,Santo Agostinho,apartamento,aluguel,66.7,41.1,93.4,67,4.8,novembro/2026
+Belo Horizonte,Santo André,apartamento,venda,4908.3,3825.7,6366.6,16,,novembro/2026
+Belo Horizonte,Santo Antônio,apartamento,venda,11428.6,7142.9,17300.0,517,4.28,novembro/2026
+Belo Horizonte,Santo Antônio,apartamento,aluguel,40.8,29.5,51.1,88,4.28,novembro/2026
+Belo Horizonte,São Bento,apartamento,venda,13200.0,7250.0,14859.5,33,3.29,novembro/2026
+Belo Horizonte,São Bento,apartamento,aluguel,36.2,31.0,37.2,5,3.29,novembro/2026
+Belo Horizonte,São Bernardo,apartamento,venda,5538.5,3823.5,7709.1,17,,novembro/2026
+Belo Horizonte,São Cristóvão,apartamento,venda,6476.2,4700.0,11007.2,38,,novembro/2026
+Belo Horizonte,São Francisco,apartamento,venda,6250.0,4636.4,7222.2,33,,novembro/2026
+Belo Horizonte,São Gabriel,apartamento,venda,5413.5,4397.1,6135.2,28,8.78,novembro/2026
+Belo Horizonte,São Gabriel,apartamento,aluguel,39.6,32.6,46.6,5,8.78,novembro/2026
+Belo Horizonte,São Geraldo,apartamento,venda,7142.9,5363.6,8803.9,33,,novembro/2026
+Belo Horizonte,São João Batista,apartamento,venda,5000.0,4200.0,6333.3,153,7.25,novembro/2026
+Belo Horizonte,São João Batista,apartamento,aluguel,30.2,21.8,33.9,18,7.25,novembro/2026
+Belo Horizonte,São José,apartamento,venda,7255.6,5297.9,9121.8,48,4.86,novembro/2026
+Belo Horizonte,São José,apartamento,aluguel,29.4,25.9,36.3,7,4.86,novembro/2026
+Belo Horizonte,Sao Jose (Pampulha),apartamento,venda,8029.2,6719.8,8966.1,12,,novembro/2026
+Belo Horizonte,São Lucas,apartamento,venda,8673.4,5628.6,12692.2,154,3.85,novembro/2026
+Belo Horizonte,São Lucas,apartamento,aluguel,27.8,21.1,38.7,18,3.85,novembro/2026
+Belo Horizonte,São Luiz,apartamento,venda,8366.6,6228.1,10247.3,118,4.29,novembro/2026
+Belo Horizonte,São Luiz,apartamento,aluguel,29.9,27.7,40.2,14,4.29,novembro/2026
+Belo Horizonte,São Luiz/Pampulha,apartamento,venda,10630.9,8750.7,11560.3,6,,novembro/2026
+Belo Horizonte,São Paulo,apartamento,venda,5551.2,4589.9,6334.7,11,,novembro/2026
+Belo Horizonte,São Pedro,apartamento,venda,11668.0,7686.4,17100.7,268,5.3,novembro/2026
+Belo Horizonte,São Pedro,apartamento,aluguel,51.5,35.6,78.1,71,5.3,novembro/2026
+Belo Horizonte,São Salvador,apartamento,venda,6016.7,5007.8,7194.4,8,,novembro/2026
+Belo Horizonte,São Tomáz,apartamento,venda,4145.8,3343.1,5188.1,7,,novembro/2026
+Belo Horizonte,Savassi,apartamento,venda,17125.0,11721.2,20791.4,346,4.8,novembro/2026
+Belo Horizonte,Savassi,apartamento,aluguel,68.5,47.5,91.1,106,4.8,novembro/2026
+Belo Horizonte,Serra,apartamento,venda,10416.7,7418.0,13967.2,449,5.29,novembro/2026
+Belo Horizonte,Serra,apartamento,aluguel,45.9,33.9,60.3,59,5.29,novembro/2026
+Belo Horizonte,Serra Verde (Venda Nova),apartamento,venda,4166.7,3333.3,4907.4,41,,novembro/2026
+Belo Horizonte,Serrano,apartamento,venda,6654.1,5217.4,8520.1,146,7.29,novembro/2026
+Belo Horizonte,Serrano,apartamento,aluguel,40.4,27.3,48.4,11,7.29,novembro/2026
+Belo Horizonte,Silveira,apartamento,venda,6885.9,5284.5,8836.0,104,7.23,novembro/2026
+Belo Horizonte,Silveira,apartamento,aluguel,41.5,33.1,47.4,20,7.23,novembro/2026
+Belo Horizonte,Sinimbu,apartamento,venda,6357.1,4545.5,8961.0,13,,novembro/2026
+Belo Horizonte,Sion,apartamento,venda,11170.2,7875.0,15673.4,393,4.75,novembro/2026
+Belo Horizonte,Sion,apartamento,aluguel,44.2,31.7,56.8,72,4.75,novembro/2026
+Belo Horizonte,Solar do Barreiro,apartamento,venda,4266.7,3777.8,4881.0,11,,novembro/2026
+Belo Horizonte,Solar do Barreiro (Barreiro),apartamento,venda,4000.0,3473.8,4717.3,15,,novembro/2026
+Belo Horizonte,Solimões,apartamento,venda,4195.8,4019.2,4423.1,5,,novembro/2026
+Belo Horizonte,Suzana,apartamento,venda,7464.3,7428.6,9083.3,5,,novembro/2026
+Belo Horizonte,Teixeira Dias,apartamento,venda,6287.9,4993.6,7927.7,36,8.74,novembro/2026
+Belo Horizonte,Teixeira Dias,apartamento,aluguel,45.8,42.3,48.1,9,8.74,novembro/2026
+Belo Horizonte,Teixeira Dias (Barreiro),apartamento,venda,5625.9,4197.9,7590.8,18,,novembro/2026
+Belo Horizonte,Tirol,apartamento,venda,5697.0,4709.5,6974.2,52,,novembro/2026
+Belo Horizonte,Tirol (Barreiro),apartamento,venda,5862.1,4807.7,6444.4,25,,novembro/2026
+Belo Horizonte,Trevo,apartamento,venda,4653.2,4362.5,5423.9,38,,novembro/2026
+Belo Horizonte,Tupi A,apartamento,venda,4297.0,3240.3,5611.4,6,,novembro/2026
+Belo Horizonte,União,apartamento,venda,6418.9,5018.8,8556.3,111,7.31,novembro/2026
+Belo Horizonte,União,apartamento,aluguel,39.1,26.8,42.5,13,7.31,novembro/2026
+Belo Horizonte,Vale do Jatobá,apartamento,venda,5227.3,4288.9,24215.8,11,,novembro/2026
+Belo Horizonte,Venda Nova,apartamento,venda,4470.2,3593.2,5023.6,36,,novembro/2026
+Belo Horizonte,Vera Cruz,apartamento,venda,3429.3,3144.4,6179.7,8,,novembro/2026
+Belo Horizonte,Vila Cloris,apartamento,venda,5400.0,4483.3,6575.9,87,,novembro/2026
+Belo Horizonte,Vila Paris,apartamento,venda,10104.4,7241.8,13846.1,114,5.42,novembro/2026
+Belo Horizonte,Vila Paris,apartamento,aluguel,45.6,37.6,61.6,12,5.42,novembro/2026
+Belo Horizonte,Vitória,apartamento,venda,3873.7,3603.9,4733.3,10,,novembro/2026
+Belo Horizonte,Acaiaca,terreno,venda,606.1,574.2,1040.0,5,,novembro/2026
+Belo Horizonte,Alto Caiçaras,terreno,venda,985.7,704.4,1137.8,7,,novembro/2026
+Belo Horizonte,Alto dos Pinheiros,terreno,venda,1277.8,1194.4,1481.5,9,,novembro/2026
+Belo Horizonte,Álvaro Camargos,terreno,venda,1351.4,1194.4,1361.1,5,,novembro/2026
+Belo Horizonte,Aparecida,terreno,venda,1070.2,997.5,1479.3,5,,novembro/2026
+Belo Horizonte,Araguaia,terreno,venda,1253.1,1250.0,1257.9,5,,novembro/2026
+Belo Horizonte,Bandeirantes,terreno,venda,1100.0,977.3,1249.5,55,,novembro/2026
+Belo Horizonte,Barreiro,terreno,venda,2872.1,2500.0,3217.8,9,,novembro/2026
+Belo Horizonte,Betânia,terreno,venda,1664.9,1204.3,2382.2,12,,novembro/2026
+Belo Horizonte,Bom Jesus,terreno,venda,853.8,672.3,1293.1,6,,novembro/2026
+Belo Horizonte,Bonfim,terreno,venda,1428.6,1071.3,2007.4,15,,novembro/2026
+Belo Horizonte,Brasil Industrial,terreno,venda,1215.3,1197.9,1347.2,6,,novembro/2026
+Belo Horizonte,Braúnas,terreno,venda,850.0,716.1,1094.3,41,,novembro/2026
+Belo Horizonte,Buritis,terreno,venda,1531.9,1195.9,2189.6,54,,novembro/2026
+Belo Horizonte,Cachoeirinha,terreno,venda,1544.9,1262.4,3104.8,16,,novembro/2026
+Belo Horizonte,Caiçaras,terreno,venda,1630.4,1310.1,2360.2,35,,novembro/2026
+Belo Horizonte,Calafate,terreno,venda,2719.0,2352.2,3094.2,6,,novembro/2026
+Belo Horizonte,Canaã,terreno,venda,875.0,572.9,958.3,6,,novembro/2026
+Belo Horizonte,Carlos Prates,terreno,venda,1569.0,1518.0,1920.4,20,,novembro/2026
+Belo Horizonte,Casa Branca,terreno,venda,1013.9,1000.0,1152.8,5,,novembro/2026
+Belo Horizonte,Castelo,terreno,venda,3071.4,2500.0,3326.3,29,,novembro/2026
+Belo Horizonte,Céu Azul,terreno,venda,1047.6,914.3,1263.7,25,,novembro/2026
+Belo Horizonte,Cinquentenario,terreno,venda,1496.0,1201.2,1666.9,11,,novembro/2026
+Belo Horizonte,Colégio Batista,terreno,venda,2169.6,1663.8,2895.7,8,,novembro/2026
+Belo Horizonte,Comiteco,terreno,venda,1539.8,1217.3,1714.2,18,,novembro/2026
+Belo Horizonte,Concórdia,terreno,venda,1128.3,1062.0,1705.7,12,,novembro/2026
+Belo Horizonte,Copacabana,terreno,venda,790.4,621.3,1447.0,14,,novembro/2026
+Belo Horizonte,Diamante,terreno,venda,1481.3,1200.0,1902.1,30,,novembro/2026
+Belo Horizonte,Diamante (Barreiro),terreno,venda,1391.1,1179.3,1801.2,7,,novembro/2026
+Belo Horizonte,Dom Bosco,terreno,venda,1333.3,908.4,2335.4,15,,novembro/2026
+Belo Horizonte,Dona Clara,terreno,venda,2193.2,2093.8,2951.4,8,,novembro/2026
+Belo Horizonte,Engenho Nogueira,terreno,venda,766.5,738.6,812.4,5,,novembro/2026
+Belo Horizonte,Esplanada,terreno,venda,1957.1,1755.1,1985.7,5,,novembro/2026
+Belo Horizonte,Estoril,terreno,venda,1513.9,1287.0,1990.7,44,,novembro/2026
+Belo Horizonte,Estrela do Oriente,terreno,venda,1555.6,1357.6,1822.3,7,,novembro/2026
+Belo Horizonte,Fernão Dias,terreno,venda,1695.8,1349.8,2011.6,20,,novembro/2026
+Belo Horizonte,Floramar,terreno,venda,1527.8,1117.7,1984.0,7,,novembro/2026
+Belo Horizonte,Floresta,terreno,venda,2650.0,2426.5,3264.5,11,,novembro/2026
+Belo Horizonte,Garças,terreno,venda,903.8,698.4,1056.4,48,,novembro/2026
+Belo Horizonte,Glória,terreno,venda,1498.4,1132.0,1848.5,20,,novembro/2026
+Belo Horizonte,Goiânia,terreno,venda,896.3,803.1,1078.3,8,,novembro/2026
+Belo Horizonte,Graça,terreno,venda,1527.8,1354.2,2054.1,11,,novembro/2026
+Belo Horizonte,Gutierrez,terreno,venda,3213.0,1359.4,4106.5,6,,novembro/2026
+Belo Horizonte,Havaí,terreno,venda,1377.4,1223.7,1550.0,11,,novembro/2026
+Belo Horizonte,Heliópolis,terreno,venda,1200.0,1086.1,1557.1,14,,novembro/2026
+Belo Horizonte,Indaiá,terreno,venda,1950.0,1775.8,2280.9,10,,novembro/2026
+Belo Horizonte,Ipiranga,terreno,venda,2638.9,1969.7,3140.5,9,,novembro/2026
+Belo Horizonte,Itapoã,terreno,venda,3099.9,2361.1,3571.4,13,,novembro/2026
+Belo Horizonte,Jaqueline,terreno,venda,791.7,714.4,1081.3,16,,novembro/2026
+Belo Horizonte,Jardim América,terreno,venda,1506.8,1459.0,1688.3,7,,novembro/2026
+Belo Horizonte,Jardim Atlântico,terreno,venda,1045.8,764.6,1443.1,42,,novembro/2026
+Belo Horizonte,Jardim Leblon,terreno,venda,1112.6,1032.6,1283.3,8,,novembro/2026
+Belo Horizonte,Jardim Montanhês,terreno,venda,1333.3,1085.2,1479.2,6,,novembro/2026
+Belo Horizonte,Jardim Pirineus,terreno,venda,661.5,433.7,736.7,5,,novembro/2026
+Belo Horizonte,Jardim Vitória,terreno,venda,775.0,544.1,1053.4,44,,novembro/2026
+Belo Horizonte,João Pinheiro,terreno,venda,1347.2,1086.1,1726.2,15,,novembro/2026
+Belo Horizonte,Juliana,terreno,venda,1101.9,937.5,1404.5,9,,novembro/2026
+Belo Horizonte,Lagoinha,terreno,venda,1500.0,1169.2,2293.6,9,,novembro/2026
+Belo Horizonte,Letícia,terreno,venda,1334.8,1164.7,1430.6,7,,novembro/2026
+Belo Horizonte,Liberdade,terreno,venda,2222.2,1934.5,2407.4,9,,novembro/2026
+Belo Horizonte,Lindéia,terreno,venda,1497.2,1250.0,2125.0,9,,novembro/2026
+Belo Horizonte,Manacás,terreno,venda,1100.0,996.7,1244.6,31,,novembro/2026
+Belo Horizonte,Mangabeiras,terreno,venda,1551.7,1140.0,2021.7,15,,novembro/2026
+Belo Horizonte,Mantiqueira,terreno,venda,984.8,730.3,1066.3,12,,novembro/2026
+Belo Horizonte,Milionários,terreno,venda,1527.8,1319.4,1861.1,9,,novembro/2026
+Belo Horizonte,Nova Esperança,terreno,venda,952.4,889.9,1290.3,11,,novembro/2026
+Belo Horizonte,Nova Floresta,terreno,venda,1666.7,1211.8,2143.2,11,,novembro/2026
+Belo Horizonte,Nova Granada,terreno,venda,2000.0,1944.4,2718.5,5,,novembro/2026
+Belo Horizonte,Nova Suíssa,terreno,venda,1965.8,1761.5,2375.0,9,,novembro/2026
+Belo Horizonte,Ouro Minas,terreno,venda,694.4,550.2,1000.0,7,,novembro/2026
+Belo Horizonte,Ouro Preto,terreno,venda,1150.7,866.5,1734.7,63,,novembro/2026
+Belo Horizonte,Padre Eustáquio,terreno,venda,1620.4,1387.5,3075.1,26,,novembro/2026
+Belo Horizonte,Palmares,terreno,venda,2469.8,1891.2,2892.9,8,,novembro/2026
+Belo Horizonte,Palmeiras,terreno,venda,1250.0,931.5,1801.6,37,,novembro/2026
+Belo Horizonte,Pampulha,terreno,venda,1415.3,1044.6,1950.7,12,,novembro/2026
+Belo Horizonte,Paquetá,terreno,venda,1972.2,1630.4,2812.7,20,,novembro/2026
+Belo Horizonte,Paraíso,terreno,venda,1200.0,1064.6,1411.8,11,,novembro/2026
+Belo Horizonte,Parque São José,terreno,venda,1217.7,1130.1,1379.2,8,,novembro/2026
+Belo Horizonte,Pindorama,terreno,venda,1111.1,1047.4,1206.9,7,,novembro/2026
+Belo Horizonte,Planalto,terreno,venda,1499.9,1224.4,1945.1,38,,novembro/2026
+Belo Horizonte,Pompéia,terreno,venda,1308.3,1150.5,1500.0,6,,novembro/2026
+Belo Horizonte,Pousada Santo Antônio,terreno,venda,778.0,620.0,954.3,8,,novembro/2026
+Belo Horizonte,Prado,terreno,venda,3700.0,2537.9,4400.0,9,,novembro/2026
+Belo Horizonte,Rio Branco,terreno,venda,2452.1,1534.7,2770.8,14,,novembro/2026
+Belo Horizonte,Sagrada Família,terreno,venda,1933.7,1509.5,2237.5,31,,novembro/2026
+Belo Horizonte,Salgado Filho,terreno,venda,1513.9,1325.5,1633.1,16,,novembro/2026
+Belo Horizonte,Santa Amélia,terreno,venda,1649.0,1416.7,1917.6,31,,novembro/2026
+Belo Horizonte,Santa Branca,terreno,venda,1676.1,1574.3,2013.9,15,,novembro/2026
+Belo Horizonte,Santa Cruz,terreno,venda,1627.0,1417.7,2132.1,24,,novembro/2026
+Belo Horizonte,Santa Efigênia,terreno,venda,2575.6,2238.7,3450.5,34,,novembro/2026
+Belo Horizonte,Santa Lúcia,terreno,venda,1852.1,1350.0,2328.0,50,,novembro/2026
+Belo Horizonte,Santa Mônica,terreno,venda,1459.9,1143.0,2298.4,31,,novembro/2026
+Belo Horizonte,Santa Rosa,terreno,venda,2238.8,2020.2,2426.5,9,,novembro/2026
+Belo Horizonte,Santa Tereza,terreno,venda,3248.9,2356.2,3720.4,12,,novembro/2026
+Belo Horizonte,Santa Terezinha,terreno,venda,1388.9,1117.3,1527.8,9,,novembro/2026
+Belo Horizonte,Santo André,terreno,venda,1316.9,1032.6,1370.7,12,,novembro/2026
+Belo Horizonte,Santo Antônio,terreno,venda,3706.7,3030.3,4658.4,13,,novembro/2026
+Belo Horizonte,São Bento,terreno,venda,2111.1,1812.1,2381.9,8,,novembro/2026
+Belo Horizonte,São Bernardo,terreno,venda,1073.4,842.6,1429.7,19,,novembro/2026
+Belo Horizonte,São Cristóvão,terreno,venda,1149.4,1054.1,1190.5,5,,novembro/2026
+Belo Horizonte,São Francisco,terreno,venda,1170.0,1000.0,1563.8,18,,novembro/2026
+Belo Horizonte,São Gabriel,terreno,venda,1410.7,1179.2,2332.9,8,,novembro/2026
+Belo Horizonte,São Geraldo,terreno,venda,1046.5,964.3,1246.5,10,,novembro/2026
+Belo Horizonte,São João Batista,terreno,venda,1368.4,1111.1,1744.2,29,,novembro/2026
+Belo Horizonte,São Lucas,terreno,venda,1787.8,1460.7,1900.0,17,,novembro/2026
+Belo Horizonte,São Luiz,terreno,venda,1484.4,1285.5,2930.2,32,,novembro/2026
+Belo Horizonte,São Marcos,terreno,venda,902.8,799.1,1166.7,6,,novembro/2026
+Belo Horizonte,São Pedro,terreno,venda,3157.9,1750.0,3902.0,11,,novembro/2026
+Belo Horizonte,São Tomáz,terreno,venda,1194.4,727.8,1422.4,6,,novembro/2026
+Belo Horizonte,Serra,terreno,venda,3527.8,2789.9,4144.6,18,,novembro/2026
+Belo Horizonte,Serra Verde (Venda Nova),terreno,venda,1250.0,1098.1,1428.6,7,,novembro/2026
+Belo Horizonte,Serrano,terreno,venda,1813.5,1611.1,1937.3,13,,novembro/2026
+Belo Horizonte,Tirol,terreno,venda,1500.0,1200.0,2428.6,17,,novembro/2026
+Belo Horizonte,Trevo,terreno,venda,805.7,694.8,950.7,52,,novembro/2026
+Belo Horizonte,Tupi A,terreno,venda,1060.1,725.2,1575.7,6,,novembro/2026
+Belo Horizonte,União,terreno,venda,1904.8,1375.0,2347.2,31,,novembro/2026
+Belo Horizonte,Venda Nova,terreno,venda,1844.6,1311.9,2666.7,39,,novembro/2026
+Belo Horizonte,Vila Cloris,terreno,venda,1500.0,1111.6,1728.2,15,,novembro/2026
+Belo Horizonte,Xodó Marize,terreno,venda,1075.9,723.7,1160.3,7,,novembro/2026
+Belo Horizonte,Alípio de Melo,sala,aluguel,67.2,49.3,82.5,10,,novembro/2026
+Belo Horizonte,Anchieta,sala,venda,13349.5,7760.2,15984.7,6,,novembro/2026
+Belo Horizonte,Barreiro,sala,venda,6660.9,4883.4,10000.0,23,7.93,novembro/2026
+Belo Horizonte,Barreiro,sala,aluguel,44.0,32.5,70.0,77,7.93,novembro/2026
+Belo Horizonte,Barro Preto,sala,venda,5811.8,3656.2,8027.9,110,7.02,novembro/2026
+Belo Horizonte,Barro Preto,sala,aluguel,34.0,22.1,49.4,101,7.02,novembro/2026
+Belo Horizonte,Belvedere,sala,venda,18000.0,16000.0,20300.0,43,6.58,novembro/2026
+Belo Horizonte,Belvedere,sala,aluguel,98.7,66.3,120.0,23,6.58,novembro/2026
+Belo Horizonte,Betânia,sala,aluguel,38.3,34.8,46.1,11,,novembro/2026
+Belo Horizonte,Boa Viagem,sala,venda,7485.7,6321.4,9679.7,8,8.46,novembro/2026
+Belo Horizonte,Boa Viagem,sala,aluguel,52.8,42.0,82.3,14,8.46,novembro/2026
+Belo Horizonte,Boa Vista,sala,aluguel,26.7,21.4,36.8,5,,novembro/2026
+Belo Horizonte,Brasil Industrial,sala,aluguel,28.0,12.5,40.0,5,,novembro/2026
+Belo Horizonte,Buritis,sala,venda,7555.6,6361.2,9290.8,93,9.53,novembro/2026
+Belo Horizonte,Buritis,sala,aluguel,60.0,44.7,82.3,82,9.53,novembro/2026
+Belo Horizonte,Cachoeirinha,sala,venda,3000.0,2366.7,3714.3,5,8.88,novembro/2026
+Belo Horizonte,Cachoeirinha,sala,aluguel,22.2,20.3,53.3,5,8.88,novembro/2026
+Belo Horizonte,Caiçaras,sala,venda,6578.9,4750.0,8559.8,21,7.3,novembro/2026
+Belo Horizonte,Caiçaras,sala,aluguel,40.0,35.6,50.0,17,7.3,novembro/2026
+Belo Horizonte,Camargos,sala,aluguel,42.9,22.0,46.0,5,,novembro/2026
+Belo Horizonte,Cardoso,sala,aluguel,32.2,29.0,36.2,6,,novembro/2026
+Belo Horizonte,Carlos Prates,sala,venda,4879.4,3682.1,5376.6,6,8.8,novembro/2026
+Belo Horizonte,Carlos Prates,sala,aluguel,35.8,12.3,54.0,8,8.8,novembro/2026
+Belo Horizonte,Carmo,sala,venda,10416.7,5644.7,12391.3,13,5.6,novembro/2026
+Belo Horizonte,Carmo,sala,aluguel,48.6,45.9,50.5,6,5.6,novembro/2026
+Belo Horizonte,Castelo,sala,venda,22034.5,10375.0,22424.7,16,3.87,novembro/2026
+Belo Horizonte,Castelo,sala,aluguel,71.1,55.6,92.3,41,3.87,novembro/2026
+Belo Horizonte,Centro,sala,venda,3198.7,2437.8,5319.5,158,11.1,novembro/2026
+Belo Horizonte,Centro,sala,aluguel,29.6,18.8,50.4,178,11.1,novembro/2026
+Belo Horizonte,Cidade Jardim,sala,venda,6893.8,5518.8,10527.3,12,8.7,novembro/2026
+Belo Horizonte,Cidade Jardim,sala,aluguel,50.0,32.0,73.3,7,8.7,novembro/2026
+Belo Horizonte,Cidade Nova,sala,venda,6250.0,5754.5,10450.5,11,23.81,novembro/2026
+Belo Horizonte,Cidade Nova,sala,aluguel,124.0,54.0,129.7,6,23.81,novembro/2026
+Belo Horizonte,Coração Eucarístico,sala,venda,8080.7,4808.7,11019.3,6,,novembro/2026
+Belo Horizonte,Cruzeiro,sala,venda,6400.0,5278.3,9282.6,15,,novembro/2026
+Belo Horizonte,Diamante,sala,aluguel,35.7,26.2,54.4,8,,novembro/2026
+Belo Horizonte,Dom Cabral,sala,venda,9982.4,9910.4,10914.1,7,,novembro/2026
+Belo Horizonte,Dona Clara,sala,venda,11403.5,6272.9,14120.7,9,6.31,novembro/2026
+Belo Horizonte,Dona Clara,sala,aluguel,60.0,48.6,68.2,5,6.31,novembro/2026
+Belo Horizonte,Estoril,sala,venda,6899.4,5000.0,9465.1,90,8.16,novembro/2026
+Belo Horizonte,Estoril,sala,aluguel,46.9,37.1,65.5,67,8.16,novembro/2026
+Belo Horizonte,Fernão Dias,sala,venda,11428.6,9040.8,11889.1,7,,novembro/2026
+Belo Horizonte,Floresta,sala,venda,4791.3,2569.7,8380.1,18,16.1,novembro/2026
+Belo Horizonte,Floresta,sala,aluguel,64.3,38.2,82.3,27,16.1,novembro/2026
+Belo Horizonte,Funcionários,sala,venda,8368.3,6169.7,11706.3,138,6.81,novembro/2026
+Belo Horizonte,Funcionários,sala,aluguel,47.5,36.7,58.0,84,6.81,novembro/2026
+Belo Horizonte,Glória,sala,aluguel,35.0,30.0,36.7,5,,novembro/2026
+Belo Horizonte,Guarani,sala,aluguel,37.5,33.7,60.0,9,,novembro/2026
+Belo Horizonte,Gutierrez,sala,venda,6794.9,4733.3,10859.4,19,9.27,novembro/2026
+Belo Horizonte,Gutierrez,sala,aluguel,52.5,35.2,59.5,10,9.27,novembro/2026
+Belo Horizonte,Havaí,sala,aluguel,27.1,25.0,33.4,14,,novembro/2026
+Belo Horizonte,Independência,sala,aluguel,29.3,20.6,31.2,6,,novembro/2026
+Belo Horizonte,Ipiranga,sala,aluguel,46.9,40.0,56.5,5,,novembro/2026
+Belo Horizonte,Itapoã,sala,venda,6916.7,3673.5,7291.7,5,,novembro/2026
+Belo Horizonte,Jaraguá,sala,aluguel,74.0,54.6,82.0,8,,novembro/2026
+Belo Horizonte,Liberdade,sala,venda,11946.9,9444.4,14925.0,21,4.56,novembro/2026
+Belo Horizonte,Liberdade,sala,aluguel,45.4,31.4,65.3,8,4.56,novembro/2026
+Belo Horizonte,Liberdade/Jaraguá,sala,venda,9096.2,8898.8,10416.7,10,,novembro/2026
+Belo Horizonte,Lindéia,sala,aluguel,25.2,23.1,34.8,6,,novembro/2026
+Belo Horizonte,Lourdes,sala,venda,6728.9,4413.8,8958.8,82,8.92,novembro/2026
+Belo Horizonte,Lourdes,sala,aluguel,50.0,32.8,75.5,74,8.92,novembro/2026
+Belo Horizonte,Luxemburgo,sala,venda,5333.3,4289.6,7239.1,7,12.11,novembro/2026
+Belo Horizonte,Luxemburgo,sala,aluguel,53.8,28.9,65.1,18,12.11,novembro/2026
+Belo Horizonte,Milionários,sala,aluguel,40.6,35.7,50.1,14,,novembro/2026
+Belo Horizonte,Miramar,sala,aluguel,37.5,37.5,46.7,5,,novembro/2026
+Belo Horizonte,Nova Granada,sala,venda,19221.8,10665.9,24668.5,6,2.5,novembro/2026
+Belo Horizonte,Nova Granada,sala,aluguel,40.0,27.5,49.3,9,2.5,novembro/2026
+Belo Horizonte,Nova Suíssa,sala,venda,14800.0,11994.5,16547.0,35,4.05,novembro/2026
+Belo Horizonte,Nova Suíssa,sala,aluguel,50.0,36.2,58.3,10,4.05,novembro/2026
+Belo Horizonte,Ouro Preto,sala,venda,8931.0,6429.2,14845.0,39,8.51,novembro/2026
+Belo Horizonte,Ouro Preto,sala,aluguel,63.3,46.2,84.7,38,8.51,novembro/2026
+Belo Horizonte,Padre Eustáquio,sala,venda,7477.2,6004.4,8400.0,5,4.19,novembro/2026
+Belo Horizonte,Padre Eustáquio,sala,aluguel,26.1,21.8,43.2,9,4.19,novembro/2026
+Belo Horizonte,Planalto,sala,venda,7000.0,6333.3,8888.9,9,9.45,novembro/2026
+Belo Horizonte,Planalto,sala,aluguel,55.1,43.3,60.5,7,9.45,novembro/2026
+Belo Horizonte,Prado,sala,venda,6461.5,4000.0,8587.0,21,7.0,novembro/2026
+Belo Horizonte,Prado,sala,aluguel,37.7,27.9,46.0,16,7.0,novembro/2026
+Belo Horizonte,Sagrada Família,sala,venda,4915.5,3675.0,6334.5,10,9.15,novembro/2026
+Belo Horizonte,Sagrada Família,sala,aluguel,37.5,33.8,40.9,8,9.15,novembro/2026
+Belo Horizonte,Salgado Filho,sala,aluguel,36.5,34.8,43.1,8,,novembro/2026
+Belo Horizonte,Santa Amélia,sala,venda,18181.8,11338.1,19166.7,7,4.61,novembro/2026
+Belo Horizonte,Santa Amélia,sala,aluguel,69.8,61.4,77.7,6,4.61,novembro/2026
+Belo Horizonte,Santa Branca,sala,venda,11180.6,10759.1,12125.0,8,,novembro/2026
+Belo Horizonte,Santa Cruz,sala,venda,4180.0,2857.1,7000.0,5,,novembro/2026
+Belo Horizonte,Santa Efigênia,sala,venda,6266.7,4781.8,8442.1,123,6.38,novembro/2026
+Belo Horizonte,Santa Efigênia,sala,aluguel,33.3,23.9,44.3,82,6.38,novembro/2026
+Belo Horizonte,Santa Helena,sala,aluguel,30.2,25.3,35.1,6,,novembro/2026
+Belo Horizonte,Santa Lúcia,sala,venda,8125.0,5600.0,9615.4,49,10.04,novembro/2026
+Belo Horizonte,Santa Lúcia,sala,aluguel,68.0,32.6,109.4,26,10.04,novembro/2026
+Belo Horizonte,Santa Mônica,sala,venda,5744.7,5333.3,6633.3,5,5.64,novembro/2026
+Belo Horizonte,Santa Mônica,sala,aluguel,27.0,22.5,38.7,12,5.64,novembro/2026
+Belo Horizonte,Santa Rosa,sala,aluguel,52.9,47.5,64.5,11,,novembro/2026
+Belo Horizonte,Santa Tereza,sala,venda,6400.0,4189.9,9250.0,13,,novembro/2026
+Belo Horizonte,Santa Terezinha,sala,venda,8680.6,8340.3,9062.5,6,4.84,novembro/2026
+Belo Horizonte,Santa Terezinha,sala,aluguel,35.0,34.9,38.3,5,4.84,novembro/2026
+Belo Horizonte,Santo Agostinho,sala,venda,7881.0,5585.2,9289.0,48,7.66,novembro/2026
+Belo Horizonte,Santo Agostinho,sala,aluguel,50.3,33.2,66.7,42,7.66,novembro/2026
+Belo Horizonte,Santo Antônio,sala,venda,8875.0,6428.6,11818.8,23,6.29,novembro/2026
+Belo Horizonte,Santo Antônio,sala,aluguel,46.5,34.9,63.9,19,6.29,novembro/2026
+Belo Horizonte,São José,sala,venda,10324.7,9327.6,13151.5,15,7.11,novembro/2026
+Belo Horizonte,São José,sala,aluguel,61.2,50.0,70.7,6,7.11,novembro/2026
+Belo Horizonte,São Lucas,sala,aluguel,24.9,22.0,31.9,12,,novembro/2026
+Belo Horizonte,São Luiz,sala,venda,8947.4,8123.6,9256.4,11,9.13,novembro/2026
+Belo Horizonte,São Luiz,sala,aluguel,68.1,60.5,70.7,5,9.13,novembro/2026
+Belo Horizonte,São Pedro,sala,venda,6800.0,5696.1,7265.9,7,5.58,novembro/2026
+Belo Horizonte,São Pedro,sala,aluguel,31.6,29.0,36.0,9,5.58,novembro/2026
+Belo Horizonte,Savassi,sala,venda,7500.0,5714.3,11136.4,101,9.04,novembro/2026
+Belo Horizonte,Savassi,sala,aluguel,56.5,39.2,77.5,67,9.04,novembro/2026
+Belo Horizonte,Serra,sala,venda,11937.5,9179.7,13886.3,22,4.37,novembro/2026
+Belo Horizonte,Serra,sala,aluguel,43.5,26.9,54.3,24,4.37,novembro/2026
+Belo Horizonte,Sion,sala,venda,6060.6,5316.6,7321.4,11,8.71,novembro/2026
+Belo Horizonte,Sion,sala,aluguel,44.0,34.8,51.4,11,8.71,novembro/2026
+Belo Horizonte,Teixeira Dias,sala,venda,8116.3,8000.4,8750.7,14,,novembro/2026
+Belo Horizonte,Tirol,sala,aluguel,30.7,25.9,44.6,12,,novembro/2026
+Belo Horizonte,União,sala,venda,8250.0,8000.0,8783.7,24,,novembro/2026
+Belo Horizonte,Vale do Jatobá,sala,aluguel,43.3,33.3,44.5,5,,novembro/2026
+Belo Horizonte,Venda Nova,sala,venda,7408.6,6110.5,9618.8,6,,novembro/2026
+Belo Horizonte,Barreiro,galpao,aluguel,27.7,24.4,28.0,10,,novembro/2026
+Belo Horizonte,Barro Preto,galpao,venda,5500.9,4445.9,7196.9,6,5.45,novembro/2026
+Belo Horizonte,Barro Preto,galpao,aluguel,25.0,19.0,37.8,5,5.45,novembro/2026
+Belo Horizonte,Betânia,galpao,aluguel,19.3,18.2,21.2,8,,novembro/2026
+Belo Horizonte,Bonfim,galpao,venda,2934.0,2648.3,4040.6,7,,novembro/2026
+Belo Horizonte,Cachoeirinha,galpao,venda,2204.4,1960.3,2289.9,6,,novembro/2026
+Belo Horizonte,Caiçaras,galpao,venda,2732.5,2370.8,3448.6,8,8.17,novembro/2026
+Belo Horizonte,Caiçaras,galpao,aluguel,18.6,16.5,22.1,8,8.17,novembro/2026
+Belo Horizonte,Carlos Prates,galpao,venda,2446.7,2062.2,2748.1,10,10.15,novembro/2026
+Belo Horizonte,Carlos Prates,galpao,aluguel,20.7,15.7,23.3,8,10.15,novembro/2026
+Belo Horizonte,Castelo,galpao,venda,6996.9,4866.7,7031.2,5,7.6,novembro/2026
+Belo Horizonte,Castelo,galpao,aluguel,44.3,30.6,54.6,6,7.6,novembro/2026
+Belo Horizonte,Céu Azul,galpao,venda,3671.3,3524.0,3860.6,11,,novembro/2026
+Belo Horizonte,Distrito Industrial do Jatobá,galpao,venda,1177.2,1170.2,3909.1,5,,novembro/2026
+Belo Horizonte,Gameleira,galpao,aluguel,18.8,16.4,21.4,5,,novembro/2026
+Belo Horizonte,Ipê,galpao,venda,2752.3,2329.9,2983.1,5,,novembro/2026
+Belo Horizonte,Itaipu,galpao,aluguel,42.8,16.7,50.0,5,,novembro/2026
+Belo Horizonte,Jardim Alvorada,galpao,venda,2919.7,2702.7,3611.1,5,,novembro/2026
+Belo Horizonte,Juliana,galpao,aluguel,17.8,14.4,22.0,7,,novembro/2026
+Belo Horizonte,Olhos Dágua,galpao,aluguel,18.8,7.3,31.4,5,,novembro/2026
+Belo Horizonte,Padre Eustáquio,galpao,aluguel,22.1,12.4,23.0,8,,novembro/2026
+Belo Horizonte,Palmeiras,galpao,venda,2599.2,2088.4,4065.6,6,,novembro/2026
+Belo Horizonte,Pampulha,galpao,venda,4751.8,4212.9,6480.7,7,,novembro/2026
+Belo Horizonte,Pilar,galpao,aluguel,19.4,17.3,20.9,5,,novembro/2026
+Belo Horizonte,Prado,galpao,venda,5000.0,4894.4,5011.1,5,,novembro/2026
+Belo Horizonte,Santa Branca,galpao,aluguel,29.4,23.5,35.5,8,,novembro/2026
+Belo Horizonte,Santa Cruz,galpao,venda,3472.2,2297.3,4333.3,5,,novembro/2026
+Belo Horizonte,Santa Efigênia,galpao,venda,5105.7,3545.1,7396.9,6,7.71,novembro/2026
+Belo Horizonte,Santa Efigênia,galpao,aluguel,32.8,24.5,36.9,8,7.71,novembro/2026
+Belo Horizonte,Santa Mônica,galpao,venda,3744.1,2992.6,4500.0,9,12.28,novembro/2026
+Belo Horizonte,Santa Mônica,galpao,aluguel,38.3,36.2,40.0,18,12.28,novembro/2026
+Belo Horizonte,São Francisco,galpao,venda,3859.1,2854.6,4332.8,12,7.46,novembro/2026
+Belo Horizonte,São Francisco,galpao,aluguel,24.0,17.8,26.9,10,7.46,novembro/2026
+Belo Horizonte,Tirol,galpao,aluguel,28.6,13.5,30.8,9,,novembro/2026
+Belo Horizonte,Universitário,galpao,aluguel,35.0,35.0,35.0,7,,novembro/2026
+Belo Horizonte,Venda Nova,galpao,venda,4916.7,3384.4,6131.1,8,10.08,novembro/2026
+Belo Horizonte,Venda Nova,galpao,aluguel,41.3,28.3,58.0,10,10.08,novembro/2026

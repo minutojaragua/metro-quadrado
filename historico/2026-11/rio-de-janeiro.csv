@@ -1,0 +1,645 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Rio de Janeiro,Abolição,apartamento,venda,3525.6,3000.0,4127.0,97,7.01,novembro/2026
+Rio de Janeiro,Abolição,apartamento,aluguel,20.6,19.4,21.8,9,7.01,novembro/2026
+Rio de Janeiro,Água Santa,apartamento,venda,3488.4,2566.7,4807.7,65,,novembro/2026
+Rio de Janeiro,Alto da Boa Vista,apartamento,venda,5555.6,4625.0,7142.9,69,,novembro/2026
+Rio de Janeiro,Anchieta,apartamento,venda,2657.5,2025.1,3313.4,51,,novembro/2026
+Rio de Janeiro,Andaraí,apartamento,venda,5465.8,4464.3,6734.7,265,6.83,novembro/2026
+Rio de Janeiro,Andaraí,apartamento,aluguel,31.1,29.3,36.6,20,6.83,novembro/2026
+Rio de Janeiro,Anil,apartamento,venda,5131.0,4114.3,6463.4,124,8.3,novembro/2026
+Rio de Janeiro,Anil,apartamento,aluguel,35.5,24.8,41.6,35,8.3,novembro/2026
+Rio de Janeiro,Bancários,apartamento,venda,4285.7,3621.8,4743.4,43,,novembro/2026
+Rio de Janeiro,Bangu,apartamento,venda,3000.0,2191.2,3971.3,71,8.36,novembro/2026
+Rio de Janeiro,Bangu,apartamento,aluguel,20.9,17.6,24.3,16,8.36,novembro/2026
+Rio de Janeiro,Barra da Tijuca,apartamento,venda,13112.3,9980.9,17051.5,1306,6.55,novembro/2026
+Rio de Janeiro,Barra da Tijuca,apartamento,aluguel,71.6,56.5,93.5,406,6.55,novembro/2026
+Rio de Janeiro,Barra Olímpica,apartamento,venda,9291.3,7879.7,10764.8,283,7.32,novembro/2026
+Rio de Janeiro,Barra Olímpica,apartamento,aluguel,56.7,46.9,69.6,73,7.32,novembro/2026
+Rio de Janeiro,Barrinha,apartamento,venda,11946.9,11764.7,14600.0,5,,novembro/2026
+Rio de Janeiro,Benfica,apartamento,venda,3977.0,3231.4,6033.4,64,7.94,novembro/2026
+Rio de Janeiro,Benfica,apartamento,aluguel,26.3,15.7,44.0,5,7.94,novembro/2026
+Rio de Janeiro,Bento Ribeiro,apartamento,venda,3250.0,2666.7,3950.2,62,7.13,novembro/2026
+Rio de Janeiro,Bento Ribeiro,apartamento,aluguel,19.3,16.7,22.9,16,7.13,novembro/2026
+Rio de Janeiro,Bonsucesso,apartamento,venda,4475.0,3538.5,5877.2,93,7.75,novembro/2026
+Rio de Janeiro,Bonsucesso,apartamento,aluguel,28.9,22.5,35.1,20,7.75,novembro/2026
+Rio de Janeiro,Botafogo,apartamento,venda,13571.4,10210.6,17124.1,907,6.4,novembro/2026
+Rio de Janeiro,Botafogo,apartamento,aluguel,72.4,59.3,86.9,64,6.4,novembro/2026
+Rio de Janeiro,Brás de Pina,apartamento,venda,2697.4,2109.0,3525.4,111,9.3,novembro/2026
+Rio de Janeiro,Brás de Pina,apartamento,aluguel,20.9,17.8,23.6,28,9.3,novembro/2026
+Rio de Janeiro,Cachambi,apartamento,venda,5000.0,3833.3,6683.5,261,6.58,novembro/2026
+Rio de Janeiro,Cachambi,apartamento,aluguel,27.4,20.3,39.7,33,6.58,novembro/2026
+Rio de Janeiro,Cacuia,apartamento,venda,4970.6,4224.1,5939.0,67,,novembro/2026
+Rio de Janeiro,Camorim,apartamento,venda,7413.1,5647.7,9059.6,126,8.21,novembro/2026
+Rio de Janeiro,Camorim,apartamento,aluguel,50.7,38.8,55.8,15,8.21,novembro/2026
+Rio de Janeiro,Campinho,apartamento,venda,3111.1,2649.1,3901.8,91,7.02,novembro/2026
+Rio de Janeiro,Campinho,apartamento,aluguel,18.2,14.0,24.5,20,7.02,novembro/2026
+Rio de Janeiro,Campo Grande,apartamento,venda,3665.1,2766.0,5333.3,341,5.99,novembro/2026
+Rio de Janeiro,Campo Grande,apartamento,aluguel,18.3,15.0,23.7,115,5.99,novembro/2026
+Rio de Janeiro,Cascadura,apartamento,venda,3313.0,2649.3,4138.2,112,6.34,novembro/2026
+Rio de Janeiro,Cascadura,apartamento,aluguel,17.5,14.5,23.2,27,6.34,novembro/2026
+Rio de Janeiro,Catete,apartamento,venda,10769.2,8655.3,13691.7,151,7.28,novembro/2026
+Rio de Janeiro,Catete,apartamento,aluguel,65.3,56.7,77.2,19,7.28,novembro/2026
+Rio de Janeiro,Catumbi,apartamento,venda,4339.6,3843.5,4797.8,31,,novembro/2026
+Rio de Janeiro,Cavalcanti,apartamento,venda,2331.5,1430.6,3316.3,54,,novembro/2026
+Rio de Janeiro,Centro,apartamento,venda,8703.7,6353.1,11222.5,359,8.34,novembro/2026
+Rio de Janeiro,Centro,apartamento,aluguel,60.5,40.7,82.9,83,8.34,novembro/2026
+Rio de Janeiro,Cidade de Deus,apartamento,venda,3281.2,1678.0,4184.8,15,,novembro/2026
+Rio de Janeiro,Cidade Jardim,apartamento,venda,10725.9,9964.3,11605.3,12,,novembro/2026
+Rio de Janeiro,Cidade Nova,apartamento,venda,6584.1,5288.9,8277.1,56,,novembro/2026
+Rio de Janeiro,Cocotá,apartamento,venda,4401.3,3863.4,5000.0,78,,novembro/2026
+Rio de Janeiro,Coelho Neto,apartamento,venda,2291.7,1695.1,3229.2,37,,novembro/2026
+Rio de Janeiro,Colégio,apartamento,venda,3398.0,2611.9,4230.8,45,,novembro/2026
+Rio de Janeiro,Copacabana,apartamento,venda,12114.4,9061.0,16666.7,1676,7.15,novembro/2026
+Rio de Janeiro,Copacabana,apartamento,aluguel,72.2,54.2,96.3,205,7.15,novembro/2026
+Rio de Janeiro,Cordovil,apartamento,venda,2978.7,2348.5,3563.7,59,7.33,novembro/2026
+Rio de Janeiro,Cordovil,apartamento,aluguel,18.2,17.2,21.0,7,7.33,novembro/2026
+Rio de Janeiro,Cosme Velho,apartamento,venda,9947.9,8683.3,11221.8,68,,novembro/2026
+Rio de Janeiro,Cosmos,apartamento,venda,2667.0,2238.0,3691.3,78,7.24,novembro/2026
+Rio de Janeiro,Cosmos,apartamento,aluguel,16.1,14.3,20.1,43,7.24,novembro/2026
+Rio de Janeiro,Curicica,apartamento,venda,5789.5,4375.0,7636.4,117,5.24,novembro/2026
+Rio de Janeiro,Curicica,apartamento,aluguel,25.3,21.0,30.2,34,5.24,novembro/2026
+Rio de Janeiro,Del Castilho,apartamento,venda,5643.9,3975.8,6851.0,111,7.08,novembro/2026
+Rio de Janeiro,Del Castilho,apartamento,aluguel,33.3,21.8,46.0,19,7.08,novembro/2026
+Rio de Janeiro,Encantado,apartamento,venda,3894.4,2955.7,5141.2,100,5.79,novembro/2026
+Rio de Janeiro,Encantado,apartamento,aluguel,18.8,15.3,21.2,7,5.79,novembro/2026
+Rio de Janeiro,Engenheiro Leal,apartamento,venda,2302.6,1992.0,2860.5,26,,novembro/2026
+Rio de Janeiro,Engenho da Rainha,apartamento,venda,3362.1,2530.0,4124.1,67,,novembro/2026
+Rio de Janeiro,Engenho de Dentro,apartamento,venda,3879.3,3269.2,5300.0,185,8.48,novembro/2026
+Rio de Janeiro,Engenho de Dentro,apartamento,aluguel,27.4,21.0,32.9,22,8.48,novembro/2026
+Rio de Janeiro,Engenho Novo,apartamento,venda,3463.1,2890.5,4306.4,230,7.94,novembro/2026
+Rio de Janeiro,Engenho Novo,apartamento,aluguel,22.9,19.4,33.7,35,7.94,novembro/2026
+Rio de Janeiro,Estácio,apartamento,venda,4931.8,4291.1,6200.2,107,7.3,novembro/2026
+Rio de Janeiro,Estácio,apartamento,aluguel,30.0,29.3,38.4,5,7.3,novembro/2026
+Rio de Janeiro,Flamengo,apartamento,venda,11817.9,9410.0,15476.7,688,6.09,novembro/2026
+Rio de Janeiro,Flamengo,apartamento,aluguel,60.0,47.1,79.7,55,6.09,novembro/2026
+Rio de Janeiro,Freguesia (Ilha do Governador),apartamento,venda,4545.5,3761.8,5394.8,139,8.03,novembro/2026
+Rio de Janeiro,Freguesia (Ilha do Governador),apartamento,aluguel,30.4,24.9,40.0,41,8.03,novembro/2026
+Rio de Janeiro,Freguesia (Jacarepaguá),apartamento,venda,5250.0,4302.3,6570.2,429,6.86,novembro/2026
+Rio de Janeiro,Freguesia (Jacarepaguá),apartamento,aluguel,30.0,24.5,36.8,51,6.86,novembro/2026
+Rio de Janeiro,Gamboa,apartamento,venda,6985.3,5442.3,8387.5,14,,novembro/2026
+Rio de Janeiro,Gardênia Azul,apartamento,venda,2997.1,2590.9,4352.2,22,,novembro/2026
+Rio de Janeiro,Gávea,apartamento,venda,16860.5,13473.1,21076.8,239,6.97,novembro/2026
+Rio de Janeiro,Gávea,apartamento,aluguel,97.9,77.8,136.0,9,6.97,novembro/2026
+Rio de Janeiro,Glória,apartamento,venda,12615.4,9384.5,18610.7,207,8.15,novembro/2026
+Rio de Janeiro,Glória,apartamento,aluguel,85.7,68.4,113.6,13,8.15,novembro/2026
+Rio de Janeiro,Grajaú,apartamento,venda,5322.2,4401.8,6511.3,379,7.26,novembro/2026
+Rio de Janeiro,Grajaú,apartamento,aluguel,32.2,25.0,38.7,25,7.26,novembro/2026
+Rio de Janeiro,Guadalupe,apartamento,venda,2398.1,1939.3,3580.2,74,,novembro/2026
+Rio de Janeiro,Guaratiba,apartamento,venda,3333.3,2523.6,4405.1,67,6.7,novembro/2026
+Rio de Janeiro,Guaratiba,apartamento,aluguel,18.6,15.1,20.8,44,6.7,novembro/2026
+Rio de Janeiro,Higienópolis,apartamento,venda,3687.5,3043.5,4491.8,81,,novembro/2026
+Rio de Janeiro,Honório Gurgel,apartamento,venda,2744.9,2048.1,3206.9,35,,novembro/2026
+Rio de Janeiro,Humaitá,apartamento,venda,13402.1,11327.2,16189.2,319,6.12,novembro/2026
+Rio de Janeiro,Humaitá,apartamento,aluguel,68.3,59.6,88.3,15,6.12,novembro/2026
+Rio de Janeiro,Ilha do Governador,apartamento,venda,4239.0,3795.0,4800.0,16,,novembro/2026
+Rio de Janeiro,Inhaúma,apartamento,venda,3809.5,3099.9,5257.6,91,,novembro/2026
+Rio de Janeiro,Inhoaíba,apartamento,venda,2680.4,1900.3,3700.0,77,7.83,novembro/2026
+Rio de Janeiro,Inhoaíba,apartamento,aluguel,17.5,15.8,20.5,8,7.83,novembro/2026
+Rio de Janeiro,Ipanema,apartamento,venda,19642.9,16000.0,23053.0,489,6.38,novembro/2026
+Rio de Janeiro,Ipanema,apartamento,aluguel,104.5,86.0,128.2,70,6.38,novembro/2026
+Rio de Janeiro,Irajá,apartamento,venda,3914.9,3027.8,5216.6,190,7.23,novembro/2026
+Rio de Janeiro,Irajá,apartamento,aluguel,23.6,20.0,32.9,69,7.23,novembro/2026
+Rio de Janeiro,Itanhangá,apartamento,venda,4444.4,3522.4,5560.7,47,7.72,novembro/2026
+Rio de Janeiro,Itanhangá,apartamento,aluguel,28.6,25.8,29.1,5,7.72,novembro/2026
+Rio de Janeiro,Jacaré,apartamento,venda,2725.0,1900.2,3644.6,24,,novembro/2026
+Rio de Janeiro,Jacarepaguá,apartamento,venda,8198.4,6054.4,10624.4,304,7.67,novembro/2026
+Rio de Janeiro,Jacarepaguá,apartamento,aluguel,52.4,40.3,63.1,126,7.67,novembro/2026
+Rio de Janeiro,Jardim América,apartamento,venda,2840.9,2387.9,3533.3,83,9.04,novembro/2026
+Rio de Janeiro,Jardim América,apartamento,aluguel,21.4,15.3,21.7,5,9.04,novembro/2026
+Rio de Janeiro,Jardim Botânico,apartamento,venda,16129.0,13809.3,18441.3,267,6.0,novembro/2026
+Rio de Janeiro,Jardim Botânico,apartamento,aluguel,80.6,66.7,100.0,19,6.0,novembro/2026
+Rio de Janeiro,Jardim Carioca,apartamento,venda,5163.5,4281.0,6330.2,76,,novembro/2026
+Rio de Janeiro,Jardim Guanabara,apartamento,venda,6666.7,5351.2,8215.9,328,5.76,novembro/2026
+Rio de Janeiro,Jardim Guanabara,apartamento,aluguel,32.0,27.6,46.4,20,5.76,novembro/2026
+Rio de Janeiro,Jardim Oceânico,apartamento,venda,12080.5,9756.1,14864.9,261,5.84,novembro/2026
+Rio de Janeiro,Jardim Oceânico,apartamento,aluguel,58.8,49.4,77.3,18,5.84,novembro/2026
+Rio de Janeiro,Jardim Sulacap,apartamento,venda,4180.3,3864.9,4719.6,47,,novembro/2026
+Rio de Janeiro,Joá,apartamento,venda,13071.9,10384.6,14094.9,18,,novembro/2026
+Rio de Janeiro,Lagoa,apartamento,venda,16648.4,13639.3,20000.0,466,5.76,novembro/2026
+Rio de Janeiro,Lagoa,apartamento,aluguel,79.9,64.8,97.1,34,5.76,novembro/2026
+Rio de Janeiro,Lapa,apartamento,venda,8337.1,6901.9,10877.2,68,11.05,novembro/2026
+Rio de Janeiro,Lapa,apartamento,aluguel,76.8,58.4,93.1,8,11.05,novembro/2026
+Rio de Janeiro,Laranjeiras,apartamento,venda,11576.5,9215.6,14078.9,402,5.26,novembro/2026
+Rio de Janeiro,Laranjeiras,apartamento,aluguel,50.7,38.2,63.8,28,5.26,novembro/2026
+Rio de Janeiro,Leblon,apartamento,venda,21157.7,18434.3,23672.2,288,6.19,novembro/2026
+Rio de Janeiro,Leblon,apartamento,aluguel,109.1,97.0,127.4,59,6.19,novembro/2026
+Rio de Janeiro,Leme,apartamento,venda,13100.3,11145.6,16797.9,230,5.71,novembro/2026
+Rio de Janeiro,Leme,apartamento,aluguel,62.3,54.6,71.8,11,5.71,novembro/2026
+Rio de Janeiro,Lins de Vasconcelos,apartamento,venda,3422.9,2719.0,4015.6,140,6.63,novembro/2026
+Rio de Janeiro,Lins de Vasconcelos,apartamento,aluguel,18.9,16.7,23.6,5,6.63,novembro/2026
+Rio de Janeiro,Madureira,apartamento,venda,3108.1,2391.3,4150.0,141,7.72,novembro/2026
+Rio de Janeiro,Madureira,apartamento,aluguel,20.0,14.9,25.8,15,7.72,novembro/2026
+Rio de Janeiro,Magalhães Bastos,apartamento,venda,3253.2,3128.0,3921.4,8,,novembro/2026
+Rio de Janeiro,Manguinhos,apartamento,venda,3147.7,2876.2,5881.0,10,,novembro/2026
+Rio de Janeiro,Maracanã,apartamento,venda,5970.1,4615.4,7391.3,305,7.74,novembro/2026
+Rio de Janeiro,Maracanã,apartamento,aluguel,38.5,30.0,43.8,21,7.74,novembro/2026
+Rio de Janeiro,Marechal Hermes,apartamento,venda,3771.3,3061.1,4629.5,60,5.47,novembro/2026
+Rio de Janeiro,Marechal Hermes,apartamento,aluguel,17.2,14.2,20.0,5,5.47,novembro/2026
+Rio de Janeiro,Maria da Graça,apartamento,venda,3636.4,3200.0,4418.6,49,,novembro/2026
+Rio de Janeiro,Méier,apartamento,venda,4904.8,3854.2,6513.2,465,5.9,novembro/2026
+Rio de Janeiro,Méier,apartamento,aluguel,24.1,19.3,30.1,51,5.9,novembro/2026
+Rio de Janeiro,Moneró,apartamento,venda,5108.0,4575.6,5800.0,76,7.45,novembro/2026
+Rio de Janeiro,Moneró,apartamento,aluguel,31.7,24.8,39.0,6,7.45,novembro/2026
+Rio de Janeiro,Olaria,apartamento,venda,3947.4,3140.9,4686.3,135,7.02,novembro/2026
+Rio de Janeiro,Olaria,apartamento,aluguel,23.1,17.6,27.5,27,7.02,novembro/2026
+Rio de Janeiro,Oswaldo Cruz,apartamento,venda,3285.7,2787.7,3822.6,71,6.32,novembro/2026
+Rio de Janeiro,Oswaldo Cruz,apartamento,aluguel,17.3,15.8,22.5,8,6.32,novembro/2026
+Rio de Janeiro,Paciência,apartamento,venda,2076.2,1604.0,2968.8,84,7.17,novembro/2026
+Rio de Janeiro,Paciência,apartamento,aluguel,12.4,11.7,13.2,6,7.17,novembro/2026
+Rio de Janeiro,Padre Miguel,apartamento,venda,2886.0,2065.3,3619.1,68,,novembro/2026
+Rio de Janeiro,Paquetá,apartamento,venda,7247.1,5380.4,7819.7,12,,novembro/2026
+Rio de Janeiro,Parada de Lucas,apartamento,venda,3380.3,2500.0,4016.1,73,8.27,novembro/2026
+Rio de Janeiro,Parada de Lucas,apartamento,aluguel,23.3,18.3,25.6,8,8.27,novembro/2026
+Rio de Janeiro,Parque Anchieta,apartamento,venda,3633.3,2266.7,4185.2,14,,novembro/2026
+Rio de Janeiro,Parque Colúmbia,apartamento,venda,2457.1,2318.6,2889.4,17,,novembro/2026
+Rio de Janeiro,Pavuna,apartamento,venda,2314.0,1850.8,3073.2,79,,novembro/2026
+Rio de Janeiro,Pechincha,apartamento,venda,4448.3,3787.9,5390.1,237,7.36,novembro/2026
+Rio de Janeiro,Pechincha,apartamento,aluguel,27.3,22.2,31.9,66,7.36,novembro/2026
+Rio de Janeiro,Pedra de Guaratiba,apartamento,venda,3312.5,3085.0,4034.1,16,,novembro/2026
+Rio de Janeiro,Penha,apartamento,venda,3714.3,2843.8,5000.0,141,5.88,novembro/2026
+Rio de Janeiro,Penha,apartamento,aluguel,18.2,16.0,24.2,25,5.88,novembro/2026
+Rio de Janeiro,Penha Circular,apartamento,venda,3198.4,2611.5,3994.2,114,6.94,novembro/2026
+Rio de Janeiro,Penha Circular,apartamento,aluguel,18.5,17.4,23.9,16,6.94,novembro/2026
+Rio de Janeiro,Piedade,apartamento,venda,3458.0,2847.5,4753.2,126,7.95,novembro/2026
+Rio de Janeiro,Piedade,apartamento,aluguel,22.9,20.7,28.4,24,7.95,novembro/2026
+Rio de Janeiro,Pilares,apartamento,venda,3750.0,3144.1,5388.1,67,7.36,novembro/2026
+Rio de Janeiro,Pilares,apartamento,aluguel,23.0,18.1,27.3,16,7.36,novembro/2026
+Rio de Janeiro,Pitangueiras,apartamento,venda,4858.9,4324.7,5136.3,27,,novembro/2026
+Rio de Janeiro,Portuguesa,apartamento,venda,5238.1,4625.7,6111.1,85,,novembro/2026
+Rio de Janeiro,Praça da Bandeira,apartamento,venda,5769.2,4359.0,7800.0,189,,novembro/2026
+Rio de Janeiro,Praça Seca,apartamento,venda,2903.2,2307.7,3630.1,173,6.7,novembro/2026
+Rio de Janeiro,Praça Seca,apartamento,aluguel,16.2,13.5,19.4,17,6.7,novembro/2026
+Rio de Janeiro,Praia da Bandeira,apartamento,venda,5128.2,4423.1,6018.5,69,,novembro/2026
+Rio de Janeiro,Quintino Bocaiúva,apartamento,venda,3225.8,2727.3,4000.0,93,7.96,novembro/2026
+Rio de Janeiro,Quintino Bocaiúva,apartamento,aluguel,21.4,17.7,23.7,6,7.96,novembro/2026
+Rio de Janeiro,Ramos,apartamento,venda,3750.0,3186.8,4606.7,109,6.85,novembro/2026
+Rio de Janeiro,Ramos,apartamento,aluguel,21.4,19.0,22.4,9,6.85,novembro/2026
+Rio de Janeiro,Realengo,apartamento,venda,3355.9,2740.3,3820.5,73,7.01,novembro/2026
+Rio de Janeiro,Realengo,apartamento,aluguel,19.6,18.5,21.8,14,7.01,novembro/2026
+Rio de Janeiro,Recreio dos Bandeirantes,apartamento,venda,7168.5,5648.7,9052.6,1173,6.95,novembro/2026
+Rio de Janeiro,Recreio dos Bandeirantes,apartamento,aluguel,41.5,32.0,53.5,321,6.95,novembro/2026
+Rio de Janeiro,Riachuelo,apartamento,venda,3712.0,3031.2,4788.4,116,,novembro/2026
+Rio de Janeiro,Ribeira,apartamento,venda,5555.6,4711.5,7042.3,101,,novembro/2026
+Rio de Janeiro,Rio 2,apartamento,venda,9564.1,9057.5,9800.2,6,,novembro/2026
+Rio de Janeiro,Rio Comprido,apartamento,venda,5166.5,4079.7,6801.0,268,7.15,novembro/2026
+Rio de Janeiro,Rio Comprido,apartamento,aluguel,30.8,25.2,44.3,18,7.15,novembro/2026
+Rio de Janeiro,Rocha,apartamento,venda,3656.5,2795.1,4753.7,120,,novembro/2026
+Rio de Janeiro,Rocha Miranda,apartamento,venda,3120.2,2476.1,3921.4,78,,novembro/2026
+Rio de Janeiro,Sampaio,apartamento,venda,3510.0,2817.7,4428.6,90,,novembro/2026
+Rio de Janeiro,Santa Cruz,apartamento,venda,2616.2,2054.0,3429.8,94,8.12,novembro/2026
+Rio de Janeiro,Santa Cruz,apartamento,aluguel,17.7,13.8,22.2,36,8.12,novembro/2026
+Rio de Janeiro,Santa Teresa,apartamento,venda,6586.8,5196.8,8934.8,156,8.93,novembro/2026
+Rio de Janeiro,Santa Teresa,apartamento,aluguel,49.0,26.0,57.1,13,8.93,novembro/2026
+Rio de Janeiro,Santíssimo,apartamento,venda,2812.5,1835.2,3465.1,69,,novembro/2026
+Rio de Janeiro,Santo Cristo,apartamento,venda,10273.1,9018.9,12269.9,126,8.28,novembro/2026
+Rio de Janeiro,Santo Cristo,apartamento,aluguel,70.9,65.6,88.4,6,8.28,novembro/2026
+Rio de Janeiro,São Conrado,apartamento,venda,11775.3,9662.6,15056.5,106,,novembro/2026
+Rio de Janeiro,São Cristóvão,apartamento,venda,6899.0,5000.0,8960.5,202,8.87,novembro/2026
+Rio de Janeiro,São Cristóvão,apartamento,aluguel,51.0,41.0,67.9,33,8.87,novembro/2026
+Rio de Janeiro,São Francisco Xavier,apartamento,venda,4285.7,3263.9,5776.3,125,,novembro/2026
+Rio de Janeiro,Saúde,apartamento,venda,11580.6,7035.2,12360.8,67,,novembro/2026
+Rio de Janeiro,Senador Camará,apartamento,venda,2083.3,1620.6,2660.9,31,,novembro/2026
+Rio de Janeiro,Senador Vasconcelos,apartamento,venda,2788.5,2187.5,2980.0,17,,novembro/2026
+Rio de Janeiro,Tanque,apartamento,venda,3991.1,3125.0,4882.8,90,6.89,novembro/2026
+Rio de Janeiro,Tanque,apartamento,aluguel,22.9,16.2,25.3,9,6.89,novembro/2026
+Rio de Janeiro,Taquara,apartamento,venda,4670.5,3798.3,5539.1,252,7.14,novembro/2026
+Rio de Janeiro,Taquara,apartamento,aluguel,27.8,22.2,33.8,75,7.14,novembro/2026
+Rio de Janeiro,Tauá,apartamento,venda,4453.1,3823.1,5287.9,91,7.87,novembro/2026
+Rio de Janeiro,Tauá,apartamento,aluguel,29.2,19.4,30.6,7,7.87,novembro/2026
+Rio de Janeiro,Tijuca,apartamento,venda,6805.6,5154.8,9400.0,1249,7.05,novembro/2026
+Rio de Janeiro,Tijuca,apartamento,aluguel,40.0,33.0,48.9,86,7.05,novembro/2026
+Rio de Janeiro,Todos Os Santos,apartamento,venda,4750.1,3848.7,6046.5,189,10.16,novembro/2026
+Rio de Janeiro,Todos Os Santos,apartamento,aluguel,40.2,29.1,43.5,14,10.16,novembro/2026
+Rio de Janeiro,Tomás Coelho,apartamento,venda,2909.1,2295.3,3541.7,77,6.76,novembro/2026
+Rio de Janeiro,Tomás Coelho,apartamento,aluguel,16.4,13.6,20.3,7,6.76,novembro/2026
+Rio de Janeiro,Triagem,apartamento,venda,7291.2,6102.2,7982.4,8,,novembro/2026
+Rio de Janeiro,Turiaçu,apartamento,venda,2186.3,1484.4,2765.6,56,,novembro/2026
+Rio de Janeiro,Urca,apartamento,venda,15992.2,12516.6,19884.1,123,6.0,novembro/2026
+Rio de Janeiro,Urca,apartamento,aluguel,80.0,77.0,80.0,5,6.0,novembro/2026
+Rio de Janeiro,Vargem Grande,apartamento,venda,5333.3,4446.1,6541.9,59,8.55,novembro/2026
+Rio de Janeiro,Vargem Grande,apartamento,aluguel,38.0,31.9,41.5,28,8.55,novembro/2026
+Rio de Janeiro,Vargem Pequena,apartamento,venda,5327.9,4840.4,6201.9,59,9.14,novembro/2026
+Rio de Janeiro,Vargem Pequena,apartamento,aluguel,40.6,28.9,51.4,42,9.14,novembro/2026
+Rio de Janeiro,Vasco da Gama,apartamento,venda,5714.3,5106.4,6803.2,11,,novembro/2026
+Rio de Janeiro,Vaz Lobo,apartamento,venda,2909.1,2151.9,3790.3,93,,novembro/2026
+Rio de Janeiro,Vicente de Carvalho,apartamento,venda,4729.2,3289.3,6288.3,110,5.28,novembro/2026
+Rio de Janeiro,Vicente de Carvalho,apartamento,aluguel,20.8,16.2,32.0,7,5.28,novembro/2026
+Rio de Janeiro,Vidigal,apartamento,venda,7431.3,5500.0,9565.2,36,,novembro/2026
+Rio de Janeiro,Vigário Geral,apartamento,venda,3101.0,2000.0,4106.0,42,,novembro/2026
+Rio de Janeiro,Vila da Penha,apartamento,venda,4333.3,3461.5,5462.2,257,6.34,novembro/2026
+Rio de Janeiro,Vila da Penha,apartamento,aluguel,22.9,19.6,25.2,31,6.34,novembro/2026
+Rio de Janeiro,Vila Isabel,apartamento,venda,5079.4,3906.2,6666.7,509,6.69,novembro/2026
+Rio de Janeiro,Vila Isabel,apartamento,aluguel,28.3,24.1,35.4,30,6.69,novembro/2026
+Rio de Janeiro,Vila Kosmos,apartamento,venda,3478.3,2960.4,4340.6,75,,novembro/2026
+Rio de Janeiro,Vila Valqueire,apartamento,venda,4838.7,4076.4,5673.9,128,6.2,novembro/2026
+Rio de Janeiro,Vila Valqueire,apartamento,aluguel,25.0,19.6,29.9,20,6.2,novembro/2026
+Rio de Janeiro,Vista Alegre,apartamento,venda,4345.8,3454.7,5443.4,134,8.28,novembro/2026
+Rio de Janeiro,Vista Alegre,apartamento,aluguel,30.0,22.1,36.6,7,8.28,novembro/2026
+Rio de Janeiro,Zumbi,apartamento,venda,6133.3,5286.3,7487.4,31,,novembro/2026
+Rio de Janeiro,Abolição,casa,venda,3412.5,2166.7,4285.7,61,,novembro/2026
+Rio de Janeiro,Água Santa,casa,venda,3117.7,2280.8,4672.3,20,,novembro/2026
+Rio de Janeiro,Alto da Boa Vista,casa,venda,4904.2,3385.6,6734.2,78,,novembro/2026
+Rio de Janeiro,Anchieta,casa,venda,1852.1,1583.1,2366.0,26,,novembro/2026
+Rio de Janeiro,Andaraí,casa,venda,4113.9,2959.2,5564.2,119,9.98,novembro/2026
+Rio de Janeiro,Andaraí,casa,aluguel,34.2,30.1,43.7,5,9.98,novembro/2026
+Rio de Janeiro,Anil,casa,venda,3800.0,2846.3,5033.6,205,7.14,novembro/2026
+Rio de Janeiro,Anil,casa,aluguel,22.6,20.3,31.7,7,7.14,novembro/2026
+Rio de Janeiro,Araújo de Cosmos,casa,venda,2758.5,1962.6,3822.9,6,,novembro/2026
+Rio de Janeiro,Armação dos Búzios,casa,venda,9579.2,7791.7,11287.7,6,,novembro/2026
+Rio de Janeiro,Bancários,casa,venda,3293.4,2431.8,4236.8,43,,novembro/2026
+Rio de Janeiro,Bangu,casa,venda,2500.0,1707.3,3800.0,129,7.68,novembro/2026
+Rio de Janeiro,Bangu,casa,aluguel,16.0,14.1,17.1,7,7.68,novembro/2026
+Rio de Janeiro,Barra da Tijuca,casa,venda,10000.0,7657.1,12471.7,527,5.69,novembro/2026
+Rio de Janeiro,Barra da Tijuca,casa,aluguel,47.4,37.9,61.5,56,5.69,novembro/2026
+Rio de Janeiro,Barra de Guaratiba,casa,venda,2500.0,1931.8,3925.9,27,,novembro/2026
+Rio de Janeiro,Barra Olímpica,casa,venda,9000.6,7550.3,10896.9,34,,novembro/2026
+Rio de Janeiro,Benfica,casa,venda,3403.8,2629.0,4000.0,34,,novembro/2026
+Rio de Janeiro,Bento Ribeiro,casa,venda,3285.7,2357.1,4186.0,113,7.89,novembro/2026
+Rio de Janeiro,Bento Ribeiro,casa,aluguel,21.6,16.7,24.3,8,7.89,novembro/2026
+Rio de Janeiro,Bonsucesso,casa,venda,3628.4,2635.2,4770.4,52,,novembro/2026
+Rio de Janeiro,Botafogo,casa,venda,8928.6,7029.4,11098.0,195,5.38,novembro/2026
+Rio de Janeiro,Botafogo,casa,aluguel,40.0,34.6,73.3,5,5.38,novembro/2026
+Rio de Janeiro,Brás de Pina,casa,venda,2719.9,1816.7,3967.5,122,5.38,novembro/2026
+Rio de Janeiro,Brás de Pina,casa,aluguel,12.2,9.2,16.0,8,5.38,novembro/2026
+Rio de Janeiro,Cachambi,casa,venda,3686.3,2884.4,4611.1,153,,novembro/2026
+Rio de Janeiro,Cacuia,casa,venda,3209.7,2323.5,4760.6,26,,novembro/2026
+Rio de Janeiro,Camorim,casa,venda,4187.5,2783.2,5569.1,34,,novembro/2026
+Rio de Janeiro,Campinho,casa,venda,2743.6,2228.0,3458.6,88,9.32,novembro/2026
+Rio de Janeiro,Campinho,casa,aluguel,21.3,19.7,24.8,8,9.32,novembro/2026
+Rio de Janeiro,Campo Grande,casa,venda,2777.8,1934.1,4079.1,890,7.52,novembro/2026
+Rio de Janeiro,Campo Grande,casa,aluguel,17.4,14.0,21.9,42,7.52,novembro/2026
+Rio de Janeiro,Cascadura,casa,venda,2830.2,2297.1,3592.9,59,8.14,novembro/2026
+Rio de Janeiro,Cascadura,casa,aluguel,19.2,18.8,20.0,5,8.14,novembro/2026
+Rio de Janeiro,Catete,casa,venda,6967.7,6067.9,8666.7,41,,novembro/2026
+Rio de Janeiro,Catumbi,casa,venda,3387.5,2759.7,4705.9,14,,novembro/2026
+Rio de Janeiro,Cavalcanti,casa,venda,2357.1,1916.7,3617.0,33,,novembro/2026
+Rio de Janeiro,Centro,casa,venda,4791.7,3151.5,8326.2,43,,novembro/2026
+Rio de Janeiro,Cidade de Deus,casa,venda,3112.3,2071.3,4548.7,16,,novembro/2026
+Rio de Janeiro,Cidade Nova,casa,venda,4445.1,4021.6,6177.5,16,,novembro/2026
+Rio de Janeiro,Cocotá,casa,venda,3481.0,2475.7,4379.6,35,,novembro/2026
+Rio de Janeiro,Coelho Neto,casa,venda,2105.6,1416.3,3696.4,16,,novembro/2026
+Rio de Janeiro,Colégio,casa,venda,3067.6,2375.9,4206.5,22,,novembro/2026
+Rio de Janeiro,Copacabana,casa,venda,10234.2,7341.7,12222.2,32,,novembro/2026
+Rio de Janeiro,Cordovil,casa,venda,1714.3,1333.3,2750.0,45,,novembro/2026
+Rio de Janeiro,Cosme Velho,casa,venda,6140.4,4928.6,7599.1,47,,novembro/2026
+Rio de Janeiro,Cosmos,casa,venda,2041.7,1428.6,3286.6,65,5.88,novembro/2026
+Rio de Janeiro,Cosmos,casa,aluguel,10.0,7.7,16.6,7,5.88,novembro/2026
+Rio de Janeiro,Curicica,casa,venda,3552.5,2743.4,4400.7,120,6.72,novembro/2026
+Rio de Janeiro,Curicica,casa,aluguel,19.9,17.2,22.5,12,6.72,novembro/2026
+Rio de Janeiro,Del Castilho,casa,venda,3413.8,2904.1,4603.5,51,,novembro/2026
+Rio de Janeiro,Encantado,casa,venda,3095.8,1958.9,3994.1,76,6.09,novembro/2026
+Rio de Janeiro,Encantado,casa,aluguel,15.7,12.0,19.0,7,6.09,novembro/2026
+Rio de Janeiro,Engenheiro Leal,casa,venda,2400.0,2128.9,3054.9,15,,novembro/2026
+Rio de Janeiro,Engenho da Rainha,casa,venda,2941.2,2000.0,4081.6,17,,novembro/2026
+Rio de Janeiro,Engenho de Dentro,casa,venda,3140.3,2287.9,4254.8,146,9.55,novembro/2026
+Rio de Janeiro,Engenho de Dentro,casa,aluguel,25.0,21.2,35.4,9,9.55,novembro/2026
+Rio de Janeiro,Engenho Novo,casa,venda,2912.6,2100.0,4258.6,153,8.78,novembro/2026
+Rio de Janeiro,Engenho Novo,casa,aluguel,21.3,18.3,27.0,5,8.78,novembro/2026
+Rio de Janeiro,Estácio,casa,venda,2590.7,1880.0,4062.5,25,,novembro/2026
+Rio de Janeiro,Flamengo,casa,venda,11531.1,8098.9,12012.3,28,,novembro/2026
+Rio de Janeiro,Freguesia (Ilha do Governador),casa,venda,3718.8,2925.9,4760.0,101,8.81,novembro/2026
+Rio de Janeiro,Freguesia (Ilha do Governador),casa,aluguel,27.3,21.1,29.2,10,8.81,novembro/2026
+Rio de Janeiro,Freguesia (Jacarepaguá),casa,venda,4018.2,2854.7,5335.3,354,7.62,novembro/2026
+Rio de Janeiro,Freguesia (Jacarepaguá),casa,aluguel,25.5,17.9,31.6,10,7.62,novembro/2026
+Rio de Janeiro,Gamboa,casa,venda,3966.3,3076.2,4771.4,8,,novembro/2026
+Rio de Janeiro,Gardênia Azul,casa,venda,3319.5,2949.1,4628.2,7,,novembro/2026
+Rio de Janeiro,Gávea,casa,venda,8705.9,6407.1,11828.1,67,,novembro/2026
+Rio de Janeiro,Glória,casa,venda,7048.4,5102.4,8705.6,30,,novembro/2026
+Rio de Janeiro,Grajaú,casa,venda,4070.8,3194.9,5607.7,197,,novembro/2026
+Rio de Janeiro,Guadalupe,casa,venda,1707.1,1401.5,2741.0,58,,novembro/2026
+Rio de Janeiro,Guaratiba,casa,venda,3333.3,2294.5,4686.3,195,7.2,novembro/2026
+Rio de Janeiro,Guaratiba,casa,aluguel,20.0,17.5,38.7,7,7.2,novembro/2026
+Rio de Janeiro,Higienópolis,casa,venda,3833.3,2864.4,5572.2,67,,novembro/2026
+Rio de Janeiro,Honório Gurgel,casa,venda,2333.3,1827.0,3125.0,23,,novembro/2026
+Rio de Janeiro,Humaitá,casa,venda,10535.4,8444.8,11833.0,64,,novembro/2026
+Rio de Janeiro,Inhaúma,casa,venda,3222.2,2300.0,4445.6,44,,novembro/2026
+Rio de Janeiro,Inhoaíba,casa,venda,2166.7,1425.0,3316.2,71,,novembro/2026
+Rio de Janeiro,Irajá,casa,venda,3802.7,2552.1,4743.5,172,8.55,novembro/2026
+Rio de Janeiro,Irajá,casa,aluguel,27.1,20.3,29.3,9,8.55,novembro/2026
+Rio de Janeiro,Itanhangá,casa,venda,5898.9,3293.2,9115.6,131,8.2,novembro/2026
+Rio de Janeiro,Itanhangá,casa,aluguel,40.3,30.4,50.4,12,8.2,novembro/2026
+Rio de Janeiro,Jacaré,casa,venda,2727.3,2166.7,3546.2,25,,novembro/2026
+Rio de Janeiro,Jacarepaguá,casa,venda,3918.8,2598.7,5720.9,184,9.62,novembro/2026
+Rio de Janeiro,Jacarepaguá,casa,aluguel,31.4,25.0,32.0,5,9.62,novembro/2026
+Rio de Janeiro,Jardim América,casa,venda,2715.3,1974.9,3734.9,90,,novembro/2026
+Rio de Janeiro,Jardim Botânico,casa,venda,10746.4,9228.7,13040.3,72,9.68,novembro/2026
+Rio de Janeiro,Jardim Botânico,casa,aluguel,86.7,52.7,92.8,6,9.68,novembro/2026
+Rio de Janeiro,Jardim Carioca,casa,venda,3264.5,2125.5,4566.7,91,,novembro/2026
+Rio de Janeiro,Jardim Guanabara,casa,venda,4798.9,3600.0,6315.8,245,,novembro/2026
+Rio de Janeiro,Jardim Sulacap,casa,venda,3750.0,2800.0,4758.9,101,,novembro/2026
+Rio de Janeiro,Joá,casa,venda,8568.3,6516.7,11510.6,59,,novembro/2026
+Rio de Janeiro,Lagoa,casa,venda,11299.4,9036.0,12941.9,19,,novembro/2026
+Rio de Janeiro,Laranjeiras,casa,venda,7864.6,5315.5,9081.8,104,,novembro/2026
+Rio de Janeiro,Lins de Vasconcelos,casa,venda,3450.0,2500.0,4839.7,103,,novembro/2026
+Rio de Janeiro,Madureira,casa,venda,2952.1,2257.5,3596.3,100,,novembro/2026
+Rio de Janeiro,Magalhães Bastos,casa,venda,2173.6,1658.6,2938.9,36,,novembro/2026
+Rio de Janeiro,Maracanã,casa,venda,5183.9,3680.0,6846.2,113,,novembro/2026
+Rio de Janeiro,Marechal Hermes,casa,venda,3369.6,2277.8,4534.9,93,,novembro/2026
+Rio de Janeiro,Maria da Graça,casa,venda,3317.8,2307.7,4714.3,33,,novembro/2026
+Rio de Janeiro,Maricá,casa,venda,2049.3,1588.5,3938.3,6,,novembro/2026
+Rio de Janeiro,Méier,casa,venda,3771.6,2756.5,4983.3,260,,novembro/2026
+Rio de Janeiro,Moneró,casa,venda,4230.8,3237.8,4972.2,47,,novembro/2026
+Rio de Janeiro,Olaria,casa,venda,3400.0,2615.4,4915.3,109,8.19,novembro/2026
+Rio de Janeiro,Olaria,casa,aluguel,23.2,21.3,27.7,7,8.19,novembro/2026
+Rio de Janeiro,Oswaldo Cruz,casa,venda,2793.0,2004.5,3864.3,90,,novembro/2026
+Rio de Janeiro,Paciência,casa,venda,1986.3,1354.2,2500.0,55,,novembro/2026
+Rio de Janeiro,Padre Miguel,casa,venda,2378.0,1804.7,3115.6,40,,novembro/2026
+Rio de Janeiro,Paquetá,casa,venda,4824.9,4008.4,6965.3,10,,novembro/2026
+Rio de Janeiro,Parada de Lucas,casa,venda,3114.8,2133.3,4018.7,37,,novembro/2026
+Rio de Janeiro,Parque Anchieta,casa,venda,2244.5,1562.3,3323.7,24,,novembro/2026
+Rio de Janeiro,Pavuna,casa,venda,2048.6,1628.8,3340.3,43,,novembro/2026
+Rio de Janeiro,Pechincha,casa,venda,3689.9,2687.0,4933.4,270,6.89,novembro/2026
+Rio de Janeiro,Pechincha,casa,aluguel,21.2,15.5,25.0,9,6.89,novembro/2026
+Rio de Janeiro,Pedra de Guaratiba,casa,venda,3207.9,2108.3,4375.0,86,,novembro/2026
+Rio de Janeiro,Penha,casa,venda,3128.0,2192.7,4469.5,98,8.63,novembro/2026
+Rio de Janeiro,Penha,casa,aluguel,22.5,16.7,25.0,5,8.63,novembro/2026
+Rio de Janeiro,Penha Circular,casa,venda,2400.0,1884.4,3376.6,68,,novembro/2026
+Rio de Janeiro,Petrópolis,casa,venda,5307.7,4299.5,8000.0,25,,novembro/2026
+Rio de Janeiro,Piedade,casa,venda,2633.9,1925.9,3488.2,141,8.11,novembro/2026
+Rio de Janeiro,Piedade,casa,aluguel,17.8,15.5,22.7,8,8.11,novembro/2026
+Rio de Janeiro,Pilares,casa,venda,2750.0,2083.3,3800.0,65,,novembro/2026
+Rio de Janeiro,Pitangueiras,casa,venda,4263.6,2959.4,5481.1,39,,novembro/2026
+Rio de Janeiro,Portuguesa,casa,venda,4219.7,3321.1,5997.1,126,,novembro/2026
+Rio de Janeiro,Praça da Bandeira,casa,venda,4550.0,2969.4,6184.0,52,,novembro/2026
+Rio de Janeiro,Praça Seca,casa,venda,2500.0,1850.0,3322.9,122,,novembro/2026
+Rio de Janeiro,Praia da Bandeira,casa,venda,4985.1,4372.9,5607.6,26,,novembro/2026
+Rio de Janeiro,Quintino Bocaiúva,casa,venda,2500.0,1840.0,3600.0,125,,novembro/2026
+Rio de Janeiro,Ramos,casa,venda,3235.3,2250.0,4363.6,61,,novembro/2026
+Rio de Janeiro,Realengo,casa,venda,2424.2,1795.8,3100.4,120,,novembro/2026
+Rio de Janeiro,Recreio dos Bandeirantes,casa,venda,7636.4,6004.8,9823.0,471,7.45,novembro/2026
+Rio de Janeiro,Recreio dos Bandeirantes,casa,aluguel,47.4,36.8,58.8,78,7.45,novembro/2026
+Rio de Janeiro,Riachuelo,casa,venda,3243.1,2483.9,4170.8,80,,novembro/2026
+Rio de Janeiro,Ribeira,casa,venda,4812.9,3922.6,6819.9,20,,novembro/2026
+Rio de Janeiro,Ricardo de Albuquerque,casa,venda,2297.2,1919.5,3541.7,22,,novembro/2026
+Rio de Janeiro,Rio Comprido,casa,venda,3644.9,2500.0,5278.7,82,,novembro/2026
+Rio de Janeiro,Rocha,casa,venda,2765.2,1863.9,4250.0,63,,novembro/2026
+Rio de Janeiro,Rocha Miranda,casa,venda,2153.3,1594.6,3177.5,51,,novembro/2026
+Rio de Janeiro,Sampaio,casa,venda,2328.2,1857.8,3215.4,44,,novembro/2026
+Rio de Janeiro,Santa Cruz,casa,venda,2254.0,1531.6,2887.5,58,,novembro/2026
+Rio de Janeiro,Santa Teresa,casa,venda,5608.2,3661.2,7892.6,134,,novembro/2026
+Rio de Janeiro,Santíssimo,casa,venda,2325.2,1700.5,3409.2,64,,novembro/2026
+Rio de Janeiro,Santo Cristo,casa,venda,4148.7,3490.2,6357.7,8,,novembro/2026
+Rio de Janeiro,São Conrado,casa,venda,8536.8,6976.3,11208.0,60,,novembro/2026
+Rio de Janeiro,São Cristóvão,casa,venda,3668.8,2522.1,5528.4,82,,novembro/2026
+Rio de Janeiro,São Francisco Xavier,casa,venda,3409.1,2623.6,4506.9,39,,novembro/2026
+Rio de Janeiro,Saquarema,casa,venda,3105.6,2396.8,4113.8,26,,novembro/2026
+Rio de Janeiro,Saúde,casa,venda,5714.3,4250.0,9605.8,13,,novembro/2026
+Rio de Janeiro,Senador Camará,casa,venda,1852.9,1548.0,2603.5,30,,novembro/2026
+Rio de Janeiro,Senador Vasconcelos,casa,venda,2277.8,1562.5,3066.7,53,,novembro/2026
+Rio de Janeiro,Sepetiba,casa,venda,1416.7,1219.4,2002.8,14,,novembro/2026
+Rio de Janeiro,Tanque,casa,venda,3076.9,1986.3,3901.1,131,,novembro/2026
+Rio de Janeiro,Taquara,casa,venda,3309.9,2308.3,4442.8,358,8.19,novembro/2026
+Rio de Janeiro,Taquara,casa,aluguel,22.6,18.3,27.1,18,8.19,novembro/2026
+Rio de Janeiro,Tauá,casa,venda,3473.7,2417.6,4771.9,75,,novembro/2026
+Rio de Janeiro,Tijuca,casa,venda,4995.0,3621.9,7051.9,406,8.0,novembro/2026
+Rio de Janeiro,Tijuca,casa,aluguel,33.3,28.3,37.8,10,8.0,novembro/2026
+Rio de Janeiro,Todos Os Santos,casa,venda,3461.7,2800.0,4711.2,100,,novembro/2026
+Rio de Janeiro,Tomás Coelho,casa,venda,2386.4,1911.1,3395.5,24,,novembro/2026
+Rio de Janeiro,Turiaçu,casa,venda,2677.1,1327.7,3857.1,16,,novembro/2026
+Rio de Janeiro,Urca,casa,venda,10912.3,8016.6,12519.4,54,,novembro/2026
+Rio de Janeiro,Vargem Grande,casa,venda,4310.7,2906.1,6057.7,134,7.24,novembro/2026
+Rio de Janeiro,Vargem Grande,casa,aluguel,26.0,17.2,35.5,13,7.24,novembro/2026
+Rio de Janeiro,Vargem Pequena,casa,venda,5000.0,3590.9,6812.5,209,7.94,novembro/2026
+Rio de Janeiro,Vargem Pequena,casa,aluguel,33.1,21.3,38.7,16,7.94,novembro/2026
+Rio de Janeiro,Vasco da Gama,casa,venda,3767.3,2848.6,5529.8,16,,novembro/2026
+Rio de Janeiro,Vaz Lobo,casa,venda,2300.0,1719.8,3024.9,72,,novembro/2026
+Rio de Janeiro,Vicente de Carvalho,casa,venda,2750.0,2100.0,4000.0,45,,novembro/2026
+Rio de Janeiro,Vidigal,casa,venda,7071.4,3912.7,9850.0,16,,novembro/2026
+Rio de Janeiro,Vigário Geral,casa,venda,2325.6,1513.8,2958.3,39,,novembro/2026
+Rio de Janeiro,Vila da Penha,casa,venda,3893.7,2861.6,4812.9,170,,novembro/2026
+Rio de Janeiro,Vila Isabel,casa,venda,4219.2,3160.0,5460.0,232,,novembro/2026
+Rio de Janeiro,Vila Kosmos,casa,venda,2714.9,1933.3,4411.8,73,,novembro/2026
+Rio de Janeiro,Vila Valqueire,casa,venda,3720.9,2880.8,4891.3,101,,novembro/2026
+Rio de Janeiro,Vista Alegre,casa,venda,4073.3,2971.4,5294.9,123,,novembro/2026
+Rio de Janeiro,Zumbi,casa,venda,5337.5,4364.7,7068.5,12,,novembro/2026
+Rio de Janeiro,Abolição,terreno,venda,1284.4,966.4,1333.3,5,,novembro/2026
+Rio de Janeiro,Alto da Boa Vista,terreno,venda,534.8,447.4,718.8,13,,novembro/2026
+Rio de Janeiro,Andaraí,terreno,venda,2698.8,2129.4,3363.8,8,,novembro/2026
+Rio de Janeiro,Anil,terreno,venda,518.5,282.4,1003.9,43,,novembro/2026
+Rio de Janeiro,Armação dos Búzios,terreno,venda,645.8,481.2,1422.0,6,,novembro/2026
+Rio de Janeiro,Bangu,terreno,venda,1207.7,672.6,1332.0,10,,novembro/2026
+Rio de Janeiro,Barra da Tijuca,terreno,venda,2606.1,1832.5,3334.2,42,,novembro/2026
+Rio de Janeiro,Barra de Guaratiba,terreno,venda,482.5,252.3,1113.9,6,,novembro/2026
+Rio de Janeiro,Barra Olímpica,terreno,venda,1428.6,632.9,2000.0,5,,novembro/2026
+Rio de Janeiro,Bonsucesso,terreno,venda,1875.0,1487.4,2139.9,7,,novembro/2026
+Rio de Janeiro,Botafogo,terreno,venda,1661.1,740.7,2000.0,9,,novembro/2026
+Rio de Janeiro,Brás de Pina,terreno,venda,875.0,546.1,1216.7,11,,novembro/2026
+Rio de Janeiro,Cachambi,terreno,venda,1910.9,1253.7,2519.8,14,,novembro/2026
+Rio de Janeiro,Cacuia,terreno,venda,1020.0,777.1,1629.1,8,,novembro/2026
+Rio de Janeiro,Camorim,terreno,venda,763.0,391.3,1250.0,17,,novembro/2026
+Rio de Janeiro,Campo Grande,terreno,venda,769.3,505.6,1158.1,286,,novembro/2026
+Rio de Janeiro,Cascadura,terreno,venda,1375.0,655.9,1632.3,11,,novembro/2026
+Rio de Janeiro,Centro,terreno,venda,2583.6,2165.0,2864.9,7,,novembro/2026
+Rio de Janeiro,Cosme Velho,terreno,venda,890.7,810.1,1388.6,6,,novembro/2026
+Rio de Janeiro,Cosmos,terreno,venda,286.3,250.0,523.8,9,,novembro/2026
+Rio de Janeiro,Curicica,terreno,venda,1139.5,836.0,1521.6,20,,novembro/2026
+Rio de Janeiro,Engenho de Dentro,terreno,venda,1256.1,728.0,1722.1,38,,novembro/2026
+Rio de Janeiro,Engenho Novo,terreno,venda,1097.3,915.1,1143.7,5,,novembro/2026
+Rio de Janeiro,Freguesia (Ilha do Governador),terreno,venda,1012.6,851.4,1152.5,6,,novembro/2026
+Rio de Janeiro,Freguesia (Jacarepaguá),terreno,venda,863.1,558.0,1418.0,76,,novembro/2026
+Rio de Janeiro,Gávea,terreno,venda,1434.0,797.7,3110.0,10,,novembro/2026
+Rio de Janeiro,Grajaú,terreno,venda,505.5,434.9,2378.5,7,,novembro/2026
+Rio de Janeiro,Guaratiba,terreno,venda,472.6,233.3,699.1,102,,novembro/2026
+Rio de Janeiro,Humaitá,terreno,venda,1922.1,1740.3,2147.5,5,,novembro/2026
+Rio de Janeiro,Inhoaíba,terreno,venda,529.1,300.8,625.0,11,,novembro/2026
+Rio de Janeiro,Irajá,terreno,venda,1112.4,846.2,1683.0,13,,novembro/2026
+Rio de Janeiro,Itanhangá,terreno,venda,1125.0,482.9,1732.1,49,,novembro/2026
+Rio de Janeiro,Jacaré,terreno,venda,3223.1,3144.4,3382.7,9,,novembro/2026
+Rio de Janeiro,Jacarepaguá,terreno,venda,762.9,484.4,1209.5,64,,novembro/2026
+Rio de Janeiro,Jardim Carioca,terreno,venda,949.2,476.5,1091.8,7,,novembro/2026
+Rio de Janeiro,Jardim Guanabara,terreno,venda,1652.8,1510.0,2238.7,21,,novembro/2026
+Rio de Janeiro,Jardim Sulacap,terreno,venda,707.4,559.3,942.1,20,,novembro/2026
+Rio de Janeiro,Joá,terreno,venda,2151.8,1331.6,2727.3,13,,novembro/2026
+Rio de Janeiro,Laranjeiras,terreno,venda,989.6,833.3,1131.4,9,,novembro/2026
+Rio de Janeiro,Lins de Vasconcelos,terreno,venda,1036.4,1027.0,1218.8,9,,novembro/2026
+Rio de Janeiro,Maracanã,terreno,venda,3138.6,2843.0,3490.8,14,,novembro/2026
+Rio de Janeiro,Méier,terreno,venda,1590.9,1076.4,2215.6,27,,novembro/2026
+Rio de Janeiro,Oswaldo Cruz,terreno,venda,1076.9,901.1,1434.7,11,,novembro/2026
+Rio de Janeiro,Paciência,terreno,venda,331.1,127.6,392.4,8,,novembro/2026
+Rio de Janeiro,Pechincha,terreno,venda,1167.0,685.4,1632.7,69,,novembro/2026
+Rio de Janeiro,Pedra de Guaratiba,terreno,venda,361.1,281.4,466.0,9,,novembro/2026
+Rio de Janeiro,Penha Circular,terreno,venda,992.4,892.9,1026.9,5,,novembro/2026
+Rio de Janeiro,Piedade,terreno,venda,1111.1,852.0,1384.4,7,,novembro/2026
+Rio de Janeiro,Praça da Bandeira,terreno,venda,2535.3,2225.8,2958.6,6,,novembro/2026
+Rio de Janeiro,Praça Seca,terreno,venda,869.2,439.5,1201.7,18,,novembro/2026
+Rio de Janeiro,Praia da Bandeira,terreno,venda,1333.3,711.1,1651.2,5,,novembro/2026
+Rio de Janeiro,Quintino Bocaiúva,terreno,venda,980.4,655.6,1202.8,11,,novembro/2026
+Rio de Janeiro,Realengo,terreno,venda,1400.0,932.4,2166.7,5,,novembro/2026
+Rio de Janeiro,Recreio dos Bandeirantes,terreno,venda,2666.7,1925.9,3272.2,149,,novembro/2026
+Rio de Janeiro,Riachuelo,terreno,venda,1113.1,930.6,1259.2,10,,novembro/2026
+Rio de Janeiro,Rio Comprido,terreno,venda,601.5,580.0,665.0,5,,novembro/2026
+Rio de Janeiro,Santa Cruz,terreno,venda,291.1,162.4,410.3,40,,novembro/2026
+Rio de Janeiro,Santa Teresa,terreno,venda,990.1,727.3,1149.4,25,,novembro/2026
+Rio de Janeiro,Santíssimo,terreno,venda,449.9,330.6,595.7,16,,novembro/2026
+Rio de Janeiro,São Conrado,terreno,venda,1300.0,934.3,1788.9,19,,novembro/2026
+Rio de Janeiro,São Cristóvão,terreno,venda,1893.0,1302.9,2335.6,30,,novembro/2026
+Rio de Janeiro,Saquarema,terreno,venda,355.6,256.3,441.7,18,,novembro/2026
+Rio de Janeiro,Tanque,terreno,venda,886.1,458.5,1204.4,26,,novembro/2026
+Rio de Janeiro,Taquara,terreno,venda,1166.7,766.0,1629.8,71,,novembro/2026
+Rio de Janeiro,Tauá,terreno,venda,1104.2,835.1,1287.1,8,,novembro/2026
+Rio de Janeiro,Tijuca,terreno,venda,2390.8,1448.2,3103.2,19,,novembro/2026
+Rio de Janeiro,Todos Os Santos,terreno,venda,2534.1,2077.2,3024.7,8,,novembro/2026
+Rio de Janeiro,Vargem Grande,terreno,venda,777.8,450.0,1100.0,101,,novembro/2026
+Rio de Janeiro,Vargem Pequena,terreno,venda,1132.1,782.5,1677.4,104,,novembro/2026
+Rio de Janeiro,Vila da Penha,terreno,venda,1518.1,1261.9,2167.1,8,,novembro/2026
+Rio de Janeiro,Vila Isabel,terreno,venda,2103.6,1811.1,2308.5,10,,novembro/2026
+Rio de Janeiro,Vila Valqueire,terreno,venda,1023.7,570.4,1618.1,26,,novembro/2026
+Rio de Janeiro,Andaraí,sala,venda,4838.7,3619.0,6682.5,23,,novembro/2026
+Rio de Janeiro,Bangu,sala,venda,6426.5,4065.3,8036.8,6,5.71,novembro/2026
+Rio de Janeiro,Bangu,sala,aluguel,30.6,16.6,43.4,12,5.71,novembro/2026
+Rio de Janeiro,Barra da Tijuca,sala,venda,8181.8,6166.7,10943.4,197,7.83,novembro/2026
+Rio de Janeiro,Barra da Tijuca,sala,aluguel,53.4,36.7,65.0,106,7.83,novembro/2026
+Rio de Janeiro,Barra Olímpica,sala,venda,7269.2,6167.0,8939.9,51,7.54,novembro/2026
+Rio de Janeiro,Barra Olímpica,sala,aluguel,45.7,41.8,53.2,13,7.54,novembro/2026
+Rio de Janeiro,Benfica,sala,venda,3678.9,2532.6,4922.6,16,5.12,novembro/2026
+Rio de Janeiro,Benfica,sala,aluguel,15.7,12.3,43.6,8,5.12,novembro/2026
+Rio de Janeiro,Bento Ribeiro,sala,venda,4400.0,3055.6,5166.7,7,,novembro/2026
+Rio de Janeiro,Bonsucesso,sala,venda,2727.3,2583.3,3269.2,21,12.45,novembro/2026
+Rio de Janeiro,Bonsucesso,sala,aluguel,28.3,24.2,33.3,7,12.45,novembro/2026
+Rio de Janeiro,Botafogo,sala,venda,12287.6,9309.5,15482.1,90,7.92,novembro/2026
+Rio de Janeiro,Botafogo,sala,aluguel,81.1,65.0,90.0,13,7.92,novembro/2026
+Rio de Janeiro,Cachambi,sala,venda,5344.8,4481.2,7240.4,14,,novembro/2026
+Rio de Janeiro,Cacuia,sala,venda,4386.5,3814.3,5677.8,22,8.75,novembro/2026
+Rio de Janeiro,Cacuia,sala,aluguel,32.0,22.4,34.4,9,8.75,novembro/2026
+Rio de Janeiro,Camorim,sala,venda,6000.0,5755.1,6800.0,8,,novembro/2026
+Rio de Janeiro,Campo Grande,sala,venda,5900.1,5054.3,7262.2,38,8.89,novembro/2026
+Rio de Janeiro,Campo Grande,sala,aluguel,43.7,32.0,54.4,48,8.89,novembro/2026
+Rio de Janeiro,Cascadura,sala,venda,3899.0,3270.3,4279.9,6,5.82,novembro/2026
+Rio de Janeiro,Cascadura,sala,aluguel,18.9,9.7,21.4,7,5.82,novembro/2026
+Rio de Janeiro,Catete,sala,venda,10833.3,9049.3,13030.6,51,,novembro/2026
+Rio de Janeiro,Centro,sala,venda,4166.7,2696.3,6496.2,434,6.11,novembro/2026
+Rio de Janeiro,Centro,sala,aluguel,21.2,14.1,33.1,226,6.11,novembro/2026
+Rio de Janeiro,Cocotá,sala,venda,4566.4,3798.0,4888.4,8,,novembro/2026
+Rio de Janeiro,Copacabana,sala,venda,9629.6,7607.9,12125.0,198,5.69,novembro/2026
+Rio de Janeiro,Copacabana,sala,aluguel,45.7,40.8,89.5,19,5.69,novembro/2026
+Rio de Janeiro,Curicica,sala,venda,5000.0,5000.0,8923.1,5,,novembro/2026
+Rio de Janeiro,Del Castilho,sala,venda,6000.0,4559.7,7403.8,19,10.3,novembro/2026
+Rio de Janeiro,Del Castilho,sala,aluguel,51.5,50.0,60.6,5,10.3,novembro/2026
+Rio de Janeiro,Engenho de Dentro,sala,venda,4972.5,3583.3,6326.9,26,,novembro/2026
+Rio de Janeiro,Engenho Novo,sala,venda,2845.1,1717.9,5269.5,14,,novembro/2026
+Rio de Janeiro,Estácio,sala,venda,4333.3,3441.0,5548.0,15,5.54,novembro/2026
+Rio de Janeiro,Estácio,sala,aluguel,20.0,16.2,21.9,6,5.54,novembro/2026
+Rio de Janeiro,Flamengo,sala,venda,10634.9,8000.0,12600.0,57,9.85,novembro/2026
+Rio de Janeiro,Flamengo,sala,aluguel,87.3,83.8,104.6,5,9.85,novembro/2026
+Rio de Janeiro,Freguesia (Ilha do Governador),sala,venda,3888.9,3620.7,4566.7,9,,novembro/2026
+Rio de Janeiro,Freguesia (Jacarepaguá),sala,venda,4756.0,3679.2,6294.6,66,9.08,novembro/2026
+Rio de Janeiro,Freguesia (Jacarepaguá),sala,aluguel,36.0,27.7,44.9,28,9.08,novembro/2026
+Rio de Janeiro,Gávea,sala,venda,11275.0,9091.6,18824.1,16,,novembro/2026
+Rio de Janeiro,Glória,sala,venda,6960.0,4053.9,9238.4,11,,novembro/2026
+Rio de Janeiro,Grajaú,sala,venda,7983.1,5657.5,8806.8,6,7.08,novembro/2026
+Rio de Janeiro,Grajaú,sala,aluguel,47.1,45.0,50.0,5,7.08,novembro/2026
+Rio de Janeiro,Guadalupe,sala,aluguel,23.3,22.8,24.0,5,,novembro/2026
+Rio de Janeiro,Humaitá,sala,venda,14535.7,10622.5,17227.4,12,,novembro/2026
+Rio de Janeiro,Ipanema,sala,venda,17857.1,14309.5,21428.6,67,,novembro/2026
+Rio de Janeiro,Irajá,sala,venda,4035.7,3449.7,4739.5,6,,novembro/2026
+Rio de Janeiro,Jacaré,sala,venda,3500.0,3083.3,3846.4,6,,novembro/2026
+Rio de Janeiro,Jacarepaguá,sala,venda,7348.5,4990.4,9722.2,56,,novembro/2026
+Rio de Janeiro,Jardim Botânico,sala,venda,16761.9,14687.5,18822.1,30,,novembro/2026
+Rio de Janeiro,Jardim Carioca,sala,venda,3750.0,3333.3,4958.3,13,,novembro/2026
+Rio de Janeiro,Jardim Guanabara,sala,venda,5113.6,3999.0,6545.1,20,10.28,novembro/2026
+Rio de Janeiro,Jardim Guanabara,sala,aluguel,43.8,40.0,62.5,5,10.28,novembro/2026
+Rio de Janeiro,Jardim Oceânico,sala,venda,9193.5,7482.1,10823.5,15,6.53,novembro/2026
+Rio de Janeiro,Jardim Oceânico,sala,aluguel,50.0,40.5,58.8,9,6.53,novembro/2026
+Rio de Janeiro,Lagoa,sala,venda,22598.4,21758.6,23781.3,8,,novembro/2026
+Rio de Janeiro,Laranjeiras,sala,venda,12142.9,7058.8,14444.4,5,,novembro/2026
+Rio de Janeiro,Leblon,sala,venda,21111.1,18421.1,23076.9,17,,novembro/2026
+Rio de Janeiro,Leme,sala,venda,20000.0,7931.0,22500.0,9,,novembro/2026
+Rio de Janeiro,Lins de Vasconcelos,sala,venda,3411.2,2611.8,4582.4,6,,novembro/2026
+Rio de Janeiro,Madureira,sala,venda,3148.1,1969.0,4988.6,31,12.69,novembro/2026
+Rio de Janeiro,Madureira,sala,aluguel,33.3,15.9,41.7,13,12.69,novembro/2026
+Rio de Janeiro,Maracanã,sala,venda,5376.0,4746.2,7002.2,12,,novembro/2026
+Rio de Janeiro,Méier,sala,venda,5000.0,3281.2,6250.0,85,8.02,novembro/2026
+Rio de Janeiro,Méier,sala,aluguel,33.4,25.2,46.7,16,8.02,novembro/2026
+Rio de Janeiro,Pechincha,sala,venda,4461.9,3818.7,5540.9,38,7.77,novembro/2026
+Rio de Janeiro,Pechincha,sala,aluguel,28.9,25.0,38.0,10,7.77,novembro/2026
+Rio de Janeiro,Penha,sala,venda,3679.5,2055.9,5142.4,16,,novembro/2026
+Rio de Janeiro,Penha Circular,sala,venda,2500.0,1900.0,3913.0,13,13.06,novembro/2026
+Rio de Janeiro,Penha Circular,sala,aluguel,27.2,16.7,48.9,6,13.06,novembro/2026
+Rio de Janeiro,Pilares,sala,venda,4375.0,3425.7,6639.5,23,,novembro/2026
+Rio de Janeiro,Portuguesa,sala,venda,6551.7,5303.3,8500.0,11,10.11,novembro/2026
+Rio de Janeiro,Portuguesa,sala,aluguel,55.2,29.9,78.3,6,10.11,novembro/2026
+Rio de Janeiro,Praça da Bandeira,sala,venda,4444.4,2968.8,6089.7,17,,novembro/2026
+Rio de Janeiro,Recreio dos Bandeirantes,sala,venda,6666.7,4969.6,8405.2,124,7.72,novembro/2026
+Rio de Janeiro,Recreio dos Bandeirantes,sala,aluguel,42.9,34.5,53.5,35,7.72,novembro/2026
+Rio de Janeiro,Rio Comprido,sala,venda,3212.5,2887.4,6001.2,10,,novembro/2026
+Rio de Janeiro,Santa Teresa,sala,venda,4430.4,4012.3,6158.2,5,,novembro/2026
+Rio de Janeiro,Santo Cristo,sala,venda,5966.9,4444.4,11423.6,8,,novembro/2026
+Rio de Janeiro,São Conrado,sala,venda,9781.7,7817.2,11953.1,12,,novembro/2026
+Rio de Janeiro,São Cristóvão,sala,venda,5141.5,2808.1,7197.5,44,,novembro/2026
+Rio de Janeiro,Tanque,sala,venda,4500.0,3108.6,5978.7,23,8.27,novembro/2026
+Rio de Janeiro,Tanque,sala,aluguel,31.0,26.2,33.3,9,8.27,novembro/2026
+Rio de Janeiro,Taquara,sala,venda,5454.5,3644.8,7479.2,35,8.43,novembro/2026
+Rio de Janeiro,Taquara,sala,aluguel,38.3,28.7,45.9,10,8.43,novembro/2026
+Rio de Janeiro,Tauá,sala,venda,3481.1,3338.7,4481.2,8,,novembro/2026
+Rio de Janeiro,Tijuca,sala,venda,7037.0,5367.3,9916.7,171,7.11,novembro/2026
+Rio de Janeiro,Tijuca,sala,aluguel,41.7,30.2,66.7,45,7.11,novembro/2026
+Rio de Janeiro,Todos Os Santos,sala,venda,6458.3,5048.1,8437.5,14,,novembro/2026
+Rio de Janeiro,Vigário Geral,sala,aluguel,45.0,44.4,51.4,5,,novembro/2026
+Rio de Janeiro,Vila da Penha,sala,venda,4800.0,2000.0,7500.0,9,,novembro/2026
+Rio de Janeiro,Vila Isabel,sala,venda,5192.3,3516.5,6981.1,63,5.41,novembro/2026
+Rio de Janeiro,Vila Isabel,sala,aluguel,23.4,21.7,25.8,6,5.41,novembro/2026
+Rio de Janeiro,Vila Valqueire,sala,venda,5689.3,5327.7,6559.4,10,,novembro/2026
+Rio de Janeiro,Anil,galpao,venda,3098.9,2832.8,4425.0,6,,novembro/2026
+Rio de Janeiro,Bangu,galpao,venda,1543.8,1478.7,2264.9,7,14.38,novembro/2026
+Rio de Janeiro,Bangu,galpao,aluguel,18.5,10.0,21.4,5,14.38,novembro/2026
+Rio de Janeiro,Benfica,galpao,venda,1639.1,1238.1,2448.1,14,12.08,novembro/2026
+Rio de Janeiro,Benfica,galpao,aluguel,16.5,12.0,19.9,18,12.08,novembro/2026
+Rio de Janeiro,Bonsucesso,galpao,venda,3113.2,1408.5,3264.2,9,7.55,novembro/2026
+Rio de Janeiro,Bonsucesso,galpao,aluguel,19.6,15.3,22.6,11,7.55,novembro/2026
+Rio de Janeiro,Brás de Pina,galpao,venda,1875.0,1084.5,2386.4,11,,novembro/2026
+Rio de Janeiro,Cachambi,galpao,venda,2992.3,2275.1,4576.1,7,,novembro/2026
+Rio de Janeiro,Camorim,galpao,venda,3333.3,1320.1,3721.6,6,,novembro/2026
+Rio de Janeiro,Campo Grande,galpao,venda,2333.3,1534.4,3511.6,36,9.26,novembro/2026
+Rio de Janeiro,Campo Grande,galpao,aluguel,18.0,15.5,22.6,29,9.26,novembro/2026
+Rio de Janeiro,Centro,galpao,venda,2585.7,1865.5,3559.1,10,,novembro/2026
+Rio de Janeiro,Cordovil,galpao,venda,1696.8,1177.8,1718.8,5,28.29,novembro/2026
+Rio de Janeiro,Cordovil,galpao,aluguel,40.0,37.6,40.0,9,28.29,novembro/2026
+Rio de Janeiro,Curicica,galpao,aluguel,24.9,19.5,30.8,7,,novembro/2026
+Rio de Janeiro,Del Castilho,galpao,venda,3804.4,2650.7,4539.1,6,,novembro/2026
+Rio de Janeiro,Engenho de Dentro,galpao,venda,2377.3,1749.4,3375.0,18,7.77,novembro/2026
+Rio de Janeiro,Engenho de Dentro,galpao,aluguel,15.4,11.5,21.2,6,7.77,novembro/2026
+Rio de Janeiro,Gamboa,galpao,venda,2466.9,1979.8,2883.3,8,,novembro/2026
+Rio de Janeiro,Guaratiba,galpao,venda,1428.6,1250.0,2500.0,13,19.66,novembro/2026
+Rio de Janeiro,Guaratiba,galpao,aluguel,23.4,17.2,27.4,16,19.66,novembro/2026
+Rio de Janeiro,Inhaúma,galpao,venda,1250.9,997.1,1709.1,6,,novembro/2026
+Rio de Janeiro,Irajá,galpao,venda,2000.0,1750.0,2360.7,7,,novembro/2026
+Rio de Janeiro,Jacaré,galpao,venda,1923.1,1095.2,1940.0,5,,novembro/2026
+Rio de Janeiro,Jacarepaguá,galpao,aluguel,34.7,27.9,36.9,6,,novembro/2026
+Rio de Janeiro,Jardim América,galpao,venda,1882.4,1388.9,2261.9,13,,novembro/2026
+Rio de Janeiro,Madureira,galpao,venda,2105.3,1825.7,3152.9,9,,novembro/2026
+Rio de Janeiro,Maria da Graça,galpao,venda,1485.2,1218.2,1945.4,8,,novembro/2026
+Rio de Janeiro,Méier,galpao,venda,1805.6,1726.9,1875.0,5,,novembro/2026
+Rio de Janeiro,Olaria,galpao,venda,1320.4,1031.7,2333.3,17,18.72,novembro/2026
+Rio de Janeiro,Olaria,galpao,aluguel,20.6,16.9,21.1,7,18.72,novembro/2026
+Rio de Janeiro,Parada de Lucas,galpao,venda,1168.0,1020.8,2223.6,6,,novembro/2026
+Rio de Janeiro,Pavuna,galpao,aluguel,28.7,24.0,30.0,14,,novembro/2026
+Rio de Janeiro,Penha,galpao,venda,1936.3,1642.0,2358.3,12,9.92,novembro/2026
+Rio de Janeiro,Penha,galpao,aluguel,16.0,13.9,16.3,5,9.92,novembro/2026
+Rio de Janeiro,Penha Circular,galpao,venda,1620.9,1265.8,1956.7,10,,novembro/2026
+Rio de Janeiro,Piedade,galpao,venda,4090.9,1250.0,4210.5,5,,novembro/2026
+Rio de Janeiro,Pilares,galpao,venda,2125.8,1615.5,4164.3,6,,novembro/2026
+Rio de Janeiro,Praça da Bandeira,galpao,venda,2866.7,2100.0,5415.6,7,,novembro/2026
+Rio de Janeiro,Quintino Bocaiúva,galpao,venda,1134.9,666.9,1654.9,6,,novembro/2026
+Rio de Janeiro,Ramos,galpao,venda,1787.1,1391.7,2610.8,22,9.67,novembro/2026
+Rio de Janeiro,Ramos,galpao,aluguel,14.4,12.5,18.9,6,9.67,novembro/2026
+Rio de Janeiro,Realengo,galpao,venda,2810.1,2082.9,2986.9,6,5.68,novembro/2026
+Rio de Janeiro,Realengo,galpao,aluguel,13.3,12.3,16.3,5,5.68,novembro/2026
+Rio de Janeiro,Riachuelo,galpao,venda,1004.4,909.1,2290.1,5,,novembro/2026
+Rio de Janeiro,Rio Comprido,galpao,venda,2062.6,1403.1,6151.7,8,,novembro/2026
+Rio de Janeiro,Rocha,galpao,venda,1158.2,1056.6,1623.6,14,,novembro/2026
+Rio de Janeiro,Rocha Miranda,galpao,venda,1193.2,1115.0,2000.0,9,,novembro/2026
+Rio de Janeiro,Santa Cruz,galpao,venda,585.1,493.3,950.0,5,44.92,novembro/2026
+Rio de Janeiro,Santa Cruz,galpao,aluguel,21.9,9.9,27.3,10,44.92,novembro/2026
+Rio de Janeiro,Santo Cristo,galpao,venda,2857.1,2416.3,3465.5,7,,novembro/2026
+Rio de Janeiro,São Cristóvão,galpao,venda,3125.3,2265.2,4145.5,46,7.37,novembro/2026
+Rio de Janeiro,São Cristóvão,galpao,aluguel,19.2,13.7,24.2,22,7.37,novembro/2026
+Rio de Janeiro,Taquara,galpao,venda,1771.4,1519.9,2129.4,12,17.14,novembro/2026
+Rio de Janeiro,Taquara,galpao,aluguel,25.3,22.0,26.6,10,17.14,novembro/2026
+Rio de Janeiro,Todos Os Santos,galpao,venda,2907.7,2645.6,3028.3,7,,novembro/2026
+Rio de Janeiro,Vargem Grande,galpao,aluguel,30.6,20.7,36.5,6,,novembro/2026
+Rio de Janeiro,Vargem Pequena,galpao,venda,2375.0,1333.3,4086.7,9,12.23,novembro/2026
+Rio de Janeiro,Vargem Pequena,galpao,aluguel,24.2,19.9,27.1,8,12.23,novembro/2026
+Rio de Janeiro,Vigário Geral,galpao,venda,1074.0,955.5,1324.2,8,,novembro/2026
+Rio de Janeiro,Vila da Penha,galpao,venda,2007.2,1854.5,2658.7,8,,novembro/2026
+Rio de Janeiro,Vila Isabel,galpao,venda,3032.1,2143.7,4147.2,6,,novembro/2026
+Rio de Janeiro,Vila Valqueire,galpao,venda,2296.2,2150.0,5306.1,6,,novembro/2026

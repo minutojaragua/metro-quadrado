@@ -1,0 +1,110 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Novo Hamburgo,Boa Saúde,casa,venda,3517.3,2605.8,4396.1,48,,novembro/2026
+Novo Hamburgo,Boa Vista,casa,venda,4387.8,3306.9,6108.4,95,6.84,novembro/2026
+Novo Hamburgo,Boa Vista,casa,aluguel,25.0,16.1,27.5,9,6.84,novembro/2026
+Novo Hamburgo,Canudos,casa,venda,3832.9,2568.7,5265.3,179,7.11,novembro/2026
+Novo Hamburgo,Canudos,casa,aluguel,22.7,17.8,27.1,9,7.11,novembro/2026
+Novo Hamburgo,Centro,casa,venda,5215.3,3359.0,7031.2,41,7.66,novembro/2026
+Novo Hamburgo,Centro,casa,aluguel,33.3,25.5,39.1,11,7.66,novembro/2026
+Novo Hamburgo,Guarani,casa,venda,3770.5,2514.8,4993.3,88,9.26,novembro/2026
+Novo Hamburgo,Guarani,casa,aluguel,29.1,24.5,33.1,8,9.26,novembro/2026
+Novo Hamburgo,Hamburgo Velho,casa,venda,4356.0,3349.8,5983.5,85,4.66,novembro/2026
+Novo Hamburgo,Hamburgo Velho,casa,aluguel,16.9,16.1,29.1,5,4.66,novembro/2026
+Novo Hamburgo,Ideal,casa,venda,3680.0,2871.9,4889.5,170,8.45,novembro/2026
+Novo Hamburgo,Ideal,casa,aluguel,25.9,22.3,28.6,8,8.45,novembro/2026
+Novo Hamburgo,Industrial,casa,venda,4571.5,3026.7,6450.1,14,,novembro/2026
+Novo Hamburgo,Jardim Mauá,casa,venda,4931.0,3835.4,6819.3,114,5.86,novembro/2026
+Novo Hamburgo,Jardim Mauá,casa,aluguel,24.1,21.9,27.9,5,5.86,novembro/2026
+Novo Hamburgo,Liberdade,casa,venda,2714.9,2150.0,3499.5,41,,novembro/2026
+Novo Hamburgo,Lomba Grande,casa,venda,5312.5,4383.3,6036.4,43,,novembro/2026
+Novo Hamburgo,Mauá,casa,venda,5201.5,4090.5,6233.6,12,,novembro/2026
+Novo Hamburgo,Operário,casa,venda,4810.8,3394.5,6047.5,59,,novembro/2026
+Novo Hamburgo,Ouro Branco,casa,venda,3741.0,2837.6,4658.3,62,,novembro/2026
+Novo Hamburgo,Pátria Nova,casa,venda,5752.2,4688.6,6763.3,21,,novembro/2026
+Novo Hamburgo,Petrópolis,casa,venda,4473.7,3501.9,5375.0,81,,novembro/2026
+Novo Hamburgo,Primavera,casa,venda,3585.5,2573.3,4813.9,91,,novembro/2026
+Novo Hamburgo,Rincão,casa,venda,3878.8,3067.3,5176.5,81,5.75,novembro/2026
+Novo Hamburgo,Rincão,casa,aluguel,18.6,16.3,22.1,5,5.75,novembro/2026
+Novo Hamburgo,Rio Branco,casa,venda,3742.1,2834.3,5167.6,48,,novembro/2026
+Novo Hamburgo,Rondônia,casa,venda,4574.8,3399.7,5941.7,159,,novembro/2026
+Novo Hamburgo,Santo Afonso,casa,venda,2676.5,1915.8,3902.2,38,,novembro/2026
+Novo Hamburgo,São Jorge,casa,venda,3993.8,3187.1,5391.3,46,,novembro/2026
+Novo Hamburgo,São José,casa,venda,3698.5,2857.4,4407.9,14,,novembro/2026
+Novo Hamburgo,Vila Nova,casa,venda,4642.4,3234.6,5909.1,57,5.95,novembro/2026
+Novo Hamburgo,Vila Nova,casa,aluguel,23.0,17.1,23.3,5,5.95,novembro/2026
+Novo Hamburgo,Vila Rosa,casa,venda,5492.3,3582.9,9216.4,24,,novembro/2026
+Novo Hamburgo,Bairro Industrial,apartamento,venda,4386.0,4210.5,4561.4,5,,novembro/2026
+Novo Hamburgo,Boa Vista,apartamento,venda,5100.1,4174.7,7120.0,68,8.07,novembro/2026
+Novo Hamburgo,Boa Vista,apartamento,aluguel,34.3,21.8,45.9,6,8.07,novembro/2026
+Novo Hamburgo,Canudos,apartamento,venda,4444.4,3698.1,5146.1,105,6.94,novembro/2026
+Novo Hamburgo,Canudos,apartamento,aluguel,25.7,21.5,29.0,15,6.94,novembro/2026
+Novo Hamburgo,Centro,apartamento,venda,6394.2,4528.3,8715.6,413,6.47,novembro/2026
+Novo Hamburgo,Centro,apartamento,aluguel,34.5,25.9,42.1,50,6.47,novembro/2026
+Novo Hamburgo,Guarani,apartamento,venda,6213.3,5207.6,7063.5,52,4.73,novembro/2026
+Novo Hamburgo,Guarani,apartamento,aluguel,24.5,19.0,31.4,17,4.73,novembro/2026
+Novo Hamburgo,Hamburgo Velho,apartamento,venda,4919.6,4384.8,6777.0,36,6.1,novembro/2026
+Novo Hamburgo,Hamburgo Velho,apartamento,aluguel,25.0,21.6,30.9,11,6.1,novembro/2026
+Novo Hamburgo,Ideal,apartamento,venda,5462.1,4261.1,7426.5,118,6.0,novembro/2026
+Novo Hamburgo,Ideal,apartamento,aluguel,27.3,25.4,31.3,12,6.0,novembro/2026
+Novo Hamburgo,Industrial,apartamento,venda,4210.5,3820.3,4910.5,27,,novembro/2026
+Novo Hamburgo,Jardim Mauá,apartamento,venda,6644.5,5133.1,10251.0,51,6.86,novembro/2026
+Novo Hamburgo,Jardim Mauá,apartamento,aluguel,38.0,31.4,51.8,9,6.86,novembro/2026
+Novo Hamburgo,Liberdade,apartamento,venda,4476.7,3771.2,5313.1,20,,novembro/2026
+Novo Hamburgo,Mauá,apartamento,venda,11711.0,6842.1,12906.4,9,,novembro/2026
+Novo Hamburgo,Operário,apartamento,venda,5488.3,4888.6,6530.3,70,7.78,novembro/2026
+Novo Hamburgo,Operário,apartamento,aluguel,35.6,25.3,38.3,14,7.78,novembro/2026
+Novo Hamburgo,Ouro Branco,apartamento,venda,4623.2,3856.3,6125.0,48,,novembro/2026
+Novo Hamburgo,Pátria Nova,apartamento,venda,4949.3,4204.8,6757.0,152,9.7,novembro/2026
+Novo Hamburgo,Pátria Nova,apartamento,aluguel,40.0,27.8,48.7,17,9.7,novembro/2026
+Novo Hamburgo,Petrópolis,apartamento,venda,5034.6,4829.8,5271.3,6,,novembro/2026
+Novo Hamburgo,Primavera,apartamento,venda,5212.8,4696.4,6067.4,35,,novembro/2026
+Novo Hamburgo,Rincão,apartamento,venda,5269.8,4662.2,6638.0,22,,novembro/2026
+Novo Hamburgo,Rio Branco,apartamento,venda,4998.9,4103.3,6178.6,142,7.35,novembro/2026
+Novo Hamburgo,Rio Branco,apartamento,aluguel,30.6,25.0,38.4,9,7.35,novembro/2026
+Novo Hamburgo,Rondônia,apartamento,venda,5139.7,4101.3,6433.5,120,7.0,novembro/2026
+Novo Hamburgo,Rondônia,apartamento,aluguel,30.0,27.5,39.1,13,7.0,novembro/2026
+Novo Hamburgo,Roselândia,apartamento,venda,3014.2,2881.2,3195.0,6,,novembro/2026
+Novo Hamburgo,Santo Afonso,apartamento,venda,4404.5,3789.6,5127.9,32,6.97,novembro/2026
+Novo Hamburgo,Santo Afonso,apartamento,aluguel,25.6,24.0,28.1,6,6.97,novembro/2026
+Novo Hamburgo,São Jorge,apartamento,venda,4482.8,3915.5,5268.8,23,,novembro/2026
+Novo Hamburgo,Vila Nova,apartamento,venda,5853.3,4807.3,6675.1,84,11.03,novembro/2026
+Novo Hamburgo,Vila Nova,apartamento,aluguel,53.8,36.4,74.6,16,11.03,novembro/2026
+Novo Hamburgo,Vila Rosa,apartamento,venda,6063.8,4921.7,7545.7,149,6.29,novembro/2026
+Novo Hamburgo,Vila Rosa,apartamento,aluguel,31.8,30.0,39.6,11,6.29,novembro/2026
+Novo Hamburgo,Alpes do Vale,terreno,venda,243.7,136.9,565.8,10,,novembro/2026
+Novo Hamburgo,Boa Saúde,terreno,venda,439.6,358.6,661.9,30,,novembro/2026
+Novo Hamburgo,Boa Vista,terreno,venda,1005.5,798.3,1292.5,49,,novembro/2026
+Novo Hamburgo,Canudos,terreno,venda,734.3,533.3,920.9,108,,novembro/2026
+Novo Hamburgo,Centro,terreno,venda,1648.6,1368.3,2191.3,48,,novembro/2026
+Novo Hamburgo,Guarani,terreno,venda,889.9,733.0,1106.5,60,,novembro/2026
+Novo Hamburgo,Hamburgo Velho,terreno,venda,953.3,765.7,1283.2,35,,novembro/2026
+Novo Hamburgo,Ideal,terreno,venda,896.6,763.1,1023.1,83,,novembro/2026
+Novo Hamburgo,Industrial,terreno,venda,775.2,562.2,1014.4,11,,novembro/2026
+Novo Hamburgo,Jardim Mauá,terreno,venda,964.6,777.2,1269.7,64,,novembro/2026
+Novo Hamburgo,Liberdade,terreno,venda,680.2,596.6,875.7,34,,novembro/2026
+Novo Hamburgo,Lomba Grande,terreno,venda,641.1,299.9,1221.7,28,,novembro/2026
+Novo Hamburgo,Mauá,terreno,venda,809.3,768.9,1307.1,7,,novembro/2026
+Novo Hamburgo,Operário,terreno,venda,1123.6,770.5,1328.2,15,,novembro/2026
+Novo Hamburgo,Ouro Branco,terreno,venda,844.3,712.6,1127.5,33,,novembro/2026
+Novo Hamburgo,Pátria Nova,terreno,venda,1435.9,1013.7,1789.8,26,,novembro/2026
+Novo Hamburgo,Petrópolis,terreno,venda,606.1,519.1,722.6,21,,novembro/2026
+Novo Hamburgo,Primavera,terreno,venda,841.1,636.9,1064.5,64,,novembro/2026
+Novo Hamburgo,Rincão,terreno,venda,688.7,585.1,906.8,29,,novembro/2026
+Novo Hamburgo,Rio Branco,terreno,venda,1170.3,923.8,1661.1,34,,novembro/2026
+Novo Hamburgo,Rondônia,terreno,venda,610.7,483.5,951.2,92,,novembro/2026
+Novo Hamburgo,Roselândia,terreno,venda,377.8,232.6,667.3,11,,novembro/2026
+Novo Hamburgo,Santo Afonso,terreno,venda,453.1,393.1,570.4,12,,novembro/2026
+Novo Hamburgo,São Jorge,terreno,venda,530.0,449.0,573.3,27,,novembro/2026
+Novo Hamburgo,São José,terreno,venda,504.9,483.4,520.8,9,,novembro/2026
+Novo Hamburgo,Vila Nova,terreno,venda,843.8,665.3,1347.0,37,,novembro/2026
+Novo Hamburgo,Vila Rosa,terreno,venda,1386.5,1023.1,1761.4,14,,novembro/2026
+Novo Hamburgo,Canudos,sala,aluguel,27.4,18.4,30.0,6,,novembro/2026
+Novo Hamburgo,Centro,sala,venda,3846.2,2907.4,4959.2,81,6.55,novembro/2026
+Novo Hamburgo,Centro,sala,aluguel,21.0,16.8,31.2,65,6.55,novembro/2026
+Novo Hamburgo,Hamburgo Velho,sala,aluguel,44.3,23.4,56.2,7,,novembro/2026
+Novo Hamburgo,Ideal,sala,aluguel,33.3,28.7,44.5,14,,novembro/2026
+Novo Hamburgo,Jardim Mauá,sala,venda,12750.3,8902.6,15333.8,8,7.76,novembro/2026
+Novo Hamburgo,Jardim Mauá,sala,aluguel,82.4,63.0,91.7,10,7.76,novembro/2026
+Novo Hamburgo,Pátria Nova,sala,aluguel,28.6,24.8,36.7,6,,novembro/2026
+Novo Hamburgo,Rio Branco,sala,venda,5137.2,3409.1,6382.5,9,5.02,novembro/2026
+Novo Hamburgo,Rio Branco,sala,aluguel,21.5,16.6,29.5,32,5.02,novembro/2026

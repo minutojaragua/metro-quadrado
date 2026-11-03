@@ -1,0 +1,439 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Limeira,Boa Vista,apartamento,venda,4413.3,3529.7,5057.7,22,,novembro/2026
+Limeira,Centro,apartamento,venda,3625.2,2901.1,4758.6,255,6.29,novembro/2026
+Limeira,Centro,apartamento,aluguel,19.0,13.2,29.0,57,6.29,novembro/2026
+Limeira,Chácara Boa Vista da Graminha,apartamento,venda,7871.1,7274.9,8777.2,19,,novembro/2026
+Limeira,Chácaras Antonieta,apartamento,venda,5946.9,5243.7,6780.4,66,6.26,novembro/2026
+Limeira,Chácaras Antonieta,apartamento,aluguel,31.0,27.3,37.4,35,6.26,novembro/2026
+Limeira,Desmembramento Oscar Antonio Breda,apartamento,venda,7738.1,6845.2,8656.7,9,6.17,novembro/2026
+Limeira,Desmembramento Oscar Antonio Breda,apartamento,aluguel,39.8,32.0,47.0,5,6.17,novembro/2026
+Limeira,Fazenda Duas Barras,apartamento,venda,4814.8,4122.8,5250.8,13,7.05,novembro/2026
+Limeira,Fazenda Duas Barras,apartamento,aluguel,28.3,27.3,33.3,13,7.05,novembro/2026
+Limeira,Gleba Beatriz,apartamento,venda,5782.7,5487.8,6095.9,9,,novembro/2026
+Limeira,Graminha,apartamento,venda,5872.6,5106.4,6976.7,29,,novembro/2026
+Limeira,Itaipu,apartamento,venda,3188.4,2957.7,3500.0,9,,novembro/2026
+Limeira,Jardim Adélia Cavicchia Grotta,apartamento,venda,6161.4,5423.4,6906.3,16,,novembro/2026
+Limeira,Jardim Aquárius,apartamento,venda,11316.7,10171.5,12615.3,22,5.11,novembro/2026
+Limeira,Jardim Aquárius,apartamento,aluguel,48.2,43.0,58.8,13,5.11,novembro/2026
+Limeira,Jardim Brasil,apartamento,venda,3607.5,3387.1,3880.4,6,,novembro/2026
+Limeira,Jardim Campo Belo,apartamento,venda,4591.7,3263.4,5198.8,32,5.46,novembro/2026
+Limeira,Jardim Campo Belo,apartamento,aluguel,20.9,16.8,24.6,10,5.46,novembro/2026
+Limeira,Jardim Cidade Universitária I,apartamento,aluguel,50.0,40.0,57.5,21,,novembro/2026
+Limeira,Jardim Colina Verde,apartamento,venda,4791.7,4489.8,5434.8,25,7.01,novembro/2026
+Limeira,Jardim Colina Verde,apartamento,aluguel,28.0,26.6,30.4,6,7.01,novembro/2026
+Limeira,Jardim da Graminha,apartamento,venda,4700.0,4361.7,5297.9,5,,novembro/2026
+Limeira,Jardim do Lago,apartamento,venda,5317.5,4550.4,6427.2,38,7.22,novembro/2026
+Limeira,Jardim do Lago,apartamento,aluguel,32.0,29.1,38.6,13,7.22,novembro/2026
+Limeira,Jardim Esmeralda,apartamento,venda,6209.0,5427.4,6694.9,20,6.26,novembro/2026
+Limeira,Jardim Esmeralda,apartamento,aluguel,32.4,28.6,36.5,22,6.26,novembro/2026
+Limeira,Jardim Esteves,apartamento,venda,6250.0,5499.8,7222.2,21,,novembro/2026
+Limeira,Jardim Florença,apartamento,venda,9625.2,7689.4,10537.7,28,,novembro/2026
+Limeira,Jardim Ipiranga,apartamento,venda,4166.7,3425.9,4259.3,9,6.39,novembro/2026
+Limeira,Jardim Ipiranga,apartamento,aluguel,22.2,22.0,24.2,5,6.39,novembro/2026
+Limeira,Jardim Manacá,apartamento,venda,5777.8,5555.6,6041.7,5,6.06,novembro/2026
+Limeira,Jardim Manacá,apartamento,aluguel,29.2,27.5,32.7,5,6.06,novembro/2026
+Limeira,Jardim Nossa Senhora de Fátima,apartamento,venda,9000.0,7319.0,9865.1,15,4.59,novembro/2026
+Limeira,Jardim Nossa Senhora de Fátima,apartamento,aluguel,34.4,26.0,42.0,7,4.59,novembro/2026
+Limeira,Jardim Olga Veroni,apartamento,venda,3200.0,2598.1,3626.9,31,8.36,novembro/2026
+Limeira,Jardim Olga Veroni,apartamento,aluguel,22.3,17.8,25.3,8,8.36,novembro/2026
+Limeira,Jardim Orestes Veroni,apartamento,venda,6592.6,6188.5,7472.2,8,,novembro/2026
+Limeira,Jardim Ouro Verde,apartamento,venda,5217.4,4687.5,5735.3,29,5.61,novembro/2026
+Limeira,Jardim Ouro Verde,apartamento,aluguel,24.4,24.0,29.4,9,5.61,novembro/2026
+Limeira,Jardim Parque Avenida,apartamento,venda,11267.3,10417.9,12038.7,8,4.99,novembro/2026
+Limeira,Jardim Parque Avenida,apartamento,aluguel,46.9,44.3,50.5,5,4.99,novembro/2026
+Limeira,Jardim Parque Novo Mundo,apartamento,venda,5000.0,4578.6,6164.7,31,7.99,novembro/2026
+Limeira,Jardim Parque Novo Mundo,apartamento,aluguel,33.3,28.7,37.7,19,7.99,novembro/2026
+Limeira,Jardim Pérola,apartamento,venda,5795.7,5278.8,6386.5,10,,novembro/2026
+Limeira,Jardim Piratininga,apartamento,venda,4339.6,3928.4,5179.0,27,,novembro/2026
+Limeira,Jardim Residencial Francisco Cruãnes,apartamento,venda,8279.6,7695.0,8862.8,8,,novembro/2026
+Limeira,Jardim Residencial Recanto Alvorada,apartamento,venda,2818.2,2254.9,3375.0,9,,novembro/2026
+Limeira,Jardim Residencial Roseira,apartamento,venda,5660.4,5000.0,6980.0,17,,novembro/2026
+Limeira,Jardim Residencial Victório Lucato,apartamento,venda,4615.4,4400.3,4830.5,7,,novembro/2026
+Limeira,Jardim Rosa Marrafon Lucas,apartamento,venda,4966.9,4290.7,6216.5,6,,novembro/2026
+Limeira,Jardim Santa Adélia,apartamento,venda,7248.9,5892.9,8451.5,43,6.99,novembro/2026
+Limeira,Jardim Santa Adélia,apartamento,aluguel,42.2,32.6,48.9,33,6.99,novembro/2026
+Limeira,Jardim Santo André,apartamento,venda,9354.7,8505.6,9996.4,18,5.48,novembro/2026
+Limeira,Jardim Santo André,apartamento,aluguel,42.7,36.4,46.9,13,5.48,novembro/2026
+Limeira,Jardim São Paulo,apartamento,venda,6262.3,6097.1,6598.3,8,,novembro/2026
+Limeira,Jardim São Roque,apartamento,venda,6129.0,5645.2,8237.1,9,7.87,novembro/2026
+Limeira,Jardim São Roque,apartamento,aluguel,40.2,36.7,45.4,8,7.87,novembro/2026
+Limeira,Jardim Senador Vergueiro,apartamento,venda,7692.3,6583.3,9364.5,19,6.19,novembro/2026
+Limeira,Jardim Senador Vergueiro,apartamento,aluguel,39.7,36.4,43.7,6,6.19,novembro/2026
+Limeira,Jardim Trevo,apartamento,venda,5519.2,5000.0,6470.6,13,7.44,novembro/2026
+Limeira,Jardim Trevo,apartamento,aluguel,34.2,30.7,38.2,6,7.44,novembro/2026
+Limeira,Parque das Nações,apartamento,venda,5000.0,4464.3,5178.6,9,,novembro/2026
+Limeira,Parque Egisto Ragazzo,apartamento,venda,4648.1,4203.3,5499.4,16,,novembro/2026
+Limeira,Parque Expedicionário Hipólito,apartamento,venda,3882.7,3659.7,4872.3,5,,novembro/2026
+Limeira,Parque Hippolyto,apartamento,venda,5104.2,4629.6,5512.2,29,6.11,novembro/2026
+Limeira,Parque Hippolyto,apartamento,aluguel,26.0,24.4,30.2,5,6.11,novembro/2026
+Limeira,Parque Novo Mundo,apartamento,venda,4861.1,4464.3,5714.3,29,,novembro/2026
+Limeira,Parque Residencial Abílio Pedro,apartamento,venda,3584.9,3317.6,3720.2,11,7.73,novembro/2026
+Limeira,Parque Residencial Abílio Pedro,apartamento,aluguel,23.1,18.6,23.8,5,7.73,novembro/2026
+Limeira,Parque Residencial Aeroporto,apartamento,venda,3409.1,2860.3,5349.7,7,,novembro/2026
+Limeira,Parque Residencial Anavec,apartamento,venda,5749.2,5260.4,6081.2,10,,novembro/2026
+Limeira,Residencial Alto do Lago,apartamento,venda,5957.4,5526.3,5978.3,5,,novembro/2026
+Limeira,Residencial Costa Verde,apartamento,venda,4888.9,4367.8,5470.1,11,,novembro/2026
+Limeira,Residencial Jardins,apartamento,venda,5534.3,4950.7,6110.3,14,,novembro/2026
+Limeira,Residencial Morada das Acácias,apartamento,venda,4833.3,4299.3,5210.3,19,6.75,novembro/2026
+Limeira,Residencial Morada das Acácias,apartamento,aluguel,27.2,27.0,28.3,5,6.75,novembro/2026
+Limeira,Residencial Rubi,apartamento,venda,3617.0,3059.4,4903.8,27,11.65,novembro/2026
+Limeira,Residencial Rubi,apartamento,aluguel,35.1,26.7,38.3,13,11.65,novembro/2026
+Limeira,Residencial Villa do Sol,apartamento,venda,5630.4,5063.8,6028.9,9,,novembro/2026
+Limeira,Vale das Esmeraldas,apartamento,venda,6696.4,6232.1,7114.3,21,5.81,novembro/2026
+Limeira,Vale das Esmeraldas,apartamento,aluguel,32.4,25.4,35.8,5,5.81,novembro/2026
+Limeira,Vila Camargo,apartamento,venda,5270.5,4384.3,6385.9,34,4.76,novembro/2026
+Limeira,Vila Camargo,apartamento,aluguel,20.9,18.0,25.9,5,4.76,novembro/2026
+Limeira,Vila Cidade Jardim,apartamento,venda,3714.3,3277.4,4107.1,29,5.94,novembro/2026
+Limeira,Vila Cidade Jardim,apartamento,aluguel,18.4,13.4,32.5,8,5.94,novembro/2026
+Limeira,Vila Conceição,apartamento,venda,3953.5,3483.1,4268.3,9,,novembro/2026
+Limeira,Vila Cristóvam,apartamento,venda,8854.2,8443.1,9463.5,11,,novembro/2026
+Limeira,Vila Independência,apartamento,venda,3777.8,3535.7,4382.6,23,,novembro/2026
+Limeira,Vila Labaki,apartamento,venda,4553.6,4138.4,4915.3,9,,novembro/2026
+Limeira,Vila Limeirânea,apartamento,venda,6023.6,5449.3,6643.1,6,,novembro/2026
+Limeira,Vila Paraíso,apartamento,venda,3823.5,3402.8,3975.5,7,,novembro/2026
+Limeira,Vila Paulista,apartamento,venda,3571.4,3432.5,4314.5,11,,novembro/2026
+Limeira,Vila Primavera,apartamento,venda,8652.2,7785.2,9597.2,27,4.85,novembro/2026
+Limeira,Vila Primavera,apartamento,aluguel,35.0,25.5,38.8,9,4.85,novembro/2026
+Limeira,Vila Queiroz,apartamento,venda,5000.0,4475.3,6034.3,23,7.63,novembro/2026
+Limeira,Vila Queiroz,apartamento,aluguel,31.8,28.6,33.6,7,7.63,novembro/2026
+Limeira,Vila Santa Josefa,apartamento,venda,10644.7,9003.9,11158.1,6,,novembro/2026
+Limeira,Vila Santa Rosália,apartamento,venda,8550.4,7940.4,9155.7,14,5.49,novembro/2026
+Limeira,Vila Santa Rosália,apartamento,aluguel,39.1,35.7,40.8,6,5.49,novembro/2026
+Limeira,Vila São Geraldo,apartamento,venda,7761.0,6895.5,8508.1,8,,novembro/2026
+Limeira,Vila Teixeira Marques,apartamento,venda,4916.7,4588.6,5400.0,12,,novembro/2026
+Limeira,Boa Vista,casa,venda,2812.8,2286.1,3306.0,70,8.15,novembro/2026
+Limeira,Boa Vista,casa,aluguel,19.1,15.3,22.4,10,8.15,novembro/2026
+Limeira,Centro,casa,venda,3217.3,2600.9,4355.2,128,7.87,novembro/2026
+Limeira,Centro,casa,aluguel,21.1,16.5,29.1,41,7.87,novembro/2026
+Limeira,Chácaras Antonieta,casa,venda,3950.0,2922.8,4882.3,11,,novembro/2026
+Limeira,Conjunto Habitacional Victor d'Andrea,casa,venda,2144.7,1964.3,2250.0,17,,novembro/2026
+Limeira,Conjunto Residencial Victor Dandrea,casa,venda,1944.3,1520.0,2058.8,17,,novembro/2026
+Limeira,Dos Frades,casa,venda,2539.7,2464.3,3453.2,5,,novembro/2026
+Limeira,Geada,casa,venda,3873.3,2556.6,5232.8,12,,novembro/2026
+Limeira,Graminha,casa,venda,3214.3,2857.1,4017.9,9,,novembro/2026
+Limeira,Jardim Adélia Cavicchia Grotta,casa,venda,3118.8,2264.2,3714.3,41,,novembro/2026
+Limeira,Jardim Aeroporto,casa,venda,3540.2,3086.7,3680.6,6,,novembro/2026
+Limeira,Jardim Águas da Serra,casa,venda,3071.4,2900.0,3829.8,9,,novembro/2026
+Limeira,Jardim Alvorada,casa,venda,2820.9,2445.7,2996.2,8,,novembro/2026
+Limeira,Jardim Aquárius,casa,venda,5714.3,5157.6,5862.1,5,6.11,novembro/2026
+Limeira,Jardim Aquárius,casa,aluguel,29.1,22.2,40.9,5,6.11,novembro/2026
+Limeira,Jardim Bandeirantes,casa,venda,3268.9,2341.6,3837.2,12,,novembro/2026
+Limeira,Jardim Barão,casa,venda,2751.5,1970.0,3351.7,22,,novembro/2026
+Limeira,Jardim Bartolomeu Grotta,casa,venda,2468.3,2227.4,2725.9,8,,novembro/2026
+Limeira,Jardim Bela Vista,casa,venda,2981.8,2338.2,3070.9,6,,novembro/2026
+Limeira,Jardim Boa Esperança,casa,venda,2547.2,2163.8,3069.8,10,,novembro/2026
+Limeira,Jardim Boa Vista,casa,venda,2661.5,1958.3,3282.0,26,,novembro/2026
+Limeira,Jardim Brasil,casa,venda,2675.5,1548.5,4171.8,15,,novembro/2026
+Limeira,Jardim Caieira,casa,venda,2811.8,2479.5,3710.9,34,,novembro/2026
+Limeira,Jardim Campo Belo,casa,venda,3523.8,2500.0,4239.0,39,8.58,novembro/2026
+Limeira,Jardim Campo Belo,casa,aluguel,25.2,21.7,26.4,6,8.58,novembro/2026
+Limeira,Jardim Campo Verde,casa,venda,4326.5,3775.5,5328.9,8,,novembro/2026
+Limeira,Jardim Campo Verde I,casa,venda,3781.5,3250.0,4689.7,25,,novembro/2026
+Limeira,Jardim Campo Verde II,casa,venda,4963.0,3925.4,5333.3,13,,novembro/2026
+Limeira,Jardim Canaã,casa,venda,3383.3,2901.0,3967.1,12,,novembro/2026
+Limeira,Jardim Cavinato,casa,venda,2642.6,1650.0,3395.1,13,,novembro/2026
+Limeira,Jardim Cidade Universitária II,casa,venda,9375.0,6704.7,9694.7,7,,novembro/2026
+Limeira,Jardim Colina Verde,casa,venda,7082.2,4077.7,8080.8,17,,novembro/2026
+Limeira,Jardim Colinas de São João,casa,venda,8277.8,6993.3,9566.4,23,,novembro/2026
+Limeira,Jardim Consoli,casa,venda,2245.4,2104.1,3281.2,8,,novembro/2026
+Limeira,Jardim da Graminha,casa,venda,3023.7,2535.7,3348.6,20,10.08,novembro/2026
+Limeira,Jardim da Graminha,casa,aluguel,25.4,19.5,27.0,5,10.08,novembro/2026
+Limeira,Jardim das Laranjeiras,casa,venda,3958.9,3678.2,4209.2,8,4.64,novembro/2026
+Limeira,Jardim das Laranjeiras,casa,aluguel,15.3,11.4,20.4,8,4.64,novembro/2026
+Limeira,Jardim das Palmeiras,casa,venda,3070.6,2686.3,3567.5,34,8.75,novembro/2026
+Limeira,Jardim das Palmeiras,casa,aluguel,22.4,20.4,24.5,6,8.75,novembro/2026
+Limeira,Jardim do Lago,casa,venda,2603.5,2259.1,3249.4,28,,novembro/2026
+Limeira,Jardim dos Jequitibás,casa,venda,3286.0,2500.0,3875.0,49,,novembro/2026
+Limeira,Jardim Elite,casa,venda,3084.4,2082.0,3748.7,16,,novembro/2026
+Limeira,Jardim Esmeralda,casa,venda,2426.4,2201.2,2923.6,18,,novembro/2026
+Limeira,Jardim Florença,casa,venda,5698.1,4509.5,6797.3,30,3.79,novembro/2026
+Limeira,Jardim Florença,casa,aluguel,18.0,18.0,26.2,5,3.79,novembro/2026
+Limeira,Jardim Glória,casa,venda,2019.9,1641.8,2921.7,12,,novembro/2026
+Limeira,Jardim Grêmio,casa,venda,2969.5,2656.1,3225.3,6,,novembro/2026
+Limeira,Jardim Gustavo Peccinini,casa,venda,2907.5,2543.0,3678.7,16,,novembro/2026
+Limeira,Jardim Gustavo Picinini,casa,venda,3261.7,2501.2,3723.5,8,,novembro/2026
+Limeira,Jardim Hortência,casa,venda,2734.1,2380.2,2875.4,22,,novembro/2026
+Limeira,Jardim Ibirapuera,casa,venda,2604.2,2067.8,3498.3,18,,novembro/2026
+Limeira,Jardim Ipanema,casa,venda,3142.8,2675.0,3311.2,27,,novembro/2026
+Limeira,Jardim Lago Azul,casa,venda,3243.2,2805.9,3571.4,19,,novembro/2026
+Limeira,Jardim Lagoa Nova,casa,venda,2777.8,2363.9,3388.7,35,,novembro/2026
+Limeira,Jardim Manacá,casa,venda,3000.0,2500.0,3333.3,13,,novembro/2026
+Limeira,Jardim Marajoara,casa,venda,4629.6,3439.2,5882.4,41,,novembro/2026
+Limeira,Jardim Maria Bruschi Modeneis,casa,venda,3653.8,3365.4,6153.8,5,,novembro/2026
+Limeira,Jardim Maria Flora,casa,venda,2975.2,2247.7,4229.3,12,,novembro/2026
+Limeira,Jardim Mediterrâneo,casa,venda,3752.9,3460.0,4104.7,12,,novembro/2026
+Limeira,Jardim Mercedes,casa,venda,3792.8,3335.7,5004.5,11,,novembro/2026
+Limeira,Jardim Monte Carlo,casa,venda,5137.2,4336.6,6020.2,8,,novembro/2026
+Limeira,Jardim Montezuma,casa,venda,3645.2,2720.0,4172.6,21,6.98,novembro/2026
+Limeira,Jardim Montezuma,casa,aluguel,21.2,18.9,24.6,10,6.98,novembro/2026
+Limeira,Jardim Morro Azul,casa,venda,2574.9,2111.1,3380.6,27,6.52,novembro/2026
+Limeira,Jardim Morro Azul,casa,aluguel,14.0,11.7,18.9,7,6.52,novembro/2026
+Limeira,Jardim Morro Branco,casa,venda,2208.8,1850.3,2848.9,8,,novembro/2026
+Limeira,Jardim Nereide,casa,venda,3000.0,2522.6,4172.6,11,,novembro/2026
+Limeira,Jardim Nossa Senhora de Fátima,casa,venda,6358.1,4832.3,7583.3,15,,novembro/2026
+Limeira,Jardim Nossa Senhora do Amparo,casa,venda,2960.0,2600.0,4248.4,21,,novembro/2026
+Limeira,Jardim Nova,casa,venda,1859.2,1510.8,2435.3,8,,novembro/2026
+Limeira,Jardim Nova Europa,casa,venda,3092.2,2203.2,3641.4,24,,novembro/2026
+Limeira,Jardim Nova Itália,casa,venda,2680.0,2029.9,3230.8,23,,novembro/2026
+Limeira,Jardim Nova Suíça,casa,venda,2437.5,1656.8,3186.5,55,8.86,novembro/2026
+Limeira,Jardim Nova Suíça,casa,aluguel,18.0,14.3,21.2,8,8.86,novembro/2026
+Limeira,Jardim Novo Horizonte,casa,venda,2325.4,2060.4,2664.7,12,,novembro/2026
+Limeira,Jardim Olga Veroni,casa,venda,2039.3,1709.2,2493.5,26,,novembro/2026
+Limeira,Jardim Orestes Veroni,casa,venda,3333.3,2479.3,3897.7,5,6.34,novembro/2026
+Limeira,Jardim Orestes Veroni,casa,aluguel,17.6,17.0,19.0,5,6.34,novembro/2026
+Limeira,Jardim Ouro Branco,casa,venda,2560.0,2500.0,2663.6,5,,novembro/2026
+Limeira,Jardim Ouro Verde,casa,venda,3015.6,2500.0,3814.9,61,6.41,novembro/2026
+Limeira,Jardim Ouro Verde,casa,aluguel,16.1,14.8,21.4,10,6.41,novembro/2026
+Limeira,Jardim Parque Avenida,casa,venda,5905.5,5361.8,6768.3,15,,novembro/2026
+Limeira,Jardim Parque Novo Mundo,casa,venda,3128.7,2550.3,3863.6,21,,novembro/2026
+Limeira,Jardim Paulista,casa,venda,2804.6,2280.0,3372.8,5,,novembro/2026
+Limeira,Jardim Piratininga,casa,venda,3259.6,2353.4,3995.8,44,7.4,novembro/2026
+Limeira,Jardim Piratininga,casa,aluguel,20.1,16.7,23.2,16,7.4,novembro/2026
+Limeira,Jardim Planalto,casa,venda,2903.2,2500.0,3176.7,27,,novembro/2026
+Limeira,Jardim Porto Real,casa,venda,5563.9,4392.1,7038.2,12,,novembro/2026
+Limeira,Jardim Porto Real I,casa,venda,5330.4,4640.0,6211.2,9,,novembro/2026
+Limeira,Jardim Porto Real V,casa,venda,6152.3,5772.0,7335.5,6,,novembro/2026
+Limeira,Jardim Presidente Dutra,casa,venda,2284.3,1895.0,2527.6,16,,novembro/2026
+Limeira,Jardim Primavera,casa,venda,6040.4,4849.8,6963.5,12,,novembro/2026
+Limeira,Jardim Real Park,casa,venda,4263.9,2271.9,6149.9,6,,novembro/2026
+Limeira,Jardim Recanto Verde,casa,venda,2508.7,2190.4,4005.7,8,,novembro/2026
+Limeira,Jardim Residencial Alto da Graminha,casa,venda,3925.2,3280.0,4937.3,7,,novembro/2026
+Limeira,Jardim Residencial Alto do Flamboyant,casa,venda,2572.1,1879.8,3535.7,6,,novembro/2026
+Limeira,Jardim Residencial Antônio Simonetti,casa,venda,2692.7,2525.7,2829.3,6,,novembro/2026
+Limeira,Jardim Residencial Antonio Simonetti III,casa,venda,1537.5,1300.0,3600.0,5,,novembro/2026
+Limeira,Jardim Residencial Campo Novo,casa,venda,6120.7,4977.3,6854.0,30,,novembro/2026
+Limeira,Jardim Residencial Dona Santina Paroli Peccinini,casa,venda,2955.3,2080.4,3972.2,26,,novembro/2026
+Limeira,Jardim Residencial e Comercial Alto dos Laranjais,casa,venda,2949.4,2278.1,3877.1,10,,novembro/2026
+Limeira,Jardim Residencial Flora,casa,venda,6341.9,5405.6,6919.7,6,,novembro/2026
+Limeira,Jardim Residencial Graminha II,casa,venda,2985.7,2539.4,3595.4,20,,novembro/2026
+Limeira,Jardim Residencial Graminha III,casa,venda,3332.1,2409.4,4821.8,8,,novembro/2026
+Limeira,Jardim Residencial Granja Machado,casa,venda,2658.6,2312.4,3173.5,6,,novembro/2026
+Limeira,Jardim Residencial Guimarães,casa,venda,3625.9,2852.7,4075.0,12,,novembro/2026
+Limeira,Jardim Residencial Monsenhor Rossi,casa,venda,6602.1,5534.6,7448.8,10,,novembro/2026
+Limeira,Jardim Residencial Recanto Alvorada,casa,venda,3596.0,2942.6,4555.4,6,,novembro/2026
+Limeira,Jardim Residencial Regina Bastelli,casa,venda,2859.4,2357.1,3095.2,13,,novembro/2026
+Limeira,Jardim Residencial Roseira,casa,venda,3226.5,2552.6,3620.2,32,,novembro/2026
+Limeira,Jardim Residencial Santa Amália,casa,venda,3421.6,2694.4,3791.6,11,,novembro/2026
+Limeira,Jardim Residencial Santina Paroli Peccinino,casa,venda,2964.3,2660.7,3226.0,12,,novembro/2026
+Limeira,Jardim Residencial Victório Lucato,casa,venda,2767.8,2520.2,3522.3,22,,novembro/2026
+Limeira,Jardim Residencial Village,casa,venda,2733.1,2166.4,3592.4,19,,novembro/2026
+Limeira,Jardim Residencial Vitória,casa,venda,3052.9,2744.2,4714.3,5,,novembro/2026
+Limeira,Jardim Rosa Marrafon Lucas,casa,venda,3328.4,2568.3,3936.7,6,,novembro/2026
+Limeira,Jardim Rossi,casa,venda,3150.0,2405.9,4323.6,12,5.1,novembro/2026
+Limeira,Jardim Rossi,casa,aluguel,13.4,9.8,21.9,5,5.1,novembro/2026
+Limeira,Jardim Santa Adélia,casa,venda,3360.8,2376.5,4131.2,63,,novembro/2026
+Limeira,Jardim Santa Amália,casa,venda,3195.3,2817.0,4193.2,10,,novembro/2026
+Limeira,Jardim Santa Catarina,casa,venda,3603.6,3124.3,3921.6,9,,novembro/2026
+Limeira,Jardim Santa Cecília,casa,venda,2748.9,2360.0,3142.9,17,,novembro/2026
+Limeira,Jardim Santa Eulália,casa,venda,2421.9,2071.6,2710.7,14,,novembro/2026
+Limeira,Jardim Santa Fé,casa,venda,3050.0,2750.8,3269.2,5,,novembro/2026
+Limeira,Jardim Santa Luiza,casa,venda,4375.0,3878.7,5344.8,5,,novembro/2026
+Limeira,Jardim Santana,casa,venda,3500.0,2857.1,3748.7,9,,novembro/2026
+Limeira,Jardim Santo André,casa,venda,3439.2,2833.3,4218.9,37,,novembro/2026
+Limeira,Jardim São Lourenço,casa,venda,3021.9,2410.8,3683.2,54,7.94,novembro/2026
+Limeira,Jardim São Lourenço,casa,aluguel,20.0,20.0,28.0,5,7.94,novembro/2026
+Limeira,Jardim São Luiz,casa,venda,2678.6,2187.5,3521.6,13,,novembro/2026
+Limeira,Jardim São Manoel,casa,venda,2647.1,1893.1,3605.9,27,,novembro/2026
+Limeira,Jardim São Paulo,casa,venda,2620.5,2258.6,4330.9,19,10.62,novembro/2026
+Limeira,Jardim São Paulo,casa,aluguel,23.2,16.4,27.1,10,10.62,novembro/2026
+Limeira,Jardim São Pedro,casa,venda,2685.6,2495.0,3438.5,12,,novembro/2026
+Limeira,Jardim São Roque,casa,venda,4000.0,3326.8,4517.5,14,,novembro/2026
+Limeira,Jardim Senador Vergueiro,casa,venda,4137.2,2849.9,5151.3,12,,novembro/2026
+Limeira,Jardim Solar dos Nobres,casa,venda,5977.5,3250.0,6644.3,13,,novembro/2026
+Limeira,Jardim Terras de Santa Elisa,casa,venda,5331.6,4556.2,6761.6,26,,novembro/2026
+Limeira,Jardim Vista Alegre,casa,venda,2150.0,1560.2,2571.3,27,8.6,novembro/2026
+Limeira,Jardim Vista Alegre,casa,aluguel,15.4,12.4,22.1,8,8.6,novembro/2026
+Limeira,Jardim Vitório Lucato,casa,venda,3900.0,2804.2,5730.3,7,,novembro/2026
+Limeira,Lagoa Nova,casa,venda,3311.3,2421.9,3923.4,12,,novembro/2026
+Limeira,Parque Centreville,casa,venda,5814.1,5625.8,6055.7,8,,novembro/2026
+Limeira,Parque das Nações,casa,venda,2370.8,1950.4,3389.4,48,7.95,novembro/2026
+Limeira,Parque das Nações,casa,aluguel,15.7,14.1,17.8,14,7.95,novembro/2026
+Limeira,Parque Egisto Ragazzo,casa,venda,4305.5,3198.4,5186.2,54,7.27,novembro/2026
+Limeira,Parque Egisto Ragazzo,casa,aluguel,26.1,23.7,29.8,14,7.27,novembro/2026
+Limeira,Parque Expedicionário Hipólito,casa,venda,2543.9,2153.7,3197.2,11,,novembro/2026
+Limeira,Parque Hippolyto,casa,venda,2221.5,1743.1,2801.1,60,10.8,novembro/2026
+Limeira,Parque Hippolyto,casa,aluguel,20.0,16.9,27.5,9,10.8,novembro/2026
+Limeira,Parque Nossa Senhora das Dores,casa,venda,1985.3,1561.2,2678.9,48,,novembro/2026
+Limeira,Parque Novo Mundo,casa,venda,2790.6,2196.2,3671.2,6,,novembro/2026
+Limeira,Parque Pompeo,casa,venda,2695.5,2294.4,3189.2,8,,novembro/2026
+Limeira,Parque Pompeu,casa,venda,2503.1,2306.7,3173.8,12,,novembro/2026
+Limeira,Parque Real,casa,venda,3840.0,2848.1,4474.7,9,,novembro/2026
+Limeira,Parque Residencial Abílio Pedro,casa,venda,2341.4,1988.3,2942.5,48,8.61,novembro/2026
+Limeira,Parque Residencial Abílio Pedro,casa,aluguel,16.8,15.2,20.0,9,8.61,novembro/2026
+Limeira,Parque Residencial Aeroporto,casa,venda,2309.8,1984.7,3318.8,40,6.34,novembro/2026
+Limeira,Parque Residencial Aeroporto,casa,aluguel,12.2,8.9,18.7,8,6.34,novembro/2026
+Limeira,Parque Residencial Anavec,casa,venda,2490.2,2185.6,3442.1,20,,novembro/2026
+Limeira,Parque Residencial Belinha Ometto,casa,venda,2357.1,1985.7,2673.1,33,9.57,novembro/2026
+Limeira,Parque Residencial Belinha Ometto,casa,aluguel,18.8,14.1,23.1,7,9.57,novembro/2026
+Limeira,Parque Residencial Roland,casa,venda,6460.5,5336.0,8050.0,45,,novembro/2026
+Limeira,Parque Residencial Roland II,casa,venda,7258.1,6315.8,8187.9,5,,novembro/2026
+Limeira,Parque Residencial Roland III,casa,venda,5785.8,4785.8,5932.8,6,,novembro/2026
+Limeira,Parque Residencial Santa Eulália,casa,venda,2331.7,1929.0,3242.9,35,,novembro/2026
+Limeira,Parque Residencial Sthalberg,casa,venda,3185.0,2521.9,3899.9,10,,novembro/2026
+Limeira,Parque São Bento,casa,venda,6769.4,6002.9,8059.2,18,,novembro/2026
+Limeira,Portal das Rosas,casa,venda,8108.1,7490.6,9434.0,5,5.3,novembro/2026
+Limeira,Portal das Rosas,casa,aluguel,35.8,34.3,54.5,5,5.3,novembro/2026
+Limeira,Portal de São Clemente,casa,venda,7810.8,7102.9,10572.7,17,,novembro/2026
+Limeira,Residenciais Fazenda Itapema,casa,venda,8752.6,7515.2,9746.5,44,,novembro/2026
+Limeira,Residencial Alto do Lago,casa,venda,3266.0,2885.7,4664.4,10,,novembro/2026
+Limeira,Residencial Casalbuono,casa,venda,9857.3,7924.5,11526.2,18,,novembro/2026
+Limeira,Residencial Chácara São José,casa,venda,2792.2,2149.6,3305.7,11,,novembro/2026
+Limeira,Residencial Colinas do Engenho,casa,venda,6198.3,5555.8,6616.4,7,,novembro/2026
+Limeira,Residencial Colinas do Engenho I,casa,venda,4685.9,2861.1,5700.1,42,,novembro/2026
+Limeira,Residencial Colinas do Engenho II,casa,venda,6210.8,4788.7,6936.7,14,,novembro/2026
+Limeira,Residencial Econômico Manoel Simão de Barros Levy,casa,venda,1806.3,1496.2,2440.2,14,,novembro/2026
+Limeira,Residencial Fênix,casa,venda,3619.9,2821.4,3977.0,16,,novembro/2026
+Limeira,Residencial Florisa,casa,venda,6415.9,5486.3,8095.2,5,,novembro/2026
+Limeira,Residencial Greville,casa,venda,10588.2,9110.7,12208.5,7,,novembro/2026
+Limeira,Residencial Ilha de Bali,casa,venda,8292.1,7826.9,9482.0,26,,novembro/2026
+Limeira,Residencial Interlagos,casa,venda,5616.4,5327.9,6074.8,5,,novembro/2026
+Limeira,Residencial Jardim dos Ipês,casa,venda,6000.0,5129.3,6937.5,19,,novembro/2026
+Limeira,Residencial Las Palmas,casa,venda,2460.2,1966.3,3508.4,8,,novembro/2026
+Limeira,Residencial Margarida de Holstein,casa,venda,8332.5,7766.4,8983.8,12,,novembro/2026
+Limeira,Residencial Morada das Acácias,casa,venda,3138.7,2750.0,3648.1,13,,novembro/2026
+Limeira,Residencial Nobreville,casa,venda,3663.4,2524.8,4069.1,45,,novembro/2026
+Limeira,Residencial Palmeira Real,casa,venda,3000.0,2412.5,3628.8,33,,novembro/2026
+Limeira,Residencial Recanto Verde,casa,venda,3064.5,2857.1,4000.0,9,,novembro/2026
+Limeira,Residencial Santa Clara,casa,venda,4521.7,3467.7,4838.7,5,,novembro/2026
+Limeira,Residencial Vermont,casa,venda,6073.6,6031.7,8636.4,5,,novembro/2026
+Limeira,Terras de Santa Elisa,casa,venda,6228.4,5296.7,6725.3,7,,novembro/2026
+Limeira,Terras de São Bento I,casa,venda,8571.4,7177.1,9551.4,35,,novembro/2026
+Limeira,Terras de São Bento II,casa,venda,8454.1,7227.3,9786.6,49,,novembro/2026
+Limeira,Vale das Oliveiras,casa,venda,7111.1,6521.7,7860.4,19,,novembro/2026
+Limeira,Vila Agostinho Francisco de Assis,casa,venda,4139.5,2885.0,4577.4,7,,novembro/2026
+Limeira,Vila Anita,casa,venda,3278.7,2396.2,4081.6,9,,novembro/2026
+Limeira,Vila Camargo,casa,venda,2782.4,2041.8,3774.8,38,5.69,novembro/2026
+Limeira,Vila Camargo,casa,aluguel,13.2,10.8,15.0,8,5.69,novembro/2026
+Limeira,Vila Castelar,casa,venda,3107.6,2384.9,3531.0,30,,novembro/2026
+Limeira,Vila Cidade Jardim,casa,venda,2678.6,2066.7,4022.3,35,8.74,novembro/2026
+Limeira,Vila Cidade Jardim,casa,aluguel,19.5,11.5,24.5,10,8.74,novembro/2026
+Limeira,Vila Claudia,casa,venda,3165.9,2555.4,4244.3,76,11.26,novembro/2026
+Limeira,Vila Claudia,casa,aluguel,29.7,21.2,34.4,32,11.26,novembro/2026
+Limeira,Vila Cristóvam,casa,venda,2916.7,2374.8,3675.6,55,7.94,novembro/2026
+Limeira,Vila Cristóvam,casa,aluguel,19.3,13.9,30.1,30,7.94,novembro/2026
+Limeira,Vila da Glória,casa,venda,3259.5,2567.1,3789.9,20,,novembro/2026
+Limeira,Vila Esteves,casa,venda,3000.0,2287.7,3350.4,7,7.68,novembro/2026
+Limeira,Vila Esteves,casa,aluguel,19.2,16.9,23.1,8,7.68,novembro/2026
+Limeira,Vila Fascina,casa,venda,2349.5,1855.8,2902.8,14,,novembro/2026
+Limeira,Vila Gioto,casa,venda,2708.3,2676.1,2755.9,5,,novembro/2026
+Limeira,Vila Independência,casa,venda,3345.4,3209.9,3696.1,7,,novembro/2026
+Limeira,Vila Limeirânea,casa,venda,3240.0,2848.3,3700.7,12,,novembro/2026
+Limeira,Vila Mathias,casa,aluguel,19.3,16.7,23.8,5,,novembro/2026
+Limeira,Vila Paulista,casa,venda,2750.0,2087.5,3340.0,17,10.52,novembro/2026
+Limeira,Vila Paulista,casa,aluguel,24.1,10.0,26.1,7,10.52,novembro/2026
+Limeira,Vila Piza,casa,venda,2727.3,2216.4,3248.2,39,7.96,novembro/2026
+Limeira,Vila Piza,casa,aluguel,18.1,13.5,22.5,14,7.96,novembro/2026
+Limeira,Vila Primavera,casa,venda,1800.0,1575.0,2631.5,7,20.2,novembro/2026
+Limeira,Vila Primavera,casa,aluguel,30.3,29.0,31.0,5,20.2,novembro/2026
+Limeira,Vila Queiroz,casa,venda,3001.2,2390.0,3664.1,58,7.72,novembro/2026
+Limeira,Vila Queiroz,casa,aluguel,19.3,15.7,23.4,13,7.72,novembro/2026
+Limeira,Vila Rocha,casa,venda,2830.2,2360.0,3724.1,13,,novembro/2026
+Limeira,Vila Rosana,casa,venda,3101.7,2480.0,3794.0,10,,novembro/2026
+Limeira,Vila Santa Josefa,casa,venda,3666.7,1773.2,4905.8,6,,novembro/2026
+Limeira,Vila Santa Lina,casa,venda,2564.9,2030.8,3436.3,10,,novembro/2026
+Limeira,Vila Santa Lúcia,casa,venda,2424.6,1653.2,3236.8,12,5.99,novembro/2026
+Limeira,Vila Santa Lúcia,casa,aluguel,12.1,10.7,13.3,5,5.99,novembro/2026
+Limeira,Vila São Geraldo,casa,venda,3617.6,3000.0,3915.1,7,,novembro/2026
+Limeira,Vila São João,casa,venda,3437.5,2937.9,4541.6,33,6.49,novembro/2026
+Limeira,Vila São João,casa,aluguel,18.6,16.7,20.1,6,6.49,novembro/2026
+Limeira,Vila São Luiz,casa,venda,2769.9,2557.2,3138.4,8,,novembro/2026
+Limeira,Vila São Roque,casa,venda,2649.2,2269.5,3281.0,18,,novembro/2026
+Limeira,Vila Solar,casa,venda,3013.4,2727.3,3439.5,5,,novembro/2026
+Limeira,Vila Teixeira Marques,casa,venda,3462.9,3244.6,4375.5,11,,novembro/2026
+Limeira,Villa San Marino,casa,venda,8936.7,6242.7,9581.2,10,,novembro/2026
+Limeira,Village,casa,venda,9211.2,8488.7,9864.9,10,,novembro/2026
+Limeira,Villaggio San Pietro,casa,venda,11567.2,10753.5,11801.6,7,,novembro/2026
+Limeira,Alto dos Laranjais,terreno,venda,1000.0,1000.0,1000.0,7,,novembro/2026
+Limeira,Bairro dos Pires,terreno,venda,275.5,207.5,2417.5,36,,novembro/2026
+Limeira,Bairro São Francisco,terreno,venda,892.5,800.1,925.0,6,,novembro/2026
+Limeira,Centro,terreno,venda,1131.4,189.5,2008.7,15,,novembro/2026
+Limeira,Chácaras Antonieta,terreno,venda,1471.9,997.0,1471.9,11,,novembro/2026
+Limeira,Jardim Campo Verde I,terreno,venda,903.2,848.0,965.0,8,,novembro/2026
+Limeira,Jardim Campo Verde II,terreno,venda,891.4,646.9,995.6,18,,novembro/2026
+Limeira,Jardim Cidade Universitária I,terreno,venda,1080.0,1000.0,1160.0,9,,novembro/2026
+Limeira,Jardim Cidade Universitária II,terreno,venda,1431.0,1355.6,1479.3,15,,novembro/2026
+Limeira,Jardim dos Jequitibás,terreno,venda,990.0,850.0,1150.0,13,,novembro/2026
+Limeira,Jardim Hortência,terreno,venda,1001.7,662.3,1217.9,9,,novembro/2026
+Limeira,Jardim Lagoa Nova,terreno,venda,833.3,550.0,857.1,5,,novembro/2026
+Limeira,Jardim Marajoara,terreno,venda,797.3,740.6,902.7,36,,novembro/2026
+Limeira,Jardim Nova,terreno,venda,155.0,137.1,410.7,8,,novembro/2026
+Limeira,Jardim Residencial Campo Novo,terreno,venda,903.0,725.4,1121.6,10,,novembro/2026
+Limeira,Jardim Residencial Recanto Alvorada,terreno,venda,709.9,675.7,875.0,5,,novembro/2026
+Limeira,Jardim Residencial Village,terreno,venda,707.8,600.7,765.0,7,,novembro/2026
+Limeira,Jardim Residencial Walter Lúcio Peccinini,terreno,venda,1035.0,500.0,1100.0,5,,novembro/2026
+Limeira,Loiolas,terreno,venda,200.0,190.0,2300.0,5,,novembro/2026
+Limeira,Novos Bandeirantes,terreno,venda,350.0,306.2,393.8,6,,novembro/2026
+Limeira,Parque Egisto Ragazzo,terreno,venda,1100.0,978.9,1176.9,19,,novembro/2026
+Limeira,Parque Hippolyto,terreno,venda,843.5,777.7,930.9,8,,novembro/2026
+Limeira,Parque Pompeu,terreno,venda,995.0,904.5,1077.9,7,,novembro/2026
+Limeira,Parque Residencial Aeroporto,terreno,venda,1343.4,887.0,1622.5,8,,novembro/2026
+Limeira,Parque Residencial Roland,terreno,venda,1222.9,1011.1,1434.1,14,,novembro/2026
+Limeira,Portal de São Clemente,terreno,venda,1027.0,988.2,1080.0,6,,novembro/2026
+Limeira,Residenciais Fazenda Itapema,terreno,venda,1311.3,1066.7,1395.3,33,,novembro/2026
+Limeira,Residencial Chácara São José,terreno,venda,1000.0,997.1,1059.3,5,,novembro/2026
+Limeira,Residencial Colinas do Engenho,terreno,venda,461.9,414.8,697.0,5,,novembro/2026
+Limeira,Residencial Colinas do Engenho I,terreno,venda,707.5,628.0,770.0,57,,novembro/2026
+Limeira,Residencial Colinas do Engenho II,terreno,venda,750.0,674.3,800.0,7,,novembro/2026
+Limeira,Residencial Florisa,terreno,venda,693.2,547.8,747.0,20,,novembro/2026
+Limeira,Residencial Ilha de Bali,terreno,venda,1317.7,1245.9,1334.6,6,,novembro/2026
+Limeira,Residencial Nobreville,terreno,venda,935.6,900.0,950.0,5,,novembro/2026
+Limeira,Residencial Palmeira Real,terreno,venda,784.0,696.8,833.0,14,,novembro/2026
+Limeira,Residencial Royal Palm,terreno,venda,700.0,110.0,900.0,5,,novembro/2026
+Limeira,Terras de São Bento I,terreno,venda,1557.0,1469.7,1603.8,12,,novembro/2026
+Limeira,Terras de São Bento II,terreno,venda,1564.3,1480.4,1784.1,14,,novembro/2026
+Limeira,Terras de São Bento III,terreno,venda,1400.0,640.0,1428.6,5,,novembro/2026
+Limeira,Vila Cidade Jardim,terreno,venda,920.1,917.9,955.2,8,,novembro/2026
+Limeira,Vila Claudia,terreno,venda,1666.7,1184.6,1900.0,7,,novembro/2026
+Limeira,Vila Queiroz,terreno,venda,750.0,700.0,1501.3,9,,novembro/2026
+Limeira,Boa Vista,sala,aluguel,28.4,21.4,35.7,21,,novembro/2026
+Limeira,Centro,sala,venda,4209.1,3183.2,5332.0,34,9.84,novembro/2026
+Limeira,Centro,sala,aluguel,34.5,23.0,55.0,189,9.84,novembro/2026
+Limeira,Jardim Campo Belo,sala,aluguel,36.4,21.6,42.5,9,,novembro/2026
+Limeira,Jardim Cidade Universitária I,sala,aluguel,38.8,35.9,40.6,10,,novembro/2026
+Limeira,Jardim da Graminha,sala,aluguel,33.6,24.4,60.1,8,,novembro/2026
+Limeira,Jardim dos Jequitibás,sala,aluguel,41.1,39.5,46.7,7,,novembro/2026
+Limeira,Jardim Glória,sala,aluguel,58.8,31.3,103.1,15,,novembro/2026
+Limeira,Jardim Gustavo Peccinini,sala,aluguel,17.4,16.1,22.9,5,,novembro/2026
+Limeira,Jardim Ibirapuera,sala,aluguel,27.5,24.4,29.4,6,,novembro/2026
+Limeira,Jardim Marajoara,sala,aluguel,33.3,30.6,51.4,7,,novembro/2026
+Limeira,Jardim Mercedes,sala,aluguel,77.1,49.5,116.5,10,,novembro/2026
+Limeira,Jardim Nova Europa,sala,aluguel,34.0,32.1,45.0,5,,novembro/2026
+Limeira,Jardim Novo Horizonte,sala,aluguel,69.8,34.2,94.0,6,,novembro/2026
+Limeira,Jardim Ouro Verde,sala,aluguel,37.1,19.2,43.8,9,,novembro/2026
+Limeira,Jardim Piratininga,sala,aluguel,57.7,53.8,65.0,8,,novembro/2026
+Limeira,Jardim Residencial Recanto Alvorada,sala,aluguel,24.0,19.8,25.1,7,,novembro/2026
+Limeira,Jardim Residencial Regina Bastelli,sala,aluguel,21.1,17.9,40.0,5,,novembro/2026
+Limeira,Jardim Residencial Victório Lucato,sala,aluguel,26.0,14.9,45.3,6,,novembro/2026
+Limeira,Jardim São Paulo,sala,aluguel,40.0,28.1,58.1,5,,novembro/2026
+Limeira,Jardim Vista Alegre,sala,aluguel,28.5,21.9,35.6,10,,novembro/2026
+Limeira,Parque Novo Mundo,sala,aluguel,36.3,32.0,43.8,6,,novembro/2026
+Limeira,Parque Pompeo,sala,aluguel,28.0,24.5,32.9,8,,novembro/2026
+Limeira,Parque Residencial Abílio Pedro,sala,aluguel,31.2,24.3,40.2,7,,novembro/2026
+Limeira,Parque Residencial Belinha Ometto,sala,aluguel,34.1,29.0,36.1,6,,novembro/2026
+Limeira,Parque Residencial Santa Eulália,sala,aluguel,27.1,20.7,31.5,15,,novembro/2026
+Limeira,Vila Camargo,sala,aluguel,26.9,24.6,41.2,11,,novembro/2026
+Limeira,Vila Cidade Jardim,sala,aluguel,37.7,30.8,49.5,14,,novembro/2026
+Limeira,Vila Claudia,sala,aluguel,47.5,29.6,75.7,14,,novembro/2026
+Limeira,Vila Cristóvam,sala,aluguel,42.5,34.4,60.2,12,,novembro/2026
+Limeira,Vila Esteves,sala,aluguel,66.6,64.3,69.5,6,,novembro/2026
+Limeira,Vila Queiroz,sala,aluguel,38.3,23.2,52.8,6,,novembro/2026
+Limeira,Vila Santa Rosália,sala,aluguel,39.5,29.7,45.1,7,,novembro/2026
+Limeira,Vila São Luiz,sala,aluguel,62.5,62.5,75.0,5,,novembro/2026
+Limeira,Centro,galpao,aluguel,22.6,19.4,26.0,22,,novembro/2026
+Limeira,Centro Industrial de Limeira - Cil,galpao,aluguel,22.3,18.1,28.2,6,,novembro/2026
+Limeira,Jardim Anhangüera,galpao,aluguel,16.3,16.3,16.7,5,,novembro/2026
+Limeira,Jardim Boa Vista,galpao,aluguel,24.0,18.3,25.7,7,,novembro/2026
+Limeira,Jardim Cidade Universitária II,galpao,venda,5584.4,5409.1,6422.4,5,6.45,novembro/2026
+Limeira,Jardim Cidade Universitária II,galpao,aluguel,30.0,28.6,40.0,5,6.45,novembro/2026
+Limeira,Jardim Esmeralda,galpao,aluguel,17.2,16.7,19.4,5,,novembro/2026
+Limeira,Jardim Glória,galpao,aluguel,23.3,21.3,29.0,10,,novembro/2026
+Limeira,Jardim Nossa Senhora de Fátima,galpao,aluguel,19.6,17.2,20.5,7,,novembro/2026
+Limeira,Jardim Nova,galpao,aluguel,26.1,19.9,30.1,28,,novembro/2026
+Limeira,Jardim Porto Real,galpao,aluguel,28.0,27.0,28.0,5,,novembro/2026
+Limeira,Jardim Porto Real II,galpao,aluguel,26.5,23.7,27.3,5,,novembro/2026
+Limeira,Jardim Porto Real IV,galpao,venda,4359.0,4349.8,5056.2,5,7.46,novembro/2026
+Limeira,Jardim Porto Real IV,galpao,aluguel,27.1,19.1,31.8,6,7.46,novembro/2026
+Limeira,Parque Industrial Souza Queiroz,galpao,aluguel,14.8,14.0,16.0,11,,novembro/2026
+Limeira,Residencial Colinas do Engenho I,galpao,aluguel,24.8,22.5,30.2,7,,novembro/2026
+Limeira,Vila Nova,galpao,aluguel,18.8,17.8,24.7,5,,novembro/2026
+Limeira,Vila São João,galpao,aluguel,30.8,20.9,40.8,5,,novembro/2026

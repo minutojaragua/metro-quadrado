@@ -1,0 +1,71 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Cachoeirinha,Campo Belo,casa,venda,5272.7,4892.0,5617.6,6,,novembro/2026
+Cachoeirinha,Central Park,casa,venda,7088.4,6104.4,8118.2,104,10.28,novembro/2026
+Cachoeirinha,Central Park,casa,aluguel,60.7,50.9,63.6,7,10.28,novembro/2026
+Cachoeirinha,Central Parque,casa,venda,6172.0,5697.7,7358.5,17,,novembro/2026
+Cachoeirinha,Chácara das Rosas,casa,venda,3750.0,3357.5,4907.6,7,,novembro/2026
+Cachoeirinha,City Park,casa,venda,10713.9,9875.5,11815.9,11,,novembro/2026
+Cachoeirinha,Distrito Industrial,casa,venda,7525.3,5814.8,9758.9,75,10.8,novembro/2026
+Cachoeirinha,Distrito Industrial,casa,aluguel,67.7,52.4,83.9,5,10.8,novembro/2026
+Cachoeirinha,Fazenda Esperança,casa,venda,4818.2,3951.3,5471.2,7,,novembro/2026
+Cachoeirinha,Jardim Betânia,casa,venda,4311.3,3756.0,4987.5,20,,novembro/2026
+Cachoeirinha,Jardim do Bosque,casa,venda,4833.3,3272.9,5750.0,18,,novembro/2026
+Cachoeirinha,Meu Rincão,casa,venda,5120.0,4240.7,5795.5,9,,novembro/2026
+Cachoeirinha,Morada do Bosque,casa,venda,3723.4,3166.7,3940.0,13,,novembro/2026
+Cachoeirinha,Nova Cachoeirinha,casa,venda,3676.1,2963.2,4313.8,6,,novembro/2026
+Cachoeirinha,Parque da Matriz,casa,venda,4663.6,3420.8,5707.1,105,7.72,novembro/2026
+Cachoeirinha,Parque da Matriz,casa,aluguel,30.0,28.2,34.8,7,7.72,novembro/2026
+Cachoeirinha,Parque Espírito Santo,casa,venda,5108.7,3815.7,5702.2,8,,novembro/2026
+Cachoeirinha,Parque Granja Esperança,casa,venda,3676.9,3181.8,4362.5,25,,novembro/2026
+Cachoeirinha,Parque Marechal Rondon,casa,venda,4286.8,4001.2,5019.6,14,,novembro/2026
+Cachoeirinha,Residencial Meu Rincão,casa,venda,5045.4,4886.7,5627.0,5,,novembro/2026
+Cachoeirinha,Sítio Ipiranga,casa,venda,5558.1,5080.8,6041.8,7,,novembro/2026
+Cachoeirinha,Sítio Túnel Verde,casa,venda,6295.2,5851.9,7459.0,16,,novembro/2026
+Cachoeirinha,Vale do Sol,casa,venda,5500.0,4542.9,5991.3,29,,novembro/2026
+Cachoeirinha,Vila Bom Princípio,casa,venda,4580.1,2967.3,5756.7,8,,novembro/2026
+Cachoeirinha,Vila Cachoeirinha,casa,venda,3750.0,2605.0,4066.7,7,,novembro/2026
+Cachoeirinha,Vila Eunice Velha,casa,venda,2828.6,2375.0,4142.9,9,,novembro/2026
+Cachoeirinha,Vila Fátima,casa,venda,3859.8,2485.2,5460.2,18,,novembro/2026
+Cachoeirinha,Vila Monte Carlo,casa,venda,3368.4,2611.1,4541.7,11,,novembro/2026
+Cachoeirinha,Vila Parque Brasília,casa,venda,4019.1,2880.8,5216.9,10,,novembro/2026
+Cachoeirinha,Vila Princesa Izabel,casa,venda,3044.9,2482.5,3863.6,9,,novembro/2026
+Cachoeirinha,Vila Regina,casa,venda,5945.7,4998.6,6308.5,5,,novembro/2026
+Cachoeirinha,Vila Silveira Martins,casa,venda,4157.4,3691.2,4749.6,8,,novembro/2026
+Cachoeirinha,Vila Vista Alegre,casa,venda,3752.9,2845.2,5319.4,37,,novembro/2026
+Cachoeirinha,Central Park,apartamento,venda,6089.8,5958.1,6459.4,11,,novembro/2026
+Cachoeirinha,City,apartamento,venda,4936.7,4807.7,5178.0,5,,novembro/2026
+Cachoeirinha,Cohab,apartamento,venda,5128.0,4238.3,5894.5,6,,novembro/2026
+Cachoeirinha,Jardim Betânia,apartamento,venda,3773.1,3302.3,4416.7,17,,novembro/2026
+Cachoeirinha,Jardim do Bosque,apartamento,venda,3329.8,3099.6,4313.7,10,,novembro/2026
+Cachoeirinha,Nova Cachoeirinha,apartamento,venda,4234.0,2894.7,4561.2,9,,novembro/2026
+Cachoeirinha,Parque da Matriz,apartamento,venda,4446.4,3785.7,5047.6,9,,novembro/2026
+Cachoeirinha,Parque Marechal Rondon,apartamento,venda,3600.0,3378.4,3947.4,13,,novembro/2026
+Cachoeirinha,Vila,apartamento,venda,4078.3,3717.9,4746.3,13,,novembro/2026
+Cachoeirinha,Vila Bom Princípio,apartamento,venda,4604.7,4170.2,5135.4,10,,novembro/2026
+Cachoeirinha,Vila Cachoeirinha,apartamento,venda,3999.4,3193.6,4830.4,58,,novembro/2026
+Cachoeirinha,Vila City,apartamento,venda,4233.1,3900.6,4770.3,8,,novembro/2026
+Cachoeirinha,Vila Eunice Nova,apartamento,venda,4430.8,3761.9,8033.1,24,,novembro/2026
+Cachoeirinha,Vila Eunice Velha,apartamento,venda,4198.7,3085.2,8190.9,18,,novembro/2026
+Cachoeirinha,Vila Fátima,apartamento,venda,4159.7,4011.5,4675.1,6,,novembro/2026
+Cachoeirinha,Vila Imbuhy,apartamento,venda,3466.7,2549.0,3968.3,13,,novembro/2026
+Cachoeirinha,Vila Imbui,apartamento,venda,3815.7,2957.5,4959.3,16,,novembro/2026
+Cachoeirinha,Vila Jardim América,apartamento,venda,5136.4,4522.2,6023.5,10,,novembro/2026
+Cachoeirinha,Vila Monte Carlo,apartamento,venda,4781.1,4097.4,5929.0,22,,novembro/2026
+Cachoeirinha,Vila Ponta Porã,apartamento,venda,2720.9,1952.2,3814.2,6,,novembro/2026
+Cachoeirinha,Vila Princesa Izabel,apartamento,venda,4003.8,3784.3,5403.6,10,,novembro/2026
+Cachoeirinha,Vila Santo Ângelo,apartamento,venda,2758.6,2586.2,4083.3,5,,novembro/2026
+Cachoeirinha,Vila Silveira Martins,apartamento,venda,4753.8,4501.4,5269.2,6,,novembro/2026
+Cachoeirinha,Vila Veranópolis,apartamento,venda,3940.6,3100.2,4524.9,8,,novembro/2026
+Cachoeirinha,Vila Vista Alegre,apartamento,venda,4148.8,3651.1,4555.2,22,6.74,novembro/2026
+Cachoeirinha,Vila Vista Alegre,apartamento,aluguel,23.3,16.4,25.9,10,6.74,novembro/2026
+Cachoeirinha,Central Park,terreno,venda,1498.8,1131.1,1772.7,13,,novembro/2026
+Cachoeirinha,Distrito Industrial,terreno,venda,1327.3,933.7,1525.0,12,,novembro/2026
+Cachoeirinha,Parque da Matriz,terreno,venda,1264.1,1137.0,1378.2,10,,novembro/2026
+Cachoeirinha,Parque Espírito Santo,terreno,venda,715.8,653.4,812.7,8,,novembro/2026
+Cachoeirinha,Residencial Meu Rincão,terreno,venda,988.5,926.7,1173.4,5,,novembro/2026
+Cachoeirinha,Vale do Sol,terreno,venda,1013.6,996.2,1175.0,5,,novembro/2026
+Cachoeirinha,Vila Cachoeirinha,terreno,venda,800.0,739.1,1187.7,5,,novembro/2026
+Cachoeirinha,Vila Monte Carlo,terreno,venda,888.9,810.0,1430.0,7,,novembro/2026
+Cachoeirinha,Vila Princesa Izabel,terreno,venda,800.0,700.0,848.5,5,,novembro/2026
+Cachoeirinha,Vila Vista Alegre,terreno,venda,946.7,781.7,1128.3,11,,novembro/2026
+Cachoeirinha,Vila Santo Ângelo,sala,aluguel,28.0,26.0,37.5,5,,novembro/2026

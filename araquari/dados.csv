@@ -1,24 +1,29 @@
 cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
-Araquari,Areias Pequenas,casa,venda,2479.2,2083.3,3428.6,17,,outubro/2026
-Araquari,Barra do Itapocú,casa,venda,3700.0,2296.4,4930.6,20,,outubro/2026
-Araquari,Centro,casa,venda,4400.0,2275.0,5490.4,23,,outubro/2026
-Araquari,Colégio Agrícola,casa,venda,2500.0,1874.6,3255.8,9,,outubro/2026
-Araquari,Itinga,casa,venda,4330.7,3286.8,5409.1,103,6.95,outubro/2026
-Araquari,Itinga,casa,aluguel,25.1,20.7,28.4,20,6.95,outubro/2026
-Araquari,Porto Grande,casa,venda,4335.3,3236.7,4768.5,16,,outubro/2026
-Araquari,Volta Redonda,casa,venda,3578.3,2458.3,4970.0,8,,outubro/2026
-Araquari,Itinga,apartamento,venda,4979.2,4035.1,5395.8,13,6.7,outubro/2026
-Araquari,Itinga,apartamento,aluguel,27.8,20.0,42.9,5,6.7,outubro/2026
-Araquari,Areias Pequenas,terreno,venda,490.0,281.8,600.2,19,,outubro/2026
-Araquari,Barra do Itapocú,terreno,venda,792.3,565.2,1494.8,42,,outubro/2026
-Araquari,Centro,terreno,venda,648.5,450.0,900.0,25,,outubro/2026
-Araquari,Colégio Agrícola,terreno,venda,530.0,450.0,687.1,13,,outubro/2026
-Araquari,Corveta,terreno,venda,268.5,229.8,386.0,10,,outubro/2026
-Araquari,Itapocu,terreno,venda,989.8,622.8,1804.0,15,,outubro/2026
-Araquari,Itinga,terreno,venda,745.9,538.5,940.3,57,,outubro/2026
-Araquari,Porto Grande,terreno,venda,383.7,281.0,493.7,30,,outubro/2026
-Araquari,Volta Redonda,terreno,venda,465.6,397.5,604.0,19,,outubro/2026
-Araquari,Itinga,sala,aluguel,40.6,30.8,44.5,11,,outubro/2026
-Araquari,Corveta,galpao,aluguel,28.0,23.5,29.5,7,,outubro/2026
-Araquari,Itinga,galpao,venda,975.9,825.1,3866.7,5,,outubro/2026
-Araquari,Porto Grande,galpao,aluguel,20.0,13.2,20.8,11,,outubro/2026
+Araquari,Areias Pequenas,casa,venda,2696.1,2071.8,3841.9,20,,novembro/2026
+Araquari,Barra do Itapocú,casa,venda,3087.2,2185.6,4907.4,21,,novembro/2026
+Araquari,Centro,casa,venda,4426.0,2602.2,5769.9,34,,novembro/2026
+Araquari,Colégio Agrícola,casa,venda,2500.0,1874.6,3255.8,9,,novembro/2026
+Araquari,Itapocu,casa,venda,2588.8,1767.9,3594.4,6,,novembro/2026
+Araquari,Itinga,casa,venda,4353.3,3299.0,5405.2,154,7.42,novembro/2026
+Araquari,Itinga,casa,aluguel,26.9,22.9,29.1,24,7.42,novembro/2026
+Araquari,Porto Grande,casa,venda,4352.9,3421.1,4761.9,21,,novembro/2026
+Araquari,Volta Redonda,casa,venda,2500.0,2001.5,3944.2,11,,novembro/2026
+Araquari,Itinga,apartamento,venda,4842.7,3894.0,5513.2,20,6.94,novembro/2026
+Araquari,Itinga,apartamento,aluguel,28.0,20.0,40.3,9,6.94,novembro/2026
+Araquari,Areias Pequenas,terreno,venda,490.0,267.2,596.1,21,,novembro/2026
+Araquari,Barra do Itapocú,terreno,venda,1471.6,676.7,1701.0,61,,novembro/2026
+Araquari,Centro,terreno,venda,629.8,452.0,865.3,44,,novembro/2026
+Araquari,Colégio Agrícola,terreno,venda,540.2,451.8,687.4,12,,novembro/2026
+Araquari,Corveta,terreno,venda,268.4,199.8,341.3,14,,novembro/2026
+Araquari,Itapocu,terreno,venda,955.2,595.2,1682.9,18,,novembro/2026
+Araquari,Itinga,terreno,venda,736.8,566.2,937.6,99,,novembro/2026
+Araquari,Parque Residencial Cerro Azul,terreno,venda,477.1,427.4,712.3,5,,novembro/2026
+Araquari,Porto Grande,terreno,venda,383.7,291.5,535.4,44,,novembro/2026
+Araquari,Volta Redonda,terreno,venda,472.4,398.7,629.9,24,,novembro/2026
+Araquari,Itinga,sala,aluguel,36.5,30.0,43.8,13,,novembro/2026
+Araquari,Corveta,galpao,aluguel,27.5,22.4,28.9,18,,novembro/2026
+Araquari,Itinga,galpao,venda,3110.9,938.2,3924.3,8,9.53,novembro/2026
+Araquari,Itinga,galpao,aluguel,24.7,15.0,32.4,6,9.53,novembro/2026
+Araquari,Porto Grande,galpao,aluguel,15.1,11.7,20.4,16,,novembro/2026
+Araquari,Volta Redonda,galpao,venda,2598.1,1785.7,2803.7,5,9.47,novembro/2026
+Araquari,Volta Redonda,galpao,aluguel,20.5,16.2,26.5,6,9.47,novembro/2026

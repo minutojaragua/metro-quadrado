@@ -1,0 +1,89 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Caçapava,Bairro do Grama,casa,venda,7380.0,6450.4,8200.6,67,,novembro/2026
+Caçapava,Borda da Mata,casa,venda,3355.8,2556.5,4831.4,20,,novembro/2026
+Caçapava,Caçapava,casa,venda,6955.3,6395.2,7119.9,20,,novembro/2026
+Caçapava,Caçapava Velha,casa,venda,5407.0,4600.0,6978.1,21,,novembro/2026
+Caçapava,Centro,casa,venda,4584.6,3858.7,5828.7,12,,novembro/2026
+Caçapava,Ecopark Bourbon,casa,venda,7154.2,5961.7,7722.3,11,,novembro/2026
+Caçapava,Jardim Amália,casa,venda,3995.9,2954.7,4563.1,13,,novembro/2026
+Caçapava,Jardim Caçapava,casa,venda,7037.0,5268.9,8501.0,7,,novembro/2026
+Caçapava,Jardim Maria Cândida,casa,venda,3709.1,3062.5,4738.0,26,,novembro/2026
+Caçapava,Jardim Panorama,casa,venda,2912.1,1887.1,4506.0,15,,novembro/2026
+Caçapava,Jardim Rafael,casa,venda,3200.0,2632.0,3868.0,11,,novembro/2026
+Caçapava,Jardim São José,casa,venda,3000.0,2312.9,3835.0,9,,novembro/2026
+Caçapava,Jardim Terras do Vale,casa,venda,7533.3,6819.4,8417.6,24,,novembro/2026
+Caçapava,Malibu,casa,venda,7002.7,6579.5,7941.3,12,,novembro/2026
+Caçapava,Parque do Museu,casa,venda,4845.9,3976.7,5972.2,22,,novembro/2026
+Caçapava,Parque Residencial Eldorado,casa,venda,2836.2,2431.8,3503.6,8,,novembro/2026
+Caçapava,Parque Residencial Maria Elmira,casa,venda,6419.4,5450.4,7126.0,51,,novembro/2026
+Caçapava,Parque Residencial Nova,casa,venda,4535.4,2837.4,7648.7,8,,novembro/2026
+Caçapava,Parque Residencial Santo André,casa,venda,3296.7,2922.2,3792.5,19,,novembro/2026
+Caçapava,Piedade,casa,venda,6724.1,5985.8,7773.8,23,,novembro/2026
+Caçapava,Reserva do Vale,casa,venda,6028.6,5248.4,6712.3,80,9.06,novembro/2026
+Caçapava,Reserva do Vale,casa,aluguel,45.5,27.9,48.2,8,9.06,novembro/2026
+Caçapava,Residencial Aldeias da Serra,casa,venda,3235.3,2009.1,3469.1,7,,novembro/2026
+Caçapava,Residencial Alta Vista 1,casa,venda,6640.6,5681.8,7200.0,17,,novembro/2026
+Caçapava,Residencial Alta Vista 2,casa,venda,5485.2,5051.2,6458.5,14,,novembro/2026
+Caçapava,Residencial Amor,casa,venda,6250.0,5083.3,6385.8,7,,novembro/2026
+Caçapava,Residencial Colinas.,casa,venda,6648.6,5910.1,7348.3,74,8.12,novembro/2026
+Caçapava,Residencial Colinas.,casa,aluguel,45.0,41.0,58.8,5,8.12,novembro/2026
+Caçapava,Residencial Esperança,casa,venda,4808.2,3709.1,5483.6,15,,novembro/2026
+Caçapava,Residencial Malibu,casa,venda,6782.5,6314.1,7191.8,18,,novembro/2026
+Caçapava,Residencial Santa Helena,casa,venda,6015.2,4272.2,6826.5,24,,novembro/2026
+Caçapava,Residencial Santa Monica,casa,venda,7415.7,6666.1,7684.6,7,,novembro/2026
+Caçapava,Residencial Terras do Vale,casa,venda,6738.7,5866.2,7482.6,52,,novembro/2026
+Caçapava,Santa Luzia,casa,venda,5817.0,4126.1,7498.8,14,,novembro/2026
+Caçapava,Santa Mônica,casa,venda,6944.4,6500.0,7446.8,17,,novembro/2026
+Caçapava,Sapé 1,casa,venda,6544.6,5623.6,7127.0,8,,novembro/2026
+Caçapava,Terras do Vale,casa,venda,7506.2,6611.8,8276.4,19,,novembro/2026
+Caçapava,Vera Cruz,casa,venda,3937.0,3028.5,4526.3,5,,novembro/2026
+Caçapava,Vila Antônio Augusto Luiz,casa,venda,2923.5,2318.8,2925.5,5,,novembro/2026
+Caçapava,Vila Bandeirantes,casa,venda,4147.2,2932.7,5088.5,6,,novembro/2026
+Caçapava,Vila Menino Jesus,casa,venda,1833.5,1431.2,2119.9,6,,novembro/2026
+Caçapava,Vila Pantaleão,casa,venda,6785.1,3472.2,7368.4,5,,novembro/2026
+Caçapava,Vila Paraíso,casa,venda,5454.5,3790.2,5800.0,9,,novembro/2026
+Caçapava,Vila Resende,casa,venda,3269.6,2992.5,4145.5,18,,novembro/2026
+Caçapava,Vila Santa Izabel,casa,venda,2912.6,2868.9,3106.8,5,,novembro/2026
+Caçapava,Vila Santos,casa,venda,4105.9,3285.3,4803.2,20,,novembro/2026
+Caçapava,Vila São João,casa,venda,3326.1,2489.9,3782.0,7,,novembro/2026
+Caçapava,Village das Flores,casa,venda,4260.0,3375.0,4954.5,23,,novembro/2026
+Caçapava,Centro,apartamento,venda,7769.2,6907.9,7894.7,5,,novembro/2026
+Caçapava,Vera Cruz,apartamento,venda,5789.5,5678.6,6197.2,9,,novembro/2026
+Caçapava,Vila Antônio Augusto Luiz,apartamento,venda,6209.7,5577.4,6555.8,7,,novembro/2026
+Caçapava,Vila Paraíso,apartamento,venda,4091.3,3788.5,4683.2,8,,novembro/2026
+Caçapava,Bairro do Grama,terreno,venda,933.7,806.2,1132.9,32,,novembro/2026
+Caçapava,Bairro Ecopark,terreno,venda,844.2,808.5,890.4,6,,novembro/2026
+Caçapava,Bella Vitta,terreno,venda,638.9,616.6,701.4,7,,novembro/2026
+Caçapava,Borda da Mata,terreno,venda,829.1,732.3,901.0,32,,novembro/2026
+Caçapava,Borda do Lago,terreno,venda,770.4,751.2,889.0,7,,novembro/2026
+Caçapava,Caçapava,terreno,venda,778.9,690.6,997.8,18,,novembro/2026
+Caçapava,Caçapava Velha,terreno,venda,655.0,232.8,780.0,18,,novembro/2026
+Caçapava,Caminho da Mata,terreno,venda,611.1,597.2,736.1,5,,novembro/2026
+Caçapava,Ecopark,terreno,venda,827.6,754.2,862.9,7,,novembro/2026
+Caçapava,Ecopark Boubon,terreno,venda,833.3,736.1,871.1,5,,novembro/2026
+Caçapava,Ecopark Bourbon,terreno,venda,791.9,734.7,833.5,16,,novembro/2026
+Caçapava,Estrada,terreno,venda,652.8,611.1,661.1,5,,novembro/2026
+Caçapava,Jardim Campo Grande,terreno,venda,700.0,227.3,700.0,25,,novembro/2026
+Caçapava,Jardim Maria Cândida,terreno,venda,775.8,712.7,835.6,11,,novembro/2026
+Caçapava,Jardim Terras do Vale,terreno,venda,1007.9,943.3,1088.3,7,,novembro/2026
+Caçapava,Marambaia,terreno,venda,110.0,70.8,151.0,7,,novembro/2026
+Caçapava,Parque do Museu,terreno,venda,898.0,797.7,913.7,5,,novembro/2026
+Caçapava,Parque Residencial Maria Elmira,terreno,venda,838.2,771.7,897.4,29,,novembro/2026
+Caçapava,Piedade,terreno,venda,802.0,672.0,840.0,27,,novembro/2026
+Caçapava,Reserva do Vale,terreno,venda,851.0,797.6,876.1,22,,novembro/2026
+Caçapava,Residencial Aldeias da Serra,terreno,venda,555.6,530.7,575.4,5,,novembro/2026
+Caçapava,Residencial Colinas.,terreno,venda,860.0,808.0,912.7,19,,novembro/2026
+Caçapava,Residencial Esperança,terreno,venda,918.0,322.5,989.7,12,,novembro/2026
+Caçapava,Residencial Malibu,terreno,venda,916.7,860.3,971.7,11,,novembro/2026
+Caçapava,Residencial Terras do Vale,terreno,venda,900.0,800.0,1042.0,15,,novembro/2026
+Caçapava,Santa Luzia,terreno,venda,618.5,526.7,678.5,26,,novembro/2026
+Caçapava,Santa Mônica,terreno,venda,777.8,771.0,778.3,5,,novembro/2026
+Caçapava,Sapé 1,terreno,venda,840.3,657.9,952.1,8,,novembro/2026
+Caçapava,Terras do Vale,terreno,venda,1011.0,961.7,1031.9,7,,novembro/2026
+Caçapava,Tijuco Preto,terreno,venda,781.2,635.3,862.9,6,,novembro/2026
+Caçapava,Vila Antônio Augusto Luiz,terreno,venda,1049.8,961.1,1127.5,6,,novembro/2026
+Caçapava,Vila Galvão,terreno,venda,612.0,450.0,686.3,9,,novembro/2026
+Caçapava,Vila Menino Jesus,terreno,venda,751.7,675.3,828.1,8,,novembro/2026
+Caçapava,Vila Velha,terreno,venda,756.3,115.0,784.3,5,,novembro/2026
+Caçapava,Santa Luzia,galpao,aluguel,15.4,14.7,19.0,10,,novembro/2026
+Caçapava,Vila Galvão,galpao,aluguel,25.1,24.0,29.6,5,,novembro/2026

@@ -1,0 +1,106 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Maceió,Antares,casa,venda,4421.1,3312.5,5666.7,117,8.01,novembro/2026
+Maceió,Antares,casa,aluguel,29.5,26.7,34.8,7,8.01,novembro/2026
+Maceió,Barro Duro,casa,venda,3625.0,3333.3,4437.9,25,,novembro/2026
+Maceió,Benedito Bentes,casa,venda,1995.0,1401.9,2700.0,49,,novembro/2026
+Maceió,Canaã,casa,venda,2047.6,1023.8,2266.7,5,,novembro/2026
+Maceió,Centro,casa,venda,2649.0,1838.2,3684.2,13,,novembro/2026
+Maceió,Cidade Universitária,casa,venda,2333.3,1562.5,3584.9,145,10.59,novembro/2026
+Maceió,Cidade Universitária,casa,aluguel,20.6,16.2,23.8,8,10.59,novembro/2026
+Maceió,Clima Bom,casa,venda,1590.0,1280.0,1772.4,23,,novembro/2026
+Maceió,Cruz das Almas,casa,venda,4562.3,3467.1,6051.1,14,,novembro/2026
+Maceió,Farol,casa,venda,2924.1,2158.3,4123.9,30,,novembro/2026
+Maceió,Feitosa,casa,venda,2929.5,2329.2,3985.2,30,,novembro/2026
+Maceió,Garça Torta,casa,venda,7159.3,6245.1,11329.4,28,,novembro/2026
+Maceió,Gruta de Lourdes,casa,venda,3347.6,2932.6,4437.0,59,,novembro/2026
+Maceió,Guaxuma,casa,venda,8076.9,7077.6,8823.2,25,,novembro/2026
+Maceió,Ipioca,casa,venda,3583.3,2340.9,4848.0,32,,novembro/2026
+Maceió,Jacarecica,casa,venda,6111.1,3437.5,6566.7,13,,novembro/2026
+Maceió,Jacintinho,casa,venda,1953.3,1641.4,2371.7,8,,novembro/2026
+Maceió,Jardim Petrópolis,casa,venda,4395.6,3555.6,5217.4,73,7.64,novembro/2026
+Maceió,Jardim Petrópolis,casa,aluguel,28.0,22.9,32.6,9,7.64,novembro/2026
+Maceió,Jatiúca,casa,venda,5317.5,4026.2,8204.0,14,6.77,novembro/2026
+Maceió,Jatiúca,casa,aluguel,30.0,30.0,30.0,5,6.77,novembro/2026
+Maceió,Mangabeiras,casa,venda,5476.2,4398.8,6523.1,10,,novembro/2026
+Maceió,Pescaria,casa,venda,5792.1,5000.0,8750.0,5,,novembro/2026
+Maceió,Petrópolis,casa,venda,2314.8,1795.5,2575.8,7,,novembro/2026
+Maceió,Pitanguinha,casa,venda,2744.6,2369.4,3179.1,12,,novembro/2026
+Maceió,Poço,casa,venda,3564.1,2826.9,4206.2,32,,novembro/2026
+Maceió,Ponta Grossa,casa,venda,1981.1,1600.0,2666.7,21,,novembro/2026
+Maceió,Pontal da Barra,casa,venda,4761.9,2742.7,6743.6,7,,novembro/2026
+Maceió,Prado,casa,venda,2149.5,1765.7,2434.1,30,,novembro/2026
+Maceió,Santa Amélia,casa,venda,2933.3,1668.8,4615.0,22,,novembro/2026
+Maceió,Santa Lúcia,casa,venda,1707.7,1384.8,2314.1,28,,novembro/2026
+Maceió,Santos Dumont,casa,venda,1787.4,1209.6,2160.7,34,,novembro/2026
+Maceió,São Jorge,casa,venda,6071.4,2727.3,6497.2,5,,novembro/2026
+Maceió,Serraria,casa,venda,4749.4,3744.9,5996.9,98,,novembro/2026
+Maceió,Tabuleiro do Martins,casa,venda,2037.0,1625.0,2888.9,53,,novembro/2026
+Maceió,Trapiche da Barra,casa,venda,1849.5,1456.3,2110.4,11,,novembro/2026
+Maceió,Vergel do Lago,casa,venda,1769.2,1378.0,2675.0,11,,novembro/2026
+Maceió,Antares,apartamento,venda,5319.1,4545.5,6396.2,65,9.45,novembro/2026
+Maceió,Antares,apartamento,aluguel,41.9,32.2,47.2,15,9.45,novembro/2026
+Maceió,Barro Duro,apartamento,venda,7111.1,5333.3,8217.2,57,6.6,novembro/2026
+Maceió,Barro Duro,apartamento,aluguel,39.1,38.9,44.1,5,6.6,novembro/2026
+Maceió,Benedito Bentes,apartamento,venda,3259.2,2941.8,3847.7,42,,novembro/2026
+Maceió,Canaã,apartamento,venda,5901.6,5333.3,6217.8,5,,novembro/2026
+Maceió,Centro,apartamento,venda,6818.2,4111.5,9289.4,11,,novembro/2026
+Maceió,Cidade Universitária,apartamento,venda,4998.9,4060.6,5553.0,34,8.71,novembro/2026
+Maceió,Cidade Universitária,apartamento,aluguel,36.3,33.5,37.8,8,8.71,novembro/2026
+Maceió,Cruz das Almas,apartamento,venda,12712.4,10151.4,16120.9,204,6.52,novembro/2026
+Maceió,Cruz das Almas,apartamento,aluguel,69.1,52.5,76.8,31,6.52,novembro/2026
+Maceió,Farol,apartamento,venda,7315.4,5797.6,9343.1,104,6.97,novembro/2026
+Maceió,Farol,apartamento,aluguel,42.5,37.9,52.5,14,6.97,novembro/2026
+Maceió,Feitosa,apartamento,venda,3557.2,3344.5,4469.7,20,8.53,novembro/2026
+Maceió,Feitosa,apartamento,aluguel,25.3,23.3,31.4,6,8.53,novembro/2026
+Maceió,Gruta de Lourdes,apartamento,venda,6466.2,4320.2,8008.9,56,,novembro/2026
+Maceió,Guaxuma,apartamento,venda,10329.6,8647.6,12520.7,70,7.33,novembro/2026
+Maceió,Guaxuma,apartamento,aluguel,63.1,45.7,63.6,5,7.33,novembro/2026
+Maceió,Ipioca,apartamento,venda,13703.7,10101.0,15319.1,19,,novembro/2026
+Maceió,Jacarecica,apartamento,venda,13411.5,10825.2,16145.5,116,6.52,novembro/2026
+Maceió,Jacarecica,apartamento,aluguel,72.9,66.4,78.2,7,6.52,novembro/2026
+Maceió,Jacintinho,apartamento,venda,4166.7,2808.8,7256.9,7,,novembro/2026
+Maceió,Jardim Petrópolis,apartamento,venda,3636.4,3333.3,3695.7,5,,novembro/2026
+Maceió,Jatiúca,apartamento,venda,12000.0,8645.0,14772.7,421,6.59,novembro/2026
+Maceió,Jatiúca,apartamento,aluguel,65.9,52.1,79.5,71,6.59,novembro/2026
+Maceió,Mangabeiras,apartamento,venda,8762.9,7543.9,10630.6,97,7.92,novembro/2026
+Maceió,Mangabeiras,apartamento,aluguel,57.8,46.5,66.7,9,7.92,novembro/2026
+Maceió,Pajuçara,apartamento,venda,15097.5,11003.6,20023.0,86,5.06,novembro/2026
+Maceió,Pajuçara,apartamento,aluguel,63.7,60.5,89.2,15,5.06,novembro/2026
+Maceió,Pescaria,apartamento,venda,7500.0,6237.6,7954.5,13,,novembro/2026
+Maceió,Petrópolis,apartamento,venda,3653.7,3167.4,4187.2,26,8.05,novembro/2026
+Maceió,Petrópolis,apartamento,aluguel,24.5,22.5,32.6,5,8.05,novembro/2026
+Maceió,Poço,apartamento,venda,7355.3,5620.2,8340.9,46,8.78,novembro/2026
+Maceió,Poço,apartamento,aluguel,53.8,47.9,58.0,9,8.78,novembro/2026
+Maceió,Ponta da Terra,apartamento,venda,7584.5,5625.0,9870.7,9,,novembro/2026
+Maceió,Ponta Verde,apartamento,venda,12175.6,8990.9,16137.0,516,5.8,novembro/2026
+Maceió,Ponta Verde,apartamento,aluguel,58.8,49.5,76.0,90,5.8,novembro/2026
+Maceió,Prado,apartamento,venda,4700.9,4079.9,4831.9,7,,novembro/2026
+Maceió,Santa Amélia,apartamento,venda,3671.9,2913.6,4360.9,38,,novembro/2026
+Maceió,Santa Lúcia,apartamento,venda,4166.7,3928.6,4523.8,9,,novembro/2026
+Maceió,Santos Dumont,apartamento,venda,3571.7,3121.2,4212.0,12,,novembro/2026
+Maceió,São Jorge,apartamento,venda,7073.2,5459.2,8629.3,47,,novembro/2026
+Maceió,Serraria,apartamento,venda,5687.3,4781.8,7089.3,68,7.64,novembro/2026
+Maceió,Serraria,apartamento,aluguel,36.2,25.9,43.4,7,7.64,novembro/2026
+Maceió,Tabuleiro do Martins,apartamento,venda,4473.7,3600.0,5217.4,69,8.58,novembro/2026
+Maceió,Tabuleiro do Martins,apartamento,aluguel,32.0,29.1,37.1,8,8.58,novembro/2026
+Maceió,Trapiche da Barra,apartamento,venda,7345.5,6272.7,7606.5,6,,novembro/2026
+Maceió,Antares,terreno,venda,1083.3,792.4,1302.8,19,,novembro/2026
+Maceió,Cidade Universitária,terreno,venda,921.4,566.0,1211.7,14,,novembro/2026
+Maceió,Garça Torta,terreno,venda,1484.0,996.9,2291.9,14,,novembro/2026
+Maceió,Guaxuma,terreno,venda,1079.8,882.1,1336.1,30,,novembro/2026
+Maceió,Ipioca,terreno,venda,689.9,586.6,1115.5,14,,novembro/2026
+Maceió,Jardim Petrópolis,terreno,venda,1162.4,947.7,1517.1,8,,novembro/2026
+Maceió,Pescaria,terreno,venda,412.4,388.3,428.9,5,,novembro/2026
+Maceió,Santa Amélia,terreno,venda,472.7,458.3,519.8,5,,novembro/2026
+Maceió,Serraria,terreno,venda,1149.8,833.3,1500.0,17,,novembro/2026
+Maceió,Cruz das Almas,sala,venda,13800.0,10938.5,15096.7,19,,novembro/2026
+Maceió,Farol,sala,venda,11176.5,4107.1,13759.2,15,9.46,novembro/2026
+Maceió,Farol,sala,aluguel,88.1,72.1,95.6,7,9.46,novembro/2026
+Maceió,Gruta de Lourdes,sala,venda,12812.5,11689.1,12973.0,9,10.82,novembro/2026
+Maceió,Gruta de Lourdes,sala,aluguel,115.5,98.0,128.5,8,10.82,novembro/2026
+Maceió,Jatiúca,sala,venda,17351.9,14034.7,18397.1,22,7.79,novembro/2026
+Maceió,Jatiúca,sala,aluguel,112.6,55.0,125.0,9,7.79,novembro/2026
+Maceió,Mangabeiras,sala,venda,13562.1,11709.0,15480.4,14,8.77,novembro/2026
+Maceió,Mangabeiras,sala,aluguel,99.1,88.3,104.9,6,8.77,novembro/2026
+Maceió,Cidade Universitária,galpao,aluguel,23.0,22.2,28.0,5,,novembro/2026
+Maceió,Santa Lúcia,galpao,venda,1177.8,757.6,1645.3,7,,novembro/2026

@@ -1,0 +1,159 @@
+cidade,bairro,tipo,modo,mediana_rs_m2,p25,p75,n_anuncios,yield_anual_pct,coleta
+Itajaí,Balneário Santa Clara,apartamento,venda,19892.5,15546.2,25625.4,217,5.46,novembro/2026
+Itajaí,Balneário Santa Clara,apartamento,aluguel,90.5,68.3,116.2,62,5.46,novembro/2026
+Itajaí,Barra do Rio,apartamento,venda,7901.8,6928.0,9407.1,26,7.47,novembro/2026
+Itajaí,Barra do Rio,apartamento,aluguel,49.2,42.0,54.3,14,7.47,novembro/2026
+Itajaí,Cabeçudas,apartamento,venda,19014.1,15000.0,27240.9,209,4.89,novembro/2026
+Itajaí,Cabeçudas,apartamento,aluguel,77.5,57.7,99.8,39,4.89,novembro/2026
+Itajaí,Canhanduba,apartamento,venda,7132.7,6754.3,7639.8,10,,novembro/2026
+Itajaí,Carvalho,apartamento,venda,8055.6,6854.8,9782.6,37,6.64,novembro/2026
+Itajaí,Carvalho,apartamento,aluguel,44.6,43.4,48.4,9,6.64,novembro/2026
+Itajaí,Centro,apartamento,venda,11147.1,8320.4,14969.0,871,5.85,novembro/2026
+Itajaí,Centro,apartamento,aluguel,54.3,42.2,67.5,159,5.85,novembro/2026
+Itajaí,Cidade Nova,apartamento,venda,6779.7,5946.2,7823.3,71,8.27,novembro/2026
+Itajaí,Cidade Nova,apartamento,aluguel,46.7,41.7,51.3,21,8.27,novembro/2026
+Itajaí,Cordeiros,apartamento,venda,7283.5,6030.0,8534.9,200,7.4,novembro/2026
+Itajaí,Cordeiros,apartamento,aluguel,44.9,40.2,51.7,44,7.4,novembro/2026
+Itajaí,Costa Cavalcante,apartamento,venda,7384.6,6383.0,8813.6,9,,novembro/2026
+Itajaí,Costa Cavalcanti,apartamento,venda,7061.9,6301.1,7611.0,8,,novembro/2026
+Itajaí,Dom Bosco,apartamento,venda,9264.7,7162.2,11031.7,189,5.48,novembro/2026
+Itajaí,Dom Bosco,apartamento,aluguel,42.3,38.6,53.5,31,5.48,novembro/2026
+Itajaí,Espinheiros,apartamento,venda,6402.2,5363.6,7543.0,66,7.55,novembro/2026
+Itajaí,Espinheiros,apartamento,aluguel,40.3,34.2,48.2,33,7.55,novembro/2026
+Itajaí,Fazenda,apartamento,venda,14717.1,11733.5,18227.2,615,4.71,novembro/2026
+Itajaí,Fazenda,apartamento,aluguel,57.8,47.4,72.6,133,4.71,novembro/2026
+Itajaí,Fazendinha,apartamento,venda,12184.9,9756.1,15713.2,229,7.88,novembro/2026
+Itajaí,Fazendinha,apartamento,aluguel,80.0,57.1,94.9,40,7.88,novembro/2026
+Itajaí,Fiuza Lima,apartamento,venda,10038.1,7918.7,12334.7,19,,novembro/2026
+Itajaí,Itaipava,apartamento,venda,6113.6,5508.0,7220.5,66,7.93,novembro/2026
+Itajaí,Itaipava,apartamento,aluguel,40.4,35.5,47.9,26,7.93,novembro/2026
+Itajaí,Murta,apartamento,venda,6600.0,5869.5,7773.5,63,8.25,novembro/2026
+Itajaí,Murta,apartamento,aluguel,45.4,40.6,49.3,14,8.25,novembro/2026
+Itajaí,Nossa Senhora de Guadalupe,apartamento,venda,10833.3,7782.5,13630.8,7,,novembro/2026
+Itajaí,Praia Brava,apartamento,venda,20800.9,15305.8,27846.1,1032,4.91,novembro/2026
+Itajaí,Praia Brava,apartamento,aluguel,85.1,67.3,111.1,266,4.91,novembro/2026
+Itajaí,Praia dos Amores,apartamento,venda,14554.8,11911.1,19864.7,6,,novembro/2026
+Itajaí,Quilometro 12,apartamento,venda,5961.5,5268.5,6730.8,5,,novembro/2026
+Itajaí,Ressacada,apartamento,venda,9896.7,7825.1,11890.1,180,6.27,novembro/2026
+Itajaí,Ressacada,apartamento,aluguel,51.7,43.7,55.8,35,6.27,novembro/2026
+Itajaí,Rio do Meio,apartamento,venda,7181.3,5571.4,7565.7,11,,novembro/2026
+Itajaí,Santa Clara,apartamento,venda,19897.4,14557.2,24535.9,39,,novembro/2026
+Itajaí,Santa Regina,apartamento,venda,5215.4,4714.4,6650.1,27,9.87,novembro/2026
+Itajaí,Santa Regina,apartamento,aluguel,42.9,38.0,47.5,13,9.87,novembro/2026
+Itajaí,São João,apartamento,venda,8357.8,7000.0,10599.6,249,6.85,novembro/2026
+Itajaí,São João,apartamento,aluguel,47.7,38.6,59.0,63,6.85,novembro/2026
+Itajaí,São Judas,apartamento,venda,9213.7,7130.9,10872.0,202,6.92,novembro/2026
+Itajaí,São Judas,apartamento,aluguel,53.1,45.7,62.1,41,6.92,novembro/2026
+Itajaí,São Vicente,apartamento,venda,7583.3,6333.3,9300.1,169,7.64,novembro/2026
+Itajaí,São Vicente,apartamento,aluguel,48.3,39.7,57.1,60,7.64,novembro/2026
+Itajaí,Vila Operária,apartamento,venda,9505.5,7493.1,11497.6,252,6.44,novembro/2026
+Itajaí,Vila Operária,apartamento,aluguel,51.0,41.9,59.4,40,6.44,novembro/2026
+Itajaí,Barra do Rio,casa,venda,5500.0,3947.4,8133.3,49,9.45,novembro/2026
+Itajaí,Barra do Rio,casa,aluguel,43.3,23.8,48.8,6,9.45,novembro/2026
+Itajaí,Brilhante I,casa,venda,5578.4,4500.0,5714.3,5,,novembro/2026
+Itajaí,Cabeçudas,casa,venda,14762.1,12291.3,17422.0,46,4.88,novembro/2026
+Itajaí,Cabeçudas,casa,aluguel,60.0,55.5,74.6,11,4.88,novembro/2026
+Itajaí,Carvalho,casa,venda,5654.8,4333.3,6920.7,7,,novembro/2026
+Itajaí,Centro,casa,venda,8257.3,6355.9,11111.1,129,7.41,novembro/2026
+Itajaí,Centro,casa,aluguel,51.0,35.5,71.4,35,7.41,novembro/2026
+Itajaí,Cidade Nova,casa,venda,5388.9,3392.1,7453.7,87,7.42,novembro/2026
+Itajaí,Cidade Nova,casa,aluguel,33.3,29.9,40.7,7,7.42,novembro/2026
+Itajaí,Cordeiros,casa,venda,5864.8,3794.0,7866.7,196,8.18,novembro/2026
+Itajaí,Cordeiros,casa,aluguel,40.0,28.8,47.9,19,8.18,novembro/2026
+Itajaí,Dom Bosco,casa,venda,7772.0,5970.0,9686.2,167,5.77,novembro/2026
+Itajaí,Dom Bosco,casa,aluguel,37.4,27.1,51.0,22,5.77,novembro/2026
+Itajaí,Espinheiros,casa,venda,5000.0,3741.1,6849.6,128,8.14,novembro/2026
+Itajaí,Espinheiros,casa,aluguel,33.9,25.2,45.9,16,8.14,novembro/2026
+Itajaí,Fazenda,casa,venda,8695.7,5862.1,11066.6,145,5.29,novembro/2026
+Itajaí,Fazenda,casa,aluguel,38.3,34.6,43.5,22,5.29,novembro/2026
+Itajaí,Fazendinha,casa,venda,9131.3,5911.3,10909.1,45,,novembro/2026
+Itajaí,Itaipava,casa,venda,6818.2,4513.9,8118.5,47,,novembro/2026
+Itajaí,Limoeiro,casa,venda,4232.6,2802.4,5238.9,11,,novembro/2026
+Itajaí,Murta,casa,venda,5367.3,3992.5,6610.8,82,,novembro/2026
+Itajaí,Paciência,casa,venda,4705.9,2050.0,5491.1,7,8.52,novembro/2026
+Itajaí,Paciência,casa,aluguel,33.4,30.5,35.3,6,8.52,novembro/2026
+Itajaí,Portal 2,casa,venda,4615.4,4250.0,5694.4,5,,novembro/2026
+Itajaí,Praia Brava,casa,venda,16666.7,10669.6,22187.1,43,5.1,novembro/2026
+Itajaí,Praia Brava,casa,aluguel,70.8,55.9,99.3,10,5.1,novembro/2026
+Itajaí,Quilometro 12,casa,venda,11160.0,6266.7,12868.2,7,,novembro/2026
+Itajaí,Ressacada,casa,venda,9316.8,7575.2,10642.3,111,4.64,novembro/2026
+Itajaí,Ressacada,casa,aluguel,36.0,34.3,36.7,5,4.64,novembro/2026
+Itajaí,Rio do Meio,casa,venda,7057.1,5933.3,14203.5,28,,novembro/2026
+Itajaí,Santa Regina,casa,venda,5347.5,3854.2,7111.0,96,7.7,novembro/2026
+Itajaí,Santa Regina,casa,aluguel,34.3,27.1,44.9,11,7.7,novembro/2026
+Itajaí,São João,casa,venda,7142.9,5000.0,8734.2,185,6.52,novembro/2026
+Itajaí,São João,casa,aluguel,38.8,28.3,49.5,28,6.52,novembro/2026
+Itajaí,São Judas,casa,venda,7477.3,5186.1,9517.3,120,7.85,novembro/2026
+Itajaí,São Judas,casa,aluguel,48.9,40.8,61.0,16,7.85,novembro/2026
+Itajaí,São Vicente,casa,venda,5511.6,3706.8,7953.4,250,8.36,novembro/2026
+Itajaí,São Vicente,casa,aluguel,38.4,27.8,50.0,28,8.36,novembro/2026
+Itajaí,Vila Operária,casa,venda,7464.3,5840.3,9724.4,36,6.14,novembro/2026
+Itajaí,Vila Operária,casa,aluguel,38.2,32.0,44.4,5,6.14,novembro/2026
+Itajaí,Arraial dos Cunhas,terreno,venda,793.7,250.0,1330.9,5,,novembro/2026
+Itajaí,Baia,terreno,venda,791.7,395.6,995.8,6,,novembro/2026
+Itajaí,Balneário Santa Clara,terreno,venda,3606.4,3605.4,3606.4,5,,novembro/2026
+Itajaí,Barra do Rio,terreno,venda,2100.0,1750.0,2579.4,13,,novembro/2026
+Itajaí,Brilhante I,terreno,venda,831.7,98.1,1117.9,5,,novembro/2026
+Itajaí,Cabeçudas,terreno,venda,2731.1,1671.2,3738.4,18,,novembro/2026
+Itajaí,Canhanduba,terreno,venda,1700.0,1666.7,1963.5,5,,novembro/2026
+Itajaí,Carvalho,terreno,venda,1783.3,1617.6,1996.0,9,,novembro/2026
+Itajaí,Centro,terreno,venda,3497.9,3000.8,5535.1,25,,novembro/2026
+Itajaí,Cidade Nova,terreno,venda,1869.8,1548.1,2239.5,32,,novembro/2026
+Itajaí,Cordeiros,terreno,venda,1875.4,1499.2,2289.1,34,,novembro/2026
+Itajaí,Dom Bosco,terreno,venda,2529.6,2166.7,3156.7,17,,novembro/2026
+Itajaí,Espinheiros,terreno,venda,1343.9,994.6,1500.0,71,,novembro/2026
+Itajaí,Fazenda,terreno,venda,2757.7,919.3,4443.9,30,,novembro/2026
+Itajaí,Fazendinha,terreno,venda,2462.1,1644.5,3459.5,19,,novembro/2026
+Itajaí,Itaipava,terreno,venda,1217.1,599.7,1680.0,61,,novembro/2026
+Itajaí,Limoeiro,terreno,venda,645.1,585.4,995.8,13,,novembro/2026
+Itajaí,Murta,terreno,venda,1458.0,1172.2,1630.7,10,,novembro/2026
+Itajaí,Paciência,terreno,venda,500.0,486.5,623.4,8,,novembro/2026
+Itajaí,Praia Brava,terreno,venda,3827.2,3605.1,5380.3,14,,novembro/2026
+Itajaí,Quilometro 12,terreno,venda,1583.3,1264.4,1767.2,7,,novembro/2026
+Itajaí,Ressacada,terreno,venda,2196.3,1380.3,3023.1,20,,novembro/2026
+Itajaí,Rio do Meio,terreno,venda,1750.0,1468.1,2835.5,103,,novembro/2026
+Itajaí,Salseiros,terreno,venda,1632.8,1145.8,2000.4,20,,novembro/2026
+Itajaí,Santa Regina,terreno,venda,1559.8,1000.0,1925.0,13,,novembro/2026
+Itajaí,São João,terreno,venda,2674.8,2402.9,3405.3,48,,novembro/2026
+Itajaí,São Judas,terreno,venda,2784.2,2311.9,3271.6,18,,novembro/2026
+Itajaí,São Roque,terreno,venda,1201.9,833.3,1814.8,5,,novembro/2026
+Itajaí,São Vicente,terreno,venda,2401.6,2056.8,2961.8,54,,novembro/2026
+Itajaí,Vila Operária,terreno,venda,3145.8,2740.1,4139.9,12,,novembro/2026
+Itajaí,Balneário Santa Clara,sala,aluguel,111.2,91.1,141.3,6,,novembro/2026
+Itajaí,Centro,sala,venda,11206.0,8136.4,13900.5,81,8.21,novembro/2026
+Itajaí,Centro,sala,aluguel,76.7,56.7,100.0,141,8.21,novembro/2026
+Itajaí,Cordeiros,sala,aluguel,58.3,37.6,90.4,27,,novembro/2026
+Itajaí,Dom Bosco,sala,aluguel,49.9,42.2,58.8,12,,novembro/2026
+Itajaí,Fazenda,sala,venda,12215.5,8655.3,17267.8,16,8.09,novembro/2026
+Itajaí,Fazenda,sala,aluguel,82.4,60.6,91.1,16,8.09,novembro/2026
+Itajaí,Fazendinha,sala,aluguel,120.0,82.7,158.0,13,,novembro/2026
+Itajaí,Praia Brava,sala,venda,29592.6,18387.6,36000.0,9,5.63,novembro/2026
+Itajaí,Praia Brava,sala,aluguel,138.8,119.6,166.7,19,5.63,novembro/2026
+Itajaí,Sala Comercial Para Locação,sala,aluguel,55.0,48.3,57.7,5,,novembro/2026
+Itajaí,São João,sala,aluguel,64.5,50.8,77.8,20,,novembro/2026
+Itajaí,São Judas,sala,aluguel,70.0,57.1,82.1,21,,novembro/2026
+Itajaí,São Vicente,sala,aluguel,51.6,44.6,85.1,34,,novembro/2026
+Itajaí,Vila Operária,sala,aluguel,52.6,46.9,71.7,14,,novembro/2026
+Itajaí,Barra do Rio,galpao,aluguel,32.1,18.1,35.0,10,,novembro/2026
+Itajaí,Brilhante I,galpao,aluguel,25.0,20.9,28.0,8,,novembro/2026
+Itajaí,Canhanduba,galpao,venda,6000.8,6000.1,6003.3,9,4.8,novembro/2026
+Itajaí,Canhanduba,galpao,aluguel,24.0,22.6,28.0,7,4.8,novembro/2026
+Itajaí,Cidade Nova,galpao,aluguel,24.0,19.4,27.5,7,,novembro/2026
+Itajaí,Cordeiros,galpao,venda,5491.9,4004.9,6004.4,6,6.56,novembro/2026
+Itajaí,Cordeiros,galpao,aluguel,30.0,24.0,36.1,29,6.56,novembro/2026
+Itajaí,Dom Bosco,galpao,aluguel,35.8,32.9,43.2,8,,novembro/2026
+Itajaí,Espinheiros,galpao,venda,4748.1,3541.7,5566.3,6,6.32,novembro/2026
+Itajaí,Espinheiros,galpao,aluguel,25.0,16.2,28.0,21,6.32,novembro/2026
+Itajaí,Itaipava,galpao,venda,4304.8,3442.0,5379.3,12,7.36,novembro/2026
+Itajaí,Itaipava,galpao,aluguel,26.4,24.0,30.0,37,7.36,novembro/2026
+Itajaí,Quilometro 12,galpao,aluguel,29.0,26.5,30.0,19,,novembro/2026
+Itajaí,Ressacada,galpao,aluguel,35.6,29.4,46.3,9,,novembro/2026
+Itajaí,Rio do Meio,galpao,aluguel,24.7,22.4,25.6,6,,novembro/2026
+Itajaí,Salseiros,galpao,venda,5999.9,5982.2,6200.0,8,5.64,novembro/2026
+Itajaí,Salseiros,galpao,aluguel,28.2,23.3,32.0,29,5.64,novembro/2026
+Itajaí,São João,galpao,venda,4798.0,3181.8,5172.4,13,5.65,novembro/2026
+Itajaí,São João,galpao,aluguel,22.6,19.6,25.5,14,5.65,novembro/2026
+Itajaí,São Judas,galpao,venda,6483.4,4735.8,6986.5,6,,novembro/2026
+Itajaí,São Roque,galpao,aluguel,27.0,26.0,30.4,13,,novembro/2026
+Itajaí,São Vicente,galpao,venda,4163.6,2489.3,5722.0,6,9.37,novembro/2026
+Itajaí,São Vicente,galpao,aluguel,32.5,27.5,37.0,21,9.37,novembro/2026
